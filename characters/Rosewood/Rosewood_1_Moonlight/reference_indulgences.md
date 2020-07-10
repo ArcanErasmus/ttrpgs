@@ -1,0 +1,266 @@
+# Rosewood's Indulgence References
+## Creature Rules
+- Undead Immunities
+    - As written
+        - mind-affecting
+        - bleed, death effects, disease, paralysis, poison, sleep effects, stunning
+        - nonlethal damage, ability drain, energy drain
+        - physical ability score damage, exhaustion, fatigue
+        - anything requiring a fort save (unless harmless or also works on objects)
+        - (do not breath, eat, sleep)
+    - As applied to gourmand essence immunity list
+        - sleep effects
+        - hunger
+        - nauseated
+        - fear
+        - bleed
+        - charm
+        - paralysis
+        - drowning
+        - mind-affecting
+        - poison
+        - disease
+        - stun
+        - ability drain
+        - level drain
+        - death effects
+        - "any" could refer to the more specialized immunities detailed above, like physical ability score damage, or effects that require a Fort save that don't affect objects and aren't harmless. additionally, it could refer to simple immunities not already listed in the essence restriction chart, like exhaustion, fatigue, or non-lethal damage.
+
+## Things I Might Eat, By Location
+### Swamps (Backstory)
+- Centipede, Giant
+    - https://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-giant
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Weapon Finesse
+        - Immunities: Mind-affecting
+        - Languages: None
+        - Natural Armor: +2
+        - Natural Attacks: None usable
+        - Phylocrux: Vermin, 1 HD (*ant haul*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Climb, Perception, Stealth
+        - Special Abilities: Poison (Ex)
+        - Speeds: 40 ft land, 40 ft climb
+        - SR: No
+
+### First Dungeon Cave
+- Choker
+    - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Improved Initiative, Skill Focus
+        - Immunities: None
+        - Languages: Undercommon
+        - Natural Armor: +4
+        - Natural Attacks: 2 tentacles 1d4
+        - Phylocrux: Aberration, 3 HD (*long arm*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Climb, Stealth
+        - Special Abilities: Strangle (Ex)
+        - Speeds: 20 ft land, 10 ft climb
+        - SR: No
+
+- Ettercap
+    - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/ettercap
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Great Fortitude, Improved Initiative
+        - Immunities: None
+        - Languages: Common
+        - Natural Armor: +2
+        - Natural Attacks: 2 claws 1d4
+        - Phylocrux: Aberration, 4 HD (*long arm*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft, low-light
+        - Skills: Climb, Craft (trapmaking), Perception, Stealth
+        - Special Abilities: Poison (Ex), Traps (Ex), Web (Ex)
+        - Speeds: 30 ft land, 30 ft climb
+        - SR: No
+
+- Shimmerwing Dragonfly
+    - https://www.d20pfsrd.com/bestiary/monster-listings/vermin/shimmerwing-dragonfly
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Flyby Attack
+        - Immunities: Mind-affecting
+        - Languages: None
+        - Natural Armor: None
+        - Natural Attacks: Claw 1d2
+        - Phylocrux: Vermin, 1 HD (*ant haul*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Fly
+        - Special Abilities: None
+        - Speeds: 10 ft land, 60 ft fly (perfect)
+        - SR: No
+
+- Skeleton
+    - https://www.d20pfsrd.com/bestiary/monster-listings/undead/skeleton-medium
+    - Chosen essence: ?
+    - Available essences:
+        - DR: 5/bludgeoning
+        - Feats: Improved Initiative
+        - Immunities: Cold, undead traits
+        - Languages: None
+        - Natural Armor: +2
+        - Natural Attacks: 2 claws 1d4
+        - Phylocrux: Undead, 1 HD (*grasping corpse*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: None
+        - Special Abilities: None
+        - Speeds: 30 ft land
+        - SR: No
+
+- Stirge
+    - https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Weapon Finesse
+        - Immunities: None
+        - Languages: None
+        - Natural Armor: None
+        - Natural Attacks: None
+        - Phylocrux: Magical Beast, 1 HD (*cure light wounds*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft, low-light, scent
+        - Skills: Fly, Stealth
+        - Special Abilities: Attach (Ex), Blood Drain (Ex)
+        - Speeds: 10 ft land, 40 ft fly (average)
+        - SR: No
+
+- Vargouille
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/vargouille
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Skill Focus, Weapon Finesse
+        - Immunities: None
+        - Languages: Infernal
+        - Natural Armor: +3
+        - Natural Attacks: None usable
+        - Phylocrux: Outsider, 3 HD (*reduce person*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Fly, Intimidate, Perception, Stealth
+        - Special Abilities: Kiss (Su), Poison (Su), Shriek (Su)
+        - Speeds: 30 ft fly (good)
+        - SR: No
+
+### Second Dungeon, Under Spire
+- Troglodyte
+    - https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/troglodyte
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Great Fortitude
+        - Immunities: None
+        - Languages: Draconic
+        - Natural Armor: +6
+        - Natural Attacks: 2 claws 1d4
+        - Phylocrux: Humanoid, 2 HD (*true strike*)
+        - Resistances: None
+        - Senses: Darkvision 90 ft
+        - Skills: Stealth
+        - Special Abilities: None
+        - Speeds: 30 ft land
+        - SR: No
+
+### First World
+- Bulabar
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/bulabar
+    - Chosen essence: ?
+    - Available essences:
+        - DR: 5/cold iron
+        - Feats: Ability Focus, Toughness, Weapon Finesse
+        - Immunities: None
+        - Languages: Common (fey dialect), Gnome
+        - Natural Armor: +3
+        - Natural Attacks: 2 claws 1d2
+        - Phylocrux: Fey, 1 HD (*disguise self*)
+        - Resistances: None
+        - Senses: None
+        - Skills: Appraise, Climb, Cr (alchemy), Disable Device, Kn (engineering), Perception, Stealth, Use Magic Device
+        - Special Abilities: Disassemble (Ex)
+        - Speeds: 30 ft land, 10 ft burrow
+        - SR: No
+
+- Tooth Fairy
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/tooth-fairy
+    - Chosen essence: ?
+    - Available essences:
+        - DR: 2/cold iron
+        - Feats: Weapon Finesse, Improved Steal, Greater Steal
+        - Immunities: None
+        - Languages: Sylvan
+        - Natural Armor: None
+        - Natural Attacks: None usable
+        - Phylocrux: Fey, 2 HD (*disguise self*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Acrobatics, Escape Artist, Fly, Perception, Sense Motive, Stealth
+        - Special Abilities: Death Throes (Su), Pliers (Su), Tricky Thief (Su)
+        - Speeds: 15 ft land, 60 ft fly (perfect)
+        - SR: No
+
+- Twigjack
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Agile Maneuvers, Skill Focus, Weapon Finesse
+        - Immunities: None
+        - Languages: Common (fey dialect), Sylvan
+        - Natural Armor: +2
+        - Natural Attacks: 2 claws 1d4
+        - Phylocrux: Fey, 5 HD (*disguise self*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Acrobatics, Climb, Disable Device, Kn (nature), Perception, Stealth
+        - Special Abilities: Bramble Jump (Su), Splinterspray (Ex)
+        - Speeds: 30 ft land
+        - SR: No
+
+- Mockingfey
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/mockingfey
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Flyby Attack, Weapon Finesse
+        - Immunities: None
+        - Languages: None
+        - Natural Armor: None
+        - Natural Attacks: 2 talons 1d2
+        - Phylocrux: Fey, 3 HD (*disguise self*)
+        - Resistances: None
+        - Senses: None
+        - Skills: Acrobatics, Disguise, Fly, Perception, Stealth
+        - Special Abilities: Mock (Su)
+        - Speeds: 20 ft land, 60 ft fly (perfect)
+        - SR: No
+
+- Skin Stealer
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/skin-stealer
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Deceitful, Weapon Finesse
+        - Immunities: None
+        - Languages: Aklo, Common (fey dialect), Elven, Sylvan
+        - Natural Armor: +2
+        - Natural Attacks: 2 claws 1d4
+        - Phylocrux: Fey, 3 HD (*disguise self*)
+        - Resistances: None
+        - Senses: None
+        - Skills: Acrobatics, Bluff, Disguise, Escape Artist, Heal, Perception, Sense Motive, Sleight of Hand, Stealth
+        - Special Abilities: Steal Skin (Su)
+        - Speeds: 30 ft land
+        - SR: No
