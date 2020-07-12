@@ -13,6 +13,24 @@
 
 ## Mimic Friend
 - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic/
+- Forms
+    - several ornate statutes
+    - several ornate medium-sized urns and vases
+    - ornate tower shield for large character
+    - Thyrm's buckler
+    - throne of elderon
+    - the green mother's staff (basketball sized black star sapphire on top)
+        - https://pathfinderwiki.com/wiki/The_Green_Mother
+    - ornate grandfather clock
+    - complicated music box (think Shrek)
+    - 1 person carriage
+    - Bell of Mercy https://www.d20pfsrd.com/magic-items/artifacts/minor-artifacts/bell-of-mercy
+    - ornate medium armor (solid)
+    - ceremonial [only one armor mod you silly goose] medium fullplate armor (technically wearable)
+        - burnished, deflecting, double plate, jarring, razored, slumbering, vitalguard
+    - starfountain firework https://www.d20pfsrd.com/equipment/weapons/Alchemical-weapons/#TOC-Starfountain-Firework
+    - several ice sculptures
+    - medium wind chimes
 
 ## Psionics
 - Power Points (max 2): OO
@@ -46,6 +64,9 @@
 
 ## Phylocruxes (Sp) (CL 3)
 - 3/day - *cure light wounds* (1d8+3)
+- rules
+    - No verbal, somatic, focus, material components
+    - Provokes AoO
 
 ### Grappling rules
 - -4 if both hands not free
