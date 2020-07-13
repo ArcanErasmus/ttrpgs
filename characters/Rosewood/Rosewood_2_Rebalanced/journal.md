@@ -208,7 +208,7 @@ Furthermore, as a standard action, you may fill one living creature within 30 fe
 - Alignment: Any neutral
 - HD: d12
 - Starting Wealth: 5d6x10 (avg 175 gp), plus free 10 gp or less outfit
-- Class Skills: Climb, Craft, Handle Animal, Intimidate, Kn (dungeoneering), Kn (engineering), Kn (nature), Profession, Ride, Survival, Swim
+- Class Skills: Acrobatics, Climb, Craft, Handle Animal, Intimidate, Kn (dungeoneering), Kn (nature), Profession, Ride, Survival, Swim
 - Skill Ranks Per Level: 4 + Int mod
 - Proficiencies: Simple and martial weapons, all armor and all shields
 Table: Gestalt - Gourmand, Grand Champion; Large character

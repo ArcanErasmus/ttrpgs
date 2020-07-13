@@ -70,16 +70,18 @@
 ### Weapon Advantage (Ex)
 - At every even lvl, choose stacking bonus
 - Apply bonuses to fav wpns
-1. Add wpn to fav list
-2. +1 confirm crit
-3. +1 CMB disarm, sunder, trip
-4. +1 CMD vs disarm, sunder, drip
-5. +1 intimidate
+    1. Add wpn to fav list
+    2. +1 confirm crit
+    3. +1 CMB disarm, sunder, trip
+    4. +1 CMD vs disarm, sunder, drip
+    5. +1 intimidate
+- Chosen: 2, 2
 
 ### Exercise
 - At lvl 2 & every 4 more
 - +1 Str or Dex or Con, like 4-lvl ability inc
 - Can't choose same twice in a row
+- Chosen: Str
 
 ### Uncanny Dodge (Ex)
 - No flat-footed
@@ -94,10 +96,12 @@
 ### Weapon Dominance (Ex)
 - At lvl 3 & every 4 more
 - Select bonus to fav wpns, pick x2 max for each
-1. +1 atk/dmg
-2. +1 shield bonus to AC
-3. Crit damage +1d4/6/8 for x2/3/4+
-4. +1 Will
+    1. +1 atk/dmg
+    2. +1 shield bonus to AC
+    3. Crit damage +1d4/6/8 for x2/3/4+
+    4. +1 Will
+- Chosen: 4
+
 
 # Future Class Features (lvl 5)
 ## Gourmand
@@ -107,6 +111,11 @@
 ### Indulgences
 - +1
 
+### Essence Restrictions
+- Natural armor +2 -> +3
+- Immunities: fear, shaken, bleed, charm
+- Special Attacks (Su)
+- Climb speed
 
 ## Grand Champion
 ### Practice

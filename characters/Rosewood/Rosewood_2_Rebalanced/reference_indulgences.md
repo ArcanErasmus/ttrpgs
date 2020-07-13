@@ -173,6 +173,23 @@
         - Special Abilities: None
         - Speeds: 30 ft land
         - SR: No
+- Lightning Elemental, Medium
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Dodge, Improved Initiative, Weapon Finesse
+        - Immunities: electricity, elemental traits
+        - Languages: Auran
+        - Natural Armor: +1
+        - Natural Attacks: slam 1d6 + 1d4 electricity
+        - Phylocrux: Outsider, 4 HD (*reduce person*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Acrobatics, Escape Artist, Fly, Kn (planes), Perception
+        - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
+        - Speeds: 100 ft fly (perfect)
+        - SR: No
 
 ### First World
 - Bulabar

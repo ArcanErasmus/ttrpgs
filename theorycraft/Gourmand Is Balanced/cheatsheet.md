@@ -3,17 +3,18 @@
 | Weapon       | Atk | Damage        | Crit     | Range  | Notes
 |--------------|-----|---------------|----------|--------|------------
 | Bite         | +7  | 1d8+4  (BPS)  |    20/x2 |        | Primary, Grab
+|--------------|-----|---------------|----------|--------|------------
 | Regurgitate  | +4  | 1d6+4  (B)    |    20/x2 |  20 ft | See class features
 | Acid Breath  |     | 3d4+9  (Acid) |          |  10 ft | Ref DC 16 half, 5/day
 |   Cone       |     |               |          |        | Cone
 |   Line       |     | +50%          |          |  x2    | Single target
 |   Burst      |     |               |          |  x2    | 10 ft radius burst on impact
 |--------------|-----|---------------|----------|--------|------------
-| Morningstar  | +7  | 1d8+4 (BP)    |    20/x2 |        | Cold Iron
-| Shield       | +7  | 1d6+4 (P)     |    20/x2 |        | Spiked, lose AC if bash
-| Sickle       | +7  | 1d6+4 (S)     |    20/x2 |        | Silver, Trip
-| Sling        | +4  | 1d4+4 (B)     |    20/x2 |  50 ft |
-| Armor Spikes | +7  | 1d6+4 (P)     |    20/x2 |        | Add damage to grapple attacks
+| Morningstar  | +7  | 1d8+4  (BP)   |    20/x2 |        | Cold Iron
+| Shield       | +7  | 1d6+4  (P)    |    20/x2 |        | Spiked, lose AC if bash
+| Sickle       | +7  | 1d6+4  (S)    |    20/x2 |        | Silver, Trip
+| Sling        | +4  | 1d4+4  (B)    |    20/x2 |  50 ft |
+| Armor Spikes | +7  | 1d6+4  (P)    |    20/x2 |        | Add damage to grapple attacks
 
 ## SLAs (Sp) (CL 5)
 - at will - *mage hand*, *prestidigitation*

@@ -11,7 +11,7 @@
 ## Base Statistics
 - HD: d10
 - Skill ranks: 4+int
-- Class Skills: Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (dungeoneering) (Int), Knowledge (engineering) (Int), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str)
+- Class Skills: Acrobatics (Dex), Climb (Str), Craft (Int), Handle Animal (Cha), Intimidate (Cha), Knowledge (dungeoneering) (Int), Profession (Wis), Ride (Dex), Survival (Wis), and Swim (Str)
 Starting Wealth: 5d6 x 10 gp (avg 175), plus free outfit up to 10 gp
 - BAB: Full
 - Saves: Good Fort, Good Ref, Poor Will

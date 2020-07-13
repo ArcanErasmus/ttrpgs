@@ -3,7 +3,7 @@
 - Large humanoid (giant)
 - Actual Deity: Unwittingly serves the gluttony aspect of a major evil power
 - Worshipped Deity: Ydersius, the Primal Coil https://pathfinderwiki.com/wiki/Ydersius
-- 14'7", 3635 lbs, 42 yo
+- 14'7", 3631 lbs, 42 yo, no hair, sable eyes
 - tall ogre with dark blue-green tough hide, almost scaly. build of a linebacker, with huge bull-like horns (though tall, not wide)
 - Favored Class: Gourmand
 
@@ -37,60 +37,60 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 |------|------|-------|------|
 | Fort | Con  | +11   | -
 | Ref  | Dex  | +7    | -
-| Will | Wis  | +0    | -
+| Will | Wis  | +1    | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Drawback (Unlearned): -2 to untrained knowledge checks, except psionics
 - Trait (Serpentine Squeeze): +1 trait bonus to CMB/CMD to grapple
 - Trait (Suck in Your Gut): Only half penalties when squeezing
-- Feat (Mental Leap): +2 acrobatics to jump, expend focus to make +10
 - Ability (Grab): +4 bonus to CMB to grapple
 - Item (Whet Bone): Chew 15 mins, +1 dmg next bite
+- Class (Weapon Advantage): +2 to confirm crits with natural weapons
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
-| 1 |   | C | Acrobatics         | Dex | +8  | +2
-|   |   |   | Appraise           | Int |     | -
-|   | T | C | Autohypnosis       | Wis |     | -
-|   |   |   | Bluff              | Cha |     | -
-| 1 |   | C | Climb              | Str | +11 | -
-|   |   | C | Craft              | Int |     | -
-| 3 |   | C |   Cooking          | Int | +6  | -
-|   |   |   | Diplomacy          | Cha |     | -
-|   | T |   | Disable Device     | Dex |     | -
-|   |   |   | Disguise           | Cha |     | -
-|   |   |   | Escape Artist      | Dex |     | -
-|   |   |   | Fly                | Dex |     | -
-| 1 | T | C | Handle Animal      | Cha | +4  | -
-|   |   |   | Heal               | Wis |     | -
+| 4 |   | C | Acrobatics         | Dex | +9  |
+|   |   |   | Appraise           | Int |     |
+|   | T |   | Autohypnosis       | Wis |     |
+|   |   |   | Bluff              | Cha |     |
+| 1 |   | C | Climb              | Str | +11 |
+|   |   | C | Craft              | Int |     |
+| 4 |   | C |   Cooking          | Int | +7  |
+|   |   |   | Diplomacy          | Cha |     |
+|   | T |   | Disable Device     | Dex |     |
+|   |   |   | Disguise           | Cha |     |
+|   |   |   | Escape Artist      | Dex |     |
+|   |   |   | Fly                | Dex |     |
+| 1 | T | C | Handle Animal      | Cha | +4  |
+|   |   |   | Heal               | Wis |     |
 | 1 |   | C | Intimidate         | Cha | +4  | +4
-|   | T |   | Kn (arcana)        | Int |     | -
-| 1 | T | C | Kn (dungeoneering) | Int | +4  | -
-|   | T |   | Kn (engineering)   | Int |     | -
-|   | T |   | Kn (geography)     | Int |     | -
-|   | T |   | Kn (history)       | Int |     | -
-|   | T |   | Kn (local)         | Int |     | -
-| 1 | T | C | Kn (nature)        | Int | +4  | -
-|   | T |   | Kn (nobility)      | Int |     | -
-|   | T |   | Kn (planes)        | Int |     | -
-| 1 | T | C | Kn (psionics)      | Int | +4  | -
-|   | T |   | Kn (religion)      | Int |     | -
-|   | T |   | Linguistics        | Int |     | -
-| 1 |   | C | Perception         | Wis | +3  | -
-|   |   |   | Perform            | Cha |     | -
-|   | T | C | Profession         | Wis |     | -
-|   |   | C | Ride               | Dex |     | -
-|   |   |   | Sense Motive       | Wis |     | -
-|   | T |   | Sleight of Hand    | Dex |     | -
-|   | T |   | Spellcraft         | Int |     | -
-|   |   | C | Stealth            | Dex | -6  | -
-| 1 |   | C | Survival           | Wis | +4  | -
-| 1 |   | C | Swim               | Str | +11 | -
-|   | T |   | Use Magic Device   | Cha |     | -
+|   | T |   | Kn (arcana)        | Int |     |
+| 1 | T | C | Kn (dungeoneering) | Int | +4  |
+|   | T |   | Kn (engineering)   | Int |     |
+|   | T |   | Kn (geography)     | Int |     |
+|   | T |   | Kn (history)       | Int |     |
+|   | T |   | Kn (local)         | Int |     |
+| 1 | T | C | Kn (nature)        | Int | +4  |
+|   | T |   | Kn (nobility)      | Int |     |
+|   | T |   | Kn (planes)        | Int |     |
+|   | T |   | Kn (psionics)      | Int |     |
+|   | T |   | Kn (religion)      | Int |     |
+|   | T |   | Linguistics        | Int |     |
+|   |   |   | Perception         | Wis |     |
+|   |   |   | Perform            | Cha |     |
+|   | T | C | Profession         | Wis |     |
+| 1 |   | C | Ride               | Dex | +6  |
+|   |   |   | Sense Motive       | Wis |     |
+|   | T |   | Sleight of Hand    | Dex |     |
+|   | T |   | Spellcraft         | Int |     |
+|   |   |   | Stealth            | Dex | -6  |
+| 1 |   | C | Survival           | Wis | +4  |
+| 1 |   | C | Swim               | Str | +11 |
+|   | T |   | Use Magic Device   | Cha |     |
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: -6 ACP, +3 max Dex, x4 run, 15% ASFC, reduced speed + 5 ft**
-- 13/16
+- **Current encumbrance modifiers: -16 ACP, +2 max Dex, x4 run, 15% ASFC, reduced speed + 5 ft**
+- 16/16
     - 4x(4+0) grand champion
 
 ## Languages, Proficiencies
@@ -123,7 +123,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Eat twice as much as normal (size Large, so 4x that of a Medium char)
 - The deity shared some of its insight with you, but the waves of hunger impair your judgement
 
-### (D) Unlearned (Learned Area: Psionics)
+### (D) Unlearned (Learned Area: Geography)
 - Cannot attempt untrained Knowledge check, except chosen area, even at DC 10
 - Can attempt other checks untrained, at -2 penalty, with access to relevant library
 
@@ -148,19 +148,18 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Must be made with bite attack
 - Can make all AoOs while flat-footed
 
-### Power Attack [Antihero Bonus, lvl 1]
-- Take -1 melee atk & CMB for +2 melee dmg
-- +50% if 1.5x Str, -50% if 0.5x Str
-- At BAB +4 & every +4 after, increase by -1/+2
-- Choose before making atk, lasts until start of next turn
+### Rapid Metabolism [Antihero Bonus, lvl 1]
+- Heal normal + double Con mod hp per day
+- Heal even without rest
+- If tended by Heal skill, heal double normal + double Con mod
 
-### Shape Breath Weapon [lvl 1]
+### Mind over Body [lvl 1]
+- Heal 1 + Con mod ability damage per day
+
+### Shape Breath Weapon [lvl 3]
 - Release as line, double range, 50% more damage to single target
 - Release as burst, double range (max 30 ft), radius as normal range, normal damage
 
-### Extra Stomach [lvl 3]
-- Gain additional stomach
-
 ### Improved Natural Attack [Gourmand Bonus, lvl 4]
-- Choose one natural weapon
+- Choose one natural weapon: Bite
 - Damage goes up by 1 size

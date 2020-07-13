@@ -122,14 +122,20 @@
 - ?
 
 ## Feats (Gourmand bonus at 1, 4, 7, 10, 13, 16, 19)
+- 3.5e breath weapon feats http://marksworld.zeemer.com/files/feats/breathweapon.html
 - any lvl
-    <!-- - Power Attack https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat -->
+    - Power Attack https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat
         - Improved Bull Rush https://www.d20pfsrd.com/feats/combat-feats/improved-bull-rush-combat
         - Improved Sunder https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat
     - Belching Blast
     - Combat Reflexes https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat
     - Shield Focus https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat
         - Mobile Bulwark Style https://www.d20pfsrd.com/feats/combat-feats/mobile-bulwark-style-combat-style
+    <!-- * Mind Over Body https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/mind-over-body -->
+    <!-- * Rapid Metabolism https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/rapid-metabolism -->
+    - Reckless Offense https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/reckless-offense
+    <!-- - Hungry Reflexes -->
+    <!-- - Shape Breath Weapon https://www.d20pfsrd.com/feats/3rd-party-feats/frog-god-games/monster-feats-3pp-frog-god-games/shape-breath-weapon -->
 - lvl 3
     - Extra Stomach
         - Belly Bulwark
@@ -137,6 +143,7 @@
 - lvl 4
     - Awesome Blow https://www.d20pfsrd.com/feats/monster-feats/awesome-blow
     - Mobile Fortress https://www.d20pfsrd.com/feats/combat-feats/mobile-fortress-combat
+    <!-- - Improved Natural Attack https://www.d20pfsrd.com/feats/monster-feats/improved-natural-attack -->
 - lvl 5
     - Beastly Belch
 - lvl 6

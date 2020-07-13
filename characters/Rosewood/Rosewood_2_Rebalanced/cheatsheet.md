@@ -3,10 +3,16 @@
 | Weapon         | Atk | Damage        | Crit     | Range  | Notes
 |----------------|-----|---------------|----------|--------|------------
 | Bite           | +10 | 3d6+7  (BPS)  |    20/x2 | --     | Primary, Grab
-| Gore           | +10 | 2d8+7  (P)    |    20/x2 | --     | Primary, 
+| Gore           | +10 | 2d8+7  (P)    |    20/x2 | --     | Primary
 | Tentacle       | +10 | 2d6+7  (B)    |    20/x2 | --     | Primary, Grab, 20 ft reach
+|----------------|-----|---------------|----------|--------|------------
 | Regurgitate    | +5  | 1d6+7  (B)    |    20/x2 |  20 ft | See class features
-| Acid Breath    | --  | 2d4+10 (Acid) | --       |  10 ft | Cone, 7/day, Ref DC 18 half
+| Acid Breath    |     | 2d4+10 (Acid) |          |  10 ft | 7/day, Ref DC 18 half
+|   Cone         |     |               |          |        | Cone
+|   Line         |     | +50%          |          |  x2    | Single target
+|   Burst        |     |               |          |  x2    | 10 ft radius burst on impact
+|----------------|-----|---------------|----------|--------|------------
+| Sling          | +4  | 1dd+7  (B)    |    20/x2 |  75 ft | +1 atk & d6 dmg if using bullet
 
 ## Mimic Friend
 - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic/
@@ -44,7 +50,7 @@
 - No effect on already broken object
 
 ## Phylocruxes (Sp) (CL 4)
-- 3/day - *cure light wounds* (1d8+4)
+- 3/day - none
 - rules
     - No verbal, somatic, focus, material components
     - Provokes AoO
@@ -84,12 +90,11 @@
 ### Rules
 - 12 AC, 10 hp
 - Size Medium capacity
-- 2d6+7 (B) + 2d4+4 (Acid)
+- 3d6+7 (B) + 2d4+4 (Acid)
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 10/10hp - Lightning Elemental, Small
-2. 10/10hp - empty
+1. 10/10hp - Lightning Elemental, Medium
 
 ## Indulgence Quick Info
 ### Rules
@@ -146,7 +151,7 @@
         - SR: No
 2. Stirge
     - https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge
-    - Chosen essence: Phylocrux (*cure light wounds*)
+    - Chosen essence: Darkvision 60 ft
     - Available essences:
         - DR: None
         - Feats: Weapon Finesse
