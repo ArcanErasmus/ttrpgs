@@ -1,9 +1,6 @@
 # Rosewood's Notes
 ## Useful References
 - https://www.d20pfsrd.com/classes/3rd-party-classes/d20pfsrd-com-publishing/gourmand
-- https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/soulknife
-- https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/classes/soulknife/archetypes/dreamscarred-press/moonlight-meditant
-- https://forums.giantitp.com/showthread.php?566947-PF-DSP-The-New-Soulknife-Handbook-Mind-Become-Matter
 
 ## Achievement Feat Progress
 ### History of Scars
@@ -32,17 +29,6 @@
 - drain taken: 0
 - ability dmg healed: 9
 
-## What Rosewood Wants In The Garden Dimension And Beyond
-<!-- 1. Some creatures to eat for essences and general meals -->
-<!-- 2. Get into fights for achievment feat progress
-    - Take damage
-    - Kill Small or smaller creatures -->
-3. Reinforce four-mirror armor into breastplate/agile (nonmetal if possible)
-    - Add armor spikes!
-<!-- 4. Acquire heavy shield -->
-5. Earn any amount of money ever?
-    - Alternately, magic items (most wondrous items actually suck for me)
-
 ## Cool Items
 - Mundane Items
     - Battle Mask (50gp) https://www.d20pfsrd.com/equipmenT/goods-and-services/containers-bags-boxes-more/#TOC-Mask-Battle
@@ -54,8 +40,6 @@
     - Fleshwarped Scorpion's Tail (18505gp) https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/fleshwarped-scorpion-s-tail
     - Infested Bandages (13500gp) https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/infested-bandages
     - Rending Claw Blade (10305gp) https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/rending-claw-blade
-    - Shifter's Sorrow (12780gp) https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/shifter-s-sorrow
-        - This is effective *against* me
     - Talons of Leng (67000gp) https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/talons-of-leng
         - Maybe lift this ability to use on another item
     - Deliquescent Gloves (8000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-deliquescent
@@ -135,177 +119,46 @@
         - Western Star (4000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/western-star-ioun-stone
 
 ## Prestige Classes
-- Formless Master https://www.d20pfsrd.com/classes/3rd-party-prestige-classes/dreamscarred-press/formless-master
-
-## Shifting Feats
-- https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats
-    <!-- - Abomination Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/abomination-shift-shifting/ -->
-    <!-- - Beasthide Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/beasthide-shift-shifting/ -->
-    <!-- - Deathsting Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/deathsting-shift-shifting/ -->
-    - Extra Shifting https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/extra-shifting-shifting
-    - Longstride Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/longstride-shift-shifting
-    - Magnitude Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/magnitude-shift-shifting
-    <!-- - Rapid Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/rapid-shifting-shifting/ -->
-    - Sensory Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/sensory-shift-shifting
-        - Similar to Blind-Fight https://www.d20pfsrd.com/feats/combat-feats/blind-fight-combat
-    - Strongclaw Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/strongclaw-shift-shifting
-    - Swiftwing Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/swiftwing-shift-shifting
-    - Wavelord Shift https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/shifting-feats/wavelord-shift-shifting
+- ?
 
 ## Feats (Gourmand bonus at 1, 4, 7, 10, 13, 16, 19)
-* see blade skills below
 - any lvl
-    - (G) Blood Feast https://www.d20pfsrd.com/feats/combat-feats/blood-feast-combat-monster
-    - (G) Deflect Arrows https://www.d20pfsrd.com/feats/combat-feats/deflect-arrows-combat
-    - (G) Dirty Fighting https://www.d20pfsrd.com/feats/combat-feats/dirty-fighting-combat
-    - (G) Equipment Trick (Rope) https://www.d20pfsrd.com/feats/combat-feats/equipment-trick-combat/#Rope_Tricks
-    - (G) Horrific Gorging https://www.d20pfsrd.com/feats/combat-feats/horrific-gorging-combat-monster
-    - (G) Improved Grapple https://www.d20pfsrd.com/feats/combat-feats/improved-grapple-combat
-    - (G) Power Attack https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat
-        - (G) Improved Bull Rush https://www.d20pfsrd.com/feats/combat-feats/improved-bull-rush-combat
-        - (G) Improved Sunder https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat
-    - (G) Throat Slicer https://www.d20pfsrd.com/feats/combat-feats/throat-slicer-combat
-    - Accursed https://www.d20pfsrd.com/feats/story-feats/accursed-story
+    <!-- - Power Attack https://www.d20pfsrd.com/feats/combat-feats/power-attack-combat -->
+        - Improved Bull Rush https://www.d20pfsrd.com/feats/combat-feats/improved-bull-rush-combat
+        - Improved Sunder https://www.d20pfsrd.com/feats/combat-feats/improved-sunder-combat
     - Belching Blast
-    - Feral Heart https://www.d20pfsrd.com/feats/story-feats/feral-heart-story
-    * Hungry Reflexes
-    <!-- - Longshanks https://www.d20pfsrd.com/feats/monster-feats/longshanks -->
-    * Mighty Frame https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/feats/#Mighty_Frame_Heritage
-    * Noxious Bite https://www.d20pfsrd.com/feats/monster-feats/noxious-bite
-    - Rabid Bite https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/rabid-bite-combat
-        - Superior Rabid Bite https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/superior-rabid-bite-combat
-        - Power attack but for atk bonus
-    - Toughness https://www.d20pfsrd.com/feats/general-feats/toughness
-        * Feral Vitality https://www.d20pfsrd.com/feats/3rd-party-feats/dreamscarred-press/feral-vitality
-            - THIS FEAT IS AMAZING
-    * Shape Breath Weapon https://www.d20pfsrd.com/feats/3rd-party-feats/frog-god-games/monster-feats-3pp-frog-god-games/shape-breath-weapon
-- lvl 2
-    - Extra Blade Skill
+    - Combat Reflexes https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat
+    - Shield Focus https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat
+        - Mobile Bulwark Style https://www.d20pfsrd.com/feats/combat-feats/mobile-bulwark-style-combat-style
 - lvl 3
-    - (G) Extra Stomach
-        - (G) Belly Bulwark
-        - (G) Gastric Prison
-    - Great Appetite
+    - Extra Stomach
+        - Belly Bulwark
+        - Gastric Prison
 - lvl 4
-    - Improved Natural Attack https://www.d20pfsrd.com/feats/monster-feats/improved-natural-attack
-- Str 25 (lvl 4)
     - Awesome Blow https://www.d20pfsrd.com/feats/monster-feats/awesome-blow
+    - Mobile Fortress https://www.d20pfsrd.com/feats/combat-feats/mobile-fortress-combat
 - lvl 5
     - Beastly Belch
 - lvl 6
-    - (G) Greater Grapple
-    - (G) Eldritch Claws https://www.d20pfsrd.com/feats/combat-feats/eldritch-claws
-    - (G) Hungry Vortex (also costs an indulgence)
-        - (G) Precise Vortex
-        - (G) Voracious Vortex
-            - (G) Food Chain
+    - Eldritch Claws https://www.d20pfsrd.com/feats/combat-feats/eldritch-claws
+    - Hungry Vortex (also costs an indulgence)
+        - Precise Vortex
+        - Voracious Vortex
+            - Food Chain
     - Chomp and Chew
 - lvl 7
-    - (G) Greater Appetite
+    - Greater Appetite
+    - Mobile Stronghold https://www.d20pfsrd.com/feats/combat-feats/mobile-stronghold-combat
 - lvl 9
-    - (G) Fast Swallow
+    - Fast Swallow
 - Kn (Arcana) 9 (lvl 9)
-    - (G) Bound Bag
+    - Bound Bag
 - lvl 10
-    - (G) Extra Stomach 2
+    - Extra Stomach 2
 - lvl 15
-    - (G) Greater Appetite 2
+    - Greater Appetite 2
 - lvl 20
-    - (G) Greater Appetite 3
-
-## Blade Skills
-- lvl 2
-    - Power Reserve
-        - Mental Power
-    - Psionic Training
-        * Mind Over Body https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/mind-over-body
-        * Rapid Metabolism https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/rapid-metabolism
-        * Reckless Offense https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/reckless-offense
-        - Unlocked Talent https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/feats/unlocked-talent
-            * Grip of Iron https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/g/grip-of-iron
-            * Metamorphosis, Minor https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/psionic-powers/m/metamorphosis#minor
-    <!-- * Telekinetic Athleticism -->
-- lvl 4
-    - Ghost Step
-    - Psychic Net
-    - Psychic Strike
-- lvl 6
-    - Additional Configurations
-    * Blade Rush
-    - Multi-Blade Manifestation
-    p (Psychic Net)
-        - Psionic Grapnel
-    p (Telekinetic Athleticism)
-        - Psychic Platform
-    - Telepathic Gift
-- lvl 8
-    p (Blade Rush)
-        - Blade Rush Frenzy
-    - Fire Blade
-        - Firestorm
-    - Ice Blade
-        - Freezing Ice
-    - Lightning Blade
-        - Lightning Arc
-    - Reaching Blade
-    - Thunder Blade
-        - Resounding Thunder
-    - Twin Strike
-- lvl 10
-    p (Ghost Step)
-        - Cleave Space
-    - Deadly Blow
-    - Gruesome Riposte
-    - Trade Blows
-- lvl 12
-    - Extended Strike
-    * Improved Enhancement
-
-## Enhanced Mind Blade Options
-- +1
-    - Corrosive https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/corrosive
-    - Flaming https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/flaming
-    - Frost https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/frost
-    - Shock https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/shock
-
-    - Merciful https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/merciful
-    - Psychokinetic https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Psychokinetic
-    - Vicious https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/vicious
-
-    - Conductive https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/conductive
-    - Dueling https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/dueling
-    - Ghost Touch https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/ghost-touch
-    - Keen https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/keen
-    - Lucky https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Lucky
-    - Menacing https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/menacing
-    - Sundering https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Sundering
-- +1, enhancement bonus dependent
-    - Allying https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/allying
-    - Defending https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/defending
-- +2
-    - Anarchic https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/anarchic
-    - Axiomatic https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/axiomatic
-    - Collision https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Collision
-    - Corrosive Burst https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/corrosive-burst
-    - Flaming Burst https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/flaming-burst
-    - Icy Burst https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/icy-burst
-    - Linked striking https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Linked-Striking
-    - Mindcrusher https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Mindcrusher
-    - Psychokinetic burst https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Psychokinetic-Burst
-    - Suppression https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Suppression
-    - Shocking Burst https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/shocking-burst
-    - Unholy https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/unholy
-- +2, enhancement bonus dependent
-    - Wounding https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/wounding
-- +3
-    - Bodyfeeder https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Bodyfeeder
-    - Dislocator https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Dislocator
-    - Soulbreaker https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Soulbreaker
-- +4
-    - Brilliant Energy https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/brilliant-energy
-    - Great dislocator https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Great-Dislocator
-- +5
-    - Coup de grace https://www.d20pfsrd.com/alternative-rule-systems/psionics-unleashed/equipment/psionic-items/psionic-weapons#TOC-Coup-de-Grace
+    - Greater Appetite 3
 
 ## Cool Special Attacks
 - Extraordinary

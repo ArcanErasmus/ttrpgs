@@ -57,78 +57,65 @@
 - Discerns creature's HD
 
 
-## Soulknife (Moonlight Meditant)
-### Transcendent Werewolf (Ex)
-- Cannot become werewolf/lycanthrope
-- Gain shapechanger subtype and bonus shifting feat
-- Can change to different shifting feat when rest for 8 hrs
+## Grand Champion
+### Favored Weapon Group (Ex)
+- Select fighter wpn group: Natural
+- If feat applies to one wpn in group, apply to all
 
-### Moonsilver Blade (Su)
-- Can form bite or 2 claws, can make these attacks with any body part
-    - Form as move action, dismiss free action
-    - Can choose "mind blade" for weapon-specific feats/spells, if valid
-    - Can be broken (hardness 10, 10hp), but can recreate as move action
-- Mind blades treated as silver for DR or vulns in addition to other material types
-    - Formed weapons, and shifting abilities, take on silvery energy appearance
-- Can use mind-blade-based supernatural class features in antimagic if make DC 20 Will
-    - Don't have to re-save for num rds equal to class lvl
-    - Can re-attempt save to manifest as move action
-    - Bonus on these saves equal to mind blade enhancement bonus
-- Mind blade does not benefit from *amulet of mighty fists* or similar
+### Prowess (Ex)
+- +1 Fort & Ref
+- +1 hp/lvl
+- Counts as Toughness for prereqs
 
-### Shape Mind Blade
-- Mind blade retains last form until reshaped
-- Full-rd action, change damage type
-- 8 hrs concentration (not normal rest period), reassign abilities
+### Weapon Advantage (Ex)
+- At every even lvl, choose stacking bonus
+- Apply bonuses to fav wpns
+1. Add wpn to fav list
+2. +1 confirm crit
+3. +1 CMB disarm, sunder, trip
+4. +1 CMD vs disarm, sunder, drip
+5. +1 intimidate
 
-### Savage Pursuit (Ex)
-- Can move 5 ft as free action before each attack with mind blade
-- Does not consume nor count as 5 ft step
-- Attack is made from new location
+### Exercise
+- At lvl 2 & every 4 more
+- +1 Str or Dex or Con, like 4-lvl ability inc
+- Can't choose same twice in a row
 
-### Blade Skills
-- Gain a blade skill every even lvl
-- Cannot choose: Alter Blade, Discipline Blade Shapes, Empowered Fist, Emulate Melee Weapon, Emulate Ranged Weapon, Mind Daggers, Telekinetic Blade, Telekinetic Bolt
-- Blade skills apply effects without changing form
+### Uncanny Dodge (Ex)
+- No flat-footed
+- Don't lose Dex to AC vs invis
+- Still lose Dex to AC if immobil or vs feint
+- If get UD elsewhere, upgrade to IUD
 
-#### Telekinetic Athleticism
-- Gain benefit of Mental Leap and Speed of Thought feats
-- Can expend psychic strike (if ever get access to it)
+### Armored Swiftness (Ex)
+- +5 ft speed in med/hvy armor
+- Up to max of unencumbered speed
 
-### Moonsilver Body (Su)
-- Gain DR 1/silver
-- Increase by 1 every 4 lvls beyond 3rd
+### Weapon Dominance (Ex)
+- At lvl 3 & every 4 more
+- Select bonus to fav wpns, pick x2 max for each
+1. +1 atk/dmg
+2. +1 shield bonus to AC
+3. Crit damage +1d4/6/8 for x2/3/4+
+4. +1 Will
 
-### Enhanced Mind Blade (Su)
-- All natural atks gain enhancement bonus equal to lvl/3 (max +5)
-- All natural atks treated as magic and silver for DR
-- Mind blades each get (lvl-1)/2 extra points of bonus
-- Spend bonus pts on enhancement or abilities (see notes.md list)
-- Each mind blade can have its own configuration
-
-# Future Class Features (lvl 4)
+# Future Class Features (lvl 5)
 ## Gourmand
-### Bonus Feat
+### Stomach Acid
+- +1d4
 
 ### Indulgences
-- +1 max/type
-- Immunities: nauseated
+- +1
 
-### Gourmand's Maw
-- Bite increases one damage step
 
-## Soulknife (Moonlight Meditant)
-### Savage Pursuit
-- Can now move up to 10 ft before attacks
+## Grand Champion
+### Practice
+- At lvl 5 & every 5 more
+- Bonus feat, can't benefit spell/SLA/su
+- Can't benefit mental based skills/checks
 
-### In Wolves' Clothing (Su)
-- While mind blade(s) drawn, tons of bonuses:
-    - +10 ft to all movement types
-    - 2x class lvl temp hp, refreshes after 1 min rest
-        - If have any temp hp remaining, Con mod deflection bonus to AC
-        - When hit with mind blade, regain Con mod temp hp
-    - Can increase size by 1 category (and return) as free action
-        - Does not stack with other size increases
-        - Do not apply normal ability score changes from size
-        - Do not apply size *penalties* (CMB bonus yes, to-hit/AC penalty no, etc)
-    - Gain +2 Str and Dex
+### Armored Flexibility
+- At lvl 5 & every 4 more
+- -1 ACP, +1 max Dex
+- Move normal speed in med armor
+- At lvl 9, move normal speed in hvy armor

@@ -208,28 +208,29 @@ Furthermore, as a standard action, you may fill one living creature within 30 fe
 - Alignment: Any neutral
 - HD: d12
 - Starting Wealth: 5d6x10 (avg 175 gp), plus free 10 gp or less outfit
-- Class Skills: Acrobatics, Autohypnosis, Climb, Craft, Intimidate, Handle Animal, Kn (dungeoneering), Kn (nature), Kn (psionics), Perception, Profession, Ride, Stealth, Survival, Swim
+- Class Skills: Climb, Craft, Handle Animal, Intimidate, Kn (dungeoneering), Kn (engineering), Kn (nature), Profession, Ride, Survival, Swim
 - Skill Ranks Per Level: 4 + Int mod
-Table: Gestalt - Gourmand, Soulknife (Moonlight Meditant); Large character
-| lv || BAB            | For | Ref | Wil || Bte | Acid | In || MBB | S | WC || Abilities
-|----||----------------|-----|-----|-----||-----|------|----||-----|---|----||-----------
-|  1 ||             +1 |  +2 |  +2 |  +2 || 1d8 |  1d4 |  1 ||     |   |    || Bonus Feat, Gourmand's Maw, Regurgitate, Digestion, Trancendent Werewolf, Moonsilver Blade 1, Shape Mind Blade, Savage Pursuit, Wild Talent
-|  2 ||             +2 |  +3 |  +3 |  +3 || 1d8 |  1d4 |  2 ||     |   |    || Blade Skill, Taste
-|* 3 ||             +3 |  +3 |  +3 |  +3 || 1d8 |+ 2d4 |  3 ||+1/1 | 1 |    ||
-|  4 ||             +4 |  +4 |  +4 |  +4 ||+2d8 |  2d4 |  4 || 1/1 | 1 |  8 || Bonus Feat, In Wolves' Clothing 1/+2
-|  5 ||             +5 |  +4 |  +4 |  +4 || 2d8 |+ 3d4 |  5 ||+1/2 | 1 | 10 || Quick Draw 1
-|  6 ||          +6/+1 |  +5 |  +5 |  +5 || 2d8 |  3d4 |  6 ||+2/2 | 1 | 12 || Blade Skill, Moonsilver Blade 2
-|  7 ||          +7/+2 |  +5 |  +5 |  +5 || 2d8 |+ 4d4 |  7 ||+2/3 | 2 | 14 || Bonus Feat
-|  8 ||          +8/+3 |  +6 |  +6 |  +6 ||+2d8 |  4d4 |  8 || 2/3 | 2 | 16 || In Wolves' Clothing 2/+4
-|  9 ||          +9/+4 |  +6 |  +6 |  +6 || 2d8 |+ 5d4 |  9 ||+3/4 | 2 | 18 ||
-| 10 ||         +10/+5 |  +7 |  +7 |  +7 || 2d8 |  5d6 | 10 || 3/4 | 2 | 20 || Blade Skill, Bonus Feat, Empowered Digestion 1
-| 11 ||     +11/ +6/+1 |  +7 |  +7 |  +7 || 2d8 |+ 6d6 | 11 ||+3/5 | 3 | 22 ||
-| 12 ||     +12/ +7/+2 |  +8 |  +8 |  +8 ||+3d6 |  6d6 | 12 ||+4/5 | 3 | 24 || Blade Skill, Controlled Composition
-| 13 ||     +13/ +8/+3 |  +8 |  +8 |  +8 || 3d6 |+ 7d6 | 13 ||+4/6 | 3 | 26 || Bonus Feat
-| 14 ||     +14/ +9/+4 |  +9 |  +9 |  +9 || 3d6 |  7d6 | 14 || 4/6 | 3 | 28 || Blade Skill
-| 15 ||     +15/+10/+5 |  +9 |  +9 |  +9 || 3d6 |+ 8d6 | 15 ||+5/7 | 4 | 30 || Empowered Digestion 2, Quick Draw 2
-| 16 || +16/+11/ +6/+1 | +10 | +10 | +10 ||+3d8 |  8d6 | 16 || 5/7 | 4 | 32 || Bonus Feat, In Wolves' Clothing 3/+6
-| 17 || +17/+12/ +7/+2 | +10 | +10 | +10 || 3d8 |+ 9d6 | 17 ||+5/8 | 4 | 34 ||
-| 18 || +18/+13/ +8/+3 | +11 | +11 | +11 || 3d8 |  9d6 | 18 || 5/8 | 4 | 36 || Blade Skill
-| 19 || +19/+14/ +9/+4 | +11 | +11 | +11 || 3d8 |+10d6 | 19 ||+5/9 | 5 | 38 || Bonus Feat
-| 20 || +20/+15/+10/+5 | +12 | +12 | +12 ||+4d8 | 10d6 | 20 || 5/9 | 5 | 40 || Blade Skill, The World's A Feast, Mind Blade Mastery
+- Proficiencies: Simple and martial weapons, all armor and all shields
+Table: Gestalt - Gourmand, Grand Champion; Large character
+| lv || BAB            | For | Ref | Wil || Maw | Acid | In | B || A | E | D | P | T || Abilities
+|----||----------------|-----|-----|-----||-----|------|----|---||---|---|---|---|---||-----------
+|  1 ||             +1 |  +2 |  +2 |  +0 || 1d8 |  1d4 |  1 | x ||   |   |   |   |   || Gourmand's Maw, Regurgitate, Digestion, Favored Weapon Group, Prowess
+|  2 ||             +2 |  +3 |  +3 |  +0 || 1d8 |  1d4 |  2 |   || x | x |   |   |   || Taste, Uncanny Dodge
+|  3 ||             +3 |  +3 |  +3 |  +1 || 1d8 |+ 2d4 |  3 |   ||   |   | x |   |   || Armored Swiftness
+|* 4 ||             +4 |  +4 |  +4 |  +1 ||+2d6 |  2d4 |  4 | x || x |   |   |   |   ||
+|  5 ||             +5 |  +4 |  +4 |  +1 || 2d6 |+ 3d4 |  5 |   ||   |   |   | x | x ||
+|  6 ||          +6/+1 |  +5 |  +5 |  +2 || 2d6 |  3d4 |  6 |   || x | x |   |   |   ||
+|  7 ||          +7/+2 |  +5 |  +5 |  +2 || 2d6 |+ 4d4 |  7 | x ||   |   | x |   |   ||
+|  8 ||          +8/+3 |  +6 |  +6 |  +2 ||+2d8 |  4d4 |  8 |   || x |   |   |   |   ||
+|  9 ||          +9/+4 |  +6 |  +6 |  +3 || 2d8 |+ 5d4 |  9 |   ||   |   |   |   | x ||
+| 10 ||         +10/+5 |  +7 |  +7 |  +3 || 2d8 |  5d6 | 10 | x || x | x |   | x |   || Empowered Digestion 1
+| 11 ||     +11/ +6/+1 |  +7 |  +7 |  +3 || 2d8 |+ 6d6 | 11 |   ||   |   | x |   |   || Powerful Build
+| 12 ||     +12/ +7/+2 |  +8 |  +8 |  +4 ||+3d6 |  6d6 | 12 |   || x |   |   |   |   ||
+| 13 ||     +13/ +8/+3 |  +8 |  +8 |  +4 || 3d6 |+ 7d6 | 13 | x ||   |   |   |   | x ||
+| 14 ||     +14/ +9/+4 |  +9 |  +9 |  +4 || 3d6 |  7d6 | 14 |   || x | x |   |   |   ||
+| 15 ||     +15/+10/+5 |  +9 |  +9 |  +5 || 3d6 |+ 8d6 | 15 |   ||   |   | x | x |   || Empowered Digestion 2
+| 16 || +16/+11/ +6/+1 | +10 | +10 |  +5 ||+3d8 |  8d6 | 16 | x || x |   |   |   |   ||
+| 17 || +17/+12/ +7/+2 | +10 | +10 |  +5 || 3d8 |+ 9d6 | 17 |   ||   |   |   |   | x ||
+| 18 || +18/+13/ +8/+3 | +11 | +11 |  +6 || 3d8 |  9d6 | 18 |   || x | x |   |   |   ||
+| 19 || +19/+14/ +9/+4 | +11 | +11 |  +6 || 3d8 |+10d6 | 19 | x ||   |   | x |   |   ||
+| 20 || +20/+15/+10/+5 | +12 | +12 |  +6 ||+4d8 | 10d6 | 20 |   || x |   |   | x |   || The World's A Feast, Indestructible

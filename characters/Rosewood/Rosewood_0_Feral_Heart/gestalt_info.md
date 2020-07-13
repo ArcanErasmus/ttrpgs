@@ -200,6 +200,7 @@ class skills: Acrobatics (Dex), Appraise (Int), Bluff (Cha), Climb (Str), Craft 
 | 19 | 
 | 20 | mighty bloodrage
 
+https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/paizo-bloodrager-archetypes/hag-riven-bloodrager-archetype/?
 - https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/paizo-bloodrager-archetypes/spelleater
 - https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/archetypes/paizo-bloodrager-archetypes/spelleater
 |----|-------------

@@ -1,15 +1,12 @@
 # Rosewood's Abilities Cheat-sheet
 ## Weapons
-| Weapon         | Atk | Damage       | Crit     | Range  | Notes
-|----------------|-----|--------------|----------|--------|------------
-| +1 Bite        | +10 | 1d8+8 (BPS)  |    20/x2 | --     | Primary, Magic, Silver, Grab
-| +1 Gore        | +10 | 1d8+8 (P)    |    20/x2 | --     | Primary, Magic, Silver
-| +1 L. Claw     | +10 | 1d6+8 (S)    | 19-20/x2 | --     | Primary, Magic, Silver, Grab, 20 ft reach
-| +1 R. Claw     | +10 | 1d6+8 (S)    | 19-20/x2 | --     | Primary, Magic, Silver
-<!-- | +1 Tentacle    | +10 | 1d6+8 (B)    |    20/x2 | --     | Primary, Magic, Silver, Grab, 20 ft reach -->
-| +1 Sting       | +10 | 1d6+8 (P)    |    20/x2 | --     | Primary, Magic, Silver, Poison, 15 ft reach
-| Regurgitate    | +4  | 1d6+7 (B)    |    20/x2 |  20 ft | See class features
-| Acid Breath    | --  | 2d4+6 (Acid) | --       |  10 ft | Cone, 6/day, Ref DC 16 half
+| Weapon         | Atk | Damage        | Crit     | Range  | Notes
+|----------------|-----|---------------|----------|--------|------------
+| Bite           | +10 | 3d6+7  (BPS)  |    20/x2 | --     | Primary, Grab
+| Gore           | +10 | 2d8+7  (P)    |    20/x2 | --     | Primary, 
+| Tentacle       | +10 | 2d6+7  (B)    |    20/x2 | --     | Primary, Grab, 20 ft reach
+| Regurgitate    | +5  | 1d6+7  (B)    |    20/x2 |  20 ft | See class features
+| Acid Breath    | --  | 2d4+10 (Acid) | --       |  10 ft | Cone, 7/day, Ref DC 18 half
 
 ## Mimic Friend
 - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic/
@@ -32,13 +29,6 @@
     - several ice sculptures
     - medium wind chimes
 
-## Psionics
-- Power Points (max 2): OO
-- Psionic Focus: Y
-    - Meditate to gain, full-round action
-    - Lasts until used, or sleep/unconscious
-    - Can expend to take 15 (as taking 10) on Concentration check
-
 ## Abilities
 ### Grab (Ex)
 - Can attempt grapple as free action on hit, no AoO
@@ -53,17 +43,8 @@
 - On fail, object reduced to 1 hp, gains broken condition
 - No effect on already broken object
 
-## Shifting (Su) (5 feats)
-- Daily Uses (max 6): OOOOOO
-- Shift/continue/dismiss as free (even not on turn, if not flat-footed)
-- Duration lowest from abilities chosen:
-    - Abomination (10 mins, 2 rds)
-    - Beasthide   (2 rds)
-    - Deathsting  (1 hr, 2 rds)
-    - Swiftwing   (1 hr)
-
-## Phylocruxes (Sp) (CL 3)
-- 3/day - *cure light wounds* (1d8+3)
+## Phylocruxes (Sp) (CL 4)
+- 3/day - *cure light wounds* (1d8+4)
 - rules
     - No verbal, somatic, focus, material components
     - Provokes AoO
@@ -101,21 +82,22 @@
 
 ## Stomach Quick Info
 ### Rules
-- 12 AC, 8 hp
+- 12 AC, 10 hp
 - Size Medium capacity
-- 1d8+8 (B) + 2d4+1 (Acid)
+- 2d6+7 (B) + 2d4+4 (Acid)
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 8/8hp - Lightning Elemental, Small
+1. 10/10hp - Lightning Elemental, Small
+2. 10/10hp - empty
 
 ## Indulgence Quick Info
 ### Rules
-- Max: 3, Max/Type: 1
+- Max: 4, Max/Type: 2
 - Abilities available at current lvl:
     - DR: 3/ max
     - Feat (must meet prereqs)
-    - Immunity: Sleep effects, deafness, blindness, "hunger"
+    - Immunity: Sleep effects, deafness, blindness, "hunger", nauseated
     - Languages (and communication methods)
     - Natural Armor: +2
     x Natural Attack (except bite)
@@ -181,7 +163,7 @@
         - SR: No
 3. Bulabar
     - https://www.d20pfsrd.com/bestiary/monster-listings/fey/bulabar
-    - Chosen essence: Disassemble (Ex)
+    - Chosen essence: DR 3/cold iron
     - Available essences:
         - DR: 5/cold iron
         - Feats: Ability Focus, Toughness, Weapon Finesse
@@ -196,3 +178,4 @@
         - Special Abilities: Disassemble (Ex)
         - Speeds: 30 ft land, 10 ft burrow
         - SR: No
+4. Empty

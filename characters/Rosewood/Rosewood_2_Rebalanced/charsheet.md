@@ -1,7 +1,6 @@
 # Six Hardy Rosewoods Entwined and Kneeling ("Rosewood"), any (Giant has no gendered pronouns)
-## NE, Girran, (Gourmand/Soulknife) 3
-Soulknife Archetypes: Moonlight Meditant
-- Large humanoid (giant, shapechanger)
+## NE, Girran, (Gourmand/Grand Champion) 4
+- Large humanoid (giant)
 - Actual Deity: Unwittingly serves the gluttony aspect of a major evil power
 - Worshipped Deity: Ydersius, the Primal Coil https://pathfinderwiki.com/wiki/Ydersius
 - 14'7", 3635 lbs, 42 yo
@@ -11,9 +10,9 @@ Soulknife Archetypes: Moonlight Meditant
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|
-| STR  | 24 (+7) | -
+| STR  | 25 (+7) | -
 | DEX  | 14 (+2) | -
-| CON  | 20 (+5) | -
+| CON  | 22 (+6) | -
 | INT  | 11 (  ) | -
 | WIS  |  8 (-1) | -
 | CHA  | 11 (  ) | -
@@ -22,28 +21,28 @@ Soulknife Archetypes: Moonlight Meditant
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| HP   | 50 Max         | 
+| HP   | 63 Max         | 
 | AC   | 19 (11 T/17 F) | -
-| BAB  | +3             | -
-| CMB  | +11            | +5 grapple
-| CMD  | 23 (21 F)      | +1 grapple
+| BAB  | +4             | -
+| CMB  | +12            | +5 grapple
+| CMD  | 24             | +1 grapple
 | Init | +2             | -
 | Spd  | 55/40 ft       |
-HD rolls (d12): [12], 11, 11
+HD rolls (d12): [12], 11, 11, 1
 AC breakdown: -1 size, +2 dex, +6 armor, +2 natural
 https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
 
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +8    | -
+| Fort | Con  | +11   | -
 | Ref  | Dex  | +7    | -
-| Will | Wis  | +2    | -
+| Will | Wis  | +0    | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Drawback (Unlearned): -2 to untrained knowledge checks, except psionics
 - Trait (Serpentine Squeeze): +1 trait bonus to CMB/CMD to grapple
-- Trait (Suck in Your Gut): Only half penalties when squeezing through small spaces
+- Trait (Suck in Your Gut): Only half penalties when squeezing
 - Feat (Mental Leap): +2 acrobatics to jump, expend focus to make +10
 - Ability (Grab): +4 bonus to CMB to grapple
 - Item (Whet Bone): Chew 15 mins, +1 dmg next bite
@@ -90,10 +89,9 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 | 1 |   | C | Swim               | Str | +11 | -
 |   | T |   | Use Magic Device   | Cha |     | -
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: -6 ACP, +3 max Dex, x4 run, 15% ASFC, reduced speed**
-- 13/13
-    - 3x(4+0) soulknife
-    - 1 favored
+- **Current encumbrance modifiers: -6 ACP, +3 max Dex, x4 run, 15% ASFC, reduced speed + 5 ft**
+- 13/16
+    - 4x(4+0) grand champion
 
 ## Languages, Proficiencies
 - Languages: Common (Southern Imperial), Common (Sealed Garden), Swamp Giant
@@ -102,9 +100,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Armor:     Light, Medium, Heavy, Shields, Tower Shields
 
 ## Favored Class Bonuses
-- (Gourmand, General) +1 hp
-- (Gourmand, General) +1 skill rank
-- (Gourmand, Girran) +1 stomach acid damage
+- (Gourmand, Girran) +4 stomach acid damage
 
 ## Racial Features
 ### Base Properties (17 RP)
@@ -146,63 +142,25 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - +5 ft BLS
 - Ignore 20 ft of non-magical difficult terrain each round that you move
 
-### Wild Talent [Soulknife Bonus, lvl 1]
-- 2 power points
-- can use psychic focus
+### Hungry Reflexes [Gourmand Bonus, lvl 1]
+- Requires an empty stomach or not engaged in combat maneuver
+- Bonus AoOs/rd equal to Con mod
+- Must be made with bite attack
+- Can make all AoOs while flat-footed
 
-<!-- ### Strongclaw Shift [Moonlight Meditant Bonus, lvl 1]
-- +2 bonus to Climb per shifting feat, duration 1 hr
-- Reduce duration to 2 rds to gain 2 claws 1d6 + 1/2 num shifting feats
-- At 3 shifting feats, gain climb speed equal to BLS
-    - For 2 rd shift, claws overcome magic or material based DR or regeneration
-- At 5 shifting feats, gain burrow speed equal to BLS
-    - For 2 rd shift, claws gain rend ability -->
+### Power Attack [Antihero Bonus, lvl 1]
+- Take -1 melee atk & CMB for +2 melee dmg
+- +50% if 1.5x Str, -50% if 0.5x Str
+- At BAB +4 & every +4 after, increase by -1/+2
+- Choose before making atk, lasts until start of next turn
 
-### Abomination Shift [Moonlight Meditant Bonus, lvl 1]
-- 5% per shifting feat to ignore sneak attack or crit, duration 10 mins
-- Reduce duration to 2 rds to gain +1 CMB and CMD per shifting feat
-- At 3 shifting feats, increase chance to 10% per feat
-    - For 2 rd shift, bonus to saves vs mind-affecting equal to num shifting feats
-- At 5 feats, gain all-around vision
-    - For 2 rd shift, bonus to saves vs disease, poison, exhaustion/fatigue effects equal to num shifting feats
+### Shape Breath Weapon [lvl 1]
+- Release as line, double range, 50% more damage to single target
+- Release as burst, double range (max 30 ft), radius as normal range, normal damage
 
-### Beasthide Shift [Gourmand Bonus, lvl 1]
-- +1 bonus to nat armor per shifting feat, duration 2 rds
-- At 3 shifting feats, get half nat armor to touch AC
-- At 5 shifting feats, full nat armor to touch
+### Extra Stomach [lvl 3]
+- Gain additional stomach
 
-### Rapid Shifting [Antihero Bonus, lvl 1]
-- This feat is always active
-- Shift as free action on your turn
-- At 3 shifting feats, may shift as immediate action
-- At 5 shifting feats, shift as free action even not on turn (if not flat-footed)
-
-### Deathsting Shift [lvl 1]
-- +2 bonus Acrobatics per shifting feat, duration 1 hr
-- Reduce duration to 2 rds to gain sting attack
-    - Sting is primary attack, 1d6 P and poison, 1d2 Str/rd for 6 rds
-    - Fort save DC 10 + half char lvl + Con mod + 1 per shifting feat
-- At 3 shifting feats, tail acts like extra arm in some ways
-    - Can grab unattended items within 5 ft as swift action
-    - Can grab from inventory, can't manipulate or wield
-    - Sting gains 5 ft extra reach
-    - Poison is 2d2 Str/rd
-- At 5 shifting feats, tail acts as full extra hand
-    - Can manipulate objects, hold shield
-    - For 2 rd shift, can attempt reposition maneuver on sting
-        - Free action, does not provoke, target must end closer
-    - Poison is 3d2
-
-### Mental Leap [Telekinetic Athleticism, lvl 2]
-- While psionically focused, +2 enhancement bonus to Acrobatics to jump
-- Can spend focus to increase bonus to +10 on single check
-- If have 10+ ranks in Acrobatics, double the bonuses
-
-### Speed of Thought [Telekinetic Athleticism, lvl 2]
-- If psionically focused and no hvy armor, +10 ft insight bonus to speed
-- Spend focus to increase bonus to +30 ft until end of turn
-
-### Swiftwing Shift [lvl 3]
-- +2 bonus to Fly per shifting feat, duration 1 hr
-- At 3 shifting feats, gain fly speed equal to half BLS (poor)
-- At 5 shifting feats, gain fly speed equal to BLS (average)
+### Improved Natural Attack [Gourmand Bonus, lvl 4]
+- Choose one natural weapon
+- Damage goes up by 1 size

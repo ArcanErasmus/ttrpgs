@@ -41,11 +41,11 @@
 ## Carrying Capacity
 | Load      | lbs  | Penalties
 |-----------|------|------------
-| Light     | 533  | No max Dec, no ACP, x4 run
-| Medium    | 1066 | +3 max Dex, -3 ACP, x4 run
-| Heavy     | 1600 | +1 max Dex, -6 ACP, x3 run
-| Lift      | 3200 | +0 max Dex, 5 ft move as full-round action
-| Push/Drag | 8000 |
+| Light     | 613  | No max Dec, no ACP, x4 run
+| Medium    | 1226 | +3 max Dex, -3 ACP, x4 run
+| Heavy     | 1840 | +1 max Dex, -6 ACP, x3 run
+| Lift      | 3680 | +0 max Dex, 5 ft move as full-round action
+| Push/Drag | 9200 |
 |-----------|------|
 * Armor check penalty applies to all Str and Dex based skill checks
 
