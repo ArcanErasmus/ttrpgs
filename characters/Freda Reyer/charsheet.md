@@ -6,18 +6,18 @@
 - Religion: Manann
 - Star Sign: Cacklefax the Cockerel, born 33/10/2495
 - Motivation: Devotian to Manann
-- Short-term ambition: ?
+- Short-term ambition: Stoke friendship with Siegbert
 - Long-term ambition: Become a Master Leviathan
-- Party short-term: Catch the poisoner
+- Party short-term: Investigate the attempted poisoning of Franke
 - Party long-term: ?
 
-## Total/Spent XP: 1600/1400
+## Total/Spent XP: 1600/1595
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  275 |   0 |  10 | BS
-|  125 |   0 |   5 | T
-|  155 |   0 |   6 | WP
-|   60 |   5 |   7 | Fel
+|  215 |   0 |   8 | T
+|  185 |   0 |   7 | WP
+|   90 |   5 |   8 | Fel
 |------|-----|-----|------
 |  100 |   0 |   1 | Bless (Manann)
 |  100 |   0 |   1 | Invoke (Manann)
@@ -29,7 +29,7 @@
 |   10 |   0 |   1 | Lore (Riverways)
 |   10 |   0 |   1 | Lore (Theology)
 |   50 |   0 |   5 | Melee (Polearm)
-|   80 |   0 |   7 | Perception
+|  125 |   0 |  10 | Perception
 |   50 |   0 |   5 | Row
 |   50 |   0 |   5 | Swim
 |------|-----|-----|------
