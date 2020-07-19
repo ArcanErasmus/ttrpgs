@@ -13,23 +13,24 @@
 |   Burst        |     |               |          |  x2    | 10 ft radius burst on impact
 |----------------|-----|---------------|----------|--------|------------
 | Sling          | +4  | 1dd+7  (B)    |    20/x2 |  75 ft | +1 atk & d6 dmg if using bullet
+https://rpg.stackexchange.com/a/62720
 
 ## Mimic Friend
 - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic/
 - Forms
-    - several ornate statutes
-    - several ornate medium-sized urns and vases
-    - ornate tower shield for large character
-    - Thyrm's buckler
+    - several variants of ornate statute
+    - several variants of ornate medium-sized urn or vase
+    - ornate Large tower shield
+    - ornate Huge buckler
     - throne of elderon
     - the green mother's staff (basketball sized black star sapphire on top)
         - https://pathfinderwiki.com/wiki/The_Green_Mother
     - ornate grandfather clock
-    - complicated music box (think Shrek)
+    - complicated music box
     - 1 person carriage
-    - Bell of Mercy https://www.d20pfsrd.com/magic-items/artifacts/minor-artifacts/bell-of-mercy
+    - large ornate silver bell
     - ornate medium armor (solid)
-    - ceremonial [only one armor mod you silly goose] medium fullplate armor (technically wearable)
+    - ceremonial [lots of armor mods, for weight] medium fullplate armor (technically wearable)
         - burnished, deflecting, double plate, jarring, razored, slumbering, vitalguard
     - starfountain firework https://www.d20pfsrd.com/equipment/weapons/Alchemical-weapons/#TOC-Starfountain-Firework
     - several ice sculptures
@@ -94,21 +95,21 @@
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 10/10hp - Lightning Elemental, Medium
+1. 10/10hp - none
 
 ## Indulgence Quick Info
 ### Rules
 - Max: 4, Max/Type: 2
 - Abilities available at current lvl:
-    - DR: 3/ max
+    x DR: 3/ max
     - Feat (must meet prereqs)
     - Immunity: Sleep effects, deafness, blindness, "hunger", nauseated
     - Languages (and communication methods)
     - Natural Armor: +2
-    x Natural Attack (except bite)
-    x Phylocrux (Sp): 3/-/-/- uses per day
+   xx Natural Attack (except bite)
+    - Phylocrux (Sp): 3/-/-/- uses per day
     - Resistance to one energy type
-    - Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
+    x Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
     - Skill: (in entry or had ranks) +1 bonus, count as trained
     - Special Attack: Extraordinary
     - Speed: 40 ft max, land or swim only
@@ -141,7 +142,7 @@
         - Immunities: None
         - Languages: Undercommon
         - Natural Armor: +4
-        - Natural Attacks: 2 tentacles 1d4 plus grab
+        x Natural Attacks: 2 tentacles 1d4 plus grab
         - Phylocrux: Aberration, 3 HD (*long arm*)
         - Resistances: None
         - Senses: Darkvision 60 ft
@@ -161,7 +162,7 @@
         - Natural Attacks: None
         - Phylocrux: Magical Beast, 1 HD (*cure light wounds*)
         - Resistances: None
-        - Senses: Darkvision 60 ft, low-light, scent
+        x Senses: Darkvision 60 ft, low-light, scent
         - Skills: Fly, Stealth
         - Special Abilities: Attach (Ex), Blood Drain (Ex)
         - Speeds: 10 ft land, 40 ft fly (average)
@@ -170,7 +171,7 @@
     - https://www.d20pfsrd.com/bestiary/monster-listings/fey/bulabar
     - Chosen essence: DR 3/cold iron
     - Available essences:
-        - DR: 5/cold iron
+        x DR: 5/cold iron
         - Feats: Ability Focus, Toughness, Weapon Finesse
         - Immunities: None
         - Languages: Common (fey dialect), Gnome
@@ -183,4 +184,20 @@
         - Special Abilities: Disassemble (Ex)
         - Speeds: 30 ft land, 10 ft burrow
         - SR: No
-4. Empty
+4. Lightning Elemental, Medium
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
+    - Chosen essence: Slam 1d6 + 1d4 electricity
+    - Available essences:
+        - DR: None
+        - Feats: Dodge, Improved Initiative, Weapon Finesse
+        - Immunities: electricity, elemental traits
+        - Languages: Auran
+        - Natural Armor: +1
+        x Natural Attacks: Slam 1d6 + 1d4 electricity
+        - Phylocrux: Outsider, 4 HD (*reduce person*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Acrobatics, Escape Artist, Fly, Kn (planes), Perception
+        - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
+        - Speeds: 100 ft fly (perfect)
+        - SR: No

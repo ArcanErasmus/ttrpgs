@@ -31,7 +31,7 @@
 | CMB  | +4             | -
 | CMD  | 16             | +4*
 | Init | +2             | -
-| Spd  | 20 ft          | -
+| Spd  | 20/15 ft       | -
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
@@ -125,7 +125,7 @@ AC breakdown: +2 dex, +3 shield, +10 armor
 |   |   |   | Swim               | Str |     | -
 | 5 | T | C | Use Magic Device   |(Int)| +17 | -
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: +3 max Dex, -4 ACP, 0% ASFC (30% ignored)**
+- **Current encumbrance modifiers: +3 max Dex, -4 ACP, 0% ASFC (30% ignored), normal speed**
 - 47/47
     - 5x(4+4) artificer
     - 2 favored

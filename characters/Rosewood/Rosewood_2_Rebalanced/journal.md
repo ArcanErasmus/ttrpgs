@@ -11,10 +11,10 @@ Whether it saw Rosewood as the strongest - or merely the weakest willed - is not
 |Sin     |Player  |Name         |Race           | Alignment |Class 1                                 |Class 2                           |
 |--------|--------|-------------|---------------|-----------|----------------------------------------|----------------------------------|
 |Gluttony|Violet  |Rosewood     |Girran         | NE        |Gourmand                                |Soulknife (Moonlight Meditant)    |
-|Wrath   |Shira   |Drasteia     |Tiefling       | ?E        |Barbarian (Dreadnought, Raging Cannibal)|Cleric (Fiendish Vessel)          |
+|Wrath   |Shira   |Drasteia     |Tiefling       | CE        |Barbarian (Dreadnought, Raging Cannibal)|Cleric (Fiendish Vessel)          |
 |Envy    |Talia   |Namah        |Blooded Aasimar| LG/LE     |Cavalier (Grey Maiden)                  |Medium (Fiend Keeper)             |
 |Pride   |Caoimhe |Bhalthu      |Malenti        | CE (LG)   |Antipaladin (Dark Deacon)               |Monk (Scaled Fist, Martial Artist)|
-|Greed   |Sean    |Noonien      |Tiefling?      | ??        |?                                       |?                                 |
+|Greed   |Sean    |Noonien      |Tiefling       | LE        |Mesmerist                               |Rogue (True Professional)         |
 |Sloth   |Jay (DM)|???          |???            | ??        |???                                     |???                               |
 |--------|--------|-------------|---------------|-----------|----------------------------------------|----------------------------------|
 

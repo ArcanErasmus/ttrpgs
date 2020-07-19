@@ -21,13 +21,17 @@
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| HP   | 63 Max         | 
-| AC   | 19 (11 T/17 F) | -
-| BAB  | +4             | -
+| AC   | 19 (11 T/17 F) | 
+| BAB  | +4             | 
 | CMB  | +12            | +5 grapple
 | CMD  | 24             | +1 grapple
-| Init | +2             | -
-| Spd  | 55/40 ft       |
+| Init | +2             | 
+| Spd  | 45/30 ft       | 35
+|------|-----|-----|----|------|
+| Stat | Max | Cur | Temp      |
+|------|-----|-----|-----------|
+| HP   |  63 |  63 | 0, 0 NL
+|------|-----|-----|-----------|
 HD rolls (d12): [12], 11, 11, 1
 AC breakdown: -1 size, +2 dex, +6 armor, +2 natural
 https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
