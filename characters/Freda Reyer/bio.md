@@ -32,14 +32,15 @@ Earn a living so that I can settle down somewhere a safe distance from the south
 ## Contacts/Friends
 - The Party
     - Alex: Siegbert Hohenzollern
-        - Human Scholar who worships Manann
+        - Human Wizard of the Grey Order who worships Manann
         - Born in Middenland under the sign of The Piper, 18 yo
-        - Talents: Aethyric Attunement, Arcane Shadow, Noble-Blood, Perfect Pitch, Petty Magic, Read/write, Second Sight, Strong Legs
+        - Talents: Aethyric Attunement, Arcane Shadow, Noble Blood, Perfect Pitch, Petty Magic, Read/write, Second Sight, Strong Legs
         - Best Skills: Scholar nerdiness
         - Weaknesses: Can't fight
         - Languages: Reikspiel, Magick, Classical
         - Doom: "An unmarked grave is to be yours"
         - Motivation: "Bring honor to my family name"
+        - Psychology: Cameraderie (Thieves), 
         - Background:
     - Elijah: Erminigild Gerold
         - Human Witch who worships Ranald
