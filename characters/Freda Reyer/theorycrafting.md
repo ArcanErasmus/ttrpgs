@@ -2,8 +2,8 @@
 ## "Unusual Learning" Talent Options
 - Attributes:
     50+ - BS, Fel
-    45+ - 
-    40+ - T, WP
+    45+ - T
+    40+ - WP
     35+ - I
     30+ - Int, S
     25+ - Ag, Dex, WS

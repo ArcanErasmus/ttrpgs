@@ -11,12 +11,12 @@
 - Party short-term: ?
 - Party long-term: ?
 
-## Total/Spent XP: 1900/1900
+## Total/Spent XP: 1900/1795
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  275 |   0 |  10 | BS
 |  275 |   0 |  10 | T
-|  275 |   0 |  10 | WP
+|  245 |   0 |   9 | WP
 |  150 |   5 |  10 | Fel
 |------|-----|-----|------
 |  100 |   0 |   1 | Bless (Manann)
@@ -41,13 +41,13 @@
 | WS  | 25 |    |    |    | 25 |
 |^BS  | 38 |  5 | 10 |    | 53 |
 | S   | 32 |    |    |    | 32 |
-|^T   | 32 |  5 |  5 |    | 42 |
+|^T   | 32 |  5 |  9 |    | 46 |
 | I   | 37 |    |    |    | 37 |
 | Ag  | 28 |    |    |    | 28 |
 | Dex | 27 |    |    |    | 27 |
 | Int | 33 |    |    |    | 33 |
-|^WP  | 34 |    |  6 |    | 40 |
-|^Fel | 38 |  5 |  7 |    | 50 |
+|^WP  | 34 |    | 10 |    | 44 |
+|^Fel | 38 |  5 | 10 |    | 53 |
 
 ## Secondary Attributes
 | Att | #  | ? |
@@ -59,29 +59,32 @@
 | Cor | 8  | 0
 
 ## Skills
-| C | Basic              | Ad | Att | Tt | Temp
+| * | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Charm              | 10 | Fel | 60 |
-|   | Cool               |  5 | WP  | 45 |
+| C | Charm              | 10 | Fel | 63 |
+|   | Cool               |  5 | WP  | 49 |
 | C | Dodge              |  5 | Ag  | 33 |
-| C | Endurance          | 10 | T   | 52 |
-|   | Gossip             |  3 | Fel | 53 |
-| C | Perception         |  7 | I   | 44 |
+| C | Endurance          | 10 | T   | 56 |
+|   | Gossip             |  3 | Fel | 56 |
+| C | Perception         | 10 | I   | 47 |
 | C | Row                |  5 | S   | 37 |
 |---|--------------------|----|-----|----|------
-| C | Advanced/Grouped   | Ad | Att | Tt | Temp
+| * | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Ent (Storytelling) |    | Fel | 50 |
+| C | Ent (Storytelling) |    | Fel | 53 |
 | C | Heal               | 10 | Int | 43 |
-| C | Lang (Battle)      |  1 | Int | 34 |
+| C | Lang (Battle)      |  3 | Int | 36 |
 |   | Lang (Bretonnian)  |  3 | Int | 36 |
 |   | Lang (Wastelander) |  3 | Int | 36 |
 | C | Lore (Riverways)   |  1 | Int | 34 |
 | C | Lore (Theology)    |  1 | Int | 34 |
-| C | Pray               | 10 | Fel | 60 |
 | C | Swim               |  5 | S   | 37 |
 |---|--------------------|----|-----|----|------
-| C | Weapon Specs       | Ad | Att | Tt | Temp
+| * | Magic/Blessings    | Ad | Att | Tt | Temp
+|---|--------------------|----|-----|----|------
+| C | Pray               | 10 | Fel | 63 |
+|---|--------------------|----|-----|----|------
+| * | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
 | C | M Polearm          |  5 | WS  | 30 |
 | C$| R Blackpowder      | 10 | BS  | 63 |
