@@ -62,9 +62,20 @@ Range:
 |--------------------------|-----|-----|--------------------------------
 | Bullet and powder (10)   |     |     | Impale, Penetrating (included in weapon)
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 9GC 10/6
+| **Coins**                |     |     | 8GC 16/6
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   2 |
+
+#### market/loot scratch pad
+8gc 16/6
+pistol: 8gc
+- 0 enc
+- 20 range
+- +9 damage (incl ammo)
+- impale, penetrating, pistol, reload 1
+bullet&powder (12): 3/3
+fine hat (OotL themed): 8/-
+donation to church: remainder
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties

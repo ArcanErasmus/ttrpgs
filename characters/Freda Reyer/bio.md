@@ -43,7 +43,7 @@ Earn a living so that I can settle down somewhere a safe distance from the south
         - Psychology: Cameraderie (Thieves), 
         - Background:
     - Elijah: Erminigild Gerold
-        - Human Witch who worships Ranald
+        - Human Witch->Noble who worships Ranald
         - Born in Hochland under the sign of Limner's Line, 24 yo
         - Talents: Animal Affinity, Arcane Lore, Instinctive Diction, Menacing, Noble Blood, Orientation, Petty Magic, Second Sight, Suave, Witch!
         - Best Skills: Intimidation, charming animals
@@ -54,7 +54,7 @@ Earn a living so that I can settle down somewhere a safe distance from the south
         - Psychology: Friend (Gwendyl) (+1 SL to all tests when adjacent to their buddy), Phobia (Witchhunters)
         - Background: 
     - Paolo: Gwendyl Hortenbrass
-        - Human Artisan who worships Ranald
+        - Human Artisan->Envoy who worships Ranald
         - Born in Hochland under the sign of Limner's Line, 19 you
         - Talents: Artistic, Craftsman (Cook), Perfect Pitch, Savvy, Suave
         - Best Skills: "Exactly the kind of person you want to be journeying with"
