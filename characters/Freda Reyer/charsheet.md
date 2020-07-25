@@ -8,10 +8,10 @@
 - Motivation: Devotian to Manann
 - Short-term ambition: ?
 - Long-term ambition: Become a Master Leviathan
-- Party short-term: ?
-- Party long-term: ?
+- Party short-term: Scout the enemy challenger & crew
+- Party long-term: Save the Gravin
 
-## Total/Spent XP: 1900/1900
+## Total/Spent XP: 2025/2025
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  275 |   0 |  10 | BS
@@ -20,12 +20,14 @@
 |  150 |   5 |  10 | Fel
 |------|-----|-----|------
 |  100 |   0 |   1 | Bless (Manann)
+|  100 |   0 |   1 | Etiquette (Nobles)
 |  100 |   0 |   1 | Invoke (Manann)
 |  100 |   0 |   1 | Strong Back
 |------|-----|-----|------
 |   75 |   5 |  10 | Charm
 |   50 |   0 |   5 | Dodge
-|   30 |   0 |   3 | Language (Battle)
+|   65 |   0 |   6 | Entertain (Storytelling)
+|   10 |   0 |   1 | Language (Battle)
 |   10 |   0 |   1 | Lore (Riverways)
 |   10 |   0 |   1 | Lore (Theology)
 |   50 |   0 |   5 | Melee (Polearm)
@@ -33,7 +35,7 @@
 |   50 |   0 |   5 | Row
 |  125 |   0 |  10 | Swim
 |------|-----|-----|------
-|  100 |   1 |   2 | Advance Completed Career
+|  100 |   0 |   1 | Leave Completed Career Rank
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
@@ -41,47 +43,51 @@
 | WS  | 25 |    |    |    | 25 |
 |^BS  | 38 |  5 | 10 |    | 53 |
 | S   | 32 |    |    |    | 32 |
-|^T   | 32 |  5 |  5 |    | 42 |
+|^T   | 32 |  5 | 10 |    | 47 |
 | I   | 37 |    |    |    | 37 |
 | Ag  | 28 |    |    |    | 28 |
 | Dex | 27 |    |    |    | 27 |
 | Int | 33 |    |    |    | 33 |
-|^WP  | 34 |    |  6 |    | 40 |
-|^Fel | 38 |  5 |  7 |    | 50 |
+|^WP  | 34 |    | 10 |    | 44 |
+|^Fel | 38 |  5 | 10 |    | 53 |
 
 ## Secondary Attributes
-| Att | #  | ? |
-|-----|----|---|
-| W   | 15 | 15
-| F/F | 4  | OOOO
-| R/R | 2  | OO
-| M   | 4  |
-| Cor | 8  | 0
+| Att | Max | Cur  |
+|-----|-----|------|
+| W   |  15 | 15
+| F/F |   4 | OOxx
+| R/R |   2 | OO
+| M   |   4 |
+| Cor |   8 | 2
+| Sin |     | 0
 
 ## Skills
-| C | Basic              | Ad | Att | Tt | Temp
+| * | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Charm              | 10 | Fel | 60 |
-|   | Cool               |  5 | WP  | 45 |
+| C | Charm              | 10 | Fel | 63 |
+|   | Cool               |  5 | WP  | 49 |
 | C | Dodge              |  5 | Ag  | 33 |
-| C | Endurance          | 10 | T   | 52 |
-|   | Gossip             |  3 | Fel | 53 |
-| C | Perception         |  7 | I   | 44 |
+| C | Endurance          | 10 | T   | 57 |
+|   | Gossip             |  3 | Fel | 56 |
+| C | Perception         | 10 | I   | 47 |
 | C | Row                |  5 | S   | 37 |
 |---|--------------------|----|-----|----|------
-| C | Advanced/Grouped   | Ad | Att | Tt | Temp
+| * | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Ent (Storytelling) |    | Fel | 50 |
+| C | Ent (Storytelling) |    | Fel | 53 |
 | C | Heal               | 10 | Int | 43 |
 | C | Lang (Battle)      |  1 | Int | 34 |
 |   | Lang (Bretonnian)  |  3 | Int | 36 |
 |   | Lang (Wastelander) |  3 | Int | 36 |
 | C | Lore (Riverways)   |  1 | Int | 34 |
 | C | Lore (Theology)    |  1 | Int | 34 |
-| C | Pray               | 10 | Fel | 60 |
 | C | Swim               |  5 | S   | 37 |
 |---|--------------------|----|-----|----|------
-| C | Weapon Specs       | Ad | Att | Tt | Temp
+| * | Magic/Blessings    | Ad | Att | Tt | Temp
+|---|--------------------|----|-----|----|------
+| C | Pray               | 10 | Fel | 63 |
+|---|--------------------|----|-----|----|------
+| * | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
 | C | M Polearm          |  5 | WS  | 30 |
 | C$| R Blackpowder      | 10 | BS  | 63 |

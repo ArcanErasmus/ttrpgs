@@ -1,5 +1,86 @@
-# Sister Freda Reyer's Wacky Thought Experiments
+# Sister Freda Reyer's Thought Experiments
+## "Unusual Learning" Talent Options
+- Attributes:
+    50+ - BS, Fel
+    45+ - T
+    40+ - WP
+    35+ - I
+    30+ - Int, S
+    25+ - Ag, Dex, WS
+
+### With the Gravin's Entourage
+- Animal Affinity
+- Argumentative
+- Carouser
+- Deadeye Shot
+- Etiquette (Nobles)
+- Gregarious
+- Impassioned Zeal
+- Public Speaker
+- Sharpshooter
+- Sniper
+- Supportive
+- Wealthy
+- Witch!
+
+### Possible Future Considerations
+- Accurate Shot
+- Attractive
+- Blather
+- Briber
+- Cat-tongued
+- Coolheaded
+- Dealmaker
+- Fearless (?)
+- Flaggelant?
+    - Useless mechanically, but quite thematic for Manann
+- Hardy
+- Holy Hatred
+- Inspiring
+- Iron Will
+- Luck
+- Magic Resistance
+- Master Orator
+- Noble Blood
+- Pure Soul
+- Resistance (Threat)
+- Stout-hearted
+- Strong-minded
+- Tenacious
+- Unshakable
+- War Leader
+
+### Initiative-based Talents
+- Acute Sense (?)
+- Aethyric Attunement
+- Alley Cat
+- Careful Strike
+- Combat Aware
+- Combat Reflexes
+- Detect Artefact
+- Disarm
+- Hunter's Eye
+- Instinctive Diction
+- Lip Reading
+- Magical Sense
+- Mimic
+- Night Vision
+- Nose for Trouble
+- Numismatics
+- Perfect Pitch
+- Reaction Strike
+- River Guide
+- Second Sight
+- Sixth Sense
+- Strike to Injure
+- Sure Shot
+- Trapper
+- Well-Prepared
+
 ## Invention Ideas
+- Flare projectile
+    - Combine Bullet&Shot with:
+        - Torch
 - Socket Bayonet
     - Combine Dagger with:
         - Handgun? Way too expensive for the result, I'm not making a gunblade

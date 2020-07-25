@@ -105,10 +105,10 @@ Gwendyl
 - Artisan 3
 - Entertainer 3
 Siegbert
-@ Wizard 1, with tutoring available thru endeavors
+@ Same career, different employer
 Erminigild
 - Advisor 2
-- Noble 1
+@ Noble 1
 - Spy 2
 Freda
 @ Same career, different employer
