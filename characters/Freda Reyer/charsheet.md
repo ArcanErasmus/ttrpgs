@@ -87,10 +87,9 @@
 | C$| R Blackpowder      | 10 | BS  | 63 |
 
 ## Talents
-### Acute Sense (Eyes) (1/IB)
-- Test: Perception (Eye-based)
-- May take Perception Tests with eyes to detect normally imperceptible details
-- Tests available at GM discretion
+### Acute Sense (Sight) (1/IB)
+- Test: Perception (Sight-based)
+- May attempt Perception Tests with sight to detect normally imperceptible details, at GM discretion
 
 ### Bless (Manann) (1/1)
 - Can deploy the Blessings of Manann
