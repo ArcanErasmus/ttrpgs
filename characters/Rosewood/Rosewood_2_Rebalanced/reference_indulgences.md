@@ -191,6 +191,42 @@
         - Speeds: 100 ft fly (perfect)
         - SR: No
 
+- Water Leaper
+    - https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/water-leaper
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: Flyby Attack, Improved Initiative
+        - Immunities: None
+        - Languages: Aquan
+        - Natural Armor: None
+        - Natural Attacks: Sting 1d4 + 1 bleed
+        - Phylocrux: Magical Beast, 3 HD (*cure light wounds*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft, low-light vision
+        - Skills: Acrobatics, Fly, Perception, Stealth, Swim
+        - Special Abilities: Jagged Sting (Ex), Water Leap (Ex)
+        - Speeds: 20 ft land, 20 ft fly (clumsy), 30 ft swim
+        - SR: No
+
+- Sea Urchin, Hunter
+    - https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-hunter
+    - Chosen essence: ?
+    - Available essences:
+        - DR: None
+        - Feats: None
+        - Immunities: Mind-affecting
+        - Languages: None
+        - Natural Armor: +6
+        - Natural Attacks: Tongue 1d3 + pull, spines 1d4 + poison
+        - Phylocrux: Vermin, 3 HD (*ant haul*)
+        - Resistances: None
+        - Senses: Low-light vision, scent, tremorsense 30 ft
+        - Skills: Perception
+        - Special Abilities: Poison (Ex), Spines (Ex), Stability (Ex)
+        - Speeds: 15 ft land
+        - SR: No
+
 ### First World
 - Bulabar
     - https://www.d20pfsrd.com/bestiary/monster-listings/fey/bulabar

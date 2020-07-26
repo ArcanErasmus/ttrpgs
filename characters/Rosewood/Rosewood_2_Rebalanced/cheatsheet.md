@@ -95,7 +95,7 @@ https://rpg.stackexchange.com/a/62720
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 10/10hp - none
+1. 10/10hp - anemone thing, dead
 
 ## Indulgence Quick Info
 ### Rules

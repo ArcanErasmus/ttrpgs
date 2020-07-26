@@ -5,12 +5,12 @@
 ## Achievement Feat Progress
 ### History of Scars
 - take 1000 dmg, subtract 1/5th magic healing
-- damage taken: 243
-- magical healing: 140
+- damage taken: 246
+- magical healing: 143
 - -2 Cha-based skill checks, inc nat armor by 2
 
 ### Mouse Stomper
-- kill 20 creatures 2+ sizes smaller, progress: 17
+- kill 20 creatures 2+ sizes smaller, progress: 18
 - full-attack vs 2+ size smaller, extra melee at full BAB
 
 ### Relentless Butcher
