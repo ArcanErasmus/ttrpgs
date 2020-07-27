@@ -18,6 +18,8 @@ Starting Wealth: 5d6 x 10 gp (avg 175), plus free outfit up to 10 gp
 - Proficiencies: Simple and martial weapons, all armor/shields
 
 ## Level Track
+| lv | features
+|----|----------
 |  1 | Favored Weapon Group, Prowess
 |  2 | Weapon Advantage, Exercise, Uncanny Dodge
 |  3 | Weapon Dominance, Armored Swiftness
