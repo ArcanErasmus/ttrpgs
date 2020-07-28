@@ -12,7 +12,7 @@
     - Daily: O
     - Bonus: +1 dmg, +1 dodge to AC, +1 sacred on saves
 - Resolve
-    - Daily: O
+    - Daily: OO
     - Uses: Remove fatigued/shaken/sickened, advantage on Fort/Will, stabilize & remain conscious
 
 ## Spirit Abilities
@@ -26,7 +26,7 @@
     - Bonus: None
     - Boon: None
 
-## Spells (Medium List) - DC: 13 + spell lvl
+## Spells (Medium List) - DC: 13 + spell lvl, CL 3
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 
 |-------------------------------|-------------------------------|

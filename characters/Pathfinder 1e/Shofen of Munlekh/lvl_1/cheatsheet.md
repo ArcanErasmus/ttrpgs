@@ -26,7 +26,7 @@
     - Bonus: None
     - Boon: None
 
-## Spells (Medium List) - DC: 13 + spell lvl
+## Spells (Medium List) - DC: 13 + spell lvl, CL 1
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 
 |-------------------------------|-------------------------------|
