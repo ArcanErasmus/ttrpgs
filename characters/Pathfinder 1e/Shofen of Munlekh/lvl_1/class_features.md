@@ -43,6 +43,9 @@
 ## Class Features (Medium)
 ### Spellcasting
 - Spontaneous 4-lvl Cha caster, Medium spell list as psychic spells
+    - Replace somatic components with emotion, can't cast if under effects of non-harmful [emotion] spell
+    - Replace verbal components with thought, concentration DC +10 unless take move action to center self before casting
+    - No material/focus components unless costed
 - At 5th lvl & every 3 after, can swap one known spell for another of same spell lvl
 
 ### Spirit (Su)
