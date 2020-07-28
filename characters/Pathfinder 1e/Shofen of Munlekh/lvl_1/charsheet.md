@@ -106,7 +106,7 @@ AC breakdown: +3 dex, +1 cha
 
 ## Languages, Proficiencies
 - Languages: Common
-- Weapons:   Simple, Martial, [katana, wakizashi, naginata]
+- Weapons:   Simple, Martial, [katana, naginata, wakizashi]
 - Armor:     Light, Medium, Shields
 
 ## Racial Features
