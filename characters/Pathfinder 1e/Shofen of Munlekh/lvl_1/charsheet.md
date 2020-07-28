@@ -1,4 +1,4 @@
-# Shofen Munlekh, she
+# Shofen of Munlekh, she
 ## LG, Human, Samurai/Medium 1
 - Samurai Archetypes: Warrior Poet
     - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/warrior-poet-samurai-archetype
