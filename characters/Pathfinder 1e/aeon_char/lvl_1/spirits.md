@@ -1,4 +1,4 @@
-# ?'s Spirit List
+# Shofen's Spirit List
 - https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/medium/spirits/spirits-paizo-inc
 
 ## Regular

@@ -1,71 +1,69 @@
-# ?, she
-## ?, Human, Samurai/Medium 1
+# Shofen Munlekh, she
+## LN, Human, Samurai/Medium 1
 - Samurai Archetypes: Warrior Poet
-    - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/rite-publishing-samurai-archetypes/tajiya
-- Devoted to ?: ?
-    - ?
-- 3'11", 185 lbs, 71 yo, black hair, gray eyes
+    - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/warrior-poet-samurai-archetype
+- Worships a multitude of deities
+|----------|--------|----------------------|-----------------------------------------
+| Iomedae  | Sword  | honor and valor      | https://pathfinderwiki.com/wiki/Iomedae
+| Irori    | Hand   | inner strength       | https://pathfinderwiki.com/wiki/Irori
+| Pharasma | Spiral | guiding lost souls   | https://pathfinderwiki.com/wiki/Pharasma
+| Serenrae | Angel  | compassion and mercy | https://pathfinderwiki.com/wiki/Sarenrae
+| Shelyn   | Bird   | artistic inspiration | https://pathfinderwiki.com/wiki/Shelyn
+|----------|--------|----------------------|-----------------------------------------
+- 5'0", 120 lbs, 17 yo, brown hair, green eyes
 - [desc]
 - Favored class: Samurai
 
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|
-| STR  |  8 (-1) | -
+| STR  | 14 (+2) | -
 | DEX  | 16 (+3) | -
-| CON  |  8 (-1) | -
-| INT  | 12 (+1) | -
+| CON  | 10 (  ) | -
+| INT  | 13 (+1) | -
 | WIS  | 12 (+1) | -
-| CHA  | 18 (+4) | -
-20 Point buy: 16 16 12 12 8 8
+| CHA  | 16 (+3) | -
+20 Point buy: 14 14 14 13 12 10
 
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| AC   | 17 (17 T/10 F) | -
+| AC   | 14 (14 T/10 F) | -
 | BAB  | +1             | -
-| CMB  | +0             | -
-| CMD  | 13             | -
+| CMB  | +3             | -
+| CMD  | 16             | -
 | Init | +3             | -
 | Spd  | 30/20 ft       | -
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| HP   |   9 |   9 | 0, 0 NL
+| HP   |  11 |  11 | 0, 0 NL
 | Hero |   1 |   1 | 0
 |------|-----|-----|-----------|
 HD rolls (d10): [10]
-AC breakdown: +3 dex, +4 cha
+AC breakdown: +3 dex, +1 cha
 
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +1    | -
+| Fort | Con  | +2    | -
 | Ref  | Dex  | +3    | -
 | Will | Wis  | +3    | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
-<!-- - Race (Dwarf): +2 racial bonus on Craft and Profession checks related to metal or stone
-- Race (Dwarf): Cold Resistance 1, Fire Resistance 1
-- Race (Dwarf): Treat extreme temps as 20 degrees better
-- Race (Dwarf): +4 bonus on Profession checks to make money
-- Race (Dwarf): +4 racial bonus on CMD vs bull rush or trip while standing on ground
-- Race (Dwarf): +2 bonus on Perception checks to notice unusual stonework
-- Race (Dwarf): +2 racial bonus to saves vs spells/SLA and poison
-- Trait (Glory of Old): +1 trait bonus to saves vs spells/SLA and poison
-- Class Feature (Back-Channel Merchant): Bonus to Appraise to determine value of common item equal to 1/2 lvl, min +1
-- Item (Forgefather's Hammer): +5 competence bonus to Craft checks relating to metal items
-- Item (Magnifying Glass): +2 circumstance bonus to Appraise with detailed items -->
+- Drawback (Cowardly): +5 ft speed when frightened and fleeing, 1 point worse penalties from cowering/shaken/frightened/panicked
+- Trait (Born Under the Stranger): 4 fewer points penalty to feint aberrations 
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
-|   |   |   | Acrobatics         | Dex |     | -
+| 1 |   | C | Acrobatics         | Dex | +7  | -
 |   |   |   | Appraise           | Int |     | -
 |   | T |   | Autohypnosis       | Wis |     | -
-|   |   | C | Bluff              | Cha |     | -
+| 1 |   | C | Bluff              | Cha | +6  | -
 |   |   | C | Climb              | Str |     | -
 |   |   | C | Craft              | Int |     | -
+| 1 |   | C |   Painting         | Int | +5  | -
 |   |   | C | Diplomacy          | Cha |     | -
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
@@ -73,7 +71,7 @@ AC breakdown: +3 dex, +4 cha
 |   |   | C | Fly                | Dex |     | -
 |   | T | C | Handle Animal      | Cha |     | -
 |   |   |   | Heal               | Wis |     | -
-|   |   | C | Intimidate         | Cha |     | -
+| 1 |   | C | Intimidate         | Cha | +6  | -
 |   | T | C | Kn (arcana)        | Int |     | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
 |   | T |   | Kn (engineering)   | Int |     | -
@@ -88,6 +86,7 @@ AC breakdown: +3 dex, +4 cha
 |   | T | C | Linguistics        | Int |     | -
 |   |   | C | Perception         | Wis |     | -
 |   |   | C | Perform            | Cha |     | -
+| 1 |   | C |   Oratory          | Cha | +8  | -
 |   | T | C | Profession         | Wis |     | -
 |   |   | C | Ride               | Dex |     | -
 |   |   | C | Sense Motive       | Wis |     | -
@@ -96,71 +95,59 @@ AC breakdown: +3 dex, +4 cha
 |   |   |   | Stealth            | Dex |     | -
 |   |   |   | Survival           | Wis |     | -
 |   |   | C | Swim               | Str |     | -
-|   | T | C | Use Magic Device   | Cha |     | -
+| 1 | T | C | Use Magic Device   | Cha | +6  | -
 |---|---|---|--------------------|-----|-----|------
 - **Current encumbrance modifiers: no max Dex, no ACP, 0% ASFC, normal speed**
-- 5/5
+- 6/6
     - 1x(4+1) samurai
+    - 1x1 human
 
 ## Favored class bonus
-- ? skill ranks
-- ? hp
+- 1 hp
 
 ## Languages, Proficiencies
-- Languages: Common (?), ?
+- Languages: Common (?), +1
 - Weapons:   Simple, Martial, [katana, wakizashi, naginata]
 - Armor:     Light, Medium, Shields
 
 ## Racial Features
 ### Base Properties
-- +2 Any one
+- +2 Any one attribute, chosen: Dexterity
 - Humanoid, human subtype
 - Medium, 30 ft BLS
-
-<!-- ### Racial Traits [Dwarf]
-#### Craftsman
-- +2 racial bonus on Craft and Profession checks related to metal or stone
-
-#### Desert Dweller
-- Gain cold and fire resistance 1
-- Treat temp of extreme environments as 20 degrees better
-
-#### Hardy
-- +2 racial bonus on saves vs spell/SLA and poison
-
-#### Industrious Urbanite
-- Double normal progress on Craft checks to make non-magical items
-- +4 bonus on Profession checks to earn money
-
-#### Stability
-- +4 racial bonus to CMD vs bull rush or trip while standing on the ground
-
-#### Stonecunning
-- +2 bonus on Perception checks to notice unusual stonework, such as traps and hidden doors
-- Receive a check to notice such features whenever within 10 ft of them, whether or not actively looking
-
-#### Weapon Familiarity
-- Proficient with battleaxes, heavy picks, warhammers
-- Treat any weapon with "dwarven" in its name as martial -->
+- +1 skill rank/lvl
+- Bonus feat at lvl 1
 
 ## Traits & Drawbacks
-<!-- ### (D) Pride
-- When threatened/accused/challenged, –2 penalty on Diplomacy/Sense Motive with that creature until apologizes
+### (D) Cowardly
+- +5 ft speed when frightened and fleeing
+- Penalties from cowering, shaken, frightened, panicked increase by 1
+- If immune to fear, no extra penalties but lose said immunity
 
-### Spark of Creation [Magic]
-- +1 trait bonus on Craft checks
-- Cost of creating magic items is 5% less
+### Savant [Social]
+- Chosen Perform: Oratory
+- +2 trait bonus on that Perform check
 
-### Glory of Old [Regional, Dwarf]
-- +1 trait bonus on saves vs spells, spell-like abilities, poison
+### Born Under the Stranger [Combat]
+- No -4 to feint aberrations
+- Only -4 to feint animal-intelligence aberrations
 
-### Clever Wordplay [Social]
-- Use Int instead of Cha for one skill
-- Skill: UMD -->
+### Rice Runner [Regional]
+- +1 trait bonus Acrobatics
+- Acrobatics is class skill
 
 ## Feats
-### ? [lvl 1]
-- ?
+### Power Attack [lvl 1]
+- Choose to take -1 melee atk & CMB for +2 melee damage
+- +50% for two-handing, -50% for offhanding
+- For every +4 BAB, increase -1 penalty and +2 bonus
 
 ### ? [Human Bonus, lvl 1]
 - ?
+
+### Weapon Finesse [Warrior Poet Bonus, lvl 1]
+- May use Dex on attack instead of Str with size-appropriate light or finesse weapons
+- If you use a shield, its ACP applies to your attacks
+
+### Improved Feint [Warrior Poet Bonus, lvl 1]
+- May feint as a move action

@@ -1,4 +1,4 @@
-# ?'s Class Features
+# Shofen's Class Features
 ## Class Features (Samurai)
 ### Skirmisher's Challenge (Ex)
 - 1/day, challenge foe within sight as swift action
@@ -28,12 +28,14 @@
 - Can spend as immediate action to stabilize & remain conscious when reduced to neg hp, don't fall unconscious from taking standard action
 
 ### Dancer's Grace (Ex)
-- When wearing no armor and not using shield, add Cha to AC if not denied Dex
+- When wearing no armor and not using shield, add Cha to AC (max Samurai lvl) if not denied Dex
 
 ### Flourish (Ex)
 - Choose from list at lvls 1,3,5,9,13,17,20
 
-#### ?
+#### Kitsune's Mystique
+- Gain Improved Feint as a bonus feat, ignoring prereqs
+- During a Spring Attack or move, may feint as part of movement against one creature threatened during movement
 
 ### Graceful Warrior (Ex)
 - Gain Weapon Finesse as bonus feat, can also apply to glaive, katana, naginata
