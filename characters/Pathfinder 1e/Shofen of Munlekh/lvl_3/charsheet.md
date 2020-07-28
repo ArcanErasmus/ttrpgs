@@ -45,22 +45,23 @@ AC breakdown: +3 dex, +3 cha
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +3    | -
-| Ref  | Dex  | +4    | -
-| Will | Wis  | +4    | -
+| Fort | Con  | +3    | *
+| Ref  | Dex  | +4    | *
+| Will | Wis  | +4    | *
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Drawback (Cowardly): +5 ft speed when frightened and fleeing, 1 point worse penalties from cowering/shaken/frightened/panicked
 - Trait (Born Under the Stranger): 4 fewer points penalty to feint aberrations 
+- Trait (Principled): +2 trait saves vs [emotion], [compulsion], and [emotion] effects
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
-| 3 |   | C | Acrobatics         | Dex | +9  | -
+| 2 |   |   | Acrobatics         | Dex | +5  | -
 |   |   |   | Appraise           | Int |     | -
 |   | T |   | Autohypnosis       | Wis |     | -
 |   |   | C | Bluff              | Cha |     | -
-|   |   | C | Climb              | Str |     | -
+| 1 |   | C | Climb              | Str | +5  | -
 |   |   | C | Craft              | Int |     | -
 | 1 |   | C |   Painting         | Int | +5  | -
 |   |   | C | Diplomacy          | Cha | +11 | *
@@ -134,9 +135,9 @@ AC breakdown: +3 dex, +3 cha
 - No -4 to feint aberrations
 - Only -4 to feint animal-intelligence aberrations
 
-### Rice Runner [Regional]
-- +1 trait bonus Acrobatics
-- Acrobatics is class skill
+### Principled [Faith]
+- +2 trait saves vs [charm], [compulsion], and [emotion] effects
+- -2 to Bluff
 
 ## Feats
 ### Power Attack [lvl 1]
