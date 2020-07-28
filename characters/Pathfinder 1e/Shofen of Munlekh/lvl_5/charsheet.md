@@ -19,7 +19,7 @@
 | Serenrae | Angel  | compassion and mercy | https://pathfinderwiki.com/wiki/Sarenrae
 | Shelyn   | Bird   | artistic inspiration | https://pathfinderwiki.com/wiki/Shelyn
 |----------|--------|----------------------|-----------------------------------------
-- 5'0", 120 lbs, 17 yo, brown hair, green eyes
+- 5'0", 120 lbs, 24 yo, brown hair, green eyes
 - Favored class: Samurai
 
 ## Ability Scores
