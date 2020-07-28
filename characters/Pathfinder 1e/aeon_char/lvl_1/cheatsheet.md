@@ -2,7 +2,7 @@
 ## Weapons
 | Weapon    | Atk | Dam   | Crit     | Type | Range | Notes
 |-----------|-----|-------|----------|------|-------|------------
-| Katana    | +4  | 1d8+3 | 18-20/x2 | S    |       | Deadly
+| Katana    | +5  | 1d8+3 | 18-20/x2 | S    |       | Deadly
 | Wakizashi | +4  | 1d6+2 | 18-20/x2 | P/S  |       | Deadly
 
 ## Combat Abilities

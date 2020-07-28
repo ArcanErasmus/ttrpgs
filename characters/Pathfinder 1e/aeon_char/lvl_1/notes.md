@@ -9,7 +9,21 @@
 ## feats
 - ? bonus
 - any lvl
-    - ?
+    - combat expertise https://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat
+        - diva style https://www.d20pfsrd.com/feats/combat-feats/diva-style-combat-style
+    - weapon focus
+- lvl 3
+    - swordplay style https://www.d20pfsrd.com/feats/combat-feats/swordplay-style-combat-style
+- lvl 5
+    - swordplay upset https://www.d20pfsrd.com/feats/combat-feats/swordplay-upset-combat
+- lvl 6
+    - greater feint https://www.d20pfsrd.com/feats/combat-feats/greater-feint-combat
+- lvl 7
+    - diva strike https://www.d20pfsrd.com/feats/combat-feats/diva-strike-combat
+    - swordplay deflection https://www.d20pfsrd.com/feats/combat-feats/swordplay-deflection-combat
+- lvl 11
+    - diva advance https://www.d20pfsrd.com/feats/combat-feats/diva-advance-combat
+
 
 # Gestalt lvl track
 ## Samurai - Warrior Poet

@@ -1,5 +1,5 @@
 # Shofen Munlekh, she
-## LN, Human, Samurai/Medium 1
+## LG, Human, Samurai/Medium 1
 - Samurai Archetypes: Warrior Poet
     - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/warrior-poet-samurai-archetype
 - Worships a multitude of deities
@@ -11,7 +11,6 @@
 | Shelyn   | Bird   | artistic inspiration | https://pathfinderwiki.com/wiki/Shelyn
 |----------|--------|----------------------|-----------------------------------------
 - 5'0", 120 lbs, 17 yo, brown hair, green eyes
-- [desc]
 - Favored class: Samurai
 
 ## Ability Scores
@@ -142,8 +141,8 @@ AC breakdown: +3 dex, +1 cha
 - +50% for two-handing, -50% for offhanding
 - For every +4 BAB, increase -1 penalty and +2 bonus
 
-### ? [Human Bonus, lvl 1]
-- ?
+### Weapon Focus (katana) [Human Bonus, lvl 1]
+- +1 atk with katanas
 
 ### Weapon Finesse [Warrior Poet Bonus, lvl 1]
 - May use Dex on attack instead of Str with size-appropriate light or finesse weapons
