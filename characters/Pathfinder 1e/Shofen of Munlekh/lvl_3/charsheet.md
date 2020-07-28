@@ -36,7 +36,7 @@
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| HP   |  31 |  31 | 0, 0 NL
+| HP   |  30 |  30 | 0, 0 NL
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
 HD rolls (d10): [10], 3+7, 8+2
@@ -89,7 +89,7 @@ AC breakdown: +3 dex, +3 cha
 | 3 |   | C |   Oratory          | Cha | +11 | -
 |   | T | C | Profession         | Wis |     | -
 | 1 | T | C |   Gardener         | Wis | +6  | -
-|   |   | C | Ride               | Dex |     | -
+| 1 |   | C | Ride               | Dex | +7  | -
 |   |   | C | Sense Motive       | Wis | +11 | *
 |   | T |   | Sleight of Hand    | Dex |     | -
 | 2 | T | C | Spellcraft         | Int | +5  | -
@@ -99,14 +99,13 @@ AC breakdown: +3 dex, +3 cha
 | 3 | T | C | Use Magic Device   | Cha | +9  | -
 |---|---|---|--------------------|-----|-----|------
 - **Current encumbrance modifiers: no max Dex, no ACP, 0% ASFC, normal speed**
-- 17/17
+- 18/18
     - 3x(4+0) samurai
     - 3x1 human
-    - 2x1 favored class
+    - 3x1 favored class
 
 ## Favored class bonus
-- 1 hp
-- 2 skill ranks
+- 3 skill ranks
 
 ## Languages, Proficiencies
 - Languages: Common
