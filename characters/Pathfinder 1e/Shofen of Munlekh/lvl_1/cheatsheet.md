@@ -2,8 +2,8 @@
 ## Weapons
 | Weapon    | Atk | Dam   | Crit     | Type | Range | Notes
 |-----------|-----|-------|----------|------|-------|------------
-| Katana    | +5  | 1d8+3 | 18-20/x2 | S    |       | Deadly
-| Wakizashi | +4  | 1d6+2 | 18-20/x2 | P/S  |       | Deadly
+| Katana    | +5  | 1d8+1 | 18-20/x2 | S    |       | Deadly
+| Wakizashi | +4  | 1d6+1 | 18-20/x2 | P/S  |       | Deadly
 
 ## Combat Abilities
 - Power Attack
@@ -26,7 +26,7 @@
     - Bonus: None
     - Boon: None
 
-## Spells (Medium List) - DC: 12 + spell lvl
+## Spells (Medium List) - DC: 13 + spell lvl
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 
 |-------------------------------|-------------------------------|

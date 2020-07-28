@@ -16,21 +16,21 @@
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|
-| STR  | 14 (+2) | -
+| STR  | 13 (+1) | -
 | DEX  | 16 (+3) | -
 | CON  | 10 (  ) | -
-| INT  | 13 (+1) | -
+| INT  | 10 (  ) | -
 | WIS  | 12 (+1) | -
 | CHA  | 16 (+3) | -
-20 Point buy: 14 14 14 13 12 10
+20 Point buy: 16 14 13 12 10 10
 
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
 | AC   | 14 (14 T/10 F) | -
 | BAB  | +1             | -
-| CMB  | +3             | -
-| CMD  | 16             | -
+| CMB  | +2             | -
+| CMD  | 15             | -
 | Init | +3             | -
 | Spd  | 30/20 ft       | -
 |------|-----|-----|----|------|
@@ -59,10 +59,10 @@ AC breakdown: +3 dex, +1 cha
 | 1 |   | C | Acrobatics         | Dex | +7  | -
 |   |   |   | Appraise           | Int |     | -
 |   | T |   | Autohypnosis       | Wis |     | -
-| 1 |   | C | Bluff              | Cha | +6  | -
+|   |   | C | Bluff              | Cha |     | -
 |   |   | C | Climb              | Str |     | -
 |   |   | C | Craft              | Int |     | -
-| 1 |   | C |   Painting         | Int | +5  | -
+| 1 |   | C |   Painting         | Int | +4  | -
 |   |   | C | Diplomacy          | Cha |     | -
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
@@ -70,7 +70,7 @@ AC breakdown: +3 dex, +1 cha
 |   |   | C | Fly                | Dex |     | -
 |   | T | C | Handle Animal      | Cha |     | -
 |   |   |   | Heal               | Wis |     | -
-| 1 |   | C | Intimidate         | Cha | +6  | -
+|   |   | C | Intimidate         | Cha |     | -
 |   | T | C | Kn (arcana)        | Int |     | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
 |   | T |   | Kn (engineering)   | Int |     | -
@@ -79,13 +79,13 @@ AC breakdown: +3 dex, +1 cha
 |   | T |   | Kn (local)         | Int |     | -
 |   | T |   | Kn (nature)        | Int |     | -
 |   | T |   | Kn (nobility)      | Int |     | -
-|   | T | C | Kn (planes)        | Int |     | -
+| 1 | T | C | Kn (planes)        | Int | +4  | -
 |   | T |   | Kn (psionics)      | Int |     | -
 |   | T | C | Kn (religion)      | Int |     | -
 |   | T | C | Linguistics        | Int |     | -
 |   |   | C | Perception         | Wis |     | -
 |   |   | C | Perform            | Cha |     | -
-| 1 |   | C |   Oratory          | Cha | +8  | -
+| 1 |   | C |   Oratory          | Cha | +9  | -
 |   | T | C | Profession         | Wis |     | -
 |   |   | C | Ride               | Dex |     | -
 |   |   | C | Sense Motive       | Wis |     | -
@@ -94,18 +94,18 @@ AC breakdown: +3 dex, +1 cha
 |   |   |   | Stealth            | Dex |     | -
 |   |   |   | Survival           | Wis |     | -
 |   |   | C | Swim               | Str |     | -
-| 1 | T | C | Use Magic Device   | Cha | +6  | -
+| 1 | T | C | Use Magic Device   | Cha | +7  | -
 |---|---|---|--------------------|-----|-----|------
 - **Current encumbrance modifiers: no max Dex, no ACP, 0% ASFC, normal speed**
-- 6/6
-    - 1x(4+1) samurai
+- 5/5
+    - 1x(4+0) samurai
     - 1x1 human
 
 ## Favored class bonus
 - 1 hp
 
 ## Languages, Proficiencies
-- Languages: Common (?), +1
+- Languages: Common
 - Weapons:   Simple, Martial, [katana, wakizashi, naginata]
 - Armor:     Light, Medium, Shields
 
