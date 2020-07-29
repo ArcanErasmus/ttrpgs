@@ -16,7 +16,7 @@
 | **Weapons**              |   8    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
 | Mwk Wakizashi            |   2    |
-| *+1 Katana*              |   6    |
+| *+1 Katana*              |   6    | Glows as *light*
 | Mwk Sling                |        |
 |--------------------------|--------|--------------------------------
 | **General**              |  12    | Non-consumable catch-all

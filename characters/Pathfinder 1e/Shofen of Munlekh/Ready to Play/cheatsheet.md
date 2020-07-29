@@ -1,23 +1,34 @@
 # Shofen's Abilities Cheat-sheet
+## Spirit Channeling
+- **Spirit**: Hierophant; influence (max 6): OOOOOO
+    - Bonus (+2): Wis checks/skills, Will
+        - Spirit Surge: 1d6
+    - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
+    - Boon: +2 healing from own spells/abilities
+    - Lesser: Divine Surge (see Hierophant Bonus Spells)
+
 ## Weapons
 | Weapon        | Atk    | Dam   | Crit     | Type | Range | Notes
 |---------------|--------|-------|----------|------|-------|------------
-| *+1 Katana*   | +13/+8 | 1d8+6 | 18-20/x2 | S    |       | Deadly
+| *+1 Katana*   | +12/+7 | 1d8+6 | 18-20/x2 | S    |       | Deadly, glows
 | Mwk Wakizashi | +12/+7 | 1d6+4 | 18-20/x2 | P/S  |       | Deadly
-| Unarmed       | +11/+6 | 1d8+4 |    20/x2 | B    |       | See unarmed strike class feature
+| Unarmed       | +11/+6 | 1d6+4 |    20/x2 | B    |       | See unarmed strike class feature
 | Mwk Sling     | +12    | 1d4+2 |    20/x2 | B    | 50 ft |
 
-## Combat Abilities
+## Combat Options
 - Power Attack
     - -2 melee atk/CMB, +4 melee dmg
+- Combat Expertise
+    - -2 melee atk/CMB, +2 dodge AC
 - Challenge
-    - Daily: OO
-    - Bonus: +2 dmg, +2 dodge to AC, +2 sacred to AC, +2 sacred on saves
+    - **Daily**; 2/day: OO
+    - Bonus: +5 dmg, +2 dodge to AC, +2 sacred to AC, +2 sacred on saves
 - Resolve
-    - Daily: OOO
+    - **Daily**; 3/day: OOO
     - Uses: Remove fatigued/shaken/sickened, advantage on Fort/Will, stabilize & remain conscious
+    - Regain when defeat challenge target
 - Panache
-    - Daily: OOOO
+    - **Daily**; 4/day: OOOO
     - Regain on crit/kill with light/1h piercing melee weapon, monk weapon, or unarmed strike
     - Deeds: Derring-do, dodging panache
 - Diva Style
@@ -27,68 +38,52 @@
     - +1 shield bonus AC when defensive, ignore CmbExp penalties on first attack each turn
     - Feint as immediate vs opponent that misses melee attack against you
 
-## Spirit Abilities
-- Spirit Surge
-    - Bonus: +1d6
-- Channelling
-    - Bonus: +2
-    - Powers: Seance boon, lesser
-- Current Spirit: None
-    - Bonus: None
-    - Boon: None
-
 ## Magical Abilities
 - At-will - *detect chaos* (CL 2)
     - focus on target as move to learn as if cast and studied for 3 rounds
 - Smite Chaos
-    - Daily: O
+    - **Daily**; 1/day: O
     - Atk: +4
     - Damage: +2
     - Sacred to AC: +2
     - Double damage bonus vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - Daily: OOOOO
+    - **Daily**; 5/day: OOOOO
     - Heal: 1d6
+- Last Rites
+    - **Daily**; 2/day: OO
+    - Damage: 4d6
 
 ## Spells (Medium List) - DC: 14 + spell lvl, CL 5
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
+|---------------------------------------------------------------|
+| Ranges - Close: 30 ft, Medium: 130 ft, Far: 520 ft            |
+|-------------------------------|-------------------------------|
+| **0th**; No daily limit       | **1st**; 2/day: OO            |
+|-------------------------------|-------------------------------|
+| Detect Magic                  | Calm Spirit                   |
+| Detect Psychic Significance   | Identify                      |
+| Grave Words                   | Object Reading                |
+| Light                         |-------------------------------|
+| Read Magic                    |
+|-------------------------------|
 
-|-------------------------------|-------------------------------|
-| 0th: No daily limit           | Ranges                        |
-|-------------------------------|-------------------------------|
-| Detect Magic                  | Close  :  30 ft               |
-| Detect Psychic Significance   | Far    : 520 ft               |
-| Grave Words                   |                               |
-| Light                         | Medium : 130 ft               |
-| Read Magic                    |                               |
-|                               |                               |
-|-------------------------------|-------------------------------|
-| 1st: 2/day; OO                | 2nd: 0/day; -                 |
-|-------------------------------|-------------------------------|
-| Identify                      |                               |
-| Object Reading                |                               |
-| Psychic Reading               |                               |
-|                               |                               |
-|                               |                               |
-|                               |                               |
-|-------------------------------|-------------------------------|
-| 3rd: 0/day; -                 | 4th: 0/day; -                 |
-|-------------------------------|-------------------------------|
-|                               |                               |
-|                               |                               |
-|                               |                               |
-|                               |                               |
-|                               |                               |
-|                               |                               |
-|-------------------------------|-------------------------------|
+### Spells as Mesmerist (Archmage/Hierophant)
+- **0th**; No daily limit
+- **1st**; 4/day: OOOO
+- **2nd**; 2/day: OO
 
-## Magic Items
-| Item (Personal Inventory)          | CL | Num |
-|------------------------------------|----|-----|
-|------------------------------------|----|-----|
-| Item (Party Loot Pool)             | CL | Num |
-|------------------------------------|----|-----|
-|------------------------------------|----|-----|
+### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
+- https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard
+0. Detect Fiendish Presence
+1. Snowball
+2. Instant Weapon
+
+### Hierophant Bonus Spells (Cle/Ora list, cast as divine spells)
+- https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
+0. Guidance
+1. Cure Light Wounds
+2. Restoration, Lesser
 
 ## Achievement Feat Tracker
 ### Graverisen

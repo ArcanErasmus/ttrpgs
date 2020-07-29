@@ -71,8 +71,7 @@
 - Gain certain bonuses for 24 hrs
     - Spirit bonus: +1 +1/4 Medium lvl
     - Spirit powers: Lesser & seance boon
-- Spirit starts out with 3 influence over Medium
-    - Influence reset to 1 after 24 hrs
+- Spirit gains 3 influence over body, max 6
     - If 3+ influence, -2 initiative & listed spirit penalty, but +4 vs possesion effects & +2 saves vs non-possession mind-affecting
     - Effects that increase/decrease influence have opposite effect (included in descriptions)
     - If lose all influence, enter coma for 24 hrs, then reset to 1 influence

@@ -17,11 +17,12 @@
 |----------|--------|----------------------|-----------------------------------------
 | Iomedae  | Sword  | honor and valor      | https://pathfinderwiki.com/wiki/Iomedae
 | Irori    | Hand   | inner strength       | https://pathfinderwiki.com/wiki/Irori
-| Pharasma | Spiral | guiding lost souls   | https://pathfinderwiki.com/wiki/Pharasma
+|^Pharasma | Spiral | guiding lost souls   | https://pathfinderwiki.com/wiki/Pharasma
 | Serenrae | Angel  | compassion and mercy | https://pathfinderwiki.com/wiki/Sarenrae
 | Shelyn   | Bird   | artistic inspiration | https://pathfinderwiki.com/wiki/Shelyn
 |----------|--------|----------------------|-----------------------------------------
 - 5'0", 120 lbs, 26 yo, brown hair, green eyes
+- Born in Munlekh on Rova 3rd, ?
 - Favored class: Samurai
 
 ## Ability Scores
@@ -47,7 +48,8 @@
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| HP   |  74 |  74 | 0, 0 NL
+| Wnds |  67 |  67 | 0, 0 NL
+| Vigr |  17 |  17 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
 HD rolls (d10): [10], 3+7, 8+2, 5+5, 7+3, 8+2, 4+3
@@ -56,9 +58,9 @@ AC breakdown: +4 dex, +4 cha, +2 wis, +1 natural armor, +1 armor
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +9    | *
-| Ref  | Dex  | +12   | *
-| Will | Wis  | +11   | *
+| Fort | Con  | +9    | -
+| Ref  | Dex  | +12   | -
+| Will | Wis  | +11   | +2
 Fort: 2 + 7x(1/2) + 0x(1/3) = +5
 Ref : 2 + 2x(1/2) + 5x(1/3) = +4
 Will: 2 + 7x(1/2) + 0x(1/3) = +5
@@ -69,6 +71,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Trait (Enduring Stoicism): +2 trait saves vs [fear] and [emotion] spells/effects
 - Trait (Spirit Sense): +2 trait Perception to detect invisible or incorporeal creatures
 - Trait (Spirit Sense): +2 trait Perception to avoid being surprised
+- Class Feature (Channel Self): +2 to certain things, see cheatsheet
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
@@ -79,7 +82,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   |   | C | Bluff              | Cha |     | -
 | 1 |   | C | Climb              | Str | +6  | -
 |   |   | C | Craft              | Int |     | -
-| 7 |   | C |   Painting         | Int | +13 | -
+| 1 |   | C |   Painting         | Int | +7  | -
 |   |   | C | Diplomacy          | Cha | +16 | *
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
@@ -96,9 +99,9 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   | T |   | Kn (local)         | Int |     | -
 |   | T |   | Kn (nature)        | Int |     | -
 | 1 | T | C | Kn (nobility)      | Int | +5  | -
-| 1 | T | C | Kn (planes)        | Int | +5  | -
+| 5 | T | C | Kn (planes)        | Int | +9  | -
 |   | T |   | Kn (psionics)      | Int |     | -
-| 1 | T | C | Kn (religion)      | Int | +5  | -
+| 3 | T | C | Kn (religion)      | Int | +7  | -
 | 1 | T | C | Linguistics        | Int | +5  | -
 | 1 |   | C | Perception         | Wis | +6  | *
 |   |   | C | Perform            | Cha |     | -
@@ -106,7 +109,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   | T | C | Profession         | Wis |     | -
 | 1 | T | C |   Gardener         | Wis | +8  | -
 | 1 |   | C | Ride               | Dex | +8  | -
-|   |   | C | Sense Motive       | Wis | +15 | *
+|   |   | C | Sense Motive       | Wis | +16 | *
 |   | T |   | Sleight of Hand    | Dex |     | -
 | 2 | T | C | Spellcraft         | Int | +6  | -
 | 1 |   | C | Stealth            | Dex | +8  | -
@@ -165,8 +168,11 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - +50% for two-handing, -50% for offhanding
 - For every +4 BAB, increase -1 penalty and +2 bonus
 
-### Weapon Focus (katana) [Human Bonus, lvl 1]
-- +1 atk with katanas
+### Last Rites [Human Bonus, lvl 1]
+- Standard action, touch attack vs haunt or undead that has *ressurection* vulnerability
+- Must have identified undead with Kn (religion), or detected haunt
+- Deals 3d6 + 1d6/5 ranks Kn (religion) positive energy damage
+- Usable 1 + 1/5 ranks Kn (religion) per day
 
 ### Weapon Finesse [Warrior Poet Bonus, lvl 1]
 - May use Dex on attack instead of Str with size-appropriate light or finesse weapons

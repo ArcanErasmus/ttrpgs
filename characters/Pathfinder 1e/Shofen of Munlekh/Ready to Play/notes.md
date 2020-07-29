@@ -1,10 +1,71 @@
 # Shofen's Notes
+## combat contingencies
+- Physical damage type
+    - Bludgeoning melee: Unarmed strike
+    - Bludgeoning ranged: Sling
+    - Slashing melee: Katana, wakizashi
+    - Slashing ranged: ?
+    - Piercing melee: Wakizashi
+    - Piercing ranged: ?
+- Other damage
+    - Reach physical: *Instant weapon* (requires channeling Archmage)
+    - Nonlethal melee: Unarmed strike
+    - Nonlethal range: Sling, eat the -4 atk
+    - Energy damage melee: *Shocking grasp* (requires channeling Archmage)
+    - Energy damage ranged: *Acid arrow*/*snowball* (requires channeling Archmage)
+- Unusual enemies
+    - Incorporeal melee: *Instant weapon* (requires channeling Archmage)
+    - Incorporeal ranged: ?
+    - Tough opponent: Challenge, channel Champion or Guardian
+    - Chaotic/aberration opponent: Smite chaos
+- Haunts
+    - Avoidance: *Calm spirit*
+    - Defeating: *Last Rites*
+    - Discourse: Spirit planchette, *grave words*
+
+## other contingencies
+- Injuries
+    - Healing: Lay on hands, *clw*/*cmw* (requires channeling Hierophant)
+    - Ability Damage: *Restoration, lesser* (requires channeling Hierophant)
+    - Ability Drain: ?
+    - Disease identification: *Diagnose disease* (requires channeling Hierophant)
+    - Disease treatment: *Delay disease* (requires channeling Hierophant)
+    - Disease cure: ?
+    - Poison identification: *Detect poison* (requires channeling Hierophant or Archmage)
+    - Poison treatment: *Delay poison*/*invigorating poison*/*pick your poison* (requires channeling Hierophant)
+    - Poison cure: ?
+- Conditions
+    - Fatigued/exhausted prevention: ?
+    - Fatigued/exhausted cure: ?
+    - Sickened/nauseated prevention: ?
+    - Sickened/nauseated cure: ?
+    - Fear prevention: ?
+    - Fear cure: ?
+- Checks
+    - Physical stat/skill check: Panache, spirit bonus/surge (requires channeling Champion/Guardian/Trickster)
+    - Mental stat/skill check: Spirit bonus/surge (requires channeling Archmage/Hierophant/Marshal)
+- Magic and spells
+    - Magic aura identification: *Detect magic*
+    - Magic item identification: *Identify*
+    - Magic dispelling: *Dispel magic* (requires channeling Archmage)
+    - Psychic aura identification: *Detect psychic significance*
+    - Psychic item identification: *Object reading*
+
 ## interesting things to look into
 ### classes/presige classes
-- ?
+- Devoted Muse https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/devoted-muse
+- Champion of the Enlightened https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/champion-of-the-enlightened
+- Harrower https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/e-h/harrower
+- Sacred Sentinel https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sacred-sentinel
+- Scar Seeker https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/scar-seeker
 
 ### items
-- ?
+- Tome of Epics https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Tome%20of%20epics
+
+### story feats
+- Arisen https://www.d20pfsrd.com/feats/story-feats/arisen-story
+- Enemy Cult https://www.d20pfsrd.com/feats/story-feats/enemy-cult-story
+- Ghost Guide https://www.d20pfsrd.com/feats/story-feats/ghost-guide-story
 
 ## feats
 - ? bonus

@@ -44,7 +44,7 @@
 - Bonus: Wis checks/skills, Will
 - Seance Boon: +2 healing from own spells/abilities (not magic items, fast healing, etc)
 - Fav Locations: Altars, chuches, sacred groves, shrines
-- 3+ Inf Penalty: Must save foes for redemption/sacrifice
+- 3+ Inf Penalty: Must save foes for redemption
     - Spirit bonus as penalty to Cha checks/skills with worshippers of other faiths (except to convert), strike for nonlethal whenever possible
 - Lesser: Divine Surge (Su)
     -  As archmage Arcane Surge, but Cleric/Oracle list and need divine focus if required
