@@ -41,7 +41,7 @@
 | AC   | 22 (20 T/22 F) | -
 | BAB  | +7             | -
 | CMB  | +9             | -
-| CMD  | 23             | -
+| CMD  | 29             | -
 | Init | +4             | -
 | Spd  | 40/30 ft       | -
 |------|-----|-----|----|------|
@@ -56,10 +56,12 @@ AC breakdown: +4 dex, +4 cha, +2 wis, +1 natural armor, +1 armor
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +8    | *
-| Ref  | Dex  | +11   | *
-| Will | Wis  | +10   | *
-Ref: 2 + 2x(1/2) + 5x(1/3) = +4
+| Fort | Con  | +9    | *
+| Ref  | Dex  | +12   | *
+| Will | Wis  | +11   | *
+Fort: 2 + 7x(1/2) + 0x(1/3) = +5
+Ref : 2 + 2x(1/2) + 5x(1/3) = +4
+Will: 2 + 7x(1/2) + 0x(1/3) = +5
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Drawback (Cowardly): +5 ft speed when frightened and fleeing, 1 point worse penalties from cowering/shaken/frightened/panicked

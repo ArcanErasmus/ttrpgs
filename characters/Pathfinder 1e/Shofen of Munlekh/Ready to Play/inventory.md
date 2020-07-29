@@ -7,13 +7,13 @@
 | Outfit, Explorer's       |   8    |
 | Backpack                 |   2    |
 |--------------------------|--------|--------------------------------
-| **Slotted Magic Items**  |   2    | See slots below
+| **Slotted Magic Items**  |   3    | See slots below
 |--------------------------|--------|--------------------------------
 | *Belt of Dex +2*         |   1    |
 | *Headband of Wis/Cha +2* |   1    |
-| *Champion Br. Armor +1*  |        | +1 Champion
+| *Champion Br. Armor +1*  |   1    | +1 Champion
 |--------------------------|--------|--------------------------------
-| **Weapons**              |   3    | Includes ammo, related items
+| **Weapons**              |   8    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
 | Mwk Wakizashi            |   2    |
 | *+1 Katana*              |   6    |
@@ -38,7 +38,7 @@
 |--------------------------|--------|--------------------------------
 | **Coins**                |   0.44 | 0pp 14gp 8sp 0cp
 |--------------------------|--------|--------------------------------
-| **Total**                |  34.44 | Light Load
+| **Total**                |  43.44 | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

@@ -12,12 +12,9 @@
     - Get spells/day as Mesmerist instead
     - Add one per spell lvl from Sor/Wiz list to Medium list
     - Cast borrowed Sor/Wiz spells as arcane, requiring verbal/somatic components
-- Intermediate: Arcane Surge (Su)
-    - 
-- Greater: Wild Arcana (Su)
-    - 
-- Supreme: Legendary Archmage (Su)
-    - 
+<!-- - Intermediate: Arcane Surge (Su) -->
+<!-- - Greater: Wild Arcana (Su) -->
+<!-- - Supreme: Legendary Archmage (Su) -->
 
 ### Champion
 - Bonus: Atk, non-spell damage, Str checks/skills, Fort
@@ -27,12 +24,9 @@
     - Spirit bonus as penalty to Int checks/skills, CL (min 0), can't increase CL
 - Lesser: Champion's Prowess (Su)
     -  Proficiency in all martial wpns & one exotic wpn (chosen when spirit channeled)
-- Intermediate: Sudden Attack (Su)
-    - 
-- Greater: Fleet Charge (Su)
-    - 
-- Supreme: Legendary Champion (Su)
-    - 
+<!-- - Intermediate: Sudden Attack (Su) -->
+<!-- - Greater: Fleet Charge (Su) -->
+<!-- - Supreme: Legendary Champion (Su) -->
 
 ### Guardian
 - Bonus: AC, Con checks, Fort & Ref
@@ -42,12 +36,9 @@
     - Spirit bonus as penalty to damage, always fight & cast defensively
 - Lesser: Guardian's Shield (Su)
     -  Proficiency in heavy armor and all shields
-- Intermediate: Absorb Blow (Su)
-    - 
-- Greater: Sudden Block (Su)
-    - 
-- Supreme: Legendary Guardian (Su)
-    - 
+<!-- - Intermediate: Absorb Blow (Su) -->
+<!-- - Greater: Sudden Block (Su) -->
+<!-- - Supreme: Legendary Guardian (Su) -->
 
 ### Hierophant
 - Bonus: Wis checks/skills, Will
@@ -57,12 +48,9 @@
     - Spirit bonus as penalty to Cha checks/skills with worshippers of other faiths (except to convert), strike for nonlethal whenever possible
 - Lesser: Divine Surge (Su)
     -  As archmage Arcane Surge, but Cleric/Oracle list and need divine focus if required
-- Intermediate: Energy Font (Su)
-    - 
-- Greater: Overflowing Grace (Su)
-    - 
-- Supreme: Legendary Hierophant (Su)
-    - 
+<!-- - Intermediate: Energy Font (Su) -->
+<!-- - Greater: Overflowing Grace (Su) -->
+<!-- - Supreme: Legendary Hierophant (Su) -->
 
 ### Marshal
 - Bonus: Cha checks/skills, spirit surge rolls (double count on Cha checks/skills)
@@ -73,12 +61,9 @@
 - Lesser: Marshal's Order (Su)
     - Can use spirit surge on atk, saves, ability checks, concentration checks, skill checks made by allies
     - Must be within 30 ft & line of sight and effect, have participated in seance
-- Intermediate: Inspiring Call (Su)
-    - 
-- Greater: Decisive Strike (Su)
-    - 
-- Supreme: Legendary Marshal (Su)
-    - 
+<!-- - Intermediate: Inspiring Call (Su) -->
+<!-- - Greater: Decisive Strike (Su) -->
+<!-- - Supreme: Legendary Marshal (Su) -->
 
 ### Trickster
 - Bonus: Dex checks/skills, Ref
@@ -89,9 +74,6 @@
     - Allies must touch attack for touch spells, but you don't need to save vs harmless spells
 - Lesser: Trickster's Edge (Su)
     - Any 2 skills count as class skills, bonus ranks in them equal to Medium lvl (max char lvl)
-- Intermediate: Surprise Strike (Su)
-    - 
-- Greater: Transfer Magic (Su)
-    - 
-- Supreme: Legendary Trickster (Su)
-    - 
+<!-- - Intermediate: Surprise Strike (Su) -->
+<!-- - Greater: Transfer Magic (Su) -->
+<!-- - Supreme: Legendary Trickster (Su) -->

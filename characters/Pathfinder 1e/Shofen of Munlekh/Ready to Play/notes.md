@@ -9,6 +9,7 @@
 ## feats
 - ? bonus
 - any lvl
+    - Weapon Versatility https://www.d20pfsrd.com/feats/combat-feats/weapon-versatility-combat
 - lvl 3
 - lvl 5
 - lvl 6
