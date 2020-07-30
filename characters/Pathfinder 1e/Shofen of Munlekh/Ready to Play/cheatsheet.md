@@ -5,6 +5,7 @@
         - Spirit Surge: 1d6
     - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
     - Boon: +2 healing from own spells/abilities
+    - LI Feat: Fortune Teller https://www.d20pfsrd.com/feats/general-feats/fortune-teller
     - Lesser: Divine Surge (see Hierophant Bonus Spells)
 
 ## Weapons
@@ -17,9 +18,7 @@
 
 ## Combat Options
 - Power Attack
-    - -2 melee atk/CMB, +4 melee dmg
-- Combat Expertise
-    - -2 melee atk/CMB, +2 dodge AC
+    - -2 melee atk/CMB, +4/+6 melee dmg
 - Challenge
     - **Daily**; 2/day: OO
     - Bonus: +5 dmg, +2 dodge to AC, +2 sacred to AC, +2 sacred on saves
@@ -34,9 +33,6 @@
 - Diva Style
     - Feint with any Perform skill
     - +4 damage vs denied Dex target 1st hit/rd
-- Swordplay Style
-    - +1 shield bonus AC when defensive, ignore CmbExp penalties on first attack each turn
-    - Feint as immediate vs opponent that misses melee attack against you
 
 ## Magical Abilities
 - At-will - *detect chaos* (CL 2)
@@ -54,7 +50,7 @@
     - **Daily**; 2/day: OO
     - Damage: 4d6
 
-## Spells (Medium List) - DC: 14 + spell lvl, CL 5
+## Spells (Medium List) - DC: 14 + spell lvl, CL 7 (9 for checks or when use harrow deck as focus for divination)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 |---------------------------------------------------------------|
 | Ranges - Close: 30 ft, Medium: 130 ft, Far: 520 ft            |

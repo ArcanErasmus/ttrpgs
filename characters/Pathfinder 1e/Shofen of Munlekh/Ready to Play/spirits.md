@@ -8,6 +8,7 @@
 - Fav Locations: Arcane redoubts, areas of unusual magic, libraries, schools
 - 3+ Inf Penalty: Body responds as frail, aged scholar
     - Spirit bonus as penalty to Str checks/skills, Con checks, atk, non-spell damage
+- Legendary Influence feat: Friendly Switch https://www.d20pfsrd.com/feats/general-feats/friendly-switch
 - Lesser: Archmage Arcana (Su)
     - Get spells/day as Mesmerist instead
     - Add one per spell lvl from Sor/Wiz list to Medium list
@@ -22,6 +23,7 @@
 - Fav Locations: Arenas, battlefields, places of violence, practice yards
 - 3+ Inf Penalty: Quick to violence, prefer wpn over spells/contemplation
     - Spirit bonus as penalty to Int checks/skills, CL (min 0), can't increase CL
+- Legendary Influence feat: Radiant Charge https://www.d20pfsrd.com/feats/general-feats/radiant-charge
 - Lesser: Champion's Prowess (Su)
     -  Proficiency in all martial wpns & one exotic wpn (chosen when spirit channeled)
 <!-- - Intermediate: Sudden Attack (Su) -->
@@ -34,6 +36,7 @@
 - Fav Locations: City walls, forts, gates, keeps
 - 3+ Inf Penalty: Overly cautious and guarded in all things
     - Spirit bonus as penalty to damage, always fight & cast defensively
+- Legendary Influence feat: Fey Foundling https://www.d20pfsrd.com/feats/general-feats/fey-foundling
 - Lesser: Guardian's Shield (Su)
     -  Proficiency in heavy armor and all shields
 <!-- - Intermediate: Absorb Blow (Su) -->
@@ -46,6 +49,7 @@
 - Fav Locations: Altars, chuches, sacred groves, shrines
 - 3+ Inf Penalty: Must save foes for redemption
     - Spirit bonus as penalty to Cha checks/skills with worshippers of other faiths (except to convert), strike for nonlethal whenever possible
+- Legendary Influence feat: Fortune Teller https://www.d20pfsrd.com/feats/general-feats/fortune-teller
 - Lesser: Divine Surge (Su)
     -  As archmage Arcane Surge, but Cleric/Oracle list and need divine focus if required
 <!-- - Intermediate: Energy Font (Su) -->
@@ -58,6 +62,7 @@
 - Fav Locations: Council rooms, stages, theaters, throne rooms
 - 3+ Inf Penalty: Focus on allies over other matters
     - Spirit bonus as penalty to Wis checks/skills, lose spirit bonus/boon if not at least nominally in charge of allies
+- Legendary Influence feat: Insightful Advice https://www.d20pfsrd.com/feats/general-feats/insightful-advice
 - Lesser: Marshal's Order (Su)
     - Can use spirit surge on atk, saves, ability checks, concentration checks, skill checks made by allies
     - Must be within 30 ft & line of sight and effect, have participated in seance
@@ -72,6 +77,7 @@
 - 3+ Inf Penalty: See possibility that everyone might have ultierior motives
     - Never count as ally for other creature's abilities, never willing spell target, no benefit from aid another
     - Allies must touch attack for touch spells, but you don't need to save vs harmless spells
+- Legendary Influence feat: Lunge https://www.d20pfsrd.com/feats/combat-feats/lunge-combat
 - Lesser: Trickster's Edge (Su)
     - Any 2 skills count as class skills, bonus ranks in them equal to Medium lvl (max char lvl)
 <!-- - Intermediate: Surprise Strike (Su) -->

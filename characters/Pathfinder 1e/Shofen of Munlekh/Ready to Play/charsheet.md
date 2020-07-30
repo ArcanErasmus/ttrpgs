@@ -14,12 +14,13 @@
     - https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/kata-master
     - https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/monk-of-the-sacred-mountain
 - Worships a multitude of deities
+| Name     | Symbol | Reason for Worship   | Link
 |----------|--------|----------------------|-----------------------------------------
-| Iomedae  | Sword  | honor and valor      | https://pathfinderwiki.com/wiki/Iomedae
 | Irori    | Hand   | inner strength       | https://pathfinderwiki.com/wiki/Irori
 |^Pharasma | Spiral | guiding lost souls   | https://pathfinderwiki.com/wiki/Pharasma
 | Serenrae | Angel  | compassion and mercy | https://pathfinderwiki.com/wiki/Sarenrae
 | Shelyn   | Bird   | artistic inspiration | https://pathfinderwiki.com/wiki/Shelyn
+| Shizuru  | Katana | honor and swordplay  | https://pathfinderwiki.com/wiki/Shizuru
 |----------|--------|----------------------|-----------------------------------------
 - 5'0", 120 lbs, 26 yo, brown hair, green eyes
 - Born in Munlekh on Rova 3rd, ?
@@ -71,6 +72,8 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Trait (Enduring Stoicism): +2 trait saves vs [fear] and [emotion] spells/effects
 - Trait (Spirit Sense): +2 trait Perception to detect invisible or incorporeal creatures
 - Trait (Spirit Sense): +2 trait Perception to avoid being surprised
+- Trait (Harrow Chosen): +2 CL divination if use as focus
+- Feat (Spirit Sense): +5 to detect haunt, affect incorporeal with corporeal effects 75% of time
 - Class Feature (Channel Self): +2 to certain things, see cheatsheet
 
 ## Skills
@@ -150,10 +153,6 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - +1 trait bonus saves vs [fear] and [emotion] spells/effects
 - +1 trait bonus intimidate
 
-### Savant [Social]
-- Chosen Perform: Oratory
-- +2 trait bonus on that Perform check
-
 ### Born Under the Stranger [Combat]
 - No -4 to feint aberrations
 - Only -4 to feint animal-intelligence aberrations
@@ -161,6 +160,22 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 ### Spirit Sense [Faith]
 - +2 trait Perception to detect invisible or incorporeal creatures
 - +2 trait Perception to avoid being surprised
+
+### Magical Knack [Magic]
+- Pick a class: Medium
+- +2 CL in this class, max of char lvl
+
+### Savant [Social]
+- Chosen Perform: Oratory
+- +2 trait bonus on that Perform check
+
+### Harrow Chosen [Race]
+- Begin play with heirloom harrow deck
+    - If use as focus in divination spell, +2 CL
+    - 2/week, consult for 10 mins as *augury*, CL = char lvl
+- Cannot be replaced
+    - Return to family, 300gp, 1 week immersed in songs/stories of our people
+    - Above ritual to create new deck, only half bonuses
 
 ## Feats
 ### Power Attack [lvl 1]
@@ -181,11 +196,9 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 ### Improved Feint [Warrior Poet Bonus, lvl 1]
 - May feint as a move action
 
-### Combat Expertise [lvl 3]
-- Choose to take -1 melee atk & CMB for +1 dodge to AC
-- For every +4 BAB, increase -1 penalty and +1 bonus
-- Can only choose to use when declaring that you are making a melee attack
-- Effects last until start of next turn
+### Spirit Sense [lvl 3]
+- +5 to notice haunts
+- When targeting incorporeal creature with corporeal spell/effect, 75% to affect target
 
 ### Improved Unarmed Strike [Monk Bonus, lvl 4]
 - Count as armed with unarmed strikes
@@ -194,18 +207,22 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 ### Toughness [Monk of the Iron Mountain Bonus, lvl 4]
 - +1 hp/lvl
 
-### Swordplay Style [Master of Many Styles Bonus, lvl 4]
-- Choose one weapon from light/heavy blades group: Katana
-- While using style and wielding chosen weapon, and fighting defensively/total defenense/combat expertise
-    - +1 shield bonus to AC
-    - Ignore Combat Expertise penalty on first attack each turn
-
-### Swordplay Upset [Master of Many Styles Bonus, lvl 5]
-- While using Swordplay Style, can feint as immediate action against opponent that misses a melee attack against you
-
-### Diva Style [lvl 5]
+### Diva Style [Master of Many Styles Bonus, lvl 4]
 - While using style, can use any Perform skill to feint in combat
 
-### Diva Strike [lvl 7]
+### Diva Strike [Master of Many Styles Bonus, lvl 5]
 - While using Diva Style, first melee hit per round vs target denied Dex to AC
 - Deals bonus damage equal to Cha mod, precision-based
+
+### Extra Traits [lvl 5]
+- Pick two more traits, following normal trait restrictions
+
+### Legendary Influence [lvl 7]
+- Select one feat per spirit, channeling the spirit grants access to feat
+    - Archmage   : Friendly Switch   https://www.d20pfsrd.com/feats/general-feats/friendly-switch
+    - Champion   : Radiant Charge    https://www.d20pfsrd.com/feats/general-feats/radiant-charge
+    - Guardian   : Fey Foundling     https://www.d20pfsrd.com/feats/general-feats/fey-foundling
+    - Hierophant : Fortune Teller    https://www.d20pfsrd.com/feats/general-feats/fortune-teller
+    - Marshal    : Insightful Advice https://www.d20pfsrd.com/feats/general-feats/insightful-advice
+    - Trickster  : Lunge             https://www.d20pfsrd.com/feats/combat-feats/lunge-combat
+- Can't use feat for prereqs except for feats granted by channeling spirits

@@ -70,15 +70,39 @@
 ## feats
 - ? bonus
 - any lvl
-    - Weapon Versatility https://www.d20pfsrd.com/feats/combat-feats/weapon-versatility-combat
+    - Combat Reflexes
+    - Dodge
+        - Mobility
+    <!-- - Fortune Teller https://www.d20pfsrd.com/feats/general-feats/fortune-teller -->
+    <!-- - Friendly Switch https://www.d20pfsrd.com/feats/general-feats/friendly-switch -->
+    - Furious Focus https://www.d20pfsrd.com/feats/combat-feats/furious-focus-combat
+    - Ghostslayer https://www.d20pfsrd.com/feats/combat-feats/ghostslayer-combat
+    - Improved Initiative
+    - Posessed Hand https://www.d20pfsrd.com/feats/general-feats/possessed-hand
+    - Quick Draw https://www.d20pfsrd.com/feats/combat-feats/quick-draw-combat
+    - Spirit Focus https://www.d20pfsrd.com/feats/general-feats/spirit-focus
+    - Incorporeal Intuition https://www.d20pfsrd.com/feats/general-feats/incorporeal-intuition
+- lvl 1
+    <!-- - Fey Foundling https://www.d20pfsrd.com/feats/general-feats/fey-foundling -->
 - lvl 3
+    <!-- - Insightful Advice https://www.d20pfsrd.com/feats/general-feats/insightful-advice -->
+- lvl 4
+    - Spring-Heeled Style https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-style-combat-style
 - lvl 5
+    - Martial Focus https://www.d20pfsrd.com/feats/combat-feats/martial-focus-combat
+        - Cut From the Air https://www.d20pfsrd.com/feats/weapon-mastery-feats/cut-from-the-air-weapon-mastery
+    <!-- - Radiant Charge https://www.d20pfsrd.com/feats/general-feats/radiant-charge -->
 - lvl 6
-    - greater feint https://www.d20pfsrd.com/feats/combat-feats/greater-feint-combat
+    - Greater Feint https://www.d20pfsrd.com/feats/combat-feats/greater-feint-combat
+    <!-- - Lunge https://www.d20pfsrd.com/feats/combat-feats/lunge-combat -->
 - lvl 7
-    - swordplay deflection https://www.d20pfsrd.com/feats/combat-feats/swordplay-deflection-combat
+    - Spring-Heeled Sprint https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-sprint-combat
+- lvl 9
+    - Improved Legendary Influence https://www.d20pfsrd.com/feats/general-feats/improved-legendary-influence
+    - Smash From the Air https://www.d20pfsrd.com/feats/weapon-mastery-feats/smash-from-the-air-weapon-mastery
 - lvl 11
-    - diva advance https://www.d20pfsrd.com/feats/combat-feats/diva-advance-combat
+    - Diva Advance https://www.d20pfsrd.com/feats/combat-feats/diva-advance-combat
+    - Spring-Heeled Reaping https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-reaping-combat
 
 # Gestalt lvl track
 ## Samurai - Warrior Poet
@@ -115,16 +139,16 @@
 - wpn prof: simple, martial, [katana, wakizashi, naginata]
 - armor prof: light
 
-## Medium
+## Medium - Reanimated Medium
 | lv | spells/known        | features
 |----|---------------------|----------
-|  1 | -/2                 | Knacks, spirit, spirit bonus +1, spirit power (lesser), spirit surge 1d6
-|  2 | -/+                 | Shared seance, taboo
-|  3 | -/+                 | Haunt channeler
+|  1 | -/2                 | Knacks, channel self, spirit bonus +1, spirit power (lesser), spirit surge 1d6
+|  2 | -/+                 | Shared seance
+|  3 | -/+                 | Ease passage
 |  4 | -/  1/2             | Spirit bonus +2
-|  5 | -/+ 1/+             | Location channel
+|  5 | -/+ 1/+             | Lingering spirit
 |  6 | -/  1/+             | Spirit power (intermediate)
-|  7 | -/+ 1/  1/2         | Connection channel
+|  7 | -/+ 1/  1/2         | Spirit warding
 |  8 | -/  1/  1/+         | Spirit bonus +3
 |  9 | -/  2/+ 1/+         | Propitiation
 | 10 | -/  2/  1/  1/2     | Spirit surge 1d8
@@ -135,9 +159,9 @@
 | 15 | -/  3/  2/+ 2/+ 1/+ | Trance of three
 | 16 | -/  3/  3/  2/  1/  | Spirit bonus +5
 | 17 | -/  4/  3/  2/  1/  | Spirit power (supreme)
-| 18 | -/  4/  3/  2/+ 2/+ | Spacious soul
+| 18 | -/  4/  3/  2/+ 2/+ | Spirit warding
 | 19 | -/  4/  3/  3/  2/  | Spirit mastery
-| 20 | -/  4/  4/  3/  2/  | Astral beacon, spirit bonus +6, spirit surge 1d10
+| 20 | -/  4/  4/  3/  2/  | Living legend, spirit bonus +6, spirit surge 1d10
 
 - alignment: any
 - hd: d8

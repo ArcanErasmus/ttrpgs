@@ -23,7 +23,7 @@
 |--------------------------|--------|--------------------------------
 | Seance Kit               |   8    | Spirit planchette, candles, harrow deck, magnet, incense
 | Hammock                  |   3    | Full-round to enter/exit, instead DC 5 Dex for move action
-| Sash of Holy Symbols     |   1    | Sword, Hand, Spiral, Angel, Bird
+| Sash of Holy Symbols     |   1    | Hand, Spiral, Angel, Bird, Katana
 |--------------------------|--------|--------------------------------
 | **Tools**                |   5    |
 |--------------------------|--------|--------------------------------
