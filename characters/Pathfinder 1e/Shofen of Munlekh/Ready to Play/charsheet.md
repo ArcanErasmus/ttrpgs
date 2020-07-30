@@ -4,11 +4,10 @@
     - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/warrior-poet-samurai-archetype
 - Medium Archetypes: Reanimated Medium
     - https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/medium/archetypes/paizo-llc-medium-archetypes/reanimated-medium-medium-archetype
-- Paladin Archetypes: Virtuous Bravo, Oath Against Chaos, Oath Against Corruption
+- Paladin Archetypes: Virtuous Bravo, Oath Against Chaos
     - https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/virtuous-bravo-paladin-archetype
     - https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/oathbound-paladin
         - https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/oathbound-paladin/oath-against-chaos
-        - https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/oathbound-paladin/oath-against-corruption
 - Monk Archetypes: Master of Many Styles, Kata Master, Monk of the Iron Mountain
     - https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/master-of-many-styles
     - https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/kata-master
@@ -33,8 +32,8 @@
 | DEX  | 18 (+4) | -
 | CON  | 10 (  ) | -
 | INT  | 10 (  ) | -
-| WIS  | 14 (+2) | -
-| CHA  | 18 (+4) | -
+| WIS  | 12 (+1) | -
+| CHA  | 20 (+5) | -
 20 Point buy: 16 14 13 12 10 10
 
 ## Secondary Stats
@@ -50,19 +49,19 @@
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| Wnds |  67 |  67 | 0, 0 NL
+| Wnds |  64 |  64 | 0, 0 NL
 | Vigr |  27 |  27 |
 | Snty |  42 |   0 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
-HD rolls (d10): [10], 3+7, 8+2, 5+5, 7+3, 8+2, 4+3
-AC breakdown: +4 dex, +4 cha, +2 wis, +1 natural armor, +1 armor
+HD rolls (d10): [10], 3+7, 8+2, 5+5, 7+3, 8+2, 4
+AC breakdown: +4 dex, +5 cha, +1 wis, +1 natural armor, +1 armor
 
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +9    | -
-| Ref  | Dex  | +12   | -
+| Fort | Con  | +10   | -
+| Ref  | Dex  | +13   | -
 | Will | Wis  | +11   | +2
 Fort: 2 + 7x(1/2) + 0x(1/3) = +5
 Ref : 2 + 2x(1/2) + 5x(1/3) = +4
@@ -88,14 +87,14 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 |   | C | Climb              | Str | +6  | -
 |   |   | C | Craft              | Int |     | -
 | 1 |   | C |   Painting         | Int | +6  | -
-|   |   | C | Diplomacy          | Cha | +16 | *
+|   |   | C | Diplomacy          | Cha | +17 | *
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
 | 1 |   | C | Escape Artist      | Dex | +7  | -
 |   |   | C | Fly                | Dex |     | -
-| 1 | T | C | Handle Animal      | Cha | +8  | -
+| 1 | T | C | Handle Animal      | Cha | +9  | -
 | 1 |   | C | Heal               | Wis | +6  | -
-| 1 |   | C | Intimidate         | Cha | +9  | -
+| 1 |   | C | Intimidate         | Cha | +10 | -
 | 1 | T | C | Kn (arcana)        | Int | +4  | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
 |   | T |   | Kn (engineering)   | Int |     | -
@@ -108,19 +107,19 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   | T |   | Kn (psionics)      | Int |     | -
 | 3 | T | C | Kn (religion)      | Int | +6  | -
 | 1 | T | C | Linguistics        | Int | +4  | -
-| 4 |   | C | Perception         | Wis | +9  | *
+| 4 |   | C | Perception         | Wis | +8  | *
 |   |   | C | Perform            | Cha |     | -
-| 7 |   | C |   Oratory          | Cha | +16 | -
+| 7 |   | C |   Oratory          | Cha | +17 | -
 |   | T | C | Profession         | Wis |     | -
-| 1 | T | C |   Gardener         | Wis | +8  | -
+| 1 | T | C |   Gardener         | Wis | +7  | -
 | 1 |   | C | Ride               | Dex | +8  | -
-|   |   | C | Sense Motive       | Wis | +16 | *
+|   |   | C | Sense Motive       | Wis | +17 | *
 |   | T |   | Sleight of Hand    | Dex |     | -
 | 1 | T | C | Spellcraft         | Int | +4  | -
 | 1 |   | C | Stealth            | Dex | +8  | -
 |   |   |   | Survival           | Wis |     | -
 | 1 |   | C | Swim               | Str | +6  | -
-| 1 | T | C | Use Magic Device   | Cha | +8  | -
+| 1 | T | C | Use Magic Device   | Cha | +9  | -
 |---|---|---|--------------------|-----|-----|------
 - **Current encumbrance modifiers: no max Dex, no ACP, 0% ASFC, normal speed**
 - 40/40

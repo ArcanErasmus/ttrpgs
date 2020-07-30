@@ -1,7 +1,7 @@
 # Shofen's Class Features
 ## Class Features (Samurai)
 ### Skirmisher's Challenge (Ex)
-- 1/day, challenge foe within sight as swift action
+- 2/day, challenge foe within sight as swift action
 - 1st successful melee atk each round deals bonus damage equal to samurai lvl
 - -2 to AC vs non-challenged targets
 - Active until target is dead/unconscious or combat ends
@@ -21,7 +21,7 @@
 - Skills: Add Kn (religion) & Perform to class list, +1/2 Samurai lvl to Craft & Profession (gardener)
 
 ### Resolve (Ex)
-- 1/day use, regain 1 use (up to max) when defeat challenge target
+- 3/day use, regain 1 use (up to max) when defeat challenge target
     - KO/kill, possibly force to flee or surrender
 - Can spend as standard action to remove fatigued, shaken, or sickened for 1 hr
 - Can spend as immediate action for advantage on Fort/Will save
@@ -78,7 +78,7 @@
     - Can spend influence for certain powers
 
 ### Spirit Surge (Su)
-- After failing d20 roll that was modified by spirit bonus, can let spirit gain 1 influence to add to roll
+- After failing d20 roll that was modified by spirit bonus, can spend 1 influence to add to roll
 - Bonus: 1d6
 
 ### Shared Seance (Su)
@@ -94,7 +94,8 @@
 
 ## Class Features (Paladin)
 ### Aura of Good (Ex)
-- Register stronger on *detect good*
+- Register stronger on *detect good* if worship an aligned deity
+- I worship Pharasma (N), so it doesn't apply
 
 ### Bravo's Finesse (Ex)
 - Count as having Weapon Finesse, do all the things it does
@@ -162,6 +163,38 @@
 - Gain Toughness as bonus feat
 - Gain +1 natural armor bonus
 
-# Future Class Features (lvl ?)
-## Samurai
-## Medium
+# Future Class Features (lvl 8)
+## Samurai (lvl 6, favored class)
+### Battle Dance (Ex)
+- Gain Spring Attack as bonus feat
+
+## Medium (lvl 6)
+### Channel Self (Su)
+- Get intermediate spirit power
+
+### Spellcasting
+- +1 1st lvl spell known
+
+## Monk (lvl 3)
+### Fast Movement (Ex)
+- +10 ft enhancement bonus to land speed
+- Lose if medium/heavy armor/load
+
+### Maneuver Training (Ex)
+- Can use monk lvl instead of BAB for CMB
+
+### Menacing Swordplay (Ex)
+- Gain Swashbuckler deed of the same name
+    - While 1+ panache, if hit with appropriate wpn, can Intimidate as swift
+
+## Paladin (lvl 3)
+### Aura of Courage (Su)
+- Immune to fear (but see Cowardly drawback)
+- Allies w/in 10 ft +4 morale saves vs fear
+- Only functions while alive and conscious
+
+### Divine Health (Ex)
+- Immune to diseases, mundane and magical
+
+### Nimble (Ex)
+- +1 dodge to AC while light/no armor

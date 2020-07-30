@@ -108,25 +108,25 @@
 ## Samurai - Warrior Poet
 | lv | features
 |----|----------
-|  1 | Skirmisher's challenge 1/day, order, resolve, dancer's grace, flourish, graceful warrior
+|  1 | Skirmisher's challenge 1/day, order, resolve 1/day, dancer's grace, flourish, graceful warrior
 |  2 | Order ability
-|  3 | Flourish
+|  3 | Flourish, resolve 2/day
 |  4 | Skirmisher's challenge 2/day, graceful strike
-|  5 | Flourish
+|  5 | Flourish, resolve 3/day
 |  6 | Battle dance
-|  7 | Skirmisher's challenge 3/day
+|  7 | Skirmisher's challenge 3/day, resolve 4/day
 |  8 | Order ability
-|  9 | Greater resolve, flourish
+|  9 | Greater resolve, flourish, resolve 5/day
 | 10 | Skirmisher's challenge 4/day
-| 11 | Honorable stand
-| 12 | Battle dance
-| 13 | Skirmisher's challenge 5/day, flourish
+| 11 | Honorable stand, resolve 6/day
+| 12 | Improved Battle dance
+| 13 | Skirmisher's challenge 5/day, flourish, resolve 7/day
 | 14 | 
-| 15 | Order ability
+| 15 | Order ability, resolve 8/day
 | 16 | Skirmisher's challenge 6/day
-| 17 | True resolve, flourish
-| 18 | Battle dance
-| 19 | Skirmisher's challenge 7/day
+| 17 | True resolve, flourish, resolve 9/day
+| 18 | Greater Battle dance
+| 19 | Skirmisher's challenge 7/day, resolve 10/day
 | 20 | Last stand
 
 - alignment: any
@@ -172,3 +172,71 @@
 - wealth: 4d6x10 gp (avg 140)
 - wpn prof: simple
 - armor prof: light, med, shields
+
+## Paladin - Virtuous Bravo, Oath Against Chaos
+| lv | features
+|----|----------
+|  1 | Aura of good, detect chaos, bravo's smite chaos 1/day
+|  2 | Divine grace, lay on hands
+|  3 | Aura of courage, divine health, nimble
+|  4 | Order of good, bravo's smite chaos 2/day, panache and deeds
+|  5 | Divine bond
+|  6 | 
+|  7 | Bravo's smite chaos 3/day, nimble
+|  8 | Aura of resolve
+|  9 | 
+| 10 | Bravo's smite chaos 4/day
+| 11 | Advanced deeds, nimble
+| 12 | 
+| 13 | Bravo's smite chaos 5/day
+| 14 | Aura of faith
+| 15 | Nimble
+| 16 | Bravo's smite chaos 6/day
+| 17 | Aura of righteousness
+| 18 | 
+| 19 | Bravo's smite chaos 7/day, nimble
+| 20 | Bravo's holy strike
+
+- alignment: LG
+- hd: d10
+- skills: 2+int
+- BAB: full
+- saves: good fort and will
+- class skills: Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), Sense Motive (Wis), and Spellcraft (Int)
+- wealth: 5d6x10 gp (avg 175)
+- wpn prof: simple, martial
+- armor prof: light, medium, bucklers
+
+## Monk - Kata Master, Master of Many Styles, Monk of the Iron Mountain
+| lv | fist | AC | speed  | features
+|----|------|----|--------|----------
+|  1 | 1d6  | +0 | +0 ft  | Bonus feat, fuse style 2, panache and deeds, unarmed strike
+|  2 | 1d6  | +0 | +0 ft  | Bonus feat, iron monk
+|  3 | 1d6  | +0 | +10 ft | Fast movement, maneuver training, menacing swordplay
+|  4 | 1d8  | +1 | +10 ft | Ki pool (magic, panache), bastion stance
+|  5 | 1d8  | +1 | +10 ft | Iron limb defense, purity of body
+|  6 | 1d8  | +1 | +20 ft | Bonus feat
+|  7 | 1d8  | +1 | +20 ft | Ki pool (cold iron/silver), targeted strike
+|  8 | 1d10 | +2 | +20 ft | fuse style 3
+|  9 | 1d10 | +2 | +30 ft | Adamantine monk 1/-
+| 10 | 1d10 | +2 | +30 ft | Bonus feat, Ki pool (lawful
+| 11 | 1d10 | +2 | +30 ft | Diamond body
+| 12 | 2d6  | +3 | +40 ft | Abundant step, adamantine monk 2/-
+| 13 | 2d6  | +3 | +40 ft | Diamond soul
+| 14 | 2d6  | +3 | +40 ft | Bonus feat
+| 15 | 2d6  | +3 | +50 ft | Dizzying defense, fuse style 4, adamantine monk 3/-
+| 16 | 2d8  | +4 | +50 ft | Ki pool (adamantine), improved bastion stance
+| 17 | 2d8  | +4 | +50 ft | Timeless body, vow of silence
+| 18 | 2d8  | +4 | +60 ft | Bonus feat, adamantine monk 4/-
+| 19 | 2d8  | +4 | +60 ft | Empty body
+| 20 | 2d10 | +5 | +60 ft | Perfect style
+
+- alignment: any L
+- hd: d8
+- skills: 4+int
+- BAB: med
+- saves: good all
+- class skills: Acrobatics (Dex), Climb (Str), Craft (Int), Escape Artist (Dex), Intimidate (Cha), Knowledge (history) (Int), Knowledge (religion) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Ride (Dex), Sense Motive (Wis), Stealth (Dex), and Swim (Str)
+- wealth: 1d6x10 gp (avg 35)
+- wpn prof: [brass knuckles, cestus, club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shortspear, short sword, shuriken, siangham, sling, spear, temple sword]
+- armor prof: none

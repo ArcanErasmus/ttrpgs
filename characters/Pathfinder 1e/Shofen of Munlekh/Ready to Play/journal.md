@@ -12,8 +12,6 @@
 - Oath Against Chaos
     - Spread order, fight chaos
     - Do not spread/enforce tyranny
-- Oath Against Corruption
-    - Hunt aberrations, destroy them if possible, banish them if not
 - In summary
     - Act very Lawful (no deception!) and very Good
     - Fight honorably and memorialize fallen foes

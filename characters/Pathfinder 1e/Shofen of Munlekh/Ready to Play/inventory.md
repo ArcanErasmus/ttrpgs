@@ -10,14 +10,14 @@
 | **Slotted Magic Items**  |   3    | See slots below
 |--------------------------|--------|--------------------------------
 | *Belt of Dex +2*         |   1    |
-| *Champion Br. Armor +1*  |   1    | +1 Champion
-| *Headband of Wis/Cha +2* |   1    |
+| *Bracers of Armor +1*    |   1    |
+| *Headband of Cha +4*     |   1    |
 |--------------------------|--------|--------------------------------
 | **Weapons**              |   8    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
-| *+1 Katana*              |   6    | Glows as *light*
-| Mwk Wakizashi            |   2    |
-| Mwk Sling                |        |
+| Mwk Katana               |   6    |
+| Wakizashi                |   2    |
+| Sling                    |        |
 |--------------------------|--------|--------------------------------
 | **General**              |  12    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
@@ -37,9 +37,9 @@
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|--------|--------------------------------
 |--------------------------|--------|--------------------------------
-| **Coins**                |   0.84 | 20pp 14gp 8sp 0cp
+| **Coins**                |   1.12 | 44pp 4gp 8sp 0cp
 |--------------------------|--------|--------------------------------
-| **Total**                |  43.84 | Light Load
+| **Total**                |  44.12 | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties
@@ -54,7 +54,7 @@
 
 ## Magic Item Slots
 - Head      -
-- Headband  - Headband of Mental Prowess +2 (Wisdom/Charisma)
+- Headband  - Headband of Alluring Charisma +4
 - Eyes      -
 - Shoulders -
 - Neck      -
@@ -63,7 +63,7 @@
 - Armor     -
 - Belt      - Belt of Incredible Dexterity +2
 - Wrists    -
-- Hands     - Champion Bracers of Armor +1
+- Hands     - Bracers of Armor +1
 - Ring 1    -
 - Ring 2    -
 - Feet      -
