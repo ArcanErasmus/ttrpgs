@@ -37,9 +37,9 @@
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|--------|--------------------------------
 |--------------------------|--------|--------------------------------
-| **Coins**                |   0.44 | 0pp 14gp 8sp 0cp
+| **Coins**                |   0.84 | 20pp 14gp 8sp 0cp
 |--------------------------|--------|--------------------------------
-| **Total**                |  43.44 | Light Load
+| **Total**                |  43.84 | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

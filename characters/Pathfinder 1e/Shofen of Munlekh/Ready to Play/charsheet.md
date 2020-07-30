@@ -51,7 +51,7 @@
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
 | Wnds |  67 |  67 | 0, 0 NL
-| Vigr |  17 |  17 |
+| Vigr |  27 |  27 |
 | Snty |  42 |   0 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
@@ -185,11 +185,9 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - +50% for two-handing, -50% for offhanding
 - For every +4 BAB, increase -1 penalty and +2 bonus
 
-### Last Rites [Human Bonus, lvl 1]
-- Standard action, touch attack vs haunt or undead that has *ressurection* vulnerability
-- Must have identified undead with Kn (religion), or detected haunt
-- Deals 3d6 + 1d6/5 ranks Kn (religion) positive energy damage
-- Usable 1 + 1/5 ranks Kn (religion) per day
+### Spirit Sense [Human Bonus, lvl 1]
+- +5 to notice haunts
+- When targeting incorporeal creature with corporeal spell/effect, 75% to affect target
 
 ### Weapon Finesse [Warrior Poet Bonus, lvl 1]
 - May use Dex on attack instead of Str with size-appropriate light or finesse weapons
@@ -198,9 +196,11 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 ### Improved Feint [Warrior Poet Bonus, lvl 1]
 - May feint as a move action
 
-### Spirit Sense [lvl 3]
-- +5 to notice haunts
-- When targeting incorporeal creature with corporeal spell/effect, 75% to affect target
+### Last Rites [lvl 3]
+- Standard action, touch attack vs haunt or undead that has *ressurection* vulnerability
+- Must have identified undead with Kn (religion), or detected haunt
+- Deals 3d6 + 1d6/5 ranks Kn (religion) positive energy damage
+- Usable 1 + 1/5 ranks Kn (religion) per day
 
 ### Improved Unarmed Strike [Monk Bonus, lvl 4]
 - Count as armed with unarmed strikes
