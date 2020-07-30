@@ -1,4 +1,12 @@
 # Shofen's Abilities Cheat-sheet
+## Weapons
+| Weapon        | Atk    | Dam   | Crit     | Type | Range | Notes
+|---------------|--------|-------|----------|------|-------|------------
+| *+1 Katana*   | +12/+7 | 1d8+6 | 18-20/x2 | S    |       | Deadly, glows
+| Mwk Wakizashi | +12/+7 | 1d6+4 | 18-20/x2 | P/S  |       | Deadly
+| Unarmed       | +11/+6 | 1d6+4 |    20/x2 | B    |       | See unarmed strike class feature
+| Mwk Sling     | +12    | 1d4+2 |    20/x2 | B    | 50 ft |
+
 ## Spirit Channeling
 - **Spirit**: Hierophant; influence (max 6): OOOOOO
     - Bonus (+2): Wis checks/skills, Will
@@ -7,14 +15,6 @@
     - Boon: +2 healing from own spells/abilities
     - LI Feat: Fortune Teller https://www.d20pfsrd.com/feats/general-feats/fortune-teller
     - Lesser: Divine Surge (see Hierophant Bonus Spells)
-
-## Weapons
-| Weapon        | Atk    | Dam   | Crit     | Type | Range | Notes
-|---------------|--------|-------|----------|------|-------|------------
-| *+1 Katana*   | +12/+7 | 1d8+6 | 18-20/x2 | S    |       | Deadly, glows
-| Mwk Wakizashi | +12/+7 | 1d6+4 | 18-20/x2 | P/S  |       | Deadly
-| Unarmed       | +11/+6 | 1d6+4 |    20/x2 | B    |       | See unarmed strike class feature
-| Mwk Sling     | +12    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Combat Options
 - Power Attack
@@ -42,7 +42,7 @@
     - Atk: +4
     - Damage: +2
     - Sacred to AC: +2
-    - Double damage bonus vs: [chaotic] outsiders, chaotic dragons, aberrations
+    - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
     - **Daily**; 5/day: OOOOO
     - Heal: 1d6
@@ -50,7 +50,7 @@
     - **Daily**; 2/day: OO
     - Damage: 4d6
 
-## Spells (Medium List) - DC: 14 + spell lvl, CL 7 (9 for checks or when use harrow deck as focus for divination)
+## Spells (Medium List) - DC: 14 + spell lvl, CL 7 (10 for checks or when use harrow deck as focus for divination)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 |---------------------------------------------------------------|
 | Ranges - Close: 30 ft, Medium: 130 ft, Far: 520 ft            |
@@ -66,8 +66,8 @@
 
 ### Spells as Mesmerist (Archmage/Hierophant)
 - **0th**; No daily limit
-- **1st**; 4/day: OOOO
-- **2nd**; 2/day: OO
+- **1st**; 5/day: OOOOO
+- **2nd**; 3/day: OOO
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard

@@ -46,11 +46,13 @@
 | CMD  | 29             | -
 | Init | +4             | -
 | Spd  | 40/30 ft       | -
+| SnTh | 4              | -
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
 | Wnds |  67 |  67 | 0, 0 NL
 | Vigr |  17 |  17 |
+| Snty |  42 |   0 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
 HD rolls (d10): [10], 3+7, 8+2, 5+5, 7+3, 8+2, 4+3
@@ -85,7 +87,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   |   | C | Bluff              | Cha |     | -
 | 1 |   | C | Climb              | Str | +6  | -
 |   |   | C | Craft              | Int |     | -
-| 1 |   | C |   Painting         | Int | +7  | -
+| 1 |   | C |   Painting         | Int | +6  | -
 |   |   | C | Diplomacy          | Cha | +16 | *
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
@@ -94,19 +96,19 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 | T | C | Handle Animal      | Cha | +8  | -
 | 1 |   | C | Heal               | Wis | +6  | -
 | 1 |   | C | Intimidate         | Cha | +9  | -
-| 1 | T | C | Kn (arcana)        | Int | +5  | -
+| 1 | T | C | Kn (arcana)        | Int | +4  | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
 |   | T |   | Kn (engineering)   | Int |     | -
 |   | T |   | Kn (geography)     | Int |     | -
-| 1 | T | C | Kn (history)       | Int | +5  | -
+| 1 | T | C | Kn (history)       | Int | +4  | -
 |   | T |   | Kn (local)         | Int |     | -
 |   | T |   | Kn (nature)        | Int |     | -
-| 1 | T | C | Kn (nobility)      | Int | +5  | -
-| 5 | T | C | Kn (planes)        | Int | +9  | -
+| 1 | T | C | Kn (nobility)      | Int | +4  | -
+| 5 | T | C | Kn (planes)        | Int | +8  | -
 |   | T |   | Kn (psionics)      | Int |     | -
-| 3 | T | C | Kn (religion)      | Int | +7  | -
-| 1 | T | C | Linguistics        | Int | +5  | -
-| 1 |   | C | Perception         | Wis | +6  | *
+| 3 | T | C | Kn (religion)      | Int | +6  | -
+| 1 | T | C | Linguistics        | Int | +4  | -
+| 4 |   | C | Perception         | Wis | +9  | *
 |   |   | C | Perform            | Cha |     | -
 | 7 |   | C |   Oratory          | Cha | +16 | -
 |   | T | C | Profession         | Wis |     | -
@@ -114,11 +116,11 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 |   | C | Ride               | Dex | +8  | -
 |   |   | C | Sense Motive       | Wis | +16 | *
 |   | T |   | Sleight of Hand    | Dex |     | -
-| 2 | T | C | Spellcraft         | Int | +6  | -
+| 1 | T | C | Spellcraft         | Int | +4  | -
 | 1 |   | C | Stealth            | Dex | +8  | -
 |   |   |   | Survival           | Wis |     | -
 | 1 |   | C | Swim               | Str | +6  | -
-| 3 | T | C | Use Magic Device   | Cha | +10 | -
+| 1 | T | C | Use Magic Device   | Cha | +8  | -
 |---|---|---|--------------------|-----|-----|------
 - **Current encumbrance modifiers: no max Dex, no ACP, 0% ASFC, normal speed**
 - 40/40
@@ -204,8 +206,8 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Count as armed with unarmed strikes
 - Can deal lethal or nonlethal with unarmed strikes without penalty
 
-### Toughness [Monk of the Iron Mountain Bonus, lvl 4]
-- +1 hp/lvl
+### Toughness (W&V Variant) [Monk of the Iron Mountain Bonus, lvl 5]
+- +1 wound point per HD
 
 ### Diva Style [Master of Many Styles Bonus, lvl 4]
 - While using style, can use any Perform skill to feint in combat

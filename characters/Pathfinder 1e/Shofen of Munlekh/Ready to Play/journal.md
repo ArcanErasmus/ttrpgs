@@ -15,7 +15,7 @@
 - Oath Against Corruption
     - Hunt aberrations, destroy them if possible, banish them if not
 - In summary
-    - Act very Lawful and very Good
+    - Act very Lawful (no deception!) and very Good
     - Fight honorably and memorialize fallen foes
     - Hunt aberrations and agents of chaos
     - Oh and don't destroy art

@@ -4,26 +4,27 @@
 |--------------------------|--------|--------------------------------
 | **Worn Equipment**       |  10    | On body only
 |--------------------------|--------|--------------------------------
-| Outfit, Explorer's       |   8    |
 | Backpack                 |   2    |
+| Outfit, Explorer's       |   8    |
 |--------------------------|--------|--------------------------------
 | **Slotted Magic Items**  |   3    | See slots below
 |--------------------------|--------|--------------------------------
 | *Belt of Dex +2*         |   1    |
-| *Headband of Wis/Cha +2* |   1    |
 | *Champion Br. Armor +1*  |   1    | +1 Champion
+| *Headband of Wis/Cha +2* |   1    |
 |--------------------------|--------|--------------------------------
 | **Weapons**              |   8    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
-| Mwk Wakizashi            |   2    |
 | *+1 Katana*              |   6    | Glows as *light*
+| Mwk Wakizashi            |   2    |
 | Mwk Sling                |        |
 |--------------------------|--------|--------------------------------
 | **General**              |  12    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
-| Seance Kit               |   8    | Spirit planchette, candles, harrow deck, magnet, incense
 | Hammock                  |   3    | Full-round to enter/exit, instead DC 5 Dex for move action
 | Sash of Holy Symbols     |   1    | Hand, Spiral, Angel, Bird, Katana
+| Heirloom Harrow Deck     |        | See Harrow Chosen trait
+| Seance Kit               |   8    | Spirit planchette, candles, magnet, incense
 |--------------------------|--------|--------------------------------
 | **Tools**                |   5    |
 |--------------------------|--------|--------------------------------
