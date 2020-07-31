@@ -60,7 +60,7 @@
 - Scar Seeker https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/scar-seeker
 
 ### items
-- Tome of Epics https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Tome%20of%20epics
+- ?
 
 ### story feats
 - Arisen https://www.d20pfsrd.com/feats/story-feats/arisen-story
@@ -78,10 +78,11 @@
     - Furious Focus https://www.d20pfsrd.com/feats/combat-feats/furious-focus-combat
     - Ghostslayer https://www.d20pfsrd.com/feats/combat-feats/ghostslayer-combat
     - Improved Initiative
+    - Incorporeal Intuition https://www.d20pfsrd.com/feats/general-feats/incorporeal-intuition
     - Posessed Hand https://www.d20pfsrd.com/feats/general-feats/possessed-hand
     - Quick Draw https://www.d20pfsrd.com/feats/combat-feats/quick-draw-combat
     - Spirit Focus https://www.d20pfsrd.com/feats/general-feats/spirit-focus
-    - Incorporeal Intuition https://www.d20pfsrd.com/feats/general-feats/incorporeal-intuition
+    - Unconquerable Resolve https://www.d20pfsrd.com/feats/combat-feats/unconquerable-resolve-combat
 - lvl 1
     <!-- - Fey Foundling https://www.d20pfsrd.com/feats/general-feats/fey-foundling -->
 - lvl 3

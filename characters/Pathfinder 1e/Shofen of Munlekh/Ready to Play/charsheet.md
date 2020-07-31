@@ -49,8 +49,8 @@
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| Wnds |  64 |  64 | 0, 0 NL
-| Vigr |  27 |  27 |
+| Vigr |  64 |  64 | 0, 0 NL
+| Wnds |  27 |  27 |
 | Snty |  42 |   0 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
@@ -76,6 +76,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Trait (Harrow Chosen): +2 CL divination if use as focus
 - Feat (Spirit Sense): +5 to detect haunt, affect incorporeal with corporeal effects 75% of time
 - Class Feature (Channel Self): +2 to certain things, see cheatsheet
+- Item (Tome of Epics): Read to get +2 circumstance Per (oratory, sing), and Kn (nobility) with heroic lineages
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
@@ -109,7 +110,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 | T | C | Linguistics        | Int | +4  | -
 | 4 |   | C | Perception         | Wis | +8  | *
 |   |   | C | Perform            | Cha |     | -
-| 7 |   | C |   Oratory          | Cha | +17 | -
+| 7 |   | C |   Oratory          | Cha | +17 | *
 |   | T | C | Profession         | Wis |     | -
 | 1 | T | C |   Gardener         | Wis | +7  | -
 | 1 |   | C | Ride               | Dex | +8  | -

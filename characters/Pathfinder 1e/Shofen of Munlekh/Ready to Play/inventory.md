@@ -19,16 +19,17 @@
 | Wakizashi                |   2    |
 | Sling                    |        |
 |--------------------------|--------|--------------------------------
-| **General**              |  12    | Non-consumable catch-all
+| **General**              |   4    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
 | Hammock                  |   3    | Full-round to enter/exit, instead DC 5 Dex for move action
 | Sash of Holy Symbols     |   1    | Hand, Spiral, Angel, Bird, Katana
+|--------------------------|--------|--------------------------------
+| **Tools**                |  16    |
+|--------------------------|--------|--------------------------------
 | Heirloom Harrow Deck     |        | See Harrow Chosen trait
-| Seance Kit               |   8    | Spirit planchette, candles, magnet, incense
-|--------------------------|--------|--------------------------------
-| **Tools**                |   5    |
-|--------------------------|--------|--------------------------------
 | Painting Supplies        |   5    | Allow Craft (paintings) without penalty
+| Seance Kit               |   8    | Spirit planchette, candles, magnet, incense
+| Tome of Epics            |   3    | Read 1 hr, 24 hrs +2 circ Pe (ortry, sng), Kn (nblty) of heroic lineages
 |--------------------------|--------|--------------------------------
 | **Supplies/Consumables** |   5    |
 |--------------------------|--------|--------------------------------
@@ -37,9 +38,9 @@
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|--------|--------------------------------
 |--------------------------|--------|--------------------------------
-| **Coins**                |   1.12 | 44pp 4gp 8sp 0cp
+| **Coins**                |   1.02 | 39pp 4gp 8sp 0cp
 |--------------------------|--------|--------------------------------
-| **Total**                |  44.12 | Light Load
+| **Total**                |  47.02 | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties
