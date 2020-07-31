@@ -69,7 +69,7 @@ Lingering Aura: A magical aura lingers after its original source dissipates (in 
 
 Outsiders and elementals are not magical in themselves, but if they are summoned, the conjuration spell registers. Each round, you can turn to detect magic in a new area. The infusion can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-*Detect magic* can be made permanent with a permanency spell.
+*Detect magic* can be made permanent with a *permanency* spell.
 
 ### Detect Psychic Significance - divination
 |------------|--------------
@@ -104,9 +104,7 @@ Once a corpse has been subject to grave words by any caster, any new attempt to 
 | Duration   | 1 min or until discharged
 | Save       | Will neg (harmless)
 | SR         | yes
-This spell imbues the subject with a touch of divine guidance.
-
-The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.
+This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.
 
 ### Light - evocation [light]
 |------------|--------------
@@ -128,7 +126,7 @@ You can only have one *light* spell active at any one time. If you cast this spe
 | Range      | personal
 | Target     | you
 | Duration   | 10 min/lvl
-You can decipher magical  inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the infusion is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The infusion allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
+You can decipher magical  inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
 
 *Read magic* can be made permanent with a *permanency* spell.
 

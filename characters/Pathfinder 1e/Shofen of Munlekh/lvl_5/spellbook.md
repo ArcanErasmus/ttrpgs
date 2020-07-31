@@ -22,7 +22,7 @@ Lingering Aura: A magical aura lingers after its original source dissipates (in 
 
 Outsiders and elementals are not magical in themselves, but if they are summoned, the conjuration spell registers. Each round, you can turn to detect magic in a new area. The infusion can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-*Detect magic* can be made permanent with a permanency spell.
+*Detect magic* can be made permanent with a *permanency* spell.
 
 ### Detect Psychic Significance - divination
 |------------|--------------
