@@ -22,6 +22,7 @@
 | Shizuru  | Katana | honor and swordplay  | https://pathfinderwiki.com/wiki/Shizuru
 |----------|--------|----------------------|-----------------------------------------
 - 5'0", 120 lbs, 26 yo, brown hair, green eyes
+- A short, brown-haired woman wearing a silver headband, small pack, and cloak over a plain outfit. A long blade and a short blade are sheathed at her side. Across her chest is a sash adorned with several religious charms, with a small box in a large pocket at the waist.
 - Born in Munlekh on Rova 3rd, ?
 - Favored class: Samurai
 
@@ -49,12 +50,12 @@
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| Vigr |  64 |  64 | 0, 0 NL
+| Vigr |  65 |  65 | 0, 0 NL
 | Wnds |  27 |  27 |
 | Snty |  42 |   0 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
-HD rolls (d10): [10], 3+7, 8+2, 5+5, 7+3, 8+2, 4
+HD rolls (d10): [10], 5+5, 8+2, 5+5, 7+3, 8+2, 5
 AC breakdown: +4 dex, +5 cha, +1 wis, +1 natural armor, +1 armor
 
 ## Saves

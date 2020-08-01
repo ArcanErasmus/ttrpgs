@@ -105,6 +105,64 @@
     - Diva Advance https://www.d20pfsrd.com/feats/combat-feats/diva-advance-combat
     - Spring-Heeled Reaping https://www.d20pfsrd.com/feats/combat-feats/spring-heeled-reaping-combat
 
+## Harrow Deck
+| Card                | Att | Al | Represents
+|---------------------|-----|----|------------
+| The Paladin         | Str | LG | Standing resolutely against trouble, without backing down
+| The Keep            | Str | NG | Quiet, unshakeable strength that withstands any hardship
+| The Big Sky         | Str | CG | Momentous change, as when all the slaves of a nation are emancipated
+| The Forge           | Str | LN | Strength through diversity, or strength from many sources united against a single trial
+| The Bear            | Str | TN | Pure strength that cannot be truly tamed or trained
+| The Uprising        | Str | CN | Overwhelming strength that catches the subject up in something much more powerful
+| The Fiend           | Str | LE | The deaths of many in a disaster
+| The Beating         | Str | NE | An assault from all quarters, or the mental dissolution of the self
+| The Cyclone         | Str | CE | An unstoppable, destructive force unleashed through the plots of intelligent creatures
+| The Dance           | Dex | LG | A complicated framework that requires the cooperation of all to avoid collapse
+| The Cricket         | Dex | NG | The grig, quick travel, and the reward at the end of a journey
+| The Juggler         | Dex | CG | Destiny, deities, and those who play with the fates of others
+| The Locksmith       | Dex | LN | The keys the subject needs to unlock his fate, the tools needed to unlock some new place, puzzle, or hoard
+| The Peacock         | Dex | TN | A great beauty that can only be preserved if petrified and frozen in time for eternity, as by a cockatrice's glare
+| The Rabbit Prince   | Dex | CN | The quiky vicissitudes of melee combat, the capriciousness of battle, that defeat may come to anyone, ounger members of royal or noble houses
+| The Avalanche       | Dex | LE | Disaster: an unthinking panic and destruction that overruns all
+| The Crows           | Dex | NE | Murder, theft, and the violent loss of that which is loved
+| The Demon's Lantern | Dex | CE | An impossible situation of traps, mind tricks, and sleight of hand
+| The Trumpet         | Con | LG | An archon who dives aggressively and righteously into danger
+| The Survivor        | Con | NG | A creature that has managed to survive a terrible ordeal, when everyone thought him lost
+| The Desert          | Con | CG | An environment too difficult for anyone to survive without help, a source of salvation from plague
+| The Brass Dwarf     | Con | LN | A creature invulnerable to a current threat
+| The Teamster        | Con | TN | A external force that drives the subject on
+| The Mountain Man    | Con | CN | An encounter with a physical power outside of the subject's control
+| The Tangled Briar   | Con | LE | A historical thing or creature that will have some influence on the question
+| The Sickness        | Con | NE | Corruption, famine, plague, pestilence, and disease
+| The Waxworks        | Con | CE | A place of torture, imprisonment, helplessness, and paralysis
+| The Hidden Truth    | Int | LG | The discovery of the greater truth within
+| The Wanderer        | Int | NG | A centaur collector who appreciates things others discard as junk
+| The Joke            | Int | CG | A monster that can only be defeated through trickery, or the value of humor in circumventing difficult people
+| The Inquisitor      | Int | LN | An immutable object that cannot be deceived or influenced
+| The Foreign Trader  | Int | TN | Spies, merchants, and those who truck in information
+| The Vision          | Int | CN | Esoteric and arcane knowledge, or madness
+| The Rakshasa        | Int | LE | Domination, mental control, and slavery
+| The Idiot           | Int | NE | Folly, greed, blackmail, bribery, or hubris
+| The Snakebite       | Int | CE | Poison, venom, assassination, and discord
+| The Winged Serpent  | Wis | LG | The couatl, the bridge of understanding between the towers of knowledge and judgement
+| The Midwife         | Wis | NG | The enabler or conduit of new creation, information, or arrivals
+| The Publican        | Wis | CG | Fellowship and refuge, a seemingly inconsequential figure who nonetheless has relevant insight
+| The Queen Mother    | Wis | LN | This formian is the personification of knowledge, who is fond of the powerless, the underclass, and those who will show her obeidance
+| The Owl             | Wis | TN | The harsh wisdom of the natural order, binding life together or picking it apart
+| The Carnival        | Wis | CN | Illusions and false dreams
+| The Eclipse         | Wis | LE | Loss of faith and purpose, and the subject's doubt about his abilities or prospects
+| The Mute Hag        | Wis | NE | The insightful hag, a purveyor of blood pacts, treacherous secrets, and discord
+| The Lost            | Wis | CE | The permanently insane, lost among lunatics and psychopaths in insane asylums, emptiness
+| The Empty Throne    | Cha | LG | Those who are gone, or a ghost of the past that has taught important lessons
+| The Theater         | Cha | NG | Prophecy, with a true prophet acting a part as the puppet of the gods
+| The Unicorn         | Cha | CG | One who generously offers up that which is sought
+| The Marriage        | Cha | LN | A union of peoples, ideas, or kingdoms that might be as productive or as ruinous as the bonding of a salamander and a water weird
+| The Twin            | Cha | TN | Duality of purpose or identity, or indecision and fence-sitting for the subject or the entire spread
+| The Courtesan       | Cha | CN | Political intrigue and the superficiality of social niceties
+| The Tyrant          | Cha | LE | A ruler who harms those he rules
+| The Betrayal        | Cha | NE | Selfishness and envy
+| The Liar            | Cha | CE | Destructive and treacherous love, obsession, star-crossed lovers, unrequited desire
+
 # Gestalt lvl track
 ## Samurai - Warrior Poet
 | lv | features
