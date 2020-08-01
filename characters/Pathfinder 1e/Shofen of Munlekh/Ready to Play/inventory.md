@@ -21,7 +21,7 @@
 |--------------------------|--------|--------------------------------
 | **General**              |   4    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
-| Hammock                  |   3    | Full-round to enter/exit, instead DC 5 Dex for move action
+| Hammock                  |   3    | Full-round to enter/exit or move with DC 5 Dex
 | Sash of Holy Symbols     |   1    | Hand, Spiral, Angel, Bird, Katana
 |--------------------------|--------|--------------------------------
 | **Tools**                |  16    |
@@ -38,9 +38,9 @@
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|--------|--------------------------------
 |--------------------------|--------|--------------------------------
-| **Coins**                |   1.02 | 51pp 4gp 8sp 0cp
+| **Coins**                |   0.8  | 20pp 14gp 7sp 0cp, diamond shard (300 gp sell)
 |--------------------------|--------|--------------------------------
-| **Total**                |  47.02 | Light Load
+| **Total**                |  46.8  | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

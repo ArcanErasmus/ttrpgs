@@ -18,6 +18,50 @@
     - Hunt aberrations and agents of chaos
     - Oh and don't destroy art
 
+## Party
+- Paolo
+    - Lady Sephaline Longraix, not chaotic
+        - Employer of Mr. Werner
+        - "Widower from Cassomir"
+- Alex
+    - ?, chaotic
+- Caoimhe
+    - Helmold Werner, ?, (the Carnival, upright)
+
+## Quest Log
+### Most Recent
+- Was offered a job "chasing down the man who ruined [Thrushmoor]" (the Queen Mother, inverted)
+    - Hazerton Lowls IV, "hunting for dark power, he kidnapped people from the town to sacrifice and replace with dopplegangers"
+- Lowls
+    - Approach dream travelers about how to locate and appease the mad poet
+- Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory
+    - confronted deranged doctor who was doppleganger
+    - found helmold, and winter klazka
+    - group trying to figure out what happening, things coming out of the dream dimension
+    - argus wall, giant eye size of cartwheel
+    - deceased lady, haunt, infesting area with living blood
+    - pickled punks, fetuses in brine
+    - chestburster-ey things
+    - people made into brainless portal-smoke-vomiters
+    - the Tattered Man, entity of dream lands, might still be around in dreams of caligari
+    - investigating HL4 in thrushmoor, learn that he originally arrived with the group in tow and had them committed to the briarstone asylum
+    - hl4 not in thrushmoor, melisin corroro (2IC) left in charge after hl4 left
+    - several people of leadership of thrushmoor were missing
+    - found out they had worked for hl4 for 5 years but no memory of it
+    - ran into angry spirit of former person in town who had known the group, who they had known
+    - found a stash of items the group had presumably left behind, under a pier
+    - went to the Booklair, bookstore that had closed down, had given HL4 books on eldritch lore, found the high marshal had been replaced by a Soul Sliver (doppleganger that comes out of a mirror)
+    - high marshal was trying to keep town pacified while hl4 and group did nefarious things
+    - went to iris hill, former domain of hl4, caligari speedruns dungeon while invisible, suffering partial breakdown of sanity in process, then returns with reinforcements
+        - were arrested by "sheriff", killed him (he was a Soul Sliver too)
+        - lots of nasty creatures
+        - tons of random haunts, something about "blood slip-n-slide"
+        - burnt it down
+    - 
+
+### Archive
+- ?
+
 ## Backstory
 - Family
     - Drandot of Atas, father (human)
@@ -48,10 +92,3 @@
     - The resulting explosion knocked me out and leveled the entire church. When I came to in one of the town doctor's beds, Maunresh was dead, and I felt a great attunement to the spiritual world. Looking around, most of the town was gone, and the remaining members told me how my father had lead the rest of the cult in a pilgrimage out of Munlekh, to flee to where they could set up again. But it had been over a week since, and they were long gone. Furthermore, the formerly-trapped spirits were in chaos, many manifesting and haunting the town. By the time Munlekh was stabilized and the spirits put to rest, it was too late to chase after my family. And so I set out on my own, headed to ?
 - where do i come in?
     - ???
-
-## Quest Log
-### Most Recent
-- ?
-
-### Archive
-- ?
