@@ -60,7 +60,102 @@
 - Scar Seeker https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/scar-seeker
 
 ### items
-- ?
+- wondrous
+    - belt (belt of incredible dexterity +2)
+    - body
+        - Robe, Monk's https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/robe-monk-s
+    - chest
+    - eyes
+    - feet
+        - Boots of the Cat https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/boots-of-the-cat
+        - Sandals of Quick Reaction https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/sandals-of-quick-reaction
+        - Slippers of Spider Climbing https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/slippers-of-spider-climbing
+        - Boots of Speed https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed
+        - Boots, Winged https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-winged
+    - hands
+        - Gloves, Ghostvision https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-ghostvision
+        - Gloves of Arrow Snaring https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-arrow-snaring
+        - Gloves, Deliquescent https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-deliquescent
+        - Gauntlet of Rust https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gauntlet-of-rust
+    - head
+    - headband (headband of alluring charisma +4)
+    - neck
+    - shoulders
+        - Cloak of Resistance https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance
+        - Shawl of Life-Keeping https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shawl-of-life-keeping
+        - Pauldrons of the Serpent https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pauldrons-of-the-serpent
+        - Cape, Eagle https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cape-eagle
+        - Cloak, Cocoon https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-cocoon
+        - Cloak, Lion https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-lion
+        - Cape of Effulgent Escape https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cape-of-effulgent-escape
+        - Poncho, Gunfighter's https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/poncho-gunfighter-s
+        - Cloak, Comfort's https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-comfort-s
+    - wrists (bracers of armor +1)
+    - slotless
+- rings
+    - Ring of Spell Knowledge https://www.d20pfsrd.com/magic-items/rings/ring-of-spell-knowledge
+    - Ring of Protection https://www.d20pfsrd.com/magic-items/rings/ring-of-protection
+    ? Ring of Force Shield https://www.d20pfsrd.com/magic-items/rings/ring-of-force-shield
+        - Dependent on ruling of whether or not it affects monk abilities
+    * Ring of Foe Focus https://www.d20pfsrd.com/magic-items/rings/ring-of-foe-focus
+    - Soultether Ring https://www.d20pfsrd.com/magic-items/rings/soultether-ring
+
+### special materials
+- weapon
+    - Adamantine https://www.d20pfsrd.com/equipment/special-materials#Adamantine
+    - Druchite https://www.d20pfsrd.com/equipment/special-materials#Druchite
+    - Elysian Bronze https://www.d20pfsrd.com/equipment/special-materials#Elysian_Bronze
+    - Horacalcum https://www.d20pfsrd.com/equipment/special-materials#Horacalcum
+    - Iron, Cold https://www.d20pfsrd.com/equipment/special-materials#Iron_Cold
+    - Mindglass https://www.d20pfsrd.com/equipment/special-materials#Mindglass
+    - Noqual https://www.d20pfsrd.com/equipment/special-materials#Noqual
+    * Silversheen https://www.d20pfsrd.com/equipment/special-materials#Silversheen
+    - Voidglass https://www.d20pfsrd.com/equipment/special-materials#Voidglass
+- other
+    - Darkwood https://www.d20pfsrd.com/equipment/special-materials#Darkwood
+
+### magic weapon special abilities
+- gp
+    - 3,000: Impervious https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/impervious
+    - 14,000: Dueling https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/dueling
+- +1
+    - Bane https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/bane
+        - Aberration, Outsider [chaotic or evil], Undead
+    - Cunning https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/cunning
+        - Arcana (constructs, dragons, magical beasts)
+        * Dungeoneering (aberrations, oozes)
+        - Local (humanoids)
+        - Nature (animals, fey, monstrous humanoids, vermin)
+        * Planes (outsiders)
+        * Religion (undead)
+    - Ghost Touch https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/ghost-touch
+    - Keen https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/keen
+    - Limning https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/limning
+    - Planar https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/planar
+    - Spell Storing https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/spell-storing
+    - Valiant https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/valiant
+- +2
+    - Anchoring https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/anchoring
+    - Axiomatic https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/axiomatic
+    - Holy https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/holy
+    - Phase Locking https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/phase-locking
+    - Planestriking https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/planestriking
+- +3
+    - Speed https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/speed
+    - Spell Stealing https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/spell-stealing
+- +4
+    - Brilliant Energy https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/brilliant-energy
+
+### magic armor special abilities (for *bracers of armor*)
+- gp (not allowed)
+- +1
+    - Champion https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/champion
+    - Deathless https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/deathless
+    - Defiant https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/defiant
+        - See "bane"
+    - Mirrored https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/mirrored
+    - Spell Storing https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/spell-storing 
+- +2 and up: none
 
 ### story feats
 - Arisen https://www.d20pfsrd.com/feats/story-feats/arisen-story

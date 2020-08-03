@@ -1,11 +1,11 @@
 # Shofen's Abilities Cheat-sheet
 ## Weapons
-| Weapon        | Atk    | Dam   | Crit     | Type | Range | Notes
-|---------------|--------|-------|----------|------|-------|------------
-| Mwk Katana    | +12/+7 | 1d8+5 | 18-20/x2 | S    |       | Deadly
-| Wakizashi     | +11/+6 | 1d6+4 | 18-20/x2 | P/S  |       | Deadly
-| Unarmed       | +11/+6 | 1d6+4 |    20/x2 | B    |       | See unarmed strike class feature
-| Sling         | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
+| Weapon           | Atk    | Dam   | Crit     | Type | Range | Notes
+|------------------|--------|-------|----------|------|-------|------------
+| Mwk Kriegsmesser | +12/+7 | 1d8+5 | 18-20/x2 | S    |       | Deadly
+| Wakizashi        | +11/+6 | 1d6+4 | 18-20/x2 | P/S  |       | Deadly
+| Unarmed          | +11/+6 | 1d6+4 |    20/x2 | B    |       | See unarmed strike class feature
+| Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Spirit Channeling
 - **Spirit**: Hierophant; influence (max 6): OOOOOx

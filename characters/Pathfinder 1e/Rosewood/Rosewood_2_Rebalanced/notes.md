@@ -5,8 +5,8 @@
 ## Achievement Feat Progress
 ### History of Scars
 - take 1000 dmg, subtract 1/5th magic healing
-- damage taken: 246
-- magical healing: 143
+- damage taken: 247
+- magical healing: 144
 - -2 Cha-based skill checks, inc nat armor by 2
 
 ### Mouse Stomper
