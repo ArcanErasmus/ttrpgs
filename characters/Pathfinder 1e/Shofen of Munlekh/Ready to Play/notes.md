@@ -59,13 +59,23 @@
 - Sacred Sentinel https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/sacred-sentinel
 - Scar Seeker https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/s-z/scar-seeker
 
-### items
-- wondrous
+### items (19,999 gp budget)
+- slotted
     - belt (belt of incredible dexterity +2)
     - body
+        - Body Wrap of Mighty Strikes https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/body-wrap-of-mighty-strikes
         - Robe, Monk's https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/robe-monk-s
     - chest
+        - Shirt, Quick Runner's https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shirt-quick-runners
+        - Pectoral, Prophet's https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pectoral-prophet-s
+        - Tunic of Deadly Might https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tunic-of-deadly-might
     - eyes
+        - Eyes of the Eagle https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-eagle
+        - Eyes of the Owl https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-owl
+        - Eyes of Keen Sight https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-keen-sight
+        - Goggles of Elvenkind https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goggles-of-elvenkind
+        - Fold, Blind Man's https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/fold-blind-man-s
+        - Goggles of Night https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goggles-of-night
     - feet
         - Boots of the Cat https://www.d20pfsrd.com/magic-items/wondrous-items/wondrous-items/a-b/boots-of-the-cat
         - Sandals of Quick Reaction https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/sandals-of-quick-reaction
@@ -77,9 +87,23 @@
         - Gloves of Arrow Snaring https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-arrow-snaring
         - Gloves, Deliquescent https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-deliquescent
         - Gauntlet of Rust https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gauntlet-of-rust
+        - Gloves, Vampiric https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-vampiric
     - head
+        - Cap, Buffering https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cap-buffering
+        - Mask, Miser's https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mask-miser-s
+        - Circlet of Persuasion https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/circlet-of-persuasion
+        - Helm of Comprehend Languages and Read Magic https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helm-of-comprehend-languages-and-read-magic
+        - Mask, Plague https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mask-plague
+        - Mask of a Thousand Tomes https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mask-of-a-thousand-tomes
     - headband (headband of alluring charisma +4)
     - neck
+        - Clasp, Swarmbane https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/clasp-swarmbane
+        - Amulet of Proof Against Petrification https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-proof-against-petrification
+        - Pendant, Gravewatch https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pendant-gravewatch
+        - Necklace of Adaptation https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/necklace-of-adaptation
+        - Medallion of Thoughts https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/medallion-of-thoughts
+        - Periapt of Protection from Curses https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/periapt-of-protection-from-curses
+        - Symbol of Sanguine Protection https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/symbol-of-sanguine-protection
     - shoulders
         - Cloak of Resistance https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance
         - Shawl of Life-Keeping https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shawl-of-life-keeping
@@ -91,14 +115,58 @@
         - Poncho, Gunfighter's https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/poncho-gunfighter-s
         - Cloak, Comfort's https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-comfort-s
     - wrists (bracers of armor +1)
-    - slotless
-- rings
-    - Ring of Spell Knowledge https://www.d20pfsrd.com/magic-items/rings/ring-of-spell-knowledge
-    - Ring of Protection https://www.d20pfsrd.com/magic-items/rings/ring-of-protection
-    ? Ring of Force Shield https://www.d20pfsrd.com/magic-items/rings/ring-of-force-shield
-        - Dependent on ruling of whether or not it affects monk abilities
-    * Ring of Foe Focus https://www.d20pfsrd.com/magic-items/rings/ring-of-foe-focus
-    - Soultether Ring https://www.d20pfsrd.com/magic-items/rings/soultether-ring
+    !- rings
+        - Ring of Spell Knowledge https://www.d20pfsrd.com/magic-items/rings/ring-of-spell-knowledge
+        - Ring of Protection https://www.d20pfsrd.com/magic-items/rings/ring-of-protection
+        - Soultether Ring https://www.d20pfsrd.com/magic-items/rings/soultether-ring
+        ? Ring of Force Shield https://www.d20pfsrd.com/magic-items/rings/ring-of-force-shield
+            - Dependent on ruling of whether or not it affects monk abilities
+        - Ring of Curing https://www.d20pfsrd.com/magic-items/rings/ring-of-curing
+        * Ring of Foe Focus https://www.d20pfsrd.com/magic-items/rings/ring-of-foe-focus
+        - Ring of Water Walking https://www.d20pfsrd.com/magic-items/rings/ring-of-water-walking
+        - Ring of Inner Fortitude https://www.d20pfsrd.com/magic-items/rings/ring-of-inner-fortitude
+        - Ring of Spell Storing https://www.d20pfsrd.com/magic-items/rings/ring-of-spell-storing
+        - Ring of Energy Shroud https://www.d20pfsrd.com/magic-items/rings/ring-of-energy-shroud
+- slotless
+    - Unguent of Timelessness https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/unguent-of-timelessness
+    - Soul Soap https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/soul-soap
+    - Traveler's Any-Tool https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/traveler-s-any-tool
+    - Swan Feather Token https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/feather-token/swan-boat-token/
+    - Elixir of Truth https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/elixir-of-truth
+    * Scabbard of Honing https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-honing
+    - Seer's Tea https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/seer-s-tea
+    - Bead, Campfire https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bead-campfire
+    - Snapleaf https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/snapleaf
+    - Dust of Dryness https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dust-of-dryness
+    * Page of Spell Knowledge https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/page-of-spell-
+    - Dust of Acid Consumption https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dust-of-acid-consumption
+    * Scabbard of Vigor https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-vigor
+    * Blood Reservoir of Physical Prowess https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/blood-reservoir-of-physical-prowess
+    * Bag of Holding https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-holding
+    - Noble's Vigilant Pillbox https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/noble-s-vigilant-pillbox
+    - Ioun Stone, Clear Spindle https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/clear-spindle-ioun-stone
+    - Ointment, Restorative https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/ointment-restorative
+    - Stone Salve https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-salve
+    - Scabbard of Stanching https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-stanching
+    - Bottle, Eversmoking https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bottle-eversmoking
+    - Grim Lantern https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/grim-lantern
+    * Martyr's Tear https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/martyr-s-tear
+    - Dragonbane Divination Sticks https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dragonbane-divination-sticks
+    - Horn of Goodness/Evil https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/horn-of-goodness-evil
+    - Instant Bridge https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/instant-bridge
+    - Boat, Folding https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boat-folding
+    - Ioun Stone, Incandescent Blue Sphere https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/incandescent-blue-sphere-ioun-stone
+    - Ioun Stone, Pale Blue Rhomboid https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/pale-blue-rhomboid-ioun-stone
+    - Ioun Stone, Pink Rhomboid https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/pink-rhomboid-ioun-stone
+    - Ioun Stone, Scarlet and Blue Sphere https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/scarlet-and-blue-sphere-ioun-stone
+    - Werewhistle https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/werewhistle
+    - Beads, Prayer (Lesser) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/beads-prayer-strand
+    - Ornament of Healing Light https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/ornament-of-healing-light
+    * Black Soul Shard https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/black-soul-shard
+    - Pearl of the Sirines https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-the-sirines
+    - Scabbard of Keen Edges https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-keen-edges
+    - Broom of Flying https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/broom-of-flying
+    - Ioun Stone, Iridescent Spindle https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/iridescent-spindle-ioun-stone
 
 ### special materials
 - weapon
@@ -294,28 +362,28 @@
 - armor prof: light
 
 ## Medium - Reanimated Medium
-| lv | spells/known        | features
-|----|---------------------|----------
-|  1 | -/2                 | Knacks, channel self, spirit bonus +1, spirit power (lesser), spirit surge 1d6
-|  2 | -/+                 | Shared seance
-|  3 | -/+                 | Ease passage
-|  4 | -/  1/2             | Spirit bonus +2
-|  5 | -/+ 1/+             | Lingering spirit
-|  6 | -/  1/+             | Spirit power (intermediate)
-|  7 | -/+ 1/  1/2         | Spirit warding
-|  8 | -/  1/  1/+         | Spirit bonus +3
-|  9 | -/  2/+ 1/+         | Propitiation
-| 10 | -/  2/  1/  1/2     | Spirit surge 1d8
-| 11 | -/  2/  1/  1/+     | Spirit power (greater)
-| 12 | -/  2/+ 2/+ 1/+     | Spirit bonus +4
-| 13 | -/  3/  2/  1/  1/2 | Ask the spirits
-| 14 | -/  3/  2/  1/  1/+ | Astral journey
-| 15 | -/  3/  2/+ 2/+ 1/+ | Trance of three
-| 16 | -/  3/  3/  2/  1/  | Spirit bonus +5
-| 17 | -/  4/  3/  2/  1/  | Spirit power (supreme)
-| 18 | -/  4/  3/  2/+ 2/+ | Spirit warding
-| 19 | -/  4/  3/  3/  2/  | Spirit mastery
-| 20 | -/  4/  4/  3/  2/  | Living legend, spirit bonus +6, spirit surge 1d10
+| lv | spells/known        | mesmerist   | features
+|----|---------------------|-------------|----------
+|  1 | -/2                 | 1           | Knacks, channel self, spirit bonus +1, spirit power (lesser), spirit surge 1d6
+|  2 | -/+                 | 2           | Shared seance
+|  3 | -/+                 | 3           | Ease passage
+|  4 | -/  1/2             | 3 1         | Spirit bonus +2
+|  5 | -/+ 1/+             | 4 2         | Lingering spirit
+|  6 | -/  1/+             | 4 3         | Spirit power (intermediate)
+|  7 | -/+ 1/  1/2         | 4 3 1       | Spirit warding
+|  8 | -/  1/  1/+         | 4 4 2       | Spirit bonus +3
+|  9 | -/  2/+ 1/+         | 5 4 3       | Propitiation
+| 10 | -/  2/  1/  1/2     | 5 4 3 1     | Spirit surge 1d8
+| 11 | -/  2/  1/  1/+     | 5 4 4 2     | Spirit power (greater)
+| 12 | -/  2/+ 2/+ 1/+     | 5 5 4 3     | Spirit bonus +4
+| 13 | -/  3/  2/  1/  1/2 | 5 5 4 3 1   | Ask the spirits
+| 14 | -/  3/  2/  1/  1/+ | 5 5 4 4 2   | Astral journey
+| 15 | -/  3/  2/+ 2/+ 1/+ | 5 5 5 4 3   | Trance of three
+| 16 | -/  3/  3/  2/  1/  | 5 5 5 4 3 1 | Spirit bonus +5
+| 17 | -/  4/  3/  2/  1/  | 5 5 5 4 4 2 | Spirit power (supreme)
+| 18 | -/  4/  3/  2/+ 2/+ | 5 5 5 5 4 3 | Spirit warding
+| 19 | -/  4/  3/  3/  2/  | 5 5 5 5 5 4 | Spirit mastery
+| 20 | -/  4/  4/  3/  2/  | 5 5 5 5 5 5 | Living legend, spirit bonus +6, spirit surge 1d10
 
 - alignment: any
 - hd: d8

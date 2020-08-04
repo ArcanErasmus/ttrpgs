@@ -40,7 +40,7 @@
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| AC   | 22 (20 T/22 F) | -
+| AC   | 22 (20 T/22 F) | *
 | BAB  | +7             | -
 | CMB  | +9             | -
 | CMD  | 29             | -
@@ -78,6 +78,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Feat (Spirit Sense): +5 to detect haunt, affect incorporeal with corporeal effects 75% of time
 - Class Feature (Channel Self): +2 to certain things, see cheatsheet
 - Item (Tome of Epics): Read to get +2 circumstance Per (oratory, sing), and Kn (nobility) with heroic lineages
+- Item (Neck Guard): +1 armor to AC (stacks with *bracers*) vs attacks targeting throat
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
