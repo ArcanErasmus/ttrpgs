@@ -1,6 +1,6 @@
-# Custom Class - Order of the Leviathan (Riverfolk)
+# Custom Class - Order of the Leviathan (Warrior)
 ## Career Path
-Trappings (Riverfolk): Cloak, Clothing, Dagger, Pouch, Sling Bag containing a Flask of Spirits
+Trappings (Warrior): Clothing, Hand Weapon, Dagger, Pouch
 
 ### Calf - Brass 4
 Characteristics: T, WP, Fel

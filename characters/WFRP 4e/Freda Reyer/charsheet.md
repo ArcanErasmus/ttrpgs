@@ -1,5 +1,5 @@
 # Sister Freda Reyer, she
-## Human, Order of the Leviathan (Riverfolk), Orca Priest - Silver 2
+## Human, Order of the Leviathan (Warrior), Orca Priest - Silver 2
 - 5'10", 16 yo, Golden Brown hair, Green eyes
 - Nationality: Imperial
 - Birthplace: Averland

@@ -35,6 +35,7 @@ Range:
 | **Worn Equipment**       |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Cloak                    |   1 |     |
+| Fancy Hat                |     |     |
 | Leather Jack             |   1 |     |
 | Robes                    |   1 |     | blue-gray, trimmed with a white wave-pattern
 | Whale necklace           |     |     | Manann religious symbol
@@ -63,13 +64,9 @@ Range:
 |--------------------------|-----|-----|--------------------------------
 | Bullet and powder (22)   |     |     | Impale, Penetrating (included in weapon)
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 13/3
+| **Coins**                |     |     | 0GC 0/0
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   2 |
-
-#### market/loot scratch pad
-fine hat (OotL themed): 8/-
-donation to church: remainder
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
@@ -79,7 +76,7 @@ donation to church: remainder
 | 3x Limit  |  24 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
 |-----------|-----|
 
-## Spells and Prayers
+## Spells and Prayers, Sin: 0
 ### Blessings
 #### Blessing of Battle
 - Range: 6 yds
@@ -126,7 +123,7 @@ donation to church: remainder
 
 
 ## Injuries, Afflictions, Psychology, Mutations
-### Corruption (1/8)
+### Corruption (3/8)
 - no mutations
 
 ### Injuries/Afflictions
