@@ -13,7 +13,7 @@
         - Spirit Surge: 1d6
     - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
     - Boon: +2 healing from own spells/abilities
-    - LI Feat (cost 1 inf): Fortune Teller https://www.d20pfsrd.com/feats/general-feats/fortune-teller
+    - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
     - Lesser: Divine Surge (see Hierophant Bonus Spells)
 
 ## Combat Options
@@ -50,8 +50,8 @@
     - **Daily**; 2/day: OO
     - Damage: 4d6
 
-## Spells (Medium List) - DC: 15 + spell lvl, CL 7 (10 for checks or when use harrow deck as focus for divination)
-- Concentration: +15
+## Spells (Medium List) - DC: 15 + spell lvl, CL 7 (9 for checks or when use harrow deck as focus for divination)
+- Concentration: +14
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 |---------------------------------------------------------------|
 | Ranges - Close: 30 ft, Medium: 130 ft, Far: 520 ft            |

@@ -31,16 +31,16 @@
 |------|---------|------|
 | STR  | 14 (+2) | -
 | DEX  | 18 (+4) | -
-| CON  | 10 (  ) | -
-| INT  | 10 (  ) | -
-| WIS  | 12 (+1) | -
+| CON  |  7 (-2) | -
+| INT  | 11 (  ) | -
+| WIS  | 14 (+2) | -
 | CHA  | 20 (+5) | -
-20 Point buy: 16 14 13 12 10 10
+20 Point buy: 16 14 14 13 11 7
 
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| AC   | 22 (20 T/22 F) | *
+| AC   | 23 (21 T/23 F) | *
 | BAB  | +7             | -
 | CMB  | +9             | -
 | CMD  | 29             | -
@@ -51,19 +51,19 @@
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
 | Vigr |  65 |  65 | 0, 0 NL
-| Wnds |  27 |  27 |
+| Wnds |  21 |  21 |
 | Snty |  42 |   0 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
 HD rolls (d10): [10], 5+5, 8+2, 5+5, 7+3, 8+2, 5
-AC breakdown: +4 dex, +5 cha, +1 wis, +1 natural armor, +1 armor
+AC breakdown: +4 dex, +5 cha, +2 wis, +1 natural armor, +1 armor
 
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +10   | -
+| Fort | Con  | +8    | -
 | Ref  | Dex  | +13   | -
-| Will | Wis  | +11   | +2
+| Will | Wis  | +12   | +2
 Fort: 2 + 7x(1/2) + 0x(1/3) = +5
 Ref : 2 + 2x(1/2) + 5x(1/3) = +4
 Will: 2 + 7x(1/2) + 0x(1/3) = +5
@@ -96,7 +96,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 |   | C | Escape Artist      | Dex | +7  | -
 |   |   | C | Fly                | Dex |     | -
 | 1 | T | C | Handle Animal      | Cha | +9  | -
-| 1 |   | C | Heal               | Wis | +6  | -
+| 1 |   | C | Heal               | Wis | +7  | -
 | 1 |   | C | Intimidate         | Cha | +10 | -
 | 1 | T | C | Kn (arcana)        | Int | +4  | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
@@ -110,11 +110,11 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   | T |   | Kn (psionics)      | Int |     | -
 | 3 | T | C | Kn (religion)      | Int | +6  | -
 | 1 | T | C | Linguistics        | Int | +4  | -
-| 4 |   | C | Perception         | Wis | +8  | *
+| 4 |   | C | Perception         | Wis | +9  | *
 |   |   | C | Perform            | Cha |     | -
 | 7 |   | C |   Oratory          | Cha | +17 | *
 |   | T | C | Profession         | Wis |     | -
-| 1 | T | C |   Gardener         | Wis | +7  | -
+| 1 | T | C |   Gardener         | Wis | +8  | -
 | 1 |   | C | Ride               | Dex | +8  | -
 |   |   | C | Sense Motive       | Wis | +17 | *
 |   | T |   | Sleight of Hand    | Dex |     | -
@@ -124,7 +124,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 |   | C | Swim               | Str | +6  | -
 | 1 | T | C | Use Magic Device   | Cha | +9  | -
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: no max Dex, no ACP, 0% ASFC, normal speed**
+- **Current encumbrance modifiers: no max Dex, no ACP, 5% ASFC, normal speed**
 - 40/40
     - 5x(4+0) samurai
     - 2x(4+0) monk
@@ -154,7 +154,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - If immune to fear, no extra penalties but lose said immunity
 
 ### Enduring Stoicism [Campaign]
-- +1 trait bonus saves vs [fear] and [emotion] spells/effects
+- +2 trait bonus saves vs [fear] and [emotion] spells/effects
 - +1 trait bonus intimidate
 
 ### Born Under the Stranger [Combat]
@@ -223,10 +223,11 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 
 ### Legendary Influence [lvl 7]
 - Select one feat per spirit, channeling the spirit grants access to feat
-    - Archmage   : Friendly Switch   https://www.d20pfsrd.com/feats/general-feats/friendly-switch
-    - Champion   : Radiant Charge    https://www.d20pfsrd.com/feats/general-feats/radiant-charge
-    - Guardian   : Fey Foundling     https://www.d20pfsrd.com/feats/general-feats/fey-foundling
-    - Hierophant : Fortune Teller    https://www.d20pfsrd.com/feats/general-feats/fortune-teller
-    - Marshal    : Insightful Advice https://www.d20pfsrd.com/feats/general-feats/insightful-advice
-    - Trickster  : Lunge             https://www.d20pfsrd.com/feats/combat-feats/lunge-combat
+    - Archmage   : Friendly Switch    https://www.d20pfsrd.com/feats/general-feats/friendly-switch
+    - Champion   : Radiant Charge     https://www.d20pfsrd.com/feats/general-feats/radiant-charge
+    - Guardian   : Combat Reflexes    https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat
+    - Hierophant : Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
+    - Marshal    : Insightful Advice  https://www.d20pfsrd.com/feats/general-feats/insightful-advice
+    - Trickster  : Lunge              https://www.d20pfsrd.com/feats/combat-feats/lunge-combat
 - Can't use feat for prereqs except for feats granted by channeling spirits
+- Can't be item creation feat

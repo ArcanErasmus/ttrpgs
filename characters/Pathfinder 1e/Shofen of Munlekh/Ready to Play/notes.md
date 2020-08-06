@@ -51,6 +51,17 @@
     - Psychic aura identification: *Detect psychic significance*
     - Psychic item identification: *Object reading*
 
+## Improved Legendary Influence theorycraft
+- Select one feat per spirit, channeling the spirit grants access to feat
+    <!-- - Archmage   : Friendly Switch    https://www.d20pfsrd.com/feats/general-feats/friendly-switch -->
+    <!-- - Champion   : Radiant Charge     https://www.d20pfsrd.com/feats/general-feats/radiant-charge -->
+    <!-- - Guardian   : Combat Reflexes    https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat -->
+    - Hierophant : Shield Focus       https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat
+    <!-- - Marshal    : Insightful Advice  https://www.d20pfsrd.com/feats/general-feats/insightful-advice -->
+    <!-- - Trickster  : Lunge              https://www.d20pfsrd.com/feats/combat-feats/lunge-combat -->
+- Can't use feat for prereqs except for feats granted by channeling spirits
+- Can't be item creation feat
+
 ## interesting things to look into
 ### classes/presige classes
 - Devoted Muse https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/c-d/devoted-muse

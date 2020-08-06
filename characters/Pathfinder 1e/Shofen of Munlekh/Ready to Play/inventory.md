@@ -6,7 +6,7 @@
 |--------------------------|--------|--------------------------------
 | Backpack                 |   2    |
 | Outfit, Explorer's       |   8    |
-| Neck Guard               |   0.25 | +1 armor to AC vs throat atks (stacks with non-hvy armor)
+| Neck Guard               |        | +1 armor to AC vs throat atks (stacks with non-hvy armor)
 |--------------------------|--------|--------------------------------
 | **Slotted Magic Items**  |   3    | See slots below
 |--------------------------|--------|--------------------------------
@@ -14,11 +14,12 @@
 | *Bracers of Armor +1*    |   1    |
 | *Headband of Cha +4*     |   1    |
 |--------------------------|--------|--------------------------------
-| **Weapons**              |   8    | Includes ammo, related items
+| **Weapons/Shields**      |  13    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
 | Mwk Kriegsmesser         |   6    | (Katana but reflavored)
 | Wakizashi                |   2    |
 | Sling                    |        |
+| Mwk Buckler              |   5    | +1 AC, no max Dex, 0 ACP, 5% ASFC
 |--------------------------|--------|--------------------------------
 | **General**              |   4    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
@@ -39,9 +40,9 @@
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|--------|--------------------------------
 |--------------------------|--------|--------------------------------
-| **Coins**                |   0.8  | 19pp 14gp 7sp 0cp, diamond shard (300 gp sell)
+| **Coins**                |   0.6  | 3pp 19gp 7sp 0cp, diamond shard (300 gp sell)
 |--------------------------|--------|--------------------------------
-| **Total**                |  46.8  | Light Load
+| **Total**                |  51.6  | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

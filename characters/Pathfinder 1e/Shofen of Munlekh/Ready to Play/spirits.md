@@ -36,7 +36,7 @@
 - Fav Locations: City walls, forts, gates, keeps
 - 3+ Inf Penalty: Overly cautious and guarded in all things
     - Spirit bonus as penalty to damage, always fight & cast defensively
-- Legendary Influence feat: Fey Foundling https://www.d20pfsrd.com/feats/general-feats/fey-foundling
+- Legendary Influence feat: Combat Reflexes https://www.d20pfsrd.com/feats/combat-feats/combat-reflexes-combat
 - Lesser: Guardian's Shield (Su)
     -  Proficiency in heavy armor and all shields
 <!-- - Intermediate: Absorb Blow (Su) -->
@@ -49,7 +49,7 @@
 - Fav Locations: Altars, chuches, sacred groves, shrines
 - 3+ Inf Penalty: Must save foes for redemption
     - Spirit bonus as penalty to Cha checks/skills with worshippers of other faiths (except to convert), strike for nonlethal whenever possible
-- Legendary Influence feat: Fortune Teller https://www.d20pfsrd.com/feats/general-feats/fortune-teller
+- Legendary Influence feat: Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
 - Lesser: Divine Surge (Su)
     -  As archmage Arcane Surge, but Cleric/Oracle list and need divine focus if required
 <!-- - Intermediate: Energy Font (Su) -->
