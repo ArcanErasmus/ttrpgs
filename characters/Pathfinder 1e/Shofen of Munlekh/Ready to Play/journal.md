@@ -20,11 +20,11 @@
 
 ## Party
 - Paolo
-    - Lady Sephaline Longraix, not chaotic
+    - Lady Sephaline Longraix (Caligari), not chaotic
         - Employer of Mr. Werner
         - "Widower from Cassomir"
 - Alex
-    - ?, chaotic
+    - Alterino Valentine, chaotic
 - Caoimhe
     - Helmold Werner, ?, (the Carnival, upright)
 

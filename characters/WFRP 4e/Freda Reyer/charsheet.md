@@ -11,7 +11,7 @@
 - Party short-term: Scout the enemy challenger & crew
 - Party long-term: Save the Gravin
 
-## Total/Spent XP: 2025/2025
+## Total/Spent XP: 2045/2045
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  275 |   0 |  10 | BS
@@ -55,10 +55,10 @@
 | Att | Max | Cur  |
 |-----|-----|------|
 | W   |  15 | 15
-| F/F |   4 | OOxx
+| F/F |   4 | OOOO
 | R/R |   2 | OO
 | M   |   4 |
-| Cor |   8 | 2
+| Cor |   8 | 3
 | Sin |     | 0
 
 ## Skills

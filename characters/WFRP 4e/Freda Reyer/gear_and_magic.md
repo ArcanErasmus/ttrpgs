@@ -76,7 +76,7 @@ Range:
 | 3x Limit  |  24 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
 |-----------|-----|
 
-## Spells and Prayers, Sin: 0
+## Spells and Prayers
 ### Blessings
 #### Blessing of Battle
 - Range: 6 yds
@@ -123,7 +123,7 @@ Range:
 
 
 ## Injuries, Afflictions, Psychology, Mutations
-### Corruption (3/8)
+### Corruption
 - no mutations
 
 ### Injuries/Afflictions

@@ -54,7 +54,7 @@
 - Concentration: +14
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 |---------------------------------------------------------------|
-| Ranges - Close: 30 ft, Medium: 130 ft, Far: 520 ft            |
+| Ranges - Close: 40 ft, Medium: 170 ft, Far: 680 ft            |
 |-------------------------------|-------------------------------|
 | **0th**; No daily limit       | **1st**; 3/day: OOO           |
 |-------------------------------|-------------------------------|
