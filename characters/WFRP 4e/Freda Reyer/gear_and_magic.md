@@ -12,6 +12,7 @@
 |------------------------------|---------------|---------|-------|-----------------
 | Dagger                       | M Basic       | V Short | +SB+2 |
 | Speargun of Manann (Handgun) | R Blackpowder |      50 |   +10 | Blackpowder, Damaging, Dangerous, Reload 3, Impale, Penetrating
+| Pistol                       | R Blackpowder |      20 |   +10 | Blackpowder, Pistol, Dangerous, Reload 3, Impale, Penetrating
 | Trident plug bayonet         | M Polearm     | Long    | +SB+3 | Impale, Action to attach/detach from gun, plugs gun barrel
 
 Quick notes for shooting
@@ -60,20 +61,13 @@ Range:
 |--------------------------|-----|-----|--------------------------------
 | **Supplies/Consumables** |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Bullet and powder (10)   |     |     | Impale, Penetrating (included in weapon)
+| Bullet and powder (22)   |     |     | Impale, Penetrating (included in weapon)
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 8GC 16/6
+| **Coins**                |     |     | 0GC 13/3
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   2 |
 
 #### market/loot scratch pad
-8gc 16/6
-pistol: 8gc
-- 0 enc
-- 20 range
-- +9 damage (incl ammo)
-- impale, penetrating, pistol, reload 1
-bullet&powder (12): 3/3
 fine hat (OotL themed): 8/-
 donation to church: remainder
 
