@@ -80,6 +80,7 @@
             - Same father, with father in cult
 - Other important figures
     - Master Olov Gevek, halfling Monk/Paladin
+    - Maunresh of Munlekh, late cult leader
 - Birth and early life
     - My father met my mother when she already had one son (via Etimis, elven father), and they set out on the frontier. After settling in the young town of Munlekh, they had a daughter (Bhullas), then a pair of daughters (Shino and myself), where mother died in childbirth. Father, vulnerable in his grief, was sucked into the growing cult in Munlekh (lead by Maunresh of Munlekh). Later, he would remarry, taking the hand of a fellow cultist (Alldog, half-orc mother), and they would have another daughter (Fernild).
     - I was inducted into the cult as well, but one day I was tasked with manipulating a criminal on the run (Erred of ?), to distract him for the cult to capture. Seeing and hearing his horror before the cult sacrificed him scarred me, leading me to into what cult was hiding. When searching through a library forbidden to all but the cult leaders, I found a book on spiritual rituals, but was discovered by a cultist (Aggu of Munlekh). Aggu was sympathetic to my views, also looking for a way to escape, and so helped me learn and hone my abilities. She taught me to control the spirit channeling that the cult was using to posess people, and to seek repentance and healing through art, immortalizing but externalizing the experiences that continued to haunt my thoughts. Finally, she gave me the supplies and knowledge to flee the town.

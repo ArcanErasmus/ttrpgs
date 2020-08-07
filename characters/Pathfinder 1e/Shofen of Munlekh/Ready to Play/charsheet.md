@@ -25,6 +25,23 @@
 - A short, brown-haired woman wearing a silver headband, small pack, and cloak over a plain outfit. A long blade and a short blade are sheathed at her side. Across her chest is a sash adorned with several religious charms, with a small box in a large pocket at the waist.
 - Born in Munlekh on Rova 3rd, ?
 - Favored class: Samurai
+- Personality shorthand
+    - Anti-proselytization
+    - Judiciary of balance in the world
+    - Fighter against corruption
+        - Corruption of mind: Manipulation and gross dishonor, whatever gives me a real gut reaction to behaviors like Maunresh
+        - Corruption of body: Beseeching the dark powers
+        - Corruption of the world: Aberrations
+    - Hunter of the exotics/occult
+        - Have been meddled with
+    - Views on others, based on their dealings with the strange realities beyond
+        - If they are unaware entirely: Slight envy, significant pity/empathy
+        - If they are in tune with the worlds you are familiar with: Either fear or great respect
+        - If they control supernatural powers but do not deal with the occult visibly: Fascination/curiosity, suspicion
+        - If they are aware 
+    - Catch phrase: ""
+    - Drive: Live with honor, protect the people and the world, free trapped souls
+
 
 ## Ability Scores
 | Stat | Base    | Temp |
