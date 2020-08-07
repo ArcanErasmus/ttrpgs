@@ -121,7 +121,6 @@ Range:
 - Duration: Fel B rds
 - Effect: Target's lungs fill with saltwater and hair floats as if submerged. Target gains one Fatigued, and begins to drown while miracle active. When miracle ends, target attempts -20 Endurance Test or gain Prone.
 
-
 ## Injuries, Afflictions, Psychology, Mutations
 ### Corruption
 - no mutations

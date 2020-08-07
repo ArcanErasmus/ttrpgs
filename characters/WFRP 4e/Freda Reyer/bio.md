@@ -29,52 +29,51 @@ Loyalty first and foremost is to the teachings of Manann and the Order (no confl
 - Why are you adventuring?
 Earn a living so that I can settle down somewhere a safe distance from the southeastern border of the Empire. Spread devotion to Manann, and keep the waters safe from the evil influences of Stromfels. Eventually, maybe even shoot some fucking orcs.
 
-## Contacts/Friends
-- The Party
-    - Alex: Siegbert Hohenzollern
-        - Human Wizard of the Grey Order who worships Manann
-        - Born in Middenland under the sign of The Piper, 18 yo
-        - Talents: Aethyric Attunement, Arcane Shadow, Noble Blood, Perfect Pitch, Petty Magic, Read/write, Second Sight, Strong Legs
-        - Best Skills: Scholar nerdiness
-        - Weaknesses: Can't fight
-        - Languages: Reikspiel, Magick, Classical
-        - Doom: "An unmarked grave is to be yours"
-        - Motivation: "Bring honor to my family name"
-        - Psychology: Cameraderie (Thieves), 
-        - Background:
-    - Elijah: Erminigild Gerold
-        - Human Witch->Noble who worships Ranald
-        - Born in Hochland under the sign of Limner's Line, 24 yo
-        - Talents: Animal Affinity, Arcane Lore, Instinctive Diction, Menacing, Noble Blood, Orientation, Petty Magic, Second Sight, Suave, Witch!
-        - Best Skills: Intimidation, charming animals
-        - Weaknesses: Wimpy, sluggish
-        - Languages: Magick, Reikspiel
-        - Doom: "A rope will break"
-        - Motivation: "Power"
-        - Psychology: Friend (Gwendyl) (+1 SL to all tests when adjacent to their buddy), Phobia (Witchhunters)
-        - Background: 
-    - Paolo: Gwendyl Hortenbrass
-        - Human Artisan->Envoy who worships Ranald
-        - Born in Hochland under the sign of Limner's Line, 19 you
-        - Talents: Artistic, Craftsman (Cook), Perfect Pitch, Savvy, Suave
-        - Best Skills: "Exactly the kind of person you want to be journeying with"
-        - Weaknesses: Not much of a fighter
-        - Languages: Reikspiel
-        - Doom: "Though shalt be offered immortality, but tis a swindle"
-        - Motivation: Satisfaction of a job seen through
-        - Psychology: Obsession (Honor), Camaraderie (Erminigild)
-        - Background: Niece of the Karstadt's head Chef, and footman for Erminigild
-    - Violet: Freda Reyer
-        - Human Orca Priest who worships Manann
-        - Born in Averland under the sign of Cacklefax the Cockerel, 16 yo
-        - Talents: Acute Sense (Eyes), Bless (Manann), Invoke (Manann), Marksman, Read/Write, Strong Back, Suave, Very Resilient
-        - Best Skills: Shooting, Social
-        - Weaknesses: Terrible in melee, sluggish, dumb
-        - Languages: Battle, Bretonnian, Reikspiel, Wastelander
-        - Doom: "Briny waters are poison to thy tongue"
-        - Motivation: "Devotion to Manann"
-        - Psychology: Hatred (Greenskins), Phobia (Greenskins)
-        - Background: Family killed by orcs, joined the Order and recently ordained as Orca Priest, have traveled far before reaching here.
+## The Party
+- Alex: Siegbert Hohenzollern
+    - Human Wizard of the Grey Order who worships Manann
+    - Born in Middenland under the sign of The Piper, 18 yo
+    - Talents: Aethyric Attunement, Arcane Shadow, Noble Blood, Perfect Pitch, Petty Magic, Read/write, Second Sight, Strong Legs
+    - Best Skills: Scholar nerdiness
+    - Weaknesses: Can't fight
+    - Languages: Reikspiel, Magick, Classical
+    - Doom: "An unmarked grave is to be yours"
+    - Motivation: "Bring honor to my family name"
+    - Psychology: Cameraderie (Thieves), 
+    - Background:
+- Elijah: Erminigild Gerold
+    - Human Witch->Noble who worships Ranald
+    - Born in Hochland under the sign of Limner's Line, 24 yo
+    - Talents: Animal Affinity, Arcane Lore, Instinctive Diction, Menacing, Noble Blood, Orientation, Petty Magic, Second Sight, Suave, Witch!
+    - Best Skills: Intimidation, charming animals
+    - Weaknesses: Wimpy, sluggish
+    - Languages: Magick, Reikspiel
+    - Doom: "A rope will break"
+    - Motivation: "Power"
+    - Psychology: Friend (Gwendyl) (+1 SL to all tests when adjacent to their buddy), Phobia (Witchhunters)
+    - Background: 
+- Paolo: Gwendyl Hortenbrass
+    - Human Artisan->Envoy who worships Ranald
+    - Born in Hochland under the sign of Limner's Line, 19 you
+    - Talents: Artistic, Craftsman (Cook), Perfect Pitch, Savvy, Suave
+    - Best Skills: "Exactly the kind of person you want to be journeying with"
+    - Weaknesses: Not much of a fighter
+    - Languages: Reikspiel
+    - Doom: "Though shalt be offered immortality, but tis a swindle"
+    - Motivation: Satisfaction of a job seen through
+    - Psychology: Obsession (Honor), Camaraderie (Erminigild)
+    - Background: Niece of the Karstadt's head Chef, and footman for Erminigild
+- Violet: Freda Reyer
+    - Human Orca Priest who worships Manann
+    - Born in Averland under the sign of Cacklefax the Cockerel, 16 yo
+    - Talents: Acute Sense (Eyes), Bless (Manann), Invoke (Manann), Marksman, Read/Write, Strong Back, Suave, Very Resilient
+    - Best Skills: Shooting, Social
+    - Weaknesses: Terrible in melee, sluggish, dumb
+    - Languages: Battle, Bretonnian, Reikspiel, Wastelander
+    - Doom: "Briny waters are poison to thy tongue"
+    - Motivation: "Devotion to Manann"
+    - Psychology: Hatred (Greenskins), Phobia (Greenskins)
+    - Background: Family killed by orcs, joined the Order and recently ordained as Orca Priest, have traveled far before reaching here.
 
 ## Enemies
 - Orcs.

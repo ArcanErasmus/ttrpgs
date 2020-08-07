@@ -6,7 +6,7 @@
 - Religion: Manann
 - Star Sign: Cacklefax the Cockerel, born 33/10/2495
 - Motivation: Devotian to Manann
-- Short-term ambition: ?
+- Short-term ambition: Conduct myself in the presence of those with power
 - Long-term ambition: Become a Master Leviathan
 - Party short-term: Scout the enemy challenger & crew
 - Party long-term: Save the Gravin

@@ -1,13 +1,15 @@
 # Sister Freda Reyer's Journal
 
 ## Adventure Log
-- Took barge from Nuln, headed towards Ubersreik. Stopped for the night north of Grissenwald, at the Three Feathers Inn. I and some sailors lost some money to Siegbert in a game of cards. Siegbert tried to speak Classical to a scholar, but the inkeeper thought it was "witch speak" and got annoyed. A halfling (Glimbrin Oddsocks) seemed to be plotting something, because he was surrounded with the Winds of Magic.
+- Took barge from Nuln, headed towards Ubersreik. Stopped for the night (6/6/2512) north of Grissenwald, at the Three Feathers Inn. I and some sailors lost some money to Siegbert in a game of cards. Siegbert tried to speak Classical to a scholar, but the inkeeper thought it was "witch speak" and got annoyed. A halfling (Glimbrin Oddsocks) seemed to be plotting something, because he was surrounded with the Winds of Magic.
 - MUL arrived at the tavern, and discussed some business with Seedling (had to do with a party?)
 - One of the Inn's workers died when he drank a poisoned ale he was delivering, which was intended for Bruno and Gwendyl. We chased down the assassin, Dominique, and tied her up after shooting her. She is being taken with us.
 - The Morrians were smugglers, after being accused of necromancy came clean to their actual profession, and were arrested by Ursula.
 - Thomas Promhandler showed up with 3 thugs to beat up Frederick for sleeping with his wife, and ended up killing him. Two of his thugs were killed by the "Traveling Scholars".
 - The "Traveling Scholars" were foul magic users of the group Ordo Ultima, who killed some thugs sent to beat them up, and fled by cart. After we stopped the cart, they disappeared into the night by some magics.
 - We were offered jobs in the Gravin's retinue, as we proved our capabilities in dealing with the nefarious goings-on.
+- 6/21/2512, 
+    - White moon circle: Mannsleib; black moon circle: Morrisleib
 
 ## Contacts/Friends
 - 
@@ -79,6 +81,9 @@
 - The Thrice Saps, and Thomas Promhandler
     - uncle moe, crazy lars, big curls
     - Came to whip Frederick to death for sleeping with Thomas' wife
+- "Crow", Crocksigor
+    - Very chonky boy
+    - Leonidas'd the TT
 
 ## Places of Note
 - The Three Feathers Inn
