@@ -42,7 +42,6 @@
     - Catch phrase: ""
     - Drive: Live with honor, protect the people and the world, free trapped souls
 
-
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|

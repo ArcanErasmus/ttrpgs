@@ -12,7 +12,7 @@
 - Oath Against Chaos
     - Spread order, fight chaos
     - Do not spread/enforce tyranny
-- In summary
+- In Summary
     - Act very Lawful (no deception!) and very Good
     - Fight honorably and memorialize fallen foes
     - Hunt aberrations and agents of chaos
@@ -24,16 +24,23 @@
         - Employer of Mr. Werner
         - "Widower from Cassomir"
 - Alex
-    - Alterino Valentine, chaotic
+    - Sir Alterino Valentine, **Strong Chaotic Aura**
+    - Surrounds herself with a grand mass of ghostly tentacles
+    - Can't remember names for any reason
+    - Strong connection with "Savine", a recently deceased person with ties to Longraix and Werner
 - Caoimhe
-    - Helmold Werner, ?, (the Carnival, upright)
+    - Sir Helmold Werner, not chaotic, (the Carnival, upright)
 
 ## Quest Log
 ### Most Recent
 - Was offered a job "chasing down the man who ruined [Thrushmoor]" (the Queen Mother, inverted)
     - Hazerton Lowls IV, "hunting for dark power, he kidnapped people from the town to sacrifice and replace with dopplegangers"
 - Lowls
-    - Approach dream travelers about how to locate and appease the mad poet
+    - Approach dream travelers about how to locate and appease the Mad Poet
+    - Dreamlands Excursion Ritual: Can undertake to attempt to gain an audience with the Mad Poet
+        - Very involved, will take time to piece together
+
+### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory
     - confronted deranged doctor who was doppleganger
     - found helmold, and winter klazka
@@ -43,7 +50,7 @@
     - pickled punks, fetuses in brine
     - chestburster-ey things
     - people made into brainless portal-smoke-vomiters
-    - the Tattered Man, entity of dream lands, might still be around in dreams of caligari
+    - the Tatterman, entity of dream lands, might still be around in dreams of caligari
     - investigating HL4 in thrushmoor, learn that he originally arrived with the group in tow and had them committed to the briarstone asylum
     - hl4 not in thrushmoor, melisin corroro (2IC) left in charge after hl4 left
     - several people of leadership of thrushmoor were missing
@@ -57,10 +64,13 @@
         - lots of nasty creatures
         - tons of random haunts, something about "blood slip-n-slide"
         - burnt it down
+- The Tatterman
+    - He wore all yellow, tattered robes and bandages
+    - Wielded a large razor (now owned by Longraix)
+        - 
+    - Learned his name from a dream, he appeared in them frequently
+        - Sevine and Caligari had those dreams worse
     - 
-
-### Archive
-- ?
 
 ## Backstory
 - Family

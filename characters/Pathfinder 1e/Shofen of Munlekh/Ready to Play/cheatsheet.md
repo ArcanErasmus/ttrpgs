@@ -8,13 +8,20 @@
 | Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Spirit Channeling
-- **Spirit**: Hierophant; influence (max 6): OOOOOx
+<!-- - **Spirit**: Hierophant; influence (max 6): OOOOOO
     - Bonus (+2): Wis checks/skills, Will
         - Spirit Surge: 1d6
     - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
     - Boon: +2 healing from own spells/abilities
     - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
-    - Lesser: Divine Surge (see Hierophant Bonus Spells)
+    - Lesser: Divine Surge (see Hierophant Bonus Spells) -->
+- **Spirit**: Archmage; influence (max 6): OOxxxx
+    - Bonus (+2): Int checks/skills, Concentration
+        - Spirit Surge: 1d6
+    - Penalty: Str checks/skills, Con checks, atk, non-spell damage
+    - Boon: +2 spell damage
+    - LI Feat (cost 1 inf): Friendly Switch https://www.d20pfsrd.com/feats/general-feats/friendly-switch
+    - Lesser: Archmage Arcana (see Archmage Bonus Spells)
 
 ## Combat Options
 - Power Attack
@@ -67,13 +74,15 @@
 
 ### Spells as Mesmerist (Archmage/Hierophant)
 - **0th**; No daily limit
-- **1st**; 6/day: OOOOOO
+- **1st**; 6/day: OOOOOx
 - **2nd**; 3/day: OOO
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard
 0. Detect Fiendish Presence
-1. Snowball
+<!-- 1. Bestow Planar Infusion -->
+<!-- 1. Snowball -->
+1. Silent Image
 2. Instant Weapon
 
 ### Hierophant Bonus Spells (Cle/Ora list, cast as divine spells)
