@@ -4,15 +4,16 @@
 |----------------|-----|---------------|----------|--------|------------
 | Bite           | +10 | 3d6+7  (BPS)  |    20/x2 | --     | Primary, Grab
 | Gore           | +10 | 2d8+7  (P)    |    20/x2 | --     | Primary
-| Tentacle       | +10 | 2d6+7  (B)    |    20/x2 | --     | Primary, Grab, 20 ft reach
+| Tentacle       | +10 | 2d6+7  (B)    |    20/x2 | 20 ftr | Primary, Grab, Pull
+| Tongue         | +10 | 1d6+7  (B)    |    20/x2 | 40 ftr | Primary, Pull
 |----------------|-----|---------------|----------|--------|------------
-| Regurgitate    | +5  | 1d6+7  (B)    |    20/x2 |  20 ft | See class features
-| Acid Breath    |     | 2d4+10 (Acid) |          |  10 ft | 7/day, Ref DC 18 half
+| Regurgitate    | +5  | 1d6+7  (B)    |    20/x2 | 20 ft  | See class features
+| Acid Breath    |     | 2d4+10 (Acid) |          | 10 ft  | 7/day, Ref DC 18 half
 |   Cone         |     |               |          |        | Cone
-|   Line         |     | +50%          |          |  x2    | Single target
-|   Burst        |     |               |          |  x2    | 10 ft radius burst on impact
+|   Line         |     | +50%          |          | x2     | Single target
+|   Burst        |     |               |          | x2     | 10 ft radius burst on impact
 |----------------|-----|---------------|----------|--------|------------
-| Sling          | +4  | 1dd+7  (B)    |    20/x2 |  75 ft | +1 atk & d6 dmg if using bullet
+| Sling          | +4  | 1dd+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
 https://rpg.stackexchange.com/a/62720
 
 ## Mimic Friend
@@ -42,13 +43,6 @@ https://rpg.stackexchange.com/a/62720
 - Only works on equal size or smaller
 - Can choose to grapple at -20 to avoid being grappled
 - +4 bonus on CMB to start/maintain grapple
-
-### Disassemble (Ex)
-- Standard action, doesn't provoke, touch a non-magical object
-- Object no more than one size category larger than self
-- Target or its wielder makes DC 11 Ref (Cha-based DC)
-- On fail, object reduced to 1 hp, gains broken condition
-- No effect on already broken object
 
 ## Phylocruxes (Sp) (CL 4)
 - 3/day - none
@@ -95,13 +89,13 @@ https://rpg.stackexchange.com/a/62720
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 10/10hp - anemone thing, dead
+1. 10/10hp - empty
 
 ## Indulgence Quick Info
 ### Rules
 - Max: 4, Max/Type: 2
 - Abilities available at current lvl:
-    x DR: 3/ max
+    - DR: 3/x max
     - Feat (must meet prereqs)
     - Immunity: Sleep effects, deafness, blindness, "hunger", nauseated
     - Languages (and communication methods)
@@ -110,10 +104,10 @@ https://rpg.stackexchange.com/a/62720
     - Phylocrux (Sp): 3/-/-/- uses per day
     - Resistance to one energy type
     x Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
-    - Skill: (in entry or had ranks) +1 bonus, count as trained
+    - Skill: (in entry or had ranks) +2 bonus, count as trained
     - Special Attack: Extraordinary
     - Speed: 40 ft max, land or swim only
-    - Spell Resistance
+    x Spell Resistance
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
 | Type               | Tier 1 (1-5 HD)    | Tier 2 (6-10 HD)       | Tier 3 (11-15 HD) | Tier 4 (16-20 HD)             |
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
@@ -135,14 +129,14 @@ https://rpg.stackexchange.com/a/62720
 ### Indulgences
 1. Choker
     - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker
-    - Chosen essence: Tentacle natural attack (1d4 plus grab)
+    - Chosen essence: Tentacle natural attack (1d4 plus grab, 10 ft reach)
     - Available essences:
         - DR: None
         - Feats: Improved Initiative, Skill Focus
         - Immunities: None
         - Languages: Undercommon
         - Natural Armor: +4
-        x Natural Attacks: 2 tentacles 1d4 plus grab
+        x Natural Attacks: 2 tentacles 1d4 plus grab (10 ft reach)
         - Phylocrux: Aberration, 3 HD (*long arm*)
         - Resistances: None
         - Senses: Darkvision 60 ft
@@ -150,53 +144,53 @@ https://rpg.stackexchange.com/a/62720
         - Special Abilities: Constrict (Ex), Strangle (Ex)
         - Speeds: 20 ft land, 10 ft climb
         - SR: No
-2. Stirge
-    - https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge
-    - Chosen essence: Darkvision 60 ft
+2. Sea Urchin, Hunter
+    - https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-hunter
+    - Chosen essence: Tongue natural attack (1d4 plus pull, 20 ft reach)
     - Available essences:
         - DR: None
-        - Feats: Weapon Finesse
-        - Immunities: None
+        - Feats: None
+        - Immunities: Mind-affecting
         - Languages: None
-        - Natural Armor: None
-        - Natural Attacks: None
-        - Phylocrux: Magical Beast, 1 HD (*cure light wounds*)
+        - Natural Armor: +6
+        x Natural Attacks: Tongue 1d3 + pull (20 ft reach), spines 1d4 + poison
+        - Phylocrux: Vermin, 3 HD (*ant haul*)
         - Resistances: None
-        x Senses: Darkvision 60 ft, low-light, scent
-        - Skills: Fly, Stealth
-        - Special Abilities: Attach (Ex), Blood Drain (Ex)
-        - Speeds: 10 ft land, 40 ft fly (average)
+        - Senses: Low-light vision, scent, tremorsense 30 ft
+        - Skills: Perception
+        - Special Abilities: Poison (Ex), Spines (Ex), Stability (Ex)
+        - Speeds: 15 ft land
         - SR: No
-3. Bulabar
-    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/bulabar
-    - Chosen essence: DR 3/cold iron
+3. Agathion, Bishop
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop/
+    - Chosen essence: SR 15
     - Available essences:
-        x DR: 5/cold iron
-        - Feats: Ability Focus, Toughness, Weapon Finesse
-        - Immunities: None
-        - Languages: Common (fey dialect), Gnome
-        - Natural Armor: +3
-        - Natural Attacks: 2 claws 1d2
-        - Phylocrux: Fey, 1 HD (*disguise self*)
-        - Resistances: None
-        - Senses: None
-        - Skills: Appraise, Climb, Cr (alchemy), Disable Device, Kn (engineering), Perception, Stealth, Use Magic Device
-        - Special Abilities: Disassemble (Ex)
-        - Speeds: 30 ft land, 10 ft burrow
-        - SR: No
+        - DR: 5/evil or silver
+        - Feats: Agile Maneuvers, Improved Initiative, Self-Sufficient, Weapon Finesse
+        - Immunities: Electricity, petrification
+        - Languages: Celestial, Common (?), Draconic, Infernal, Truespeech
+        - Natural Armor: +4
+        - Natural Attacks: 2 claws 1d10
+        - Phylocrux: Outsider, 7 HD (*protection from energy*)
+        - Resistances: Cold 10, sonic 10
+        - Senses: Darkvision 60 ft, low-light vision
+        - Skills: Bluff, Heal, Intimidate, Kn (geography, nature, planes), Perception, Sense Motive, Stealth, Survival, Swim
+        - Special Abilities: Fear Aura (Su), Stunning Strike (Ex)
+        - Speeds: 30 ft land, 60 ft swim
+        x SR: 15
 4. Lightning Elemental, Medium
     - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
-    - Chosen essence: Slam 1d6 + 1d4 electricity
+    - Chosen essence: Darkvision 60 ft
     - Available essences:
         - DR: None
         - Feats: Dodge, Improved Initiative, Weapon Finesse
         - Immunities: electricity, elemental traits
         - Languages: Auran
         - Natural Armor: +1
-        x Natural Attacks: Slam 1d6 + 1d4 electricity
+        - Natural Attacks: Slam 1d6 + 1d4 electricity
         - Phylocrux: Outsider, 4 HD (*reduce person*)
         - Resistances: None
-        - Senses: Darkvision 60 ft
+        x Senses: Darkvision 60 ft
         - Skills: Acrobatics, Escape Artist, Fly, Kn (planes), Perception
         - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
         - Speeds: 100 ft fly (perfect)

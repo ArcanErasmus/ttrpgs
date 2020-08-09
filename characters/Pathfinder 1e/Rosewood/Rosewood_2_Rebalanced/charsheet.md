@@ -93,7 +93,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 | 1 |   | C | Swim               | Str | +11 |
 |   | T |   | Use Magic Device   | Cha |     |
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: -16 ACP, +2 max Dex, x4 run, 15% ASFC, reduced speed + 5 ft**
+- **Current encumbrance modifiers: -16 ACP, +1 max Dex, x3 run, 30% ASFC, reduced speed + 5 ft**
 - 16/16
     - 4x(4+0) grand champion
 

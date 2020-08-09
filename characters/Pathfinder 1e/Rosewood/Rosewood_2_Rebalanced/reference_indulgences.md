@@ -173,6 +173,7 @@
         - Special Abilities: None
         - Speeds: 30 ft land
         - SR: No
+
 - Lightning Elemental, Medium
     - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
     - Chosen essence: ?
@@ -226,6 +227,24 @@
         - Special Abilities: Poison (Ex), Spines (Ex), Stability (Ex)
         - Speeds: 15 ft land
         - SR: No
+
+- Agathion, Bishop
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop/
+    - Chosen essence: ?
+    - Available essences:
+        - DR: 5/evil or silver
+        - Feats: Agile Maneuvers, Improved Initiative, Self-Sufficient, Weapon Finesse
+        - Immunities: Electricity, petrification
+        - Languages: Celestial, Common (?), Draconic, Infernal, truespeech (maybe Su?)
+        - Natural Armor: +4
+        - Natural Attacks: 2 claws 1d10
+        - Phylocrux: Outsider, 7 HD (*protection from energy*)
+        - Resistances: Cold 10, sonic 10
+        - Senses: Darkvision 60 ft, low-light vision
+        - Skills: Bluff, Heal, Intimidate, Kn (geography, nature, planes), Perception, Sense Motive, Stealth, Survival, Swim
+        - Special Abilities: Fear Aura (Su), Stunning Strike (Ex), truespeech (maybe lang?)
+        - Speeds: 30 ft land, 60 ft swim
+        - SR: 15
 
 ### First World
 - Bulabar

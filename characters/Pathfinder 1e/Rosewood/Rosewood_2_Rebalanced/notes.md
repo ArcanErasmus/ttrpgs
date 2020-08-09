@@ -14,11 +14,11 @@
 - full-attack vs 2+ size smaller, extra melee at full BAB
 
 ### Relentless Butcher
-- confirm 50 crits, progress: 11
+- confirm 50 crits, progress: 13
 - crit target Fort DC (10 + Str or Dex mod) or stunned 1 rd
 
 ### Enemy of Good
-- kill 25 good-aligned, progress: 3
+- kill 25 good-aligned, progress: 5
 - +1 atk & dmg vs good-aligned
 - +4 effective lvl for abilities that affect only good-aligned
 

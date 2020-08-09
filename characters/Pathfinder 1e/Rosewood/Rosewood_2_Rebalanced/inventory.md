@@ -9,8 +9,9 @@
 | Clamshell Breastplate    |  60    | +6 AC, +2 max Dex, -5 ACP, 30% ASFC, reduced speed
 | Mimic Shield             | 700    | Tower shield but *really* heavy
 |--------------------------|--------|--------------------------------
-| **Weapons**              |        | Includes ammo, related items
+| **Weapons**              | 469.5  | Includes ammo, related items
 |--------------------------|--------|--------------------------------
+| Loot Pile (see below)    | 469.5  |
 |--------------------------|--------|--------------------------------
 | **Tools/General**        |  67    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
@@ -34,9 +35,9 @@
 |--------------------------|--------|--------------------------------
 | Fey Map (no teleport)    |        | Only charts the First World
 |--------------------------|--------|--------------------------------
-| **Coins**                |   7.7  | 0pp 386gp 0sp 0cp
+| **Coins**                |  21.7  | 5000pp 586gp 0sp 0cp
 |--------------------------|--------|--------------------------------
-| **Total**                |1054.7  | Medium Load
+| **Total**                |1538.2  | Heavy Load
 
 ## Carrying Capacity
 | Load      | lbs  | Penalties
@@ -103,3 +104,54 @@ R 1 +1 greatsword               - 8   - 2350 -
 9429.7 - 7801 = 1627.7 gp
 
 1686
+
+1527.7/2 = 763.85
+
+
+<!-- - +1 sharkhide hide armor       - 25  - 1190 -  -->
+<!-- - wand of sleep                 - 0   - 750xCharges -->
+
+
+budget
+150 misc
+5586 cash
+1175 +1 greatsword
+125 four-mirror, size large
+
+7036 + (mimic?)
+- +1 Tatami-do, size Large (3300)
+3736
+        - Eyes of the Eagle (2500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-eagle
+        <!-- - Lens of Detection (3500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/lens-of-detection -->
+        - Boots of the Winterlands (2500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-winterlands
+        - Boots of the Mire (3500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-mire
+        <!-- - Miser's Mask (3000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mask-miser-s -->
+        - Clasp, Swarmbane (3000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/clasp-swarmbane
+        - Medallion, Mind Sentinel (3500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/medallion-mind-sentinel
+        <!-- - Bag of Holding 1 (2500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-holding -->
+        - Cauldron of Brewing (3000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cauldron-of-brewing
+        - Noble's Vigilant Pillbox (3600gp) https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/noble-s-vigilant-pillbox
+        <!-- - Pearly White Spindle, Cracked (3400gp) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/pearly-white-spindle-ioun-stone -->
+
+
+
+- Muleback Cords (1000)
+1336
+- Boots of the Cat (1000)
+336
+- Traveler's Any-Tool (250)
+86
+
+        - Shirt, Quick Runner's (1000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shirt-quick-runners
+        <!-- - Boots of the Cat (1000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-cat -->
+        - Boots of the Enduring March (1500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-enduring-march
+        - Gloves, Apprentice's Cheating (2200gp) https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-apprentice-s-cheating
+        - Hand of the Mage (900gp) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/hand-of-the-mage
+        - Amulet of Natural Armor +1 (2000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor
+        - Cloak of Resistance +1 (1000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance
+        <!-- - Muleback Cords (1000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords -->
+        - Armbands of the Brawler (500gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/armbands-of-the-brawler
+        - Bracers of Steadiness (2000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-steadiness
+        <!-- - Traveler's Any-Tool (250gp) https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/traveler-s-any-tool -->
+        - Agile Alpenstock (2000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/agile-alpenstock
+        - Bag, Handy Haversack (2000gp) https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-handy-haversack
