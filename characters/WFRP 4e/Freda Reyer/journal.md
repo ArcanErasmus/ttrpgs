@@ -18,12 +18,34 @@
 - 
 
 ## People of Note
+### Kemperbad
+- "Crow", Crocksigor
+    - Very chonky boy
+    - Leonidas'd the TT
+- Baron Eberhart von Dammenblatz
+    - Nephew of Otto von Dammenblatz, stirring up trouble
+        - Otto worked hard to gain influence in the court, or something like that
+    - Generally well-liked by the people of Kemperbad
+    - Doesn't trust ???, wants the fight to be sooner
+    - Genuinely believes MUL is capable of witchcraft
+- ? (Heinrich Böttcher)
+    - Man, lower-class accent, works for baron
+    - Champion of the Baron
+    - Heavily armored
+- ?
+    - Lady, some court position
+    - Talking to the Baron
+- Quiet Mother Petra Steinmetz
+    - High priestess of temple to Verena and library in the courthouse
+    - 
+
+### The Three Feathers Inn
 - Gravin Maria-Ulrike von Liebwitz of Ambosstein (MUL)
     - Famous for legendary parties
     - Related to the Elector-Countess of Nuln
     - Is headed to Ubersreik? Kemperbad? to deal with legal trouble
         - Otto von Dammenblatz of Dunkelberg died at one of her aunt's parties
-            - Their uncle blames MUL, accused her of murder and witchcraft
+            - Their nephew blames MUL, accused her of murder and witchcraft
             - Believed to have fallen into a lake while drunk
             - Is taking the fall for accusations leveled at her aunt
     - Her champion is Bruno Franke
@@ -41,12 +63,14 @@
     - Barrister, here to defend the Gravin
     - When in college, fell in with the Ordo Ultima, "lovers of life and experience", but left because their activities were too debased for him. Recognizes the "cultists of verena" as members.
     - Ordo Ultima: Group of scholars, into *very* banned books, practices became more unsavory over time, turned from student and teacher group, into a particularly debased cult. Gustaf is not sure what they want from him.
-- The "Traveling Scholars"
+- Ordo Ultima - The "Traveling Scholars"
     - Really badly pretending to be priests of Verena
     - Actually members of the Ordo Ultima, who have ill intent towards Gustaf
     - "Ultima" was really trying to get to Gustaf
     - Killed two of the Thrice Saps
     - Actually users of foul magic
+    - Have contacts with demonic entities, something about an angel-like being with crab claws
+        - Beautiful + crab claws = associated with emotional excess, from happiness or sorrow, pain or pleasure
 - Countess Emanuel, the Elector-Countess of Nuln
     - Aunt of MUL
 - The "Morrians"
@@ -81,9 +105,6 @@
 - The Thrice Saps, and Thomas Promhandler
     - uncle moe, crazy lars, big curls
     - Came to whip Frederick to death for sleeping with Thomas' wife
-- "Crow", Crocksigor
-    - Very chonky boy
-    - Leonidas'd the TT
 
 ## Places of Note
 - The Three Feathers Inn

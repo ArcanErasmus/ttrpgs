@@ -18,13 +18,13 @@ Trappings: Book (Religion), Handgun with 12 bullets, Robes
 Characteristics: I
 Skills: Cool, Gossip, Intuition, Leadership
 Talents: Fearless (Wreckers), Holy Visions, Sea Legs, Stout-hearted
-Trappings: Helmet, Mail Shirt, Symbol of Rank
+Trappings: Breastplate, Quality Robes, Religious Relic
 
 ### Master Leviathan - Silver 5
 Characteristics: Int
 Skills: Lore (Warfare), Navigation
 Talents: Commanding Presence, Orientation, Pilot, Warleader
-Trappings: Religious Relic
+Trappings: Quality Firearm?, Patrol Boat and Crew?
 
 -----------------------------------------------------------
 

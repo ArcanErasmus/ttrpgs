@@ -26,7 +26,7 @@
 |------|-----|-----|------
 |   75 |   5 |  10 | Charm
 |   50 |   0 |   5 | Dodge
-|   65 |   0 |   6 | Entertain (Storytelling)
+|  110 |   0 |   9 | Entertain (Storytelling)
 |   10 |   0 |   1 | Language (Battle)
 |   10 |   0 |   1 | Lore (Riverways)
 |   10 |   0 |   1 | Lore (Theology)
@@ -74,14 +74,14 @@
 |---|--------------------|----|-----|----|------
 | * | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Ent (Storytelling) |    | Fel | 53 |
+| C | Ent (Storytelling) |  9 | Fel | 62 |
 | C | Heal               | 10 | Int | 43 |
 | C | Lang (Battle)      |  1 | Int | 34 |
 |   | Lang (Bretonnian)  |  3 | Int | 36 |
 |   | Lang (Wastelander) |  3 | Int | 36 |
 | C | Lore (Riverways)   |  1 | Int | 34 |
 | C | Lore (Theology)    |  1 | Int | 34 |
-| C | Swim               |  5 | S   | 37 |
+| C | Swim               | 10 | S   | 42 |
 |---|--------------------|----|-----|----|------
 | * | Magic/Blessings    | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
