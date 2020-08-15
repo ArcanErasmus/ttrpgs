@@ -30,6 +30,9 @@
     - Strong connection with "Savine", a recently deceased person with ties to Longraix and Werner
 - Caoimhe
     - Sir Helmold Werner, not chaotic, (the Carnival, upright)
+    - Armored yet nimble
+    - Pimpin mustache
+    - Very troubled, we're working on it
 
 ## Quest Log
 ### Most Recent
@@ -39,6 +42,8 @@
     - Approach dream travelers about how to locate and appease the Mad Poet
     - Dreamlands Excursion Ritual: Can undertake to attempt to gain an audience with the Mad Poet
         - Very involved, will take time to piece together
+    - We were attacked by Vooniths, lost 5 crew
+    - Miniature staircase of ivory in among the books
 
 ### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory

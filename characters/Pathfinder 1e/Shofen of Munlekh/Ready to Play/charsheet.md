@@ -41,6 +41,7 @@
         - If they are aware 
     - Catch phrase: ""
     - Drive: Live with honor, protect the people and the world, free trapped souls
+    - Fears: Losing my soul, guilt over my involvement in the sacrifice of Erred's
 
 ## Ability Scores
 | Stat | Base    | Temp |

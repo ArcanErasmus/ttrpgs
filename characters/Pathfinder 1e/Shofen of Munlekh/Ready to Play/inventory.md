@@ -21,10 +21,11 @@
 | Sling                    |        |
 | Mwk Buckler              |   5    | +1 AC, no max Dex, 0 ACP, 5% ASFC
 |--------------------------|--------|--------------------------------
-| **General**              |   4    | Non-consumable catch-all
+| **General**              |   8    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
 | Hammock                  |   3    | Full-round to enter/exit or move with DC 5 Dex
 | Sash of Holy Symbols     |   1    | Hand, Spiral, Angel, Bird, Katana
+| Panoptic Manuscripts     |   4    |
 |--------------------------|--------|--------------------------------
 | **Tools**                |  16    |
 |--------------------------|--------|--------------------------------
@@ -42,7 +43,7 @@
 |--------------------------|--------|--------------------------------
 | **Coins**                |   0.6  | 3pp 19gp 7sp 0cp, diamond shard (300 gp sell)
 |--------------------------|--------|--------------------------------
-| **Total**                |  51.6  | Light Load
+| **Total**                |  55.6  | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

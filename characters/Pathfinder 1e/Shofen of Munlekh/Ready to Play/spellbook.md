@@ -131,6 +131,19 @@ You can decipher magical  inscriptions on objects – books, scrolls, weapons, a
 *Read magic* can be made permanent with a *permanency* spell.
 
 ## 1st lvl
+### Bestow Planar Infusion - evocation
+|------------|--------------
+| Casting    | 1 standard action
+| Components | V,S
+| Range      | touch
+| Target     | creature touched
+| Duration   | 1 hr/lvl
+| Save       | Fort neg (harmless)
+| SR         | yes
+This spell draws upon the latent planar energy of the caster’s surroundings, allowing her to temporarily infuse a creature with the plane’s power. The touched creature gains that plane’s basic infusion for the spell’s duration. This spell has no effect if cast on the Material Plane, and it ends as soon as the spell’s target leaves the plane with which it has been infused. Details on planar infusions can be found in each plane’s Infusion section.
+
+Once a creature gains the benefits of bestow planar infusion I, it remains attuned to that plane for 24 hours. Additional castings of bestow planar infusion I during this time bestow the same infusion that was granted by the initial casting that day. Planar infusions that can be used a limited number of times per day are not refreshed by multiple castings of bestow planar infusion I.
+
 ### Calm Spirit - necromancy
 |------------|--------------
 | Casting    | 1 standard action
