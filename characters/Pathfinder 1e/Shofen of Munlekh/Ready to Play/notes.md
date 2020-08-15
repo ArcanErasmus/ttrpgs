@@ -443,24 +443,24 @@
 ## Monk - Kata Master, Master of Many Styles, Monk of the Iron Mountain
 | lv | fist | AC | speed  | features
 |----|------|----|--------|----------
-|  1 | 1d6  | +0 | +0 ft  | Bonus feat, fuse style 2, panache and deeds, unarmed strike
-|  2 | 1d6  | +0 | +0 ft  | Bonus feat, iron monk
+|  1 | 1d6  | +0 | +0 ft  | Bonus style feat, fuse style 2, panache and deeds, unarmed strike
+|  2 | 1d6  | +0 | +0 ft  | Bonus style feat, iron monk
 |  3 | 1d6  | +0 | +10 ft | Fast movement, maneuver training, menacing swordplay
 |  4 | 1d8  | +1 | +10 ft | Ki pool (magic, panache), bastion stance
 |  5 | 1d8  | +1 | +10 ft | Iron limb defense, purity of body
-|  6 | 1d8  | +1 | +20 ft | Bonus feat
+|  6 | 1d8  | +1 | +20 ft | Bonus style feat
 |  7 | 1d8  | +1 | +20 ft | Ki pool (cold iron/silver), targeted strike
 |  8 | 1d10 | +2 | +20 ft | fuse style 3
 |  9 | 1d10 | +2 | +30 ft | Adamantine monk 1/-
-| 10 | 1d10 | +2 | +30 ft | Bonus feat, Ki pool (lawful
+| 10 | 1d10 | +2 | +30 ft | Bonus style feat, Ki pool (lawful
 | 11 | 1d10 | +2 | +30 ft | Diamond body
 | 12 | 2d6  | +3 | +40 ft | Abundant step, adamantine monk 2/-
 | 13 | 2d6  | +3 | +40 ft | Diamond soul
-| 14 | 2d6  | +3 | +40 ft | Bonus feat
+| 14 | 2d6  | +3 | +40 ft | Bonus style feat
 | 15 | 2d6  | +3 | +50 ft | Dizzying defense, fuse style 4, adamantine monk 3/-
 | 16 | 2d8  | +4 | +50 ft | Ki pool (adamantine), improved bastion stance
 | 17 | 2d8  | +4 | +50 ft | Timeless body, vow of silence
-| 18 | 2d8  | +4 | +60 ft | Bonus feat, adamantine monk 4/-
+| 18 | 2d8  | +4 | +60 ft | Bonus style feat, adamantine monk 4/-
 | 19 | 2d8  | +4 | +60 ft | Empty body
 | 20 | 2d10 | +5 | +60 ft | Perfect style
 
