@@ -86,7 +86,6 @@ Ref : 2 + 2x(1/2) + 5x(1/3) = +4
 Will: 2 + 7x(1/2) + 0x(1/3) = +5
 
 ## Conditional Modifiers/Resistances/Weaknesses
-- Drawback (Cowardly): +5 ft speed when frightened and fleeing, 1 point worse penalties from cowering/shaken/frightened/panicked
 - Trait (Born Under the Stranger): 4 fewer points penalty to feint aberrations
 - Trait (Enduring Stoicism): +2 trait saves vs [fear] and [emotion] spells/effects
 - Trait (Spirit Sense): +2 trait Perception to detect invisible or incorporeal creatures
@@ -165,10 +164,9 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Bonus feat at lvl 1
 
 ## Traits & Drawbacks
-### (D) Cowardly
-- +5 ft speed when frightened and fleeing
-- Penalties from cowering, shaken, frightened, panicked increase by 1
-- If immune to fear, no extra penalties but lose said immunity
+### (D) Tainted Spirit
+- At end of combat, Fort DC 10 + num rounds acted in combat
+- On fail, fatigued for 10 mins per round acted in combat
 
 ### Enduring Stoicism [Campaign]
 - +2 trait bonus saves vs [fear] and [emotion] spells/effects
