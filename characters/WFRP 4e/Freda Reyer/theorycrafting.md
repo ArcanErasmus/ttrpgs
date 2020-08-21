@@ -77,6 +77,63 @@
 - Trapper
 - Well-Prepared
 
+## Twincasting notes
+### Siegbert's Spells
+- Darkvision
+- Doppleganger
+- Drop
+- Eavesdrop
+- Illusion
+- Mind slip
+- Mundane aura
+- Murmur
+- Open lock
+- Shadowstep
+- Shroud of invisibility
+
+### Freda's Blessings & Miracles
+- Battle
+- Breath
+- Courage
+- Hardiness
+- Savagery
+- Tenacity
+M Drowned Man's Face
+
+### Combination Possibilities
+- Darkvision + Battle
+    - Sense enemy weakness, sense danger
+- Shadowstep + Savagery
+    - Sneak attack
+- Open lock + Tenacity
+    - Break free of bonds, push through crowd/obstacles
+- Mundane aura + Drowned man's face
+    - 
+- Illusion + Courage
+    - Holy aura, inspiring presence
+- Murmur + Courage
+    - Voices of moral support
+- Illusion + Savagery
+    - Terrifying visions/presence/aura
+- Illusion + Tenacity
+    - 
+- Darkvision + Tenacity
+    - See through invisibility or magical darkness, see through fog or smoke
+- Darkvision + Hardiness
+    - 
+- Mind slip + Savagery
+    - Some cruel mental rending
+- Shroud of invisibility + Battle
+    - 
+- Doppleganger + Battle
+    - 
+
+### Current Practice
+- Dredge obscuring mists from the waves
+    - Success! 
+- Darkvision + Tenacity, see through fog
+    - Success!
+
 ## Invention Ideas
 - Flare projectile
     - Combine Bullet&Shot with:

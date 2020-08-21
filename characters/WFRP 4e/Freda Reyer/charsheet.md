@@ -6,12 +6,12 @@
 - Religion: Manann
 - Star Sign: Cacklefax the Cockerel, born 33/10/2495
 - Motivation: Devotian to Manann
-- Short-term ambition: Conduct myself in the presence of those with power
-- Long-term ambition: Become a Master Leviathan
-- Party short-term: Scout the enemy challenger & crew
+- Short-term ambition: ?
+- Long-term ambition: Prove my faith
+- Party short-term: ?
 - Party long-term: Save the Gravin
 
-## Total/Spent XP: 2045/2045
+## Total/Spent XP: 2275/2205
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  275 |   0 |  10 | BS
@@ -26,7 +26,7 @@
 |------|-----|-----|------
 |   75 |   5 |  10 | Charm
 |   50 |   0 |   5 | Dodge
-|  110 |   0 |   9 | Entertain (Storytelling)
+|  125 |   0 |  10 | Entertain (Storytelling)
 |   10 |   0 |   1 | Language (Battle)
 |   10 |   0 |   1 | Lore (Riverways)
 |   10 |   0 |   1 | Lore (Theology)
@@ -35,7 +35,7 @@
 |   50 |   0 |   5 | Row
 |  125 |   0 |  10 | Swim
 |------|-----|-----|------
-|  100 |   0 |   1 | Leave Completed Career Rank
+|  200 |   0 |   2 | Leave Completed Career Rank
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
@@ -58,7 +58,7 @@
 | F/F |   4 | OOOO
 | R/R |   2 | OO
 | M   |   4 |
-| Cor |   8 | 3
+| Cor |   8 | 5
 | Sin |     | 0
 
 ## Skills
