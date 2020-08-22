@@ -44,6 +44,24 @@
         - Very involved, will take time to piece together
     - We were attacked by Vooniths, lost 5 crew
     - Miniature staircase of ivory in among the books
+- Entered dream realm
+    - Terribly powerful "shopkeeper"???
+    - The Yellow King
+        - Not to be confused with The King in Yellow
+        - A fragment of HL4, split off from him due to some traumatic event
+        - Instructed us that by retracing HL4's steps, we could regain our memories
+        - Acquire gifts on list, to gain the attention of the Mad Poet
+            1. Viscount's signet ring
+            2. Feline tail (blue and purple mottled fur)
+            3. Skull of ghoul royalty
+                - 
+            4. Green stone idol of a water lizard
+            5. Night hag ambassador's heartstone
+                - SW Caravansary
+            6. Captain's tricorne
+            7. Red webbed foot
+    - Dichotomous Translations of Aklo Syntax
+        - Seven different realms to gather gifts for the Mad Poet
 
 ### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory
@@ -75,7 +93,6 @@
         - 
     - Learned his name from a dream, he appeared in them frequently
         - Sevine and Caligari had those dreams worse
-    - 
 
 ## Backstory
 - Family

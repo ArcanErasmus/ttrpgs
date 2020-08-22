@@ -8,13 +8,6 @@
 | Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Spirit Channeling
-- **Spirit**: Hierophant; influence (max 6): OOOOOO
-    - Bonus (+2): Wis checks/skills, Will
-        - Spirit Surge: 1d6
-    - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
-    - Boon: +2 healing from own spells/abilities
-    - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
-    - Lesser: Divine Surge (see Hierophant Bonus Spells)
 <!-- - **Spirit**: Archmage; influence (max 6): OOOOOO
     - Bonus (+2): Int checks/skills, Concentration
         - Spirit Surge: 1d6
@@ -22,20 +15,29 @@
     - Boon: +2 spell damage
     - LI Feat (cost 1 inf): Friendly Switch https://www.d20pfsrd.com/feats/general-feats/friendly-switch
     - Lesser: Archmage Arcana (see Archmage Bonus Spells) -->
+- **Spirit**: Hierophant; influence (max 6): OOOxxx
+    - Bonus (+2): Wis checks/skills, Will
+        - Spirit Surge: 1d6
+    - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
+    - Boon: +2 healing from own spells/abilities
+    - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
+    - Lesser: Divine Surge (see Hierophant Bonus Spells)
 
 ## Combat Options
 - Power Attack
     - -2 melee atk/CMB, +4/+6 melee dmg
 - Challenge
-    - **Daily**; 2/day: Ox
+    - **Daily**, swift action; 2/day: Ox
     - Bonus: +5 dmg, +2 dodge to AC, +2 sacred on saves
     - -2 AC vs non-challenged targets
 - Resolve
     - **Daily**; 3/day: OOx
-    - Uses: Remove fatigued/shaken/sickened, advantage on Fort/Will, stabilize & remain conscious
+    - Standard action: Remove fatigued/shaken/sickened
+    - Immediate Action: advantage on Fort/Will
+    - Immediate Action: stabilize & remain conscious
     - Regain 1 when defeat challenge target
 - Panache
-    - **Daily**; 5/day: OOOOx
+    - **Daily**; 5/day: OOxxx
     - Regain on crit/kill with light/1h piercing melee weapon, monk weapon, or unarmed strike
         - Derring-do
             - No action, spend 1 point
@@ -52,12 +54,11 @@
 - At-will - *detect chaos* (CL 2)
     - focus on target as move to learn as if cast and studied for 3 rounds
 - Smite Chaos
-    - **Daily**; 1/day: O
-    - Atk: +5
-    - Damage: +2
+    - **Daily**, swift action; 1/day: O
+    - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - **Daily**; 6/day: OOxxxx
+    - **Daily**; 6/day: OOOOOO
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO
@@ -80,7 +81,7 @@
 
 ### Spells as Mesmerist (Archmage/Hierophant)
 - **0th**; No daily limit
-- **1st**; 6/day: OOOOOx
+- **1st**; 6/day: OOOOOO
 - **2nd**; 3/day: OOO
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
@@ -94,15 +95,19 @@
 ### Hierophant Bonus Spells (Cle/Ora list, cast as divine spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
 0. Guidance
-1. Bestow Planar Infusion
-<!-- 1. Cure Light Wounds -->
+<!-- 1. Bestow Planar Infusion -->
+1. Cure Light Wounds
 2. Instant Weapon
 <!-- 2. Restoration, Lesser -->
+    <!-- 2. Ghostbane Dirge? -->
+    <!-- 2. Holy Ice Weapon? -->
+    <!-- 2. Spiritual Weapon? -->
+    <!-- 2. Magic Weapon? -->
 
 ## Achievement Feat Tracker
 ### Graverisen
 - https://www.d20pfsrd.com/feats/achievement-feats/graverisen-achievement
-- Die and be brought back twice: 0
+- Die and be brought back twice: 1
 - Prevent effect that would kill you, once
     - Works even when helpless/unconscious
     - If die and brought back, restore use of ability
