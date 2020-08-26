@@ -11,7 +11,7 @@
 - Party short-term: ?
 - Party long-term: Save the Gravin
 
-## Total/Spent XP: 2275/2205
+## Total/Spent XP: 2430/2425
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  275 |   0 |  10 | BS
@@ -21,7 +21,9 @@
 |------|-----|-----|------
 |  100 |   0 |   1 | Bless (Manann)
 |  100 |   0 |   1 | Etiquette (Nobles)
+|  100 |   0 |   1 | Holy Visions
 |  100 |   0 |   1 | Invoke (Manann)
+|  100 |   0 |   1 | Stout-hearted
 |  100 |   0 |   1 | Strong Back
 |------|-----|-----|------
 |   75 |   5 |  10 | Charm
@@ -32,6 +34,7 @@
 |   10 |   0 |   1 | Lore (Theology)
 |   50 |   0 |   5 | Melee (Polearm)
 |  125 |   0 |  10 | Perception
+|   20 |  10 |  11 | Ranged (Blackpowder)
 |   50 |   0 |   5 | Row
 |  125 |   0 |  10 | Swim
 |------|-----|-----|------
@@ -74,7 +77,7 @@
 |---|--------------------|----|-----|----|------
 | * | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Ent (Storytelling) |  9 | Fel | 62 |
+| C | Ent (Storytelling) | 10 | Fel | 63 |
 | C | Heal               | 10 | Int | 43 |
 | C | Lang (Battle)      |  1 | Int | 34 |
 |   | Lang (Bretonnian)  |  3 | Int | 36 |
@@ -90,7 +93,7 @@
 | * | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
 | C | M Polearm          |  5 | WS  | 30 |
-| C$| R Blackpowder      | 10 | BS  | 63 |
+| C$| R Blackpowder      | 11 | BS  | 64 |
 
 ## Talents
 ### Acute Sense (Sight) (1/IB)
@@ -105,6 +108,17 @@
 - "Briny waters are poison to thy tongue"
 - If die in accordance with doom, carry over half XP
 
+### Etiquette (Nobles) (1/FelB)
+- Tests: Charm and Gossip (Social Group)
+- You know how to act appropriately within the social group
+- GM discretion, may confer bonus to Fellowship Tests
+
+### Holy Visions (1/IB)
+- Tests: Intuition on holy ground
+- Automatically know when enter Holy Ground
+- Intuition to receive visions regarding local area's significant past events
+- Can see Blessings
+
 ### Invoke (Manann) (1/1)
 - Can use one miracle of Manann
 - Purchase additional miracles for 100 XP per known miracle
@@ -115,6 +129,11 @@
 
 ### Read/Write (1/1)
 - Can read and write in all personally known languages
+
+### Stout-hearted (1/WPB)
+- Tests: Cool to remove Broken Conditions
+- May attempt Cool Test to remove a Broken at end of each of your Turns
+- This is in addition to normal test at end of the Round
 
 ### Strong Back (1/SB)
 - Tests: Row and Swim
