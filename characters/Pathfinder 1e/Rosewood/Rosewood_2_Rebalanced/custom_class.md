@@ -24,19 +24,19 @@ Starting Wealth: 5d6 x 10 gp (avg 175), plus free outfit up to 10 gp
 |  2 | Weapon Advantage, Exercise, Uncanny Dodge
 |  3 | Weapon Dominance, Armored Swiftness
 |  4 | Weapon Advantage
-|  5 | Practice, Armor Training 1
+|  5 | Practice, Armored Flexibility 1
 |  6 | Weapon Advantage, Exercise
 |  7 | Weapon Dominance
 |  8 | Weapon Advantage
-|  9 | Armor Training 2
+|  9 | Armored Flexibility 2
 | 10 | Weapon Advantage, Exercise, Practice
 | 11 | Weapon Dominance, Powerful Build
 | 12 | Weapon Advantage
-| 13 | Armor Training 3
+| 13 | Armored Flexibility 3
 | 14 | Weapon Advantage, Exercise
 | 15 | Weapon Dominance, Practice
 | 16 | Weapon Advantage
-| 17 | Armor Training 4
+| 17 | Armored Flexibility 4
 | 18 | Weapon Advantage, Exercise
 | 19 | Weapon Dominance
 | 20 | Weapon Advantage, Practice, Indestructible
@@ -80,7 +80,7 @@ At 5th level and every 5 levels thereafter, the grand champion gains a bonus fea
 ### Armored Flexibility (Ex)
 Starting at 5th level, a grand champion learns to be more maneuverable while wearing armor. Whenever they are wearing armor, they reduce the armor check penalty by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by their armor by 1. Every four levels thereafter (9th, 13th, and 17th), these bonuses increase by +1, to a maximum of a –4 reduction to the armor check penalty and a +4 increase of the maximum Dexterity bonus allowed.
 
-In addition, the grand champion can also move at their normal speed while wearing medium armor. At 9th level, they can move at their normal speed while wearing heavy armor.
+In addition, the grand champion can also move at their normal speed while wearing medium armor. At 9th level, they can move at their normal speed while wearing heavy armor. This ability counts as the fighter's Armor Training class feature for the purpose of prerequisites or effects that interact with it.
 
 ### Legendary Physique (Ex)
 Beginning at 11th level, a grand champion's honed musculature allows them to function in many ways as if they were one size category larger. Whenever the grand champion is subject to a size modifier or special size modifier to CMB or CMD, they are treated as one size larger if doing so is advantageous to them. They are also considered to be one size larger when determing whether a creature's special attacks based on size (such as grab or swallow whole) can affect them. These benefts stack with other effects that change the subject's size category.

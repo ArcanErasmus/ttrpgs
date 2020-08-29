@@ -8,20 +8,20 @@
 | Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Spirit Channeling
-<!-- - **Spirit**: Archmage; influence (max 6): OOOOOO
+- **Spirit**: Archmage; influence (max 6): OOOOOx
     - Bonus (+2): Int checks/skills, Concentration
         - Spirit Surge: 1d6
     - Penalty: Str checks/skills, Con checks, atk, non-spell damage
     - Boon: +2 spell damage
     - LI Feat (cost 1 inf): Friendly Switch https://www.d20pfsrd.com/feats/general-feats/friendly-switch
-    - Lesser: Archmage Arcana (see Archmage Bonus Spells) -->
-- **Spirit**: Hierophant; influence (max 6): OOOxxx
+    - Lesser: Archmage Arcana (see Archmage Bonus Spells)
+<!-- - **Spirit**: Hierophant; influence (max 6): OOOOOx
     - Bonus (+2): Wis checks/skills, Will
         - Spirit Surge: 1d6
     - Penalty: Cha checks/skills with other faiths (except converting), always nonlethal
     - Boon: +2 healing from own spells/abilities
     - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
-    - Lesser: Divine Surge (see Hierophant Bonus Spells)
+    - Lesser: Divine Surge (see Hierophant Bonus Spells) -->
 
 ## Combat Options
 - Power Attack

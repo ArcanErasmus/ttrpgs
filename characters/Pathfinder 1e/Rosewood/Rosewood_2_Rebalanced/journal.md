@@ -61,6 +61,9 @@ Whether it saw Rosewood as the strongest - or merely the weakest willed - is not
 - I will eventually question *why* I am never satisfied. If I ever get an answer, I will then have to figure out how to do something about it. Possible solutions:
     - "Bad" end: Sever my stomach demiplane connection. This would cost me a lot of my Gourmand power, and be a total weakass cop-out.
     - "Good" end: Enter my own stomach dimension (likely with the help of a Bound Bag, or in a similar ritual to the creation of one), and slay the hunger deity. This would free me of its aura of hunger, though I might also need to cleanse its influence from the demiplane.
+- Pay for laser-gun-eye from Jaboleth the Aboleth's Eyeball Shoppe
+    - Retrieve stolen medusa eye, traced to the hold of a dwarven trading ship
+    - 
 
 ## Character Descriptions
 - Clamshell armor

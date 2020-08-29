@@ -51,17 +51,26 @@
         - A fragment of HL4, split off from him due to some traumatic event
         - Instructed us that by retracing HL4's steps, we could regain our memories
         - Acquire gifts on list, to gain the attention of the Mad Poet
-            1. Viscount's signet ring
-            2. Feline tail (blue and purple mottled fur)
-            3. Skull of ghoul royalty
-                - 
-            4. Green stone idol of a water lizard
-            5. Night hag ambassador's heartstone
-                - SW Caravansary
-            6. Captain's tricorne
-            7. Red webbed foot
-    - Dichotomous Translations of Aklo Syntax
-        - Seven different realms to gather gifts for the Mad Poet
+- Dichotomous Translations of Aklo Syntax
+    - Seven different dream realms to gather gifts for the Mad Poet
+        1. Viscount's signet ring
+            - Caravansary?
+        2. Feline tail (blue and purple mottled fur)
+            - Felines with blue and purple tails are called Pards
+            - Found in the Enchanted Woods
+            - Ench Woods is a city of trees
+            - We have ritual for reaching Ench Woods
+        3. Skull of ghoul royalty
+            - Large communities led by royalty
+            - Dread Plateau of Leng, more powerful ghouls inhabit
+            - DPL is physical place, attaches to dreamlands
+            - Area of perpetual battle against royalty
+            - We have ritual for reaching Perpetual Battle
+        4. Green stone idol of a water lizard
+        5. Night hag ambassador's heartstone
+            - SW Caravansary
+        6. Captain's tricorne
+        7. Red webbed foot
 
 ### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory

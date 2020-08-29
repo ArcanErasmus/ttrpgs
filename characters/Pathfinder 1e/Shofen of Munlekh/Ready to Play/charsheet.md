@@ -24,7 +24,7 @@
 - 5'0", 120 lbs, 26 yo, brown hair, green eyes
 - A short, brown-haired woman wearing a silver headband, small pack, and cloak over a plain outfit. A long blade and a short blade are sheathed at her side. Across her chest is a sash adorned with several religious charms, with a small box in a large pocket at the waist.
 - Born in Munlekh on Rova 3rd, ?
-- Favored class: Samurai
+- Favored class: Medium
 - Personality shorthand
     - Anti-proselytization
     - Judiciary of balance in the world
