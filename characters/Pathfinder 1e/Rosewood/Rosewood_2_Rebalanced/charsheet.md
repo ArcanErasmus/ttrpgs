@@ -1,10 +1,10 @@
 # Six Hardy Rosewoods Entwined and Kneeling ("Rosewood"), any (Giant has no gendered pronouns)
-## NE, Girran, (Gourmand/Grand Champion) 4
+## NE, Girran, (Gourmand/Grand Champion) 5
 - Large humanoid (giant)
 - Actual Deity: Unwittingly serves the gluttony aspect of a major evil power
 - Worshipped Deity: Ydersius, the Primal Coil https://pathfinderwiki.com/wiki/Ydersius
-- 14'7", 3631 lbs, 42 yo, no hair, sable eyes
-- tall ogre with dark blue-green tough hide, almost scaly. build of a linebacker, with huge bull-like horns (though tall, not wide)
+- 14'7", 3631 lbs, 43 yo, no hair, sable eyes
+- tall ogre with dark blue-green tough hide, almost scaly. build of a linebacker, with tall bull-like horns
 - Favored Class: Gourmand
 
 ## Ability Scores
@@ -22,17 +22,17 @@
 | Stat | Value          | Temp |
 |------|----------------|------|
 | AC   | 19 (11 T/17 F) | 
-| BAB  | +4             | 
-| CMB  | +12            | +5 grapple
-| CMD  | 24             | +1 grapple
+| BAB  | +5             | 
+| CMB  | +13            | +5 grapple
+| CMD  | 25             | +1 grapple
 | Init | +2             | 
 | Spd  | 45/30 ft       | 35
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| HP   |  63 |  63 | 0, 0 NL
+| HP   |  80 |  80 | 0, 0 NL
 |------|-----|-----|-----------|
-HD rolls (d12): [12], 11, 11, 1
+HD rolls (d12): [12], 11, 11, 1, 10
 AC breakdown: -1 size, +2 dex, +6 armor, +2 natural
 https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
 
@@ -60,7 +60,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 |   |   |   | Bluff              | Cha |     |
 | 1 |   | C | Climb              | Str | +11 |
 |   |   | C | Craft              | Int |     |
-| 4 |   | C |   Cooking          | Int | +7  |
+| 5 |   | C |   Cooking          | Int | +8  |
 |   |   |   | Diplomacy          | Cha |     |
 |   | T |   | Disable Device     | Dex |     |
 |   |   |   | Disguise           | Cha |     |
@@ -93,9 +93,9 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 | 1 |   | C | Swim               | Str | +11 |
 |   | T |   | Use Magic Device   | Cha |     |
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: -16 ACP, +1 max Dex, x3 run, 30% ASFC, reduced speed + 5 ft**
-- 16/16
-    - 4x(4+0) grand champion
+- **Current encumbrance modifiers: -15 ACP, +2 max Dex, x3 run, 30% ASFC, reduced speed + 5 ft**
+- 17/20
+    - 5x(4+0) grand champion
 
 ## Languages, Proficiencies
 - Languages: Common (Southern Imperial), Common (Sealed Garden), Swamp Giant
@@ -104,7 +104,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Armor:     Light, Medium, Heavy, Shields, Tower Shields
 
 ## Favored Class Bonuses
-- (Gourmand, Girran) +4 stomach acid damage
+- (Gourmand, Girran) +5 stomach acid damage
 
 ## Racial Features
 ### Base Properties (17 RP)
@@ -167,3 +167,9 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 ### Improved Natural Attack [Gourmand Bonus, lvl 4]
 - Choose one natural weapon: Bite
 - Damage goes up by 1 size
+
+### ? [lvl 5]
+(Wondrous Chef)
+
+### ? [Grand Champion Bonus, lvl 5]
+

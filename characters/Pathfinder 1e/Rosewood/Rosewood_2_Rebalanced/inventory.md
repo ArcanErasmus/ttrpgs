@@ -2,16 +2,18 @@
 ## Item List
 | Name                     | Weight | Notes
 |--------------------------|--------|--------------------------------
-| **Worn Equipment**       | 778    | On body only
+| **Worn Equipment**       | 811.25 | On body only
 |--------------------------|--------|--------------------------------
 | Backpack, Masterwork     |  16    | +1 Str for carry capacity
 | Belt Pouch               |   2    |
-| Clamshell Breastplate    |  60    | +6 AC, +2 max Dex, -5 ACP, 30% ASFC, reduced speed
+| Belt, Heavyload          |   3    | x2 carry capacity
 | Mimic Shield             | 700    | Tower shield but *really* heavy
+| Muleback Cords           |   0.25 | +8 Str for carry capacity
+| *+1 Tatami-do*           |  90    | +8 AC, +3 max Dex, -5 ACP, 35% ASFC, reduced speed
 |--------------------------|--------|--------------------------------
-| **Weapons**              | 469.5  | Includes ammo, related items
+| **Weapons**              |        | Includes ammo, related items
 |--------------------------|--------|--------------------------------
-| Loot Pile (see below)    | 469.5  |
+| Loot Pile (see below)    |        |
 |--------------------------|--------|--------------------------------
 | **Tools/General**        |  67    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
@@ -35,31 +37,31 @@
 |--------------------------|--------|--------------------------------
 | Fey Map (no teleport)    |        | Only charts the First World
 |--------------------------|--------|--------------------------------
-| **Coins**                |  21.7  | 500pp 586gp 0sp 0cp
+| **Coins**                |   1.6  | 59pp 9gp 8sp 5cp
 |--------------------------|--------|--------------------------------
-| **Total**                |1538.2  | Heavy Load
+| **Total**                |1031.9  | Light Load
 
 ## Carrying Capacity
-| Load      | lbs  | Penalties
-|-----------|------|------------
-| Light     | 613  | No max Dec, no ACP, x4 run
-| Medium    | 1226 | +3 max Dex, -3 ACP, x4 run
-| Heavy     | 1840 | +1 max Dex, -6 ACP, x3 run
-| Lift      | 3680 | +0 max Dex, 5 ft move as full-round action
-| Push/Drag | 9200 |
-|-----------|------|
+| Load      |  lbs  | Penalties
+|-----------|-------|------------
+| Light     |  5600 | No max Dec, no ACP, x4 run
+| Medium    | 11200 | +3 max Dex, -3 ACP, x4 run
+| Heavy     | 16800 | +1 max Dex, -6 ACP, x3 run
+| Lift      | 33600 | +0 max Dex, 5 ft move as full-round action
+| Push/Drag | 84000 |
+|-----------|-------|
 * Armor check penalty applies to all Str and Dex based skill checks
 
 ## Magic Item Slots
 - Head      -
 - Headband  -
 - Eyes      -
-- Shoulders -
+- Shoulders - Muleback Cords
 - Neck      -
 - Chest     -
 - Body      -
-- Armor     -
-- Belt      -
+- Armor     - +1 Tatami-do
+- Belt      - Belt, Heavyload
 - Wrists    -
 - Hands     -
 - Ring 1    -

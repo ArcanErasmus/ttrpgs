@@ -102,29 +102,35 @@
     4. +1 Will
 - Chosen: 4
 
-
-# Future Class Features (lvl 5)
-## Gourmand
-### Stomach Acid
-- +1d4
-
-### Indulgences
-- +1
-
-### Essence Restrictions
-- Natural armor +2 -> +3
-- Immunities: fear, shaken, bleed, charm
-- Special Attacks (Su)
-- Climb speed
-
-## Grand Champion
 ### Practice
 - At lvl 5 & every 5 more
 - Bonus feat, can't benefit spell/SLA/su
 - Can't benefit mental based skills/checks
 
-### Armored Flexibility
+### Armored Flexibility (Ex)
 - At lvl 5 & every 4 more
 - -1 ACP, +1 max Dex
 - Move normal speed in med armor
 - At lvl 9, move normal speed in hvy armor
+
+# Future Class Features (lvl 6)
+## Misc
+- +1 BAB
+- +1 Fort, Ref, Will
+
+## Gourmand
+### Indulgences
+- +1
+
+### Essence Restrictions
+- DR: 3/ -> 5/
+- Immunities: Dazed, staggered
+- Movement: 40 ft -> 50 ft
+
+## Grand Champion
+### Weapon Advantage
+- +1 bonus
+
+### Exercise
+- +1 bonus
+- Can't choose Str

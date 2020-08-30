@@ -2,18 +2,18 @@
 ## Weapons
 | Weapon         | Atk | Damage        | Crit     | Range  | Notes
 |----------------|-----|---------------|----------|--------|------------
-| Bite           | +10 | 3d6+7  (BPS)  |    20/x2 | --     | Primary, Grab
-| Gore           | +10 | 2d8+7  (P)    |    20/x2 | --     | Primary
-| Tentacle       | +10 | 2d6+7  (B)    |    20/x2 | 20 ftr | Primary, Grab, Pull
-| Tongue         | +10 | 1d6+7  (B)    |    20/x2 | 40 ftr | Primary, Pull
+| Bite           | +11 | 3d6+7  (BPS)  |    20/x2 | --     | Primary, Grab
+| Gore           | +11 | 2d8+7  (P)    |    20/x2 | --     | Primary
+| Tentacle       | +11 | 2d6+7  (B)    |    20/x2 | 20 ftr | Primary, Grab, Pull
+| Tongue         | +11 | 1d6+7  (B)    |    20/x2 | 40 ftr | Primary, Pull
 |----------------|-----|---------------|----------|--------|------------
-| Regurgitate    | +5  | 1d6+7  (B)    |    20/x2 | 20 ft  | See class features
-| Acid Breath    |     | 2d4+10 (Acid) |          | 10 ft  | 7/day, Ref DC 18 half
+| Regurgitate    | +6  | 1d6+7  (B)    |    20/x2 | 20 ft  | See class features
+| Acid Breath    |     | 3d4+11 (Acid) |          | 10 ft  | 7/day, Ref DC 18 half
 |   Cone         |     |               |          |        | Cone
 |   Line         |     | +50%          |          | x2     | Single target
 |   Burst        |     |               |          | x2     | 10 ft radius burst on impact
 |----------------|-----|---------------|----------|--------|------------
-| Sling          | +4  | 1dd+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
+| Sling          | +5  | 1dd+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
 https://rpg.stackexchange.com/a/62720
 
 ## Mimic Friend
@@ -83,30 +83,30 @@ https://rpg.stackexchange.com/a/62720
 
 ## Stomach Quick Info
 ### Rules
-- 12 AC, 10 hp
+- 12 AC, 13 hp
 - Size Medium capacity
-- 3d6+7 (B) + 2d4+4 (Acid)
+- 3d6+7 (B) + 3d4+5 (Acid)
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 10/10hp - empty
+1. 13/13hp - empty
 
 ## Indulgence Quick Info
 ### Rules
-- Max: 4, Max/Type: 2
+- Max: 5, Max/Type: 2
 - Abilities available at current lvl:
     - DR: 3/x max
     - Feat (must meet prereqs)
-    - Immunity: Sleep effects, deafness, blindness, "hunger", nauseated
+    - Immunity: Bleed, blindness, charm, deafness, fear, hunger, nausea, shaken, sleep
     - Languages (and communication methods)
-    - Natural Armor: +2
+    - Natural Armor: +3
    xx Natural Attack (except bite)
     - Phylocrux (Sp): 3/-/-/- uses per day
     - Resistance to one energy type
     x Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
     - Skill: (in entry or had ranks) +2 bonus, count as trained
-    - Special Attack: Extraordinary
-    - Speed: 40 ft max, land or swim only
+    - Special Attack: Extraordinary, Supernatural
+    - Speed: 40 ft max; land, swim, climb
     x Spell Resistance
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
 | Type               | Tier 1 (1-5 HD)    | Tier 2 (6-10 HD)       | Tier 3 (11-15 HD) | Tier 4 (16-20 HD)             |
@@ -195,3 +195,4 @@ https://rpg.stackexchange.com/a/62720
         - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
         - Speeds: 100 ft fly (perfect)
         - SR: No
+5. ?
