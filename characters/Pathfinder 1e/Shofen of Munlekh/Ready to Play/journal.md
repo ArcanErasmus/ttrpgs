@@ -53,8 +53,16 @@
         - Acquire gifts on list, to gain the attention of the Mad Poet
 - Dichotomous Translations of Aklo Syntax
     - Seven different dream realms to gather gifts for the Mad Poet
-        1. Viscount's signet ring
-            - Caravansary?
+        1. Viscount's signet ring - COMPLETE
+            - Viscount's gala
+            - Pietro Blhhgh? in the dream realm of Celephalis
+            - City of Celephalis appears frozen in time, despite time passing there
+            - Viscount is known for hosting extravagant parties, at the Sunset Waltz
+            - Attendees ignore strange happenings at said parties, to not lose the Viscount's favor
+            - The Viscount wants us to "break off engagements" with certain guests
+                - Influential trader, "posessed of lead feet", Arven Teldriet
+                - Beautiful woman, Lady Ardenta Splinterbone
+                - Partisan commoner, Maudet
         2. Feline tail (blue and purple mottled fur)
             - Felines with blue and purple tails are called Pards
             - Found in the Enchanted Woods
@@ -68,7 +76,6 @@
             - We have ritual for reaching Perpetual Battle
         4. Green stone idol of a water lizard
         5. Night hag ambassador's heartstone
-            - SW Caravansary
         6. Captain's tricorne
         7. Red webbed foot
 

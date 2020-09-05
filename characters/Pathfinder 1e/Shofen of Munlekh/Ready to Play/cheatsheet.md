@@ -8,13 +8,14 @@
 | Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Spirit Channeling
-- **Spirit**: Archmage; influence (max 6): OOOOOx
+- Influence (max 6): OOOxxx
+<!-- - **Spirit**: Archmage; influence (max 6): OOOOOx
     - Bonus (+2): Int checks/skills, Concentration
         - Spirit Surge: 1d6
     - Penalty: Str checks/skills, Con checks, atk, non-spell damage
     - Boon: +2 spell damage
     - LI Feat (cost 1 inf): Friendly Switch https://www.d20pfsrd.com/feats/general-feats/friendly-switch
-    - Lesser: Archmage Arcana (see Archmage Bonus Spells)
+    - Lesser: Archmage Arcana (see Archmage Bonus Spells) -->
 <!-- - **Spirit**: Hierophant; influence (max 6): OOOOOx
     - Bonus (+2): Wis checks/skills, Will
         - Spirit Surge: 1d6
@@ -22,22 +23,28 @@
     - Boon: +2 healing from own spells/abilities
     - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
     - Lesser: Divine Surge (see Hierophant Bonus Spells) -->
+- **Spirit**: Marshal
+    - Bonus (+2): Cha checks/skills, spirit surge rolls (double count on Cha checks/skills)
+    - Penalty: Wis checks/skills, lose bonus/boon if not in charge
+    - Boon: +1 Perform (Oratory)
+    - LI Feat (cost 1 inf): Insightful Advice https://www.d20pfsrd.com/feats/general-feats/insightful-advice
+    - Lesser: Marshal's Order (Su)
 
 ## Combat Options
 - Power Attack
     - -2 melee atk/CMB, +4/+6 melee dmg
 - Challenge
-    - **Daily**, swift action; 2/day: Ox
+    - **Daily**, swift action; 2/day: OO
     - Bonus: +5 dmg, +2 dodge to AC, +2 sacred on saves
     - -2 AC vs non-challenged targets
 - Resolve
-    - **Daily**; 3/day: OOx
+    - **Daily**; 3/day: xxx
     - Standard action: Remove fatigued/shaken/sickened
     - Immediate Action: advantage on Fort/Will
     - Immediate Action: stabilize & remain conscious
     - Regain 1 when defeat challenge target
 - Panache
-    - **Daily**; 5/day: OOxxx
+    - **Daily**; 5/day: OOOOO
     - Regain on crit/kill with light/1h piercing melee weapon, monk weapon, or unarmed strike
         - Derring-do
             - No action, spend 1 point
@@ -58,7 +65,7 @@
     - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - **Daily**; 6/day: OOOOOO
+    - **Daily**; 6/day: OOxxxx
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO

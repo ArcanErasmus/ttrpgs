@@ -2,8 +2,9 @@
 ## Weapons
 | Weapon         | Atk | Damage        | Crit     | Range  | Notes
 |----------------|-----|---------------|----------|--------|------------
-| Bite           | +11 | 3d6+7  (BPS)  |    20/x2 | --     | Primary, Grab
-| Gore           | +11 | 2d8+7  (P)    |    20/x2 | --     | Primary
+| Armor Spikes   | +11 | 1d8+7  (P)    |    20/x2 |        | Light, Deals damage as bonus on grapple atk
+| Bite           | +11 | 3d6+7  (BPS)  |    20/x2 |        | Primary, Grab
+| Gore           | +11 | 2d8+7  (P)    |    20/x2 |        | Primary
 | Tentacle       | +11 | 2d6+7  (B)    |    20/x2 | 20 ftr | Primary, Grab, Pull
 | Tongue         | +11 | 1d6+7  (B)    |    20/x2 | 40 ftr | Primary, Pull
 |----------------|-----|---------------|----------|--------|------------
@@ -90,6 +91,7 @@ https://rpg.stackexchange.com/a/62720
 
 ### Stomachs
 1. 13/13hp - empty
+2. 13/13hp - empty
 
 ## Indulgence Quick Info
 ### Rules

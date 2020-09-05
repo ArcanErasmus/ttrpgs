@@ -21,7 +21,7 @@
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| AC   | 19 (11 T/17 F) | 
+| AC   | 23 (11 T/23 F) | 
 | BAB  | +5             | 
 | CMB  | +13            | +5 grapple
 | CMD  | 25             | +1 grapple
@@ -33,7 +33,7 @@
 | HP   |  80 |  80 | 0, 0 NL
 |------|-----|-----|-----------|
 HD rolls (d12): [12], 11, 11, 1, 10
-AC breakdown: -1 size, +2 dex, +6 armor, +2 natural
+AC breakdown: -1 size, +2 dex, +10 armor, +2 natural
 https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
 
 ## Saves
@@ -52,50 +52,57 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Class (Weapon Advantage): +2 to confirm crits with natural weapons
 
 ## Skills
-| # | T | C | Skill              | Sta | Mod | Temp 
-|---|---|---|--------------------|-----|-----|------
-| 4 |   | C | Acrobatics         | Dex | +9  |
-|   |   |   | Appraise           | Int |     |
-|   | T |   | Autohypnosis       | Wis |     |
-|   |   |   | Bluff              | Cha |     |
-| 1 |   | C | Climb              | Str | +11 |
-|   |   | C | Craft              | Int |     |
-| 5 |   | C |   Cooking          | Int | +8  |
-|   |   |   | Diplomacy          | Cha |     |
-|   | T |   | Disable Device     | Dex |     |
-|   |   |   | Disguise           | Cha |     |
-|   |   |   | Escape Artist      | Dex |     |
-|   |   |   | Fly                | Dex |     |
-| 1 | T | C | Handle Animal      | Cha | +4  |
-|   |   |   | Heal               | Wis |     |
-| 1 |   | C | Intimidate         | Cha | +4  | +4
-|   | T |   | Kn (arcana)        | Int |     |
-| 1 | T | C | Kn (dungeoneering) | Int | +4  |
-|   | T |   | Kn (engineering)   | Int |     |
-|   | T |   | Kn (geography)     | Int |     |
-|   | T |   | Kn (history)       | Int |     |
-|   | T |   | Kn (local)         | Int |     |
-| 1 | T | C | Kn (nature)        | Int | +4  |
-|   | T |   | Kn (nobility)      | Int |     |
-|   | T |   | Kn (planes)        | Int |     |
-|   | T |   | Kn (psionics)      | Int |     |
-|   | T |   | Kn (religion)      | Int |     |
-|   | T |   | Linguistics        | Int |     |
-|   |   |   | Perception         | Wis |     |
-|   |   |   | Perform            | Cha |     |
-|   | T | C | Profession         | Wis |     |
-| 1 |   | C | Ride               | Dex | +6  |
-|   |   |   | Sense Motive       | Wis |     |
-|   | T |   | Sleight of Hand    | Dex |     |
-|   | T |   | Spellcraft         | Int |     |
-|   |   |   | Stealth            | Dex | -6  |
-| 1 |   | C | Survival           | Wis | +4  |
-| 1 |   | C | Swim               | Str | +11 |
-|   | T |   | Use Magic Device   | Cha |     |
-|---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: -15 ACP, +2 max Dex, x3 run, 30% ASFC, reduced speed + 5 ft**
-- 17/20
+| # | T | C | Skill              | Sta | Mod | ACP | Temp 
+|---|---|---|--------------------|-----|-----|-----|------
+| 5 |   | C | Acrobatics         | Dex | +10 | -4  |
+|   |   |   | Appraise           | Int |     |     |
+|   | T |   | Autohypnosis       | Wis |     |     |
+|   |   |   | Bluff              | Cha |     |     |
+| 1 |   | C | Climb              | Str | +11 | -4  |
+|   |   | C | Craft              | Int |     |     |
+| 5 |   | C |   Cooking          | Int | +8  |     |
+|   |   |   | Diplomacy          | Cha |     |     |
+|   | T |   | Disable Device     | Dex |     | -4  |
+|   |   |   | Disguise           | Cha |     |     |
+|   |   |   | Escape Artist      | Dex |     | -4  |
+|   |   |   | Fly                | Dex |     | -4  |
+| 1 | T | C | Handle Animal      | Cha | +4  |     |
+|   |   |   | Heal               | Wis |     |     |
+| 1 |   | C | Intimidate         | Cha | +4  |     | +4
+|   | T |   | Kn (arcana)        | Int |     |     |
+| 1 | T | C | Kn (dungeoneering) | Int | +4  |     |
+|   | T |   | Kn (engineering)   | Int |     |     |
+|   | T |   | Kn (geography)     | Int |     |     |
+|   | T |   | Kn (history)       | Int |     |     |
+|   | T |   | Kn (local)         | Int |     |     |
+| 1 | T | C | Kn (nature)        | Int | +4  |     |
+|   | T |   | Kn (nobility)      | Int |     |     |
+|   | T |   | Kn (planes)        | Int |     |     |
+|   | T |   | Kn (psionics)      | Int |     |     |
+|   | T |   | Kn (religion)      | Int |     |     |
+|   | T |   | Linguistics        | Int |     |     |
+|   |   |   | Perception         | Wis |     |     |
+|   |   |   | Perform            | Cha |     |     |
+|   | T | C | Profession         | Wis |     |     |
+| 1 |   | C | Ride               | Dex | +6  | -4  |
+|   |   |   | Sense Motive       | Wis |     |     |
+|   | T |   | Sleight of Hand    | Dex |     | -4  |
+|   | T |   | Spellcraft         | Int |     |     |
+|   |   |   | Stealth            | Dex | -6  | -4  |
+| 1 |   | C | Survival           | Wis | +4  |     |
+| 3 |   | C | Swim               | Str | +13 | -4  |
+|   | T |   | Use Magic Device   | Cha |     |     |
+|---|---|---|--------------------|-----|-----|-----|------
+
+- Skill ranks: 20/20
     - 5x(4+0) grand champion
+- Current encumbrance modifiers: -4 ACP, +4 max Dex, x3 run, 35% ASFC, reduced speed + 5 ft
+    - Items
+        - *+1 Spiked Tatami-do*: -5 ACP, +3 max Dex, x3 run, 35% ASFC, reduced speed
+        <!-- - Tower Shield: -10 ACP, +2 max Dex, full run, 50% ASFC, normal speed -->
+    - Abilities
+        - Armored Swiftness: +5 ft speed in medium or heavy armor
+        - Armored Flexibility: +1 ACP (max 0) and +1 to max Dex, while in armor
 
 ## Languages, Proficiencies
 - Languages: Common (Southern Imperial), Common (Sealed Garden), Swamp Giant
@@ -164,12 +171,22 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Release as line, double range, 50% more damage to single target
 - Release as burst, double range (max 30 ft), radius as normal range, normal damage
 
-### Improved Natural Attack [Gourmand Bonus, lvl 4]
+### Extra Stomach [Gourmand Bonus, lvl 4]
+- Gain bonus stomach
+
+### Wondrous Chef [lvl 5]
+- Cook slain enemy's remains, Craft (cooking)/Profession (chef) DC 10 + HD
+- Consuming grants +1/4 Gourmand lvl (min 1) to atk, dmg, saves for 8 hrs
+- Meals per creature by size:
+    - Fine/diminutive: 0
+    - Tiny: 1
+    - Small: 1d4
+    - Medium: 1d8
+    - Large: 1d12
+    - Huge: 2d8
+    - Gargantuan: 2d12
+    - Colossal: 2d20
+
+### Improved Natural Attack [Grand Champion Bonus, lvl 5]
 - Choose one natural weapon: Bite
 - Damage goes up by 1 size
-
-### ? [lvl 5]
-(Wondrous Chef)
-
-### ? [Grand Champion Bonus, lvl 5]
-
