@@ -165,7 +165,7 @@ https://rpg.stackexchange.com/a/62720
         - SR: No
 3. Agathion, Bishop
     - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop/
-    - Chosen essence: SR 15
+    - Chosen essence: 40 ft swim
     - Available essences:
         - DR: 5/evil or silver
         - Feats: Agile Maneuvers, Improved Initiative, Self-Sufficient, Weapon Finesse
@@ -178,15 +178,15 @@ https://rpg.stackexchange.com/a/62720
         - Senses: Darkvision 60 ft, low-light vision
         - Skills: Bluff, Heal, Intimidate, Kn (geography, nature, planes), Perception, Sense Motive, Stealth, Survival, Swim
         - Special Abilities: Fear Aura (Su), Stunning Strike (Ex)
-        - Speeds: 30 ft land, 60 ft swim
-        x SR: 15
+        x Speeds: 30 ft land, 60 ft swim
+        - SR: 15
 4. Lightning Elemental, Medium
     - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
     - Chosen essence: Darkvision 60 ft
     - Available essences:
         - DR: None
         - Feats: Dodge, Improved Initiative, Weapon Finesse
-        - Immunities: electricity, elemental traits
+        - Immunities: electricity, bleed, paralysis, poison, sleep, stunning, critical hits, flanking
         - Languages: Auran
         - Natural Armor: +1
         - Natural Attacks: Slam 1d6 + 1d4 electricity

@@ -2,12 +2,11 @@
 ## Item List
 | Name                     | Weight | Notes
 |--------------------------|--------|--------------------------------
-| **Worn Equipment**       | 831.3  | On body only
+| **Worn Equipment**       | 131.3  | On body only
 |--------------------------|--------|--------------------------------
 | Backpack, Masterwork     |  16    | +1 Str for carry capacity
 | Belt Pouch               |   2    |
 | Belt, Heavyload          |   3    | x2 carry capacity
-| Mimic Shield             | 700    | Tower shield but *really* heavy
 | Muleback Cords           |   0.25 | +8 Str for carry capacity
 | *+1 Spiked Full Plate*   | 110    | +10 AC, +3 max Dex, -5 ACP, 35% ASFC, reduced speed, 1d8 + Str piercing on grapple atk
 |--------------------------|--------|--------------------------------
@@ -37,9 +36,9 @@
 |--------------------------|--------|--------------------------------
 | Fey Map (no teleport)    |        | Only charts the First World
 |--------------------------|--------|--------------------------------
-| **Coins**                |   0.6  | 9pp 9gp 8sp 5cp
+| **Coins**                |   4.8  | 226pp 6gp 5sp 1cp
 |--------------------------|--------|--------------------------------
-| **Total**                |1050.9  | Light Load
+| **Total**                | 355.1  | Light Load
 
 ## Carrying Capacity
 | Load      |  lbs  | Penalties

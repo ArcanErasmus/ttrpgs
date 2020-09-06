@@ -26,7 +26,8 @@
 | CMB  | +13            | +5 grapple
 | CMD  | 25             | +1 grapple
 | Init | +2             | 
-| Spd  | 45/30 ft       | 35
+| Land | 45/30 ft       | 35
+| Swim | 40/30 ft       | 35
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
@@ -72,7 +73,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 |   | T |   | Kn (arcana)        | Int |     |     |
 | 1 | T | C | Kn (dungeoneering) | Int | +4  |     |
 |   | T |   | Kn (engineering)   | Int |     |     |
-|   | T |   | Kn (geography)     | Int |     |     |
+| 1 | T |   | Kn (geography)     | Int | +1  |     |
 |   | T |   | Kn (history)       | Int |     |     |
 |   | T |   | Kn (local)         | Int |     |     |
 | 1 | T | C | Kn (nature)        | Int | +4  |     |
@@ -90,7 +91,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 |   | T |   | Spellcraft         | Int |     |     |
 |   |   |   | Stealth            | Dex | -6  | -4  |
 | 1 |   | C | Survival           | Wis | +4  |     |
-| 3 |   | C | Swim               | Str | +13 | -4  |
+| 2 |   | C | Swim               | Str | +12 | -4  |
 |   | T |   | Use Magic Device   | Cha |     |     |
 |---|---|---|--------------------|-----|-----|-----|------
 

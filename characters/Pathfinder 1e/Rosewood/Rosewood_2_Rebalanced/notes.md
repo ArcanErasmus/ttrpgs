@@ -137,7 +137,7 @@
     <!-- - Hungry Reflexes -->
     <!-- - Shape Breath Weapon https://www.d20pfsrd.com/feats/3rd-party-feats/frog-god-games/monster-feats-3pp-frog-god-games/shape-breath-weapon -->
 - lvl 3
-    - Extra Stomach
+    <!-- - Extra Stomach -->
         - Belly Bulwark
         - Gastric Prison
 - lvl 4
