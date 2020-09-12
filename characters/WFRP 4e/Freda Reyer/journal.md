@@ -1,5 +1,4 @@
 # Sister Freda Reyer's Journal
-
 ## Adventure Log
 - Took barge from Nuln, headed towards Ubersreik. Stopped for the night (6/6/2512) north of Grissenwald, at the Three Feathers Inn. I and some sailors lost some money to Siegbert in a game of cards. Siegbert tried to speak Classical to a scholar, but the inkeeper thought it was "witch speak" and got annoyed. A halfling (Glimbrin Oddsocks) seemed to be plotting something, because he was surrounded with the Winds of Magic.
 - MUL arrived at the tavern, and discussed some business with Seedling (had to do with a party?)
@@ -10,6 +9,7 @@
 - We were offered jobs in the Gravin's retinue, as we proved our capabilities in dealing with the nefarious goings-on.
 - 6/21/2512, 
     - White moon circle: Mannsleib; black moon circle: Morrisleib
+- A lot happened, the duel at the trial finally went through, and Bruno won.
 
 ## Contacts/Friends
 - 

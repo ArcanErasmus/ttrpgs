@@ -1,23 +1,25 @@
 # Sister Freda Reyer, she
-## Human, Order of the Leviathan (Warrior), Orca Priest - Silver 2
+## Human, Order of the Leviathan (Warrior), Leviathan - Silver 4
 - 5'10", 16 yo, Golden Brown hair, Green eyes
 - Nationality: Imperial
 - Birthplace: Averland
 - Religion: Manann
 - Star Sign: Cacklefax the Cockerel, born 33/10/2495
 - Motivation: Devotian to Manann
-- Short-term ambition: ?
-- Long-term ambition: Prove my faith
-- Party short-term: ?
-- Party long-term: Save the Gravin
 
-## Total/Spent XP: 2430/2425
+- Short-term ambition: Burn off corruption
+- Long-term ambition: Train an apprentice
+- Party short-term: Find a new party
+- Party long-term: ?
+
+## Total/Spent XP: 3680/3675
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|  275 |   0 |  10 | BS
-|  275 |   0 |  10 | T
-|  275 |   0 |  10 | WP
-|  150 |   5 |  10 | Fel
+|  450 |   0 |  15 | BS
+|  450 |   0 |  15 | T
+|  450 |   0 |  15 | I
+|  450 |   0 |  15 | WP
+|  325 |   5 |  15 | Fel
 |------|-----|-----|------
 |  100 |   0 |   1 | Bless (Manann)
 |  100 |   0 |   1 | Etiquette (Nobles)
@@ -34,7 +36,8 @@
 |   10 |   0 |   1 | Lore (Theology)
 |   50 |   0 |   5 | Melee (Polearm)
 |  125 |   0 |  10 | Perception
-|   20 |  10 |  11 | Ranged (Blackpowder)
+|   20 |  10 |  11 | Pray
+|  100 |  10 |  15 | Ranged (Blackpowder)
 |   50 |   0 |   5 | Row
 |  125 |   0 |  10 | Swim
 |------|-----|-----|------
@@ -44,40 +47,40 @@
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
 | WS  | 25 |    |    |    | 25 |
-|^BS  | 38 |  5 | 10 |    | 53 |
+|^BS  | 38 |  5 | 15 |    | 58 |
 | S   | 32 |    |    |    | 32 |
-|^T   | 32 |  5 | 10 |    | 47 |
-| I   | 37 |    |    |    | 37 |
+|^T   | 32 |  5 | 15 |    | 52 |
+| I   | 37 |    | 15 |    | 52 |
 | Ag  | 28 |    |    |    | 28 |
 | Dex | 27 |    |    |    | 27 |
 | Int | 33 |    |    |    | 33 |
-|^WP  | 34 |    | 10 |    | 44 |
-|^Fel | 38 |  5 | 10 |    | 53 |
+|^WP  | 34 |    | 15 |    | 49 |
+|^Fel | 38 |  5 | 15 |    | 58 |
 
 ## Secondary Attributes
 | Att | Max | Cur  |
 |-----|-----|------|
-| W   |  15 | 15
+| W   |  17 | 17
 | F/F |   4 | OOOO
 | R/R |   2 | OO
 | M   |   4 |
-| Cor |   8 | 5
+| Cor |   9 | 8
 | Sin |     | 0
 
 ## Skills
 | * | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Charm              | 10 | Fel | 63 |
-|   | Cool               |  5 | WP  | 49 |
+| C | Charm              | 10 | Fel | 68 |
+|   | Cool               |  5 | WP  | 54 |
 | C | Dodge              |  5 | Ag  | 33 |
-| C | Endurance          | 10 | T   | 57 |
-|   | Gossip             |  3 | Fel | 56 |
-| C | Perception         | 10 | I   | 47 |
+| C | Endurance          | 10 | T   | 62 |
+|   | Gossip             |  3 | Fel | 61 |
+| C | Perception         | 10 | I   | 62 |
 | C | Row                |  5 | S   | 37 |
 |---|--------------------|----|-----|----|------
 | * | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Ent (Storytelling) | 10 | Fel | 63 |
+| C | Ent (Storytelling) | 10 | Fel | 68 |
 | C | Heal               | 10 | Int | 43 |
 | C | Lang (Battle)      |  1 | Int | 34 |
 |   | Lang (Bretonnian)  |  3 | Int | 36 |
@@ -88,12 +91,12 @@
 |---|--------------------|----|-----|----|------
 | * | Magic/Blessings    | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Pray               | 10 | Fel | 63 |
+| C | Pray               | 11 | Fel | 69 |
 |---|--------------------|----|-----|----|------
 | * | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
 | C | M Polearm          |  5 | WS  | 30 |
-| C$| R Blackpowder      | 11 | BS  | 64 |
+| C$| R Blackpowder      | 15 | BS  | 74 |
 
 ## Talents
 ### Acute Sense (Sight) (1/IB)
@@ -148,11 +151,11 @@
 
 ## Career Info
 - Talents:
-    - Gunner
-    - Fisherman
-    - Invoke (Manann)
-    - Seasoned Traveler
-- Trappings
-    - Book (Religion)
-    - Handgun with 12 bullets
-    - Robes
+    - Fearless (Wreckers)
+    - Holy Visions
+    - Sea Legs
+    - Stout-hearted
+- Trappings:
+    - Breastplate
+    - Quality Robes
+    - Religious Relic

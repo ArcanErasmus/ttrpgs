@@ -34,16 +34,17 @@ Range:
 |--------------------------|-----|-----|--------------------------------
 | **Worn Equipment**       |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Cloak                    |   1 |     |
+| Fine Cloak               |   1 |     | blue-gray, embroidered with a large trident head, trimmed with a white wave-pattern
 | Fancy Hat                |     |     |
 | Leather Jack             |   1 |     |
-| Robes                    |   1 |     | blue-gray, trimmed with a white wave-pattern
+| Plate Breastplate        |   3 |   2 | Painted with a large trident head, adorned with purity seals to Manann
+| Fine Robes               |   1 |     | blue-gray, trimmed with a white wave-pattern
 | Whale necklace           |     |     | Manann religious symbol
 |--------------------------|-----|-----|--------------------------------
 | **Worn Containers**      |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Pouch                    |     |     | Carries 1
-|   Bandages (2)           |     |     |
+|   Bandages (9)           |     |     |
 |   Fish hooks & line (12) |     |     |
 |   Flask of spirits       |     |     |
 | Sling bag                |   1 |     | Carries 2
@@ -62,18 +63,18 @@ Range:
 |--------------------------|-----|-----|--------------------------------
 | **Supplies/Consumables** |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Bullet and powder (22)   |     |     | Impale, Penetrating (included in weapon)
+| Bullet and powder (18)   |     |     | Impale, Penetrating (included in weapon)
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 0/0
+| **Coins**                |     |     | 0GC 22/0
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |   2 |
+| **Total**                |     |   4 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
 |-----------|-----|------------
-| Limit     |   8 |
-| 2x Limit  |  16 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
-| 3x Limit  |  24 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
+| Limit     |   9 |
+| 2x Limit  |  18 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
+| 3x Limit  |  27 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
 |-----------|-----|
 
 ## Spells and Prayers
