@@ -2,13 +2,13 @@
 ## Item List
 | Name                     | Weight | Notes
 |--------------------------|--------|--------------------------------
-| **Worn Equipment**       | 131.3  | On body only
+| **Worn Equipment**       | 129.3  | On body only
 |--------------------------|--------|--------------------------------
 | Backpack, Masterwork     |  16    | +1 Str for carry capacity
 | Belt Pouch               |   2    |
-| Belt, Heavyload          |   3    | x2 carry capacity
-| Muleback Cords           |   0.25 | +8 Str for carry capacity
+| *Muleback Cords*         |   0.25 | +8 Str for carry capacity
 | *+1 Spiked Full Plate*   | 110    | +10 AC, +3 max Dex, -5 ACP, 35% ASFC, reduced speed, 1d8 + Str piercing on grapple atk
+| *Sash of the War Champ*  |   1    | +4 lvl for Armored Flexibility
 |--------------------------|--------|--------------------------------
 | **Weapons**              |        | Includes ammo, related items
 |--------------------------|--------|--------------------------------
@@ -25,29 +25,37 @@
 | Mess Kit                 |   2    | Tin plate, bowl, cup, utensils, on leather loop
 | Whet Bone                |   2    | Chew 15 mins, +1 dmg next bite
 |--------------------------|--------|--------------------------------
-| **Supplies/Consumables** | 202    | Mundane items
+| **Supplies/Consumables** | 152    | Mundane items
 |--------------------------|--------|--------------------------------
-| Rations & Preserved Food | 180    |
+| Rations & Preserved Food | 130    |
 | Soap                     |        | 50 charges
 | Torches (8)              |   6    | 20 ft normal light, 1hr burn
 | Waterskin (2)            |  16    | 2 lbs empty, 8 lbs full (each)
+|--------------------------|--------|--------------------------------
+| **Drugs**                |        | Try not to get too addicted!
+|--------------------------|--------|--------------------------------
+| Pesh                     |        | https://www.aonprd.com/Drugs.aspx?ItemName=Pesh +Str, moderate
+| Flayleaf                 |        | https://www.aonprd.com/Drugs.aspx?ItemName=Flayleaf +save vs mind-aff/fatigie, minor
+| Desert Coffee            |        | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/desert-coffee ignore fatigue, minor
+| Magesight                |        | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/magesight detect magic sight, minor
+| Vigilance                |        | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/vigilance +perception, moderate
 |--------------------------|--------|--------------------------------
 | **Magic Items**          |        | Includes magic consumables
 |--------------------------|--------|--------------------------------
 | Fey Map (no teleport)    |        | Only charts the First World
 |--------------------------|--------|--------------------------------
-| **Coins**                |   4.8  | 226pp 6gp 5sp 1cp
+| **Coins**                |   0.3  | 0pp 0gp 15sp 1cp
 |--------------------------|--------|--------------------------------
-| **Total**                | 355.1  | Light Load
+| **Total**                | 348.3  | Light Load
 
 ## Carrying Capacity
 | Load      |  lbs  | Penalties
 |-----------|-------|------------
-| Light     |  5600 | No max Dec, no ACP, x4 run
-| Medium    | 11200 | +3 max Dex, -3 ACP, x4 run
-| Heavy     | 16800 | +1 max Dex, -6 ACP, x3 run
-| Lift      | 33600 | +0 max Dex, 5 ft move as full-round action
-| Push/Drag | 84000 |
+| Light     |  1866 | No max Dec, no ACP, x4 run
+| Medium    |  3733 | +3 max Dex, -3 ACP, x4 run
+| Heavy     |  5600 | +1 max Dex, -6 ACP, x3 run
+| Lift      | 11200 | +0 max Dex, 5 ft move as full-round action
+| Push/Drag | 28000 |
 |-----------|-------|
 * Armor check penalty applies to all Str and Dex based skill checks
 
@@ -57,10 +65,10 @@
 - Eyes      -
 - Shoulders - Muleback Cords
 - Neck      -
-- Chest     -
+- Chest     - Sash of the War Champion
 - Body      -
-- Armor     - +1 Tatami-do
-- Belt      - Belt, Heavyload
+- Armor     - +1 Spiked Full Plate
+- Belt      -
 - Wrists    -
 - Hands     -
 - Ring 1    -

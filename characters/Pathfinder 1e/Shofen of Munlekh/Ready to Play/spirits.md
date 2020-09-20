@@ -17,7 +17,7 @@
 <!-- - Greater: Wild Arcana (Su) -->
 <!-- - Supreme: Legendary Archmage (Su) -->
 
-### Champion
+### Swolefen (Champion)
 - Bonus: Atk, non-spell damage, Str checks/skills, Fort
 - Seance Boon: +2 non-spell damage
 - Fav Locations: Arenas, battlefields, places of violence, practice yards

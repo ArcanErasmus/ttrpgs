@@ -8,7 +8,7 @@
 | Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
 
 ## Spirit Channeling
-- Influence (max 6): OOOxxx
+- Influence (max 6): OOOOxx
 <!-- - **Spirit**: Archmage; influence (max 6): OOOOOx
     - Bonus (+2): Int checks/skills, Concentration
         - Spirit Surge: 1d6
@@ -23,12 +23,18 @@
     - Boon: +2 healing from own spells/abilities
     - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
     - Lesser: Divine Surge (see Hierophant Bonus Spells) -->
-- **Spirit**: Marshal
+<!-- - **Spirit**: Marshal
     - Bonus (+2): Cha checks/skills, spirit surge rolls (double count on Cha checks/skills)
     - Penalty: Wis checks/skills, lose bonus/boon if not in charge
     - Boon: +1 Perform (Oratory)
     - LI Feat (cost 1 inf): Insightful Advice https://www.d20pfsrd.com/feats/general-feats/insightful-advice
-    - Lesser: Marshal's Order (Su)
+    - Lesser: Marshal's Order (Su) -->
+- **Spirit**: Swolefen (Champion)
+    - Bonus (+2): Atk, non-spell damage, Str checks/skills, Fort
+    - Penalty: Int checks/skills, CL, can't increase CL
+    - Boon: +2 non-spell damage
+    - LI Feat (cost 1 inf): Radiant Charge https://www.d20pfsrd.com/feats/general-feats/radiant-charge
+    - Lesser: Champion's Prowess (Su)
 
 ## Combat Options
 - Power Attack
@@ -38,13 +44,13 @@
     - Bonus: +5 dmg, +2 dodge to AC, +2 sacred on saves
     - -2 AC vs non-challenged targets
 - Resolve
-    - **Daily**; 3/day: xxx
+    - **Daily**; 3/day: OOO
     - Standard action: Remove fatigued/shaken/sickened
     - Immediate Action: advantage on Fort/Will
     - Immediate Action: stabilize & remain conscious
     - Regain 1 when defeat challenge target
 - Panache
-    - **Daily**; 5/day: OOOOO
+    - **Daily**; 5/day: OOOOx
     - Regain on crit/kill with light/1h piercing melee weapon, monk weapon, or unarmed strike
         - Derring-do
             - No action, spend 1 point
@@ -65,7 +71,7 @@
     - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - **Daily**; 6/day: OOxxxx
+    - **Daily**; 6/day: xxxxxx
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO
@@ -93,23 +99,23 @@
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard
-0. Detect Fiendish Presence
+<!-- 0. Detect Fiendish Presence -->
 <!-- 1. Bestow Planar Infusion -->
-1. Silent Image
+<!-- 1. Silent Image -->
 <!-- 1. Snowball -->
-2. Instant Weapon
+<!-- 2. Instant Weapon -->
 
 ### Hierophant Bonus Spells (Cle/Ora list, cast as divine spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
-0. Guidance
+<!-- 0. Guidance -->
 <!-- 1. Bestow Planar Infusion -->
-1. Cure Light Wounds
-2. Instant Weapon
+<!-- 1. Cure Light Wounds -->
+<!-- 2. Instant Weapon -->
 <!-- 2. Restoration, Lesser -->
-    <!-- 2. Ghostbane Dirge? -->
-    <!-- 2. Holy Ice Weapon? -->
-    <!-- 2. Spiritual Weapon? -->
-    <!-- 2. Magic Weapon? -->
+<!-- 2. Ghostbane Dirge -->
+<!-- 2. Holy Ice Weapon -->
+<!-- 2. Spiritual Weapon -->
+<!-- 2. Magic Weapon -->
 
 ## Achievement Feat Tracker
 ### Graverisen

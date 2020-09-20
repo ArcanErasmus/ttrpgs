@@ -65,9 +65,27 @@
                 - Partisan commoner, Maudet
         2. Feline tail (blue and purple mottled fur)
             - Felines with blue and purple tails are called Pards
+                - Sleek, short fur, built for speed
+                - Blurs (supernatural)?
+                - 6 ft long, 100 lbs (Cheetah-sized)
+                - Carnivores, hunt smaller birds and game
+                - Smarter than common beast, complex social structure
+                - Possess form of telepathy, can communicate with non-Pards in limited capacity
             - Found in the Enchanted Woods
-            - Ench Woods is a city of trees
+            - Ench Woods is a city of MASSIVE trees
+            - Inhabited by Zoogs (dire rat things)
+                - Nasty, taste for flesh, lurk in shadowy areas
+                - Vicious demeanors, smarter than beasts
+                - Tribal societies, favor dreamlands, slip among realities
+                - Shy alone, aggressive ambushes in groups
+                - Can barter with appealing items
+                - Sometimes victims dragged back to ritual sites, to become sacrifices
+                - Eat fungi/plants, sentient beings treated as delicacies
+                - Love eating catlike beings
+                - Telepathic
             - We have ritual for reaching Ench Woods
+            - Nestor Bindley, dude rescued from fey trap
+                - Looking for Calvetta Briks (sp?), his adversary, a big game hunter from ??? (hell knight region of Golarion), poaching denizens as trophies
         3. Skull of ghoul royalty
             - Large communities led by royalty
             - Dread Plateau of Leng, more powerful ghouls inhabit

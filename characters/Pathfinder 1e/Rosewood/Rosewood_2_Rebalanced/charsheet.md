@@ -97,13 +97,13 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 
 - Skill ranks: 20/20
     - 5x(4+0) grand champion
-- Current encumbrance modifiers: -4 ACP, +4 max Dex, x3 run, 35% ASFC, reduced speed + 5 ft
+- Current encumbrance modifiers: -3 ACP, +3 max Dex, x4 run, 35% ASFC
     - Items
-        - *+1 Spiked Tatami-do*: -5 ACP, +3 max Dex, x3 run, 35% ASFC, reduced speed
-        <!-- - Tower Shield: -10 ACP, +2 max Dex, full run, 50% ASFC, normal speed -->
+        - *+1 Spiked Full Plate*: -5 ACP, +1 max Dex, x3 run, 35% ASFC, reduced speed
     - Abilities
-        - Armored Swiftness: +5 ft speed in medium or heavy armor
-        - Armored Flexibility: +1 ACP (max 0) and +1 to max Dex, while in armor
+        <!-- - Armored Swiftness: +5 ft speed in med/hvy armor (max normal) -->
+        - Armored Flexibility: +2 ACP (max 0) and +2 to max Dex, while in armor
+        - Armored Flexibility: normal speed in med/hvy armor
 
 ## Languages, Proficiencies
 - Languages: Common (Southern Imperial), Common (Sealed Garden), Swamp Giant

@@ -81,7 +81,7 @@
 - At lvl 2 & every 4 more
 - +1 Str or Dex or Con, like 4-lvl ability inc
 - Can't choose same twice in a row
-- Chosen: Str
+- Chosen: Con
 
 ### Uncanny Dodge (Ex)
 - No flat-footed
@@ -112,6 +112,7 @@
 - -1 ACP, +1 max Dex
 - Move normal speed in med armor
 - At lvl 9, move normal speed in hvy armor
+- (*Sash of the War Champion* grants +4 to effective lvl for this feature)
 
 # Future Class Features (lvl 6)
 ## Misc
@@ -133,4 +134,4 @@
 
 ### Exercise
 - +1 bonus
-- Can't choose Str
+- Can't choose Con
