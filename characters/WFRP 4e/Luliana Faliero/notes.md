@@ -12,7 +12,7 @@
 
 ## Tartalo
 Dray (Shire Horse), Henchman: Horse - Horse
-(about 5'10"), 2202 lbs, 6 yo, black coat
+5'10", 2202 lbs, 6 yo, black coat, dark brown eyes
 
 Total/Spent XP: 925/925
 ---------------
@@ -22,14 +22,14 @@ Total/Spent XP: 925/925
 |  125 |   0 |   5 | S
 |  125 |   0 |   5 | T
 |------|-----|-----|------
+|  100 |   0 |   1 | Sprinter
+|------|-----|-----|------
 |  125 |   0 |  10 | Cool
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Intuition
 |   50 |   0 |   5 | Outdoor Survival
 |   50 |   0 |   5 | Perception
 |  125 |   0 |  10 | M (Tooth & Hoof)
-|------|-----|-----|------
-|  100 |   0 |   1 | Sprinter
 |------|-----|-----|------
 |  100 |   0 |   1 | Leave Completed Career Rank
 
@@ -53,9 +53,9 @@ Secondary Attributes
 ---------------
 | Att | Max | Cur  |
 |-----|-----|------|
-| W   |  36 | 36
+| W   |  38 | 38
 | M   |   5 |
-| Enc |   ? | 3
+| Enc |  11 | 6
 
 Skills
 ---------------
@@ -97,45 +97,40 @@ Skills
 
 Talents
 ---------------
-Sprinter
-    - Max: SB
+Sprinter (1/SB)
     - Tests: Athletics concerning Running
     - +1 Movement when Running
-Sturdy
-    - Max: SB
+Sturdy (1/SB)
     - Tests: S when lifting
     - Increase Enc by Sturdy level x2
 
 Traits
 ---------------
-Bestial
-    - Run from fire, only Dodge in defence, flee at half Wounds
-Night Vision (as Talent of same name)
-    - Max: IB
+Bestial (1/1)
+    - Run from fire, only Dodge on defence, flee at half Wounds
+Night Vision (as Talent of same name) (1/IB)
     - Tests: Perception in low-light
     - Can see +20 yds per lvl in dark or from light source
-Size (Large)
+Size (Large) (1/1)
     - See rulebook pp. 341
     - Better when fighting
     - Aggression causes Fear
     - Basically wins opposed Strength
     - Double normal Wounds
-Skittish
+Skittish (1/1)
     - +3 Broken if scared by magic or loud noise
-Stride
+Stride (1/1)
     - x1.5 speed when Running
-Trained (Broken)
+Trained (Broken) (1/1)
     - +2d10 Fel, can take other Trained
-Trained (Calm 2)
-    - Max: WPB
+Trained (Calm) (2/WPB)
     - +10 per point to Tests to ignore Skittish panic
-Trained (Drive)
-    - Max: WPB
+Trained (Drive) (1/WPB)
     - Can pull coach/cart/plough/etc
     - Can pull own mass for TB hrs w/o Endurance Test
     - Can pull twice own mass for short hauls of TB minutes
     - +1 TB for this per point in Drive
-Trained (Mount)
+Trained (Mount) (1/1)
     - Can carry rider
 Weapon +SB+3
     - Damage rating for Tooth & Hoof

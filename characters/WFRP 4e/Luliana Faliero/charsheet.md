@@ -12,18 +12,18 @@
 - Party short-term: Begin an organized goal/quest
 - Party long-term: Become a regiment of reknown
 
-## Total/Spent XP: 440/440
+## Total/Spent XP: 440/430
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  125 |   0 |   5 | Ag
 |  125 |   0 |   5 | WP
 |------|-----|-----|------
-|   10 |   0 |   1 | Ride (Horse)
-|   30 |   3 |   5 | Animal Care
-|   10 |   0 |   1 | Evaluate
-|   30 |   3 |   5 | Language (Bretonnian)
-|   20 |   0 |   2 | Lore (Taxes)
 |------|-----|-----|------
+|   10 |   0 |   1 | Ride (Horse)
+|   20 |   3 |   5 | Animal Care
+|   10 |   0 |   1 | Evaluate
+|   20 |   3 |   5 | Language (Bretonnian)
+|   30 |   0 |   3 | Lore (Taxes)
 |------|-----|-----|------
 |  100 |   0 |   1 | Leave Completed Career Rank
 
@@ -31,10 +31,10 @@ To rank up:
 125 - Int 0 -> 5
  40 - Ride (Horse) 1 -> 5
  40 - Evaluate 1 -> 5
- 30 - Lore (Taxes) 2 -> 5
+ 20 - Lore (Taxes) 3 -> 5
 100 - Rank up
 -----
-335 Total
+325 Total
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
@@ -82,7 +82,7 @@ To rank up:
 | C | Evaluate               |  1 | I   | 33 |
 | C | Language (Bretonnian)  |  5 | Int | 48 |
 |   | Lore (Politics)        |  3 | Int | 46 |
-| C | Lore (Taxes)           |  2 | Int | 45 |
+| C | Lore (Taxes)           |  3 | Int | 46 |
 |---|------------------------|----|-----|----|------
 | * | Magic/Blessings        | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
