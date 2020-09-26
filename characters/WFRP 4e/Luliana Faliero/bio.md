@@ -1,6 +1,6 @@
 # Luliana Faliero's Bio & Group Notes
 ## Short Bio
-?
+- Left Remas to pursue not-mercenary company wealth. Among all siblings, given the short end of the stick in terms of family connections. The one that shows the most business sense will inherit the family fortune.
 
 ## Appearance
 - ?
