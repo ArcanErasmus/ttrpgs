@@ -1,5 +1,16 @@
 # Luliana Faliero's Misc Notes
-## [Dray]
+## Contract for the Administration and Payment of the Band of Explorers and Keepers of Peace
+- Members
+    - Overseer: Guillame le Montoun-Fou
+    - Paymaster: Luliana Faliero
+    - Master of the Arts: Dragojev Grigor Zdravko
+    - Quartermaster: Samir Al-Najm
+- Terms of Bond
+    - Distributed Koinage Parts determine relative shares
+    - NO UNIONS
+    - Part of share is paid in ale rations
+
+## Tartalo
 Dray (Shire Horse), Henchman: Horse - Horse
 (about 5'10"), 2202 lbs, 6 yo, black coat
 
@@ -30,10 +41,10 @@ Attributes/Characteristics
 | BS  | -- | -- | -- | -- | -- |
 |^S   | 58 |    |  5 |    | 63 |
 |^T   | 50 |    |  5 |    | 55 |
-| I   | 18 |    |    |    | 18 |
-| Ag  | 10 |    |    |    | 10 |
-| Dex |  5 |    |    |    |  5 |
-| Int | 17 |    |    |    | 17 |
+| I   | 18 |    |    |    |    |
+| Ag  | 10 |    |    |    |    |
+| Dex |  5 |    |    |    |    |
+| Int | 17 |    |    |    |    |
 |^WP  | 32 |    |  5 |    | 37 |
 | Fel | 28 | 15 |    |    | 43 |
 |-----|----|----|----|----|----|
@@ -44,6 +55,7 @@ Secondary Attributes
 |-----|-----|------|
 | W   |  36 | 36
 | M   |   5 |
+| Enc |   ? | 3
 
 Skills
 ---------------
@@ -62,14 +74,17 @@ Skills
 | C | Outdoor Survival       |  5 | Int | 22 |
 | C | Perception             |  5 | I   | 23 |
 |---|------------------------|----|-----|----|------
-| * | Advanced/Grouped       | Ad | Att | Tt | Temp
+| * | Grouped                | Ad | Att | Tt | Temp
+|---|------------------------|----|-----|----|------
+| C | Stealth (?)            |    | Ag  |    |
+|---|------------------------|----|-----|----|------
+| * | Advanced               | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
 |   | Language (Battle)      |    | Int |    |
 |   | Perform (Dressage)     |    | Fel |    |
 | C | Perform (Obedience)    | 10 | Fel | 53 |
 |   | Perform (Show Horse)   |    | Fel |    |
 | C | Perform (Tricks)       |    | Fel |    |
-| C | Stealth (?)            |    | Ag  |    |
 | C | Swim                   | 10 | S   | 73 |
 |---|------------------------|----|-----|----|------
 | * | Magic/Blessings        | Ad | Att | Tt | Temp
@@ -78,6 +93,7 @@ Skills
 | * | Weapon Specs           | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
 | C | M (Tooth & Hoof)       | 10 | WS  | 32 |
+|---|------------------------|----|-----|----|------
 
 Talents
 ---------------
@@ -119,12 +135,10 @@ Trained (Drive)
     - Can pull own mass for TB hrs w/o Endurance Test
     - Can pull twice own mass for short hauls of TB minutes
     - +1 TB for this per point in Drive
-Trained (Pack)
-    - Max: TB
-    - Can carry S encumbrance points per point in Pack
-    - Double per size above Large
-Weapon +9
-    - +X total damage rating for bite/hoofs
+Trained (Mount)
+    - Can carry rider
+Weapon +SB+3
+    - Damage rating for Tooth & Hoof
 
 Horse Career
 ---------------

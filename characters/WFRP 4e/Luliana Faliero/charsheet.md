@@ -1,6 +1,6 @@
 # Luliana Faliero, She
-## Human, Merchant (Burgher), Merchant - Silver 5
-- height, 28 yo, hair, eyes
+## Human, Paymaster (Courtier), Bag Holder - Silver 3
+- 5'11", 28 yo, black, pale gray
 - Nationality: Tilean
 - Birthplace: Remas
 - Religion: Myrmidia
@@ -15,15 +15,26 @@
 ## Total/Spent XP: 440/440
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|  100 |   1 |   5 | Ag
-|   25 |   4 |   5 | WP
-|  125 |   0 |   5 | Fel
+|  125 |   0 |   5 | Ag
+|  125 |   0 |   5 | WP
 |------|-----|-----|------
-|   50 |   0 |   5 | Animal Care
-|   40 |   1 |   5 | Gamble
+|   10 |   0 |   1 | Ride (Horse)
+|   30 |   3 |   5 | Animal Care
+|   10 |   0 |   1 | Evaluate
+|   30 |   3 |   5 | Language (Bretonnian)
+|   20 |   0 |   2 | Lore (Taxes)
 |------|-----|-----|------
 |------|-----|-----|------
 |  100 |   0 |   1 | Leave Completed Career Rank
+
+To rank up:
+125 - Int 0 -> 5
+ 40 - Ride (Horse) 1 -> 5
+ 40 - Evaluate 1 -> 5
+ 30 - Lore (Taxes) 2 -> 5
+100 - Rank up
+-----
+335 Total
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
@@ -33,9 +44,9 @@
 | S   | 25 |    |    |    |    |
 | T   | 29 |    |    |    |    |
 | I   | 32 |    |    |    |    |
-|^Ag  | 34 |  5 |  5 |    | 44 |
+| Ag  | 34 |    |  5 |    | 39 |
 | Dex | 34 |    |    |    |    |
-| Int | 38 |    |    |    |    |
+|^Int | 38 |  5 |    |    | 43 |
 |^WP  | 34 |    |  5 |    | 39 |
 |^Fel | 37 |  5 |  5 |    | 47 |
 
@@ -52,29 +63,38 @@
 ## Skills
 | * | Basic                  | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
-| C | Bribery                |  7 | Fel | 54 |
-| C | Charm                  | 10 | Fel | 57 |
-| C | Consume Alcohol        | 10 | T   | 39 |
-| C | Drive                  | 10 | Ag  | 54 |
-| C | Gamble                 |  5 | Int | 43 |
-| C | Gossip                 | 10 | Fel | 57 |
-| C$| Haggle                 | 10 | Fel | 57 |
+| C$| Bribery                | 10 | Fel | 57 |
+|   | Charm                  |  5 | Fel | 52 |
+|   | Consume Alcohol        |  5 | T   | 34 |
+| C | Drive                  | 10 | Ag  | 49 |
+| C | Gamble                 | 10 | Int | 53 |
+|   | Gossip                 |  5 | Fel | 52 |
+| C | Haggle                 | 10 | Fel | 57 |
 |---|------------------------|----|-----|----|------
-| * | Advanced/Grouped       | Ad | Att | Tt | Temp
+| * | Grouped                | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
-| C | Animal Care            |  5 | Int | 43 |
-|   | Lore (Politics)        |  3 | Int | 41 |
-|   | Sail                   |  3 | Ag  | 47 |
+| C | Ride (Horse)           |  1 | Ag  | 40 |
+|   | Stealth (Any)          |    | Ag  | 29 | -10
+|---|------------------------|----|-----|----|------
+| * | Advanced               | Ad | Att | Tt | Temp
+|---|------------------------|----|-----|----|------
+|   | Animal Care            |  5 | Int | 48 |
+| C | Evaluate               |  1 | I   | 33 |
+| C | Language (Bretonnian)  |  5 | Int | 48 |
+|   | Lore (Politics)        |  3 | Int | 46 |
+| C | Lore (Taxes)           |  2 | Int | 45 |
 |---|------------------------|----|-----|----|------
 | * | Magic/Blessings        | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
 |---|------------------------|----|-----|----|------
 | * | Weapon Specs           | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
+|---|------------------------|----|-----|----|------
 
 ## Languages
 - Tilean: Fluent
 - Reiklander: Fluent
+- Bretonnian: Passable
 
 ## Talents
 ### Dealmaker (1/FelB)
@@ -90,41 +110,41 @@
 - Tests: Gossip with travelers
 - May reverse a failed Gossip Test if it causes a success
 
-### Lightning Reflexes (1/1)
-- +5 starting Agility
-
 ### Read/Write (1/1)
 - Can read and write in all personally known languages
+
+### Savvy (1/1)
+- +5 starting Intelligence
 
 ### Suave (1/1)
 - +5 starting Fellowship
 
-## Merchant Career (Burgher)
-Class Trappings: Cloak, Clothing, Dagger, Hat, Pouch, Sling Bag containing Lunch
+## Paymaster Career (Courtier)
+Class Trappings: Dagger, Fine Clothing, Pouch containing Tweezers, Ear Pick, Comb
 
-Trader - Silver 2
-- Attributes: Ag, WP, Fel
-- Skills: Animal Care, Bribery, Charm, Consume Alcohol, Drive, Gamble, Gossip, Haggle
-- Talents: Blather, Dealmaker, Read/Write, Suave
-- Trappings: Abacus, Mule and Cart, Canvas Tarp, 3d10 Silver
+Bag Holder - Silver 3
+- Attributes: Int, WP, Fel
+- Skills: *Bribery*, Drive, Evaluate, Gamble, Haggle, Language (Any), Lore (Taxes), Ride (Horse)
+- Talents: Briber, Dealmaker, Etiquette (Mercenaries), Sturdy
+- Trappings: Chain Shirt, Contract, 1d10 GC
 
-Merchant - Silver 5
-- Attributes: Int
-- Skills: Evaluate, Intuition, Language (Any), Language (Gilder), Lore (Local), Perception
-- Talents: Briber, Embezzle, Etiquitte (Gilder), Savvy
-- Trappings: Riverboat or 2 Wagons, Guild License, 20 GC
-
-Master Merchant - Gold 1
+Paymaster - Gold 1
 - Attributes: I
-- Skills: Cool, Language (Classical), Navigation, Secret Signs (Guilder)
-- Talents: Cat-tongued, Etiquette (Any), Numismatics, Sharp
-- Trappings: Townhouse with Servants, Warehouse, 100 GC
+- Skills: Charm, Cool, Language (Battle), Lore (Local), Melee (Any), Ranged (Any)
+- Talents: Cardsharp, Embezzle, Nose for Trouble, Suave
+- Trappings: Bodyguards, Breastplate, Courtly Garb, Paychest and Key, 100 GC
 
-Merchant Prince - Gold 3
+Company Treasurer - Gold 2
 - Attributes: WS
-- Skills: Lore (Any), Intimidate
-- Talents: Iron Will, Luck, Schemer, Wealthy
-- Trappings: 2 Riverboats or 4 Wagons, Large Town Estate, 2 Warehouses, 1000 GC, Quality Clothing
+- Skills: Gossip, Intuition, Language (Any), Lore (Any)
+- Talents: Savvy, Schemer, Tower of Memories, Warleader
+- Trappings: Quality Uniform, War Wagon with Horses, 300 GC
+
+Coin King/Queen - Gold 3
+- Attributes: T
+- Skills: Leadership, Lore (Any)
+- Talents: Inspiring, Sharp, Wealthy, Well-prepared
+- Trappings: Elite Bodyguards, Quality Breastplate and Uniform, 1000 GC
 
 ## Tilea Info
 - Skills:
@@ -135,10 +155,10 @@ Merchant Prince - Gold 3
     - Entertain (Storytelling)
     <!-- - Gossip -->5
     - Language (Estalian)
-    - Language (Bretonnian)
+    <!-- - Language (Bretonnian) -->3
     <!-- - Lore (Politics) -->3
     - Lore (City State)
-    <!-- - Sail -->3
+    - Sail
     - Sleight of Hand
 - Talents:
     <!-- - Gregarious -->
