@@ -97,7 +97,7 @@ https://rpg.stackexchange.com/a/62720
 ### Rules
 - Max: 5, Max/Type: 2
 - Abilities available at current lvl:
-    - DR: 3/x max
+    x DR: 3/x max
     - Feat (must meet prereqs)
     - Immunity: Bleed, blindness, charm, deafness, fear, hunger, nausea, shaken, sleep
     - Languages (and communication methods)
@@ -108,8 +108,8 @@ https://rpg.stackexchange.com/a/62720
     x Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
     - Skill: (in entry or had ranks) +2 bonus, count as trained
     - Special Attack: Extraordinary, Supernatural
-    - Speed: 40 ft max; land, swim, climb
-    x Spell Resistance
+    x Speed: 40 ft max; land, swim, climb
+    - Spell Resistance
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
 | Type               | Tier 1 (1-5 HD)    | Tier 2 (6-10 HD)       | Tier 3 (11-15 HD) | Tier 4 (16-20 HD)             |
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
@@ -197,4 +197,21 @@ https://rpg.stackexchange.com/a/62720
         - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
         - Speeds: 100 ft fly (perfect)
         - SR: No
-5. ?
+5. Advanced Atomie (2 lvls rogue, undecided undead template)
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie/
+    - https://www.d20pfsrd.com/bestiary/monster-listings/templates/advanced-creature-cr-1/
+    - Chosen essence: 2/cold iron
+    - Available essences:
+        x DR: 2/cold iron
+        - Feats: Improved Initiative, Weapon Finesse
+        - Immunities: None (undead?)
+        - Languages: Common, Sylvan
+        - Natural Armor: +2
+        - Natural Attacks: None
+        - Phylocrux: Fey, 4 HD (*disguise self*)
+        - Resistances: None
+        - Senses: Low-light vision
+        - Skills: Acrobatics, Bluff, Escape Artist, Fly, Perception, Sense Motive, Stealth
+        - Special Abilities: Evasion (Ex), Fast Stealth (Ex)
+        - Speeds: 20 ft land, 50 ft fly (good)
+        - SR: No

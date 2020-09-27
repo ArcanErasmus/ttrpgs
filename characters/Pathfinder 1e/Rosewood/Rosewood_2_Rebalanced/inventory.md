@@ -19,7 +19,7 @@
 | Bedroll                  |  10    |
 | Blanket                  |   6    |
 | Cardinal's Skull         |   5    | I am bound to protect it
-| Cooking Kit              |  32    | Pot & tripod, skillet, ladle, skewer, cutting board, knife, tinder, simple seasonings
+| Cooking Kit, Masterwork  |  32    | +2 circumstance Craft (Cooking); Pot & tripod, skillet, ladle, skewer, cutting board, knife, tinder, simple seasonings
 | Flint & Steel            |        | Light torch as full-round action
 | Hemp Rope, 50 ft         |  10    | 2hp, Str DC 23
 | Mess Kit                 |   2    | Tin plate, bowl, cup, utensils, on leather loop
@@ -32,7 +32,7 @@
 | Torches (8)              |   6    | 20 ft normal light, 1hr burn
 | Waterskin (2)            |  16    | 2 lbs empty, 8 lbs full (each)
 |--------------------------|--------|--------------------------------
-| **Drugs**                |        | Try not to get too addicted!
+| **Drugs**                |        | Try not to get too addicted! (Minor addictions barely matter)
 |--------------------------|--------|--------------------------------
 | Pesh                     |        | https://www.aonprd.com/Drugs.aspx?ItemName=Pesh +Str, moderate
 | Flayleaf                 |        | https://www.aonprd.com/Drugs.aspx?ItemName=Flayleaf +save vs mind-aff/fatigie, minor

@@ -336,3 +336,23 @@
         - Special Abilities: Steal Skin (Su)
         - Speeds: 30 ft land
         - SR: No
+
+### Underground City
+- Advanced Atomie (2 lvls rogue, undecided undead template)
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie/
+    - https://www.d20pfsrd.com/bestiary/monster-listings/templates/advanced-creature-cr-1/
+    - Chosen essence: ?
+    - Available essences:
+        - DR: 2/cold iron
+        - Feats: Improved Initiative, Weapon Finesse
+        - Immunities: None (undead?)
+        - Languages: Common, Sylvan
+        - Natural Armor: +2
+        - Natural Attacks: None
+        - Phylocrux: Fey, 4 HD (*disguise self*)
+        - Resistances: None
+        - Senses: Low-light vision
+        - Skills: Acrobatics, Bluff, Escape Artist, Fly, Perception, Sense Motive, Stealth
+        - Special Abilities: Evasion (Ex), Fast Stealth (Ex)
+        - Speeds: 20 ft land, 50 ft fly (good)
+        - SR: No

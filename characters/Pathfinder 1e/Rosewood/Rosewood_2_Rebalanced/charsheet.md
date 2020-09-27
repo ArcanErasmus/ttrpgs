@@ -37,6 +37,12 @@ HD rolls (d12): [12], 11, 11, 1, 10
 AC breakdown: -1 size, +2 dex, +10 armor, +2 natural
 https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
 
+## Resistances/Immunities
+- SR: No
+- Immunities: None
+- Resistances: None
+- DR: 2/cold iron
+
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
@@ -61,7 +67,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 |   |   |   | Bluff              | Cha |     |     |
 | 1 |   | C | Climb              | Str | +11 | -4  |
 |   |   | C | Craft              | Int |     |     |
-| 5 |   | C |   Cooking          | Int | +8  |     |
+| 5 |   | C |   Cooking          | Int | +10 |     |
 |   |   |   | Diplomacy          | Cha |     |     |
 |   | T |   | Disable Device     | Dex |     | -4  |
 |   |   |   | Disguise           | Cha |     |     |
