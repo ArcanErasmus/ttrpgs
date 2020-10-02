@@ -12,7 +12,7 @@
 - Party short-term: Begin an organized goal/quest
 - Party long-term: Become a regiment of reknown
 
-## Total/Spent XP: 440/430
+## Total/Spent XP: 440/440
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  125 |   0 |   5 | Ag
