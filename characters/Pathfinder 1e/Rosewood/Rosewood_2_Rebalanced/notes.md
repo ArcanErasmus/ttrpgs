@@ -27,7 +27,7 @@
 - heal ability dmg at double rate
 - allowed fort save to convert drain to dmg
 - drain taken: 0
-- ability dmg healed: 9
+- ability dmg healed: 11
 
 ## Cool Items
 - Mundane Items

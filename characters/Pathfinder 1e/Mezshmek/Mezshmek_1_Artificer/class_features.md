@@ -1,5 +1,5 @@
 # Mezshmek's Class Features
-## Class Features (Artificer)
+## Artificer
 ### Infusions
 - Not spells but similar to spontaneous Int spellcaster
     - Regain after 8 hrs rest, 15 mins concentration

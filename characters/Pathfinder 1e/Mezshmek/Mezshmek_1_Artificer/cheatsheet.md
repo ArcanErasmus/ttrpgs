@@ -1,10 +1,13 @@
 # Mezshmek's Abilities Cheat-sheet
 ## Weapons
-| Weapon    | Atk | Dam   | Crit     | Type | Range | Notes
-|-----------|-----|-------|----------|------|-------|------------
-| Warhammer | +4  | 1d8+1 |    20/x3 | B/P  |       |
-| Touch     | +4  |       |    20/*  |      |       | Touch atk
-| R Touch   | +5  |       |    20/*  |      |       | Touch atk
+| Weapon    | Atk | Dam         | Crit     | Range | Notes
+|-----------|-----|-------------|----------|-------|------------
+| Warhammer | +4  | 1d8+1 (B/P) |    20/x3 |       |
+|-----------|-----|-------------|----------|-------|------------
+| Touch     | +4  |             |    20/*  |       | Touch atk
+| R Touch   | +5  |             |    20/*  |       | Touch atk
+|-----------|-----|-------------|----------|-------|------------
+| Sling     | +4  | 1d4+1 (B)   |    20/x2 | 75 ft | +1 atk & d6 dmg if using bullet
 
 ## Ingenuity
 - Max = artificer lvl + Int mod

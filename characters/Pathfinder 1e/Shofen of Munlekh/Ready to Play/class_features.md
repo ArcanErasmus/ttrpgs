@@ -1,5 +1,5 @@
 # Shofen's Class Features
-## Class Features (Samurai)
+## Samurai
 ### Skirmisher's Challenge (Ex)
 - 2/day, challenge foe within sight as swift action
 - 1st successful melee atk each round deals bonus damage equal to samurai lvl
@@ -57,7 +57,7 @@
 ### Graceful Strike (Ex)
 - When use Weapon Finesse to do Dex to atk and Str to damage, add half class lvl to damage
 
-## Class Features (Medium)
+## Medium
 ### Spellcasting
 - Spontaneous 4-lvl Cha caster, Medium spell list as psychic spells
     - Replace somatic components with emotion, can't cast if under effects of non-harmful [emotion] spell
@@ -92,7 +92,7 @@
 - If died of hp damage, healing works during this period and can bring Medium back to life
 - Once spirit departs, normal "time since death" timers start ticking
 
-## Class Features (Paladin)
+## Paladin
 ### Aura of Good (Ex)
 - Register stronger on *detect good* if worship an aligned deity
 - I worship Pharasma (N), so it doesn't apply
@@ -127,7 +127,7 @@
 - Requires one free hand
 - Can use to damage undead with touch attack, no AoO, no save
 
-## Class Features (Monk)
+## Monk
 ### Bonus Feat
 - At 1st, 2nd, & every 4 after, select bonus style feat or Elemental Fist feat
 - Do not need to meet prereqs of style feats chosen this way

@@ -14,7 +14,7 @@
 |   Line         |     | +50%          |          | x2     | Single target
 |   Burst        |     |               |          | x2     | 10 ft radius burst on impact
 |----------------|-----|---------------|----------|--------|------------
-| Sling          | +5  | 1dd+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
+| Sling          | +5  | 1d4+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
 https://rpg.stackexchange.com/a/62720
 
 ## Mimic Friend

@@ -2,6 +2,7 @@
 ## LG, Dwarf, Artificer 5
 - VMC Wizard, Wood School
     - https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/wood
+- Medium humanoid (dwarf)
 - Devoted to Torag: Father of Creation and Dwarvenkind, God of the Forge
     - https://pathfinderwiki.com/wiki/Torag
     - Burrowing animals are mighty and holy
@@ -35,11 +36,17 @@
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| HP   |  46 |  46 | 0, 0 NL
+| HP   |  55 |  55 | 0, 0 NL
 | Hero |   5 |   5 | 0
 |------|-----|-----|-----------|
-HD rolls (d8): [8], 7, 2, 6, 8
+HD rolls (d8): [8], 7+1, 2+6, 6+2, 8
 AC breakdown: +2 dex, +3 shield, +10 armor
+
+## Resistances/Immunities
+- SR: No
+- Immunities: None
+- Resistances: None
+- DR: None
 
 ## Saves
 | Name | Stat | Bonus | Temp |
@@ -62,85 +69,92 @@ AC breakdown: +2 dex, +3 shield, +10 armor
 - Item (Magnifying Glass): +2 circumstance bonus to Appraise with detailed items
 
 ## Skills
-| # | T | C | Skill              | Sta | Mod | Temp 
-|---|---|---|--------------------|-----|-----|------
-|   |   |   | Acrobatics         | Dex |     | -
-| 1 |   | C | Appraise           | Int | +9  | +2/2*
-|   | T |   | Autohypnosis       | Wis |     | -
-|   |   |   | Bluff              | Cha |     | -
-|   |   |   | Climb              | Str |     | -
-|   |   | C | Craft              | Int |     | See rule_systems
-| 1 |   | C |   Alchemy          | Int | +11 | *
-| 1 |   | C |   Armor            | Int | +11 | *
-|   |   | C |   Baskets          | Int |     | *
-|   |   | C |   Books            | Int |     | *
-| 1 |   | C |   Bows             | Int | +11 | *
-| 1 |   | C |   Calligraphy      | Int | +11 | *
-| 1 |   | C |   Carpentry        | Int | +11 | *
-| 1 |   | C |   Clockwork        | Int | +11 | *
-|   |   | C |   Cloth            | Int |     | *
-|   |   | C |   Clothing         | Int |     | *
-|   |   | C |   Glass            | Int |     | *
-| 1 |   | C |   Jewelry          | Int | +11 | *
-| 1 |   | C |   Leather          | Int | +11 | *
-|   |   | C |   Locks            | Int |     | *
-|   |   | C |   Paintings        | Int |     | *
-|   |   | C |   Pottery          | Int |     | *
-| 1 |   | C |   Sculpture        | Int | +11 | *
-| 1 |   | C |   Ships            | Int | +11 | *
-| 1 |   | C |   Shoes            | Int | +11 | *
-|   |   | C |   Stonemasonry     | Int |     | *
-|   |   | C |   Traps            | Int |     | *
-| 1 |   | C |   Weapons          | Int | +11 | *
-|   |   |   | Diplomacy          | Cha |     | -
-| 1 | T | C | Disable Device     | Dex | +6  | -
-|   |   |   | Disguise           | Cha |     | -
-|   |   |   | Escape Artist      | Dex |     | -
-|   |   | C | Fly                | Dex |     | -
-|   | T |   | Handle Animal      | Cha |     | -
-|   |   |   | Heal               | Wis |     | -
-|   |   |   | Intimidate         | Cha |     | -
-| 5 | T | C | Kn (arcana)        | Int | +13 | -
-|   | T |   | Kn (dungeoneering) | Int |     | -
-| 1 | T | C | Kn (engineering)   | Int | +9  | -
-|   | T |   | Kn (geography)     | Int |     | -
-|   | T |   | Kn (history)       | Int |     | -
-|   | T |   | Kn (local)         | Int |     | -
-|   | T |   | Kn (nature)        | Int |     | -
-|   | T |   | Kn (nobility)      | Int |     | -
-| 5 | T | C | Kn (planes)        | Int | +13 | -
-| 5 | T | C | Kn (psionics)      | Int | +13 | -
-| 5 | T | C | Kn (religion)      | Int | +13 | -
-| 1 | T | C | Linguistics        | Int | +9  | -
-| 1 |   | C | Perception         | Wis | +6  | +2*
-|   |   |   | Perform            | Cha | -1  | -
-|   | T | C | Profession         | Wis |     | +4*
-| 1 | T | C |   Siege Engineer   | Wis | +5  | +4*
-|   |   |   | Ride               | Dex |     | -
-|   |   |   | Sense Motive       | Wis |     | -
-|   | T |   | Sleight of Hand    | Dex |     | -
-| 4 | T | C | Spellcraft         | Int | +12 | -
-|   |   |   | Stealth            | Dex |     | -
-|   |   |   | Survival           | Wis |     | -
-|   |   |   | Swim               | Str |     | -
-| 5 | T | C | Use Magic Device   |(Int)| +17 | -
-|---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: +3 max Dex, -4 ACP, 0% ASFC (30% ignored), normal speed**
-- 47/47
+| # | T | C | Skill              | Sta | Mod | ACP | Temp 
+|---|---|---|--------------------|-----|-----|-----|------
+|   |   |   | Acrobatics         | Dex |     | -4  | -
+| 1 |   | C | Appraise           | Int | +9  |     | +2/2*
+|   | T |   | Autohypnosis       | Wis |     |     | -
+|   |   |   | Bluff              | Cha |     |     | -
+|   |   |   | Climb              | Str |     | -4  | -
+|   |   | C | Craft              | Int |     |     | See rule_systems
+| 1 |   | C |   Alchemy          | Int | +11 |     | *
+| 1 |   | C |   Armor            | Int | +11 |     | *
+|   |   | C |   Baskets          | Int |     |     | *
+|   |   | C |   Books            | Int |     |     | *
+| 1 |   | C |   Bows             | Int | +11 |     | *
+| 1 |   | C |   Calligraphy      | Int | +11 |     | *
+| 1 |   | C |   Carpentry        | Int | +11 |     | *
+| 1 |   | C |   Clockwork        | Int | +11 |     | *
+|   |   | C |   Cloth            | Int |     |     | *
+|   |   | C |   Clothing         | Int |     |     | *
+|   |   | C |   Glass            | Int |     |     | *
+| 1 |   | C |   Jewelry          | Int | +11 |     | *
+| 1 |   | C |   Leather          | Int | +11 |     | *
+|   |   | C |   Locks            | Int |     |     | *
+|   |   | C |   Paintings        | Int |     |     | *
+|   |   | C |   Pottery          | Int |     |     | *
+| 1 |   | C |   Sculpture        | Int | +11 |     | *
+| 1 |   | C |   Ships            | Int | +11 |     | *
+| 1 |   | C |   Shoes            | Int | +11 |     | *
+|   |   | C |   Stonemasonry     | Int |     |     | *
+|   |   | C |   Traps            | Int |     |     | *
+| 1 |   | C |   Weapons          | Int | +11 |     | *
+|   |   |   | Diplomacy          | Cha |     |     | -
+| 1 | T | C | Disable Device     | Dex | +6  | -4  | -
+|   |   |   | Disguise           | Cha |     |     | -
+|   |   |   | Escape Artist      | Dex |     | -4  | -
+|   |   | C | Fly                | Dex |     | -4  | -
+|   | T |   | Handle Animal      | Cha |     |     | -
+|   |   |   | Heal               | Wis |     |     | -
+|   |   |   | Intimidate         | Cha |     |     | -
+| 5 | T | C | Kn (arcana)        | Int | +13 |     | -
+|   | T |   | Kn (dungeoneering) | Int |     |     | -
+| 1 | T | C | Kn (engineering)   | Int | +9  |     | -
+|   | T |   | Kn (geography)     | Int |     |     | -
+|   | T |   | Kn (history)       | Int |     |     | -
+|   | T |   | Kn (local)         | Int |     |     | -
+|   | T |   | Kn (nature)        | Int |     |     | -
+|   | T |   | Kn (nobility)      | Int |     |     | -
+| 5 | T | C | Kn (planes)        | Int | +13 |     | -
+| 5 | T | C | Kn (psionics)      | Int | +13 |     | -
+| 5 | T | C | Kn (religion)      | Int | +13 |     | -
+| 1 | T | C | Linguistics        | Int | +9  |     | -
+| 1 |   | C | Perception         | Wis | +6  |     | +2*
+|   |   |   | Perform            | Cha | -1  |     | -
+|   | T | C | Profession         | Wis |     |     | +4*
+| 1 | T | C |   Siege Engineer   | Wis | +5  |     | +4*
+|   |   |   | Ride               | Dex |     | -4  | -
+|   |   |   | Sense Motive       | Wis |     |     | -
+|   | T |   | Sleight of Hand    | Dex |     | -4  | -
+| 4 | T | C | Spellcraft         | Int | +12 |     | -
+|   |   |   | Stealth            | Dex |     | -4  | -
+|   |   |   | Survival           | Wis |     |     | -
+|   |   |   | Swim               | Str |     | -4  | -
+| 5 | T | C | Use Magic Device   |(Int)| +17 |     | -
+|---|---|---|--------------------|-----|-----|-----|------
+
+- Skill ranks: 47/47
     - 5x(4+4) artificer
     - 2 favored
     - 5 Headband of Vast Intelligence: Kn (psionics)
+- Current encumbrance modifiers: -4 ACP, +3 max Dex, 0% ASFC (30% ignored), normal speed
+    - Items
+        - *+1 Mithral Full Plate*: -4 ACP, +3 max Dex, 15% ASFC
+        - *+1 Heavy Wooden Shield*: 15% ASFC
+    - Abilities
+        - Infusions: No ASFC except from heavy armor and tower shields
+        - Slow and Steady: Speed not reduced by armor or encumbrance
+
+## Languages, Proficiencies
+- Languages: Common (Imperial Elven), Dwarven, Draconic (from headband), Elven, Goblin, Halfling, Humic, Sylvan
+- Weapons:   Simple, Siege Engines (Battleaxes, Crossbows, Firearms, Heavy Picks, Warhammers)
+- Armor:     Light, Medium, Heavy, Shields
 
 ## Favored class bonus
 - (Artificer, Dwarf) 200gp/8 hrs bonus progress with Craft Magical Arms and Armor
 - (Artificer, Dwarf) 400gp/8 hrs bonus progress with Craft Wondrous Items
 - 2 skill ranks
 - 0 hp
-
-## Languages, Proficiencies
-- Languages: Common (Imperial Elven), Dwarven, Draconic (from headband), Elven, Goblin, Halfling, Humic, Sylvan
-- Weapons:   Simple, Siege Engines (Battleaxes, Crossbows, Firearms, Heavy Picks, Warhammers)
-- Armor:     Light, Medium, Heavy, Shields
 
 ## Racial Features
 ### Base Properties

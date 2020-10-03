@@ -11,22 +11,22 @@
 | **Slotted Magic Items**  |  32    | See slots below
 |--------------------------|--------|--------------------------------
 | *Boots of the Cat*       |   1    | Take min fall damage, land on feet
-| *Headband of Vast Int*   |   1    | +2 Int, skill: Kn (psionics), lang: ?
+| *Headband of Vast Int*   |   1    | +2 Int, skill: Kn (psionics), lang: Draconic
 | *+1 Mithral Full Plate*  |  30    | +10 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
 |--------------------------|--------|--------------------------------
 | **Weapons**              |  10    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
 | *+1 Heavy Wooden Shield* |   5    | Darkwood, +3 AC, 15% ASFC
+| Sling                    |        |
 | Warhammer w/ Spike       |   5    | Can do piercing
 |--------------------------|--------|--------------------------------
 | **General**              |   2    | Non-consumable catch-all
 |--------------------------|--------|--------------------------------
 | Holy book of Torag       |   2    | *Hammer and Tongs: The Forging of Metal and Other Good Works*
 |--------------------------|--------|--------------------------------
-| **Tools**                |   9    |
+| **Tools**                |   7    |
 |--------------------------|--------|--------------------------------
 | Arcane Family Workbook   |   3    | Study 1d4 rds/hrs for +2/+4 competence Spellcraft
-| *Hybridization Funnel*   |   2    | 10 min, DC 25 Alchemy, combine two different splash weapons
 | Magic School Compass     |   1    | Masterwork UMD item
 | Magnifying Glass         |   1    | +2 competence Appraise detailed items, full-rd start fire in bright light
 | *Traveler's Any-Tool*    |   2    | +2 competence for most Craft/Profession
@@ -42,9 +42,9 @@
 | *Forgefather's Hammer*   |   2    | See journal entry
 | Adrena's Token           |        | +1 insight Will, Craft, Perform
 |--------------------------|--------|--------------------------------
-| **Coins**                |   1.74 | 70pp 8gp 5sp 4cp
+| **Coins**                |   0.34 | 0pp 8gp 5sp 4cp
 |--------------------------|--------|--------------------------------
-| **Total**                |  73.74 | Medium Load
+| **Total**                |  70.34 | Medium Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

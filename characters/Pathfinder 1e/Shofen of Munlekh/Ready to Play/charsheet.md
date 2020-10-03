@@ -75,6 +75,12 @@
 HD rolls (d10): [10], 5+5, 8+2, 5+5, 7+3, 8+2, 5
 AC breakdown: +4 dex, +5 cha, +2 wis, +1 natural armor, +1 armor
 
+## Resistances/Immunities
+- SR: No
+- Immunities: None
+- Resistances: None
+- DR: None
+
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
@@ -140,20 +146,23 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 |   | C | Swim               | Str | +6  | -
 | 1 | T | C | Use Magic Device   | Cha | +9  | -
 |---|---|---|--------------------|-----|-----|------
-- **Current encumbrance modifiers: no max Dex, no ACP, 5% ASFC, normal speed**
-- 40/40
+
+- Skill ranks: 40/40
     - 5x(4+0) samurai
     - 2x(4+0) monk
-    - 7x1 human
-    - 5x1 favored class
-
-## Favored class bonus
-- 5 skill ranks
+    - 7 human
+    - 5 favored class
+- Current encumbrance modifiers: 0 ACP, no max Dex, x4 run, 5% ASFC, normal speed
+    - Items
+        - Mwk Buckler: 5% ASFC
 
 ## Languages, Proficiencies
 - Languages: Common (Taldan), Aklo
 - Weapons:   Simple, Martial, [katana, kama, naginata, nunchaku, sai, shuriken, siangham, temple sword, wakizashi]
 - Armor:     Light, Medium, Shields
+
+## Favored class bonus
+- 5 skill ranks
 
 ## Racial Features
 ### Base Properties

@@ -1,11 +1,12 @@
 # Shofen's Abilities Cheat-sheet
 ## Weapons
-| Weapon           | Atk    | Dam   | Crit     | Type | Range | Notes
-|------------------|--------|-------|----------|------|-------|------------
-| Mwk Kriegsmesser | +12/+7 | 1d8+5 | 18-20/x2 | S    |       | Deadly
-| Wakizashi        | +11/+6 | 1d6+4 | 18-20/x2 | P/S  |       | Deadly
-| Unarmed          | +11/+6 | 1d6+4 |    20/x2 | B    |       | Monk class features
-| Sling            | +11    | 1d4+2 |    20/x2 | B    | 50 ft |
+| Weapon           | Atk    | Damage      | Crit     | Range | Notes
+|------------------|--------|-------------|----------|-------|------------
+| Mwk Kriegsmesser | +12/+7 | 1d8+5 (S)   | 18-20/x2 |       | Deadly
+| Wakizashi        | +11/+6 | 1d6+4 (P/S) | 18-20/x2 |       | Deadly
+| Unarmed          | +11/+6 | 1d6+4 (B)   |    20/x2 |       | Monk class features
+|------------------|--------|-------------|----------|-------|------------
+| Sling            | +11    | 1d4+2 (B)   |    20/x2 | 50 ft |
 
 ## Spirit Channeling
 - Influence (max 6): OOOOxx
