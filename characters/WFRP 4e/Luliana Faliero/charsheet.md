@@ -27,6 +27,23 @@
 |------|-----|-----|------
 |  100 |   0 |   1 | Leave Completed Career Rank
 
+### TODO LIST
+- Activities
+    - Offload charcoal
+    - Purchase luxury goods
+- Shopping list
+    - bedroll and blanket
+    - tent?
+    - lantern pole, lantern, lamp oil
+- Misc
+    - Get xp
+    - Not gain corruption? (didn't kill for bounty)
+    - Set new short term goal
+    - Horse gets half xp
+    - Remind to give dark whispers
+    - Set bday
+    - Look at calendar for current day
+
 To rank up:
 125 - Int 0 -> 5
  40 - Ride (Horse) 1 -> 5
