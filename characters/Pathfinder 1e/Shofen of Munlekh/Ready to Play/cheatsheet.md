@@ -50,7 +50,7 @@
     - Immediate Action: stabilize & remain conscious
     - Regain 1 when defeat challenge target
 - Panache
-    - **Daily**; 5/day: OOOOx
+    - **Daily**; 5/day: OOOOO
     - Regain on crit/kill with light/1h piercing melee weapon, monk weapon, or unarmed strike
         - Derring-do
             - No action, spend 1 point
@@ -71,7 +71,7 @@
     - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - **Daily**; 6/day: xxxxxx
+    - **Daily**; 6/day: OOOOOO
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO
@@ -94,7 +94,7 @@
 
 ### Spells as Mesmerist (Archmage/Hierophant)
 - **0th**; No daily limit
-- **1st**; 6/day: OOOOOO
+- **1st**; 6/day: Oxxxxx
 - **2nd**; 3/day: OOO
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
@@ -107,10 +107,10 @@
 
 ### Hierophant Bonus Spells (Cle/Ora list, cast as divine spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
-<!-- 0. Guidance -->
+0. Guidance
 <!-- 1. Bestow Planar Infusion -->
-<!-- 1. Cure Light Wounds -->
-<!-- 2. Instant Weapon -->
+1. Cure Light Wounds
+2. Instant Weapon
 <!-- 2. Restoration, Lesser -->
 <!-- 2. Ghostbane Dirge -->
 <!-- 2. Holy Ice Weapon -->

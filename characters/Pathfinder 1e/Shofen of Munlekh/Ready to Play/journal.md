@@ -63,7 +63,7 @@
                 - Influential trader, "posessed of lead feet", Arven Teldriet
                 - Beautiful woman, Lady Ardenta Splinterbone
                 - Partisan commoner, Maudet
-        2. Feline tail (blue and purple mottled fur)
+        2. Feline tail (blue and purple mottled fur) - COMPLETE
             - Felines with blue and purple tails are called Pards
                 - Sleek, short fur, built for speed
                 - Blurs (supernatural)?
@@ -92,10 +92,24 @@
             - DPL is physical place, attaches to dreamlands
             - Area of perpetual battle against royalty
             - We have ritual for reaching Perpetual Battle
-        4. Green stone idol of a water lizard
+       ^4. Green stone idol of a water lizard
         5. Night hag ambassador's heartstone
+            - Worth almost 2000gp on open market as a periapt
+            - Once separated from its owner, normally retains magic for only 1 day before fading into a normal gem
+            - Cavendra's heartstone retains its magic for 1 month
+            - Rumor has it that it can instantly cure any disease the holder has
+            - +2 resistance bonus to all saves
+            - A night hag who loses their heartstone is robbed of many of their magical abilities, including the ability to bind souls
+            - Ambassador to the city of Dylath-Leen, a grim city of basalt and one of the most notorious havens for vices in the Dreamlands
+            - Cavandra has an unnecessarily large retinue of retainers and an insufferably imperious manner
         6. Captain's tricorne
-        7. Red webbed foot
+            - [Voyage of the Rainbow Servant]
+            - Tricorne belongs to a denizen of Leng, named Captain Vadrack
+                - Longship, The Bloodwind: dark wood and red sails
+                - Slave ship, slaves usually never seen from again
+                - Sails in Dreamlands, but can cross planar boundaries
+                - Cpt Vadrack is relentless in pursuing victims
+       ^7. Red webbed foot
 
 ### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory

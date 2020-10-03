@@ -38,10 +38,10 @@
         - If they are unaware entirely: Slight envy, significant pity/empathy
         - If they are in tune with the worlds you are familiar with: Either fear or great respect
         - If they control supernatural powers but do not deal with the occult visibly: Fascination/curiosity, suspicion
-        - If they are aware 
+        - If they are aware ?
     - Catch phrase: ""
     - Drive: Live with honor, protect the people and the world, free trapped souls
-    - Fears: Losing my soul, guilt over my involvement in the sacrifice of Erred's
+    - Fears: Losing my soul, guilt over my involvement in the sacrifice of Erred
 
 ## Ability Scores
 | Stat | Base    | Temp |
