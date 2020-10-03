@@ -4,3 +4,7 @@
     Writhing from the sea
     Streaks of green, screams from ship's crew
     Gleeful scaled hunters
+2. Eulogy for the Enchanted Woods pixies (?)
+    High up in branches
+    Setting traps, laying in wait
+    Tiny tree fey

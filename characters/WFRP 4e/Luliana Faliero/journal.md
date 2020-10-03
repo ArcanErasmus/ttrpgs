@@ -13,7 +13,7 @@
 - 
 
 ## People of Note
-### Greater Ubersreik (Day 1) - 23rd Marktag
+### Greater Ubersreik (Day 1) - Marktag, 23rd Vorgeheim 2512
 - Lady we saved
 - Andreas [?]: Hired investigator, working for Cannonball Express
 

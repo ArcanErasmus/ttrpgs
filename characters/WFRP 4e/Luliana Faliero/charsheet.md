@@ -4,15 +4,15 @@
 - Nationality: Tilean
 - Birthplace: Remas
 - Religion: Myrmidia
-- Star Sign: The Dancer (Adamnos), born ?
+- Star Sign: The Dancer (Adamnos), born 32/6/2483
 - Motivation: Get RICH
 
-- Short-term ambition: ?
+- Short-term ambition: End session with fewer corruption points than start session with
 - Long-term ambition: Overshadow my siblings in accomplishments
-- Party short-term: Begin an organized goal/quest
+- Party short-term: ?
 - Party long-term: Become a regiment of reknown
 
-## Total/Spent XP: 440/440
+## Total/Spent XP: 540/440
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  125 |   0 |   5 | Ag
@@ -36,13 +36,12 @@
     - tent?
     - lantern pole, lantern, lamp oil
 - Misc
-    - Get xp
-    - Not gain corruption? (didn't kill for bounty)
-    - Set new short term goal
+    - Get session xp
+    <!-- - Get goal xp -->
+    - Set party short term goal
     - Horse gets half xp
-    - Remind to give dark whispers
-    - Set bday
-    - Look at calendar for current day
+    - Remind Caoimhe to give dark whispers
+    - It's Luliana's birthday in 9 days!
 
 To rank up:
 125 - Int 0 -> 5
