@@ -89,3 +89,8 @@ Worst: ? Best: ?
 
 ## Notes on background places
 ?
+
+- Family fortune placed in care of trust/family friend/more distant family
+- All children told that the fortune will be inherited by the winner of a challenge
+- Whoever, at the end of 5? 10? years, has the widest network, the grandest reputation, the most wealth, etc., will be named the new head of the family
+- 
