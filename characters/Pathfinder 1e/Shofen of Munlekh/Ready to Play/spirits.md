@@ -83,3 +83,90 @@
 <!-- - Intermediate: Surprise Strike (Su) -->
 <!-- - Greater: Transfer Magic (Su) -->
 <!-- - Supreme: Legendary Trickster (Su) -->
+
+## Legendary
+### Archmage
+
+### Champion
+- Ardril, the Would-Be King
+    - Favor: Defeat 7+ HD [dragon] without aid; Wis check
+    - Influence: Never seek or accept position of power/leadership
+    - Lesser: Challenge (Su)
+        - Cavalier challenge as medium level. Additionally, +2 all saves during challenge, and attacks ignore any DR of challenge target.
+    - Supreme: Death Curse (Su)
+        - Gain any two linnorm death curse rage powers on channel, treating medium lvl as barbarian lvl for prereqs. Benefit from them even when not raging. For each point bonus damage from rage power, deal +1d6 bonus damage instead.
+
+- Gennaris III
+    - Recount oaths of defeating enemies, take oath to master weapons, never retreat from cowardice
+    - Weapon proficiencies
+    - Improved Critical, ignore non-typeless DR
+
+- Psomeira
+    - Defend civilization from senseless violence, attack hostile Huge+ on sight
+    - Morale bonus attack vs bigger creatures
+    - Align weapon (lawful), magic weapon, shield of faith spells
+    - Divine power, greater magic weapon, magic vestment spells
+
+### Guardian
+- Arnisant
+    - Favor: Swear oath to slay any undead you meet, consume a drink made from remains of an undead you killed; Con check
+    - Influence: Protect others from danger when you can, including defeated enemies
+    - Intermediate: Arnisant's Shield (Su)
+        - Give a single shield you wear +1 to its enhancement bonus (or a +1 power if already +5). Once if you would be killed or incapacitated, you can negate a non-damaging effect or leave yourself at 0 hp (or hp before killing blow, if lower). If you do, lose all spirit abilities until next channel, and next channel of Arnisant starts with 1 fewer influence.
+
+### Hierophant
+- Cyricas
+    - Favor: Release an animal unjustly restrained, swear oath to never stand idle while animal is abused; Wis check
+    - Boon: Flanking bonus to atk increases by 2
+    - Influence: Never harm an animal
+    - Lesser: Natural Magic (Su)
+        - As divine surge, except you select spells from the druid list, and use a bit of a sacred plant (like holly) instead of a divine focus.
+    - Intermediate: Princely Allies (Su)
+        - Add appropriate *summon nature's ally* at each spell lvl you can cast. As long as you have exactly 1 creature summoned, it gets Augment Summoning feat benefits.
+    - Greater: Breaking Chains (Su)
+        - As swift action, can spend 1 point influence to get benefits of *freedom of movement* for you and allies within 60 ft for 1 min.
+
+- Kelksiomides
+    - Never bear a grudge, never deal lethal
+    - Spirit bonus to save vs [evil] spells
+    - Druid spells instead of cleric/oracle
+    - Maximized channel positive energy
+
+### Marshal
+- Father of Legends
+    - Compose song/poem about others' heroic event, don't deny allies glory
+    - Bard perform for Str and Con bonus
+    - DR for allies, resist going below 0
+
+- Taldaris
+    - Recognized as leader, interests of many above own
+    - Teamwork feat for self and allies
+    - Spirit surge multiple times per round
+
+- Warmonger
+    - Incite a war or blood feud, never compromise
+    - Spirit surge to AoOs
+    - Some spells per day
+    - Faster inspiring call
+
+### Trickster
+- Beldam I
+    - Favor: Convince someone to place a non-sentient animal in a position of authority, without causing civil unrest or instability, then always consider the consequences of your actions; Cha check
+    - Influence: Take every chance to pull pranks and make jests, except at own expense
+    - Lesser: Princely Humor (Su)
+        - Gain Improved Dirty Trick and Improved Feint feats. When successfully dirty trick, can spend 1 influence to target that opponent with *hideous laughter* as free action that doesn't provoke.
+    - Greater: Atrocious Gift (Su)
+        - Can spend 1 influence as standard action to make melee touch attack. On hit, can transfer one disease or poison from self to target. You are cured of it and target must save or immediately suffer initial effect and suffer normal effects thereafter.
+
+- Twice-Damned Prince
+    - Seek political influence, don't attack unaware foes
+    - Swashbuckler-ey AC bonus, surprise strike vs flanking
+
+
+### Alphabetical
+- Father of Legends
+- Gennaris III
+- Kelksiomides
+- Psomeira
+- Taldaris
+- Twice-Damned Prince
