@@ -1,4 +1,39 @@
 # Shofen's Class Features
+## Medium
+### Spellcasting
+- Spontaneous 4-lvl Cha caster, Medium spell list as psychic spells
+    - Replace somatic components with emotion, can't cast if under effects of non-harmful [emotion] spell
+    - Replace verbal components with thought, concentration DC +10 unless take move action to center self before casting
+    - No material/focus components unless costed
+- At 5th lvl & every 3 after, can swap one known spell for another of same spell lvl
+
+### Channel Self (Su)
+- Each day, can concentrate for 1 hr in seance to channel legend of potential future self
+    - Must channel from appropriate location
+- Gain certain bonuses for 24 hrs
+    - Spirit bonus: +1 +1/4 Medium lvl
+    - Spirit powers: Boon, lesser, intermediate
+- Spirit gains 3 influence over body, max 6
+    - If 3+ influence, -2 initiative & listed spirit penalty, but +4 vs possesion effects & +2 saves vs non-possession mind-affecting
+    - Effects that increase/decrease influence have opposite effect (included in descriptions)
+    - If lose all influence, enter coma for 24 hrs, then reset to 1 influence
+    - Can spend influence for certain powers
+
+### Spirit Surge (Su)
+- After failing d20 roll that was modified by spirit bonus, can spend 1 influence to add to roll
+- Bonus: 1d6
+
+### Shared Seance (Su)
+- Can share seance boon with allies who participate in the seance
+
+### Ease Passage (Su)
+- Take only one negative level from *raise dead*, instead of 2
+
+### Lingering Spirit (Su)
+- If spend 1 influence, spirit lingers for 1 round after death
+- If died of hp damage, healing works during this period and can bring Medium back to life
+- Once spirit departs, normal "time since death" timers start ticking
+
 ## Samurai
 ### Skirmisher's Challenge (Ex)
 - 2/day, challenge foe within sight as swift action
@@ -57,76 +92,6 @@
 ### Graceful Strike (Ex)
 - When use Weapon Finesse to do Dex to atk and Str to damage, add half class lvl to damage
 
-## Medium
-### Spellcasting
-- Spontaneous 4-lvl Cha caster, Medium spell list as psychic spells
-    - Replace somatic components with emotion, can't cast if under effects of non-harmful [emotion] spell
-    - Replace verbal components with thought, concentration DC +10 unless take move action to center self before casting
-    - No material/focus components unless costed
-- At 5th lvl & every 3 after, can swap one known spell for another of same spell lvl
-
-### Channel Self (Su)
-- Each day, can concentrate for 1 hr in seance to channel legend of potential future self
-    - Must channel from appropriate location
-- Gain certain bonuses for 24 hrs
-    - Spirit bonus: +1 +1/4 Medium lvl
-    - Spirit powers: Lesser & seance boon
-- Spirit gains 3 influence over body, max 6
-    - If 3+ influence, -2 initiative & listed spirit penalty, but +4 vs possesion effects & +2 saves vs non-possession mind-affecting
-    - Effects that increase/decrease influence have opposite effect (included in descriptions)
-    - If lose all influence, enter coma for 24 hrs, then reset to 1 influence
-    - Can spend influence for certain powers
-
-### Spirit Surge (Su)
-- After failing d20 roll that was modified by spirit bonus, can spend 1 influence to add to roll
-- Bonus: 1d6
-
-### Shared Seance (Su)
-- Can share seance boon with allies who participate in the seance
-
-### Ease Passage (Su)
-- Take only one negative level from *raise dead*, instead of 2
-
-### Lingering Spirit (Su)
-- If spend 1 influence, spirit lingers for 1 round after death
-- If died of hp damage, healing works during this period and can bring Medium back to life
-- Once spirit departs, normal "time since death" timers start ticking
-
-## Paladin
-### Aura of Good (Ex)
-- Register stronger on *detect good* if worship an aligned deity
-- I worship Pharasma (N), so it doesn't apply
-
-### Bravo's Finesse (Ex)
-- Count as having Weapon Finesse, do all the things it does
-- Can use Cha in place of Int to meet combat feat prereqs
-
-### Detect Chaos (Su)
-- Can use *detect chaos* at-will
-- Can concentrate on single target as move action to learn aura strength as if having studied for 3 rounds
-
-### Bravo's Smite Chaos (Su)
-- 1/day as swift action, choose target to smite
-- If target is chaotic, for all attacks:
-    - Add Cha bonus to atk
-    - Add class lvl to damage
-    - Bypass all DR
-- Bonus damage is doubled for first attack against certain targets
-    - Outsiders with chaotic subtype
-    - Chaotic-aligned dragons
-    - Aberrations
-- Lasts until target is dead or next long rest
-
-### Divine Grace (Su)
-- Add Cha bonus to all saves
-
-### Lay on Hands (Su)
-- 1/2 class lvl + Cha mod per day
-- Heal 1d6/2 class levels
-- Standard action on others, swift action on self
-- Requires one free hand
-- Can use to damage undead with touch attack, no AoO, no save
-
 ## Monk
 ### Bonus Feat
 - At 1st, 2nd, & every 4 after, select bonus style feat or Elemental Fist feat
@@ -163,17 +128,66 @@
 - Gain Toughness as bonus feat
 - Gain +1 natural armor bonus
 
-# Future Class Features (lvl 8)
-## Samurai (lvl 6, favored class)
+## Paladin
+### Aura of Good (Ex)
+- Register stronger on *detect good* if worship an aligned deity
+- I worship Pharasma (N), so it doesn't apply
+
+### Bravo's Finesse (Ex)
+- Count as having Weapon Finesse, do all the things it does
+- Can use Cha in place of Int to meet combat feat prereqs
+
+### Detect Chaos (Su)
+- Can use *detect chaos* at-will
+- Can concentrate on single target as move action to learn aura strength as if having studied for 3 rounds
+
+### Bravo's Smite Chaos (Su)
+- 1/day as swift action, choose target to smite
+- If target is chaotic, for all attacks:
+    - Add Cha bonus to atk
+    - Add class lvl to damage
+    - Bypass all DR
+- Bonus damage is doubled for first attack against certain targets
+    - [Chaotic] outsiders
+    - Chaotic dragons
+    - Aberrations
+- Lasts until target is dead or next long rest
+
+### Divine Grace (Su)
+- Add Cha bonus to all saves
+
+### Lay on Hands (Su)
+- 1/2 class lvl + Cha mod per day
+- Heal 1d6/2 class levels
+- Standard action on others, swift action on self
+- Requires one free hand
+- Can use to damage undead with touch attack, no AoO, no save
+
+### Aura of Courage (Su)
+- Immune to fear
+- Allies w/in 10 ft +4 morale saves vs fear
+- Only functions while alive and conscious
+
+### Divine Health (Ex)
+- Immune to diseases, mundane and magical
+
+### Nimble (Ex)
+- +1 dodge to AC while light/no armor
+
+# Future Class Features (lvl 9)
+## Samurai (lvl 6)
 ### Battle Dance (Ex)
 - Gain Spring Attack as bonus feat
 
-## Medium (lvl 6)
-### Channel Self (Su)
-- Get intermediate spirit power
-
+## Medium (lvl 7, favored class)
 ### Spellcasting
-- +1 1st lvl spell known
+- +1 known cantrip
+- 2 known 2nd lvl
+- 1/day 2nd lvl
+- 1/day 3rd lvl mesmerist-track
+
+### Spirit Warding (Su)
+- +4 saves vs possession, death effects, negative energy
 
 ## Monk (lvl 3)
 ### Fast Movement (Ex)
@@ -187,14 +201,26 @@
 - Gain Swashbuckler deed of the same name
     - While 1+ panache, if hit with appropriate wpn, can Intimidate as swift
 
-## Paladin (lvl 3)
-### Aura of Courage (Su)
-- Immune to fear (but see Cowardly drawback)
-- Allies w/in 10 ft +4 morale saves vs fear
-- Only functions while alive and conscious
+## Paladin (lvl 4)
+### Order of Good (Su)
+- Can spend 1 use lay on hands when using smite chaos to instead smite evil
+    - Cannot have both active at once
+    - Favored targets for smite evil:
+        - [Evil] outsiders
+        - Evil dragons
+        - Undead
 
-### Divine Health (Ex)
-- Immune to diseases, mundane and magical
+### Bravo's Smite Chaos (Su)
+- 2/day
 
-### Nimble (Ex)
-- +1 dodge to AC while light/no armor
+### Lay on Hands (Su)
+- 2+Cha/day
+- 2d6 heal
+
+### Panache and Deeds (Ex)
+- Add paladin lvl to monk lvl for panache
+- Gain deeds:
+    - Menacing swordplay
+    - Opportune parry and riposte
+    - Precise strike
+    - Swashbuckler's initiative

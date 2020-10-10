@@ -222,6 +222,19 @@ You conjure a ball of packed ice and snow that you can throw at a single target 
 | Duration   | 1 min/lvl
 You create a melee weapon sized appropriately for you from opaque force. You are considered proficient with this weapon, which acts in all ways as a masterwork weapon typical of its type. The instant weapon has hardness 20 and the same number of hit points as a typical weapon of its type. As a force effect, it can strike and damage incorporeal creatures. If the instant weapon leaves your hand at any time, the spell ends at the beginning of your next turn.
 
+### Paladin's Sacrifice - abjuration
+|------------|--------------
+| Casting    | 1 immediate action
+| Components | V,DF
+| Range      | close
+| Target     | one creature
+| Duration   | instantaneous
+| Save       | Fort neg (harmless)
+| SR         | yes (harmless)
+You open up a brief but powerful divine conduit between you and another creature, taking on the damage and any other effects that creature suffers. When a creature in range is hit by an attack or fails a saving throw, you can cast this spell and the wounds and/or effects are magically transmitted to you instead of the target. You are affected as if you were hit by the attack or failed the saving throw, taking all the damage and suffering all of the adverse effects. Any resistances or immunities you have are applied normally, but you cannot otherwise reduce or negate the damage or effects in any way.
+
+If you use this spell against an effect that also targets you or includes you in its area, you suffer the effects for both yourself and the target you spared, potentially taking damage or suffering other consequences twice.
+
 ### Restoration, Lesser - conjuration (healing)
 |------------|--------------
 | Casting    | 3 rds

@@ -96,12 +96,16 @@
         5. Night hag ambassador's heartstone
             - Worth almost 2000gp on open market as a periapt
             - Once separated from its owner, normally retains magic for only 1 day before fading into a normal gem
-            - Cavendra's heartstone retains its magic for 1 month
+            - Cavandra's heartstone retains its magic for 1 month
             - Rumor has it that it can instantly cure any disease the holder has
             - +2 resistance bonus to all saves
             - A night hag who loses their heartstone is robbed of many of their magical abilities, including the ability to bind souls
             - Ambassador to the city of Dylath-Leen, a grim city of basalt and one of the most notorious havens for vices in the Dreamlands
             - Cavandra has an unnecessarily large retinue of retainers and an insufferably imperious manner
+            - Assassins?
+                - Almonetta: Patron getting high
+                - Dolfeth: Wallflower but sus, CHAOS
+                - Kafriki: Annoying bard/server
         6. Captain's tricorne
             - [Voyage of the Rainbow Servant]
             - Tricorne belongs to a denizen of Leng, named Captain Vadrack
