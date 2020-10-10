@@ -18,6 +18,7 @@
 - Resolution: denial
     - Fairly socially outcast, had to manipulate way into groups to avoid relentless harassment from others
     - Formed relationship with a man who was also an outcast
+        - Gasparo Sal
         - No friends, traveling with parents, just a small inheritance
     - Traveled with him, selling goods
     - His parents pass away from illness, he takes it hard and falls into serious depression
@@ -44,6 +45,8 @@ Worst: ? Best: ?
 ?
 - Why are you adventuring?
 ?
+
+Luliana is riding in the late evening with her business partner and sorta-boyfriend Gasparo Sal. We are headed through a forest path to Marienberg, and he is driving the cart. We are in the middle of an argument over his depression and drinking, and my harassing him over it, when some beasts? beastmen? bandits? emerge from the treeline. The ambush seems poorly timed, as they are slightly too late to encircle us. Gasparo hands me the reins and moves to fend off the attackers, while Luliana tries to speed us through this mess. As it becomes clear that Gasparo can't hold them off forever, she gives him a shove from behind, toppling him off the cart and leaving him as a sacrificial offering. Luliana rides hard into the night, not stopping until she reaches the shelter of Marienberg.
 
 ## The Party
 - Alex: ?
