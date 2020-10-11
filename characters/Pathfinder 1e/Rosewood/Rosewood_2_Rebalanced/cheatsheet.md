@@ -17,27 +17,6 @@
 | Sling          | +5  | 1d4+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
 https://rpg.stackexchange.com/a/62720
 
-## Mimic Friend
-- https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic/
-- Forms
-    - several variants of ornate statute
-    - several variants of ornate medium-sized urn or vase
-    - ornate Large tower shield
-    - ornate Huge buckler
-    - throne of elderon
-    - the green mother's staff (basketball sized black star sapphire on top)
-        - https://pathfinderwiki.com/wiki/The_Green_Mother
-    - ornate grandfather clock
-    - complicated music box
-    - 1 person carriage
-    - large ornate silver bell
-    - ornate medium armor (solid)
-    - ceremonial [lots of armor mods, for weight] medium fullplate armor (technically wearable)
-        - burnished, deflecting, double plate, jarring, razored, slumbering, vitalguard
-    - starfountain firework https://www.d20pfsrd.com/equipment/weapons/Alchemical-weapons/#TOC-Starfountain-Firework
-    - several ice sculptures
-    - medium wind chimes
-
 ## Abilities
 ### Grab (Ex)
 - Can attempt grapple as free action on hit, no AoO
@@ -90,8 +69,8 @@ https://rpg.stackexchange.com/a/62720
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 13/13hp - empty
-2. 13/13hp - empty
+1. 13/13hp - tumblespark
+2. 13/13hp - kaiju beetle
 
 ## Indulgence Quick Info
 ### Rules
