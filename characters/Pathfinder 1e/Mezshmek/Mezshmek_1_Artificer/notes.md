@@ -157,6 +157,10 @@
     - Pseudodragon https://www.d20pfsrd.com/bestiary/monster-listings/dragons/pseudodragon
     - Wyrm, Calligraphy https://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyrm-calligraphy
 
+## classes/prestige classes
+- brewkeeper https://www.d20pfsrd.com/classes/prestige-classes/other-paizo/a-b/brewkeeper
+    - https://www.aonprd.com/PrestigeClassesDisplay.aspx?ItemName=Brewkeeper
+
 ## what would one level of gunslinger do for me
 - gains
     - base gunslinger

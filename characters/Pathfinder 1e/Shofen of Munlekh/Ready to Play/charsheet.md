@@ -1,5 +1,5 @@
 # Shofen of Munlekh, she
-## LG, Human, Samurai/Medium 5, Paladin/Monk 2
+## LG, Human, Medium/Samurai 5, Monk/Paladin 2, Medium/Paladin 1
 - Samurai Archetypes: Warrior Poet
     - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/warrior-poet-samurai-archetype
 - Medium Archetypes: Reanimated Medium
@@ -48,7 +48,7 @@
 |------|---------|------|
 | STR  | 14 (+2) | -
 | DEX  | 18 (+4) | -
-| CON  |  7 (-2) | -
+| CON  |  8 (-1) | -
 | INT  | 11 (  ) | -
 | WIS  | 14 (+2) | -
 | CHA  | 20 (+5) | -
@@ -57,39 +57,39 @@
 ## Secondary Stats
 | Stat | Value          | Temp |
 |------|----------------|------|
-| AC   | 23 (21 T/23 F) | *
-| BAB  | +7             | -
-| CMB  | +9             | -
-| CMD  | 29             | -
-| Init | +4             | -
+| AC   | 25 (22 T/25 F) | *
+| BAB  | +8             | -
+| CMB  | +10            | -
+| CMD  | 32             | -
+| Init | +4             | -2
 | Spd  | 40/30 ft       | -
 | SnTh | 4              | -
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| Vigr |  65 |  65 | 0, 0 NL
-| Wnds |  21 |  21 |
+| Vigr |  70 |  70 | 0, 0 NL
+| Wnds |  24 |  24 |
 | Snty |  42 |  42 |
 | Hero |   3 |   3 | 0
 |------|-----|-----|-----------|
-HD rolls (d10): [10], 5+5, 8+2, 5+5, 7+3, 8+2, 5
+HD rolls (d10): [10], 5+5, 8+2, 5+5, 7+3, 8+2, 5, 5
 AC breakdown: +4 dex, +5 cha, +2 wis, +1 natural armor, +1 armor
 
 ## Resistances/Immunities
 - SR: No
-- Immunities: None
+- Immunities: Fear, diseases
 - Resistances: None
 - DR: None
 
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +8    | -
-| Ref  | Dex  | +13   | -
-| Will | Wis  | +12   | -
-Fort: 2 + 7x(1/2) + 0x(1/3) = +5
-Ref : 2 + 2x(1/2) + 5x(1/3) = +4
-Will: 2 + 7x(1/2) + 0x(1/3) = +5
+| Fort | Con  | +10   | -
+| Ref  | Dex  | +14   | -
+| Will | Wis  | +13   | -
+Fort: 2 + 8x(1/2) + 0x(1/3) = +6
+Ref : 2 + 2x(1/2) + 6x(1/3) = +5
+Will: 2 + 8x(1/2) + 0x(1/3) = +6
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Trait (Born Under the Stranger): 4 fewer points penalty to feint aberrations
@@ -99,6 +99,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Trait (Harrow Chosen): +2 CL divination if use as focus
 - Feat (Spirit Sense): +5 to detect haunt, affect incorporeal with corporeal effects 75% of time
 - Class Feature (Channel Self): +2 to certain things, see cheatsheet
+- Class Feature (Channel Self): At 3+ influence: -2 init, spirit penalty, +4 saves vs possesion effects, +2 saves vs non-possession [mind-affecting]
 - Item (Tome of Epics): Read to get +2 circumstance Per (oratory, sing), and Kn (nobility) with heroic lineages
 - Item (Neck Guard): +1 armor to AC (stacks with *bracers*) vs attacks targeting throat
 
@@ -111,7 +112,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 |   |   | C | Bluff              | Cha |     | -
 | 1 |   | C | Climb              | Str | +6  | -
 |   |   | C | Craft              | Int |     | -
-| 1 |   | C |   Painting         | Int | +6  | -
+| 6 |   | C |   Painting         | Int | +11 | -
 |   |   | C | Diplomacy          | Cha | +17 | *
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
@@ -134,7 +135,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 | T | C | Linguistics        | Int | +4  | -
 | 4 |   | C | Perception         | Wis | +9  | *
 |   |   | C | Perform            | Cha |     | -
-| 7 |   | C |   Oratory          | Cha | +17 | *
+| 8 |   | C |   Oratory          | Cha | +18 | +2
 |   | T | C | Profession         | Wis |     | -
 | 1 | T | C |   Gardener         | Wis | +8  | -
 | 1 |   | C | Ride               | Dex | +8  | -
@@ -147,11 +148,11 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 | 1 | T | C | Use Magic Device   | Cha | +9  | -
 |---|---|---|--------------------|-----|-----|------
 
-- Skill ranks: 40/40
-    - 5x(4+0) samurai
+- Skill ranks: 46/46
+    - 6x(4+0) medium
     - 2x(4+0) monk
-    - 7 human
-    - 5 favored class
+    - 8 human
+    - 6 favored class
 - Current encumbrance modifiers: 0 ACP, no max Dex, x4 run, 5% ASFC, normal speed
     - Items
         - Mwk Buckler: 5% ASFC
@@ -162,7 +163,7 @@ Will: 2 + 7x(1/2) + 0x(1/3) = +5
 - Armor:     Light, Medium, Shields
 
 ## Favored class bonus
-- 5 skill ranks
+- 6 skill ranks
 
 ## Racial Features
 ### Base Properties

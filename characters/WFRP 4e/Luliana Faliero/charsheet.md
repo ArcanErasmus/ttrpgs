@@ -8,22 +8,23 @@
 - Motivation: Get RICH
 
 - Short-term ambition: End session with fewer corruption points than start session with
-- Long-term ambition: Overshadow my siblings in accomplishments
+- Long-term ambition: ?
 - Party short-term: ?
 - Party long-term: Become a regiment of reknown
 
-## Total/Spent XP: 540/440
+## Total/Spent XP: 640/640
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  125 |   0 |   5 | Ag
+|  100 |   0 |   4 | Int
 |  125 |   0 |   5 | WP
 |------|-----|-----|------
 |------|-----|-----|------
-|   10 |   0 |   1 | Ride (Horse)
+|   50 |   0 |   5 | Ride (Horse)
 |   20 |   3 |   5 | Animal Care
-|   10 |   0 |   1 | Evaluate
+|   50 |   0 |   5 | Evaluate
 |   20 |   3 |   5 | Language (Bretonnian)
-|   30 |   0 |   3 | Lore (Taxes)
+|   50 |   0 |   5 | Lore (Taxes)
 |------|-----|-----|------
 |  100 |   0 |   1 | Leave Completed Career Rank
 
@@ -36,21 +37,15 @@
     - tent?
     - lantern pole, lantern, lamp oil
 - Misc
-    - Get session xp
-    <!-- - Get goal xp -->
     - Set party short term goal
-    - Horse gets half xp
     - Remind Caoimhe to give dark whispers
     - It's Luliana's birthday in 9 days!
 
 To rank up:
-125 - Int 0 -> 5
- 40 - Ride (Horse) 1 -> 5
- 40 - Evaluate 1 -> 5
- 20 - Lore (Taxes) 3 -> 5
+ 25 - Int 4 -> 5
 100 - Rank up
 -----
-325 Total
+125 Total
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
@@ -62,7 +57,7 @@ To rank up:
 | I   | 32 |    |    |    |    |
 | Ag  | 34 |    |  5 |    | 39 |
 | Dex | 34 |    |    |    |    |
-|^Int | 38 |  5 |    |    | 43 |
+|^Int | 38 |  5 |  4 |    | 47 |
 |^WP  | 34 |    |  5 |    | 39 |
 |^Fel | 37 |  5 |  5 |    | 47 |
 
@@ -83,22 +78,22 @@ To rank up:
 |   | Charm                  |  5 | Fel | 52 |
 |   | Consume Alcohol        |  5 | T   | 34 |
 | C | Drive                  | 10 | Ag  | 49 |
-| C | Gamble                 | 10 | Int | 53 |
+| C | Gamble                 | 10 | Int | 57 |
 |   | Gossip                 |  5 | Fel | 52 |
 | C | Haggle                 | 10 | Fel | 57 |
 |---|------------------------|----|-----|----|------
 | * | Grouped                | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
-| C | Ride (Horse)           |  1 | Ag  | 40 |
+| C | Ride (Horse)           |  5 | Ag  | 44 |
 |   | Stealth (Any)          |    | Ag  | 29 | -10
 |---|------------------------|----|-----|----|------
 | * | Advanced               | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
-|   | Animal Care            |  5 | Int | 48 |
-| C | Evaluate               |  1 | I   | 33 |
-| C | Language (Bretonnian)  |  5 | Int | 48 |
-|   | Lore (Politics)        |  3 | Int | 46 |
-| C | Lore (Taxes)           |  3 | Int | 46 |
+|   | Animal Care            |  5 | Int | 52 |
+| C | Evaluate               |  5 | I   | 37 |
+| C | Language (Bretonnian)  |  5 | Int | 52 |
+|   | Lore (Politics)        |  3 | Int | 50 |
+| C | Lore (Taxes)           |  5 | Int | 52 |
 |---|------------------------|----|-----|----|------
 | * | Magic/Blessings        | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
@@ -141,7 +136,7 @@ Class Trappings: Dagger, Fine Clothing, Pouch containing Tweezers, Ear Pick, Com
 Bag Holder - Silver 3
 - Attributes: Int, WP, Fel
 - Skills: *Bribery*, Drive, Evaluate, Gamble, Haggle, Language (Any), Lore (Taxes), Ride (Horse)
-- Talents: Briber, Dealmaker, Etiquette (Mercenaries), Sturdy
+- Talents: Briber, <!-- Dealmaker -->, Etiquette (Mercenaries), Sturdy
 - Trappings: Chain Shirt, Contract, 1d10 GC
 
 Paymaster - Gold 1

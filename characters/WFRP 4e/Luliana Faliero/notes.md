@@ -14,7 +14,7 @@
 Dray (Shire Horse), Henchman: Horse - Horse
 5'10", 2202 lbs, 6 yo, black coat, dark brown eyes
 
-Total/Spent XP: 925/925
+Total/Spent XP: 975/925
 ---------------
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
