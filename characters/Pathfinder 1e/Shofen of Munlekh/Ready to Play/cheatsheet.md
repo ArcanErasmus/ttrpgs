@@ -9,7 +9,7 @@
 | Sling            | +12    | 1d4+2 (B)   |    20/x2 | 50 ft |
 
 ## Spirit Channeling
-- Influence (max 6): OOOOOx
+- Influence (max 6): OOOOxx
 <!-- - **Spirit**: Archmage
     - Bonus (+2): Int checks/skills, Concentration
         - Spirit Surge: 1d6
@@ -61,13 +61,13 @@
 
 ## Combat Options
 - Power Attack
-    - -2 melee atk/CMB, +4/+6 melee dmg
+    - -3 melee atk/CMB, +6/+9 melee dmg
 - Challenge
     - **Daily**, swift action; 2/day: OO
     - Bonus: +5 dmg, +2 dodge to AC, +2 sacred on saves
     - -2 AC vs non-challenged targets
 - Resolve
-    - **Daily**; 3/day: OOO
+    - **Daily**; 3/day: OOx
     - Standard action: Remove fatigued/shaken/sickened
     - Immediate Action: advantage on Fort/Will
     - Immediate Action: stabilize & remain conscious
@@ -94,7 +94,7 @@
     - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - **Daily**; 6/day: OOOOOO
+    - **Daily**; 6/day: OOOOxx
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO
@@ -111,14 +111,14 @@
 | Detect Magic                  | Calm Spirit                   |
 | Detect Psychic Significance   | Identify                      |
 | Grave Words                   | Object Reading                |
-| Light                         | ?                             |
+| Light                         | Psychic Reading               |
 | Read Magic                    |-------------------------------|
 |-------------------------------|
 
 ### Spells as Mesmerist (Archmage/Hierophant)
 - **0th**; No daily limit
-- **1st**; 6/day: OOOOOO
-- **2nd**; 4/day: OOOO
+- **1st**; 6/day: OOOOOx
+- **2nd**; 4/day: OOOx
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard
@@ -133,7 +133,10 @@
 0. Guidance
 <!-- 1. Bestow Planar Infusion -->
 1. Cure Light Wounds
-2. Instant Weapon
+1. Touch of Truthtelling
+2. Aboleth's Lung
+2. Cure Moderate Wounds
+<!-- 2. Instant Weapon -->
 <!-- 2. Restoration, Lesser -->
 <!-- 2. Ghostbane Dirge -->
 <!-- 2. Holy Ice Weapon -->

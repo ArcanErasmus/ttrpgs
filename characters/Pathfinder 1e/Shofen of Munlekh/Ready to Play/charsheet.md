@@ -224,7 +224,7 @@ Will: 2 + 8x(1/2) + 0x(1/3) = +6
 - May feint as a move action
 
 ### Last Rites [lvl 3]
-- Standard action, touch attack vs haunt or undead that has *ressurection* vulnerability
+- Standard action, touch attack vs haunt or undead that has *resurrection* vulnerability
 - Must have identified undead with Kn (religion), or detected haunt
 - Deals 3d6 + 1d6/5 ranks Kn (religion) positive energy damage
 - Usable 1 + 1/5 ranks Kn (religion) per day

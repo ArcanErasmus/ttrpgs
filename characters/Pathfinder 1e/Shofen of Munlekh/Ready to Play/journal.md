@@ -55,7 +55,7 @@
     - Seven different dream realms to gather gifts for the Mad Poet
         1. Viscount's signet ring - COMPLETE
             - Viscount's gala
-            - Pietro Blhhgh? in the dream realm of Celephalis
+            - Pietro **Blhhgh?** in the dream realm of Celephalis
             - City of Celephalis appears frozen in time, despite time passing there
             - Viscount is known for hosting extravagant parties, at the Sunset Waltz
             - Attendees ignore strange happenings at said parties, to not lose the Viscount's favor
@@ -92,8 +92,22 @@
             - DPL is physical place, attaches to dreamlands
             - Area of perpetual battle against royalty
             - We have ritual for reaching Perpetual Battle
-       ^4. Green stone idol of a water lizard
-        5. Night hag ambassador's heartstone
+        4. Green stone idol of a water lizard
+            - Doom Idol of Ib
+            - Books: The Festival of the Snake, The Forgotten Servants, The Weeping Ones
+            - Water Lizard is a representation of Bokrug, one of the Great Old Ones (GOOs)
+            - A Treatise collating GOOs rumors asserts that Bokrug lives in an unnamed lake in Dreamlands
+            - Race of alien creatures founded the city of Ib on the shores of the lake, the idol was central to their worship of Bokrug
+            - Ib was destroyed by humans disgusted by aliens' rites and physi...ogomy?
+            - Folk of Sarnath **?????**
+            - froug bois
+                - age: about 2000-ish
+                - alignment: CE
+                - native lang: Ib (a form of sign language)
+                - race: Ib Shade
+                - religion: Bokrug
+                - place of origin: Ib
+        5. Night hag ambassador's heartstone - COMPLETE
             - Worth almost 2000gp on open market as a periapt
             - Once separated from its owner, normally retains magic for only 1 day before fading into a normal gem
             - Cavandra's heartstone retains its magic for 1 month

@@ -55,22 +55,97 @@
 - CL: 3
 - Slot: none
 - Weight: 2 lbs
-- Price: 10040 gp
+- Price: 8,360 gp
 - Description: This iron blacksmith’s hammer bears designs of Torag’s holy symbol; it is not designed for combat, but the bearer can use it as a Medium light hammer. The owner gains a +5 competence bonus on all Craft skill checks relating to metal items when holding the hammer. If Torag is the owner’s patron, once per day the owner can strike the hammer against another character’s armor or shield to cast *shield other* on that character.
 - Requirements: Craft Wondrous Item, *magic weapon*, *shield other*, *crafter's fortune*
-- Cost: 5020 gp
+- Cost: 4,180 gp
 
 - crafter's fortune constant
-    - 5^2 * 100gp skill bonus
-    - 2500gp final
+    - 5^2 * 100 gp skill bonus
+    - 2,500 gp final
 - shield other 1/day
-    - 2000 x 2 x 3gp use-activated (12000)
+    - 2,000 x 2 x 3 gp use-activated (12,000)
     - x0.2 1/day
     - x0.7 for religion restriction
-    - x1.5 for different secondary ability
-    - 2520gp final
+    - 1,680 gp final
 - slotless
     - x2 price
+
+# Intelligent Magic Item Brainstorming
+- https://www.d20pfsrd.com/magic-items/intelligent-items
+
+## Base Ideas
+- Upgrade *Forgefather's Hammer*
+- Make something for Akundol, give Akundol abilities
+- Upgrade armor or shield
+
+## Upgrade *Forgefather's Hammer*
+### Useful SLAs
+- Lvl 0
+    - *Arcane Mark*
+- Lvl 1
+    - *Expeditious Construction*
+    - *Protection from Chaos/Evil*
+- Lvl 2
+    - *Make Whole*
+- Lvl 3
+    - *Magic Circle Against Chaos/Evil*
+    - *Meld into Stone*
+    - *Stone Shape*
+
+### Powers
+|---------------------------------|---------|--------|-----
+| Power                           | Use     | Cost   | Ego
+|---------------------------------|---------|--------|-----
+| cast lvl 0                      | at will |  1,000 | 1
+| cast lvl 1                      | 3/day   |  1,200 | 1
+| use *magic aura* on self        | at will |  2,000 | 1
+| cast lvl 2                      | 1/day   |  2,400 | 1
+| 5 ranks one skill               | -       |  2,500 | 1
+| sprout limbs 10 ft speed        | at will |  5,000 | 1
+| cast lvl 3                      | 1/day   |  6,000 | 1
+| cast lvl 2                      | 3/day   |  7,200 | 1
+| 10 ranks one skill              | -       | 10,000 | 2
+| change shape one form same size | at will | 10,000 | 2
+| *fly* 30 ft speed               | at will | 10,000 | 2
+| cast lvl 4                      | 1/day   | 11,200 | 2
+| *teleport* self                 | 1/day   | 15,000 | 2
+| cast lvl 3                      | 3/day   | 18,000 | 2
+| cast lvl 4                      | 3/day   | 33,600 | 2
+|---------------------------------|---------|--------|-----
+
+### Minimum Cost Build
+- Intelligent Item Base: +500 gp, 0 Ego
+- Base Magic Item Value (8360 gp): +2 Ego
+- Int/Wis/Cha 10: +0 gp, +0 Ego
+- Alignment: LG or NG
+- Senses: Empathy & 30 ft vision/hearing: +0 gp, +0 Ego
+- Languages: Common
+- Purpose: None
+- Dedicated Powers: None
+- Powers: 0-level spell at will: +1000 gp, +1 Ego
+- Total: +1500 gp, 3 Ego
+
+### Minimum Ego Build
+- As min cost: +1500 gp, 3 Ego
+- Speech: +500 gp
+- 120 ft vision/hearing: +1000 gp
+- Darkvision: +500 gp
+- Up to "2nd lvl spell 3/day": up to +6200 gp
+- Total: +9700 gp, 3 Ego
+
+### Greedy Build
+- Alignment: LG or NG
+- Languages: Common
+- Intelligent Item Base (8360 gp): 500 gp, 2 Ego
+- Int/Wis/Cha 10: free
+- Sense (Empathy): free
+- Sense (120 ft vision/hearing): 1000 gp
+- Sense (Darkvision): 500 gp
+- Communication (Speech): 500 gp
+- Power (*Arcane Mark* at will): 1000 gp, 1 Ego
+<!-- - Purpose: None -->
+<!-- - Dedicated Powers: None -->
 
 # I want a cannon mech
 ## References

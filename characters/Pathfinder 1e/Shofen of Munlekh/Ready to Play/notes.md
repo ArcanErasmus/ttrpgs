@@ -51,6 +51,14 @@
     - Psychic aura identification: *Detect psychic significance*
     - Psychic item identification: *Object reading*
 
+## Spells to Learn
+- Lvl 0:
+- Lvl 1:
+    - Disguise Self
+    - Mindlink
+    - Share Language
+- Lvl 2:
+
 ## Improved Legendary Influence theorycraft
 - Select one feat per spirit, channeling the spirit grants access to feat
     <!-- - Archmage   : Friendly Switch    https://www.d20pfsrd.com/feats/general-feats/friendly-switch -->

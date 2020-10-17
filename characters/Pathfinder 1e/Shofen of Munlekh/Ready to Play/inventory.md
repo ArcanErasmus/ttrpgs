@@ -34,16 +34,17 @@
 | Seance Kit               |   8    | Spirit planchette, candles, magnet, incense
 | Tome of Epics            |   3    | Read 1 hr, 24 hrs +2 circ Pe (ortry, sng), Kn (nblty) of heroic lineages
 |--------------------------|--------|--------------------------------
-| **Supplies/Consumables** |   5    |
+| **Supplies/Consumables** |   6    |
 |--------------------------|--------|--------------------------------
 | Sling Bullets (10)       |   5    |
+| *Incense of Meditation*  |   1    | https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/incense-of-meditation/
 |--------------------------|--------|--------------------------------
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|--------|--------------------------------
 |--------------------------|--------|--------------------------------
 | **Coins**                |   0.6  | 3pp 19gp 7sp 0cp, diamond shard (300 gp sell)
 |--------------------------|--------|--------------------------------
-| **Total**                |  55.6  | Light Load
+| **Total**                |  56.6  | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties

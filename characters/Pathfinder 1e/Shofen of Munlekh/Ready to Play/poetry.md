@@ -9,5 +9,6 @@
     Setting traps, laying in wait
     Tiny tree fey
 3. Eulogy for Cavandra
-    TODO
-
+    Envoy Cavandra
+    Paranoid for a reason
+    Smoked in Dylath-Leen
