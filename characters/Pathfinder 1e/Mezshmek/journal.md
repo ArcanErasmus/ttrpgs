@@ -54,11 +54,11 @@
 - Aura: moderate transmutation
 - CL: 10
 - Slot: none
-- Weight: 2 lbs
-- Price: 9,680 gp
-- Description: This iron blacksmith’s hammer bears designs of Torag’s holy symbol; it is not designed for combat, but the bearer can use it as a Medium light hammer. The owner gains a +5 competence bonus on all Craft skill checks relating to metal items when holding the hammer. Additionally, the owner may press or strike the hammer against a surface to inscribe a symbol on it, as the spell *arcane mark*. If Torag is the owner’s patron, once per week the owner can strike the hammer on an object or construct to cast *greater make whole* on it.
+- Weight: 1.5 lbs
+- Price: 10,180 gp
+- Description: This adamantine blacksmith’s hammer bears designs of Torag’s holy symbol on the head, with a smooth but finely shaped darkwood handle; it is not designed for combat, but the bearer can use it as a Medium light hammer. The owner gains a +5 competence bonus on all Craft skill checks relating to metal items when holding the hammer. Additionally, the owner may press or strike the hammer against a surface to inscribe a symbol on it, as the spell *arcane mark*. If Torag is the owner’s patron, once per week the owner can strike the hammer on an object or construct to cast *greater make whole* on it.
 - Requirements: Craft Wondrous Item, *arcane mark*, *crafter's fortune*, *make whole, greater*
-- Cost: 4,840 gp
+- Cost: 5,340 gp (including 500gp adamantine and hardwood)
 
 - +5 competence some Craft skills constant
     - 5^2 * 100 gp skill bonus

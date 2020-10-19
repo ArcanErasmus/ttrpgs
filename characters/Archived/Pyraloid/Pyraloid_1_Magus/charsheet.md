@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## CN, Ratfolk, Magus 3
 Magus archetypes: Eldritch Archer, Stygian Striker
 ## Appearance & Vital Stats

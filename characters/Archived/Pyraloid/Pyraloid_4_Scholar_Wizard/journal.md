@@ -2,11 +2,11 @@
 ## Backstory
 - child of archivists: parents focused on library-building
     - Corcyra (elf mother) and Papiliona (changeling mother)
-    - settled in Garumna long ago, when it was a more minor trading hub
+    - settled in Segovia long ago, when it was a more minor trading hub
     - for a couple centuries Corcyra has been collecting documents, museum-pieces, and magic items
     - she sells access to research materials for a fee, rent/sell items
     - Papiliona has passed away many decades ago
-    - Corcyra's current loose romantic/business partner is Aureopteri, another elf in Garumna
+    - Corcyra's current loose romantic/business partner is Aureopteri, another elf in Segovia
 - cooperation with thieves guild:
     - at first, they had some friction, with the guild extorting some "fire insurance" money
     - paying for "protection" quickly turned into paying for *actual* protection, to secure the valuable collection
@@ -29,7 +29,7 @@
         - cooperative scroll scribe, then study
     - sort out the town's situation
     - negotiate army clearing out sahuagin base
-- task: acquire a special sword, bring it to Fabricus, the leader of the Garumna thieves' guild
+- task: acquire a special sword, bring it to Fabricus, the leader of the Segovia thieves' guild
     - description: bronze, silver inlay, on the inlay a relief of serpentine creatures being slain, perfect/very good condition
     - progress:
         - sword found, weilded by the tiny kobold crusader Braveheart

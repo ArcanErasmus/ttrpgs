@@ -20,7 +20,7 @@
     - worked with Jass on several occasions
 
 ## Quest Log
-- task: acquire a special sword, bring it to Fabricus, the leader of the Garumna thieves' guild
+- task: acquire a special sword, bring it to Fabricus, the leader of the Segovia thieves' guild
     - description: bronze, silver inlay, on the inlay a releif of serpentine creatures being slain, perfect/very good condition
     - progress:
         - sword found, weilded by the tiny kobold crusader Braveheart

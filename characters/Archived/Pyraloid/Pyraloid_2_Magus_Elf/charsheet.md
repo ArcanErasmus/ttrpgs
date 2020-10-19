@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## TN, Mer-Elf, Magus 3
 - Magus archetypes: Eldritch Archer
 - Devoted to Uttris, Elven God of Seas

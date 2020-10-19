@@ -26,11 +26,11 @@
 ## Backstory
 - child of archivists: parents focused on library-building
     - Corcyra (elf mother) and Papiliona (changeling mother)
-    - settled in Garumna long ago, when it was a more minor trading hub
+    - settled in Segovia long ago, when it was a more minor trading hub
     - for a couple centuries Corcyra has been collecting documents, museum-pieces, and magic items
     - she sells access to research materials for a fee, rent/sell items
     - Papiliona has passed away many decades ago
-    - Corcyra's current loose romantic/business partner is Aureopteri, another elf in Garumna
+    - Corcyra's current loose romantic/business partner is Aureopteri, another elf in Segovia
 - cooperation with thieves guild:
     - at first, they had some friction, with the guild extorting some "fire insurance" money
     - paying for "protection" quickly turned into paying for *actual* protection, to secure the valuable collection
@@ -44,7 +44,7 @@
     - worked with Jass on several occasions
 
 ## Quest Log
-- task: acquire a special sword, bring it to Fabricus, the leader of the Garumna thieves' guild
+- task: acquire a special sword, bring it to Fabricus, the leader of the Segovia thieves' guild
     - description: bronze, silver inlay, on the inlay a releif of serpentine creatures being slain, perfect/very good condition
     - progress:
         - sword found, weilded by the tiny kobold crusader Braveheart
@@ -85,7 +85,7 @@
 ## Loot pile
 - https://docs.google.com/spreadsheets/d/1JwuPfLQV7N6Y17kezKMLLF_m0nUNhUKCo6_CxoXJSz0/edit#gid=0
 - ameteur poetry (aquan)
-- box full of writings and manuscripts from neil o'shaqspeare (magnum opus ghost written by Pyraloid of Garumna)
+- box full of writings and manuscripts from neil o'shaqspeare (magnum opus ghost written by Pyraloid of Segovia)
 - book of rituals, written in aklo
     - 3 day progress on research
 - books:

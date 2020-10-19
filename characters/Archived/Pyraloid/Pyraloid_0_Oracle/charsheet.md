@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## CN, Ratfolk, Oracle 2
 ## Appearance & Vital Stats
 - Size Small, 3'11", 62lbs, Female

@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## TN, Mer-Elf, Apprentice (Scholar/Magus) 1, Magus 2+1, Scholar 1+1
 - Magus archetypes: Eldritch Archer
 - Devoted to Uttris, Elven God of Seas

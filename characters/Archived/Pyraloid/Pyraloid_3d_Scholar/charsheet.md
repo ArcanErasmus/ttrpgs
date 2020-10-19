@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## NG, Mer-Elf, Scholar 4
 - Custom "Rogue" VMC
 - Devoted to Uttris, Elven God of Seas

@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## CN, Ratfolk, Wizard 3
 Wizard archetypes: Poleiheira Adherent
 ## Appearance & Vital Stats

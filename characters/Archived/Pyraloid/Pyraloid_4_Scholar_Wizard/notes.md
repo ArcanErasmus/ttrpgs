@@ -2,7 +2,7 @@
 ## Loot pile
 - https://docs.google.com/spreadsheets/d/1JwuPfLQV7N6Y17kezKMLLF_m0nUNhUKCo6_CxoXJSz0/edit#gid=0
 - ameteur poetry (aquan)
-- box full of writings and manuscripts from neil o'shaqspeare (magnum opus ghost written by Pyraloid of Garumna)
+- box full of writings and manuscripts from neil o'shaqspeare (magnum opus ghost written by Pyraloid of Segovia)
 - book of rituals, written in aklo
     - 3 day progress on research
 - books:

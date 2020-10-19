@@ -1,4 +1,4 @@
-# Pyraloid of Garumna, she
+# Pyraloid of Segovia, she
 ## CN, Ratfolk, Gunslinger 3
 Gunslinger archetypes: Bolt Ace
 ## Appearance & Vital Stats
