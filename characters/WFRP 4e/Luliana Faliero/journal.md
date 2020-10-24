@@ -1,4 +1,4 @@
-# Luliana Faliero's Journal
+# Luliana di Faliero's Journal
 ## Adventure Log
 - Quest: Find evidence of Elicha Hochs' crimes
     - Step 1: Find missing coach, between Blutroch and Bruckthin; Reward: 20 GC
@@ -47,6 +47,8 @@
 ### Enchanter's Shadow
 - In town of Schrabwald
 - "Locals preoccupied with fantastical and sinister philosophies"
+
+### Smith's Son, on the road south of Boganhafen (Day 7)
 - 
 
 ## Places of Note
@@ -63,7 +65,8 @@
 - Enchanter's Shadow
     - In Schrabwald
     - In the "shadow" of Castle Drakenfels
-- 
+- Smith's Son
+    - South of Boganhafen
 
 ## Groups of Note
 - Four Seasons Coaching Company

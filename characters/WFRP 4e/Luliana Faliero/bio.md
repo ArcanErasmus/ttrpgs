@@ -1,4 +1,4 @@
-# Luliana Faliero's Bio & Group Notes
+# Luliana di Faliero's Bio & Group Notes
 ## Short Bio
 - Left Remas with boyfriend to seek opportunity, killed bf after relationship soured, continue to run cart on own. Sought out protection, further opportunity, and to escape the past.
 
@@ -60,29 +60,18 @@ Luliana is riding in the late evening with her business partner and sorta-boyfri
     - Motivation: ?
     - Psychology: ?
     - Background: ?
-- Elijah: ?
-    - (race) (career) who worships (deity)
-    - Born in (location) under the sign of (starsign), (age) yo
-    - Talents: ?
-    - Best Skills: ?
-    - Weaknesses: ?
-    - Languages: ?
-    - Doom: ?
-    - Motivation: ?
-    - Psychology: ?
-    - Background: ?
-- Noa: ?
-    - (race) (career) who worships (deity)
-    - Born in (location) under the sign of (starsign), (age) yo
-    - Talents: ?
-    - Best Skills: ?
-    - Weaknesses: ?
-    - Languages: ?
-    - Doom: ?
-    - Motivation: ?
-    - Psychology: ?
-    - Background: ?
 - Paolo: ?
+    - (race) (career) who worships (deity)
+    - Born in (location) under the sign of (starsign), (age) yo
+    - Talents: ?
+    - Best Skills: ?
+    - Weaknesses: ?
+    - Languages: ?
+    - Doom: ?
+    - Motivation: ?
+    - Psychology: ?
+    - Background: ?
+- Talia: ?
     - (race) (career) who worships (deity)
     - Born in (location) under the sign of (starsign), (age) yo
     - Talents: ?

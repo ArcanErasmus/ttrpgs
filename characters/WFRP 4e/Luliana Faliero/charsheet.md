@@ -1,6 +1,6 @@
-# Luliana Faliero, She
+# Luliana di Faliero, She
 ## Human, Paymaster (Courtier), Bag Holder - Silver 3
-- 5'11", 28 yo, black, pale gray
+- 5'11", 28 yo, 155 lbs, black hair, pale gray eyes
 - Nationality: Tilean
 - Birthplace: Remas
 - Religion: Myrmidia
@@ -10,13 +10,13 @@
 - Short-term ambition: End session with fewer corruption points than start session with
 - Long-term ambition: ?
 - Party short-term: ?
-- Party long-term: Become a regiment of reknown
+- Party long-term: Become a regiment of renown
 
-## Total/Spent XP: 640/640
+## Total/Spent XP: 740/665
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  125 |   0 |   5 | Ag
-|  100 |   0 |   4 | Int
+|  125 |   0 |   5 | Int
 |  125 |   0 |   5 | WP
 |------|-----|-----|------
 |------|-----|-----|------
@@ -42,10 +42,9 @@
     - It's Luliana's birthday in 9 days!
 
 To rank up:
- 25 - Int 4 -> 5
 100 - Rank up
 -----
-125 Total
+100 Total
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
@@ -57,7 +56,7 @@ To rank up:
 | I   | 32 |    |    |    |    |
 | Ag  | 34 |    |  5 |    | 39 |
 | Dex | 34 |    |    |    |    |
-|^Int | 38 |  5 |  4 |    | 47 |
+|^Int | 38 |  5 |  5 |    | 48 |
 |^WP  | 34 |    |  5 |    | 39 |
 |^Fel | 37 |  5 |  5 |    | 47 |
 
@@ -68,7 +67,7 @@ To rank up:
 | F/F |   4 | OOOO
 | R/R |   2 | OO
 | M   |   4 |
-| Cor |   5 | 0
+| Cor |   5 | 2
 | Sin |     | 0
 
 ## Skills
@@ -89,11 +88,11 @@ To rank up:
 |---|------------------------|----|-----|----|------
 | * | Advanced               | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------
-|   | Animal Care            |  5 | Int | 52 |
+|   | Animal Care            |  5 | Int | 53 |
 | C | Evaluate               |  5 | I   | 37 |
-| C | Language (Bretonnian)  |  5 | Int | 52 |
-|   | Lore (Politics)        |  3 | Int | 50 |
-| C | Lore (Taxes)           |  5 | Int | 52 |
+| C | Language (Bretonnian)  |  5 | Int | 53 |
+|   | Lore (Politics)        |  3 | Int | 51 |
+| C | Lore (Taxes)           |  5 | Int | 53 |
 |---|------------------------|----|-----|----|------
 | * | Magic/Blessings        | Ad | Att | Tt | Temp
 |---|------------------------|----|-----|----|------

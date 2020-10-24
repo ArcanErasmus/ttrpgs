@@ -1,4 +1,4 @@
-# Luliana Faliero's Gear & Magic
+# Luliana di Faliero's Gear & Magic
 ## Inventory
 ### Armor
 | Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
@@ -43,16 +43,17 @@
 | **Cart**                 | xxx | xxx | Cart capacity: 7/25
 |--------------------------|-----|-----|--------------------------------
 | Paychest with Keys       |   2 |     | Locks to cart, have 2 keys
+|   Coinage                |     |     | 25 GC
 |   Contract               |     |     |
 | Canvas Tarp              |   1 |     |
-| Keg (2)                  |   4 |     |
+| Cask of Diluted Bugman's |   2 |     | 10 gal capacity; 9 gal of 2:1 cheap swill to XXXXXX
 |--------------------------|-----|-----|--------------------------------
 | **Tartalo (Dray)**       | xxx | xxx | See notes.md
 |--------------------------|-----|-----|--------------------------------
 | Saddle and Harness       |   4 |   3 |
 | Saddlebags               |   4 |   3 | Carries 8
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 7GC 20/11
+| **Coins**                |     |     | 2GC 20/11
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   1 |
 

@@ -1,20 +1,21 @@
-# Luliana Faliero's Misc Notes
-## Contract for the Administration and Payment of the Band of Explorers and Keepers of Peace
+# Luliana di Faliero's Misc Notes
+## Contract for the Administration and Payment of the Band of Explorers and Keepers of Peace Known as the Good Shepherds
 - Members
     - Overseer: Guillame le Montoun-Fou
-    - Paymaster: Luliana Faliero
-    - Master of the Arts: Dragojev Grigor Zdravko
+    - Paymaster: Luliana di Faliero
     - Quartermaster: Samir Al-Najm
+    - ~~Master of the Arts: Dragojev Grigor Zdravko~~ RELEASED FROM CONTRACT
+    - Scholar: Cythara of Mackenstein
 - Terms of Bond
     - Distributed Koinage Parts determine relative shares
     - NO UNIONS
     - Part of share is paid in ale rations
 
-## Tartalo
-Dray (Shire Horse), Henchman: Horse - Horse
+## Tartalo, he
+Dray (Shire Horse), NPC: Horse - Horse
 5'10", 2202 lbs, 6 yo, black coat, dark brown eyes
 
-Total/Spent XP: 975/925
+Total/Spent XP: 1025/925
 ---------------
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
