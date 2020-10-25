@@ -133,7 +133,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 ### Bonus Racial Traits (3 RP)
 - Massive Girth: One size larger (worse) for Stealth
 - Fast: +10 ft BLS
-- Hold Breath: Can hold breath for 4x Con mod rds before at risk
+- Hold Breath: Can hold breath for 4x Con score rds before at risk
 - Static Bonus Feat: Longshanks
 
 ## Traits & Drawbacks

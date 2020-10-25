@@ -64,7 +64,7 @@ https://rpg.stackexchange.com/a/62720
 ## Stomach Quick Info
 ### Rules
 - 12 AC, 13 hp
-- Size Medium capacity
+- Size Large capacity
 - 3d6+7 (B) + 3d4+5 (Acid)
 - 1d4 hrs to heal if cut up
 

@@ -74,23 +74,23 @@ Whether it saw Rosewood as the strongest - or merely the weakest willed - is not
 Table: Gestalt - Gourmand, Grand Champion; Large character
 | lv || BAB            | For | Ref | Wil || Maw | Acid | In | B || A | E | D | P | T || Abilities
 |----||----------------|-----|-----|-----||-----|------|----|---||---|---|---|---|---||-----------
-|  1 ||             +1 |  +2 |  +2 |  +0 || 1d8 |  1d4 |  1 | x ||   |   |   |   |   || Gourmand's Maw, Regurgitate, Digestion, Favored Weapon Group, Prowess
+|  1 ||             +1 |  +2 |  +2 |  +0 || 1d8 |  1d4 |  1 | x ||   |   |   |   |   || Gourmand's Maw (Medium), Regurgitate, Digestion, Favored Weapon Group, Prowess
 |  2 ||             +2 |  +3 |  +3 |  +0 || 1d8 |  1d4 |  2 |   || x | x |   |   |   || Taste, Uncanny Dodge
 |  3 ||             +3 |  +3 |  +3 |  +1 || 1d8 |+ 2d4 |  3 |   ||   |   | x |   |   || Armored Swiftness
 |  4 ||             +4 |  +4 |  +4 |  +1 ||+2d6 |  2d4 |  4 | x || x |   |   |   |   ||
-|* 5 ||             +5 |  +4 |  +4 |  +1 || 2d6 |+ 3d4 |  5 |   ||   |   |   | x | x ||
+|* 5 ||             +5 |  +4 |  +4 |  +1 || 2d6 |+ 3d4 |  5 |   ||   |   |   | x | x || Gourmand's Maw (Large)
 |  6 ||          +6/+1 |  +5 |  +5 |  +2 || 2d6 |  3d4 |  6 |   || x | x |   |   |   ||
 |  7 ||          +7/+2 |  +5 |  +5 |  +2 || 2d6 |+ 4d4 |  7 | x ||   |   | x |   |   ||
 |  8 ||          +8/+3 |  +6 |  +6 |  +2 ||+2d8 |  4d4 |  8 |   || x |   |   |   |   ||
 |  9 ||          +9/+4 |  +6 |  +6 |  +3 || 2d8 |+ 5d4 |  9 |   ||   |   |   |   | x ||
-| 10 ||         +10/+5 |  +7 |  +7 |  +3 || 2d8 |  5d6 | 10 | x || x | x |   | x |   || Empowered Digestion 1
+| 10 ||         +10/+5 |  +7 |  +7 |  +3 || 2d8 |  5d6 | 10 | x || x | x |   | x |   || Empowered Digestion 1, Gourmand's Maw (Huge)
 | 11 ||     +11/ +6/+1 |  +7 |  +7 |  +3 || 2d8 |+ 6d6 | 11 |   ||   |   | x |   |   || Powerful Build
 | 12 ||     +12/ +7/+2 |  +8 |  +8 |  +4 ||+3d6 |  6d6 | 12 |   || x |   |   |   |   ||
 | 13 ||     +13/ +8/+3 |  +8 |  +8 |  +4 || 3d6 |+ 7d6 | 13 | x ||   |   |   |   | x ||
 | 14 ||     +14/ +9/+4 |  +9 |  +9 |  +4 || 3d6 |  7d6 | 14 |   || x | x |   |   |   ||
-| 15 ||     +15/+10/+5 |  +9 |  +9 |  +5 || 3d6 |+ 8d6 | 15 |   ||   |   | x | x |   || Empowered Digestion 2
+| 15 ||     +15/+10/+5 |  +9 |  +9 |  +5 || 3d6 |+ 8d6 | 15 |   ||   |   | x | x |   || Empowered Digestion 2, Gourmand's Maw (Gargantuan)
 | 16 || +16/+11/ +6/+1 | +10 | +10 |  +5 ||+3d8 |  8d6 | 16 | x || x |   |   |   |   ||
 | 17 || +17/+12/ +7/+2 | +10 | +10 |  +5 || 3d8 |+ 9d6 | 17 |   ||   |   |   |   | x ||
 | 18 || +18/+13/ +8/+3 | +11 | +11 |  +6 || 3d8 |  9d6 | 18 |   || x | x |   |   |   ||
 | 19 || +19/+14/ +9/+4 | +11 | +11 |  +6 || 3d8 |+10d6 | 19 | x ||   |   | x |   |   ||
-| 20 || +20/+15/+10/+5 | +12 | +12 |  +6 ||+4d8 | 10d6 | 20 |   || x |   |   | x |   || The World's A Feast, Indestructible
+| 20 || +20/+15/+10/+5 | +12 | +12 |  +6 ||+4d8 | 10d6 | 20 |   || x |   |   | x |   || The World's A Feast, Indestructible, Gourmand's Maw (Colossal)
