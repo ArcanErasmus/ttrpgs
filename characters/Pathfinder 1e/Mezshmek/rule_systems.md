@@ -1,9 +1,9 @@
 # Mezshmek's Rules Notes
 ## craft skill breakdown
 ### check bonus
-#### base
+#### base (artistry or craft)
 - +5 intelligence bonus
-- +1 trait bonus glory of old
+- +1 trait bonus spark of creation
 - +1 insight bonus adrena's token
 total: +7
 
@@ -52,8 +52,7 @@ total: +(ranks+3)
 ### buying/selling
 - mundane crafting cost is 33.33% (1/3rd) price
 - magical crafting cost is 47.5% (19/40ths) price
-- purchase at 95% price, sell at 55% price
-    - doesn't affect crafting time
+
 
 # alternate rule systems
 - Unchained Alignment and Removing Alignment https://www.d20pfsrd.com/alignment-description/additional-rules#TOC-Variant-Alignment-Rules-Unchained-Variant-

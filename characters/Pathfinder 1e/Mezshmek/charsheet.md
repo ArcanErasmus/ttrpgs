@@ -25,21 +25,22 @@
 17 14 13 12 10 8
 
 ## Secondary Stats
-| Stat | Value          | Temp |
-|------|----------------|------|
+| Stat | Value          | Temp      |
+|------|----------------|-----------|
 | AC   | 25 (12 T/23 F) | -
 | BAB  | +3             | -
 | CMB  | +4             | -
 | CMD  | 16             | +4*
 | Init | +2             | -
 | Spd  | 20/15 ft       | -
-|------|-----|-----|----|------|
-| Stat | Max | Cur | Temp      |
-|------|-----|-----|-----------|
-| HP   |  55 |  55 | 0, 0 NL
-| Hero |   5 |   5 | 0
-|------|-----|-----|-----------|
-HD rolls (d8): [8], 7+1, 2+6, 6+2, 8
+|------|---------|------|-----------|
+| Stat | Max     |  Cur | Temp      |
+|------|---------|------|-----------|
+| Vigr |      40 |   40 | 0
+| Wnds |   32/16 |   32 | 0
+| Hero |       5 |    5 | 0
+|------|---------|------|-----------|
+Vigor rolls (d8): [8], 7+1, 2+6, 6+2, 8
 AC breakdown: +2 dex, +3 shield, +10 armor
 
 ## Resistances/Immunities
@@ -64,86 +65,98 @@ AC breakdown: +2 dex, +3 shield, +10 armor
 - Race (Dwarf): +2 bonus on Perception checks to notice unusual stonework
 - Race (Dwarf): +2 racial bonus to saves vs spells/SLA and poison
 - Trait (Glory of Old): +1 trait bonus to saves vs spells/SLA and poison
-- Class Feature (Back-Channel Merchant): Bonus to Appraise to determine value of common item equal to 1/2 lvl, min +1
+- Class Feature (Trapfinding): Bonus to Perception to detect traps equal to  1/2 artificer lvl, min +1
 - Item (Forgefather's Hammer): +5 competence bonus to Craft checks relating to metal items
 - Item (Magnifying Glass): +2 circumstance bonus to Appraise with detailed items
 
 ## Skills
-| # | T | C | Skill              | Sta | Mod | ACP | Temp 
+| # | T | C | Adventuring Skills | Sta | Mod | ACP | Temp
 |---|---|---|--------------------|-----|-----|-----|------
 |   |   |   | Acrobatics         | Dex |     | -4  | -
-| 1 |   | C | Appraise           | Int | +9  |     | +2/2*
 |   | T |   | Autohypnosis       | Wis |     |     | -
 |   |   |   | Bluff              | Cha |     |     | -
 |   |   |   | Climb              | Str |     | -4  | -
-|   |   | C | Craft              | Int |     |     | See rule_systems
-| 1 |   | C |   Alchemy          | Int | +11 |     | *
-| 1 |   | C |   Armor            | Int | +11 |     | *
-|   |   | C |   Baskets          | Int |     |     | *
-|   |   | C |   Books            | Int |     |     | *
-| 1 |   | C |   Bows             | Int | +11 |     | *
-| 1 |   | C |   Calligraphy      | Int | +11 |     | *
-| 1 |   | C |   Carpentry        | Int | +11 |     | *
-| 1 |   | C |   Clockwork        | Int | +11 |     | *
-|   |   | C |   Cloth            | Int |     |     | *
-|   |   | C |   Clothing         | Int |     |     | *
-|   |   | C |   Glass            | Int |     |     | *
-| 1 |   | C |   Jewelry          | Int | +11 |     | *
-| 1 |   | C |   Leather          | Int | +11 |     | *
-|   |   | C |   Locks            | Int |     |     | *
-|   |   | C |   Paintings        | Int |     |     | *
-|   |   | C |   Pottery          | Int |     |     | *
-| 1 |   | C |   Sculpture        | Int | +11 |     | *
-| 1 |   | C |   Ships            | Int | +11 |     | *
-| 1 |   | C |   Shoes            | Int | +11 |     | *
-|   |   | C |   Stonemasonry     | Int |     |     | *
-|   |   | C |   Traps            | Int |     |     | *
-| 1 |   | C |   Weapons          | Int | +11 |     | *
 |   |   |   | Diplomacy          | Cha |     |     | -
-| 1 | T | C | Disable Device     | Dex | +6  | -4  | -
+| 5 | T | C | Disable Device     | Dex | +12 | -4  | -
 |   |   |   | Disguise           | Cha |     |     | -
 |   |   |   | Escape Artist      | Dex |     | -4  | -
 |   |   | C | Fly                | Dex |     | -4  | -
-|   | T |   | Handle Animal      | Cha |     |     | -
 |   |   |   | Heal               | Wis |     |     | -
 |   |   |   | Intimidate         | Cha |     |     | -
 | 5 | T | C | Kn (arcana)        | Int | +13 |     | -
 |   | T |   | Kn (dungeoneering) | Int |     |     | -
-| 1 | T | C | Kn (engineering)   | Int | +9  |     | -
-|   | T |   | Kn (geography)     | Int |     |     | -
-|   | T |   | Kn (history)       | Int |     |     | -
 |   | T |   | Kn (local)         | Int |     |     | -
 |   | T |   | Kn (nature)        | Int |     |     | -
-|   | T |   | Kn (nobility)      | Int |     |     | -
 | 5 | T | C | Kn (planes)        | Int | +13 |     | -
 | 5 | T | C | Kn (psionics)      | Int | +13 |     | -
 | 5 | T | C | Kn (religion)      | Int | +13 |     | -
-| 1 | T | C | Linguistics        | Int | +9  |     | -
-| 1 |   | C | Perception         | Wis | +6  |     | +2*
-|   |   |   | Perform            | Cha | -1  |     | -
-|   | T | C | Profession         | Wis |     |     | +4*
-| 1 | T | C |   Siege Engineer   | Wis | +5  |     | +4*
+| 1 |   | C | Perception         | Wis | +6  |     | +2,+2*
 |   |   |   | Ride               | Dex |     | -4  | -
 |   |   |   | Sense Motive       | Wis |     |     | -
-|   | T |   | Sleight of Hand    | Dex |     | -4  | -
-| 4 | T | C | Spellcraft         | Int | +12 |     | -
+| 5 | T | C | Spellcraft         | Int | +13 |     | -
 |   |   |   | Stealth            | Dex |     | -4  | -
 |   |   |   | Survival           | Wis |     |     | -
 |   |   |   | Swim               | Str |     | -4  | -
 | 5 | T | C | Use Magic Device   |(Int)| +17 |     | -
 |---|---|---|--------------------|-----|-----|-----|------
+| # | T | C | Background Skills  | Sta | Mod | ACP | Temp
+|---|---|---|--------------------|-----|-----|-----|------
+| 1 |   | C | Appraise           | Int | +9  |     | +2*
+|   |   | C | Artistry           | Int |     |     | -
+| 2 |   | C |   Lecture          | Int | +12 |     | -
+|   |   | C | Craft              | Int |     |     | See rule_systems
+| 1 |   | C |   Alchemy          | Int | +11 |     | *
+| 1 |   | C |   Armor            | Int | +11 |     | *
+| 1 |   | C |   Bows             | Int | +11 |     | *
+| 1 |   | C |   Calligraphy      | Int | +11 |     | *
+| 1 |   | C |   Carpentry        | Int | +11 |     | *
+| 1 |   | C |   Clockwork        | Int | +11 |     | *
+| 1 |   | C |   Jewelry          | Int | +11 |     | *
+| 1 |   | C |   Leather          | Int | +11 |     | *
+| 1 |   | C |   Sculpture        | Int | +11 |     | *
+| 1 |   | C |   Ships            | Int | +11 |     | *
+| 1 |   | C |   Shoes            | Int | +11 |     | *
+| 1 |   | C |   Weapons          | Int | +11 |     | *
+|   | T |   | Handle Animal      | Cha |     |     | -
+| 1 | T | C | Kn (engineering)   | Int | +9  |     | -
+|   | T |   | Kn (geography)     | Int |     |     | -
+|   | T |   | Kn (history)       | Int |     |     | -
+|   | T |   | Kn (nobility)      | Int |     |     | -
+| 1 | T | C | Linguistics        | Int | +9  |     | -
+|   | T | C | Lore               | Int |     |     | -
+| 1 | T | C |   Int. Magic Items | Int | +9  |     | -
+| 1 | T | C |   Dwarven History  | Int | +9  |     | -
+| 1 | T | C |   Imperial Army    | Int | +9  |     | -
+| 1 | T | C |   Dorstan Wiz Col  | Int | +9  |     | -
+|   |   |   | Perform            | Cha | -1  |     | -
+|   | T | C | Profession         | Wis |     |     | +4*
+| 1 | T | C |   Siege Engineer   | Wis | +5  |     | +4*
+|---|---|---|--------------------|-----|-----|-----|------
 
-- Skill ranks: 47/47
+- Skill ranks: 57 total, 36 Adv, 21/10 Bg
     - 5x(4+4) artificer
     - 2 favored
     - 5 Headband of Vast Intelligence: Kn (psionics)
+    - 10 BG Skills system
 - Current encumbrance modifiers: -4 ACP, +3 max Dex, 0% ASFC (30% ignored), normal speed
     - Items
-        - *+1 Mithral Full Plate*: -4 ACP, +3 max Dex, 15% ASFC
+        - *+1 Mithral Full Plate*: -4 ACP, +3 max Dex, 15% ASFC, reduced speed
         - *+1 Heavy Wooden Shield*: 15% ASFC
     - Abilities
         - Infusions: No ASFC except from heavy armor and tower shields
         - Slow and Steady: Speed not reduced by armor or encumbrance
+
+- Craft Skill Options
+    - Baskets
+    - Books
+    - Cloth
+    - Clothing
+    - Glass
+    - Locks
+    - Paintings
+    - Pottery
+    - Stonemasonry
+    - Traps
 
 ## Languages, Proficiencies
 - Languages: Common (Imperial Elven), Dwarven, Draconic (from headband), Elven, Goblin, Halfling, Humic, Sylvan

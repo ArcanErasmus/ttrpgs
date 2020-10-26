@@ -29,7 +29,7 @@
 - Can substitute other requirements as normal, but not caster/manifester lvl (which is artificer lvl)
 
 ### Artisan Bonus
-- Bonus to UMD checks equal to 1/2 artificer level (min +1)
+- Bonus to UMD checks equal to 1/2 artificer lvl (min +1)
 
 ### Bonus Feats
 - Gain item creation feats for free at certain lvls, regardless of prereqs
@@ -54,6 +54,10 @@
 - Pool equal to artificer lvl + Int mod, refreshes when regaining infusions
 - Can spend on certain class features
 - Can also spend a point to increase Touch range infusion to Close range (does not stack with other sources that alter infusion range)
+
+### Trapfinding
+- Bonus to Perception to locate traps, and to DD, equal to 1/2 artificer lvl (min +1)
+- Can disable magic traps with Disable Device
 
 ### Back-Channel Merchant (Ex)
 - Add 1/2 lvl to Appraise to determine value of common item (min +1)
