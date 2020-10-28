@@ -277,6 +277,7 @@
     - Boots of Flawless Resolve https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-flawless-resolve
     - Boots of Gusto https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-gusto
     - Boots of Levitation https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed
+    * Boots of the Cat https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-cat
     - Boots of the Earth https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-earth
     - Boots of the Mastodon https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-mastodon
     - Rebuilder's Boots https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-rebuilders

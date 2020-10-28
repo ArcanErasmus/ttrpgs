@@ -27,7 +27,7 @@
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | 25 (12 T/23 F) | -
+| AC   | 23 (12 T/21 F) | -
 | BAB  | +3             | -
 | CMB  | +4             | -
 | CMD  | 16             | +4*
@@ -41,7 +41,7 @@
 | Hero |       5 |    5 | 0
 |------|---------|------|-----------|
 Vigor rolls (d8): [8], 7+1, 2+6, 6+2, 8
-AC breakdown: +2 dex, +3 shield, +10 armor
+AC breakdown: +2 dex, +2 shield, +9 armor
 
 ## Resistances/Immunities
 - SR: No
@@ -140,8 +140,8 @@ AC breakdown: +2 dex, +3 shield, +10 armor
     - 10 BG Skills system
 - Current encumbrance modifiers: -4 ACP, +3 max Dex, 0% ASFC (30% ignored), normal speed
     - Items
-        - *+1 Mithral Full Plate*: -4 ACP, +3 max Dex, 15% ASFC, reduced speed
-        - *+1 Heavy Wooden Shield*: 15% ASFC
+        - Mithral Full Plate: -4 ACP, +3 max Dex, 15% ASFC, reduced speed
+        - Heavy Wooden Shield: 15% ASFC
     - Abilities
         - Infusions: No ASFC except from heavy armor and tower shields
         - Slow and Steady: Speed not reduced by armor or encumbrance

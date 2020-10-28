@@ -2,21 +2,20 @@
 ## Item List
 | Name                     | Weight | Notes
 |--------------------------|--------|--------------------------------
-| **Worn Equipment**       |   7    | On body only
+| **Worn Equipment**       |  37    | On body only
 |--------------------------|--------|--------------------------------
 | Backpack, Masterwork     |   2    | Silkweave, +1 Str for carrying capacity
 | Explorer's Outfit        |   3    | Silkweave
 | Component Pouch          |   2    |
+| Mithral Full Plate       |  30    | +9 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
 |--------------------------|--------|--------------------------------
-| **Slotted Magic Items**  |  32    | See slots below
+| **Slotted Magic Items**  |   1    | See slots below
 |--------------------------|--------|--------------------------------
-| *Boots of the Cat*       |   1    | Take min fall damage, land on feet
 | *Headband of Vast Int*   |   1    | +2 Int, skill: Kn (psionics), lang: Draconic
-| *+1 Mithral Full Plate*  |  30    | +10 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
 |--------------------------|--------|--------------------------------
 | **Weapons**              |  10    | Includes ammo, related items
 |--------------------------|--------|--------------------------------
-| *+1 Heavy Wooden Shield* |   5    | Darkwood, +3 AC, 15% ASFC
+| Mwk Heavy Wooden Shield  |   5    | Darkwood, +2 AC, 15% ASFC
 | Sling                    |        |
 | Warhammer w/ Spike       |   5    | Can do piercing
 |--------------------------|--------|--------------------------------
@@ -42,9 +41,9 @@
 | *Forgefather's Hammer*   |   2    | See journal entry
 | Adrena's Token           |        | +1 insight Will, Craft, Perform
 |--------------------------|--------|--------------------------------
-| **Coins**                |   0.34 | 0pp 8gp 5sp 4cp
+| **Coins**                |   0.86 | 28pp 1gp 6sp 8cp
 |--------------------------|--------|--------------------------------
-| **Total**                |  70.34 | Medium Load
+| **Total**                |  69.86 | Medium Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties
@@ -65,13 +64,13 @@
 - Neck      -
 - Chest     -
 - Body      -
-- Armor     - +1 Mithral Full Plate
+- Armor     -
 - Belt      -
 - Wrists    -
 - Hands     -
 - Ring 1    -
 - Ring 2    -
-- Feet      - Boots of the Cat
+- Feet      -
 
 ## Loot pile
 | 11 | 11000  | +1 trident
@@ -94,3 +93,14 @@ total: 256.6 lbs items -> 64.15 lbs reagents; 26,600gp value
     - Braveheart (& Nenarn): 5600/5600
     - Adrena: 5600/5600
     - Cas-Mar (& Ziggy): 5600/5600
+
+
+## Adrena budget
+- +1 spell storing studded leather (leaf-themed)
+    - 4k * .475 = 1.9k, +175/3 = +58.67 = 1958.67
+- corset of delicate moves
+    - 2k * .475 = 950
+- headband of inspired wisdom +2
+    - 4k * .475 = 1.9k
+
+4808.67/10.5k

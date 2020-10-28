@@ -19,7 +19,7 @@ total: +7
 - +2 racial bonus craftsman
 
 #### metal
-- +5 competence *forgefather's hammer*
+- +4 competence *forgefather's hammer*
 
 #### any ranks
 - +3 untyped bonus class skill
