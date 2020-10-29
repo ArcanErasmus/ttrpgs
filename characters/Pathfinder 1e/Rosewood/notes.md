@@ -142,16 +142,15 @@
         - Gastric Prison
 - lvl 4
     - Awesome Blow https://www.d20pfsrd.com/feats/monster-feats/awesome-blow
-    - Mobile Fortress https://www.d20pfsrd.com/feats/combat-feats/mobile-fortress-combat
     <!-- - Improved Natural Attack https://www.d20pfsrd.com/feats/monster-feats/improved-natural-attack -->
 - lvl 5
     - Beastly Belch
 - lvl 6
     - Eldritch Claws https://www.d20pfsrd.com/feats/combat-feats/eldritch-claws
     - Hungry Vortex (also costs an indulgence)
-        - Precise Vortex
         - Voracious Vortex
             - Food Chain
+        - Precise Vortex
     - Chomp and Chew
 - lvl 7
     - Greater Appetite
@@ -205,71 +204,232 @@
 
 ## Mythic Options
 - Paths
-    - Archmage https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/archmage
-    * Champion https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/champion
-    ? Dragon Sovereign http://www.pathfindercommunity.net/elghinn-lightbringer-s-emporium/mythic-paths/dragon-sovereign
-        - Dragon Mount http://www.pathfindercommunity.net/elghinn-lightbringer-s-emporium/mythic-paths/dragon-sovereign/dragon-mount
-        - Dragonrider steed choices https://www.d20pfsrd.com/classes/3rd-party-classes/rogue-genius-games/dragonrider/#Steed_Choices
-    ? Godhunter https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-other-publishers/godhunter
-    * Guardian https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/guardian
-        - Drasteia
-    - Hierophant https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant
-        - Drasteia
-    - Marshal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/marshal
-        - Namah, Bhalthu
-    ? Medium (Mind Over Matter Book 1 - Psion & Soulknife.pdf)
-        - Ability: Hive Mind
+    <!-- - Archmage https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/archmage -->
+    - Champion https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/champion
+        - Ability
+            <!-- - Distant Barrage -->
+            - Fleet Charge
+            - Sudden Attack
         - Tier 1
-            - Adamantine Mind
-            - Focused Recovery
-            - Foretell the Blow
-            - Levitation Blockade
-            * Mind Over Magic
-            - Sharpen the Mind, Hone the Blade
-            - Soothing Words
-            * Total Awareness
+            - Aerial Assault
+            - Always a Chance
+            <!-- - Always Armed -->
+            <!-- - Armor Master -->
+            <!-- - Backlash -->
+            <!-- - Blowback -->
+            - Burst Through
+            <!-- - Clean Blade -->
+            - Climbing Master
+            <!-- - Crusader -->
+            - Devastating Smash
+            <!-- - Endless Hatred -->
+            <!-- - Ever Ready -->
+            - Flash of Rage
+            - Impossible Speed
+            - Imprinting Hand
+            - Juggernaut
+            - Lesson Learned
+            <!-- - Limitless Range -->
+            <!-- - Meat Shield -->
+            <!-- - Mounted Maniac -->
+            <!-- - Mule's Strength -->
+            <!-- - Mythic Ki -->
+            <!-- - Mythic Rage -->
+            <!-- - Mythic Smite -->
+            <!-- - Mythic Weapon Training -->
+            - Punishing Blow
+            <!-- - Sniper's Riposte -->
+            - Sunder Storm
+            - Swimming Master
+            <!-- - Tear Apart -->
+            <!-- - Titan's Bane -->
+            <!-- - Uncanny Grapple -->
+            <!-- - Wall Smasher -->
         - Tier 3
-            - Cerebral Grip
-            - Pierce the Veil
-            - Psychic Tsunami
-            - Reading the Resting Body
-    - Trickster https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/trickster
-        - Namah, Bhalthu
+            - Destroyer
+            - Disabling Strike
+            - Elemental Fury
+            - Fleet Warrior
+            <!-- - Groundshaker -->
+            <!-- - Incredible Parry -->
+            - Maneuver Expert
+            <!-- - Master Grappler -->
+            - Maximized Critical
+            - Mighty Hurler
+            - Penetrating Damage
+            <!-- - Precision -->
+            <!-- - Titan's Rage -->
+            <!-- - To the Death -->
+            - Unstoppable Shot
+        - Tier 6
+            - Critical Master
+            <!-- - Fistfull of Daggers -->
+            - Perfect Strike
+            <!-- - Seven-League Leap -->
+            - Shatter Spells
+            - Sweeping Strike
+        - Tier 10
+            - Legendary Champion
+    - Guardian https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/guardian
+        - Ability
+            - Absorb Blow
+            <!-- - Beast's Fury -->
+            - Sudden Block
+        - Tier 1
+            <!-- - Adamantine Mind -->
+            - Additional Call
+            - Affliction Resistance
+            <!-- - Armor Master -->
+            - Armored Might
+            <!-- - Avenging Maneuver -->
+            <!-- - Borrow Elements -->
+            - Burst Through
+            - Draw Fire
+            - Empathic Healing
+            <!-- - Ever Ready -->
+            - Fast Healing
+            - Guardian's Shout
+            <!-- - Immovable -->
+            - Imprinting Hand
+            - Indefatigable Traveler
+            - Irrepressible Soul
+            <!-- - Knowledgeable Guardian -->
+            - Lesson Learned
+            <!-- - Mule's Strength -->
+            <!-- - Mythic Companion -->
+            <!-- - Mythic Mercy -->
+            <!-- - Pack Wild Shape -->
+            <!-- - Partial Transformation -->
+            - Quick Recovery
+            <!-- - Raise Animal -->
+            <!-- - Ranged Disarm -->
+            <!-- - Relentless Healing -->
+            <!-- - Retributive Reach -->
+            <!-- Sacrificial Shield -->
+            - Supreme Tracker
+        - Tier 3
+            - Cage Enemy
+            - Dimensional Grappler
+            <!-- - Drive Back -->
+            <!-- - Earth Protection -->
+            - Impervious Body
+            <!-- - Impervious Companion -->
+            <!-- - Incredible Parry -->
+            - Mighty Hurler
+            - Parry Spell
+            <!-- - Possess Companion -->
+            <!-- - Shrug It Off -->
+            <!-- - To the Death -->
+            <!-- - Turn the Tables -->
+            - Uncanny Adaptability
+        - Tier 6
+            - Cling to Life
+            <!-- - Companion Power -->
+            - Impassable
+            - Indomitable
+            - Invincible Stand
+            - Mythic Resolve
+            - Shield of the Martyr
+            - Stasis
+            - Take the Hit
+            - Unbreakable Resilience
+        - Tier 10
+            - True Defender
+    <!-- - Hierophant https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant -->
+    <!-- - Marshal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/marshal -->
+    <!-- - Trickster https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/trickster -->
+- 3pp Paths
+    <!-- - Dragon Sovereign http://www.pathfindercommunity.net/elghinn-lightbringer-s-emporium/mythic-paths/dragon-sovereign -->
+    - Godhunter https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-other-publishers/godhunter
+        - Ability
+            - Swallow Prayer
+            - Gather Detria
+            <!-- - Godbane -->
+        - Tier 1
+            - Additional Devouring
+            - Anchoring Blow
+            <!-- - Aura of Anathema -->
+            <!-- - Blight of the Blessed -->
+            - Brew Vitae
+            <!-- - Channel Siphon -->
+            - Consume Detria
+            - Defiant Soul
+            - Defensive Consumption
+            - Diminishing Divinity
+            - Diverted Divinity
+            <!-- - Enslaved Reliquary -->
+            <!-- - Faith of the False God -->
+            - Harvest Soulflesh
+            - Hostile Empathy
+            - Infuse Detria
+            - Lasting Detria
+            <!-- - Leech Lifeforce -->
+            <!-- - Miracles Made Lies -->
+            <!-- - Psychic Consumption -->
+            <!-- - Relentless Disbelief -->
+            - Shared Hunting
+            <!-- - Shattered Dominion -->
+            <!-- - Sin Eater -->
+            <!-- - Soaked in Miracles -->
+            - Stolen Dominion
+            - Skin of Blasphemy
+            - Take Mercy
+        - Tier 3
+            - Broken Sanctuary
+            <!-- - Burn Detria -->
+            <!-- - Cups Overflowing -->
+            - Dominion Denied
+            - Evoke Detria
+            <!-- - Flock of the False -->
+            - Hungry Zeal
+            <!-- - Lasting Dominion -->
+            - Residual Energy
+            - Token of Hunger
+            - Zealotry
+        - Tier 6
+            - Greater Detria
+            <!-- - Forge of Broken Prayers -->
+            - Shard of Heaven
+            - Skin of Miracles
+            - True Detria
+        - Tier 10
+            - Godslayer
     - Universal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
         - 1st Tier
-            - Commune with Power (Su)
-            - Display of Charisma (Su)
+            <!-- - Commune with Power (Su) -->
+            <!-- - Display of Charisma (Su) -->
             - Display of Constitution (Su)
             - Display of Dexterity (Su)
-            - Display of Intelligence (Su)
+            <!-- - Display of Intelligence (Su) -->
             - Display of Strength (Su)
-            - Display of Wisdom (Su)
+            <!-- - Display of Wisdom (Su) -->
             - Extra Mythic Feat (Ex)
             - Extra Mythic Power (Su)
             - Legendary Item (Ex)
             - Longevity (Su)
-            - Mythic Craft (Ex)
-            - Mythic Spellcasting (Ex)
+            <!-- - Mythic Craft (Ex) -->
+            <!-- - Mythic Spellcasting (Ex) -->
             - Mythic Sustenance (Su)
-            - Pierce the Darkness (Sp)
+            <!-- - Pierce the Darkness (Sp) -->
         - 3rd Tier
-            - Binding Ritual (Su)
+            <!-- - Binding Ritual (Su) -->
             - Beyond Morality (Ex)
-            - Divine Source (Su)
+            <!-- - Divine Source (Su) -->
             - Enhanced Ability (Ex)
-            - Fearless (Su)
-            - Interplanar Prestige (Ex, Sp)
-            - Pure Body (Su)
+            <!-- - Fearless (Su) -->
+            <!-- - Interplanar Prestige (Ex, Sp) -->
+            <!-- - Pure Body (Su) -->
             - Pure Destiny (Su)
             - Pure Senses (Su)
-            - Sleepless (Su)
+            <!-- - Sleepless (Su) -->
             - Ultimate Versatility (Ex)
             - Unchanging (Su)
         - 6th Tier
             - Farwalker (Sp)
             - Mythic Presence (Su)
             - Mythic Sight (Sp)
-            - Tongues (Sp)
+            <!-- - Tongues (Sp) -->
+
 - Feats
     - No Prerequisites
         - Mythic Paragon https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-paragon-mythic
@@ -300,3 +460,23 @@
     - Unstoppable Strike
     * Unyielding
     * Upgradable
+
+
+
+
+    ? Medium (Mind Over Matter Book 1 - Psion & Soulknife.pdf)
+        - Ability: Hive Mind
+        - Tier 1
+            - Adamantine Mind
+            - Focused Recovery
+            - Foretell the Blow
+            - Levitation Blockade
+            * Mind Over Magic
+            - Sharpen the Mind, Hone the Blade
+            - Soothing Words
+            * Total Awareness
+        - Tier 3
+            - Cerebral Grip
+            - Pierce the Veil
+            - Psychic Tsunami
+            - Reading the Resting Body
