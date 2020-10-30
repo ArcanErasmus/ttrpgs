@@ -338,6 +338,41 @@
     <!-- - Hierophant https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant -->
     <!-- - Marshal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/marshal -->
     <!-- - Trickster https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/trickster -->
+    - Universal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
+        - 1st Tier
+            <!-- - Commune with Power (Su) -->
+            <!-- - Display of Charisma (Su) -->
+            - Display of Constitution (Su)
+            - Display of Dexterity (Su)
+            <!-- - Display of Intelligence (Su) -->
+            - Display of Strength (Su)
+            <!-- - Display of Wisdom (Su) -->
+            - Extra Mythic Feat (Ex)
+            - Extra Mythic Power (Su)
+            - Legendary Item (Ex)
+            - Longevity (Su)
+            <!-- - Mythic Craft (Ex) -->
+            <!-- - Mythic Spellcasting (Ex) -->
+            - Mythic Sustenance (Su)
+            <!-- - Pierce the Darkness (Sp) -->
+        - 3rd Tier
+            <!-- - Binding Ritual (Su) -->
+            - Beyond Morality (Ex)
+            <!-- - Divine Source (Su) -->
+            - Enhanced Ability (Ex)
+            <!-- - Fearless (Su) -->
+            <!-- - Interplanar Prestige (Ex, Sp) -->
+            <!-- - Pure Body (Su) -->
+            - Pure Destiny (Su)
+            - Pure Senses (Su)
+            <!-- - Sleepless (Su) -->
+            - Ultimate Versatility (Ex)
+            - Unchanging (Su)
+        - 6th Tier
+            - Farwalker (Sp)
+            - Mythic Presence (Su)
+            - Mythic Sight (Sp)
+            <!-- - Tongues (Sp) -->
 - 3pp Paths
     <!-- - Dragon Sovereign http://www.pathfindercommunity.net/elghinn-lightbringer-s-emporium/mythic-paths/dragon-sovereign -->
     - Godhunter https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-other-publishers/godhunter
@@ -394,42 +429,289 @@
             - True Detria
         - Tier 10
             - Godslayer
-    - Universal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
-        - 1st Tier
-            <!-- - Commune with Power (Su) -->
-            <!-- - Display of Charisma (Su) -->
-            - Display of Constitution (Su)
-            - Display of Dexterity (Su)
-            <!-- - Display of Intelligence (Su) -->
-            - Display of Strength (Su)
-            <!-- - Display of Wisdom (Su) -->
-            - Extra Mythic Feat (Ex)
-            - Extra Mythic Power (Su)
-            - Legendary Item (Ex)
-            - Longevity (Su)
-            <!-- - Mythic Craft (Ex) -->
-            <!-- - Mythic Spellcasting (Ex) -->
-            - Mythic Sustenance (Su)
-            <!-- - Pierce the Darkness (Sp) -->
-        - 3rd Tier
-            <!-- - Binding Ritual (Su) -->
-            - Beyond Morality (Ex)
-            <!-- - Divine Source (Su) -->
-            - Enhanced Ability (Ex)
-            <!-- - Fearless (Su) -->
-            <!-- - Interplanar Prestige (Ex, Sp) -->
-            <!-- - Pure Body (Su) -->
-            - Pure Destiny (Su)
-            - Pure Senses (Su)
-            <!-- - Sleepless (Su) -->
-            - Ultimate Versatility (Ex)
-            - Unchanging (Su)
-        - 6th Tier
-            - Farwalker (Sp)
-            - Mythic Presence (Su)
-            - Mythic Sight (Sp)
-            <!-- - Tongues (Sp) -->
-
+    - Bound http://spheresofpower.wikidot.com/path-of-the-bound
+        - Ability
+            - Eldritch Wish
+            - Painful Brand
+            - Step Between
+            - Wardpact
+        - Tier 1
+            - Blink
+            - Bound Aspect
+            <!-- - Chained Bondage -->
+            <!-- - Claim My Soul -->
+            <!-- - Contract -->
+            <!-- - Cooperative Caster -->
+            <!-- - Curse-Bearer -->
+            <!-- - Destiny's Tool -->
+            <!-- - Dream Trader -->
+            - Empathic Healing
+            <!-- - Exorcist -->
+            <!-- - Fast Bargainer -->
+            <!-- - Flash of Omniscience -->
+            <!-- - Greater Familiar Link -->
+            <!-- - Headless Horseman -->
+            - Heirloom
+            - Incarnation
+            <!-- - Inspired Advice -->
+            <!-- - Knowledgeable Guardian -->
+            <!-- - Menacing Presence -->
+            - My Soul Is Not My Own
+            <!-- - Mythic Companion -->
+            <!-- - Mythic Hex -->
+            <!-- - Mythic Spiritualist -->
+            <!-- - None of Your Busines -->
+            <!-- - Oathbound -->
+            <!-- - Out of Time -->
+            <!-- - Patron's Mark -->
+            - Patron's Protection
+            <!-- - Quick Call -->
+            <!-- - Secrets of the Multiverse -->
+            <!-- - Share Power -->
+            <!-- - Sinister Seduction -->
+            <!-- - Spirit Versatility -->
+            - Stigmata
+            <!-- - Temporary Binding -->
+            <!-- - They Made Me Do It -->
+            <!-- - Trade Magic -->
+            <!-- - Truthspeaker -->
+            - Unspeakable Name
+        - Tier 3
+            <!-- - Alignment Insight -->
+            - Binding Counter
+            <!-- - Contractual Obligation -->
+            <!-- - Cursed Scorn -->
+            <!-- - Don't Cross Me -->
+            - Eldritch Flight
+            - Eldritch Shield
+            - Eye of Vengeance
+            - Feel Your Pain
+            - Forsake Fate
+            - Ghost Rider
+            <!-- - I Am Altering the Deal -->
+            - If You Kill Me
+            <!-- - Impossible Spell Knowledge -->
+            - Interdimensional Stride
+            <!-- - Loophole -->
+            <!-- - Menacing Whisper -->
+            <!-- - Mythic Bargainer -->
+            <!-- - Mythic Major Hex -->
+            - Penetrating Damage
+            <!-- - Possess Companion -->
+            <!-- - Purifier -->
+            <!-- - Speak My Name -->
+            <!-- - Stalward Companion -->
+            <!-- - Storied Ally -->
+        - Tier 6
+            - Artifact
+            - Bloodtheft
+            <!-- - Companion Power -->
+            - Defy Destiny
+            - Devour Magic
+            <!-- - Direct Control -->
+            - Flexible Terms
+            <!-- - Infinite Spellcasting -->
+            <!-- - Innate Spellcasting -->
+            <!-- - Overcome Curse -->
+            <!-- - Penance -->
+            - Shunned by Magic
+            <!-- - Trade Health -->
+            <!-- - Unfathomable Knowledge -->
+        - Tier 10
+            - True Pact
+    <!-- - Genius http://spheresofpower.wikidot.com/path-of-the-genius -->
+    <!-- - Living Saint http://spheresofpower.wikidot.com/path-of-the-living-saint -->
+    <!-- - Mystic http://spheresofpower.wikidot.com/path-of-the-mystic -->
+    - Reluctant Hero http://spheresofpower.wikidot.com/path-of-the-reluctant-hero
+        - Ability
+            <!-- - Anti-Hero -->
+            <!-- - Cynic -->
+            - Fluke
+            <!-- - Non-Combatant -->
+        - Tier 1
+            <!-- - Additional Heroics -->
+            - Always a Chance
+            <!-- - Assured Drinker -->
+            - Blind Luck
+            <!-- - Call In a Favor -->
+            - Cautious
+            <!-- - Common Sense -->
+            <!-- - Curse-bearer -->
+            <!-- - Destiny's Tool -->
+            - Distracting Flurry
+            - Follow Example
+            <!-- - Faithful Friend -->
+            <!-- - Flag of Convenience -->
+            - Fortunate Mistake
+            <!-- - Group Shot -->
+            <!-- - He Ain't Heavy... -->
+            - Heirloom
+            <!-- - Helpful Rebuke -->
+            - Hold Onto Hope
+            - I'm Getting Too Old for This
+            <!-- - If I Can, So Can You -->
+            <!-- - Innocent Bystander -->
+            - Lesson Learned
+            <!-- - Lucky Stumble -->
+            <!-- - No One of Consequence -->
+            <!-- - Panicked Consumption -->
+            <!-- - Perfect Aid -->
+            <!-- - Perfect Pitch -->
+            - Perfection
+            - Quick Recovery
+            <!-- - Reluctant Combatant -->
+            - Reluctant Stand
+            <!-- - She May Not Look Like Much -->
+            <!-- - Shot in the Dark -->
+            <!-- - Skeptical Eye -->
+            - Take a Breather
+            - The Road Goes Ever On
+            <!-- - This Might Just Work -->
+            <!-- - Tongue of the Land -->
+            <!-- - Tricks of the Trade -->
+            <!-- - Trusty Tools -->
+            <!-- - Unfocused Focus -->
+            - Unorthodox Tactics
+            <!-- - Untrained Warrior -->
+            - Unwavering Skill
+            <!-- - You'll Have to Go Through Me -->
+        - Tier 3
+            <!-- - Accidental Observation -->
+            - An Eye for an Eye
+            - Bodily Ricochet
+            - Critical Skill
+            <!-- - Defensive Feedback -->
+            <!-- - Divine Motivation -->
+            - Feel Your Pain
+            <!-- - Fight Your Battles -->
+            <!-- - Focus Over Fury -->
+            - Forsake Fate
+            - Handy Souvenir
+            <!-- - Happy Go Lucky -->
+            - Indomitable Self
+            - Learning By Example
+            <!-- - Lucky Guess -->
+            <!-- - Memento -->
+            <!-- - Obscurity -->
+            - One Step Ahead
+            <!-- - Right Place, Right Time -->
+            - Rise to the Occasion
+            <!-- - Take Your Best Shot -->
+            <!-- - Taking You With Me -->
+            <!-- - That's Not Fair! -->
+            <!-- - Unexpected Surge -->
+            - Unflinching
+            <!-- - Use Everything -->
+        - Tier 6
+            - Class Mimic
+            <!-- - Cling to Life -->
+            - Ever Practical
+            - Nemesis
+            - Roaring Rampage of Revenge
+            - Snatch From Death
+            - You Shall Be Avenged!
+        - Tier 10
+            - Embrace Destiny
+    - Stranger http://spheresofpower.wikidot.com/path-of-the-stranger
+        - Ability
+            - Fleet Charge
+            - Painful Reckoning
+            - Surprise Strike
+        - Tier 1
+            - Additional Maneuver
+            <!-- - Avenging Maneuver -->
+            <!-- - Call In a Favor -->
+            <!-- - Carve Your Initials -->
+            <!-- - Clear Your Heads -->
+            - Deadly Dodge
+            <!-- - Defensive Move -->
+            <!-- - Endless Ammunition -->
+            <!-- - Flag of Convenience -->
+            <!-- - Forget It Ever Happened -->
+            <!-- - Granted Stride -->
+            - Hear Heartbeat
+            - Heirloom
+            <!-- - Horse Puncher -->
+            - Impeccable Balance
+            <!-- - Menacing Presence -->
+            <!-- - Mythic Grit -->
+            <!-- - Mythic Hunter -->
+            <!-- - Mythic Ki -->
+            <!-- - Mythic Panache -->
+            - Nimble Glide
+            <!-- - No One of Consequence -->
+            <!-- - None of Your Business -->
+            - Quick Recovery
+            <!-- - Ricochet -->
+            <!-- - She May Not Look Like Much -->
+            <!-- Skeptical Eye -->
+            - Smell of Fear
+            - Snatch and Dash
+            - Speed Surge
+            <!-- - Steadfast Resolve -->
+            <!-- - Strange Style -->
+            <!-- - Streetwise Seeker -->
+            - Supreme Tracker
+            <!-- - Sure Shot -->
+            <!-- - Swift Swap -->
+            - Wall Run
+            <!-- - Whiplash -->
+        - Tier 3
+            - An Eye for an Eye
+            <!-- - Can't Touch This -->
+            <!-- - Cape Glider -->
+            - Confidence
+            <!-- - Flexible Ethics -->
+            - Handy Souvenir
+            <!-- - Memento -->
+            <!-- - Menacing Whisper -->
+            - Mirror Dodge
+            - No Time for Love
+            <!-- - Sardonic Wit -->
+            <!-- - Shared Alertness -->
+            - Strange Suppression
+            <!-- - Take Your Best Shot -->
+            - Unflinching
+            <!-- - Use Your Own Words Against You -->
+            - Vanishing Move
+            <!-- - Watching the Watchmen -->
+        - Tier 6
+            <!-- - Apparent Demise -->
+            <!-- - Cling to Life -->
+            - Ghost Rider
+            - Harrier
+            - Inscrutable
+            - Nemesis
+            <!-- - Nothing to Say -->
+            - Roaring Rampage of Revenge
+        - Tier 10
+            - Go Where You Wish
+    - Villain http://spheresofpower.wikidot.com/path-of-the-villain
+        - Ability
+            - 
+            - 
+            - 
+        - Tier 1
+            - 
+        - Tier 3
+            - 
+        - Tier 6
+            - 
+        - Tier 10
+            - 
+    - Name
+        - Ability
+            - 
+            - 
+            - 
+        - Tier 1
+            - 
+        - Tier 3
+            - 
+        - Tier 6
+            - 
+        - Tier 10
+            - 
 - Feats
     - No Prerequisites
         - Mythic Paragon https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-paragon-mythic
