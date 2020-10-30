@@ -1,7 +1,7 @@
 # Luliana di Faliero's Journal
 ## Adventure Log
 - Quest: Find evidence of Elicha Hochs' crimes
-    - Step 1: Find missing coach, between Blutroch and Bruckthin; Reward: 20 GC
+    - Step 1: Find missing coach, last seen in Bruckthin, travelling toward Blutroch; Reward: 20 GC
         - Boy watching the coach as we leave, hired informant?
         - Remember to send surgeon, ask local Quartermaster, Blumenkrantz
 - 

@@ -40,10 +40,10 @@
 | **General**              |     |     | Non-consumable catch-all
 |--------------------------|-----|-----|--------------------------------
 |--------------------------|-----|-----|--------------------------------
-| **Cart**                 | xxx | xxx | Cart capacity: 7/25
+| **Cart**                 | xxx | xxx | Cart capacity: 5/25
 |--------------------------|-----|-----|--------------------------------
 | Paychest with Keys       |   2 |     | Locks to cart, have 2 keys
-|   Coinage                |     |     | 25 GC
+|   Coinage                |     |     | 17 GC
 |   Contract               |     |     |
 | Canvas Tarp              |   1 |     |
 | Cask of Diluted Bugman's |   2 |     | 10 gal capacity; 9 gal of 2:1 cheap swill to XXXXXX
@@ -53,7 +53,7 @@
 | Saddle and Harness       |   4 |   3 |
 | Saddlebags               |   4 |   3 | Carries 8
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 2GC 20/11
+| **Coins**                |     |     | 3GC 10/11
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   1 |
 
