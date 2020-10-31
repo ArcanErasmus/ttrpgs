@@ -4,7 +4,7 @@
 |------------------|--------|-------------|----------|-------|------------
 | Mwk Kriegsmesser | +13/+8 | 1d8+5 (S)   | 18-20/x2 |       | Deadly
 | Wakizashi        | +12/+7 | 1d6+4 (P/S) | 18-20/x2 |       | Deadly
-| Unarmed          | +12/+7 | 1d6+4 (B)   |    20/x2 |       | Monk class features
+| Unarmed          | +12/+7 | 1d8+4 (B)   |    20/x2 |       | Monk class features
 |------------------|--------|-------------|----------|-------|------------
 | Sling            | +12    | 1d4+2 (B)   |    20/x2 | 50 ft |
 
@@ -94,7 +94,7 @@
     - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
-    - **Daily**; 6/day: OOOOxx
+    - **Daily**; 6/day: OOOOOO
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO

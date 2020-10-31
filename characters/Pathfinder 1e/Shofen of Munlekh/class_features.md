@@ -201,6 +201,12 @@
 - Gain Swashbuckler deed of the same name
     - While 1+ panache, if hit with appropriate wpn, can Intimidate as swift
 
+### Unarmed Damage (with *monk's robe*)
+- 1d8 -> 1d10
+
+### AC Bonus (with *monk's robe*)
+- +1 -> +2
+
 ## Paladin (lvl 4)
 ### Order of Good (Su)
 - Can spend 1 use lay on hands when using smite chaos to instead smite evil

@@ -127,7 +127,13 @@
                 - Slave ship, slaves usually never seen from again
                 - Sails in Dreamlands, but can cross planar boundaries
                 - Cpt Vadrack is relentless in pursuing victims
-       ^7. Red webbed foot
+        7. Red webbed foot
+            - Foot of a Womp
+            - Avoid cemetaries and necropolises, where Womp's congregate
+            - Ceramic Necropolis
+
+- Tailed by The Tribute Taker, a Rasmiri boat
+    - we beat him up, killed several of his crew, beached his boat, freed his galley slaves, and let him flee on land without valuables
 
 ### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory
@@ -163,7 +169,7 @@
 ## Backstory
 - Family
     - Drandot of Atas, father (human)
-        - Cultist, new head of cult
+        - Cultist, dead by my hand
     - Hogeri of Longroot, mother (human)
         - Farmer, died in childbirth
     - Alldog of ?, step-mother (half-orc)
@@ -187,7 +193,7 @@
 - Independent life
     - After leaving Munlekh, I traveled to ?, where I joined a monastic temple, training martial and divine capabilities under Master Olov Gevek. There I delved into the faiths of the world without fear of cult repression, desiring to leave my spiritual channeling behind.
     - One day, however, I felt a calling to pick back up my spirit planchette, and performed a seance. With my mind more open than before, I felt not a handful of spirits but the overwhelming presence of Pharasma. I was left with the sense of a duty given to me, to return and destroy the manipulative cult leaders, and help the restless spirits they trapped pass peacefully to the great beyond.
-    - As I journeyed closer to Munlekh I felt my connection to the spirits grow, and could hear them calling out to be freed. At night I entered the town and snuck into the church, mainly to make sure there was nobody being held captive there, and to look for other evils the cult may have been performing. While searching Maunresh's study for evidence, I tripped a silent alarm and awoke him. As I heard footsteps approaching, I stood fast in the open, and confronted Maunresh when he entered the room. Seeing me as a danger to the cult and his power, he attacked, and we had a grueling battle. At one point he reached for a gem containing a multitude of trapped souls, to siphon their energy, but I moved quickly and smashed it.
-    - The resulting explosion knocked me out and leveled the entire church. When I came to in one of the town doctor's beds, Maunresh was dead, and I felt a great attunement to the spiritual world. Looking around, most of the town was gone, and the remaining members told me how my father had lead the rest of the cult in a pilgrimage out of Munlekh, to flee to where they could set up again. But it had been over a week since, and they were long gone. Furthermore, the formerly-trapped spirits were in chaos, many manifesting and haunting the town. By the time Munlekh was stabilized and the spirits put to rest, it was too late to chase after my family. And so I set out on my own, headed to ?
+    - As I journeyed closer to Munlekh I felt my connection to the spirits grow, and could hear them calling out to be freed. At night I entered the town and snuck into the church, mainly to make sure there was nobody being held captive there, and to look for other evils the cult may have been performing. While searching Maunresh's study for evidence, I tripped a silent alarm and awoke him. As I heard footsteps approaching, I stood fast in the open, and was confronted by my father, who had taken over after Maunresh passed away in the intervening moment. When he entered the room, seeing me as a danger to the cult and his power, he attacked, and we had a grueling battle. At one point he reached for a gem containing a multitude of trapped souls, to siphon their energy, but I moved quickly and smashed it.
+    - The resulting explosion knocked me out and leveled the entire church. When I came to in one of the town doctor's beds, my father was dead, and I felt a great attunement to the spiritual world. Looking around, most of the town was gone, and the remaining members told me how another member had lead the rest of the cult in a pilgrimage out of Munlekh, to flee to where they could set up again. But it had been over a week since, and they were long gone. Furthermore, the formerly-trapped spirits were in chaos, many manifesting and haunting the town. By the time Munlekh was stabilized and the spirits put to rest, it was too late to chase after my family. And so I set out on my own, headed to Thrushmoor.
 - where do i come in?
     - ???

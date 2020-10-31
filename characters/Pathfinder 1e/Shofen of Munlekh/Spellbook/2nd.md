@@ -48,4 +48,4 @@ If you use this spell against an effect that also targets you or includes you in
 | SR         | yes (harmless)
 *Lesser restoration* dispels any magical effects reducing one of the subject’s ability scores or cures 1d4 points of temporary ability damage to one of the subject’s ability scores. It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.
 
-A single casting of *lesser restoration* reduces sanity damage by 1d2 points up to once per day.
+A single casting of *lesser restoration* reduces sanity damage by 1d2 points and reduces the DC of one lesser madness affecting the target by 2. A target can only benefit from *lesser restoration* in this way up to once per day.
