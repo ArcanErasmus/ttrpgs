@@ -40,7 +40,7 @@
     - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
     - Lesser: Divine Surge (see Hierophant Bonus Spells) (Su)
     - Intermediate: Energy Font (Su)
-        - Channel type: Positive; 6/day: OOOOOO
+        - Channel positive; 6/day: OOOOOO
         - 3d6 healing/damage, Will DC 18 half, 30 ft radius
 <!-- - **Spirit**: Marshal
     - Bonus (+2): Cha checks/skills, spirit surge rolls (double count on Cha checks/skills)
