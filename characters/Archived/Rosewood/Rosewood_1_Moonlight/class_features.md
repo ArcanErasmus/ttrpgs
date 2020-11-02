@@ -103,7 +103,7 @@
 - All natural atks gain enhancement bonus equal to lvl/3 (max +5)
 - All natural atks treated as magic and silver for DR
 - Mind blades each get (lvl-1)/2 extra points of bonus
-- Spend bonus pts on enhancement or abilities (see notes.md list)
+- Spend bonus pts on enhancement or abilities (see `notes.md` list)
 - Each mind blade can have its own configuration
 
 # Future Class Features (lvl 4)

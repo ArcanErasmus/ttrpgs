@@ -76,7 +76,7 @@ AC breakdown: +2 dex, +3 shield, +10 armor
 |   | T |   | Autohypnosis       | Wis |     |     | -
 |   |   |   | Bluff              | Cha |     |     | -
 |   |   |   | Climb              | Str |     | -4  | -
-|   |   | C | Craft              | Int |     |     | See rule_systems
+|   |   | C | Craft              | Int |     |     | See `rule_systems.md`
 | 1 |   | C |   Alchemy          | Int | +11 |     | *
 | 1 |   | C |   Armor            | Int | +11 |     | *
 |   |   | C |   Baskets          | Int |     |     | *

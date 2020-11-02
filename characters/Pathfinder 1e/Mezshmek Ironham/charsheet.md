@@ -104,7 +104,7 @@ AC breakdown: +2 dex, +2 shield, +9 armor
 | 1 |   | C | Appraise           | Int | +9  |     | +2*
 |   |   | C | Artistry           | Int |     |     | -
 | 2 |   | C |   Lecture          | Int | +12 |     | -
-|   |   | C | Craft              | Int |     |     | See rule_systems
+|   |   | C | Craft              | Int |     |     | See `rule_systems.md`
 | 1 |   | C |   Alchemy          | Int | +11 |     | *
 | 1 |   | C |   Armor            | Int | +11 |     | *
 | 1 |   | C |   Bows             | Int | +11 |     | *

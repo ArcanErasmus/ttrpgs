@@ -205,6 +205,9 @@
 ## Mythic Options
 - Paths
     <!-- - Archmage https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/archmage -->
+    <!-- - Hierophant https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant -->
+    <!-- - Marshal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/marshal -->
+    <!-- - Trickster https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/trickster -->
     - Champion https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/champion
         - Ability
             <!-- - Distant Barrage -->
@@ -335,46 +338,60 @@
             - Unbreakable Resilience
         - Tier 10
             - True Defender
-    <!-- - Hierophant https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/hierophant -->
-    <!-- - Marshal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/marshal -->
-    <!-- - Trickster https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/trickster -->
-    - Universal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
-        - 1st Tier
-            <!-- - Commune with Power (Su) -->
-            <!-- - Display of Charisma (Su) -->
-            - Display of Constitution (Su)
-            - Display of Dexterity (Su)
-            <!-- - Display of Intelligence (Su) -->
-            - Display of Strength (Su)
-            <!-- - Display of Wisdom (Su) -->
-            - Extra Mythic Feat (Ex)
-            - Extra Mythic Power (Su)
-            - Legendary Item (Ex)
-            - Longevity (Su)
-            <!-- - Mythic Craft (Ex) -->
-            <!-- - Mythic Spellcasting (Ex) -->
-            - Mythic Sustenance (Su)
-            <!-- - Pierce the Darkness (Sp) -->
-        - 3rd Tier
-            <!-- - Binding Ritual (Su) -->
-            - Beyond Morality (Ex)
-            <!-- - Divine Source (Su) -->
-            - Enhanced Ability (Ex)
-            <!-- - Fearless (Su) -->
-            <!-- - Interplanar Prestige (Ex, Sp) -->
-            <!-- - Pure Body (Su) -->
-            - Pure Destiny (Su)
-            - Pure Senses (Su)
-            <!-- - Sleepless (Su) -->
-            - Ultimate Versatility (Ex)
-            - Unchanging (Su)
-        - 6th Tier
-            - Farwalker (Sp)
-            - Mythic Presence (Su)
-            - Mythic Sight (Sp)
-            <!-- - Tongues (Sp) -->
+- Universal Abilities https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
+    - Tier 1
+        <!-- - Commune with Power (Su) -->
+        <!-- - Display of Charisma (Su) -->
+        - Display of Constitution (Su)
+        - Display of Dexterity (Su)
+        <!-- - Display of Intelligence (Su) -->
+        - Display of Strength (Su)
+        <!-- - Display of Wisdom (Su) -->
+        - Extra Mythic Feat (Ex)
+        - Extra Mythic Power (Su)
+        - Legendary Item (Ex)
+        - Longevity (Su)
+        <!-- - Mythic Craft (Ex) -->
+        <!-- - Mythic Spellcasting (Ex) -->
+        - Mythic Sustenance (Su)
+        <!-- - Pierce the Darkness (Sp) -->
+    - Tier 3
+        <!-- - Binding Ritual (Su) -->
+        - Beyond Morality (Ex)
+        <!-- - Divine Source (Su) -->
+        - Enhanced Ability (Ex)
+        <!-- - Fearless (Su) -->
+        <!-- - Interplanar Prestige (Ex, Sp) -->
+        <!-- - Pure Body (Su) -->
+        - Pure Destiny (Su)
+        - Pure Senses (Su)
+        <!-- - Sleepless (Su) -->
+        - Ultimate Versatility (Ex)
+        - Unchanging (Su)
+    - Tier 6
+        - Farwalker (Sp)
+        - Mythic Presence (Su)
+        - Mythic Sight (Sp)
+        <!-- - Tongues (Sp) -->
+- Universal Abilities (3pp)
+    - `Mythic Master - Archery.pdf`
+    - Tier 1
+        <!-- - Close-Quarters Archery -->
+        <!-- - Pepper With Arrows -->
+        <!-- - Ranged Bull Rush -->
+        <!-- - Ranged Sunder -->
+        <!-- - Ranged Trip -->
+        - Warning Shot
+    - Tier 3
+        <!-- - Arrow Pin -->
+        <!-- - Lightning Strikes Twice -->
+        - Reactionary Shot
 - 3pp Paths
     <!-- - Dragon Sovereign http://www.pathfindercommunity.net/elghinn-lightbringer-s-emporium/mythic-paths/dragon-sovereign -->
+    <!-- - Genius http://spheresofpower.wikidot.com/path-of-the-genius -->
+    <!-- - Living Saint http://spheresofpower.wikidot.com/path-of-the-living-saint -->
+    <!-- - Mystic http://spheresofpower.wikidot.com/path-of-the-mystic -->
+    <!-- - Medium `Mind Over Matter Book 1 - Psion & Soulknife.pdf`, `Mind Over Matter Book 2 - Psychic Warrior & Aegis & Vitalist.pdf` -->
     - Godhunter https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-other-publishers/godhunter
         - Ability
             - Swallow Prayer
@@ -519,9 +536,6 @@
             <!-- - Unfathomable Knowledge -->
         - Tier 10
             - True Pact
-    <!-- - Genius http://spheresofpower.wikidot.com/path-of-the-genius -->
-    <!-- - Living Saint http://spheresofpower.wikidot.com/path-of-the-living-saint -->
-    <!-- - Mystic http://spheresofpower.wikidot.com/path-of-the-mystic -->
     - Reluctant Hero http://spheresofpower.wikidot.com/path-of-the-reluctant-hero
         - Ability
             <!-- - Anti-Hero -->
@@ -686,32 +700,223 @@
             - Roaring Rampage of Revenge
         - Tier 10
             - Go Where You Wish
-    - Villain http://spheresofpower.wikidot.com/path-of-the-villain
+    - Villainy `Mythic Mastery - The Path of Villainy.pdf`
         - Ability
-            - 
-            - 
-            - 
+            <!-- - Drain Magic -->
+            - Living Shield
+            - Sucker Punch
         - Tier 1
-            - 
+            - Accomplished Necromancer
+            - Additional Scheme
+            <!-- - Alter Channel -->
+            - Conniving Trickster
+            - Cruel Taunt
+            <!-- - Easy Liar -->
+            <!-- - Endless Cruelty -->
+            - Hard to Read
+            - Infernal Wounds
+            - Lair
+            - Megalomania
+            <!-- - Mythic Hexes -->
+            - Patient Plotter
+            - Poison Master
+            <!-- - No One of Consequence -->
+            <!-- - Sneak Attack Specialist -->
+            - Solo Specialist
+            <!-- - Touch of Mundanity -->
+            - Vengeful Curse
         - Tier 3
-            - 
+            <!-- - Death Curse -->
+            <!-- - Drain Mythic Power -->
+            <!-- - Exploit Weakness -->
+            <!-- - Fiend Summoner -->
+            - Getaway
+            <!-- - Grave Servitor -->
+            <!-- - Master of Technology -->
+            - Mirror Dodge
+            - Perfect Lie
+            - Torturer Supreme
         - Tier 6
-            - 
+            - And Stay Dead
+            <!-- - Gate Master -->
+            <!-- - Master Necromancer -->
+            <!-- - Mythic Seal -->
+            <!-- - On a Grand Scale -->
         - Tier 10
-            - 
-    - Name
-        - Ability
-            - 
-            - 
-            - 
+            - Malice
+- Heritages (3pp)
+    - Demonic `Mythic Mastery - Demonic Heritage.pdf`
+        - Prerequisites
+            - Be non-lawful and non-good
         - Tier 1
-            - 
+            - Abyssal Skin
+            <!-- - Abyssal Spells -->
+            <!-- - Demonic Power -->
+            - Poison of Evil
+            <!-- - Possess the Foul -->
+            - Strength of the Unworthy Horde
+            <!-- - Underworld Charm -->
+            - Wrecking Fury
+            <!-- - Wicked Notions -->
         - Tier 3
-            - 
+            - Demon Summoning
+            - Demonic Soul
+            <!-- - Return Whence It Came -->
+            - Soulless
+            - Unholy Armament
         - Tier 6
-            - 
-        - Tier 10
-            - 
+            <!-- - Balor Whip -->
+            <!-- - Death Throes -->
+            - Wicked Wish
+    - Pharaonic `Mythic Mastery - Pharaonic Heritage.pdf`
+        - Tier 1
+            - Ambassador to the Entombed
+            <!-- - Call Forth the Sun -->
+            <!-- - Curse Master -->
+            - Footsteps of Life
+            <!-- - Form of the Pharaoh -->
+            - Intercede with the Gods
+            - Relic Master
+            <!-- - Retributive Curse -->
+            - Sandwalker
+        - Tier 3
+            - Blessed Oasis
+            - Curse Location
+            - Mummified Return
+            - Overwhelming Aura
+            - Pharaoh's Command
+            - Swarmshape
+        - Tier 6
+            - Entomb in Oblivion
+            - Summon Guardians of the Old Kingdom
+            - Summon Sandstorm
+    - Fire `Mythic Mastery - Fire Heritage.pdf`
+        - Tier 1
+            <!-- - Blazing Touch -->
+            <!-- - Burning Spell -->
+            - Enhance Fire
+            - Extinguish Fire
+            - Ever-Burning
+            - Fire Resistance
+            - Fire's Friend
+            - Lesser Flaming Weapon
+            <!-- - Spread Fire -->
+            <!-- - Purify Flames -->
+        - Tier 3
+            <!-- - Fire Breath -->
+            <!-- - Fire Spell Focus -->
+            <!-- - Fire Spell Power -->
+            <!-- - Ignore Resistance -->
+            - Improved Flame Weapon
+            - Inner Fire
+            - Sanctify Flames
+        - Tier 6
+            - Become Fire
+            - Rise from the Ashes
+            <!-- - Summon Fire Elemental -->
+    - **Mutant** `Mythic Mastery - Mutant Heritage.pdf`
+        - Tier 1
+            - Aberrant Size
+            - Basic Polyform
+            <!-- - Chameleon -->
+            - Extra Eyes
+            - Extra Legs
+            - Lesser Claws
+            - Mutable
+            - Mutant Strength
+            - Organless
+            - Project Pain
+            - Rubbery Skin
+            - Sticky Fingers
+        - Tier 3
+            - Acid Spit
+            - Advanced Polyform
+            - Extra Arms
+            - Eyes in the Back of Your Head
+            - Humanoid Mutation
+            - Mutant Constitution
+            - Mutant Dexterity
+            - Mutant Vision
+            - Tentacles
+        - Tier 6
+            - Atypical Anatomy
+            - Greater Claws
+            - Greater Polyform
+            - Monstrous Mutation
+    - Egyptian Gods `Mythic Mastery - Heritage of the Egyptian Gods.pdf`
+        - Deities (flavor only)
+            - Amun
+            <!-- - Anubis -->
+            - Apophis
+            <!-- - Hathor -->
+            <!-- - Horus -->
+            <!-- - Isis -->
+            <!-- - Osiris -->
+            - Ra
+            - Set
+            <!-- - Thoth -->
+        - Tier 1
+            - Blessed of Amun
+            <!-- - Blessed of Anubis -->
+            - Blessed of Apophis
+            <!-- - Blessed of Hathor -->
+            <!-- - Blessed of Horus -->
+            <!-- - Blessed of Isis -->
+            <!-- - Blessed of Osiris -->
+            - Blessed of Ra
+            - Blessed of Set
+            <!-- - Blessed of Thoth -->
+        - Tier 3
+            - Disciple of Amun
+            <!-- - Disciple of Anubis -->
+            - Disciple of Apophis
+            <!-- - Disciple of Hathor -->
+            <!-- - Disciple of Horus -->
+            <!-- - Disciple of Isis -->
+            <!-- - Disciple of Osiris -->
+            <!-- - Disciple of Ra -->
+            - Disciple of Set
+            <!-- - Disciple of Thoth -->
+        - Tier 6
+            - Champion of Amun
+            <!-- - Champion of Anubis -->
+            - Champion of Apophis
+            <!-- - Champion of Hathor -->
+            <!-- - Champion of Horus -->
+            <!-- - Champion of Isis -->
+            <!-- - Champion of Osiris -->
+            <!-- - Champion of Ra -->
+            - Champion of Set
+            <!-- - Champion of Thoth -->
+    - Draconic `Mythic Mastery - Draconic Heritage.pdf`
+        - Tier 1
+            - Draconic Appraisal
+            - Draconic Courage
+            - Draconic Might
+            - Draconic Resistance
+            - Draconic Scales
+            - Draconic Vision
+            - Dragon Claws
+            <!-- - Dragonslayer -->
+            - Gold Scent
+            <!-- - Potent Blood -->
+        - Tier 3
+            - Damage Reduction
+            - Draconic Spell Resistance
+            - Dragon's Breath
+            <!-- - Dragon's Presence -->
+            - Dragon's Resilience
+        - Tier 6
+            - Draconic Age
+            <!-- - Draconic Spell Power -->
+            - Wings
+    <!-- - Fey `Mythic Mastery - Fey Heritage.pdf` -->
+    <!-- - Angelic `Mythic Mastery - Angelic Heritage.pdf` -->
+- Class Features `Mythic Options - Core Mythic Class Features.pdf`
+    - Uncanny Dodge, Rogue
+    - Practice (Mythic Bonus Combat Feat, Fighter)
+    - Bonus Gourmand Feat (Mythic Bonus Combat Feat, Fighter)
+    - Armored Flexibility (Mythic Armor Training, Fighter)
 - Feats
     - No Prerequisites
         - Mythic Paragon https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-paragon-mythic
@@ -721,7 +926,7 @@
         - Combat Reflexes https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/combat-reflexes-mythic
         - Endurance https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/endurance-mythic
         - Improved Grapple https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/improved-grapple-mythic
-        - Mind Over Body (Mind Over Matter Book 2)
+        - Mind Over Body `Mind Over Matter Book 2 - Psychic Warrior & Aegis & Vitalist.pdf`
         - Mythic Diehard https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-diehard-mythic
         - Run https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/run-mythic
         - Toughness https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/toughness-mythic
@@ -742,23 +947,3 @@
     - Unstoppable Strike
     * Unyielding
     * Upgradable
-
-
-
-
-    ? Medium (Mind Over Matter Book 1 - Psion & Soulknife.pdf)
-        - Ability: Hive Mind
-        - Tier 1
-            - Adamantine Mind
-            - Focused Recovery
-            - Foretell the Blow
-            - Levitation Blockade
-            * Mind Over Magic
-            - Sharpen the Mind, Hone the Blade
-            - Soothing Words
-            * Total Awareness
-        - Tier 3
-            - Cerebral Grip
-            - Pierce the Veil
-            - Psychic Tsunami
-            - Reading the Resting Body

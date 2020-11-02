@@ -48,7 +48,7 @@
 | Canvas Tarp              |   1 |     |
 | Cask of Diluted Bugman's |   2 |     | 10 gal capacity; 9 gal of 2:1 cheap swill to XXXXXX
 |--------------------------|-----|-----|--------------------------------
-| **Tartalo (Dray)**       | xxx | xxx | See notes.md
+| **Tartalo (Dray)**       | xxx | xxx | See `notes.md`
 |--------------------------|-----|-----|--------------------------------
 | Saddle and Harness       |   4 |   3 |
 | Saddlebags               |   4 |   3 | Carries 8
