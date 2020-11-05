@@ -1,42 +1,42 @@
-#?, ?
-## ?, ?, Priest 5
-- Medium humanoid (?)
+#?, they
+## ?, Goblin, Priest 1
+- Medium humanoid (Goblinoid)
 - Devoted to ?: God of ?
     - [https://pathfinderwiki.com/wiki/?]
     - [tenets]
-- [height, weight, age, hair, eyes]
+- 3'1", 33#, 22 yo, [hair], [eyes]
 - [distinguishing features/marks]
 - Favored class: Priest
 
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|
-| STR  | <!-- 12 (+1) --> | -
-| DEX  | <!-- 14 (+2) --> | -
-| CON  | <!-- 16 (+3) --> | -
-3| INT  | <!-- 20 (+5) --> | -
-1| WIS  | <!-- 12 (+1) --> | -
-2| CHA  | <!--  6 (-2) --> | -
-20 Point Buy:
+| STR  |  6 (-2) | -
+| DEX  | 10 (  ) | -
+| CON  |  8 (-1) | -
+| INT  | 12 (+1) | -
+| WIS  | 20 (+5) | -
+| CHA  | 16 (+3) | -
+20 Point Buy: 18 14 12 10 8 8
 
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | <!-- 23 (12 T/21 F) | - -->
-| BAB  | <!-- +3             | - -->
-| CMB  | <!-- +4             | - -->
-| CMD  | <!-- 16             | +4* -->
-| Init | <!-- +2             | - -->
-| Spd  | <!-- 20/15 ft       | - -->
+| AC   | 11 (11 T/11 F) | -
+| BAB  | +0             | -
+| CMB  | -3             | -
+| CMD  |  7             | -
+| Init | +0             | -
+| Spd  | 30/20 ft       | -
 |------|---------|------|-----------|
 | Stat | Max     |  Cur | Temp      |
 |------|---------|------|-----------|
-| Vigr |   <!--    40 |   40 | 0 -->
-| Wnds |   <!-- 32/16 |   32 | 0 -->
-| Hero |   <!--     5 |    5 | 0 -->
+| Vigr |       6 |    6 | 0
+| Wnds |    16/8 |    8 | 0
+<!-- | Hero |       3 |    3 | 0 -->
 |------|---------|------|-----------|
-Vigor rolls (d6): [6], ?, ?, ?, ?
-<!-- AC breakdown: +2 dex, +2 shield, +9 armor -->
+Vigor rolls (d6): [6]
+AC breakdown: +1 size
 
 ## Resistances/Immunities
 - SR: No
@@ -47,11 +47,12 @@ Vigor rolls (d6): [6], ?, ?, ?, ?
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | <!-- +4    | +3* -->
-| Ref  | Dex  | <!-- +3    | +3* -->
-| Will | Wis  | <!-- +6    | +3* -->
+| Fort | Con  | +1    | -
+| Ref  | Dex  | +0    | -
+| Will | Wis  | +7    | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
+- ?
 
 ## Skills
 | # | T | C | Adventuring Skills | Sta | Mod | ACP | Temp
@@ -99,25 +100,44 @@ Vigor rolls (d6): [6], ?, ?, ?, ?
 |   | T | C | Profession         | Wis |     |     | -
 |---|---|---|--------------------|-----|-----|-----|------
 
-- Skill ranks: ? total, ? Adv, ?/10 Bg
-    - 5x(6+?) priest
-    - ? favored
-    - 10 BG Skills system
-- Current encumbrance modifiers: ? ACP, ? max Dex, ?% ASFC (?% ignored), ? speed
+- Skill ranks: 9 total, ? Adv, ?/2 Bg
+    - 1x(6+1) priest
+    - 0 favored
+    - 2 BG Skills system
+- Current encumbrance modifiers: 0 ACP, no max Dex, 0% ASFC (0% ignored), normal speed
     - Items
     - Abilities
 
 ## Languages, Proficiencies
-- Languages: Common, ?
+- Languages: Common, Goblin, (+1)
 - Weapons:   Simple
 - Armor:     Light
 
 ## Favored class bonus
-- (Priest, ?) ?
+- (Priest, Goblin) ?
 - ? skill ranks
 - ? hp
 
 ## Racial Features
+### Base Properties
+- -2 Str, +2 Wis, +2 Cha
+- Humanoid, Goblinoid subtype
+- Small, 30 ft BLS
+- Low-light vision
+
+### Racial Traits [Goblin]
+#### Enclave Protector
+- +1 CL for abjuration spells
+- Gain SLAs, CL = char lvl
+    - Constant: *nondetection*
+    - 1/day: *faerie fire*, *obscure object*, *sanctuary*
+
+#### Large Ears
+- +2 racial bonus perception
+
+#### Magehunter
+- +2 racial bonus spellcraft identify spells being cast
+- +1 racial bonus atk vs arcane spellcasters (not SLA users)
 
 ## Traits & Drawbacks
 

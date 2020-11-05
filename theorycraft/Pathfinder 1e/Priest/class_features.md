@@ -34,7 +34,7 @@
     - Can't cast spells of alignment descriptors opposing self or deity
 - Prepared caster
     - Know all spells on list
-    - 2 bonus domain slots per spell lvl
+    - **2 bonus domain slots per spell lvl**
         - Must come from domain spells
     - Meditate 1 hr to memorize each day, rest not required
 - Limited spontaneous casting
@@ -76,10 +76,11 @@
 - If violate deity's code, lose all class features except proficiencies
 - Need *atonement* to regain powers and be able to gain priest lvls
 
-# Future Class Features (lvl 6)
+# Future Class Features (lvl 2)
 ## Priest
-### ?
-- ?
+### Spellcasting
+- +1 Cantrip memorization
+- +1 1st-lvl memorization
 
 
 # Priest Options
@@ -88,7 +89,7 @@
     - Adapted from cleric: lose both deity domains and 1 domain slot/lvl
 - Thematic Channeling https://www.d20pfsrd.com/classes/core-classes/cleric/thematic-channeling
     - Flavor only
-- Channeling Featshttps://www.d20pfsrd.com/feats/channeling-feats
+- Channeling Feats https://www.d20pfsrd.com/feats/channeling-feats
 
 ## Archetypes
 ### Cool
