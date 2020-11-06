@@ -42,7 +42,7 @@
 - Ability Score Modifier: Specialized (-2 Str, +2 Wis, +2 Cha), **1 RP**
     - Goblins are weak, but have sharp instincts and a highly sociable and communal nature. They gain +2 Wisdom, +2 Charisma, and -2 Strength.
 - Language: Standard (Goblin and Common), **0 RP**
-    - Goblins begin play speaking Common and Goblin. Goblins with hish Intelligence scores can choose from any common Imperial language.
+    - Goblins begin play speaking Common and Goblin. Goblins with high Intelligence scores can choose from any common Imperial language.
 - Other Traits
     - Curiosity, **4 RP**
         - Goblins are naturally inquisitive about the world around them. They gain a +4 bonus on Diplomacy checks to gather information, and Knowledge (history) and Knowledge (local) become class skills for them. If they choose a class that has either of these Knowledge skills as class skills, they gain a +2 racial bonus on those skills instead.
@@ -80,6 +80,7 @@
 - Witch: Add +1 spell from the witch spell list to the witch’s familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
 ### Unset Options
+- Antipaladin: ?
 - Arcanist: ?
 - Bloodrager: ?
 - Brawler: ?

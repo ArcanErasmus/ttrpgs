@@ -1,4 +1,4 @@
-# ?'s Class Features
+# Blibtan's Class Features
 ## Priest
 ### Basic Details
 - d6 HD
@@ -38,35 +38,32 @@
         - Must come from domain spells
     - Meditate 1 hr to memorize each day, rest not required
 - Limited spontaneous casting
-    - Choose one domain at 1st priest lvl, cannot change later
-        - Chosen domain: ?
     - Sacrifice non-domain memorization to cast spell same or lower lvl
-        - Spell cast must be from chosen domain
-        - Alternately, spell cast must be cure/inflict (as cleric)
+        - Spell cast must be either cure spell, or divination spell
 
 ### Aura (Ex)
 - If worship aligned deity, gain corresponding alignment aura as cleric
 - Else if choose an alignment domain, also gain aura
 
 ### Channel Energy (Su)
-- Channel through holy/unholy symbol
-- Choose when channeling whether to heal or harm
-    - If channel positive, heal living or harm undead
-    - If channel negative, heal undead or harm living
-- Type channeled based on own or deity's alignment
-    - If both neutral, choose at 1st priest lvl, can't change
+- Channel positive energy through holy/unholy symbol
+- Choose when channeling whether to heal living or harm undead
 - (3+Cha mod)/day, 30 ft radius burst, damage/heal 1d8 per odd priest lvl
     - If damage, Will save half (Cha-based)
 
 ### Domains
-- Gain 3 domains:
-    - Choose 2 from deity's offerings or matching alignment domains
-    - Additionally, gain Knowledge domain
-- Gain domain powers
-- Domain spells chosen from all 3 lists
+- Knowledge https://www.d20pfsrd.com/classes/core-classes/cleric/domains/paizo-domains/knowledge-domain
+- Prophecy https://www.d20pfsrd.com/classes/core-classes/cleric/domains/3rd-party-publishers-domains/kobold-press-domains/prophecy-domain
+
+#### Lore Keeper (Sp)
+- Touch atk, gain info as if appropriate Kn skill with result 15 + priest lvl + Wis mod
+
+#### Forewarned (Su)
+- +1 Perception, +1 Dodge AC
+- Increase by +2 at 8th lvl & every 3 lvls after
 
 ### Lore (Ex)
-- Add half priest lvl to all knowledge checks, can make untrained
+- Add half priest lvl (min 1) to all knowledge checks, can make untrained
 - Identical to Bardic Knowledge
 
 ### Bonus Languages
@@ -79,56 +76,5 @@
 # Future Class Features (lvl 2)
 ## Priest
 ### Spellcasting
-- +1 Cantrip memorization
+- +1 Orision memorization
 - +1 1st-lvl memorization
-
-
-# Priest Options
-## Misc
-- Priest Archetype Package https://www.d20pfsrd.com/classes/3rd-party-classes/rogue-genius-games/adept-godling/archetypes/rogue-genius-games-adept-godling-archetypes/blacksnake/#Cleric
-    - Adapted from cleric: lose both deity domains and 1 domain slot/lvl
-- Thematic Channeling https://www.d20pfsrd.com/classes/core-classes/cleric/thematic-channeling
-    - Flavor only
-- Channeling Feats https://www.d20pfsrd.com/feats/channeling-feats
-
-## Archetypes
-### Cool
-* Evangelist https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/evangelist
-    - Only 1 deity domain, reduced armor proficiency
-    - Perform as class skill, bonus to being heard
-    * Gain 3 fewer channel dice, but get bardic performance
-    * Spontaneously cast some (compulsion) spells instead of cure/inflict
-* Vatic https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/kobold-press/vatic
-    - Only prophesy deity domain
-    * Add all sor/wiz divination spells to list
-    * Can also spontaneously cast any known divination spell
-
-### Decent
-- Devout Pilgrim https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/varisian-pilgrim
-    - Slightly limited domains
-    * Bond with allies, use touch domain powers on them from range
-    - 1/day *harrowing* at lvl 8
-- Divine Paragon https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/divine-paragon-cleric-archetype
-    * Deific Obedience with fast progression, but must perform to get spells
-    - One domain only grants spells, not powers
-    - Branded with holy symbol, slightly stronger alignment aura
-- Lawspeaker https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/lawspeaker-cleric-archetype
-    - Only law (or sub-) domain from deity
-    - Spend 2 channel to manifest truth-based magic as SLA
-- Merciful Healer https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/merciful-healer
-    - Only healing domain from deity, must channel positive and only to heal
-    * No AoO from Heal skill to stabilize, or from healing spells
-    * Channel positive to remove conditions like pally mercies
-    - At lvl 8, when channel also get mercies or reroll 1s
-- Theologian https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/paizo-cleric-archetypes/theologian
-    - Only 1 deity domain, but lvl-dependent powers as lvl+2
-    - Can't spontaneously cast domain, but can prepare using non-domain slots
-    * Every 5 lvls, choose 1 spell and permanently add limited metamagics for free
-- Charismatic https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/kobold-press/charismatic
-    * Free Inspiring Word power, or more uses and leadership score bonus
-    - Spontaneously cast some misc spells instead of cure/inflict
-    - Free leadership feat at lvl 7
-- Wonder Worker https://www.d20pfsrd.com/classes/core-classes/cleric/archetypes/kobold-press/wonder-worker
-    - Only 1 deity domain
-    * Spontaneously cast affliction-removal spells instead of cure/inflict
-    - A couple domain spells as 1/day SLAs
