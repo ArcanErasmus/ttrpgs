@@ -8,19 +8,31 @@
 | R Touch        | +0  |             |    20/*  |       | Touch atk
 |----------------|-----|-------------|----------|-------|------------
 
-## Channel
-- 
-- Channel positive energy through holy/unholy symbol
-- Choose when channeling whether to heal living or harm undead
-- (3+Cha mod)/day, 30 ft radius burst, damage/heal 1d8 per odd priest lvl
-    - If damage, Will save half (Cha-based)
+## Abilities
+### Channel (Su)
+- Daily: 3 + Cha mod; oooooo
+- 30 ft radius burst, 1d8 heal/dmg
+- Will half, DC 10 + 1/2 priest lvl + Cha mod
 
-## Domains
 ### Lore Keeper (Sp)
 - At Will: Touch atk, gain info as if appropriate Kn skill with result 15 + priest lvl + Wis mod
 
+### SLAs (Sp) - DC: 10 + Cha mod + spell lvl
+|----------------|
+| Constant       |
+|----------------|
+| Nondetection   |
+|----------------|
+| Daily          |
+|----------------|
+| Faerie Fire    | o
+| Obscure Object | o
+| Sanctuary      | o
+|----------------|
+
 ## Spells (Cle/Ora List) - DC: 10 + Wis mod + spell lvl
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
+- Concentration: +(CL + 1 + Wis mod)
 |--------|-----------------|
 | Close  |  20+(5/2lvl) ft |
 | Medium | 100+(10/lvl) ft |

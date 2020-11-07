@@ -1,10 +1,11 @@
-# ?'s Inventory
+# Blibtan's Inventory
 ## Item List
 | General Equipment        | Weight | Notes
 |--------------------------|--------|--------------------------------
 | **Worn Equipment**       |        |
 |--------------------------|        |--------------------------------
 | Backpack                 |   1    | $2, holds 1 cubic ft
+| Cloak, Reversible        |   0.5  | $5, bright constellations one side, plain black other side
 | Haramaki                 |   0.5  | $3, +1 AC, no penalties
 | Monk's Outfit            |   1    | $5
 |--------------------------|        |--------------------------------
@@ -16,8 +17,8 @@
 |--------------------------|        |--------------------------------
 | **General**              |        |
 |--------------------------|        |--------------------------------
-| Cheap Holy Text          |   0.5  | $1
-| Wooden Holy Symbol       |        | $0
+| Holy Text                |   1    | $10
+| Iron Holy Symbol         |        | $5
 |--------------------------|        |--------------------------------
 | **Tools**                |        |
 |--------------------------|        |--------------------------------
@@ -29,12 +30,9 @@
 | **Supplies/Consumables** |        |
 |--------------------------|        |--------------------------------
 |--------------------------|        |--------------------------------
-| **Slotless Magic Items** |        |
-|--------------------------|        |--------------------------------
-|--------------------------|        |--------------------------------
-| **Coins**                |   0.4  | $20
+| **Coins**                |        | $1
 |--------------------------|--------|--------------------------------
-| **Total**                |   6.9  | Light Load
+| **Total**                |   7.5  | Light Load
 
 ## Carrying Capacity
 | Load      | lbs | Penalties
@@ -64,7 +62,7 @@
 - Feet      -
 
 ## Pack Animals
-### Donkey, 8$, https://www.d20pfsrd.com/bestiary/monster-listings/animals/horse/pony
+### Donkey, $8, https://www.d20pfsrd.com/bestiary/monster-listings/animals/horse/pony
 | Donkey's Gear            | Weight | Notes
 |--------------------------|--------|--------------------------------
 | **Worn Equipment**       |        |

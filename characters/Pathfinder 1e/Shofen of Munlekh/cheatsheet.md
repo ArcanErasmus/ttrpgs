@@ -8,8 +8,13 @@
 |------------------|--------|-------------|----------|-------|------------
 | Sling            | +12    | 1d4+2 (B)   |    20/x2 | 50 ft |
 
+## Feint
+- Move action, or free action combined with a move
+- Perform (Oratory) if in Diva Style
+- DC 10 + BAB + Wis mod, or 10 + Sense Motive
+
 ## Spirit Channeling
-- Influence (max 6): OOOOxx
+- Influence (max 6): OOOOOx
 <!-- - **Spirit**: Archmage
     - Bonus (+2): Int checks/skills, Concentration
         - Spirit Surge: 1d6
@@ -40,7 +45,8 @@
     - LI Feat (cost 1 inf): Unhindering Shield https://www.d20pfsrd.com/feats/shield-mastery-feats/unhindering-shield-shield-mastery
     - Lesser: Divine Surge (see Hierophant Bonus Spells) (Su)
     - Intermediate: Energy Font (Su)
-        - Channel positive; 6/day: OOOOOO
+        - Channel positive; 6/day: OOOOxx
+        - Channel positive, Dreamlands; 6/day: OOOOxx
         - 3d6 healing/damage, Will DC 18 half, 30 ft radius
 <!-- - **Spirit**: Marshal
     - Bonus (+2): Cha checks/skills, spirit surge rolls (double count on Cha checks/skills)
@@ -64,16 +70,19 @@
     - -3 melee atk/CMB, +6/+9 melee dmg
 - Challenge
     - **Daily**, swift action; 2/day: OO
+    - **Daily**, swift action, Dreamlands; 2/day: OO
     - Bonus: +5 dmg, +2 dodge to AC, +2 sacred on saves
     - -2 AC vs non-challenged targets
 - Resolve
-    - **Daily**; 3/day: OOx
+    - **Daily**; 3/day: OOO
+    - **Daily**, Dreamlands; 3/day: OOO
     - Standard action: Remove fatigued/shaken/sickened
     - Immediate Action: advantage on Fort/Will
     - Immediate Action: stabilize & remain conscious
     - Regain 1 when defeat challenge target
 - Panache
     - **Daily**; 5/day: OOOOO
+    - **Daily**, Dreamlands; 5/day: OOOxx
     - Regain on crit/kill with light/1h piercing melee weapon, monk weapon, or unarmed strike
         - Derring-do
             - No action, spend 1 point
@@ -88,17 +97,24 @@
 
 ## Magical Abilities
 - At-will - *detect chaos* (CL 2)
-    - focus on target as move to learn as if cast and studied for 3 rounds
+    - focus on target within 60 ft as move to learn as if cast and studied for 3 rounds
 - Smite Chaos
     - **Daily**, swift action; 1/day: O
+    - **Daily**, swift action, Dreamlands; 1/day: O
     - Bonus: +5 atk, +2 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
     - **Daily**; 6/day: OOOOOO
+    - **Daily**, Dreamlands; 6/day: OOOxxx
     - Heal: 1d6
 - Last Rites
     - **Daily**; 2/day: OO
+    - **Daily**, Dreamlands; 2/day: OO
+    - Target haunts, or undead with *resurrection* vulnerability
     - Damage: 4d6
+- *Augury* from harrow deck, CL 10
+    - **Weekly**, 10 minutes; 2/wk: Ox
+    - **Weekly**, 10 minutes, Dreamlands; 2/wk: OO
 
 ## Spells (Medium List) - DC: 15 + spell lvl, CL 8 (10 for checks or when use harrow deck as focus for divination)
 - Concentration: +15
@@ -106,7 +122,7 @@
 |---------------------------------------------------------------|
 | Ranges - Close: 45 ft, Medium: 180 ft, Far: 720 ft            |
 |-------------------------------|-------------------------------|
-| **0th**; No daily limit       | **1st**; 3/day: OOO           |
+| **0th**; No daily limit       | **1st**; 3/day: OOO           | Dreamlands; 3/day: OOO
 |-------------------------------|-------------------------------|
 | Detect Magic                  | Calm Spirit                   |
 | Detect Psychic Significance   | Identify                      |
@@ -117,16 +133,21 @@
 
 ### Spells as Mesmerist (Archmage/Hierophant)
 - **0th**; No daily limit
-- **1st**; 6/day: OOOOOx
+- **1st**; 6/day: OOOOxx
 - **2nd**; 4/day: OOOx
+
+### Spells as Mesmerist (Archmage/Hierophant), in Dreamlands
+- **0th**; No daily limit
+- **1st**; 6/day: OOOOOx
+- **2nd**; 4/day: OOxx
 
 ### Archmage Bonus Spells (Sor/Wiz list, cast as arcane spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard
-<!-- 0. Detect Fiendish Presence -->
+0. Detect Fiendish Presence
 <!-- 1. Bestow Planar Infusion -->
 <!-- 1. Silent Image -->
-<!-- 1. Snowball -->
-<!-- 2. Instant Weapon -->
+1. Snowball
+2. Instant Weapon
 
 ### Hierophant Bonus Spells (Cle/Ora list, cast as divine spells)
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
@@ -134,9 +155,9 @@
 <!-- 1. Bestow Planar Infusion -->
 1. Cure Light Wounds
 1. Touch of Truthtelling
-2. Aboleth's Lung
+<!-- 2. Aboleth's Lung -->
 2. Cure Moderate Wounds
-<!-- 2. Instant Weapon -->
+2. Instant Weapon
 <!-- 2. Restoration, Lesser -->
 <!-- 2. Ghostbane Dirge -->
 <!-- 2. Holy Ice Weapon -->

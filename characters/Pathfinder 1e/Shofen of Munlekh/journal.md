@@ -55,7 +55,7 @@
     - Seven different dream realms to gather gifts for the Mad Poet
         1. Viscount's signet ring - COMPLETE
             - Viscount's gala
-            - Pietro **Blhhgh?** in the dream realm of Celephalis
+            - Pietro in the dream realm of Celephalis
             - City of Celephalis appears frozen in time, despite time passing there
             - Viscount is known for hosting extravagant parties, at the Sunset Waltz
             - Attendees ignore strange happenings at said parties, to not lose the Viscount's favor
@@ -86,27 +86,33 @@
             - We have ritual for reaching Ench Woods
             - Nestor Bindley, dude rescued from fey trap
                 - Looking for Calvetta Briks (sp?), his adversary, a big game hunter from ??? (hell knight region of Golarion), poaching denizens as trophies
-        3. Skull of ghoul royalty
+        3.  Skull of ghoul royalty - COMPLETE
             - Large communities led by royalty
             - Dread Plateau of Leng, more powerful ghouls inhabit
             - DPL is physical place, attaches to dreamlands
             - Area of perpetual battle against royalty
             - We have ritual for reaching Perpetual Battle
-        4. Green stone idol of a water lizard
+            - Ghouls met:
+                - Wilkins
+            - Gug: 4 arms, up-facing mouth
+            - Promenade: columns, carved with intertwined creatures
+                - Bones cluttering across the ground
+                - 3 bone golems, 1 gug
+        4. Green stone idol of a water lizard - COMPLETE
             - Doom Idol of Ib
             - Books: The Festival of the Snake, The Forgotten Servants, The Weeping Ones
             - Water Lizard is a representation of Bokrug, one of the Great Old Ones (GOOs)
             - A Treatise collating GOOs rumors asserts that Bokrug lives in an unnamed lake in Dreamlands
             - Race of alien creatures founded the city of Ib on the shores of the lake, the idol was central to their worship of Bokrug
             - Ib was destroyed by humans disgusted by aliens' rites and physi...ogomy?
-            - Folk of Sarnath **?????**
-            - froug bois
+            - froug bois, something about sarnath
                 - age: about 2000-ish
                 - alignment: CE
                 - native lang: Ib (a form of sign language)
                 - race: Ib Shade
                 - religion: Bokrug
                 - place of origin: Ib
+            - **Had to leave Pelutani behind**
         5. Night hag ambassador's heartstone - COMPLETE
             - Worth almost 2000gp on open market as a periapt
             - Once separated from its owner, normally retains magic for only 1 day before fading into a normal gem
@@ -120,20 +126,26 @@
                 - Almonetta: Patron getting high
                 - Dolfeth: Wallflower but sus, CHAOS
                 - Kafriki: Annoying bard/server
-        6. Captain's tricorne
+        6. **Captain's tricorne**
             - [Voyage of the Rainbow Servant]
             - Tricorne belongs to a denizen of Leng, named Captain Vadrack
                 - Longship, The Bloodwind: dark wood and red sails
                 - Slave ship, slaves usually never seen from again
                 - Sails in Dreamlands, but can cross planar boundaries
                 - Cpt Vadrack is relentless in pursuing victims
-        7. Red webbed foot
+        7. **Red webbed foot**
             - Foot of a Womp
             - Avoid cemetaries and necropolises, where Womp's congregate
             - Ceramic Necropolis
 
 - Tailed by The Tribute Taker, a Rasmiri boat
     - we beat him up, killed several of his crew, beached his boat, freed his galley slaves, and let him flee on land without valuables
+
+- Spent multiple weeks, until day 48, recovering from our encounter with Bokrug
+    - Stopped to resupply in Riverton, met Narel Twice-Born: 65 yo, CE, fighter 1, Cleric of Hanspur 6, elf, worships hanspur, speaks common
+        - gave us a valuable ruby because he was scared of it
+        - harvested in dreamlands, leng ruby (flawless), nonmagical, harmless, big money, child's fist sized
+        - attacked by an "ahoul", created by ancient society? ape-bat, may understand some language. bullies creatures into offering gems or treasure
 
 ### Archive
 - Group began as caligari and savine in asylum on island near thrushmoor, all had lost memory
@@ -162,7 +174,6 @@
 - The Tatterman
     - He wore all yellow, tattered robes and bandages
     - Wielded a large razor (now owned by Longraix)
-        - 
     - Learned his name from a dream, he appeared in them frequently
         - Sevine and Caligari had those dreams worse
 
