@@ -60,6 +60,7 @@
 ## Grand Champion
 ### Favored Weapon Group (Ex)
 - Select fighter wpn group: Natural
+    - Additional weapons: Armor spikes
 - If feat applies to one wpn in group, apply to all
 
 ### Prowess (Ex)
@@ -75,7 +76,7 @@
     3. +1 CMB disarm, sunder, trip
     4. +1 CMD vs disarm, sunder, drip
     5. +1 intimidate
-- Chosen: 2, 2
+- Chosen: 2, 2, 1 (armor spikes)
 
 ### Exercise
 - At lvl 2 & every 4 more
@@ -100,7 +101,7 @@
     2. +1 shield bonus to AC
     3. Crit damage +1d4/6/8 for x2/3/4+
     4. +1 Will
-- Chosen: 4
+- Chosen: 1
 
 ### Practice
 - At lvl 5 & every 5 more
@@ -114,23 +115,19 @@
 - At lvl 9, move normal speed in hvy armor
 - (*Sash of the War Champion* grants +4 to effective lvl for this feature)
 
-# Future Class Features (lvl 6)
+# Future Class Features (lvl 7)
 ## Misc
 - +1 BAB
-- +1 Fort, Ref, Will
 
 ## Gourmand
 ### Indulgences
 - +1
 
 ### Essence Restrictions
-- DR: 3/ -> 5/
-- Immunities: Dazed, staggered
-- Movement: 40 ft -> 50 ft
+?
 
 ## Grand Champion
-### Weapon Advantage
-- +1 bonus
+?
 
 ### Exercise
 - +1 bonus

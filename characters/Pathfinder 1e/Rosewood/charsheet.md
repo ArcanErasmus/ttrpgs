@@ -1,5 +1,5 @@
 # Six Hardy Rosewoods Entwined and Kneeling ("Rosewood"), any (Giant has no gendered pronouns)
-## NE, Girran, (Gourmand/Grand Champion) 5
+## NE, Girran, (Gourmand/Grand Champion) 6
 - Large humanoid (giant)
 - Actual Deity: Unwittingly serves the gluttony aspect of a major evil power
 - Worshipped Deity: Ydersius, the Primal Coil https://pathfinderwiki.com/wiki/Ydersius
@@ -10,7 +10,7 @@
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|
-| STR  | 25 (+7) | -
+| STR  | 26 (+8) | -
 | DEX  | 14 (+2) | -
 | CON  | 22 (+6) | -
 | INT  | 11 (  ) | -
@@ -22,32 +22,33 @@
 | Stat | Value          | Temp |
 |------|----------------|------|
 | AC   | 23 (11 T/23 F) | 
-| BAB  | +5             | 
-| CMB  | +13            | +5 grapple
-| CMD  | 25             | +1 grapple
+| BAB  | +6             | 
+| CMB  | +15            | +5 grapple
+| CMD  | 28             | +1 grapple
 | Init | +2             | 
-| Land | 45/30 ft       | 35
-| Swim | 40/30 ft       | 35
+| Land | 55/40 ft       |
 |------|-----|-----|----|------|
 | Stat | Max | Cur | Temp      |
 |------|-----|-----|-----------|
-| HP   |  80 |  80 | 0, 0 NL
+| HP   |  99 |  99 | 0, 0 NL
 |------|-----|-----|-----------|
-HD rolls (d12): [12], 11, 11, 1, 10
-AC breakdown: -1 size, +2 dex, +10 armor, +2 natural
-https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
+
+- HD rolls (d12): [12], 11, 11, 1, 10, 12
+- 15x5x3x10=2250gp for full hp retraining
+- AC breakdown: -1 size, +2 dex, +10 armor, +2 natural
+- https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encumbrance-for-Other-Base-Speeds
 
 ## Resistances/Immunities
 - SR: No
 - Immunities: None
 - Resistances: None
-- DR: 2/cold iron
+- DR: None
 
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +11   | -
-| Ref  | Dex  | +7    | -
+| Fort | Con  | +12   | -
+| Ref  | Dex  | +8    | -
 | Will | Wis  | +1    | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
@@ -55,24 +56,24 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Trait (Serpentine Squeeze): +1 trait bonus to CMB/CMD to grapple
 - Trait (Suck in Your Gut): Only half penalties when squeezing
 - Ability (Grab): +4 bonus to CMB to grapple
-- Item (Whet Bone): Chew 15 mins, +1 dmg next bite
 - Class (Weapon Advantage): +2 to confirm crits with natural weapons
+- Class (Weapon Dominance): +1 to atk/dmg with natural weapons
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | ACP | Temp 
 |---|---|---|--------------------|-----|-----|-----|------
-| 5 |   | C | Acrobatics         | Dex | +10 | -4  |
+| 6 |   | C | Acrobatics         | Dex | +11 | -2  |
 |   |   |   | Appraise           | Int |     |     |
 |   | T |   | Autohypnosis       | Wis |     |     |
 |   |   |   | Bluff              | Cha |     |     |
-| 1 |   | C | Climb              | Str | +11 | -4  |
+| 1 |   | C | Climb              | Str | +12 | -2  |
 |   |   | C | Craft              | Int |     |     |
-| 5 |   | C |   Cooking          | Int | +10 |     |
+| 6 |   | C |   Cooking          | Int | +11 |     |
 |   |   |   | Diplomacy          | Cha |     |     |
-|   | T |   | Disable Device     | Dex |     | -4  |
+|   | T |   | Disable Device     | Dex |     | -2  |
 |   |   |   | Disguise           | Cha |     |     |
-|   |   |   | Escape Artist      | Dex |     | -4  |
-|   |   |   | Fly                | Dex |     | -4  |
+|   |   |   | Escape Artist      | Dex |     | -2  |
+|   |   |   | Fly                | Dex |     | -2  |
 | 1 | T | C | Handle Animal      | Cha | +4  |     |
 |   |   |   | Heal               | Wis |     |     |
 | 1 |   | C | Intimidate         | Cha | +4  |     | +4
@@ -91,17 +92,17 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 |   |   |   | Perception         | Wis |     |     |
 |   |   |   | Perform            | Cha |     |     |
 |   | T | C | Profession         | Wis |     |     |
-| 1 |   | C | Ride               | Dex | +6  | -4  |
+| 1 |   | C | Ride               | Dex | +6  | -2  |
 |   |   |   | Sense Motive       | Wis |     |     |
-|   | T |   | Sleight of Hand    | Dex |     | -4  |
+|   | T |   | Sleight of Hand    | Dex |     | -2  |
 |   | T |   | Spellcraft         | Int |     |     |
-|   |   |   | Stealth            | Dex | -6  | -4  |
+|   |   |   | Stealth            | Dex | -6  | -2  |
 | 1 |   | C | Survival           | Wis | +4  |     |
-| 2 |   | C | Swim               | Str | +12 | -4  |
+| 2 |   | C | Swim               | Str | +13 | -2  |
 |   | T |   | Use Magic Device   | Cha |     |     |
 |---|---|---|--------------------|-----|-----|-----|------
 
-- Skill ranks: 20/20
+- Skill ranks: 22/24
     - 5x(4+0) grand champion
 - Current encumbrance modifiers: -2 ACP, +3 max Dex, x4 run, 35% ASFC, normal speed
     - Items
@@ -119,7 +120,7 @@ https://www.d20pfsrd.com/gamemastering/exploration-movement/#TOC-Armor-and-Encum
 - Armor:     Light, Medium, Heavy, Shields, Tower Shields
 
 ## Favored Class Bonuses
-- (Gourmand, Girran) +5 stomach acid damage
+- (Gourmand, Girran) +6 stomach acid damage
 
 ## Racial Features
 ### Base Properties (17 RP)

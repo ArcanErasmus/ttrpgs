@@ -8,29 +8,34 @@ Whether it saw Rosewood as the strongest - or merely the weakest willed - is not
 - The hunger deity did not actually have a strong control over Rosewood, and its possession would certainly not work a second time. But what it did have was the ability to share its eternal hunger, and drive Rosewood to hunt and consume. Always taking just enough of anything eaten, the deity would not let Rosewood feel fullness. And so, Rosewood travels out of the swamp.
 
 ## Group Info
-|Sin     |Player  |Name         |Race           | Alignment |Class 1                                 |Class 2                           |
-|--------|--------|-------------|---------------|-----------|----------------------------------------|----------------------------------|
-|Gluttony|Violet  |Rosewood     |Girran         | NE        |Gourmand                                |Soulknife (Moonlight Meditant)    |
-|Wrath   |Shira   |Drasteia     |Tiefling       | CE        |Barbarian (Dreadnought, Raging Cannibal)|Cleric (Fiendish Vessel)          |
-|Envy    |Talia   |Namah        |Blooded Aasimar| LG/LE     |Cavalier (Grey Maiden)                  |Medium (Fiend Keeper)             |
-|Pride   |Caoimhe |Bhalthu      |Malenti        | CE (LG)   |Antipaladin (Dark Deacon)               |Monk (Scaled Fist, Martial Artist)|
-|Greed   |Sean    |Noonien      |Tiefling       | LE        |Mesmerist                               |Rogue (True Professional)         |
-|Sloth   |???     |???          |???            | ??        |???                                     |???                               |
-|--------|--------|-------------|---------------|-----------|----------------------------------------|----------------------------------|
+|Sin     |Player  |Name    |Race           | Alignment |Class 1                                 |Class 2                           |
+|--------|--------|--------|---------------|-----------|----------------------------------------|----------------------------------|
+|Gluttony|Violet  |Rosewood|Girran         | NE        |Gourmand                                |Soulknife (Moonlight Meditant)    |
+|Wrath   |Shira   |Drasteia|Tiefling       | CE        |Barbarian (Dreadnought, Raging Cannibal)|Cleric (Fiendish Vessel)          |
+|Envy    |Talia   |Namah   |Blooded Aasimar| LG/LE     |Cavalier (Grey Maiden)                  |Medium (Fiend Keeper)             |
+|Pride   |Caoimhe |Bhalthu |Malenti        | CE (LG)   |Antipaladin (Dark Deacon)               |Monk (Scaled Fist, Martial Artist)|
+|Greed   |Sean    |Noonien |Tiefling       | LE        |Mesmerist                               |Rogue (True Professional)         |
+|--------|--------|--------|---------------|-----------|----------------------------------------|----------------------------------|
+
+- Others
+|Sin     |Player  |Name    |Race           | Alignment |Class 1                                 |Class 2                           |
+|--------|--------|--------|---------------|-----------|----------------------------------------|----------------------------------|
+|Lust    |Jay (DM)|Ghost?  |Ghost?         | ??        |???                                     |???                               |
+|Sloth   |Jay (DM)|Ghost?  |Ghost?         | ??        |Summoner?                               |???                               |
 
 - Party Member Notes
     - Rosewood
-        - Type: Humanoid (giant, shapechanger)
-        - Immunities: Lycanthropy
+        - Type: Humanoid (giant)
+        - Immunities: none
         - Resistances: none
-        - DR: 1/silver
-        - Languages: Common, Giant
+        - DR: none
+        - Languages: Common (Imperial Elven), Noble Sylvan/Garden Sylvan, Swamp Giant
     - Bhalthu:
         - Type: Outsider (native)
         - Immunities: Acid, Cold, Disease
         - Resistances: Fire 10
         - DR: none
-        - Languages: Abyssal, Aquan, Celestial, Common
+        - Languages: Abyssal, Aquan, Celestial, Common (Imperial Elven)
     - Drasteia
         - Type: Outsider (native)
         - Immunities: none
@@ -42,19 +47,19 @@ Whether it saw Rosewood as the strongest - or merely the weakest willed - is not
         - Immunities: Electricity, Poison
         - Resistances: Acid 10, Cold 10, Fire 10
         - DR: 5/cold iron or good
-        - Languages: Abyssal, Common, Telepathy (touch)
+        - Languages: Abyssal, Common (Imperial Elven), Telepathy (touch)
     - Noonien
         - Type: Outsider (native)
         - Immunities: none
         - Resistances: Cold 5, Electricity 5, Fire 5
         - DR: none
-        - Languages: Abyssal, Common, Goblin, Infernal
+        - Languages: Abyssal, Common (Imperial Elven), Goblin, Infernal
     - Namah:
         - Type: Outsider (native)
         - Immunities: none
         - Resistances: none
         - DR: none
-        - Languages: Celestial, Common, Elvish, Humic
+        - Languages: Celestial, Common (Imperial Elven), Elvish, Humic
 
 ## Quest Log
 - I will eventually question *why* I am never satisfied. If I ever get an answer, I will then have to figure out how to do something about it. Possible solutions:
@@ -62,7 +67,11 @@ Whether it saw Rosewood as the strongest - or merely the weakest willed - is not
     - "Good" end: Enter my own stomach dimension (likely with the help of a Bound Bag, or in a similar ritual to the creation of one), and slay the hunger deity. This would free me of its aura of hunger, though I might also need to cleanse its influence from the demiplane.
 - Pay for laser-gun-eye from Jaboleth the Aboleth's Eyeball Shoppe
     - Retrieve stolen medusa eye, traced to the hold of a dwarven trading ship
-    - 
+- We completed the under-tower dungeon, reclaiming the orb, and releasing a "kaiju beetle" upon the lands (oops?)
+- We became acquainted with a special ghost (Ferrite the Acquarius)
+    - Sin of sloth, summoned eidolon of lust
+    - Ancient ghost from the old Sylvan empire ("garden sylvan" is too linguistically distinct to be mutually intelligible with their dialect)
+    - Relies on summoning elementals to interact with corporeal world
 
 # Gestalt lvl track
 - Alignment: Any neutral
@@ -78,8 +87,8 @@ Table: Gestalt - Gourmand, Grand Champion; Large character
 |  2 ||             +2 |  +3 |  +3 |  +0 || 1d8 |  1d4 |  2 |   || x | x |   |   |   || Taste, Uncanny Dodge
 |  3 ||             +3 |  +3 |  +3 |  +1 || 1d8 |+ 2d4 |  3 |   ||   |   | x |   |   || Armored Swiftness
 |  4 ||             +4 |  +4 |  +4 |  +1 ||+2d6 |  2d4 |  4 | x || x |   |   |   |   ||
-|* 5 ||             +5 |  +4 |  +4 |  +1 || 2d6 |+ 3d4 |  5 |   ||   |   |   | x | x || Gourmand's Maw (Large)
-|  6 ||          +6/+1 |  +5 |  +5 |  +2 || 2d6 |  3d4 |  6 |   || x | x |   |   |   ||
+|  5 ||             +5 |  +4 |  +4 |  +1 || 2d6 |+ 3d4 |  5 |   ||   |   |   | x | x || Gourmand's Maw (Large)
+|* 6 ||          +6/+1 |  +5 |  +5 |  +2 || 2d6 |  3d4 |  6 |   || x | x |   |   |   ||
 |  7 ||          +7/+2 |  +5 |  +5 |  +2 || 2d6 |+ 4d4 |  7 | x ||   |   | x |   |   ||
 |  8 ||          +8/+3 |  +6 |  +6 |  +2 ||+2d8 |  4d4 |  8 |   || x |   |   |   |   ||
 |  9 ||          +9/+4 |  +6 |  +6 |  +3 || 2d8 |+ 5d4 |  9 |   ||   |   |   |   | x ||

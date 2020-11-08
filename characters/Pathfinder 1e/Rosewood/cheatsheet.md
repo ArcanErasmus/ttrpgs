@@ -1,21 +1,26 @@
 # Rosewood's Abilities Cheat-sheet
 ## Weapons
-| Weapon         | Atk | Damage        | Crit     | Range  | Notes
-|----------------|-----|---------------|----------|--------|------------
-| Armor Spikes   | +11 | 1d8+7  (P)    |    20/x2 |        | Light, Deals damage as bonus on grapple atk
-| Bite           | +11 | 3d6+7  (BPS)  |    20/x2 |        | Primary, Grab
-| Gore           | +11 | 2d8+7  (P)    |    20/x2 |        | Primary
-| Tentacle       | +11 | 2d6+7  (B)    |    20/x2 | 20 ftr | Primary, Grab, Pull
-| Tongue         | +11 | 1d6+7  (B)    |    20/x2 | 40 ftr | Primary, Pull
-|----------------|-----|---------------|----------|--------|------------
-| Regurgitate    | +6  | 1d6+7  (B)    |    20/x2 | 20 ft  | See class features
-| Acid Breath    |     | 3d4+11 (Acid) |          | 10 ft  | 7/day, Ref DC 18 half
-|   Cone         |     |               |          |        | Cone
-|   Line         |     | +50%          |          | x2     | Single target
-|   Burst        |     |               |          | x2     | 10 ft radius burst on impact
-|----------------|-----|---------------|----------|--------|------------
-| Sling          | +5  | 1d4+7  (B)    |    20/x2 | 75 ft  | +1 atk & d6 dmg if using bullet
+| Weapon         | Atk | Damage        | Crit            | Range  | Notes
+|----------------|-----|---------------|-----------------|--------|------------
+| Bite           | +14 | 3d6+9  (BPS)  |    20/x2        |        | Primary, Grab
+| Gore           | +14 | 2d8+9  (P)    |    20/x2        |        | Primary
+| Claw           | +14 | 3d8+9  (S)    |    20/x2        |        | Primary
+| Tongue         | +14 | 1d6+9  (B)    |    20/x2        | 40 ftr | Primary, Pull
+| Armor Spikes   | +14 | 2d6+8  (P)    |    20/x2        |        | Light, Deals damage as bonus on grapple atk
+<!-- | Tentacle       | +14 | 2d6+9  (B)    |    20/x2        | 20 ftr | Primary, Grab, Pull -->
+|----------------|-----|---------------|-----------------|--------|------------
+| Regurgitate    | +8  | 1d8+9  (B)    |    20/x2        | 20 ft  | See class features
+| Sling          | +6  | 1d4+8  (B)    |    20/x2        | 75 ft  | +1 atk & d6 dmg if using bullet
+|----------------|-----|---------------|-----------------|--------|------------
+| Ability        | Act | Damage        | Save            | Range  | Notes
+|----------------|-----|---------------|-----------------|--------|------------
+| Trample        | Ful | 2d6+13 (B)    | Ref DC 21 Half^ |        | Save or make AoO at -4; Make move or charge
+| Acid Breath    | Std | 3d4+12 (Acid) | Ref DC 19 Half  | 10 ft  | 7/day
+|   Cone         |     |               |                 |        | Cone
+|   Line         |     | +50%^         |                 | x2     | Extra dmg to first target
+|   Burst        |     |               |                 | x2     | 10 ft radius burst on impact
 https://rpg.stackexchange.com/a/62720
+1, 1d2, 1d3, 1d4, 1d6, 1d8, 1d10, 2d6, 2d8, 3d6, 3d8, 4d6, 4d8, 6d6, 6d8, 8d6, 8d8, 12d6, 12d8, 16d6
 
 ## Abilities
 ### Grab (Ex)
@@ -23,6 +28,15 @@ https://rpg.stackexchange.com/a/62720
 - Only works on equal size or smaller
 - Can choose to grapple at -20 to avoid being grappled
 - +4 bonus on CMB to start/maintain grapple
+
+### Quickness (Su)
+- Can take an extra move action per turn
+
+### Trample (Ex)
+- Full-rd action, overrun maneuver without making check
+- Deals slam + 1.5x Str mod to all targets moved over
+- Targets can make AoO at -4, or Ref for half (DC 10 + 1/2 lvl + Str mod)
+- Can only trample a specific creature once per round
 
 ## Phylocruxes (Sp) (CL 4)
 - 3/day - none
@@ -65,29 +79,29 @@ https://rpg.stackexchange.com/a/62720
 ### Rules
 - 12 AC, 13 hp
 - Size Large capacity
-- 3d6+7 (B) + 3d4+5 (Acid)
+- 3d6+9 (B) + 3d4+6 (Acid)
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 13/13hp - tumblespark
-2. 13/13hp - kaiju beetle
+1. 15/15hp - empty
+2. 15/15hp - empty
 
 ## Indulgence Quick Info
 ### Rules
-- Max: 5, Max/Type: 2
+- Max: 6, Max/Type: 2
 - Abilities available at current lvl:
-    x DR: 3/x max
+    - DR: 5/x max
     - Feat (must meet prereqs)
-    - Immunity: Bleed, blindness, charm, deafness, fear, hunger, nausea, shaken, sleep
+    - Immunity: Bleed, blindness, charm, dazed, deafness, fear, hunger, nausea, shaken, sleep, staggered
     - Languages (and communication methods)
     - Natural Armor: +3
    xx Natural Attack (except bite)
-    - Phylocrux (Sp): 3/-/-/- uses per day
+    - Phylocrux (Sp): 5/3/-/- uses per day
     - Resistance to one energy type
     x Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
     - Skill: (in entry or had ranks) +2 bonus, count as trained
-    - Special Attack: Extraordinary, Supernatural
-    x Speed: 40 ft max; land, swim, climb
+   xx Special Attack: Extraordinary, Supernatural
+    - Speed: 50 ft max; land, swim, climb
     - Spell Resistance
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
 | Type               | Tier 1 (1-5 HD)    | Tier 2 (6-10 HD)       | Tier 3 (11-15 HD) | Tier 4 (16-20 HD)             |
@@ -110,19 +124,19 @@ https://rpg.stackexchange.com/a/62720
 ### Indulgences
 1. Choker
     - https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker
-    - Chosen essence: Tentacle natural attack (1d4 plus grab, 10 ft reach)
+    - Chosen essence: Quickness (Su)
     - Available essences:
         - DR: None
         - Feats: Improved Initiative, Skill Focus
         - Immunities: None
         - Languages: Undercommon
         - Natural Armor: +4
-        x Natural Attacks: 2 tentacles 1d4 plus grab (10 ft reach)
+        - Natural Attacks: 2 tentacles 1d4 plus grab (10 ft reach)
         - Phylocrux: Aberration, 3 HD (*long arm*)
         - Resistances: None
         - Senses: Darkvision 60 ft
         - Skills: Climb, Stealth
-        - Special Abilities: Constrict (Ex), Strangle (Ex)
+        x Special Abilities: Constrict (Ex), Strangle (Ex), Quickness (Su)
         - Speeds: 20 ft land, 10 ft climb
         - SR: No
 2. Sea Urchin, Hunter
@@ -143,21 +157,21 @@ https://rpg.stackexchange.com/a/62720
         - Speeds: 15 ft land
         - SR: No
 3. Agathion, Bishop
-    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop/
-    - Chosen essence: 40 ft swim
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop
+    - Chosen essence: Claw (1d10)
     - Available essences:
         - DR: 5/evil or silver
         - Feats: Agile Maneuvers, Improved Initiative, Self-Sufficient, Weapon Finesse
         - Immunities: Electricity, petrification
         - Languages: Celestial, Common (?), Draconic, Infernal, Truespeech
         - Natural Armor: +4
-        - Natural Attacks: 2 claws 1d10
+        x Natural Attacks: 2 claws 1d10
         - Phylocrux: Outsider, 7 HD (*protection from energy*)
         - Resistances: Cold 10, sonic 10
         - Senses: Darkvision 60 ft, low-light vision
         - Skills: Bluff, Heal, Intimidate, Kn (geography, nature, planes), Perception, Sense Motive, Stealth, Survival, Swim
-        - Special Abilities: Fear Aura (Su), Stunning Strike (Ex)
-        x Speeds: 30 ft land, 60 ft swim
+        - Special Abilities: Aquatic (Ex), Fear Aura (Su), Stunning Strike (Ex)
+        - Speeds: 30 ft land, 60 ft swim
         - SR: 15
 4. Lightning Elemental, Medium
     - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
@@ -165,7 +179,7 @@ https://rpg.stackexchange.com/a/62720
     - Available essences:
         - DR: None
         - Feats: Dodge, Improved Initiative, Weapon Finesse
-        - Immunities: electricity, bleed, paralysis, poison, sleep, stunning, critical hits, flanking
+        - Immunities: Electricity, bleed, paralysis, poison, sleep, stunning, critical hits, flanking
         - Languages: Auran
         - Natural Armor: +1
         - Natural Attacks: Slam 1d6 + 1d4 electricity
@@ -176,21 +190,37 @@ https://rpg.stackexchange.com/a/62720
         - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
         - Speeds: 100 ft fly (perfect)
         - SR: No
-5. Advanced Atomie (2 lvls rogue, undecided undead template)
-    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie/
-    - https://www.d20pfsrd.com/bestiary/monster-listings/templates/advanced-creature-cr-1/
-    - Chosen essence: 2/cold iron
+5. Tumblespark
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/tumblespark
+    - Chosen essence: Trample
     - Available essences:
-        x DR: 2/cold iron
-        - Feats: Improved Initiative, Weapon Finesse
-        - Immunities: None (undead?)
-        - Languages: Common, Sylvan
-        - Natural Armor: +2
-        - Natural Attacks: None
-        - Phylocrux: Fey, 4 HD (*disguise self*)
+        - DR: none
+        - Feats: Dodge, Mobility, Weapon Finesse
+        - Immunities: Electricity, elemental traits
+        - Languages: None
+        - Natural Armor: +5
+        - Natural Attacks: Slam 1d6
+        - Phylocrux: Outsider, 5 HD (*reduce person*)
         - Resistances: None
-        - Senses: Low-light vision
-        - Skills: Acrobatics, Bluff, Escape Artist, Fly, Perception, Sense Motive, Stealth
-        - Special Abilities: Evasion (Ex), Fast Stealth (Ex)
-        - Speeds: 20 ft land, 50 ft fly (good)
+        - Senses: Darkvision 60 ft
+        - Skills: Acrobatics, Fly, Perception
+        x Special Abilities: Arc (Ex), Insubstantial Form (Ex), Trample (Ex)
+        - Speeds: 30 ft land, 30 ft fly (perfect)
+        - SR: No
+6. Dog, Goblin
+    - https://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/dog/goblin-dog
+    - Chosen essence: 50 ft land speed
+    - Available essences:
+        - DR: none
+        - Feats: Toughness
+        - Immunities: Disease
+        - Languages: None
+        - Natural Armor: +1
+        - Natural Attacks: Bite 1d6
+        - Phylocrux: Animal, 1 HD (*speak with animals*)
+        - Resistances: None
+        - Senses: Low-light vision, scent
+        - Skills: Stealth
+        - Special Abilities: Allergic Reaction (Ex)
+        x Speeds: 50 ft land
         - SR: No

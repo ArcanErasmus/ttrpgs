@@ -229,7 +229,7 @@
         - SR: No
 
 - Agathion, Bishop
-    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop/
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop
     - Chosen essence: ?
     - Available essences:
         - DR: 5/evil or silver
@@ -245,6 +245,25 @@
         - Special Abilities: Fear Aura (Su), Stunning Strike (Ex), truespeech (maybe lang?)
         - Speeds: 30 ft land, 60 ft swim
         - SR: 15
+
+
+- Tumblespark
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/tumblespark
+    - Chosen essence: ?
+    - Available essences:
+        - DR: none
+        - Feats: Dodge, Mobility, Weapon Finesse
+        - Immunities: Electricity, elemental traits
+        - Languages: None
+        - Natural Armor: +5
+        - Natural Attacks: Slam 1d6
+        - Phylocrux: Outsider, 5 HD (*reduce person*)
+        - Resistances: None
+        - Senses: Darkvision 60 ft
+        - Skills: Acrobatics, Fly, Perception
+        - Special Abilities: Arc (Ex), Insubstantial Form (Ex)
+        - Speeds: 30 ft land, 30 ft fly (perfect)
+        - SR: No
 
 ### First World
 - Bulabar
@@ -339,8 +358,8 @@
 
 ### Underground City
 - Advanced Atomie (2 lvls rogue, undecided undead template)
-    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie/
-    - https://www.d20pfsrd.com/bestiary/monster-listings/templates/advanced-creature-cr-1/
+    - https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie
+    - https://www.d20pfsrd.com/bestiary/monster-listings/templates/advanced-creature-cr-1
     - Chosen essence: ?
     - Available essences:
         - DR: 2/cold iron

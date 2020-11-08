@@ -1,53 +1,70 @@
 # Rosewood's Inventory
 ## Item List
-| Name                     | Weight | Notes
-|--------------------------|--------|--------------------------------
-| **Worn Equipment**       | 129.3  | On body only
-|--------------------------|--------|--------------------------------
-| Backpack, Masterwork     |  16    | +1 Str for carry capacity
-| Belt Pouch               |   2    |
-| *Muleback Cords*         |   0.25 | +8 Str for carry capacity
-| *+1 Spiked Full Plate*   | 110    | +10 AC, +3 max Dex, -5 ACP, 35% ASFC, reduced speed, 1d8 + Str piercing on grapple atk
-| *Sash of the War Champ*  |   1    | +4 lvl for Armored Flexibility
-|--------------------------|--------|--------------------------------
-| **Weapons**              |        | Includes ammo, related items
-|--------------------------|--------|--------------------------------
-| Loot Pile (see below)    |        |
-| Sling                    |        |
-|--------------------------|--------|--------------------------------
-| **Tools/General**        |  67    | Non-consumable catch-all
-|--------------------------|--------|--------------------------------
-| Bedroll                  |  10    |
-| Blanket                  |   6    |
-| Cardinal's Skull         |   5    | I am bound to protect it
-| Cooking Kit, Masterwork  |  32    | +2 circumstance Craft (Cooking); Pot & tripod, skillet, ladle, skewer, cutting board, knife, tinder, simple seasonings
-| Flint & Steel            |        | Light torch as full-round action
-| Hemp Rope, 50 ft         |  10    | 2hp, Str DC 23
-| Mess Kit                 |   2    | Tin plate, bowl, cup, utensils, on leather loop
-| Whet Bone                |   2    | Chew 15 mins, +1 dmg next bite
-|--------------------------|--------|--------------------------------
-| **Supplies/Consumables** | 152    | Mundane items
-|--------------------------|--------|--------------------------------
-| Rations & Preserved Food | 130    |
-| Soap                     |        | 50 charges
-| Torches (8)              |   6    | 20 ft normal light, 1hr burn
-| Waterskin (2)            |  16    | 2 lbs empty, 8 lbs full (each)
-|--------------------------|--------|--------------------------------
-| **Drugs**                |        | Try not to get too addicted! (Minor addictions barely matter)
-|--------------------------|--------|--------------------------------
-| Pesh                     |        | https://www.aonprd.com/Drugs.aspx?ItemName=Pesh +Str, moderate
-| Flayleaf                 |        | https://www.aonprd.com/Drugs.aspx?ItemName=Flayleaf +save vs mind-aff/fatigie, minor
-| Desert Coffee            |        | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/desert-coffee ignore fatigue, minor
-| Magesight                |        | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/magesight detect magic sight, minor
-| Vigilance                |        | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/vigilance +perception, moderate
-|--------------------------|--------|--------------------------------
-| **Magic Items**          |        | Includes magic consumables
-|--------------------------|--------|--------------------------------
-| Fey Map (no teleport)    |        | Only charts the First World
-|--------------------------|--------|--------------------------------
-| **Coins**                |   0.3  | 0pp 0gp 15sp 1cp
-|--------------------------|--------|--------------------------------
-| **Total**                | 348.3  | Light Load
+| Name                     | Weight  | Notes
+|--------------------------|---------|--------------------------------
+| **Worn Equipment**       |         | On body only
+|--------------------------|         |--------------------------------
+| Backpack, Masterwork     |    16   | +1 Str for carry capacity
+| Belt Pouch               |     2   |
+| *Muleback Cords*         |     0.3 | +8 Str for carry capacity
+| *+1 Spiked Full Plate*   |   110   | +10 AC, +3 max Dex, -5 ACP, 35% ASFC, reduced speed, 1d8 + Str piercing on grapple atk
+| *Sash of the War Champ*  |     1   | +4 lvl for Armored Flexibility
+|--------------------------|         |--------------------------------
+| **Weapons**              |         | Includes ammo, related items
+|--------------------------|         |--------------------------------
+| Loot Pile (see below)    |         |
+| Sling                    |         |
+|--------------------------|         |--------------------------------
+| **Tools/General**        |         | Non-consumable catch-all
+|--------------------------|         |--------------------------------
+| Bedroll                  |    10   |
+| Blanket                  |     6   |
+| Cardinal's Skull         |     5   | I am bound to protect it
+| Cooking Kit, Masterwork  |    32   | +2 circumstance Craft (Cooking); Pot & tripod, skillet, ladle, skewer, cutting board, knife, tinder, simple seasonings
+| Flint & Steel            |         | Light torch as full-round action
+| Hemp Rope, 50 ft         |    10   | 2hp, Str DC 23
+| Mess Kit                 |     2   | Tin plate, bowl, cup, utensils, on leather loop
+|--------------------------|         |--------------------------------
+| **Supplies/Consumables** |         | Mundane items
+|--------------------------|         |--------------------------------
+| Rations & Preserved Food |    50   |
+| Soap                     |         | 50 charges
+| Torches (8)              |     6   | 20 ft normal light, 1hr burn
+| Waterskin (2)            |    16   | 2 lbs empty, 8 lbs full (each)
+|--------------------------|         |--------------------------------
+| **Drugs**                |         | Try not to get too addicted! (Minor addictions barely matter)
+|--------------------------|         |--------------------------------
+| Pesh                     |         | https://www.aonprd.com/Drugs.aspx?ItemName=Pesh +Str, moderate
+| Flayleaf                 |         | https://www.aonprd.com/Drugs.aspx?ItemName=Flayleaf +save vs mind-aff/fatigie, minor
+| Desert Coffee            |         | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/desert-coffee ignore fatigue, minor
+| Magesight                |         | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/magesight detect magic sight, minor
+| Vigilance                |         | https://www.d20pfsrd.com/gamemastering/afflictions/drugs/vigilance +perception, moderate
+|--------------------------|         |--------------------------------
+| **Misc/Loot**            |         |
+|--------------------------|         |--------------------------------
+| Djezet doses (15)        |    30   | $200/dose
+| Self-healing glass       | (2000)  | $100k total, waiting 1 month for transaction to go through
+|--------------------------|         |--------------------------------
+| **Coins**                |         | $3765.71
+|--------------------------|---------|--------------------------------
+| **Total**                |   266.3 |
+
+scrolls ($6975 total)
+- *dismissal* x2, $1125 each
+- *dominate elemental* (as *dominate person*, $1125)
+- *lesser planar ally*, $2900
+- *remove radioactivity*, $700
+
+wands ($4440 total)
+- *radiation ward* (10/50), $900
+- *lesser restoration* (30/50), $2700
+- *greater make whole* (2/50), $840
+
+other:
+- *fog-cutting lenses*, $8000
+- *cloak of earth elemental* (rehashed *cloak of the manta ray* but realistically priceless)
+- 5 keystones, contain *glyph of warding*
+    - when non-native non-elemental outsider passes thru doorway, causes explosion
 
 ## Carrying Capacity
 | Load      |  lbs  | Penalties
