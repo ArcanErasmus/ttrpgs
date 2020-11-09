@@ -205,353 +205,47 @@
     - Poison
 
 ## Mythic Options
-- Paths
+- References
     - Champion https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/champion
-        - Ability
-            <!-- - Distant Barrage -->
-            - Fleet Charge
-            - Sudden Attack
-        - Tier 1
-            - Aerial Assault
-            - Always a Chance
-            <!-- - Always Armed -->
-            <!-- - Armor Master -->
-            <!-- - Backlash -->
-            <!-- - Blowback -->
-            - Burst Through
-            <!-- - Clean Blade -->
-            - Climbing Master
-            <!-- - Crusader -->
+    - Universal https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
+    - Mutant `Mythic Mastery - Mutant Heritage.pdf`
+- Path of the Champion (Mutant Heritage) + Universal Path
+    - HP/Tier: 5
+    - Ability
+        - Fleet Charge
+        - Sudden Attack
+    - Tier 1
+        - Champion
             - Devastating Smash
-            <!-- - Endless Hatred -->
-            <!-- - Ever Ready -->
-            - Flash of Rage
-            - Impossible Speed
             - Imprinting Hand
             - Juggernaut
-            - Lesson Learned
-            <!-- - Limitless Range -->
-            <!-- - Meat Shield -->
-            <!-- - Mounted Maniac -->
-            <!-- - Mule's Strength -->
-            <!-- - Mythic Ki -->
-            <!-- - Mythic Rage -->
-            <!-- - Mythic Smite -->
-            <!-- - Mythic Weapon Training -->
             - Punishing Blow
-            <!-- - Sniper's Riposte -->
-            - Sunder Storm
-            - Swimming Master
-            <!-- - Tear Apart -->
-            <!-- - Titan's Bane -->
-            <!-- - Uncanny Grapple -->
-            <!-- - Wall Smasher -->
-        - Tier 3
-            - Destroyer
-            - Disabling Strike
-            - Elemental Fury
-            - Fleet Warrior
-            <!-- - Groundshaker -->
-            <!-- - Incredible Parry -->
-            - Maneuver Expert
-            <!-- - Master Grappler -->
-            - Maximized Critical
-            - Mighty Hurler
-            - Penetrating Damage
-            <!-- - Precision -->
-            <!-- - Titan's Rage -->
-            <!-- - To the Death -->
-            - Unstoppable Shot
-        - Tier 6
-            - Critical Master
-            <!-- - Fistfull of Daggers -->
-            - Perfect Strike
-            <!-- - Seven-League Leap -->
-            - Shatter Spells
-            - Sweeping Strike
-        - Tier 10
-            - Legendary Champion
-    - Guardian https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/mythic-paths-paizo-inc/guardian
-        - Ability
-            - Absorb Blow
-            <!-- - Beast's Fury -->
-            - Sudden Block
-        - Tier 1
-            <!-- - Adamantine Mind -->
-            - Additional Call
-            - Affliction Resistance
-            <!-- - Armor Master -->
-            - Armored Might
-            <!-- - Avenging Maneuver -->
-            <!-- - Borrow Elements -->
-            - Burst Through
-            - Draw Fire
-            - Empathic Healing
-            <!-- - Ever Ready -->
-            - Fast Healing
-            - Guardian's Shout
-            <!-- - Immovable -->
-            - Imprinting Hand
-            - Indefatigable Traveler
-            - Irrepressible Soul
-            <!-- - Knowledgeable Guardian -->
-            - Lesson Learned
-            <!-- - Mule's Strength -->
-            <!-- - Mythic Companion -->
-            <!-- - Mythic Mercy -->
-            <!-- - Pack Wild Shape -->
-            <!-- - Partial Transformation -->
-            - Quick Recovery
-            <!-- - Raise Animal -->
-            <!-- - Ranged Disarm -->
-            <!-- - Relentless Healing -->
-            <!-- - Retributive Reach -->
-            <!-- Sacrificial Shield -->
-            - Supreme Tracker
-        - Tier 3
-            - Cage Enemy
-            - Dimensional Grappler
-            <!-- - Drive Back -->
-            <!-- - Earth Protection -->
-            - Impervious Body
-            <!-- - Impervious Companion -->
-            <!-- - Incredible Parry -->
-            - Mighty Hurler
-            - Parry Spell
-            <!-- - Possess Companion -->
-            <!-- - Shrug It Off -->
-            <!-- - To the Death -->
-            <!-- - Turn the Tables -->
-            - Uncanny Adaptability
-        - Tier 6
-            - Cling to Life
-            <!-- - Companion Power -->
-            - Impassable
-            - Indomitable
-            - Invincible Stand
-            - Mythic Resolve
-            - Shield of the Martyr
-            - Stasis
-            - Take the Hit
-            - Unbreakable Resilience
-        - Tier 10
-            - True Defender
-- Universal Abilities https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-heroes/#Universal_Path_Abilities
-    - Tier 1
-        <!-- - Commune with Power (Su) -->
-        <!-- - Display of Charisma (Su) -->
-        - Display of Constitution (Su)
-        - Display of Dexterity (Su)
-        <!-- - Display of Intelligence (Su) -->
-        - Display of Strength (Su)
-        <!-- - Display of Wisdom (Su) -->
-        - Extra Mythic Feat (Ex)
-        - Extra Mythic Power (Su)
-        - Legendary Item (Ex)
-        - Longevity (Su)
-        <!-- - Mythic Craft (Ex) -->
-        <!-- - Mythic Spellcasting (Ex) -->
-        - Mythic Sustenance (Su)
-        <!-- - Pierce the Darkness (Sp) -->
-    - Tier 3
-        <!-- - Binding Ritual (Su) -->
-        - Beyond Morality (Ex)
-        <!-- - Divine Source (Su) -->
-        - Enhanced Ability (Ex)
-        <!-- - Fearless (Su) -->
-        <!-- - Interplanar Prestige (Ex, Sp) -->
-        <!-- - Pure Body (Su) -->
-        - Pure Destiny (Su)
-        - Pure Senses (Su)
-        <!-- - Sleepless (Su) -->
-        - Ultimate Versatility (Ex)
-        - Unchanging (Su)
-    - Tier 6
-        - Farwalker (Sp)
-        - Mythic Presence (Su)
-        - Mythic Sight (Sp)
-        <!-- - Tongues (Sp) -->
-- 3pp Paths
-    - Bound http://spheresofpower.wikidot.com/path-of-the-bound
-        - Ability
-            - Eldritch Wish
-            - Painful Brand
-            - Step Between
-            - Wardpact
-        - Tier 1
-            - Blink
-            - Bound Aspect
-            <!-- - Chained Bondage -->
-            <!-- - Claim My Soul -->
-            <!-- - Contract -->
-            <!-- - Cooperative Caster -->
-            <!-- - Curse-Bearer -->
-            <!-- - Destiny's Tool -->
-            <!-- - Dream Trader -->
-            - Empathic Healing
-            <!-- - Exorcist -->
-            <!-- - Fast Bargainer -->
-            <!-- - Flash of Omniscience -->
-            <!-- - Greater Familiar Link -->
-            <!-- - Headless Horseman -->
-            - Heirloom
-            - Incarnation
-            <!-- - Inspired Advice -->
-            <!-- - Knowledgeable Guardian -->
-            <!-- - Menacing Presence -->
-            - My Soul Is Not My Own
-            <!-- - Mythic Companion -->
-            <!-- - Mythic Hex -->
-            <!-- - Mythic Spiritualist -->
-            <!-- - None of Your Busines -->
-            <!-- - Oathbound -->
-            <!-- - Out of Time -->
-            <!-- - Patron's Mark -->
-            - Patron's Protection
-            <!-- - Quick Call -->
-            <!-- - Secrets of the Multiverse -->
-            <!-- - Share Power -->
-            <!-- - Sinister Seduction -->
-            <!-- - Spirit Versatility -->
-            - Stigmata
-            <!-- - Temporary Binding -->
-            <!-- - They Made Me Do It -->
-            <!-- - Trade Magic -->
-            <!-- - Truthspeaker -->
-            - Unspeakable Name
-        - Tier 3
-            <!-- - Alignment Insight -->
-            - Binding Counter
-            <!-- - Contractual Obligation -->
-            <!-- - Cursed Scorn -->
-            <!-- - Don't Cross Me -->
-            - Eldritch Flight
-            - Eldritch Shield
-            - Eye of Vengeance
-            - Feel Your Pain
-            - Forsake Fate
-            - Ghost Rider
-            <!-- - I Am Altering the Deal -->
-            - If You Kill Me
-            <!-- - Impossible Spell Knowledge -->
-            - Interdimensional Stride
-            <!-- - Loophole -->
-            <!-- - Menacing Whisper -->
-            <!-- - Mythic Bargainer -->
-            <!-- - Mythic Major Hex -->
-            - Penetrating Damage
-            <!-- - Possess Companion -->
-            <!-- - Purifier -->
-            <!-- - Speak My Name -->
-            <!-- - Stalward Companion -->
-            <!-- - Storied Ally -->
-        - Tier 6
-            - Artifact
-            - Bloodtheft
-            <!-- - Companion Power -->
-            - Defy Destiny
-            - Devour Magic
-            <!-- - Direct Control -->
-            - Flexible Terms
-            <!-- - Infinite Spellcasting -->
-            <!-- - Innate Spellcasting -->
-            <!-- - Overcome Curse -->
-            <!-- - Penance -->
-            - Shunned by Magic
-            <!-- - Trade Health -->
-            <!-- - Unfathomable Knowledge -->
-        - Tier 10
-            - True Pact
-    - Stranger http://spheresofpower.wikidot.com/path-of-the-stranger
-        - Ability
-            - Fleet Charge
-            - Painful Reckoning
-            - Surprise Strike
-        - Tier 1
-            - Additional Maneuver
-            <!-- - Avenging Maneuver -->
-            <!-- - Call In a Favor -->
-            <!-- - Carve Your Initials -->
-            <!-- - Clear Your Heads -->
-            - Deadly Dodge
-            <!-- - Defensive Move -->
-            <!-- - Endless Ammunition -->
-            <!-- - Flag of Convenience -->
-            <!-- - Forget It Ever Happened -->
-            <!-- - Granted Stride -->
-            - Hear Heartbeat
-            - Heirloom
-            <!-- - Horse Puncher -->
-            - Impeccable Balance
-            <!-- - Menacing Presence -->
-            <!-- - Mythic Grit -->
-            <!-- - Mythic Hunter -->
-            <!-- - Mythic Ki -->
-            <!-- - Mythic Panache -->
-            - Nimble Glide
-            <!-- - No One of Consequence -->
-            <!-- - None of Your Business -->
-            - Quick Recovery
-            <!-- - Ricochet -->
-            <!-- - She May Not Look Like Much -->
-            <!-- Skeptical Eye -->
-            - Smell of Fear
-            - Snatch and Dash
-            - Speed Surge
-            <!-- - Steadfast Resolve -->
-            <!-- - Strange Style -->
-            <!-- - Streetwise Seeker -->
-            - Supreme Tracker
-            <!-- - Sure Shot -->
-            <!-- - Swift Swap -->
-            - Wall Run
-            <!-- - Whiplash -->
-        - Tier 3
-            - An Eye for an Eye
-            <!-- - Can't Touch This -->
-            <!-- - Cape Glider -->
-            - Confidence
-            <!-- - Flexible Ethics -->
-            - Handy Souvenir
-            <!-- - Memento -->
-            <!-- - Menacing Whisper -->
-            - Mirror Dodge
-            - No Time for Love
-            <!-- - Sardonic Wit -->
-            <!-- - Shared Alertness -->
-            - Strange Suppression
-            <!-- - Take Your Best Shot -->
-            - Unflinching
-            <!-- - Use Your Own Words Against You -->
-            - Vanishing Move
-            <!-- - Watching the Watchmen -->
-        - Tier 6
-            <!-- - Apparent Demise -->
-            <!-- - Cling to Life -->
-            - Ghost Rider
-            - Harrier
-            - Inscrutable
-            - Nemesis
-            <!-- - Nothing to Say -->
-            - Roaring Rampage of Revenge
-        - Tier 10
-            - Go Where You Wish
-- Heritages (3pp)
-    - **Mutant** `Mythic Mastery - Mutant Heritage.pdf`
-        - Tier 1
-            - Aberrant Size
-            - Basic Polyform
-            <!-- - Chameleon -->
-            - Extra Eyes
-            - Extra Legs
-            - Lesser Claws
+        - Mutant
+            <!-- - Basic Polyform -->
+            <!-- - Extra Eyes -->
             - Mutable
             - Mutant Strength
             - Organless
             - Project Pain
             - Rubbery Skin
             - Sticky Fingers
-        - Tier 3
+        - Universal
+            - Display of Constitution (Su)
+            - Display of Dexterity (Su)
+            - Display of Strength (Su)
+            - Extra Mythic Feat (Ex)
+    - Tier 3
+        - Champion
+            - Destroyer
+            - Disabling Strike
+            - Elemental Fury
+            - Fleet Warrior
+            - Maneuver Expert
+            - Maximized Critical
+            - Mighty Hurler
+            - Penetrating Damage
+            - Unstoppable Shot
+        - Mutant
             - Acid Spit
             - Advanced Polyform
             - Extra Arms
@@ -561,11 +255,29 @@
             - Mutant Dexterity
             - Mutant Vision
             - Tentacles
-        - Tier 6
+        - Universal
+            - Beyond Morality (Ex)
+            - Enhanced Ability (Ex)
+            - Pure Destiny (Su)
+            - Pure Senses (Su)
+            - Ultimate Versatility (Ex)
+            - Unchanging (Su)
+    - Tier 6
+        - Champion
+            - Critical Master
+            - Perfect Strike
+            - Shatter Spells
+            - Sweeping Strike
+        - Mutant
             - Atypical Anatomy
-            - Greater Claws
             - Greater Polyform
             - Monstrous Mutation
+        - Universal
+            - Farwalker (Sp)
+            - Mythic Presence (Su)
+            - Mythic Sight (Sp)
+    - Tier 10
+        - Legendary Champion
 - Class Features `Mythic Options - Core Mythic Class Features.pdf`
     - Uncanny Dodge, Rogue
     - Practice (Mythic Bonus Combat Feat, Fighter)
@@ -573,37 +285,11 @@
     - Armored Flexibility (Mythic Armor Training, Fighter)
 - Feats
     - No Prerequisites
-        - Mythic Paragon https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-paragon-mythic
+        <!-- - Mythic Paragon https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-paragon-mythic -->
         - Extra Mythic Power https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/extra-mythic-power-mythic
         - Potent Surge https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/potent-surge-mythic
     - Worth Taking
-        - Combat Reflexes https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/combat-reflexes-mythic
         - Endurance https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/endurance-mythic
-        - Improved Grapple https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/improved-grapple-mythic
-        - Mind Over Body `Mind Over Matter Book 2 - Psychic Warrior & Aegis & Vitalist.pdf`
         - Mythic Diehard https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/mythic-diehard-mythic
         - Run https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/run-mythic
         - Toughness https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-feats/toughness-mythic
-- Legendary Item Abilities https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-magic-items/legendary-items/#Legendary_Item_Abilities
-    * Adroit
-    - Dedicated Bond
-    - Eternal Bond
-    * Everlasting
-    - Flexible Bond
-    - Foe-Biting
-    * Intelligent
-    * Legendary Fortification
-    - Metamagician
-    * Perfect Surge
-    * Powerful
-    * Rejuvenating
-    - Undetectable
-    - Unstoppable Strike
-    * Unyielding
-    * Upgradable
-
-Champion
-Guardian
-Bound
-Stranger
-Reluctant Hero

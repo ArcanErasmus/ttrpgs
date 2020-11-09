@@ -22,6 +22,19 @@
 https://rpg.stackexchange.com/a/62720
 1, 1d2, 1d3, 1d4, 1d6, 1d8, 1d10, 2d6, 2d8, 3d6, 3d8, 4d6, 4d8, 6d6, 6d8, 8d6, 8d8, 12d6, 12d8, 16d6
 
+## Mythic Options
+### Mythic Power (Su)
+- **Daily**, 7/day: OOOOOOO
+    - Surge; Immediate action, cost 1 power, +1d6
+    - Initiative; free action 1/rd, cost 1 power, bonus standard action
+
+### Basic Polyform (Sp)
+- Change shape at will as, humanoid size Medium or Large
+    - Current form: Sea Giant https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-sea
+    - Current abilities: Darkvision 60 ft, Swim 30 ft
+- Standard action, cost 1 power, stat bonuses as *alter self*
+    - Gain all senses and speeds possible
+
 ## Abilities
 ### Grab (Ex)
 - Can attempt grapple as free action on hit, no AoO
@@ -38,11 +51,12 @@ https://rpg.stackexchange.com/a/62720
 - Targets can make AoO at -4, or Ref for half (DC 10 + 1/2 lvl + Str mod)
 - Can only trample a specific creature once per round
 
-## Phylocruxes (Sp) (CL 4)
+### Phylocruxes (Sp) (CL 6)
+- 5/day - none
 - 3/day - none
 - rules
     - No verbal, somatic, focus, material components
-    - Provokes AoO
+    - Standard action that provokes AoO unless stated otherwise
 
 ### Grappling rules
 - -4 if both hands not free
@@ -55,6 +69,7 @@ https://rpg.stackexchange.com/a/62720
 - Action: Damage target equal to a natural attack
     - Can be lethal or nonlethal
     - Also can be unarmed strike, armor spikes, or light/1h weapon
+    - Armor spikes deal bonus damage
 - Action: Pin target (applies "pinned")
     - You remain only grappled, but lose your dex to AC
     - Can tie up target without check
@@ -83,22 +98,22 @@ https://rpg.stackexchange.com/a/62720
 - 1d4 hrs to heal if cut up
 
 ### Stomachs
-1. 15/15hp - empty
-2. 15/15hp - empty
+1. 16/16hp - empty
+2. 16/16hp - empty
 
 ## Indulgence Quick Info
 ### Rules
 - Max: 6, Max/Type: 2
 - Abilities available at current lvl:
     - DR: 5/x max
-    - Feat (must meet prereqs)
+    x Feat (must meet prereqs)
     - Immunity: Bleed, blindness, charm, dazed, deafness, fear, hunger, nausea, shaken, sleep, staggered
     - Languages (and communication methods)
     - Natural Armor: +3
    xx Natural Attack (except bite)
     - Phylocrux (Sp): 5/3/-/- uses per day
     - Resistance to one energy type
-    x Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
+    - Sense: all-around, blindsight, darkvision, life-sense, low-light, scent
     - Skill: (in entry or had ranks) +2 bonus, count as trained
    xx Special Attack: Extraordinary, Supernatural
     - Speed: 50 ft max; land, swim, climb
@@ -106,19 +121,19 @@ https://rpg.stackexchange.com/a/62720
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
 | Type               | Tier 1 (1-5 HD)    | Tier 2 (6-10 HD)       | Tier 3 (11-15 HD) | Tier 4 (16-20 HD)             |
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
-| Aberration         | long arm           | cure serious wounds    | nightmare         | walk through space            |
-| Animal             | speak with animals | animal aspect, greater | strong jaw        | summon nature's ally VIII     |
-| Construct          | stone fist         | burrow                 | stoneskin         | iron body                     |
-| Dragon             | burning hands      | draconic reservoir     | dragon's breath   | form of dragon III            |
-| Fey                | disguise self      | fey form I             | breath of life    | euphoric tranquility          |
-| Humanoid           | true strike        | haste                  | truespeak         | shout, greater                |
-| Magical Beast      | cure light wounds  | fly                    | hold monster      | protection from spells        |
-| Monstrous Humanoid | enlarge person     | monstrous physique I   | animate dead VI   | giant form II                 |
-| Ooze               | corrosive touch    | vomit twin             | ooze form I       | ooze form III                 |
-| Outsider           | reduce person      | protection from energy | elemental body II | summon monster VIII           |
-| Plant              | entangle           | cure serious wounds    | plant shape I     | cure critical wounds, mass    |
-| Undead             | grasping corpse    | vampiric touch         | undead anatomy II | inflict critical wounds, mass |
-| Vermin             | ant haul           | vermin shape I         | insect plague     | verminous transformation      |
+| Aberration         | long arm           |`cure serious wounds   `| nightmare         |`walk through space           `|
+| Animal             | speak with animals |`animal aspect, greater`|`strong jaw       `| summon nature's ally VIII     |
+| Construct          | stone fist         |`burrow                `|`stoneskin        `|`iron body                    `|
+| Dragon             | burning hands      |`draconic reservoir    `|`dragon's breath  `|`form of dragon III           `|
+| Fey                | disguise self      |`fey form I            `|`breath of life   `| euphoric tranquility          |
+| Humanoid           |`true strike       `|`haste                 `| truespeak         | shout, greater                |
+| Magical Beast      |`cure light wounds `|`fly                   `| hold monster      |`protection from spells       `|
+| Monstrous Humanoid |`enlarge person    `|`monstrous physique I  `| animate dead VI   |`giant form II                `|
+| Ooze               | corrosive touch    | vomit twin             |`ooze form I      `|`ooze form III                `|
+| Outsider           | reduce person      |`protection from energy`|`elemental body II`|`summon monster VIII          `|
+| Plant              | entangle           |`cure serious wounds   `|`plant shape I    `| cure critical wounds, mass    |
+| Undead             | grasping corpse    | vampiric touch         |`undead anatomy II`| inflict critical wounds, mass |
+| Vermin             |`ant haul          `|`vermin shape I        `| insect plague     | verminous transformation      |
 |--------------------|--------------------|------------------------|-------------------|-------------------------------|
 
 ### Indulgences
@@ -175,17 +190,17 @@ https://rpg.stackexchange.com/a/62720
         - SR: 15
 4. Lightning Elemental, Medium
     - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
-    - Chosen essence: Darkvision 60 ft
+    - Chosen essence: Feat (Improved Initiative)
     - Available essences:
         - DR: None
-        - Feats: Dodge, Improved Initiative, Weapon Finesse
+        x Feats: Dodge, Improved Initiative, Weapon Finesse
         - Immunities: Electricity, bleed, paralysis, poison, sleep, stunning, critical hits, flanking
         - Languages: Auran
         - Natural Armor: +1
         - Natural Attacks: Slam 1d6 + 1d4 electricity
         - Phylocrux: Outsider, 4 HD (*reduce person*)
         - Resistances: None
-        x Senses: Darkvision 60 ft
+        - Senses: Darkvision 60 ft
         - Skills: Acrobatics, Escape Artist, Fly, Kn (planes), Perception
         - Special Abilities: Metal Mastery (Ex), Spark Leap (Ex)
         - Speeds: 100 ft fly (perfect)
