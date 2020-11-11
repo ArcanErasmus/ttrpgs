@@ -24,11 +24,11 @@ From *Forgefather's Hammer* (CL 10)
 | Casting    | 1 standard action, does not provoke
 | Components | strike hammer against target
 | Range      | touch
-| Target     | one object of up to 5 lb/lvl or one construct creature of any size
+| Target     | one object of up to 50 lbs or one construct creature of any size
 | Duration   | instantaneous
-| Save       | Will neg (harmless, object)
+| Save       | Will neg (harmless, object) [DC 16]
 | SR         | yes (harmless, object)
-This spell repairs 1d6 points of damage plus 1 point per level when cast on an object or construct creature (maximum 10d6+10). Greater make whole can fix destroyed magic items or technological items (items at 0 hit points or fewer), and restores the magic properties of the item if your caster level at least equal to that of the item. This spell otherwise functions as *make whole*.
+This spell repairs 10d6+10 points of damage when cast on an object or construct creature. *Greater make whole* can fix destroyed magic items or technological items (items at 0 hit points or fewer), and restores the magic properties of the item if its caster level is less than or equal to 10. This spell otherwise functions as *make whole*.
 
 #### {*Make Whole* - transmutation, lvl 2} reproduced below:
 |------------|--------------

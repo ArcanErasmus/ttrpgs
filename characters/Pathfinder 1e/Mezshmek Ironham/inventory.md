@@ -2,63 +2,66 @@
 ## Item List
 | Name                     | Weight | Notes
 |--------------------------|--------|--------------------------------
-| **Worn Equipment**       |  37    | On body only
-|--------------------------|--------|--------------------------------
-| Backpack, Masterwork     |   2    | Silkweave, +1 Str for carrying capacity
-| Explorer's Outfit        |   3    | Silkweave
-| Component Pouch          |   2    |
-| Mithral Full Plate       |  30    | +9 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
-|--------------------------|--------|--------------------------------
-| **Slotted Magic Items**  |   1    | See slots below
-|--------------------------|--------|--------------------------------
-| *Headband of Vast Int*   |   1    | +2 Int, skill: Kn (psionics), lang: Draconic
-|--------------------------|--------|--------------------------------
-| **Weapons**              |  10    | Includes ammo, related items
-|--------------------------|--------|--------------------------------
-| Mwk Heavy Wooden Shield  |   5    | Darkwood, +2 AC, 15% ASFC
+| **Worn Equipment**       |        | On body only
+|--------------------------|        |--------------------------------
+| Backpack, Masterwork     |    2   | Silkweave, +1 Str for carrying capacity
+| Explorer's Outfit        |    3   | Silkweave
+| Component Pouch          |    2   |
+| Mithral Full Plate       |   30   | +9 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
+|--------------------------|        |--------------------------------
+| **Slotted Magic Items**  |        | See slots below
+|--------------------------|        |--------------------------------
+| *Headband of Vast Int*   |    1   | +2 Int, skill: Kn (psionics), lang: Draconic
+|--------------------------|        |--------------------------------
+| **Weapons**              |        | Includes ammo, related items
+|--------------------------|        |--------------------------------
+| Mwk Heavy Wooden Shield  |    5   | Darkwood, +2 AC, 15% ASFC
 | Sling                    |        |
-| Warhammer w/ Spike       |   5    | Can do piercing
-|--------------------------|--------|--------------------------------
-| **General**              |   2    | Non-consumable catch-all
-|--------------------------|--------|--------------------------------
-| Holy book of Torag       |   2    | *Hammer and Tongs: The Forging of Metal and Other Good Works*
-|--------------------------|--------|--------------------------------
-| **Tools**                |   7    |
-|--------------------------|--------|--------------------------------
-| Arcane Family Workbook   |   3    | Study 1d4 rds/hrs for +2/+4 competence Spellcraft
-| Magic School Compass     |   1    | Masterwork UMD item
-| Magnifying Glass         |   1    | +2 competence Appraise detailed items, full-rd start fire in bright light
-| *Traveler's Any-Tool*    |   2    | +2 competence for most Craft/Profession
-|--------------------------|--------|--------------------------------
-| **Supplies/Consumables** |  10    |
-|--------------------------|--------|--------------------------------
-| Waterskin                |   4    | 4 lbs full, 1 lb empty
-| Trail Rations (5)        |   5    | 1 day each
-| Flint and Steel          |   1    | Full-rd to light torch or similar
-|--------------------------|--------|--------------------------------
-| **Slotless Magic Items** |   2    | See cheatsheet for wands/scrolls
-|--------------------------|--------|--------------------------------
-| *Forgefather's Hammer*   |   2    | See journal entry
+| Warhammer w/ Spike       |    5   | Can do piercing
+|--------------------------|        |--------------------------------
+| **General**              |        | Non-consumable catch-all
+|--------------------------|        |--------------------------------
+| Holy book of Torag       |    2   | *Hammer and Tongs: The Forging of Metal and Other Good Works*
+|--------------------------|        |--------------------------------
+| **Tools**                |        |
+|--------------------------|        |--------------------------------
+| Arcane Family Workbook   |    3   | Study 1d4 rds/hrs for +2/+4 competence Spellcraft
+| Magic School Compass     |    1   | Masterwork UMD item
+| Magnifying Glass         |    1   | +2 competence Appraise detailed items, full-rd start fire in bright light
+| *Traveler's Any-Tool*    |    2   | +2 competence for most Craft/Profession
+|--------------------------|        |--------------------------------
+| **Supplies/Consumables** |        |
+|--------------------------|        |--------------------------------
+| Waterskin                |    4   | 4# full, 1# empty
+| Trail Rations (5)        |    5   | 1 day each
+| Flint and Steel          |    1   | Full-rd to light torch or similar
+|--------------------------|        |--------------------------------
+| **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
+|--------------------------|        |--------------------------------
+| *Forgefather's Hammer*   |    1.5 | See journal entry
 | Adrena's Token           |        | +1 insight Will, Craft, Perform
+|--------------------------|        |--------------------------------
+| **Coins**                |        | $281.68
 |--------------------------|--------|--------------------------------
-| **Coins**                |   0.86 | 28pp 1gp 6sp 8cp
-|--------------------------|--------|--------------------------------
-| **Total**                |  69.86 | Medium Load
+| **Total**                |   68.5 | Light Load
 
 ## Carrying Capacity
-| Load      | lbs | Penalties
-|-----------|-----|------------
-| Light     | 50  |
-| Medium    | 100 | +3 max dex to AC, -3 check
-| Heavy     | 150 | +1 max dex to AC, -6 check, x3 run
-| Lift      | 300 | No dex to AC, 5 ft move as full-round action
-| Push/Drag | 750 |
-|-----------|-----|
-* Armor check penalty applies to all Str and Dex based skill checks
+Modifiers:
+- Mwk Backpack: +1 Str
+
+| Load      | lbs  | Penalties
+|-----------|------|------------
+| Light     |   76 |
+| Medium    |  153 | +3 max dex to AC, -3 ACP
+| Heavy     |  230 | +1 max dex to AC, -6 ACP, x3 run
+| Lift      |  460 | No dex to AC, 5 ft move as full-round action
+| Push/Drag | 1150 |
+|-----------|------|
+* ACP applies to all Str and Dex based skill checks
 
 ## Magic Item Slots
 - Head      -
-- Headband  - Headband of Vast Intellect
+- Headband  - Headband of Vast Intellect +2
 - Eyes      -
 - Shoulders -
 - Neck      -

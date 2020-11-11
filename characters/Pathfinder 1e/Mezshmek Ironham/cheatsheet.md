@@ -2,16 +2,16 @@
 ## Weapons
 | Weapon    | Atk | Dam         | Crit     | Range | Notes
 |-----------|-----|-------------|----------|-------|------------
-| Warhammer | +4  | 1d8+1 (B/P) |    20/x3 |       |
+| Warhammer | +5  | 1d8+2 (B/P) |    20/x3 |       |
 |-----------|-----|-------------|----------|-------|------------
-| Touch     | +4  |             |    20/*  |       | Touch atk
-| R Touch   | +5  |             |    20/*  |       | Touch atk
+| Touch     | +5  |             |    20/*  |       | Touch atk
+| R Touch   | +6  |             |    20/*  |       | Touch atk
 |-----------|-----|-------------|----------|-------|------------
-| Sling     | +4  | 1d4+1 (B)   |    20/x2 | 75 ft | +1 atk & d6 dmg if using bullet
+| Sling     | +5  | 1d4+2 (B)   |    20/x2 | 75 ft | +1 atk & d6 dmg if using bullets
 
 ## Ingenuity
 - Max = artificer lvl + Int mod
-- Current: 10/day; OOOOO OOOOO
+- Current: 11/day; OOOOO OOOOO O
 
 ## Psionics
 - Psionic Focus: Y
@@ -19,7 +19,8 @@
     - Lasts until used, or sleep/unconscious
     - Can *only* use to activate/augment psionic items
 
-## Infusions (Artificer List) - DC: 15 + infusion lvl
+## Infusions (Artificer List) - DC: 10 + Int + infusion lvl
+- Concentration: CL + Int
 - https://sites.google.com/site/eberronpathfinder/conversion-info/magic/spells-and-powers-by-class/artificer
 
 |-------------------------------|-------------------------------|
@@ -31,7 +32,7 @@
 | Read Magic                    |                               |
 | Resistance                    |                               |
 |-------------------------------|-------------------------------|
-| 1st: 6/day; OOOOOO            | 2nd: 3/day; OOO               |
+| 1st: 6/day; OOOOOO            | 2nd: 4/day; OOOO              |
 |-------------------------------|-------------------------------|
 | Ablative Armor                | Alchemical Allocation         |
 | Abundant Ammunition           | Align Weapon                  |
@@ -97,7 +98,7 @@
     - Perception +2
 - Defense
     - AC 18, touch 15, flat-footed 15 (+2 Dex, +1 dodge, +3 natural, +2 size)
-    - hp 23 (1d10)
+    - hp 25 (1d10)
     - Fort +2, Ref +4, Will +6
     - Immune: construct traits
         - Ability damage

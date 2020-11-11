@@ -59,11 +59,6 @@
 - Bonus to Perception to locate traps, and to DD, equal to 1/2 artificer lvl (min +1)
 - Can disable magic traps with Disable Device
 
-### Back-Channel Merchant (Ex)
-- Add 1/2 lvl to Appraise to determine value of common item (min +1)
-- Add lvl to percentage item's value when selling (normally sell at 50% value)
-- Subtract lvl from percentage item's value when buying (normally buy at 100% value)
-
 ### Rugged Craftsman
 - When crafting magic items while adventuring in dangerous environment, get 4 hrs per day progress
 - Can create multiple magic items in one day (within gp limit)

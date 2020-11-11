@@ -1,6 +1,7 @@
 # Blibtan's Notes
 ## interesting things to look into
 ### classes/presige classes
+- Master Channeler https://www.d20pfsrd.com/extras/community-creations/master-channeler
 
 ### mechanics
 

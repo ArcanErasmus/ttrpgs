@@ -116,8 +116,8 @@
     - **Weekly**, 10 minutes; 2/wk: Ox
     - **Weekly**, 10 minutes, Dreamlands; 2/wk: OO
 
-## Spells (Medium List) - DC: 15 + spell lvl, CL 8 (10 for checks or when use harrow deck as focus for divination)
-- Concentration: +15
+## Spells (Medium List) - DC: 10 + Cha + spell lvl, CL 8 (10 for checks or when use harrow deck as focus for divination)
+- Concentration: CL + Cha + 2
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
 |---------------------------------------------------------------|
 | Ranges - Close: 45 ft, Medium: 180 ft, Far: 720 ft            |
