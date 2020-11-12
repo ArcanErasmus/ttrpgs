@@ -182,7 +182,7 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
 #### Craftsman
 - +2 racial bonus on Craft and Profession checks related to metal or stone
 
-#### Desert Dweller
+#### Desert Delver
 - Gain cold and fire resistance 1
 - Treat temp of extreme environments as 20 degrees better
 

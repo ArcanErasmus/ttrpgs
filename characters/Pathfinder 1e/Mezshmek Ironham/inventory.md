@@ -5,7 +5,7 @@
 | **Worn Equipment**       |        | On body only
 |--------------------------|        |--------------------------------
 | Backpack, Masterwork     |    2   | Silkweave, +1 Str for carrying capacity
-| Explorer's Outfit        |    3   | Silkweave
+| Explorer's Outfit        |    4   | Silkweave
 | Component Pouch          |    2   |
 | Mithral Full Plate       |   30   | +9 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
 |--------------------------|        |--------------------------------
@@ -43,7 +43,7 @@
 |--------------------------|        |--------------------------------
 | **Coins**                |        | $281.68
 |--------------------------|--------|--------------------------------
-| **Total**                |   68.5 | Light Load
+| **Total**                |   69.5 | Light Load
 
 ## Carrying Capacity
 Modifiers:
