@@ -1,10 +1,10 @@
 sophie char
-human, +20 xp
+human, +40 xp
 
 kislev (gospodar) +50 xp
 southern kislev (city of kislev)
 
-stats +25 xp
+stats +50 xp
 WS  | 36 | 28
 BS  | 28 | 28
 S   | 25 | 25
@@ -112,3 +112,4 @@ Trappings:
 - Religious Symbol
 - Robes
 
+bonus xp: 140

@@ -30,7 +30,7 @@
 | AC   | 24 (13 T/21 F) |
 | BAB  | +3             |
 | CMB  | +5             |
-| CMD  | 18             |
+| CMD  | 18 (15 F)      |
 | Init | +3             |
 | Spd  | 20/15 ft       |
 |------|---------|------|-----------|
@@ -213,7 +213,7 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
 - +1 trait bonus on Craft checks
 - Cost of creating magic items is 5% less
 
-### Glory of Old [Regional, Dwarf]
+### Glory of Old (Dwarf) [Regional]
 - +1 trait bonus on saves vs spells, spell-like abilities, poison
 
 ### Clever Wordplay [Social]
@@ -229,10 +229,8 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
 - Choose school of magic to specialize in: Wood
 - For school powers, char lvl as Wizard lvl
 
-### Exceptional Artisan [Artificer Bonus, lvl 2]
-- https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats
-- Reduce magical item craft time by 25%, rounding up to whole hr
-- Does not stack with other reductions to craft time
+### Extend Spell [Artificer Bonus, lvl 2]
+- +1 spell lvl, double duration
 
 ### Familiar [Wizard VMC (replaces feat), lvl 3]
 - Gain familiar, char lvl as Wizard lvl

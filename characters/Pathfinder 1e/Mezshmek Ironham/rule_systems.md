@@ -30,8 +30,7 @@ total: +7
 ### magic item crafting rate
 - time
     - 5% reduced cost
-    - 25% reduced total time for magic items
-    total: 71.25% gross time cost
+    total: 95% gross time cost
 - speed
     - double progress for familiar
     - accelerate (day's progress in 4 hrs) for +5 DC

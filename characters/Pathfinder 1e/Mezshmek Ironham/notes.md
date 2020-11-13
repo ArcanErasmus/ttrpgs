@@ -109,6 +109,11 @@
     - Healer's Hands https://www.d20pfsrd.com/feats/conduit-feats/healers-hands-conduit
     - Peace of Mind https://www.d20pfsrd.com/feats/conduit-feats/peace-of-mind-conduit
     - Wanderer's Fortune https://www.d20pfsrd.com/feats/conduit-feats/wanderers-fortune-conduit
+- metamagic
+    - top tier
+        <!-- - extend -->
+        - reach
+        - silent
 
 ## things to craft
 - armor

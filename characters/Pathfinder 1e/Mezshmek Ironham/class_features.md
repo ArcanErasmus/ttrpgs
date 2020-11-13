@@ -46,7 +46,7 @@
         - Attune Magic Weapon https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats
         - Extra Ingenuity https://sites.google.com/site/eberronpathfinder/conversion-info/feats/general-feats
         - (OP?) Extra Rings https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats
-        <!-- - Exceptional Artisan https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats -->
+        - Exceptional Artisan https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats
         - (SUPER OP) Extraordinary Artisan https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats
         - (OP?) Wand Mastery https://sites.google.com/site/eberronpathfinder/conversion-info/feats/general-feats
 

@@ -84,12 +84,4 @@ Born Konistag, 3rd Erntezeit, 2487 (3/8/2487)
 worship: the eagle (tzeentch)
 
 TODO:
-name
-height
-weight
-distinguishing mark/general appearance
-free career skill advances
-free career talent
 free background skill/talent
-personal short/long term goals
-motivation

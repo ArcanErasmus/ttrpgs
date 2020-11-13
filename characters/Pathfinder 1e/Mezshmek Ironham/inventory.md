@@ -4,8 +4,8 @@
 |--------------------------|--------|--------------------------------
 | **Worn Equipment**       |        | On body only
 |--------------------------|        |--------------------------------
-| Backpack, Masterwork     |    2   | Silkweave, +1 Str for carrying capacity
-| Explorer's Outfit        |    4   | Silkweave
+| Backpack, Masterwork     |    4   | +1 Str for carrying capacity
+| Explorer's Outfit        |    8   |
 | Component Pouch          |    2   |
 | Mithral Full Plate       |   30   | +9 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
 |--------------------------|        |--------------------------------
@@ -21,7 +21,7 @@
 |--------------------------|        |--------------------------------
 | **General**              |        | Non-consumable catch-all
 |--------------------------|        |--------------------------------
-| Holy book of Torag       |    2   | *Hammer and Tongs: The Forging of Metal and Other Good Works*
+| Holy Book of Torag       |    2   | *Hammer and Tongs: The Forging of Metal and Other Good Works*
 |--------------------------|        |--------------------------------
 | **Tools**                |        |
 |--------------------------|        |--------------------------------
@@ -34,7 +34,7 @@
 |--------------------------|        |--------------------------------
 | Waterskin                |    4   | 4# full, 1# empty
 | Trail Rations (5)        |    5   | 1 day each
-| Flint and Steel          |    1   | Full-rd to light torch or similar
+| Flint and Steel          |        | Full-rd to light torch or similar
 |--------------------------|        |--------------------------------
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|        |--------------------------------
@@ -43,7 +43,7 @@
 |--------------------------|        |--------------------------------
 | **Coins**                |        | $281.68
 |--------------------------|--------|--------------------------------
-| **Total**                |   69.5 | Light Load
+| **Total**                |   74.5 | Light Load
 
 ## Carrying Capacity
 Modifiers:
