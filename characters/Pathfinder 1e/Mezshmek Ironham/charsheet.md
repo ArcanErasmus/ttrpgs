@@ -3,12 +3,15 @@
 - VMC Wizard, Wood School
     - https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/wood
 - Medium humanoid (dwarf)
-- Devoted to Torag: Father of Creation and Dwarvenkind, God of the Forge
+<!-- - Devoted to Torag: Father of Creation and Dwarvenkind, God of the Forge
     - https://pathfinderwiki.com/wiki/Torag
     - Burrowing animals are mighty and holy
     - Planning, strategy, and contingencies are important
     - Bats are abominations
-    - Temples are large circular forges
+    - Temples are large circular forges -->
+- Friendship ended with Torag. Sekolah is new best friend
+    - https://forgottenrealms.fandom.com/wiki/Sekolah
+    - 
 - 3'11", 185 lbs, 71 yo, black hair, gray eyes
 - black afro, pink ribbon tying off short-cut black beard
 - Favored class: Artificer https://sites.google.com/site/eberronpathfinder/conversion-info/classes/artificer

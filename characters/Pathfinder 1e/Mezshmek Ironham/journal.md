@@ -50,6 +50,20 @@
 - ?
 
 ## Custom Items
+### Lantern of Sekolah
+- Aura: strong sransmutation & moderate evil
+- CL: 13
+- Slot: none
+- Weight: 5 lbs
+- Price: 55,515 gp
+- Description: A staff made of warped and twisted wood with a rusty iron cage hanging from its head
+    - Control Weather (8 charges)
+    - Summon Monster VI (2 charges)
+    - Call Lightning Storm (1 charge)
+    - Lightning Bolt (1 charge)
+The charges of this staff can be replenished by cutting out the heart of CG creature with 10+ HD, and placing it in the Iron Cage, whereupon the heart continues to beat and glows bright red. The creature will remain alive until all charges from the staff are spent. For every charge used, the creature takes one negative level. When all the charges are used, the heart ceases to beat and the creature dies. Creatures slain in this way can only be returned to life by a *miracle* or *wish* spell.
+Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 17 + the level of the spell being used or have their alignment shifted one step towards Lawful Evil. Anyone who replenishes the staff via sacrifice has their alignment shifted immediately to Lawful Evil with no save allowed. Anyone touching the staff must make a DC 10 save or be converted to worship of Sekolah, passing the save renders the wielder immune to this conversion ability for 24 hours.
+
 ### Forgefather's Hammer
 - Aura: moderate transmutation
 - CL: 10
