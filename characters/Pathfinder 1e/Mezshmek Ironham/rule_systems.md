@@ -53,7 +53,13 @@ total: +7
 - mundane crafting cost is 33.33% (1/3rd) price
 - magical crafting cost is 47.5% (19/40ths) price
 
+### magic item crafting DC
+- base: 5 + CL
+- +5 per prereq not met
+- optional: +5 for accelerated crafting
+
 # alternate rule systems
+- Dynamic Magic Item Creation https://www.d20pfsrd.com/magic-items/magic-item-creation/#Dynamic_Magic_Item_Creation
 - Unchained Alignment and Removing Alignment https://www.d20pfsrd.com/alignment-description/additional-rules#TOC-Variant-Alignment-Rules-Unchained-Variant-
     - This helps me think more deeply about my characters' alignments
     - Come up with Loyalties for Mezshmek

@@ -16,11 +16,11 @@
 ## Ability Scores
 | Stat | Init | Rce | Lvl | Itm | Total   | Temp |
 |------|------|-----|-----|-----|---------|------|
-| STR  | 15   |     |     |     | 15 (+2) | +1
-| DEX  | 16   |     |     |     | 16 (+3) | +1
-| CON  | 12   | +2  |     |     | 14 (+2) | -1
-| INT  | 18   |     | +2  | +2  | 22 (+6) | +1
-| WIS  | 16   | +2  |     |     | 18 (+4) | +3
+| STR  | 15   |     |     |     | 15 (+2) |
+| DEX  | 16   |     |     |     | 16 (+3) |
+| CON  | 12   | +2  |     |     | 14 (+2) |
+| INT  | 18   |     | +2  | +2  | 22 (+6) |
+| WIS  | 16   | +2  |     |     | 18 (+4) |
 | CHA  |  8   | -2  |     |     |  6 (-2) |
 18 16 16 15 12 8
 
@@ -160,7 +160,7 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
     - Traps
 
 ## Languages, Proficiencies
-- Languages: Common (Imperial Elven), Dwarven, Draconic (from headband), Elven, Goblin, Halfling, Humic, Sylvan, +1
+- Languages: Dwarven, Draconic (from headband), Elven, Goblin, Halfling, Humic, Necril, Sylvan, Terran
 - Weapons:   Simple, Siege Engines, (Battleaxes, Crossbows, Firearms, Heavy Picks, Warhammers)
 - Armor:     Light, Medium, Heavy, Shields
 

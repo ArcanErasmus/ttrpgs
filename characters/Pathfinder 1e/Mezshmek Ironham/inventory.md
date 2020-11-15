@@ -75,7 +75,7 @@ Modifiers:
 - Ring 2    -
 - Feet      -
 
-## Loot pile
+## Magical Loot Pile
 | 11 | 11000  | +1 trident
 | 10 |  5000  | +1 studded leather
 | 1  |  4000  | +1 returning trident
@@ -87,18 +87,22 @@ Modifiers:
 total: 256.6 lbs items -> 64.15 lbs reagents; 26,600gp value
 
 - To craft: 28,000/28,000 (including 5% saved)
-    - Mezshmek (& Akundol): 5600/3062.5
+    - Mezshmek (& Akundol): 3537.5/4666
+        - +1 shield and armor upgrades: 1000
         - Caster's Shield upgrade: 500
         - Scroll of *Silent Liberating Command* (CL 5) on shield: 62.5
         - Brass scroll of *Still Air Bubble* (CL 4): 100
         - Wand of *Shocking Grasp* (CL 5): 1875
-    - Xulri (& Cornbread): 5600/5600
-    - Braveheart (& Nenarn): 5600/5600
-    - Adrena: 5600/5600
-    - Cas-Mar (& Ziggy): 5600/5600
+    - Xulri (& Cornbread): 0/4666
+    - Braveheart (& Nenarn): 3250/4666
+        - *Swordmaster's Flair* (Blue Scarf): 1250
+        - Custom slotted (prob glove) item of use-toggled *Long Arm*: 2000
+    - Adrena: 0/4666
+    - Ayden's char: 0/4666
+    - Sean's char: 0/4666
 
 
-## Adrena budget
+## Adrena Budget
 - +1 spell storing studded leather (leaf-themed)
     - 4k * .475 = 1.9k, +175/3 = +58.67 = 1958.67
 - corset of delicate moves
@@ -107,3 +111,5 @@ total: 256.6 lbs items -> 64.15 lbs reagents; 26,600gp value
     - 4k * .475 = 1.9k
 
 4808.67/10.5k
+
+## Mundane Sell Pile
