@@ -120,6 +120,9 @@
 - One flexible feat (see list above)
 
 ### Item Augmentation
+#### Charge Storing (Su)
+- Becomes standard action
+
 #### Spell Trigger (Su)
 - As part of casting spell/power from spell/power trigger item (ex: wand/dorje)
 - Can apply any one known metamagic/metapsionic feat, no effect on activation time or charges

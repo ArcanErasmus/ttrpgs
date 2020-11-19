@@ -171,3 +171,18 @@
 ### Master of Wands
 - Craft 15+ different kinds of wands
 - [name]
+
+## Unchained Skill Unlocks
+- Disable Device
+    - Reduce time to disarm trap or open lock by taking a -5 per step reduced
+    - 2d4 rds, 1d4 rds, 1 rd, std action, move action, swift action
+- Knowledge
+    - When identifying creature, +1 piece of information
+- Spellcraft
+    - Identifying magic items takes 1 full rd
+- UMD
+    - Can aid another with UMD check vs item's UMD DC
+- Artistry?
+    - Craft: Double result weekly progress
+    - Perform: DC 20 check for +2 circumstance Bluff, Dip, Handle Animal, Intimidate
+    - ???
