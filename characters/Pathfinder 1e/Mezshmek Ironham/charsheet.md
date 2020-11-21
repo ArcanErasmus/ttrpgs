@@ -1,17 +1,12 @@
 # Mezshmek Ironham, he
-## LG, Dwarf, Artificer 5
-- VMC Wizard, Wood School
-    - https://www.d20pfsrd.com/classes/core-classes/wizard/arcane-schools/paizo-arcane-schools/elemental-arcane-schools/wood
+## LG, Dwarf, Artificer 5 (VMC Sorcerer)
 - Medium humanoid (dwarf)
-<!-- - Devoted to Torag: Father of Creation and Dwarvenkind, God of the Forge
+- Devoted to Torag: Father of Creation and Dwarvenkind, God of the Forge
     - https://pathfinderwiki.com/wiki/Torag
     - Burrowing animals are mighty and holy
     - Planning, strategy, and contingencies are important
     - Bats are abominations
-    - Temples are large circular forges -->
-- Friendship ended with Torag. Sekolah is new best friend
-    - https://forgottenrealms.fandom.com/wiki/Sekolah
-    - 
+    - Temples are large circular forges
 - 3'11", 185 lbs, 71 yo, black hair, gray eyes
 - black afro, pink ribbon tying off short-cut black beard
 - Favored class: Artificer https://sites.google.com/site/eberronpathfinder/conversion-info/classes/artificer
@@ -30,7 +25,7 @@
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | 24 (13 T/21 F) |
+| AC   | 27 (14 T/24 F) |
 | BAB  | +3             |
 | CMB  | +5             |
 | CMD  | 18 (15 F)      |
@@ -44,7 +39,7 @@
 | Hero |       5 |    5 | 0
 |------|---------|------|-----------|
 Vigor rolls (d8): [8], 7+1, 2+6, 6+2, 8
-AC breakdown: +3 dex, +2 shield, +9 armor
+AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor
 
 ## Resistances/Immunities
 - SR: No
@@ -61,7 +56,6 @@ AC breakdown: +3 dex, +2 shield, +9 armor
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Race (Dwarf): +2 racial bonus on Craft and Profession checks related to metal or stone
-- Race (Dwarf): Cold Resistance 1, Fire Resistance 1
 - Race (Dwarf): Treat extreme temps as 20 degrees better
 - Race (Dwarf): +4 bonus on Profession checks to make money
 - Race (Dwarf): +2 bonus on Perception checks to notice unusual stonework
@@ -74,15 +68,15 @@ AC breakdown: +3 dex, +2 shield, +9 armor
 ## Skills
 | # | T | C | Adventuring Skills | Sta | Mod | ACP | Temp
 |---|---|---|--------------------|-----|-----|-----|------
-|   |   |   | Acrobatics         | Dex |     | -4  |
+|   |   |   | Acrobatics         | Dex |     | -3  |
 |   | T |   | Autohypnosis       | Wis |     |     |
 |   |   |   | Bluff              | Cha |     |     |
-|   |   |   | Climb              | Str |     | -4  |
+|   |   |   | Climb              | Str |     | -3  |
 | 1 |   | C | Diplomacy          | Cha | +4  |     |
-M 5 | T | C | Disable Device     | Dex | +13 | -4  |
+M 5 | T | C | Disable Device     | Dex | +13 | -3  |
 |   |   |   | Disguise           | Cha |     |     |
-|   |   |   | Escape Artist      | Dex |     | -4  |
-|   |   | C | Fly                | Dex |     | -4  |
+|   |   |   | Escape Artist      | Dex |     | -3  |
+|   |   | C | Fly                | Dex |     | -3  |
 |   |   |   | Heal               | Wis |     |     |
 |   |   |   | Intimidate         | Cha |     |     |
 M 5 | T | C | Kn (arcana)        | Int | +14 |     |
@@ -93,12 +87,12 @@ M 5 | T | C | Kn (planes)        | Int | +14 |     |
 X 5 | T | C | Kn (psionics)      | Int | +14 |     |
 M 5 | T | C | Kn (religion)      | Int | +14 |     |
 | 1 |   | C | Perception         | Wis | +9  |     | +2,+2*
-|   |   |   | Ride               | Dex |     | -4  |
+|   |   |   | Ride               | Dex |     | -3  |
 |   |   |   | Sense Motive       | Wis | +6  |     |
 M 5 | T | C | Spellcraft         | Int | +14 |     |
-|   |   |   | Stealth            | Dex |     | -4  |
+|   |   |   | Stealth            | Dex |     | -3  |
 |   |   |   | Survival           | Wis |     |     |
-|   |   |   | Swim               | Str |     | -4  |
+|   |   |   | Swim               | Str |     | -3  |
 M 5 | T | C | Use Magic Device   |(Int)| +18 |     |
 |---|---|---|--------------------|-----|-----|-----|------
 | # | T | C | Background Skills  | Sta | Mod | ACP | Temp
@@ -140,11 +134,11 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
     - 2 favored
     - 5 Headband of Vast Intelligence: Kn (psionics)
     - 10 BG Skills system
-- Current encumbrance modifiers: -4 ACP, +3 max Dex, 0% ASFC (30% ignored), normal speed
+- Current encumbrance modifiers: -3 ACP, +3 max Dex, 0% ASFC (30% ignored), normal speed
     - Load: Light
         - No modifiers
     - Items
-        - Mithral Full Plate: -4 ACP, +3 max Dex, 15% ASFC, reduced speed
+        - Mithral Full Plate: -3 ACP, +3 max Dex, 15% ASFC, reduced speed
         - Heavy Wooden Shield: 15% ASFC
     - Abilities
         - Infusions: No ASFC except from heavy armor and tower shields
@@ -182,12 +176,12 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
 - Darkvision 60 ft
 
 ### Racial Traits [Dwarf]
+#### Armored Home
+- Can sleep in med/hvy armor without fatigue
+- +1 circumstance bonus to AC in heavy armor of dwarven make
+
 #### Craftsman
 - +2 racial bonus on Craft and Profession checks related to metal or stone
-
-#### Desert Delver
-- Gain cold and fire resistance 1
-- Treat temp of extreme environments as 20 degrees better
 
 #### Hardy
 - +2 racial bonus on saves vs spell/SLA and poison
@@ -223,20 +217,13 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
 - Use Int instead of Cha for one skill
 - Skill: UMD
 
-## Feats & VMC
+## Feats
 ### Hero's Fortune [lvl 1]
 - Immediately gain a hero point
 - Max hero points increased to 5
 
-### School [Wizard VMC, lvl 1]
-- Choose school of magic to specialize in: Wood
-- For school powers, char lvl as Wizard lvl
-
 ### Extend Spell [Artificer Bonus, lvl 2]
 - +1 spell lvl, double duration
-
-### Familiar [Wizard VMC (replaces feat), lvl 3]
-- Gain familiar, char lvl as Wizard lvl
 
 ### Heavy Armor Proficiency [lvl 5]
 - Gain proficiency in heavy armor

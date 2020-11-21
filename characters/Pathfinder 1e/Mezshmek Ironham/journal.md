@@ -56,7 +56,7 @@
 - Slot: none
 - Weight: 5 lbs
 - Price: 55,515 gp
-- Description: A staff made of warped and twisted wood with a rusty iron cage hanging from its head
+- Description: A staff made of warped and twisted wood with a rusty iron cage hanging from its head.
     - Control Weather (8 charges)
     - Summon Monster VI (2 charges)
     - Call Lightning Storm (1 charge)
@@ -70,24 +70,29 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
 - Slot: none
 - Weight: 1.5 lbs
 - Price: 8,380 gp
-- Description: This adamantine blacksmith’s hammer bears designs of Torag’s holy symbol on the head, with a smooth but finely shaped darkwood handle; it is not designed for combat, but the bearer can use it as a Medium light hammer. The owner gains a +4 competence bonus on all Craft skill checks relating to metal items when holding the hammer. Additionally, the owner may press or strike the hammer against a surface to inscribe a symbol on it, as the spell *arcane mark*. If Torag is the owner’s patron, once per week the owner can strike the hammer on an object or construct to cast *greater make whole* on it.
+- Description: This adamantine blacksmith’s hammer bears designs of Torag’s holy symbol on the head, with a smooth but finely shaped darkwood handle; it is not designed for combat, but the bearer can use it as a Medium light hammer. The owner gains a +4 competence bonus on all Craft skill checks with which they are trained, as the hammer imparts divine knowledge on them. Additionally, the owner may press or strike the hammer against a surface to inscribe a symbol on it, as the spell *arcane mark*. If Torag is the owner’s patron, once per week the owner can strike the hammer on an object or construct to cast *greater make whole* on it.
 - Requirements: Craft Wondrous Item, *arcane mark*, *crafter's fortune*, *make whole, greater*
 - Cost: 4,440 gp (including 500 gp in adamantine and darkwood)
 
-- +4 competence some Craft skills constant
-    - 4^2 * 100 gp skill bonus
-    - x2 slotless
-    - 3,200 gp final
-- *arcane mark* at will
-    - 1,800 x 1 x 0.5 gp command word (900)
-    - x2 slotless
-    - 1,800 gp final
-- *make whole, greater* 1/wk
-    - 1,800 x 4 x 10 gp command word (72,000)
-    - x2 slotless
-    - x1/35 1/wk
-    - x0.7 religion restriction
-    - 2,880 final
+### Clasp, Gish
+- Aura: faint transmutation
+- CL: 1
+- Slot: none
+- Weight: -
+- Price: 8,000 gp
+- Description: This cobalt clasp is inscribed with arcane runes. It can be attached to (or removed from) the grip, pommel, or other suitable location on a weapon as a standard action. While the clasp is affixed, the wielder can, as a standard action, cause part of the attached weapon to briefly and harmlessly peel open, just long enough for a single wand to be inserted or removed. In this way, the attached weapon functions as if continually under the effect of a *weaponwand* spell. Should the attached weapon be destroyed, the contained wand (if any) is also destroyed, but the clasp falls away unharmed. However, if the clasp itself is destroyed or has its magic suppressed while the weapon contains a wand, the wand is ejected as if at the end of a *weaponwand* spell. Identifying an attached clasp reveals its function as normal, but not whether a wand is contained in the associated weapon.
+- Requirements: Craft Wondrous Item, *weaponwand*
+- Cost: 4,000 gp
+
+### Glove, Reach
+- Aura: faint transmutation
+- CL: 1
+- Clot: hands
+- Weight: -
+- Price: 4,000 gp
+- Description: These stretchy black gloves cover the hands and forearms. Their effect can be activated as a standard action, provided both are worn. When active, the wearer's arms grow in length, giving them extra reach as the *long arm* spell.
+- Requirements: Craft Wondrous Item, *long arm*
+- Cost: 2,000 gp
 
 # I want a cannon mech
 ## References
@@ -115,89 +120,3 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
     - Big shield (could set as tower shield for cover)
     - Wands or other magic items
     - Just a big ole hammer
-
-
-# I want a boat
-- An airship really, but boy howdy are those expensive
-- Terminology https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/naval-terminology
-- Naval Spell Effects https://www.d20pfsrd.com/gamemastering/other-rules/ship-combat/spell-effects-in-naval-combat
-- Vehicles Rules https://www.d20pfsrd.com/gamemastering/other-rules/vehicles
-
-## Base vessel
-- Keelboat, 3000gp
-    - 100 soldiers or 50 tons cargo
-    - 75 ft long, 20 ft wide, crew of 8-15
-- Something smaller than a keelboat?
-    - Oceangoing concerns
-- Flight
-    - Bind elementals?
-        - See Eberron conversions
-    - *Levitate*?
-        - Cheapest flight spell, but would require a source of propulsion
-            - *Gust of wind* or similar (through some permanent source)?
-    - *Overland flight*?
-        - Carpet of Flying https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/carpet-of-flying
-        - Cauldron of Flying https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cauldron-of-flying
-
-## Modifications
-### Mundane Defeness
-- Sturdy Hull
-    - Light armor
-- Wooden Plating
-    - Medium armor
-- Armor Plating
-    - Heavy armor
-
-### Magic Defenses
-- Magically Treated Control Device
-    - Not sure how useful this is
-- Magically Treated Hull
-    - Insanely expensive
-- Magically Treated Oars
-    - Not horribly pricey
-- Magically Treated Sails
-    - Probably worth the cost
-
-### Sailing Improvements
-- Broad Rudder
-    - Pure upgrade
-- Extended Keel
-    - Extra length shouldn't be an issue
-- Narrow Hull
-    - Hurts cargo space a little, but sailing check bonuses are very good
-- Rapid-Deploy Sails
-    - Pure upgrade
-- Silk Sails
-    - Pure upgrade
-- Increased Cargo Capacity
-    - Pure upgrade, counters Narrow Hull penalty
-
-### Cool Stuff
-- Figurehead
-    - Mandatory due to Rule of Cool
-- Ram
-    - Mandatory due to Rule of Cool
-
-### Other
-- Concealed Weapon Port
-    - Probably won't come up
-    - Large cargo penalties
-    - Weak perception requirement
-- Glass Bottom
-    - Limited utility, fragility is worrying
-- Movable Deck
-    - I'm not a pirate
-- Smuggling Compartments
-    - I'm not a pirate
-
-## Items
-- Banner of Piracy https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/banner-of-piracy
-- Blind Man's Fold https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/floating-sail
-- Guardian Figurehead https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/guardian-figurehead
-- Hospitality's Hammock https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/hospitality-s-hammock
-- Pirate Queen's Bones https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pirate-queen-s-bones
-- Pirate Queen's Tricorne https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pirate-queen-s-tricorne
-- Riverseer Plate https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/riverseer-plate
-- Sea Silk Shell https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/sea-silk-shell
-- Tidy Trunk https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/chest-tidy-trunk
-- Wavecutter's Figurine https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/wavecutters-figurine

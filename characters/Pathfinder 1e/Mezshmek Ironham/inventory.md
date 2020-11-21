@@ -7,15 +7,16 @@
 | Backpack, Masterwork     |    4   | +1 Str for carrying capacity
 | Explorer's Outfit        |    8   |
 | Component Pouch          |    2   |
-| Mithral Full Plate       |   30   | +9 AC, +3 max Dex, -4 ACP, 15% ASFC, Slumbering armor mod
+| *+1 Mithral Plate*       |   25   | +10 AC, +3 max Dex, -3 ACP, 15% ASFC
 |--------------------------|        |--------------------------------
 | **Slotted Magic Items**  |        | See slots below
 |--------------------------|        |--------------------------------
 | *Headband of Vast Int*   |    1   | +2 Int, skill: Kn (psionics), lang: Draconic
+| *Cloak of Res +1*        |    1   | +1 resistance all saves
 |--------------------------|        |--------------------------------
 | **Weapons**              |        | Includes ammo, related items
 |--------------------------|        |--------------------------------
-| Mwk Heavy Wooden Shield  |    5   | Darkwood, +2 AC, 15% ASFC
+| *+1 Heavy Wooden Shield* |    5   | Darkwood, +3 AC, 15% ASFC, *Caster's Shield* mod
 | Sling                    |        |
 | Warhammer w/ Spike       |    5   | Can do piercing
 |--------------------------|        |--------------------------------
@@ -35,6 +36,7 @@
 | Waterskin                |    4   | 4# full, 1# empty
 | Trail Rations (5)        |    5   | 1 day each
 | Flint and Steel          |        | Full-rd to light torch or similar
+| *Wand of Shocking Grasp* |        | CL 5, 50/50
 |--------------------------|        |--------------------------------
 | **Slotless Magic Items** |        | See cheatsheet for wands/scrolls
 |--------------------------|        |--------------------------------
@@ -43,7 +45,7 @@
 |--------------------------|        |--------------------------------
 | **Coins**                |        | $281.68
 |--------------------------|--------|--------------------------------
-| **Total**                |   74.5 | Light Load
+| **Total**                |   70.5 | Light Load
 
 ## Carrying Capacity
 Modifiers:
@@ -63,11 +65,11 @@ Modifiers:
 - Head      -
 - Headband  - Headband of Vast Intellect +2
 - Eyes      -
-- Shoulders -
+- Shoulders - Cloak of Resistance +1
 - Neck      -
 - Chest     -
 - Body      -
-- Armor     -
+- Armor     - +1 Mithral Plate
 - Belt      -
 - Wrists    -
 - Hands     -
@@ -76,40 +78,37 @@ Modifiers:
 - Feet      -
 
 ## Magical Loot Pile
-| 11 | 11000  | +1 trident
-| 10 |  5000  | +1 studded leather
-| 1  |  4000  | +1 returning trident
-| 1  |  2000  | *amulet of elemental strife*
-| 1  |  1000  | +1 quarterstaff
-| 12 |  1200  | +1 *elfbane* crossbow bolt
-| 12 |  1200  | +1 *halflingbane* crossbow bolt
-| 12 |  1200  | +1 *merfolkbane* crossbow bolt
-total: 256.6 lbs items -> 64.15 lbs reagents; 26,600gp value
+### Mezshmek/Akundol: 4000/1625
+- *Gish Clasp*: 4000
 
-- To craft: 28,000/28,000 (including 5% saved)
-    - Mezshmek (& Akundol): 3537.5/4666
-        - +1 shield and armor upgrades: 1000
-        - Caster's Shield upgrade: 500
-        - Scroll of *Silent Liberating Command* (CL 5) on shield: 62.5
-        - Brass scroll of *Still Air Bubble* (CL 4): 100
-        - Wand of *Shocking Grasp* (CL 5): 1875
-    - Xulri (& Cornbread): 0/4666
-    - Braveheart (& Nenarn): 3250/4666
-        - *Swordmaster's Flair* (Blue Scarf): 1250
-        - Custom slotted (prob glove) item of use-toggled *Long Arm*: 2000
-    - Adrena: 0/4666
-    - Ayden's char: 0/4666
-    - Sean's char: 0/4666
+### Braveheart/Nenarn: 5700/15150
+- *Swordmaster's Flair* (Blue Scarf): 1250
+- Custom item, *Reach Gloves*: 2000
+- Add *Muleback Cords* effect to *Cloak of Resistance*: 750
+- Wand of *Protection from Evil*: 375
+- Scroll of *Ironskin*: 150
+- Scroll of *Heroic Fortune*: 250
+- Scroll of *Weapons Against Evil* (CL 2): 50
+- Scroll of *Unbreakable Heart* (CL 2): 50
+- 10 Scrolls of *Honeyed Tongue* (Paladin, CL 1): 250
+- 10 Scrolls of *Lesser Restoration* (Paladin, CL 1): 250
+- Scroll of *Litany of Duty* (Paladin, CL 1): 25
+- 2 Scrolls of *Magic Weapon*: 50
+- Scroll of *Protection from Chaos*: 25
+- Scroll of *Fallback Strategy*: 25
+- Scroll of *Swift Girding*: 25
+- Scroll of *Aspect of the Nightingale*: 25
+- Potion of *Blade Lash*: 50
+- Potion of *Feather Step*: 50
+- Potion of *Reduce Person*: 50
 
+armor/shield/weapon/stats(dex and char)
+- Enchant chosen sword with ioun and +1
+- +1 buckler
+- +1 onto armor
+- dex belt
 
-## Adrena Budget
-- +1 spell storing studded leather (leaf-themed)
-    - 4k * .475 = 1.9k, +175/3 = +58.67 = 1958.67
-- corset of delicate moves
-    - 2k * .475 = 950
-- headband of inspired wisdom +2
-    - 4k * .475 = 1.9k
-
-4808.67/10.5k
-
-## Mundane Sell Pile
+### Xulri/Cornbread: ?/10k
+### Adrena: ?/5k
+### [Sean]: ?/5k
+### [Ayden]: ?/5k
