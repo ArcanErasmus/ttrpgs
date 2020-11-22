@@ -87,12 +87,41 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
 ### Glove, Reach
 - Aura: faint transmutation
 - CL: 1
-- Clot: hands
+- Slot: hands
 - Weight: -
 - Price: 4,000 gp
 - Description: These stretchy black gloves cover the hands and forearms. Their effect can be activated as a standard action, provided both are worn. When active, the wearer's arms grow in length, giving them extra reach as the *long arm* spell.
 - Requirements: Craft Wondrous Item, *long arm*
 - Cost: 2,000 gp
+
+### Mistwing Shroud
+- Aura: faint conjuration
+- CL: 3
+- Slot: shoulders
+- Weight: 1 lb
+- Price: 8,800 gp
+- Description: Cool, damp mist emanates from this white-hooded, floor length cloak, yet it protects the wearer from this mist and from rain. The wearer gains a +5 bonus on Stealth checks in fog, mist, or rain. During these conditions, if the wearer stands still, they can use the Stealth skill even if being observed. Additionally, if the wearer does not move from their position in a round, and is not subject to more than mild winds, the mists wrap around them, providing concealment at the end of their turn that lasts until they move. Lastly, three times a day, if the wearer falls more than 5 feet they can spend an immediate action to gain the benefits of *feather fall*.
+- Requirements: Craft Wondrous Item, *create water*, *feather fall*, *obscuring mist*
+- Cost: 4,400 gp
+
+# Ship stuff
+- Rosabella: Gargantuan
+- Keelboat
+
+longship
+
+## Siege weapons
+### Ram
+300gp
+
+### Light Ballista
+170gp
+hardness 5, 50 hp
+ammo: 3.33gp, 10 lbs
+3d8 P, 19-20/x2, 120 ft
+crew 1
+aim 0
+load 2
 
 # I want a cannon mech
 ## References

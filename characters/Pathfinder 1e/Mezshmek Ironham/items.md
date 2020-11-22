@@ -115,7 +115,9 @@
 - Belt
     - Belt of Giant's Strength https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-giant-strength
     - Belt of Incredible Dexterity https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-incredible-dexterity
-    - Heavyload belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-heavyload
+    - Heavyload Belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-heavyload
+- PANTS
+    - MAKE SOMETHING
 - Wrist
     - Wand Sheath https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/wand-sheath
 - Hands

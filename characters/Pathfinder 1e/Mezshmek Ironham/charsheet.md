@@ -107,9 +107,9 @@ M 5 |   | C |   Lecture          | Int | +16 |     |
 | 1 |   | C |   Calligraphy      | Int | +12 |     | *
 | 1 |   | C |   Carpentry        | Int | +12 |     | *
 | 1 |   | C |   Clockwork        | Int | +12 |     | *
+| 1 |   | C |   Cooking          | Int | +12 |     | *
 | 1 |   | C |   Jewelry          | Int | +12 |     | *
 | 1 |   | C |   Leather          | Int | +12 |     | *
-| 1 |   | C |   Sculpture        | Int | +12 |     | *
 | 1 |   | C |   Ships            | Int | +12 |     | *
 | 1 |   | C |   Shoes            | Int | +12 |     | *
 | 1 |   | C |   Weapons          | Int | +12 |     | *

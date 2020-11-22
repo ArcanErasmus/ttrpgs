@@ -303,7 +303,7 @@
     - Helm of Fearsome Mien https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helm-of-fearsome-mien
     - Helm of the Mammoth Lord https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helm-of-the-mammoth-lord
     - Irongrip Gauntlets https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gauntlets-irongrip
-    - Minotaur Belt
+    - Minotaur Belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-minotaur
     - Pelt of the Beast https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pelt-of-the-beast
     - Rhino Hide https://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/rhino-hide
     - Seducer's Bane Bracelet https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/seducer-s-bane
