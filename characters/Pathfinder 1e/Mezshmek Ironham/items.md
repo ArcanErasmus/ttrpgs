@@ -64,10 +64,6 @@
 - Wandsleight `30 Fleshgrafts.pdf`
 - Aegis Script `30 Battle Standards.pdf`
 
-### 3pp racial traits
-- Armored Home `101 Alternate Racial Traits.pdf`
-    - Replaces Desert Delver
-
 ### Items for Me
 - Alchemical/Consumable
     - Reagents https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances/#Alchemical_Reagents
