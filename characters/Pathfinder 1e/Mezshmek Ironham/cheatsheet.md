@@ -11,7 +11,7 @@
 
 ## Ingenuity
 - Max = artificer lvl + Int mod
-- Current: 11/day; OOOOO OOOOO O
+- Current: 11/day; OOOOO OOOOO x
 
 ## Psionics
 - Psionic Focus: Y
@@ -32,7 +32,7 @@
 | Read Magic                    |                               |
 | Resistance                    |                               |
 |-------------------------------|-------------------------------|
-| 1st: 6/day; OOOOOO            | 2nd: 4/day; OOOO              |
+| 1st: 6/day; OOOOOx            | 2nd: 4/day; OOOx              |
 |-------------------------------|-------------------------------|
 | Ablative Armor                | Alchemical Allocation         |
 | Abundant Ammunition           | Align Weapon                  |
@@ -82,7 +82,7 @@
 ## Magic Items
 | Item (Personal Inventory)              | CL | Num | Notes
 |----------------------------------------|----|-----|-------
-| Wand of *Shocking Grasp*               |  5 |  50 |
+| Wand of *Shocking Grasp*               |  5 |  47 |
 | Scroll of *Breath of Life*             | 11 |   1 |
 | Scroll of *Animal Purpose Training*    |  1 |   1 | to turn into wand later
 | Scroll of *Build Trust*                |  1 |   1 | to turn into wand later
@@ -90,6 +90,7 @@
 | Scroll of *Conditional Favor*          |  1 |   1 | to turn into wand later
 | Scroll of *Ghostbane Dirge*            |  1 |   1 | to turn into wand later
 | Scroll of *Grace*                      |  1 |   1 | to turn into wand later
+| Scroll of *Fallback Strategy*          |  1 |   1 |
 | Scroll of *Huntmaster's Spear*         |  1 |   1 | to turn into wand later
 | Scroll of *Inner Focus*                |  1 |   1 | to turn into wand later
 | Scroll of *Know Peerage*               |  1 |   1 | to turn into wand later
