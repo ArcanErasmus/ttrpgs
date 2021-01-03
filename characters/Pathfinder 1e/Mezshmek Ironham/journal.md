@@ -26,32 +26,72 @@
 
 ## Quest Log
 ### Most Recent
-- we have a boat: Rosabella
-    - make sure the crew are treated well
-    - make upgrades?
-- deal with the Beastmark plague in Na'macui
-    - head to Segovia on our way
-- TODO on boat ride
-    - set up crafting area
-    - salvage magical items
-    - learn a language from a party member (20 days)
-    - craft myself items (cost)
-        - anvil of the skyseeker (3750)
-            - cheaper (2000?) without haste effect?
-        - bell of returning spirits (1500)
-        - cyclops helm (2800)
-        - folding boat (3600)
-        * handy haversack (1000)
-            - alchemist's lab (66.67) https://www.d20pfsrd.com/equipmenT/goods-and-services/tools-kits/#Lab_Alchemist8217s
-        * wand of shocking grasp, CL 5 (1875)
-        - wand sheath (2000)
+- In Segovia
+    - Beastmark ravaging town
+        - Dead Sector and Despair's Altar walled off from rest of city
+        - Order of the Songbird enforcing quarantine ruthlessly
+        - Asylum in Dead Sector may hold promising leads
+    - House Arverni
+        - Useful library for research
+        - Usually contract with the Locksmiths for protection
+        - An item, "The Crux", was stolen
+            - Dodecahedron of red-brown wood, edges reinforced with iron
+            - Hidden aura, kept around for a long time, no understanding of functions
+            - Identified: "Devil's Crux" (references copyrighted name) https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/crux-devils
+            - Locksmiths have not responded to requests about theft, so they are likely a part of it
+            - *Identify* results
+                - Moderate conjuration
+                - Like *bag of holding*, but locked and trapped
+                - Need to tap runes in correct order
+            - Contents
+                - Leather-bound portfolio, embossed with stylized D
+                    - Personal journal, heavy notetaking and editing of past notes
+                - Silver box engraved with dancing skeletons
+                    - Simple lock, non-magical
+                    - Contain 4 *Grave Candles*
+                - 3 scrolls
+                    - Scroll of *Heal* (CL 11)
+                    - Scroll of *Remove Curse* (CL 5)
+                    - Scroll of *Scrying* (CL 7)
+                - Matched pair of wands
+                    - Wand of *Break Enchantment* (CL 9, 8 charges)
+                    - Wand of *Death Ward* (CL 7, 7 charges)
+                - Severed head of Khazrae Kuelata
+    - Severed head of Khazrae Kuelata
+        - Khazrae Kuelata, she
+        - Some kind of fey, maybe dryad
+        - Evil aura
+        - Injuries, both likely from fight that severed the head, and probably self-inflicted (cheeks, lips, tongue scarred)
+        - Healing only cured mild face wounds
+        - No memory of time, or reason, for decapitation
+            - "third year of birthing", short-lived calendar system referring to birth of Bahamut and Tiamat, roughly 1500 years ago
+        - Not really aware of other objects in bag, but they entered the bag after the head, put there by non-original owner
+        - "Some sort of adventurer" owned the bag, not this person
+        - Of species that does not require more than their head to live, nor apparently any nutrients
+        - Feels much better being out of the bag, does not want to return
+        - Feels familiar to Adrena, and vice versa
+            - Has been quite chatty with Adrena
+        - Remembers that Delvehaven is very dangerous, in some vague way
+    - Delvehaven
+        - Large building, abandoned for quite a number of years
+        - Algae-covered fountains, bushes grown out of their sculpted shapes
+        - Huge oaken doors, carving of a receding road, placard over door with stylized D
+        - 12ft stone wall, encrusted with neglect (salt spray stains, bird poop, etc)
+        - Condemned by order of Segovian Senate, tresspassing prohibited, "warded for your protection"
+    - Rance Luka
+        - Locksmiths member
+        - Had the Crux, gave it to us in exchange for promise to help put some gladiators in their place
+- TODO: buy lockpicks
+
+- Goal: Head to Na'macui to clear out Beastmark
+- Boats: The Rosabella, The Storm Viper
 
 ### Archive
 - ?
 
 ## Custom Items
 ### Lantern of Sekolah
-- Aura: strong sransmutation & moderate evil
+- Aura: strong transmutation & moderate evil
 - CL: 13
 - Slot: none
 - Weight: 5 lbs

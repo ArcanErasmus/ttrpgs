@@ -43,7 +43,7 @@
 | Adrena's Token           |        | +1 insight Will, Craft, Perform
 | Wands/Scrolls/Potions    |        | `See cheatsheet`
 |--------------------------|        |--------------------------------
-| **Coins**                |        | $2689.37
+| **Coins**                |        | $2687.37
 |--------------------------|--------|--------------------------------
 | **Total**                |   70.5 | Light Load
 
@@ -83,6 +83,7 @@ Modifiers:
 - Custom item, *Gish Clasp*: 4000
 
 ### Cadfael: later/5k
+- wand of celestial companion?
 
 ### Lash: later/5k
 

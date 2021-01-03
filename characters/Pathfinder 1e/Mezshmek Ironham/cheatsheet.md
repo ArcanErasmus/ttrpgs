@@ -32,7 +32,7 @@
 | Read Magic                    |                               |
 | Resistance                    |                               |
 |-------------------------------|-------------------------------|
-| 1st: 6/day; OOOOOx            | 2nd: 4/day; OOOx              |
+| 1st: 6/day; OOOOOO            | 2nd: 4/day; OOOO              |
 |-------------------------------|-------------------------------|
 | Ablative Armor                | Alchemical Allocation         |
 | Abundant Ammunition           | Align Weapon                  |
@@ -176,7 +176,7 @@
 ## Achievement Feats Progress
 ### At Your Fingertips
 - 100+ wand castings of same spell
-- [name]: [num]
+- Shocking Grasp: 2
 
 ### Ingrained Casting
 - 25+ scroll castings of same spell
