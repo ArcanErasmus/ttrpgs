@@ -1,21 +1,4 @@
-# Witch Hunters
-- Budget: 500/500
-    - 1 Inquisitor, $40
-        - HArm, $20
-        - Mace, $5
-        - CBlade, $5
-        - ToolJ, $10
-    - 2 Witch Hunters, $50
-        - HArm, $40
-        - Mace, $10
-        - CBlade, $10
-        - ToolJ, $20
-    - 3 Informants, $60
-        - Sword, $15
-        - SBow, $15
-    - 5 Warhounds, $150
-        - Hangman, $50
-
+# Aldebaran's Fingers (Witch Hunters)
 ## Heroes
 ### Crimson, she (Inquisitor) - $80
 - XP: 18
@@ -133,3 +116,6 @@
 - Special Equipment: Hangman's Shackles - On Free Hack, +1 S and re-roll if fail to wound
 | M | WS | BS | S | T | W | I | A | Ld |
 | 6 | 4  | -  | 4 | 3 | 3 | 4 | 1 | 5  |
+
+## Extra Equipment
+- none
