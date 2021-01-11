@@ -3,7 +3,7 @@
 ### Crimson, they (Inquisitor) - $85
 - XP: 18
 - Race: Human
-- Skills: Combat, Shooting, Academic, Strength, Speed, Sigmarite
+- Skill Groups: Combat, Shooting, Academic, Strength, Speed, Sigmarite
 - Weapons:
     - Mace - Concussive (1)
     - Concealed Blade - Atks with wpn ignore arm sav vs enemies at 1 w
@@ -23,7 +23,7 @@
 ### Canary, he (Priest of Sigmar) - $80
 - XP: 12
 - Race: Human
-- Skills: Combat, Academic, Strength, Sigmarite
+- Skill Groups: Combat, Academic, Strength, Sigmarite
 - Weapons:
     - Mace - Concussive (1)
     - Sling - 18" 2S Concussive (1)
@@ -42,7 +42,7 @@
 ### Antony, he (Raven Priest) - $90
 - XP: 18
 - Race: Human
-- Skills: Combat, Academic, Strength
+- Skill Groups: Combat, Academic, Strength
 - Weapons:
     - Mace - Concussive (1)
     - Bow - 24" 3S
@@ -64,7 +64,7 @@
 ### Spoon, he (Priest of Ranald) - $90
 - XP: 14
 - Race: Human
-- Skills: Combat, Shooting, Academic, Speed, Assassin
+- Skill Groups: Combat, Shooting, Academic, Speed, Assassin
 - Weapons:
     - Mace - Concussive (1)
     - Concealed Blade (H) - Atks with wpn ignore arm sav vs enemies at 1 w
@@ -86,7 +86,7 @@
 ### Galore, she (Priestess of Shallya) - $75
 - XP: 13
 - Race: Human
-- Skills: Academic, Speed
+- Skill Groups: Academic, Speed
 - Weapons:
     - Mace - Concussive (1)
 - Armor:
@@ -105,7 +105,7 @@
 ### Rome, he (Elven Ranger) - $80
 - XP: 28
 - Race: Elf
-- Skills: Combat, Shooting, Speed, Asur (High Elf warband)
+- Skill Groups: Combat, Shooting, Speed, Asur (High Elf warband)
 - Weapons:
     - Elven Bow - 30" 3S, AP (1)
     - Great Sword - +2S -1 I, Slow Swing, Two-Handed
@@ -121,9 +121,16 @@
     - Frail but Fey - If not 'Dead', 'Robbed by X', or 'Pits', treat as 'Full Rec'
     - Streetwise - If deployed and not OoA, +1/-1 one explore die
     - Heirloom: Elven Bow
+    - Dislikes Dwarves
 
 ## Henchmen
 - none
 
 ## Extra Equipment
 - none
+
+## Combat Groups
+### Standard
+1. Crimson, Galore
+2. Canary, Rome
+3. Antony, Spoon
