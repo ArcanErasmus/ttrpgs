@@ -45,7 +45,6 @@
                 - Need to tap runes in correct order
             - Contents
                 - Leather-bound portfolio, embossed with stylized D
-                    - Personal journal, heavy notetaking and editing of past notes
                 - Silver box engraved with dancing skeletons
                     - Simple lock, non-magical
                     - Contain 4 *Grave Candles*
@@ -72,6 +71,14 @@
         - Feels familiar to Adrena, and vice versa
             - Has been quite chatty with Adrena
         - Remembers that Delvehaven is very dangerous, in some vague way
+        - Hates wizards
+    - Mysterious Journal found in the Crux
+        - Personal journal, heavy notetaking and editing of past notes
+            - Certainly made via magic
+        - Very well made book and impeccable penmanship
+        - Only seems aged about 100 years
+            - Probably due to storage in the Crux
+        - Author: Segora Eventide
     - Delvehaven
         - Large building, abandoned for quite a number of years
         - Algae-covered fountains, bushes grown out of their sculpted shapes
@@ -85,6 +92,21 @@
 
 - Goal: Head to Na'macui to clear out Beastmark
 - Boats: The Rosabella, The Storm Viper
+
+
+1. we want to get to the Asylum in the Dead Sector
+2. to research the Beastmark, we want to search the Stellar Collegium for help
+    - Beastmark related to posession, and protections against such would work
+3. to get access to the SC, we needed to get the Crux back from the Locksmiths
+4. in exchange for the Crux, we agreed to help Rance Luka deal with troublemaking gladiators by beating them in the DevilDrome, in 2 days
+5. we also wanted to learn more about Khazrae Kuelata, and it's clear she has a connection to Delvehaven. we were going to research Delvehaven while in the SC
+    - Lodge for adventurer's guild, The Amber Privateers
+    - Sealed and abandoned after Imperial rule took hold in Segovia
+    - Adventurers either killed or driven out after order accused of sedition
+    - Members participated in anti-Imperial rebel cells
+    - Order worshipped one of The Eldest, a Fey demigod
+6. Research anti-possession
+    - 
 
 ### Archive
 - ?
