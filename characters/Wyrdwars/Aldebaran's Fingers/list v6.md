@@ -1,137 +1,211 @@
-# Aldebaran's Fingers (Witch Hunters) - $500/500
+# Aldebaran's Fingers (Witch Hunters) - $495/500
 ## Heroes
-### Crimson, they (Inquisitor) - $85
+### Inquisitor (Crimson, they) - $65
 - XP: 18
 - Race: Human
 - Skill Groups: Combat, Shooting, Academic, Strength, Speed, Sigmarite
 - Weapons:
-    - Mace - Concussive (1)
-    - Concealed Blade - Atks with wpn ignore arm sav vs enemies at 1 w
-    - Pistol - 6" 4S AP (1) Assault
+    - Great Sword - +2 S, -1 I, Slow Swing, 2H
+    - Light Crossbow - 24"/3S, AP (1)
 - Armor:
-    - Light Armor
-    - Net - Entangle (-2 I)
+    - none
 - Special Equipment:
-    - Tools of Judgement - Close combat & shooting atks +1 S vs Wizards
-| M | WS | BS | S | T | W | I | A | Ld |
-| 4 |  4 |  4 | 3 | 3 | 3 | 4 | 1 |  8 |
+    - Rope & Hook - 2d6 climb tests
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  4 |  4 | 3 | 3 | 3 | 4 | 1 |  8 | -  | -  |
 - Special Rules:
     - Hooded Hunters
     - Leader (6")
     - Hates Wizards
 
-### Galore, she (Raven Priest) - $90
-- XP: 18
+### Priest of Sigmar (Canary, he) - $65
+- XP: 12
 - Race: Human
-- Skill Groups: Combat, Academic, Strength
+- Skill Groups: Combat, Academic, Strength, Sigmarite
 - Weapons:
     - Mace - Concussive (1)
-    - Bow - 24" 3S
 - Armor:
     - Light Armor
     - Shield
 - Special Equipment:
     - Leaden Cloak - Hooded Hunters
-    - Holy Relic - +1 Ld to gen pwr dice
-| M | WS | BS | S | T | W | I | A | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 |  8 |
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  3 |  2 | 3 | 3 | 3 | 3 | 1 |  8 | 5+ | 6+ |
+- Special Rules:
+    - Hooded Hunters
+    - Priest (Sigmar) - Starts w/ 1 prayer
+
+### Raven Priest (Galore, she) - $85
+- XP: 18
+- Race: Human
+- Skill Groups: Combat, Academic, Strength
+- Weapons:
+    - Axe - AP (1)
+- Armor:
+    - Heavy Armor - -1 I
+    - Shield
+- Special Equipment:
+    - Leaden Cloak - Hooded Hunters
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 |  8 | 4+ | 6+ |
 - Special Rules:
     - Hooded Hunters
     - Immune to Fear
     - Priest (Morr) - Starts w/ 1 prayer
 
+### Witch Hunter () - $35
+- XP: 6
+- Race: Human
+- Skill Groups: Combat, Shooting, Academic, Speed, Sigmarite
+- Weapons:
+    - Great Sword - +2 S, -1 I, Slow Swing, 2H
+- Armor:
+    - none
+- Special Equipment:
+    - none
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 |  7 | -  | -  |
+- Special Rules:
+    - Hooded Hunters
+    - Hates Wizards
+
+### Witch Hunter (?) - $35
+- XP: 6
+- Race: Human
+- Skill Groups: Combat, Shooting, Academic, Speed, Sigmarite
+- Weapons:
+    - Great Sword - +2 S, -1 I, Slow Swing, 2H
+- Armor:
+    - none
+- Special Equipment:
+    - none
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 |  7 | -  | -  |
+- Special Rules:
+    - Hooded Hunters
+    - Hates Wizards
+
 ## Hired Swords
-
-### Spoon, he (Priest of Ranald) - $90
-- XP: 14
-- Race: Human
-- Skill Groups: Combat, Shooting, Academic, Speed, Assassin
+### Halfling Cook (?) - $30
+- XP: 6
+- Race: Halfling
+- Skill Groups: Combat, Academic, Strength
 - Weapons:
-    - Mace - Concussive (1)
-    - Concealed Blade (H) - Atks with wpn ignore arm sav vs enemies at 1 w
-    - Short Bow - 18" 3S
+    - Sling - 18"/3S, Concussive (1)
 - Armor:
-    - Light Armor
+    - none
 - Special Equipment:
-    - Leaden Cloak - Hooded Hunters
-    - Holy Relic - +1 Ld to gen pwr dice
-    - Lucky Charm - +1/-1 Campaign Injuries, lost if taken OoA even if not used
-| M | WS | BS | S | T | W | I | A | Ld |
-| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 |  7 |
+    - Sling Bullets - Sling has +1 S (included)
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 |  6 | -  | -  |
 - Special Rules:
-    - Hooded Hunters
-    - Priest (Ranald) - Starts w/ 1 prayer
-    - Grifter - Lucky Charm not consumed
-    - Heirloom: Concealed Blade
-
-### Antony, he (Pit Fighter) - $70
-- XP: 12
-- Race: Human
-- Skill Groups: Combat, Strength, Speed, Pit Fighter
-- Skills:
-    - Close-Quarters Fighting - -D3" enemy charge distance when this unit is within 2" of terrain feature
-- Weapons:
-    - Combat Whip - Reroll 1 failed 'to hit' in 1st round (reroll can't crit)
-    - Javelin - 12", 3S, Quick to Fire
-- Armor:
-    - Light Armor
-    - Shield
-- Special Equipment:
-    - Leaden Cloak - Hooded Hunters
-| M | WS | BS | S | T | W | I | A | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 |  7 |
-- Special Rules:
-    - Hooded Hunters
-    - Pit Veteran - 1 free Combat or Pit Fighter skill
-
-### Canary, he (Imperial Freelancer) - $85
-- XP: 12
-- Race: Human
-- Skill Groups: Combat, Shooting, Strength
-- Weapons
-    - Morning Star - +1 S 1st rd, only Shield off-hand
-    - Bow - 24" 3S
-- Armor
-    - Full Plate Armor (H) - -1 I, 4+ save, counts as Heavy Armor
-    - Shield
-- Special Equipment:
-    - Leaden Cloak - Hooded Hunters
-    - Lantern - +3" spot distance, can't hide
-| M | WS | BS | S | T | W | I | A | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 |  8 |
-- Special Rules:
-    - Hooded Hunters
-    - Heirloom: Full Plate Armor
-
-### Rome, he (Elven Ranger) - $80
-- XP: 28
-- Race: Elf
-- Skill Groups: Combat, Shooting, Speed, Asur (High Elf warband)
-- Weapons:
-    - Elven Bow - 30" 3S, AP (1)
-    - Great Sword - +2S -1 I, Slow Swing, Two-Handed
-- Armor:
-    - Light Armor
-- Special Equipment:
-    - Leaden Cloak - Hooded Hunters
-| M | WS | BS | S | T | W | I | A | Ld |
-| 5 |  4 |  4 | 3 | 2 | 3 | 5 | 1 |  8 |
-- Special Rules:
-    - Hooded Hunters
-    - Eagle Eyes - Ignore Stealth when shooting
-    - Frail but Fey - If not 'Dead', 'Robbed by X', or 'Pits', treat as 'Full Rec'
-    - Streetwise - If deployed and not OoA, +1/-1 one explore die
-    - Heirloom: Elven Bow
-    - Dislikes Dwarves
+    - Stealth - -1 to hit warrior while in cover
+    - Cook (+1 W) - Other hero gets +1 W when warrior deployed
+    - Trinket Collector (-5gc) - Can purchase Lucky Charms at -5gc, become heirloom
 
 ## Henchmen
-- none
+### Halfling (?) - $25
+- XP: 4
+- Race: Halfling
+- Weapons:
+    - Sling - 18"/3S, Concussive (1)
+- Armor:
+    - none
+- Special Equipment:
+    - Sling Bullets - Sling has +1 S (included)
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 |  6 | -  | -  |
+- Special Rules:
+    - Stealth - -1 to hit warrior while in cover
+
+### Halfling (?) - $25
+- XP: 4
+- Race: Halfling
+- Weapons:
+    - Sling - 18"/3S, Concussive (1)
+- Armor:
+    - none
+- Special Equipment:
+    - Sling Bullets - Sling has +1 S (included)
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 |  6 | -  | -  |
+- Special Rules:
+    - Stealth - -1 to hit warrior while in cover
+
+### Raven Knight (?) - $50
+- XP: 14
+- Race: Human
+- Weapons:
+    - Mace - Concussive (1)
+- Armor:
+    - Heavy Armor - -1 I
+    - Shield
+- Special Equipment:
+    - none
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 |  8 | 4+ | 6+ |
+- Special Rules:
+    - Immune to Fear
+    - Heirloom: Heavy Armor
+
+### Raven Knight (?) - $50
+- XP: 14
+- Race: Human
+- Weapons:
+    - Mace - Concussive (1)
+- Armor:
+    - Heavy Armor - -1 I
+    - Shield
+- Special Equipment:
+    - none
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 |  8 | 4+ | 6+ |
+- Special Rules:
+    - Immune to Fear
+    - Heirloom: Heavy Armor
+
+### Warhound (?) - $30
+- Weapons:
+    - none
+- Armor:
+    - none
+- Special Equipment:
+    - none
+| M | WS | BS | S | T | W | I | A | Ld | Ar | Sv |
+| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 |  5 | -  | -  |
+- Special Rules:
+    - Animals - No Climb, No Hide, Flee 3d6", No use Leader's Ld, No Capture Obj, Fight Unarmed, No Promotion
 
 ## Extra Equipment
 - none
 
+# Summary
+## List Overview
+### Heroes
+1. Inquisitor (Crimson, they) - $65
+2. Priest of Sigmar (Canary, he) - $65
+3. Raven Priest (Galore, she) - $85
+4. Witch Hunter (Laima, she) - $35
+5. Witch Hunter (Fork, he) - $35
+
+### Hired Swords
+1. Halfling Cook (Dylan, she) - $30
+
+### Henchmen
+1. Halfling (Randall, he) - $25
+2. Halfling (, ) - $25
+3. Raven Knight (Scissors, he) - $50
+4. Raven Knight (Celadon, she) - $50
+5. Warhound (REM, it) - $30
+
 ## Combat Groups
-### Standard
-1. Crimson, Galore
-2. Antony, Rome
-3. Canary, Spoon
+### "Specialized" Combat Group
+1. Inquisitor, Halfling Cook, Halfling, Halfling
+    - $155: 65 + 30 + 25 + 25
+    - Ranged
+2. Priest of Sigmar, Raven Priest, Warhound
+    - $180: 65 + 85 + 30
+    - Magic, defensive
+3. Witch Hunter, Witch Hunter, Raven Knight, Raven Knight
+    - $170: 35 + 35 + 50 + 50
+    - Melee
