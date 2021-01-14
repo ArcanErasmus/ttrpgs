@@ -1,11 +1,16 @@
 # Witch Hunters
 ## Unit List
-### name (unit) - $ gc
-- ? xp
-- Skills: ?
-- Special Rules: ?
-- Weapons: ?
-- Armor: ?
-- Special Equipment: ?
-| M | WS | BS | S | T | W | I | A | Sv | Ld |
-| ? | ?  | ?  | ? | ? | ? | ? | ? | ?  | ?  |
+### Unit (Name, pronoun) - $?
+- XP: ?
+- Race: ?
+<!-- - Skill Groups: ? -->
+- Weapons:
+    - none
+- Armor:
+    - none
+- Special Equipment:
+    - none
+| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
+| ? |  ? |  ? | ? | ? | ? | ? | ? | -  | -  |  ? |
+- Special Rules:
+    - none

@@ -12,7 +12,7 @@
 - Special Equipment:
     - Rope & Hook - 2d6 climb tests
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  4 |  4 | 3 | 3 | 3 | 4 | 1 | -  | -  | 8  |
+| 4 |  4 |  4 | 3 | 3 | 3 | 4 | 1 | -  | -  |  8 |
 - Special Rules:
     - Hooded Hunters
     - Leader (6")
@@ -29,7 +29,7 @@
 - Special Equipment:
     - Leaden Cloak - Hooded Hunters
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  3 |  2 | 3 | 3 | 3 | 3 | 1 | -  | -  | 8  |
+| 4 |  3 |  2 | 3 | 3 | 3 | 3 | 1 | -  | -  |  8 |
 - Special Rules:
     - Hooded Hunters
     - Priest (Sigmar) - Starts w/ 1 prayer
@@ -45,7 +45,7 @@
 - Special Equipment:
     - Leaden Cloak - Hooded Hunters
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | -  | -  | 8  |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | -  | -  |  8 |
 - Special Rules:
     - Hooded Hunters
     - Immune to Fear
@@ -62,7 +62,7 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 | -  | -  | 7  |
+| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 | -  | -  |  7 |
 - Special Rules:
     - Hooded Hunters
     - Hates Wizards
@@ -78,7 +78,7 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 | -  | -  | 7  |
+| 4 |  3 |  3 | 3 | 3 | 3 | 3 | 1 | -  | -  |  7 |
 - Special Rules:
     - Hooded Hunters
     - Hates Wizards
@@ -96,7 +96,7 @@
     - Sling Bullets - Sling has +1 S (included)
     - Lucky Charm (H) - +1/-1 campaign injury roll, lost after taken OoA even if not used
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  | 6  |
+| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
 - Special Rules:
     - Stealth - -1 to hit warrior while in cover
     - Cook (+1 W) - Other hero gets +1 W when warrior deployed
@@ -113,7 +113,7 @@
 - Special Equipment:
     - Sling Bullets - Sling has +1 S (included)
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  | 6  |
+| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
 - Special Rules:
     - Stealth - -1 to hit warrior while in cover
 
@@ -127,7 +127,7 @@
 - Special Equipment:
     - Sling Bullets - Sling has +1 S (included)
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  | 6  |
+| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
 - Special Rules:
     - Stealth - -1 to hit warrior while in cover
 
@@ -142,7 +142,7 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ | 8  |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ |  8 |
 - Special Rules:
     - Immune to Fear
     - Heirloom: Heavy Armor
@@ -158,7 +158,7 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ | 8  |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ |  8 |
 - Special Rules:
     - Immune to Fear
     - Heirloom: Heavy Armor
@@ -171,7 +171,7 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  | 5  |
+| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  |  5 |
 - Special Rules:
     - Animals - No Climb, No Hide, Flee 3d6", No use Leader's Ld, No Capture Obj, Fight Unarmed, No Promotion
 
@@ -183,7 +183,7 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  | 5  |
+| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  |  5 |
 - Special Rules:
     - Animals - No Climb, No Hide, Flee 3d6", No use Leader's Ld, No Capture Obj, Fight Unarmed, No Promotion
 
