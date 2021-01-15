@@ -1,53 +1,4 @@
 # Mezshmek's Item Speculation
-### Alchemical Reagents
-- https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances/#Alchemical_Reagents
-- Schools
-    - Abjuration
-        - Cold Iron, 5gp/cast, dispel and CL checks increased as if +1 CL
-        - Mugwort Extract, 4gp/cast, range as if +1 CL
-        - Myrrh, 2gp/cast, dispel and CL checks increased as if +1 CL
-    - Divination
-        - Moondew, 20gp/cast, all effects +1 CL
-    - Illusion
-        - Silver, 10gp/cast, DC of Will save to disbelieve +1
-    - Transmutation
-        - Ginger Extract, 5gp/cast, overcome SR as if +1 CL
-        - Magnesium, 2gp/cast, duration increased as if +1 CL
-- Subschool
-    - Creation
-        - Darkwood, 10gp/cast, all effects +1 CL
-    - Summoning
-        - Spirit of Wine, 3gp, duration as if +1 CL
-- Elements
-    - Cold
-        - Urea, 2gp/cast, all effects +1 CL
-    - Fire
-        - Saltpeter, 1gp/cast, +1 fire damage
-    - Poison
-        - Realgar, 3gp/cast, DC to identify or neutralize spell is +2
-
-### Drugs
-- Rules
-    - Craft (Alchemy) DC is addiction DC
-    - Crit fail on Craft check exposes creator to drug
-    - Addiction
-        - Save DC +2 each time take another dose while still having ability damage from previous dose
-            - This also accrues while addicted
-        - No addiction penalty while under drug effects
-        - Type: disease, variable; Save: variable; Onset: 1 day; Frequency: 1/day
-        - Minor: -2 Con; 2 saves to cure
-        - Moderate: -2 Con & Str, cannot naturally heal ability dmg from the drug; 3 saves
-        - Major: As Moderate but also -2 Dex & Wis
-    - Can only make save to cure addiction after 1 day no drug, taking drug undoes cure progress
-    - Cure DC is highest addiction DC for current drug, -2 per day without, min base addiction DC for the drug
-- Items
-    - AEther https://www.d20pfsrd.com/gamemastering/afflictions/drugs/aether
-        - +1 CL could be very very useful for crafting
-    - Old-Mage https://www.d20pfsrd.com/gamemastering/afflictions/drugs/old-mage
-    - Strange Fluids https://www.d20pfsrd.com/gamemastering/afflictions/drugs/strange-fluids
-        - The ultimate YOLO
-        - I wonder if there is a way to get a reroll on the d%
-
 ### Symbionts
 - Living Breastplate https://sites.google.com/site/eberronpathfinder/conversion-info/bestiary/monsters/s-u/symbiont-living-breastplate
     - extremely expensive, but DR 10/byeshk, +4 con, auto-stabilization, and as +2 light fortification mithral breastplate
@@ -85,21 +36,43 @@
     - Spell Storing https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/spell-storing
 - Shields
     - Arrow Catching https://www.d20pfsrd.com/magic-items/magic-armor/magic-armor-and-shield-special-abilities/arrow-catching
+- Weapon
+    - Bane https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/bane
+
+### Mundane Objects
+- Scroll Case, Spring-Loaded https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Scroll%20case,%20spring%20loaded
+- Wrist Sheath, Spring-Loaded https://www.d20pfsrd.com/equipment/Weapons/weapon-and-armor-accessories/#TOC-Wrist-Sheath-spring-loaded
+
+### Categories
+- Alchemical Weapons http://d20pfsrd.com/equipment/weapons/Alchemical-weapons
+- Construct crafting guide https://paizo.com/threads/rzs2q7je&page=4?williamoaks-guide-to-construct-crafting
+- Create Body Modification https://www.d20pfsrd.com/feats/3rd-party-feats/legendary-games/craft-body-modification-item-creation
+    - find the freaking source for this
+- Crafter build guide https://docs.google.com/document/d/1Jp83PSkhRcbu2VtEnMLx2Juhl-H1F2lG0UIQYi9Tjgo/mobilebasic
+- Eternal Wands https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wands-eternal
+    - 2/day wands that refresh
+- Implants https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/special-rules/implants
+    - Clockwork Prosthesis https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/clockwork-prosthesis
+- Preconstructed Spellbooks https://www.d20pfsrd.com/Magic/spellbooks/#Book_of_Harms_Level_5_Evoker
+- Schema https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/schema
+    - 1/day scroll that refreshes
+
+### 3pp items
+- Gloves of the Ray `10 Wizard Magic Items.pdf`
+- Wizard's Journeyman Ring `10 Wizard Magic Items.pdf`
+- Retractable Claws `30 Fleshgrafts.pdf`
+- Wandsleight `30 Fleshgrafts.pdf`
+- Aegis Script `30 Battle Standards.pdf`
 
 ### Items for Me
 - Alchemical/Consumable
-    - Dust of Emulation https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dust-of-emulation
-    - Dweomer's Essence https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dweomer-s-essence
-    - Elixir of Tumbling https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/elixir-of-tumbling
-    * Escape Dust https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/escape-dust/
-    - Flying Ointment https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/ointment-flying-ointment
-    - Haunt Siphon https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Haunt%20Siphon
-    - Iron Lord's Transforming Slivers https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Iron%20Lord%27s%20Transforming%20Slivers
-    - Mage's Assistant https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances/tinctures/#Mages_Assistant
-    - Mundanity Grease https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/grease-mundanity
+    - Reagents https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances/#Alchemical_Reagents
+        - Abjuration: Myrrh, 2gp/cast, dispel and CL checks increased as if +1 CL
+        - Divination: Moondew, 20gp/cast, all effects +1 CL
+        - Transmutation: Magnesium, 2gp/cast, duration increased as if +1 CL
+        - Creation: Darkwood, 10gp/cast, all effects +1 CL
     - Soul Soap https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/soul-soap
-        - we keep needing anti-mind-control
-    - Steelsheen Elixir https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/elixir-steelsheen
+    - Strange Fluids https://www.d20pfsrd.com/gamemastering/afflictions/drugs/strange-fluids
     - Unguent of Timelessness https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/unguent-of-timelessness
     - Universal Solvent https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/universal-solvent
 - Slotless
@@ -107,257 +80,46 @@
     - Arcane Battery https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/arcane-battery
     - Artificer's Battery https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/artificer-s-battery
         - based on Runestone of Power https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/runestone-of-power
-    - Autonomous Cartographer https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/autonomous-cartographer
-    - Banner of Restful Nights https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/banner-of-restful-nights
-    - Barrel of Preserving Pine https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/barrel-of-preserving-pine
-    - Bead of Newt Protection https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bead-of-newt-prevention
-    - Beast-Bond Brand https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/beast-bond-brand
-    - Black Soul Shard https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/black-soul-shard
-    - Brain Cylinder https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/brain-cylinder
+    - Bell of Returning Spirits https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bell-of-returning-spirits
     - Caster's Tattoo https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tattoo-caster-s
-        - Does this modify the spell level? Does this increase casting time for spontaneous casters?
-    * Cauldron of Brewing https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cauldron-of-brewing
-    - Cauldron of Resurrection https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cauldron-of-resurrection
-        - We can use this to raise people long before we would otherwise have the magic
-    - Chime of Interruption https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/chime-of-interruption
     * Dream Journal of the Pallid Seer https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/book-dream-journal-of-the-pallid-seer
-    - Elemental Augmentations https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/elemental-augmentations
-    * Folding Boat https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boat-folding
-    - Fortifying Stone https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-fortifying
-    * Handy Haversack https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-handy-haversack
-    - Ioun Memory Node https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-memory-node
-    - Luckstone https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-of-good-luck-luckstone
-    - Monster Almanac https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/monster-almanac
-    - Prayer Beads https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/beads-prayer-strand
-    - Spell-Capturing Gem https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gem-spell-capturing
-    - Talisman of the Summoned Steed https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/talisman-of-the-summoned-steed
     - Vial of Efficacious Medicine https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Vial%20of%20Efficacious%20Medicine
     - Wayfinder https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/wayfinder-standard
 - Slotless (held)
-    - Alchemist's Atlatl https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/alchemist-s-atlatl
-    * Amazing Tools of Manufacture https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tools-amazing-tools-of-manufacture
-        - can't profit from it (normally), but can perform ultra-speedy crafting
-        - requires 6 ranks in relevant Craft to use
-    * Bell of Returning Spirits https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bell-of-returning-spirits
-    * Caster's Shield https://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/caster-s-shield
+    - Caster's Shield https://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/caster-s-shield
         - The scroll slot (which has a max of lvl 3, but only costs half price!) is valued only at 500gp
-    - Cauldron of Fireworks https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cauldron-of-fireworks
-    - Drinking Horn of the Panacea https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/drinking-horn-of-the-panacea
-    - Elemental Storing Stone https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/elemental-storing-stone
-    - Farglass https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/farglass
-    - Gemcarver's Tools https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gemcarvers-tools
-        - Need to know elemental langs; Elemental Gem https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gem-elemental
-    - Golem Gauntlet https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/golem-gauntlet
-        - It's actually a light mace
-    - Grim Lantern https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/grim-lantern
-    - Iron Bands of Binding https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/iron-bands-of-binding
-    - Lantern of Hidden Light https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/lantern-of-hidden-light
-    - Liberator's Key https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/liberators-key
-    - Mallet of Building https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mallet-of-building
-    - One-Way Window https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/one-way-window
-    - Orb of Arcane Research https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/orb-of-arcane-research
-        - Make one for infusions?
-    - Orb of Golden Heaven https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/orb-of-golden-heaven
-    - Orb of Pure Law https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/orb-of-pure-law
-    - Padma Blossom https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/padma-blossom
-    - Scavenger's Stone https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-scavenger-s
-    - Sending Stone https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/sending-stone
-    - Teleport Stone https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/teleport-stone
 - Head
-    - Buffering Cap https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cap-buffering
-    - Crown of Blasting, Minor https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/crown-of-blasting
-    * Cyclops Helm https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cyclops-helm
-    - Helm of Underwater Action https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helm-of-underwater-action
-    - Hollow Mask https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mask-hollow
-    - Maw of the Wyrm https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/maw-of-the-wyrm
-    - Tri-Faced Helm https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helmet-vudran-ashak
+    - Cyclops Helm https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cyclops-helm
 - Headband
-    - Headband of Aerial Agility https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-aerial-agility
-        - Good at higher levels
-    - Headband of Alluring Charisma https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-alluring-charisma
-    - Headband of Inspired Wisdom https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-inspired-wisdom
-        - Headband of Mental Prowess https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-mental-prowess
-            - Headband of Mental Superiority https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-mental-superiority
-    - Headband of Mental Resilience https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-mental-resilience
-    - Headband of Pondrous Recollection https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-ponderous-recollection
-        - Minor bonus for minor cost
     - Headband of Twisted Intellect https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-twisted-intellect
-        - Quite a nice bonus, but double cost of HoVI
-    - headband of vast intelligence has a construction cost of 2000gp
 - Eyes
-    - Arachnid Goggles https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goggles-arachnid
-    - Discerning Goggles https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goggles-discerning
     - Eyes of the Eagle https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/eyes-of-the-eagle
-    - Lens of Detection https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/lens-of-detection
-    * Monocle of Flawlessness https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Monocle%20of%20Flawlessness
-    - Triple Eyes of Vivid Auras https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/triple-eyes-of-vivid-auras
 - Shoulders
-    - Cape of the Mountebank https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cape-of-the-mountebank
-    - Cloak of Heavenly Fire https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-heavenly-fire
     - Cloak of Resistance https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-resistance
-    - Cloak of the Dark Tapestry https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-the-dark-tapestry
-    - Cloak of the Hedge Wizard https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-the-hedge-wizard
-    - Gunfighter's Poncho https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/poncho-gunfighter-s
-    - Slashing Cape https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cape-slashing
-    - Wings of Flying https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/wings-of-flying
-        - Surely you can get this at half cost at CL 5
+    - Muleback Cords https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords
 - Neck
-    - Amulet of the Blooded https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-the-blooded
-        - Aberrant
-    - Amulet of Bullet Protection https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-bullet-protection
-    - Amulet of Natural Armor https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-of-natural-armor
-    * Armillary Amulet https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-armillary
-    - Fortunate Charm https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/charm-fortunate
-    - Guardian Gorget https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gorget-guardian
-    - Hand of Glory https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/hand-of-glory
+    - Armillary Amulet https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/amulet-armillary
     - Lesser Talisman https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/talisman-lesser
         - Beneficial Winds (automatic *feather fall*)
-    - Neclklace of Adaptation https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/necklace-of-adaptation
-    - Periapt of Health https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/periapt-of-health
-    - Periapt of Proof Against Paralysis https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/periapt-of-proof-against-paralysis
     - Protective Ruff https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/protective-ruff
-    - Resilient Ore https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/resilient-ore
-        - stack resistances, and 1/day chill metal
-    - Stormlure https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stormlure
 - Chest
-    * Apron of the Careful Chemist https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/apron-of-the-careful-chemist
-    - Bandages of Rapid Recovery https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bandages-of-rapid-recovery
-    - Bane Baldric https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/baldric-bane
-        - really good for anyone!
-    - Muleback Cords https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords
     - Tunic of Careful Casting https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tunic-of-careful-casting
-    - Versatile Vest https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vest-versatile
 - Body
-    - Dhoti of Style Mastery https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dhoti-of-style-mastery
-        - look up style feats
     - Pressure Suit https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pressure-suit
-        - also takes up head slot
 - Armor
     - Steelbone Frame https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/steelbone-frame
 - Belt
     - Belt of Giant's Strength https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-giant-strength
     - Belt of Incredible Dexterity https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-incredible-dexterity
-    - Belt of Mighty Constitution https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-constitution
-        - Belt of Physical Might https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-physical-might
-            - Belt of Physical Perfection https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-physical-perfection
-    - Canopic Wrap https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/canopic-wrap
-    - Earth Elemental Belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-earth-elemental
-    - Heavyload belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-heavyload
-    - Meridian Belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/meridian-belt
+    - Heavyload Belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-heavyload
+- PANTS
+    - MAKE SOMETHING
 - Wrist
-    - Armiger's Panoply https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/armiger-s-panoply
-    - Ioun Spite Bracers https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-ioun-spite
-    - Spellguard Bracers https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/spellguard-bracers
-    * Wand Sheath https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/wand-sheath
+    - Wand Sheath https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/wand-sheath
 - Hands
-    - Demonic Smith's Gloves https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Demonic%20Smith%27s%20Gloves
-        - competence bonus is wasted
-        - free *flaming* is really nice!
-    - Engineer's Workgloves https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/workgloves-engineer-s
-    - Gloves of Elvenkind https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-elvenkind
-    - Gloves of Familiar's Touch https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/glove-of-familiar-s-touch
-    - Gloves of Shaping https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-shaping
     - Gloves of the Keen Evaluator https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-the-keen-evaluator
 - Ring
-    - Ring of Arcane Signets https://www.d20pfsrd.com/magic-items/rings/ring-of-arcane-signets
-    - Ring of Counterspells https://www.d20pfsrd.com/magic-items/rings/ring-of-counterspells
-    - Ring of Craft Magic https://www.d20pfsrd.com/magic-items/rings/ring-of-craft-magic
-        - could probably make a version that works for infusions instead of spells
-    - Ring of Force Shield https://www.d20pfsrd.com/magic-items/rings/ring-of-force-shield
     - Ring of Forcefangs https://www.d20pfsrd.com/magic-items/rings/ring-of-forcefangs
-    - Ring of Mind Shielding https://www.d20pfsrd.com/magic-items/rings/ring-of-mind-shielding
     - Ring of Protection https://www.d20pfsrd.com/magic-items/rings/ring-of-protection
-    * Ring of Sustenance https://www.d20pfsrd.com/magic-items/rings/ring-of-sustenance
-    - Ring of Terrible Cost https://www.d20pfsrd.com/magic-items/rings/ring-of-terrible-cost
-    - Ring of the Ram https://www.d20pfsrd.com/magic-items/rings/ring-of-the-ram
-        - 86 gp per charge
-    * Ring of Torag http://www.pathfindercommunity.net/magic-items/rings/ring-of-torag
 - Feet
-    - Bondbreaker's Boots https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bondbreaker-s-boots
-    - Boots of Flawless Resolve https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-flawless-resolve
-    - Boots of Gusto https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-gusto
-    - Boots of Levitation https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed
-    * Boots of the Cat https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-cat
-    - Boots of the Earth https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-earth
-    - Boots of the Mastodon https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-mastodon
-    - Rebuilder's Boots https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-rebuilders
-
-### Items for Others
-- Akundol
-    - Bloodstone Collar https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/collar-bloodstone
-    - Stone of Alliance https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stone-of-alliance
-- Xulri
-    - Aspect Mask https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/aspect-mask
-    - Bands of Unbreakable Camaraderie https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bands-of-unbreakable-camaraderie
-    - Behemoth Belt https://sites.google.com/site/eberronpathfinder/conversion-info/magical-items/wondrous-items/behemoth-belt
-    - Belt of Thunderous Charging https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-thunderous-charging
-    - Blood Reservoir of Physical Prowess https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/blood-reservoir-of-physical-prowess
-    - Boots of Speed https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed
-    - Boots of Swift Fury https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-swift-fury
     - Boots of the Cat https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-cat
-    - Boots of the Vengeful Behir https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-vengeful-behir
-    - Bracelet of Second Chances https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracelet-of-second-chances-1
-    - Combat Sandles https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/combat-sandals
-    - Drinking Horn of Bottomless Valor https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/drinking-horn-of-bottomless-valor
-    - Flame of Rage https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/flame-of-rage
-    - Headband of Havoc https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-ha
-    - Helm of Fearsome Mien https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helm-of-fearsome-mien
-    - Helm of the Mammoth Lord https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/helm-of-the-mammoth-lord
-    - Irongrip Gauntlets https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gauntlets-irongrip
-    - Minotaur Belt
-    - Pelt of the Beast https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pelt-of-the-beast
-    - Rhino Hide https://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/rhino-hide
-    - Seducer's Bane Bracelet https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/seducer-s-bane
-    - Shoes of Lightning Leaping https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shoes-of-lightning-leaping
-    - Torc of Bloody Rage https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/torc-of-bloody-rage
-    - War-Kilt of the Dervish https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/kilt-war-kilt-of-the-dervish
-- Braveheart
-    - Blouse of the Boastful https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/blouse-of-the-boastful
-    - Bracelet of Mercy https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracelet-of-mercy
-    - Bracers of the Avenging Knight https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-the-avenging-knight
-    - Cloak of Disarming https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-disarming
-    - Commander's Banner https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/banner-commander-s
-    - Crown of Conquest https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/crown-of-conquest
-    - Crusader's Tabard https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/tabard-crusader-s
-    - Crystal of Healing Hands https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/crystal-of-healing-hands
-    * Diadem of Inspiring Rule https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/diadem-of-inspiring-rule
-    - Dueling Cuffs https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dueling-cuffs
-    * Imperial Army Greathelm https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/imperial-army-greathelm
-    - Knight's Pennon https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/knight-s-pennon
-    - Laurel of Command https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/laurel-of-command
-    - Manacles of Cooperation https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/manacles-of-cooperation
-    - Merciful Baldric https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/baldric-merciful
-    - Merciful Vambraces https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vambraces-merciful
-    - Ornament of Healing Light https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/ornament-of-healing-light
-    - Plume of Panache https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/plume-of-panache
-    - Resplendent Uniform https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/coat-resplendent-uniform
-    - Shackles of Compliance https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shackles-of-compliance
-    - Silver Smite Bracelet https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracelet-silver-smite
-    - Swordlord's Cloak https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/swordlords-cloak
-    - Swordmaster's Flair https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/swordmaster-s-flair
-    - Vambraces of Defense https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vambraces-of-defense
-- Cas-mar
-    - Boots of the Cat https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-cat
-    - Caparison of Resistance https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/caparison-of-resistance
-    - Dragonbane Divination Sticks https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dragonbane-divination-sticks
-    - Equestrian Belt https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-equestrian
-    - Featherleaf Barding https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/barding-featherleaf
-        - larger version for Ziggy? affect rider?
-    - Headband of Intuition https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-intuition
-    - Holly Wreath Band https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/band-holly-wreath
-    - Jungle Armor https://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-armor/jungle-armor
-        - maybe I can make something even better
-    - Pearl of Power https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power
-    - Prophet's Pectoral https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pectoral-prophet-s
-    - Ring of Sacred Mistletoe https://www.d20pfsrd.com/magic-items/rings/ring-of-sacred-mistletoe
-    - Zoic Fetish https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/zoic-fetish
-- Adrena
-    - Banner of the Ancient Kings https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/banner-of-the-ancient-kings
-    - Banner of the Scarlet Rose https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/banner-of-the-scarlet-rose
-    - Bracers of Steadiness https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-steadiness
-    - Dervish Sikke https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dervish-sikke
-    - Doomharp https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/doomharp
-    - Gloves of Elvenkind https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-elvenkind
-    - Spellguard Bracers https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/spellguard-bracers
-- Cornbread
-    - Dire Collar https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dire-collar

@@ -114,6 +114,13 @@
     - Combat that arises from salvage attempt assumes artificer starts prone but not surprised
 - Artifacts and items without gp value cannot be salvaged
 
+## Sorcerer VMC, Arcane Bloodline
+https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/arcane-bloodline
+
+### Arcane Bond (Su)
+- Gain arcane bond as wiz of sorcerer lvl
+- Chosen: familiar
+
 # Future Class Features (lvl 6)
 ## Artificer
 ### Bonus Feat

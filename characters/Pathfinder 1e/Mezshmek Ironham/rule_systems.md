@@ -9,8 +9,9 @@ total: +8
 
 #### any ranks
 - +3 untyped bonus class skill
+- +4 competence *forgefather's hammer*
 - +# of ranks
-total: +(ranks+3)
+total: +(ranks+7)
 
 #### any subschool, but situational
 - +5 luck bonus *crafter's fortune*
@@ -22,10 +23,6 @@ total: +7
 
 #### stone or metal
 - +2 racial bonus craftsman
-
-#### metal
-- +4 competence *forgefather's hammer*
-
 
 ### magic item crafting rate
 - time

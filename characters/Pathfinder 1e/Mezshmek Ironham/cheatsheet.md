@@ -2,7 +2,7 @@
 ## Weapons
 | Weapon    | Atk | Dam         | Crit     | Range | Notes
 |-----------|-----|-------------|----------|-------|------------
-| Warhammer | +5  | 1d8+2 (B/P) |    20/x3 |       |
+| Warhammer | +6  | 1d8+2 (B/P) |    20/x3 |       | Mwk, back spike
 |-----------|-----|-------------|----------|-------|------------
 | Touch     | +5  |             |    20/*  |       | Touch atk
 | R Touch   | +6  |             |    20/*  |       | Touch atk
@@ -11,7 +11,7 @@
 
 ## Ingenuity
 - Max = artificer lvl + Int mod
-- Current: 11/day; OOOOO OOOOO O
+- Current: 11/day; OOOOO OOOOO x
 
 ## Psionics
 - Psionic Focus: Y
@@ -80,12 +80,30 @@
 |-------------------------------|-------------------------------|
 
 ## Magic Items
-| Item (Personal Inventory)          | CL | Num |
-|------------------------------------|----|-----|
-|------------------------------------|----|-----|
-| Item (Party Loot Pool)             | CL | Num |
-|------------------------------------|----|-----|
-|------------------------------------|----|-----|
+| Item (Personal Inventory)              | CL | Num | Notes
+|----------------------------------------|----|-----|-------
+| Wand of *Shocking Grasp*               |  5 |  47 |
+| Scroll of *Breath of Life*             | 11 |   1 |
+| Scroll of *Animal Purpose Training*    |  1 |   1 | to turn into wand later
+| Scroll of *Build Trust*                |  1 |   1 | to turn into wand later
+| Scroll of *Celestial Companion*        |  1 |   1 | to turn into wand later
+| Scroll of *Conditional Favor*          |  1 |   1 | to turn into wand later
+| Scroll of *Ghostbane Dirge*            |  1 |   1 | to turn into wand later
+| Scroll of *Grace*                      |  1 |   1 | to turn into wand later
+| Scroll of *Fallback Strategy*          |  1 |   1 |
+| Scroll of *Huntmaster's Spear*         |  1 |   1 | to turn into wand later
+| Scroll of *Inner Focus*                |  1 |   1 | to turn into wand later
+| Scroll of *Know Peerage*               |  1 |   1 | to turn into wand later
+| Scroll of *Litany of Duty*             |  1 |   1 | to turn into wand later
+| Scroll of *Litany of the Red Crusader* |  1 |   1 | to turn into wand later
+| Scroll of *Shield of Fortification*    |  1 |   1 | to turn into wand later
+| Scroll of *Watchful Eye*               |  1 |   1 | to turn into wand later
+| Scroll of *Stalwart Resolve*           |  1 |   1 | to turn into wand later
+| Scroll of *Tactical Accumen*           |  1 |   1 | to turn into wand later
+|----------------------------------------|----|-----|-------
+| Item (Party Loot Pool)                 | CL | Num |
+|----------------------------------------|----|-----|-------
+|----------------------------------------|----|-----|-------
 
 ## Akundol, Valet familiar archetype
 - https://www.d20pfsrd.com/classes/core-classes/wizard/familiar
@@ -158,7 +176,7 @@
 ## Achievement Feats Progress
 ### At Your Fingertips
 - 100+ wand castings of same spell
-- [name]: [num]
+- Shocking Grasp: 2
 
 ### Ingrained Casting
 - 25+ scroll castings of same spell
