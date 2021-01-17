@@ -25,7 +25,7 @@
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | 27 (14 T/24 F) |
+| AC   | 28 (14 T/25 F) |
 | BAB  | +3             |
 | CMB  | +5             |
 | CMD  | 18 (15 F)      |
@@ -39,7 +39,7 @@
 | Hero |       5 |    5 | 0
 |------|---------|------|-----------|
 Vigor rolls (d8): [8], 7+1, 2+6, 6+2, 8
-AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor
+AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor, +1 nat armor
 
 ## Resistances/Immunities
 - SR: No
@@ -56,13 +56,12 @@ AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Race (Dwarf): +2 racial bonus on Craft and Profession checks related to metal or stone
-- Race (Dwarf): Treat extreme temps as 20 degrees better
 - Race (Dwarf): +4 bonus on Profession checks to make money
 - Race (Dwarf): +2 bonus on Perception checks to notice unusual stonework
 - Race (Dwarf): +2 racial bonus to saves vs spells/SLA and poison
 - Trait (Glory of Old): +1 trait bonus to saves vs spells/SLA and poison
 - Class Feature (Trapfinding): Bonus to Perception to detect traps equal to  1/2 artificer lvl, min +1
-- Item (Forgefather's Hammer): +4 competence bonus to Craft checks relating to metal items
+- Item (Forgefather's Hammer): +4 competence bonus to trained Craft checks
 - Item (Magnifying Glass): +2 circumstance bonus to Appraise with detailed items
 
 ## Skills

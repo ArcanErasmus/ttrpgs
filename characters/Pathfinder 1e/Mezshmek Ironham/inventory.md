@@ -29,6 +29,7 @@
 | Arcane Family Workbook   |    3   | Study 1d4 rds/hrs for +2/+4 competence Spellcraft
 | Magic School Compass     |    1   | Masterwork UMD item
 | Magnifying Glass         |    1   | +2 competence Appraise detailed items, full-rd start fire in bright light
+| Thieves' Tools, Mwk      |    2   |
 |--------------------------|        |--------------------------------
 | **Supplies/Consumables** |        |
 |--------------------------|        |--------------------------------
@@ -43,9 +44,9 @@
 | Adrena's Token           |        | +1 insight Will, Craft, Perform
 | Wands/Scrolls/Potions    |        | `See cheatsheet`
 |--------------------------|        |--------------------------------
-| **Coins**                |        | $2687.37
+| **Coins**                |    5.3 | $2575.50
 |--------------------------|--------|--------------------------------
-| **Total**                |   70.5 | Light Load
+| **Total**                |   77.8 | Medium Load
 
 ## Carrying Capacity
 Modifiers:
