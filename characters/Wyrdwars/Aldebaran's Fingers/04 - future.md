@@ -1,13 +1,15 @@
 # Aldebaran's Fingers (Witch Hunters)
 ## Results
 - Record: 3-0
-    1. W - vs Sisters (Crypt)
-    2. W - vs Sleepwalkers (Docks)
-    3. W - vs Kabukimono (Crypt)
-- VP: 6
+    1. W - vs Sisters of Sigmar (Crypt)
+    2. W - vs The Court of Sleepwalkers (Docks of the Damned)
+    3. W - vs Kabukimono The Crazy Ones (Crypt)
+    4. L - vs The Court of Sleepwalkers (Garden of Moor)
+- VP: 7
 
 ## Items
-- $3
+- $9
+- Sword
 
 ## List Overview
 ### Heroes
@@ -21,12 +23,12 @@
 1. Halfling Cook (Dylan, she)
 
 ### Henchmen
-1. Halfling (Randall, he)
-2. Halfling (Octavian, she)
-3. Raven Knight (Scissors, he)
-4. Raven Knight (Antony, he)
+1. Halfling (Octavian, she)
+2. Raven Knight (Worm-Antony, he)
+3. Raven Knight (Rome, he)
+4. Zealot (Celadon, she)
 5. Warhound (REM_2, it)
-6. Zealot (Celadon, she)
+6. Warhound (REM_4, it)
 
 ## Combat Groups
 ### "Generalized" Combat Groups
@@ -34,19 +36,23 @@
     - Ranged, melee, engage
 2. Raven Priest, Witch Hunter, Halfling, Raven Knight
     - Magic, melee, ranged
-3. Priest of Sigmar, Witch Hunter, Halfling, Zealot
+3. Priest of Sigmar, Witch Hunter, Zealot, Warhound
     - Magic, Melee, ranged
 
 ## Graveyard
 1. Warhound (REM_3, it), match 2
 2. Warhound (REM_1, it), match 3
+3. Halfling (Randall, he), match 4
+4. Raven Knight (Antony, he), match 4
 
 # List
 ## Heroes
 ### Inquisitor (Crimson, they)
-- XP: 26/28
+- XP: 28/32
 - Race: Human
 - Skill Groups: Combat, Shooting, Academic, Strength, Speed, Sigmarite
+- Skills:
+    - Dodge: Close
 - Weapons:
     - Battleaxe of the Last Waaagh! (26)
         - Sunder (2), +4 S, -2 I, -1 to hit, Slow Swing, 2H
@@ -63,8 +69,32 @@
     - Leader (6")
     - Hates Wizards
 
+### Raven Priest (Galore, she)
+- XP: 24/28
+- Race: Human
+- Skill Groups: Combat, Academic, Strength
+- Skills:
+    - Acolyte - +1 prayer die on deploy, any priest/wiz can use
+    - Streetwise (compass) - If not AoO, +/-1 one exploration die
+- Weapons:
+    - Axe - AP (1)
+- Armor:
+    - Heavy Armor (H) - -1 I
+    - Shield
+- Special Equipment:
+    - Leaden Cloak - Hooded Hunters
+    - Holy Tome - +1 to prayercasting rolls
+    - Holy Relic - +1 Ld to gen power dice
+    - Compass - Gain 'Streetwise' skill, lost if OoA
+| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ |  9 |
+- Special Rules:
+    - Hooded Hunters
+    - Immune to Fear
+    - Priest (Morr) - Starts w/ 1 prayer
+
 ### Priest of Sigmar (Canary, he)
-- XP: 15/18
+- XP: 16/18
 - Race: Human
 - Skills:
     - Divine Power - 3d6 pick 2 for power dice
@@ -85,32 +115,8 @@
 - Campaign Injuries:
     - Smashed Leg - -1" run/charge distance
 
-### Raven Priest (Galore, she)
-- XP: 22/24
-- Race: Human
-- Skill Groups: Combat, Academic, Strength
-- Skills:
-    - Acolyte - +1 prayer die on deploy, any priest/wiz can use
-    - Streetwise (compass) - If not AoO, +/-1 one exploration die
-- Weapons:
-    - Axe - AP (1)
-- Armor:
-    - Heavy Armor (H) - -1 I
-    - Shield
-- Special Equipment:
-    - Leaden Cloak - Hooded Hunters
-    - Holy Tome - +1 to prayercasting rolls
-    - Holy Relic - +1 Ld to gen power dice
-    - Compass - Gain 'Streetwise' skill, lost if OoA
-| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ |  8 |
-- Special Rules:
-    - Hooded Hunters
-    - Immune to Fear
-    - Priest (Morr) - Starts w/ 1 prayer
-
 ### Witch Hunter (Laima, she)
-- XP: 9/11
+- XP: 11/14
 - Race: Human
 - Skill Groups: Combat, Shooting, Academic, Speed, Sigmarite
 - Weapons:
@@ -120,13 +126,13 @@
 - Special Equipment:
     - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  3 |  3 | 4 | 3 | 3 | 3 | 1 | -  | -  |  7 |
+| 4 |  4 |  3 | 4 | 3 | 3 | 3 | 1 | -  | -  |  7 |
 - Special Rules:
     - Hooded Hunters
     - Hates Wizards
 
 ### Witch Hunter (Spoon, he)
-- XP: 9/11
+- XP: 10/11
 - Race: Human
 - Skill Groups: Combat, Shooting, Academic, Speed, Sigmarite
 - Weapons:
@@ -143,7 +149,7 @@
 
 ## Hired Swords
 ### Halfling Cook (Dylan, she)
-- XP: 10/11
+- XP: 11/14
 - Race: Halfling
 - Skill Groups: Combat, Academic, Strength
 - Weapons:
@@ -156,7 +162,7 @@
     - Lucky Charm (H) - +1/-1 campaign injury roll, lost after taken OoA even if not used
     - Leaden Cloak - Hooded Hunters
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  2 |  5 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
+| 4 |  2 |  6 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
 - Special Rules:
     - Stealth - -1 to hit warrior while in cover
     - Cook (+1 W) - Other hero gets +1 W when warrior deployed
@@ -164,21 +170,6 @@
     - Hooded Hunters
 
 ## Henchmen
-### Halfling (Randall, he)
-- XP: 4
-- Race: Halfling
-- Weapons:
-    - Sling - 18"/3S, Concussive (1)
-    - Mace - Concussive (1)
-- Armor:
-    - none
-- Special Equipment:
-    - Sling Bullets - Sling has +1 S (included)
-| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
-- Special Rules:
-    - Stealth - -1 to hit warrior while in cover
-
 ### Halfling (Octavian, she)
 - XP: 4
 - Race: Halfling
@@ -193,22 +184,6 @@
 | 4 |  2 |  4 | 2 | 2 | 3 | 4 | 1 | -  | -  |  6 |
 - Special Rules:
     - Stealth - -1 to hit warrior while in cover
-
-### Raven Knight (Rome, he)
-- XP: 14
-- Race: Human
-- Weapons:
-    - Axe - AP (1)
-- Armor:
-    - Heavy Armor (H) - -1 I
-    - Shield
-- Special Equipment:
-    - none
-| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ |  8 |
-- Special Rules:
-    - Immune to Fear
-    - Heirloom: Heavy Armor
 
 ### Raven Knight (Antony, he)
 - XP: 14
@@ -226,10 +201,21 @@
     - Immune to Fear
     - Heirloom: Heavy Armor
 
-### Warhound (REM_2, it)
-- Animals - No Climb, No Hide, Flee 3d6", No use Leader's Ld, No Capture Obj, Fight Unarmed, No Promotion
+### Raven Knight (Cyborg_Rome, he)
+- XP: 14
+- Race: Human
+- Weapons:
+    - Axe - AP (1)
+- Armor:
+    - Heavy Armor (H) - -1 I
+    - Shield
+- Special Equipment:
+    - none
 | M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
-| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  |  5 |
+| 4 |  4 |  3 | 3 | 3 | 3 | 3 | 1 | 4+ | 6+ |  8 |
+- Special Rules:
+    - Immune to Fear
+    - Heirloom: Heavy Armor
 
 ### Zealot (Celadon, she)
 - XP: 4
@@ -244,3 +230,13 @@
 | 4 |  3 |  2 | 3 | 3 | 3 | 3 | 1 | -  | -  |  7 |
 - Special Rules:
     - Hates Wizards
+
+### Warhound (REM_2, it)
+- Animals - No Climb, No Hide, Flee 3d6", No use Leader's Ld, No Capture Obj, Fight Unarmed, No Promotion
+| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
+| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  |  5 |
+
+### Warhound (REM_4, it)
+- Animals - No Climb, No Hide, Flee 3d6", No use Leader's Ld, No Capture Obj, Fight Unarmed, No Promotion
+| M | WS | BS | S | T | W | I | A | Ar | Sv | Ld |
+| 6 |  4 | -  | 4 | 3 | 3 | 4 | 1 | -  | -  |  5 |
