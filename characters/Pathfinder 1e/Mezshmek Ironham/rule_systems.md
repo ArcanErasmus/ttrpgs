@@ -32,7 +32,7 @@ total: +7
     - double progress for familiar
     - accelerate (day's progress in 4 hrs) for +5 DC
     total: x4 speed
-- net time cost: 17.8125% of item's construction cost
+- net time cost: 17.8125% of item's base price
 - base progress
     - 1200 gp/day for arms and armor
     - 1400 gp/day for wondrous

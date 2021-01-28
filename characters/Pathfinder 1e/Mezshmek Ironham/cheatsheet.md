@@ -188,7 +188,7 @@
 
 ### Master of Wands
 - Craft 15+ different kinds of wands
-- [name]
+    1. Shocking Grasp
 
 ## Unchained Skill Unlocks
 - Disable Device
