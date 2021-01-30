@@ -161,3 +161,83 @@ Veteran Horse - No status
 - Skills: Language (Battle), Perform (Dressage)
 - Talents: Berzerk Charge, Implacable, Robust, Step Aside
 - Trappings: None
+
+
+# Skill theorycrafting
+## Skills by Stat
+### WS
+melee
+
+### BS
+ranged
+
+### S
+climb
+intimidate
+row
+swim
+
+### T
+consume alcohol
+endurance
+
+### I
+intuition
+navigation
+perception
+track
+
+### Ag
+athletics
+dodge
+drive
+perform
+ride
+sail
+stealth
+
+### Dex
+art
+pick lock
+play
+set trap
+sleight of hand
+trade
+
+### Int
+animal care
+animal training
+evaluate
+gamble
+heal
+language
+lore
+outdoor survival
+research
+secret signs
+
+### WP
+channelling
+charm animal
+cool
+
+### Fel
+bribery
+charm
+gossip
+haggle
+leadership
+pray
+
+
+## Skills to invest more in
+### Can invest in now
+charm
+haggle
+
+### Can't invest in now
+dodge
+leadership
+research
+secret signs
+stealth
