@@ -88,7 +88,10 @@
     - Rance Luka
         - Locksmiths member
         - Had the Crux, gave it to us in exchange for promise to help put some gladiators in their place
-- TODO: buy lockpicks
+    - Gladiator fight
+        - Gnolls carefully disguised in full plate
+            - Armor crafted locally, no makers mark, designed by someone who does custom jobs and likely doesn't want it traced back to them
+        - All the viewers in private boxes teleported away before the chaos erupted over discovering gladiator identity
 
 - Goal: Head to Na'macui to clear out Beastmark
 - Boats: The Rosabella, The Storm Viper
@@ -106,7 +109,7 @@
     - Members participated in anti-Imperial rebel cells
     - Order worshipped one of The Eldest, a Fey demigod
 6. Research anti-possession
-    - 
+    - *detect charm*
 
 ### Archive
 - ?
