@@ -51,24 +51,30 @@
 | P | Stealth            | Dex | +5  | -
 | P | Survival           | Wis | +2  | -
 
+## Proficiencies
+- Languages: Abyssal, Common, Draconic, Goblin
+- Armor: Light armor
+- Weapons: Hand Crossbow, Longsword, Rapier, Shortsword, Simple Weapons
+- Tools: Thieves' Tools, Dragonchess
+
+## Attacks
+| Name            | Atk  | Dam   | Type     | Range  | Notes
+|-----------------|------|-------|----------|--------|------------------------------
+| Poison Spray    | DC13 | 1d12  | Poison   |     10 | Spell
+| Mother's Rapier | +5   | 1d8+3 | Piercing |        | Finesse
+| Shortbow        | +5   | 1d6+3 | Piercing | 80/320 |
+| Dagger          | +5   | 1d4+3 | Piercing |  20/60 | Finesse, light
+
+## Spells
+- *Poison Spray*
+- *Animal Friendship* (only on snakes)
+
 ## Personality
-### Background - Inheritor
-- Skill Proficiencies: Survival, History
-- Tool Proficiencies: Dragonchess
-- Languages: Goblin
-
-### Personality Traits
-- Delinquent, hates family
-- Coddled
-
-### Ideals
-- Might is right. The strong take what they want.
-
-### Bond
-- I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.
-
-### Flaw
-- I like keeping secrets and won't share them with anyone.
+- Background: Inheritor
+- Delinquent, hates family, yet protected from consequences by uncle
+- Ideals: Might is right, the strong take what they want.
+- Bond: I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.
+- Flaw: I like keeping secrets and won't share them with anyone.
 
 ## Abilities
 ### Thieves' Cant
@@ -95,14 +101,3 @@
 - Inheritor to family's estate
 - Currently controlled by my uncle
 - Goal: Reclaim mansion
-
-## Other Proficiencies and Languages
-### Languages
-- Abyssal
-- Common
-- Draconic
-- Goblin
-
-### Equipment
-- Light armor
-- Hand Crossbow, Longsword, Rapier, Shortsword, Simple Weapons
