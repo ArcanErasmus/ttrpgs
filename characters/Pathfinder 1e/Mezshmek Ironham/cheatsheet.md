@@ -83,7 +83,7 @@
 | Item (Personal Inventory)              | CL | Num | Notes
 |----------------------------------------|----|-----|-------
 | Wand of *Shocking Grasp*               |  5 |  47 |
-| Scroll of *Breath of Life*             | 11 |   1 |
+<!-- | Scroll of *Breath of Life*             | 11 |   1 | -->
 | Scroll of *Animal Purpose Training*    |  1 |   1 | to turn into wand later
 | Scroll of *Build Trust*                |  1 |   1 | to turn into wand later
 | Scroll of *Celestial Companion*        |  1 |   1 | to turn into wand later
@@ -99,16 +99,17 @@
 | Scroll of *Shield of Fortification*    |  1 |   1 | to turn into wand later
 | Scroll of *Watchful Eye*               |  1 |   1 | to turn into wand later
 | Scroll of *Stalwart Resolve*           |  1 |   1 | to turn into wand later
-| Scroll of *Tactical Accumen*           |  1 |   1 | to turn into wand later
+| Scroll of *Tactical Acumen*            |  1 |   1 | to turn into wand later
 |----------------------------------------|----|-----|-------
 | Item (Party Loot Pool)                 | CL | Num |
 |----------------------------------------|----|-----|-------
 |----------------------------------------|----|-----|-------
 
-## Akundol, Valet familiar archetype
+## Akundol, Valet familiar archetype, Arcane bloodline familiar
 - https://www.d20pfsrd.com/classes/core-classes/wizard/familiar
 - https://www.d20pfsrd.com/bestiary/monster-listings/constructs/ioun-wyrd
 - https://www.d20pfsrd.com/classes/core-classes/wizard/familiar/familiar-archetypes/valet-familiar-archetype
+- https://www.d20pfsrd.com/classes/core-classes/wizard/familiar/#Spell_Catalyst_Su
 - Ioun Wyrd
     - N Tiny Construct
     - Init +2
@@ -172,15 +173,17 @@
     - Speak With Master (Ex)
         - Can communicate with master verbally as if shared language
         - Communication unintelligible to others without magical help
+    - Spell Catalyst (Su)
+        - Spells master casts that target self are at +2 CL
 
 ## Achievement Feats Progress
 ### At Your Fingertips
 - 100+ wand castings of same spell
-- Shocking Grasp: 2
+- Shocking Grasp: 9
 
 ### Ingrained Casting
 - 25+ scroll castings of same spell
-- [name]: [num]
+- *Breath of Life*: 1
 
 ### Master Alchemist
 - Kill 10+ creatures with self-made alchemical weapons
@@ -189,6 +192,7 @@
 ### Master of Wands
 - Craft 15+ different kinds of wands
     1. Shocking Grasp
+    2. Cure Light Wounds
 
 ## Unchained Skill Unlocks
 - Disable Device

@@ -36,7 +36,7 @@
 |------|---------|------|-----------|
 | Vigr |      40 |   40 | 0
 | Wnds |   28/14 |   28 | 0
-| Hero |       5 |    5 | 0
+| Hero |       5 |    3 | 0
 |------|---------|------|-----------|
 Vigor rolls (d8): [8], 7+1, 2+6, 6+2, 8
 AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor, +1 nat armor

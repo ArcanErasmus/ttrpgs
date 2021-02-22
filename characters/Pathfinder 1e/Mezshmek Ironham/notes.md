@@ -100,3 +100,99 @@
 * Clockwork Familiar https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork/clockwork-familiar
     - Ask about adding Embedded Ioun Stone https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types/#TOC-Clockwork-Subtype
 * Homunculus https://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus
+
+## Neat stuff from Library of Metzofitz
+### Rules
+- More Psychic Skill Unlocks https://libraryofmetzofitz.fandom.com/wiki/Psychic_Skill_Unlocks
+- Knowledge (Martial) https://libraryofmetzofitz.fandom.com/wiki/Knowledge
+- Reducing the magic item "christmas tree" https://libraryofmetzofitz.fandom.com/wiki/Steelforge_Items
+
+### Armor Qualities
+- Fusing https://libraryofmetzofitz.fandom.com/wiki/Fusing
+- Murmuring https://libraryofmetzofitz.fandom.com/wiki/Murmuring
+- Quickness https://libraryofmetzofitz.fandom.com/wiki/Quickness
+- Floating https://libraryofmetzofitz.fandom.com/wiki/Floating
+- Landing https://libraryofmetzofitz.fandom.com/wiki/Landing
+- Determination https://libraryofmetzofitz.fandom.com/wiki/Determination
+
+### Shield Qualities (See Also: Armor Qualities)
+- Pressuring https://libraryofmetzofitz.fandom.com/wiki/Pressuring
+- Heartening https://libraryofmetzofitz.fandom.com/wiki/Heartening
+
+### Weapon Qualities
+- Knockout https://libraryofmetzofitz.fandom.com/wiki/Knockout
+- Fatalist https://libraryofmetzofitz.fandom.com/wiki/Fatalist
+- Linked Striking https://libraryofmetzofitz.fandom.com/wiki/Linked_striking
+- Parrying https://libraryofmetzofitz.fandom.com/wiki/Parrying
+- Wrenching https://libraryofmetzofitz.fandom.com/wiki/Wrenching
+
+### Rings
+- Ring of Elemental Strength https://libraryofmetzofitz.fandom.com/wiki/Ring_of_Elemental_Strength
+- Ring of Missile Protection https://libraryofmetzofitz.fandom.com/wiki/Ring_of_Missile_Protection
+
+### Feet
+- Steelwalker's Boots https://libraryofmetzofitz.fandom.com/wiki/Steelwalker%27s_Boots
+
+### Shoulders
+- Ironbody Cloak https://libraryofmetzofitz.fandom.com/wiki/Ironbody_Cloak
+
+### Belt
+- Girdle of Protection https://libraryofmetzofitz.fandom.com/wiki/Girdle_of_Protection (ring of prot in belt slot)
+
+### Body
+- Robe of Elemental Resistance https://libraryofmetzofitz.fandom.com/wiki/Robe_of_Elemental_Resistance (cloak of res but only kineticists, body slot)
+
+### Chest
+- Carapace of Natural Armor https://libraryofmetzofitz.fandom.com/wiki/Carapace_of_Natural_Armor (amulet of nat in chest slot)
+- Corset of Resistance https://libraryofmetzofitz.fandom.com/wiki/Corset_of_Resistance (cloak of res in chest slot)
+- Vest of Elemental Defense https://libraryofmetzofitz.fandom.com/wiki/Vest_of_Elemental_Defense (ring of prot but only kineticists, body slot)
+
+### Eyes
+- Aura Monocle https://libraryofmetzofitz.fandom.com/wiki/Aura_Monocle
+- Goggles of Far Sight https://libraryofmetzofitz.fandom.com/wiki/Goggles_of_Far_Sight
+- Third Eyes https://libraryofmetzofitz.fandom.com/wiki/Third_Eyes
+    - Aware, Concentrate, Energy Ray, Talented, View
+
+### Hands
+- Conduit Glove https://libraryofmetzofitz.fandom.com/wiki/Conduit_Glove
+- Focusing Glove https://libraryofmetzofitz.fandom.com/wiki/Focusing_Glove
+- Flicker Gauntlet https://libraryofmetzofitz.fandom.com/wiki/Flicker_Gauntlet
+- Gauntlet of the Thunder Shield https://libraryofmetzofitz.fandom.com/wiki/Gauntlet_of_the_Thunder_Shield
+- Gloves of Object Reading https://libraryofmetzofitz.fandom.com/wiki/Gloves_of_Object_Reading
+
+### Head
+- Crown of Focused Power https://libraryofmetzofitz.fandom.com/wiki/Crown_of_Focused_Power
+- Synaptic Mask https://libraryofmetzofitz.fandom.com/wiki/Synaptic_Mask
+    - Synaptic Shards https://libraryofmetzofitz.fandom.com/wiki/Synaptic_Shards
+    - Shards https://libraryofmetzofitz.fandom.com/wiki/Shards
+    - Meld Stones https://libraryofmetzofitz.fandom.com/wiki/Meld_Stones
+- Crystal Masks https://libraryofmetzofitz.fandom.com/wiki/Crystal_Masks
+
+### Neck
+- Creature of Habit's Medallion https://libraryofmetzofitz.fandom.com/wiki/Creature_of_Habit%E2%80%99s_Medallion
+- Necklace of Many Charms https://libraryofmetzofitz.fandom.com/wiki/Necklace_of_Many_Charms
+    - Refinement Charms https://libraryofmetzofitz.fandom.com/wiki/Refinement_charms (THEY STACK!!!)
+        - Anger, Blood, Concealment, Channeled Benevolence, Channeled Malevolence, Health, Immunity, Innoculation, Performance, Recovery, Searching
+        - Ask about custom Ingenuity pool version
+    - Power Charms https://libraryofmetzofitz.fandom.com/wiki/Power_charms
+        - Mana, Precision, Unyielding, Waves
+
+### Wrists
+- Vambraces of Overflowing Power https://libraryofmetzofitz.fandom.com/wiki/Vambraces_of_Overflowing_Power
+- Bracers of Elemental Conversion https://libraryofmetzofitz.fandom.com/wiki/Bracers_of_Elemental_Conversion
+- Bracelet of Charms https://libraryofmetzofitz.fandom.com/wiki/Bracelet_of_Charms (see Necklace of Many Charms)
+
+### Slotless
+- Autoloader Magazine https://libraryofmetzofitz.fandom.com/wiki/Autoloader_Magazine
+- Burn Fragment https://libraryofmetzofitz.fandom.com/wiki/Burn_Fragment
+- Burn Shard https://libraryofmetzofitz.fandom.com/wiki/Burn_Shard
+- Crystal of Elemental Knowledge https://libraryofmetzofitz.fandom.com/wiki/Crystal_of_Elemental_Knowledge
+- Endless Ammo Hoard https://libraryofmetzofitz.fandom.com/wiki/Endless_Ammo_Hoard
+- Planar Gates Tattoo https://libraryofmetzofitz.fandom.com/wiki/Planar_Gates_Tattoo (Requires Inscribe Magical Tattoo)
+- Transference Vellum https://libraryofmetzofitz.fandom.com/wiki/Transference_Vellum
+- Warsong Instruments https://libraryofmetzofitz.fandom.com/wiki/Warsong_Instruments
+- Teardrop Ioun Stone https://libraryofmetzofitz.fandom.com/wiki/Teardrop_Ioun_Stone
+- Map of the Mind https://libraryofmetzofitz.fandom.com/wiki/Map_of_the_Mind (pricey, consider power stone instead)
+- Mirror of Suggestion https://libraryofmetzofitz.fandom.com/wiki/Mirror_of_Suggestion
+- Pearl, Brain Lock https://libraryofmetzofitz.fandom.com/wiki/Pearl,_Brain_Lock
+- Rug of Object Sliding https://libraryofmetzofitz.fandom.com/wiki/Rug_of_Object_Sliding

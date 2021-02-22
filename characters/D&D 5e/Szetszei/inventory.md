@@ -35,13 +35,14 @@
 | Bag of Ball Bearings     |   2    |
 | Candle (5)               |        |
 | Day's Rations (5)        |  10    |
+| Empty Lamp Oil Cans (2)  |   1    |
 | Pint of Lamp Oil (1)     |   1    |
 | Pitons (10)              |   2.5  |
 | Waterskin                |   5    | 1 lb empty
 |--------------------------|        |--------------------------------
-| **Coins**                |   1.42 | 0pp 24gp 0ep 22sp 0cp
+| **Coins**                |   1.5  | 0pp 32gp 0ep 43sp 0cp
 |--------------------------|        |--------------------------------
-| **Total**                |  72.58 | Under capacity
+| **Total**                |  73.00 | Under capacity
 
 ## Carrying Capacity
 | Load      | lbs    | Penalties
@@ -55,7 +56,7 @@
 
 ## Loot Table
 - 13 obsidian gemstones
-- 8gp, 22sp
+- 8gp, 43sp
 - 6 sets of silver earrings (25gp each set)
 - Stony Gray Potion
 - Blue Potion with Silver Lining

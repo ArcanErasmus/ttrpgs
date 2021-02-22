@@ -52,12 +52,12 @@
 | P | Survival           | Wis | +2  | -
 
 ## Proficiencies
-- Languages: Abyssal, Common, Draconic, Goblin
+- Languages: Abyssal, Draconic, Goblin
 - Armor: Light armor
 - Weapons: Hand Crossbow, Longsword, Rapier, Shortsword, Simple Weapons
-- Tools: Thieves' Tools, Dragonchess
+- Tools: Dragonchess, Thieves' Tools
 
-## Attacks
+## Attacks/Spells
 | Name            | Atk  | Dam   | Type     | Range  | Notes
 |-----------------|------|-------|----------|--------|------------------------------
 | Poison Spray    | DC13 | 1d12  | Poison   |     10 | Spell
