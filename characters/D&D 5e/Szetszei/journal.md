@@ -4,31 +4,34 @@
 - TODO
 
 ## Quest Log
-- Task: Find missing merchant's employees
-    - Docks, fairly empty due to promising fishing opportunities
-    - Markings of "unsafe house/floor"?
-    - Take canoe out to boathouse
-    - Abducted to spider caves
-    - Found cat
+- Task: Find the missing employees of Antonin Kirolov, merchant
+    - We began headed to the docks, which were pretty empty due to rumors of plentiful fishing opportunities
+    - Taking a canoe out towards the boathouse, we were all knocked out by some magic before we could get there
+    - Waking somewhere in a cave system, I freed myself from spider webbing and rounded up the others
+    - Swarmed by giant phase spiders and their skull-nesting spawn, we carried a fighting retreat into an old guardhouse of sorts
+    - The guardpost was home to Kiki Ankleshanker, a goblin paladin hiding there, as well as a complex and very lethal mechanism for keeping intruders from further below
+    - After rescuing Sinala, wisps went nuts from some crystal being smashed
+    - Found some lady in very old-styled clothing, barely alive, does magic
+    - Barely surviving repeated zaps by a pile of wisps, our collection of 14 members + cat 
     - "Markoff Dimholder", week ago, wrote about infestations here
     - Objectives (Remaining: 3 main, 2 side)
-        - 3 main are 3 employees
-        - 2 side are ???
+        - Main: Rescue Sinala the minotaur apprentice (found)
+        - Main: Rescue Nibe the kobold lamplighter (found)
+        - Main: Rescue Otlu the Yuan-ti clerk
+        - Side: Rescue Chico the cat (found)
+        - Side: ???
+        - Side: ???
 
 ## TODO List
 - Shopping
-    - Sling (1sp)
-    - Sling Bullets (4cp)
     - Club (1sp) or Mace (5gp)
+    - Light Hammer (2gp)
     - Studded Leather, eventually (45gp)
 
 # Grand Cosmic Plan That The Universe Has For Me
-- Why did I fall in with this group?
-- Why was there a merchant to send us out to the docks?
-- Why were we spirited away to some spidery cavern?
-    - Coins lead me onwards, suggesting I am on the right path.
-    - The bottle of liquid must be important. I bet it is meant to lead me to some elf.
-    - The meeting of Kiki, combined with the bear trap?
+- Falling in with this group, meeting with merchant, all to lead me to this cavern
+    - Bottle of liquid had elven, Hawkins could read before they died. They must have been meant to help me just in that moment
+    - Met Kiki, pay attention to him
 
 # BG Notes
 - Knows parents, both imprisoned/enslaved/other

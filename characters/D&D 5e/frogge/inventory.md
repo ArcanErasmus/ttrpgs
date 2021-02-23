@@ -5,11 +5,13 @@
 | Backpack                 |   5    |
 | Hide Armor               |  12    |
 | Money Pouch              |        |
+| Pouch for Darts          |   1    |
 | Travelers' Clothes       |   4    |
 |--------------------------|        |--------------------------------
 | **Weapons**              |        |
 |--------------------------|        |--------------------------------
-| Javelin                  |   2    |
+| Dart (20)                |   5    |
+| Scimitar                 |   3    |
 | Wooden Shield            |   6    |
 |--------------------------|        |--------------------------------
 | **Tools**                |        |
@@ -31,9 +33,9 @@
 | Torch (13)               |  13    |
 | Waterskin                |   5    | 1 lb empty
 |--------------------------|        |--------------------------------
-| **Coins**                |   0.6  | 0pp 30gp 0ep 0sp 0cp
+| **Coins**                |   0.56 | 0pp 28gp 0ep 0sp 0cp
 |--------------------------|        |--------------------------------
-| **Total**                | 102.6  | Under capacity
+| **Total**                | 109.56 | Under capacity
 
 ## Carrying Capacity
 | Load      | lbs    | Penalties

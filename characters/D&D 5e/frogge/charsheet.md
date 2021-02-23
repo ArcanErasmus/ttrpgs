@@ -1,22 +1,37 @@
 # ?
 - Druid 1
-- [personality]
+- Alternates between retired detective and conduit for the fungi
 - Grung
-- [alignment]
+- N
 - Exp: 0
-- Age: ?
+- 2'8", 40 lbs, 14 yo, hairless, pale blue eyes, light gray skin
 - Size: Small
+
+Jr'yrkn iirp
+Snehchmrp Lyrpi
+eegglott Chm'ah
+Buulp Snerun
+Vw'tuok'g
+Chmaahtt
+Blehlpuu
+R'eechmn
+Work Wikah
+Bleerkoop S'ehn
+Fliitt
+aht R'yplaak
+Waange
+Quiirk Bloogott
 
 ## Stats
 |------|------|------
 | HP   | 11   | -
-<!-- | AC   | 14   | - -->
+| AC   | 16   | -
 | Init | +2   | -
 | Spd  | 25   | -
 | HD   | 1d8  | -
 | Insp | x    | -
 | Prof | +2   | -
-<!-- | PWis | 13   | - -->
+| PWis | 13   | -
 | DSav |      | 
 
 ## Ability Scores
@@ -58,12 +73,14 @@
 - Tools: Drums, Herbalism Kit
 
 ## Attacks/Spells
-| Name            | Atk  | Dam   | Type     | Range  | Notes
-|-----------------|------|-------|----------|--------|------------------------------
-| Cure Wounds     |      | 1d8+3 | Healing  |  Touch | Spell
-| Javelin         | +2   | 1d6   | Piercing | 30/120 |
-| Poison Skin     | DC12 |       | Condtn   |  Touch | Apply condition 1 min, Con save
-| Poison Weapon   | DC12 | 2d4   | Poison   |        | Con save
+| Name            | Atk  | Dam   | Type        | Range  | Notes
+|-----------------|------|-------|-------------|--------|------------------------------
+| Cure Wounds     |      | 1d8+3 | Healing     |  Touch | Spell
+| Dart            | +4   | 1d4+2 | Piercing    |  20/60 | Finesse, Thrown
+| Poison Skin     | DC12 |       | Condtn      |        | Apply condition 1 min, Con save
+| Poison Weapon   | DC12 | 2d4   | Poison      |        | Con save
+| Shillelagh      | +5   | 1d8+3 | Bludgeoning |        | Spell
+| Scimitar        | +4   | 1d6+2 | Piercing    |        | Finesse, Light
 
 ## Spells
 ### Cantrips
@@ -111,4 +128,5 @@
 - Poison piercing weapon as part of attack
 
 ### Discovery
-- TODO
+- TODO: `The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society. Work with your DM to determine the details of your discovery and its impact on the campaign.`
+- Working idea: Investigator searching for clues in the dark crevasses of the island. 

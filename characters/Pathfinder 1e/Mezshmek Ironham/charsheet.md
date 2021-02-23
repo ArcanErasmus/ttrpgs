@@ -7,7 +7,7 @@
     - Planning, strategy, and contingencies are important
     - Bats are abominations
     - Temples are large circular forges
-- 3'11", 185 lbs, 71 yo, black hair, gray eyes
+- 3'11", 185 lbs, 71 yo, black hair, gray eyes, medium brown skin
 - black afro, pink ribbon tying off short-cut black beard
 - Favored class: Artificer https://sites.google.com/site/eberronpathfinder/conversion-info/classes/artificer
 

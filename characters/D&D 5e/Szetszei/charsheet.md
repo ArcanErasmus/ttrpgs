@@ -4,7 +4,7 @@
 - Yuan-ti Pureblood
 - NE
 - Exp: 0
-- Age: 20
+- 5'3", 150 lbs, 20 yo, black hair (short ponytail), vivid green eyes (vertical slits), pale faintly-green skin
 - Size: Medium
 
 ## Stats

@@ -5,17 +5,17 @@
 | Backpack                 |   5    |
 | Leather Armor            |  10    |
 | Money Pouch              |        |
+| Quiver                   |   1    |
 | Striped Headband/Scarf   |        | Silk, white & mood-hue
 | Three Moon Necklace      |        | Silver tree on each, growing with phase
 | Travelers' Clothes       |   4    |
 |--------------------------|        |--------------------------------
 | **Weapons**              |        |
 |--------------------------|        |--------------------------------
-| Arrows (20)              |   1    |
+| Arrows (19)              |   1    |
 | Dagger (2)               |   2    |
 | Mother's Rapier          |   2    | Silver tree-root basket hilt
-| Quiver                   |   1    |
-| Shortbow                 |   2    |
+<!-- | Shortbow                 |   2    | --> Broken string
 |--------------------------|        |--------------------------------
 | **Tools**                |        |
 |--------------------------|        |--------------------------------
@@ -25,7 +25,7 @@
 | Dragonchess Set          |   1    |
 | Hammer                   |   3    |
 | Hempen Rope (50 ft)      |  10    |
-<!-- | Hooded Lantern           |   2    | 30/60 range, 6 hrs/pint oil -->
+<!-- | Hooded Lantern           |   2    | 30/60 range, 6 hrs/pint oil --> Left behind
 | String (10 ft)           |        |
 | Thieves' Tools           |   1    |
 | Tinderbox                |   1    |
@@ -40,9 +40,14 @@
 | Pitons (10)              |   2.5  |
 | Waterskin                |   5    | 1 lb empty
 |--------------------------|        |--------------------------------
+| **Misc**                 |        |
+|--------------------------|        |--------------------------------
+| Chico the Cat            |  12    |
+| Riding Horse             |        |
+|--------------------------|        |--------------------------------
 | **Coins**                |   1.5  | 0pp 32gp 0ep 43sp 0cp
 |--------------------------|        |--------------------------------
-| **Total**                |  73.00 | Under capacity
+| **Total**                |  85.00 | Under capacity
 
 ## Carrying Capacity
 | Load      | lbs    | Penalties
@@ -50,9 +55,6 @@
 | Capacity  | 120    |
 | Push/Drag | 240    | see book
 |-----------|--------|
-
-## Misc Trappings
-- Riding Horse
 
 ## Loot Table
 - 13 obsidian gemstones
