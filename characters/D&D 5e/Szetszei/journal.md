@@ -11,16 +11,22 @@
     - Swarmed by giant phase spiders and their skull-nesting spawn, we carried a fighting retreat into an old guardhouse of sorts
     - The guardpost was home to Kiki Ankleshanker, a goblin paladin hiding there, as well as a complex and very lethal mechanism for keeping intruders from further below
     - After rescuing Sinala, wisps went nuts from some crystal being smashed
-    - Found some lady in very old-styled clothing, barely alive, does magic
-    - Barely surviving repeated zaps by a pile of wisps, our collection of 14 members + cat 
+    - Found some lady in very old-styled clothing, barely alive, does magic, speaks Elven, "Forgotten name" (doubt), calling her "Karile"
+    - Barely surviving repeated zaps by a pile of wisps, our collection of 14 members + cat
+    - Found our way out. Final tally: 12 + cat alive, 2 "reborn", 1 dead
     - "Markoff Dimholder", week ago, wrote about infestations here
-    - Objectives (Remaining: 3 main, 2 side)
+    - Objectives
         - Main: Rescue Sinala the minotaur apprentice (found)
         - Main: Rescue Nibe the kobold lamplighter (found)
-        - Main: Rescue Otlu the Yuan-ti clerk
+        - Main: Rescue Otlu the Yuan-ti clerk (found)
         - Side: Rescue Chico the cat (found)
-        - Side: ???
-        - Side: ???
+        - Side: Rescue Kiki the paladin (found)
+        - Side: Rescue Kehabe the triton (found)
+        - Side: Rescue "Karile" the magic lady (found)
+        - Side: Rescue Sinala's sister (NOT FOUND)
+
+## Relations
+- Mithras - Went on date
 
 ## TODO List
 - Shopping

@@ -1,4 +1,4 @@
-# ?'s Journal
+# Fuin'golp's Journal
 
 ## Backstory
 - TODO

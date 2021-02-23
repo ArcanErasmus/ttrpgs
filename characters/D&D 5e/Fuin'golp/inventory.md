@@ -1,4 +1,4 @@
-# ?'s Inventory
+# Fuin'golp's Inventory
 ## Item List
 | **Outfit/Bags**          | Weight | Notes
 |--------------------------|--------|--------------------------------

@@ -1,4 +1,4 @@
-# ?
+# Fuin'golp Blyoo'vw'atyi, she
 - Druid 1
 - Alternates between retired detective and conduit for the fungi
 - Grung
@@ -6,21 +6,6 @@
 - Exp: 0
 - 2'8", 40 lbs, 14 yo, hairless, pale blue eyes, light gray skin
 - Size: Small
-
-Jr'yrkn iirp
-Snehchmrp Lyrpi
-eegglott Chm'ah
-Buulp Snerun
-Vw'tuok'g
-Chmaahtt
-Blehlpuu
-R'eechmn
-Work Wikah
-Bleerkoop S'ehn
-Fliitt
-aht R'yplaak
-Waange
-Quiirk Bloogott
 
 ## Stats
 |------|------|------

@@ -36,7 +36,7 @@
 |   | Animal Handling    | Wis |     | -
 |   | Arcana             | Int |     | -
 |   | Athletics          | Str |     | -
-| E | Deception          | Cha | +7  | -
+| P | Deception          | Cha | +5  | -
 | P | History            | Int | +4  | -
 |   | Insight            | Wis |     | -
 |   | Intimidation       | Cha |     | -
@@ -45,7 +45,7 @@
 |   | Nature             | Int |     | -
 |   | Perception         | Wis |     | -
 |   | Performance        | Cha |     | -
-| P | Persuasion         | Cha |     | -
+| E | Persuasion         | Cha | +7  | -
 |   | Religion           | Int |     | -
 | E | Sleight of Hand    | Dex | +7  | -
 | P | Stealth            | Dex | +5  | -
@@ -58,12 +58,13 @@
 - Tools: Dragonchess, Thieves' Tools
 
 ## Attacks/Spells
-| Name            | Atk  | Dam   | Type     | Range  | Notes
-|-----------------|------|-------|----------|--------|------------------------------
-| Poison Spray    | DC13 | 1d12  | Poison   |     10 | Spell
-| Mother's Rapier | +5   | 1d8+3 | Piercing |        | Finesse
-| Shortbow        | +5   | 1d6+3 | Piercing | 80/320 |
-| Dagger          | +5   | 1d4+3 | Piercing |  20/60 | Finesse, light
+| Name            | Atk  | Dam   | Type        | Range  | Notes
+|-----------------|------|-------|-------------|--------|------------------------------
+| Poison Spray    | DC13 | 1d12  | Poison      |     10 | Spell
+| Mother's Rapier | +5   | 1d8+3 | Piercing    |        | Finesse
+| Shortbow        | +5   | 1d6+3 | Piercing    | 80/320 |
+| Dagger          | +5   | 1d4+3 | Piercing    |  20/60 | Finesse, Light, Thrown
+| Light Hammer    | +1   | 1d4-1 | Bludgeoning |  20/60 | Light, Thrown
 
 ## Spells
 - *Poison Spray*

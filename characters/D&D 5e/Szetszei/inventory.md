@@ -14,18 +14,19 @@
 |--------------------------|        |--------------------------------
 | Arrows (19)              |   1    |
 | Dagger (2)               |   2    |
+| Light Hammer             |   2    |
 | Mother's Rapier          |   2    | Silver tree-root basket hilt
-<!-- | Shortbow                 |   2    | --> Broken string
+| Shortbow                 |   2    |
 |--------------------------|        |--------------------------------
 | **Tools**                |        |
 |--------------------------|        |--------------------------------
+| Bear Trap                |   ?    | 1d6+3
 | Bell                     |        |
 | Chisel                   |        |
 | Crowbar                  |   5    |
 | Dragonchess Set          |   1    |
-| Hammer                   |   3    |
 | Hempen Rope (50 ft)      |  10    |
-<!-- | Hooded Lantern           |   2    | 30/60 range, 6 hrs/pint oil --> Left behind
+| Hooded Lantern           |   2    | 30/60 range, 6 hrs/pint oil
 | String (10 ft)           |        |
 | Thieves' Tools           |   1    |
 | Tinderbox                |   1    |
@@ -42,12 +43,11 @@
 |--------------------------|        |--------------------------------
 | **Misc**                 |        |
 |--------------------------|        |--------------------------------
-| Chico the Cat            |  12    |
 | Riding Horse             |        |
 |--------------------------|        |--------------------------------
-| **Coins**                |   1.5  | 0pp 32gp 0ep 43sp 0cp
+| **Coins**                |   1.8  | 0pp 47gp 0ep 43sp 0cp
 |--------------------------|        |--------------------------------
-| **Total**                |  85.00 | Under capacity
+| **Total**                |  84.30 | Under capacity
 
 ## Carrying Capacity
 | Load      | lbs    | Penalties
@@ -57,20 +57,44 @@
 |-----------|--------|
 
 ## Loot Table
-- 13 obsidian gemstones
-- 8gp, 43sp
-- 6 sets of silver earrings (25gp each set)
-- Stony Gray Potion
-- Blue Potion with Silver Lining
+- 33 obsidian gemstones, 10gp each (330gp)
+- 6 sets of silver earrings, 25gp each set (150gp)
+- Set of 6 engraved dragonbone dice, 25gp each (150gp)
+
+- Alchemist's Supplies
+- Shovel
+- Iron Pot
+- Rapier
+- Burglar's Kit
+- Thieves' Tools
+- 4 hooped arrows
+
 - *Blast Flask* (thrown weapon, 2d6 flame + 2d6 force, 10 ft square)
+- Potion of *Giant's Strength* (unidentified)
+- Potion of *Heroism* (unidentified)
+- Stony Gray Potion with Monkey Logo
+- Blue Potion with Silver Lining
 - Scroll 1
 - Scroll 2
-- Wand (no charges)
-    - Made of ashwood
-    - Kinda floats
-    - Resists smashing
-    - Makes you feel foreboding
 
-## Items Lost
-- Lantern
-- 1 Flask Oil
+- Wand (no charges) - Made of ashwood, kinda floats, resists smashing, makes you feel foreboding
+    - Blasts bolts of lightning
+- Fantastic shield -> Damien?
+- Strange looking fan
+- Large pearl
+- Very strange hat
+- Pair of slippers with spiderwebs attached -> Szetszei
+- Monster Menu-All
+- *Zealot's Amulet* (extra charge of channel divinity + bonus effect)
+- *Vitrolic Hairpin* (1/long rest poison a creature)
+
+- *Expressive Whetstone* (cool sword noises) -> Gre'ter
+- *Dramatic Entrance* (trumpet fanfare)
+- *Boy Scout's Cheat Sheet* (free campfire)
+- *Vindictive Tankard* (insults people) -> Fatema
+- *Gauntlet of Starting Somethin'* (I challenge thee to a duel!) -> Szetszei?
+
+
+- 1 favor from Markoff Dimholder
+- 1 favor from Captain Catrazza
+- downtime activity (Noble career)
