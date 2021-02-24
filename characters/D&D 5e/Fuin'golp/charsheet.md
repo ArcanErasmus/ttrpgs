@@ -1,4 +1,4 @@
-# Fuin'golp Blyoo'vw'atyi, she
+# Fuin'golp Blyoo'vw'atyi, one/one's
 - Druid 1
 - Alternates between retired detective and conduit for the fungi
 - Grung
@@ -52,7 +52,7 @@
 |   | Survival           | Wis |     | -
 
 ## Proficiencies
-- Languages: Aquan, Druidic, Grung, Sylvan
+- Languages: Aquan, Druidic, Fungal, Grung
 - Armor: Light, Medium, Shield
 - Weapons: Club, Dagger, Dart, Javelin, Mace, Quarterstaff, Scimitar, sickle, sling, spear
 - Tools: Drums, Herbalism Kit
@@ -60,19 +60,21 @@
 ## Attacks/Spells
 | Name            | Atk  | Dam   | Type        | Range  | Notes
 |-----------------|------|-------|-------------|--------|------------------------------
-| Cure Wounds     |      | 1d8+3 | Healing     |  Touch | Spell
+| *Chill Touch*   | +5   | 1d8   | Necrotic    |    120 | Spell
+| *Cure Wounds*   |      | 1d8+3 | Healing     |  Touch | Spell
 | Dart            | +4   | 1d4+2 | Piercing    |  20/60 | Finesse, Thrown
-| Poison Skin     | DC12 |       | Condtn      |        | Apply condition 1 min, Con save
+| Fishing Spear   | +4   | 1d6+2 | Piercing    |  20/60 | Finesse, Thrown
+| Poison Skin     | DC12 |       | Condition   |        | Apply condition 1 min, Con save
 | Poison Weapon   | DC12 | 2d4   | Poison      |        | Con save
-| Shillelagh      | +5   | 1d8+3 | Bludgeoning |        | Spell
-| Scimitar        | +4   | 1d6+2 | Piercing    |        | Finesse, Light
 
 ## Spells
 ### Cantrips
-- *Druidcraft* - VS
-- *Shillelagh* - VSM
+- *Chill Touch* - VS
+- *Mending* - VSM
+- *Mold Earth* - S
 
 ### 1st Level
+- *Charm Person* - VS
 - *Cure Wounds* - VS
 - *Detect Magic* - VS, RC
 - *Entangle* - VS, C

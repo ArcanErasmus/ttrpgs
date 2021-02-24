@@ -26,7 +26,12 @@
         - Side: Rescue Sinala's sister (NOT FOUND)
 
 ## Relations
+### Attraction
 - Mithras - Went on date
+- Karile - Flirting with
+
+### Other
+- Sinala - Cute baby, keep safe
 
 ## TODO List
 - Shopping

@@ -1,6 +1,6 @@
 # Szetszei, szei/szem
 - Rogue 1
-- Delinquent/anti-social
+- Delinquent/anti-social, but very queer
 - Yuan-ti Pureblood
 - NE
 - Exp: 0
@@ -14,7 +14,7 @@
 | Init | +3   | -
 | Spd  | 30   | -
 | HD   | 1d8  | -
-| Insp | x    | -
+| Insp | O    | -
 | Prof | +2   | -
 | PWis | 10   | -
 | DSav |      | 
@@ -59,7 +59,7 @@
 
 ## Attacks/Spells
 | Name            | Atk  | Dam   | Type        | Range  | Notes
-|-----------------|------|-------|-------------|--------|------------------------------
+|-----------------|------|-------|-------------|--------|-------------------------
 | Poison Spray    | DC13 | 1d12  | Poison      |     10 | Spell
 | Mother's Rapier | +5   | 1d8+3 | Piercing    |        | Finesse
 | Shortbow        | +5   | 1d6+3 | Piercing    | 80/320 |
