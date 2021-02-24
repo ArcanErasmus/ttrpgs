@@ -3,30 +3,30 @@
 - Durance: Laborer
 
 ## Skills/Domains
-|   | Skills
-|---|--------
+| * | Skills
+|---|-------------------------------------------------
 |   | Compel - *persuade, intimidate, charm*
 |   | Deceive - *lies, disguises, forgery*
-| S | Fight - *hurting, killing and avoiding the same*
-|   | Fix - *repairing or building things (and people)*
+| S | Fight - *hurting/killing, avoiding the same*
+|   | Fix - *repairing/building things (and people)*
 |   | Investigate - *putting two and two together*
-| S | Pursue - *finding, following, chasing, escaping*
+| S | Pursue - *finding, following/chasing, escaping*
 | S | Resist - *handle pain, exhaustion, torture*
 | S | Sneak - *hide yourself or things*
 | S | Steal - *take and open things*
-|---|--------
-|   | Domains
-|---|--------
+|---|-------------------------------------------------
+| * | Domains
+|---|-------------------------------------------------
 |   | Academia - *places and people of learning*
 | D | Crime - *being and dealing with criminals*
-|   | Commerce - *buyers, sellers, hagglers, business*
+|   | Commerce - *buyers/sellers, hagglers, business*
 |   | High Society - *the aelfir and the privileged*
 | D | Low Society - *commoners and the downtrodden*
 |   | Occult - *non-church magic, weird stuff*
 |   | Order - *guards, governments and armies*
 |   | Religion - *churches and gods of all kinds*
 |   | Technology - *machinery, guilds and humans*
-|---|--------
+|---|-------------------------------------------------
 
 ## Knacks
 - none
