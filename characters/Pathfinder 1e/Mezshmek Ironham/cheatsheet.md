@@ -11,13 +11,7 @@
 
 ## Ingenuity
 - Max = artificer lvl + Int mod
-- Current: 11/day; OOOOO OOOOO x
-
-## Psionics
-- Psionic Focus: Y
-    - Meditate to gain, full-round action
-    - Lasts until used, or sleep/unconscious
-    - Can *only* use to activate/augment psionic items
+- Current: 12/day; OOOOO OOOOO OO
 
 ## Infusions (Artificer List) - DC: 10 + Int + infusion lvl
 - Concentration: CL + Int
@@ -26,13 +20,13 @@
 |-------------------------------|-------------------------------|
 | 0th: No daily limit           | Ranges                        |
 |-------------------------------|-------------------------------|
-| Detect Magic                  | Close  :  35 ft               |
-| Light                         | Medium : 150 ft               |
-| Mending                       | Far    : 600 ft               |
+| Detect Magic                  | Close  :  40 ft               |
+| Light                         | Medium : 160 ft               |
+| Mending                       | Far    : 640 ft               |
 | Read Magic                    |                               |
 | Resistance                    |                               |
 |-------------------------------|-------------------------------|
-| 1st: 6/day; OOOOOO            | 2nd: 4/day; OOOO              |
+| 1st: 6/day; OOOOOO            | 2nd: 5/day; OOOOO             |
 |-------------------------------|-------------------------------|
 | Ablative Armor                | Alchemical Allocation         |
 | Abundant Ammunition           | Align Weapon                  |
@@ -49,9 +43,8 @@
 | Disguise Weapon               | Effortless Armor              |
 | Energy Alteration             | Fox's Cunning                 |
 | Enhancement Alteration        | Heat Metal                    |
-| Entangling Dragonmark         | Humanoid Essence, Lesser      |
-| Expeditious Excavation        | Inflict Moderate Damage       |
-| Fabricate Bullets             | Ignite Dragonmark             |
+| Expeditious Excavation        | Humanoid Essence, Lesser      |
+| Fabricate Bullets             | Inflict Moderate Damage       |
 | Glue Seal                     | Improve Trap                  |
 | Gravity Bow                   | Lucky Blade                   |
 | Identify                      | Magic Siege Engine            |
@@ -65,15 +58,15 @@
 | Magic Stone                   | Repair Moderate Damage        |
 | Magic Vestment                | Ricochet Shot                 |
 | Magic Weapon                  | Stabilize Powder              |
-| Mask Dweomer                  | Suppress Dragonmark           |
-| Mirror Polish                 | Swift Ready                   |
-| Peacebond                     | Telekinetic Assembly          |
-| Pending Potion                | Toughen Construct             |
-| Refine Improvised Weapon      | Transmute Potion to Poison    |
-| Reinforce Armaments           | Unseen Crafter                |
-| Repair Light Damage           | Unseen Engineers              |
-| Resistance Item               | Versatile Weapon              |
-| Shield of Faith               | Weapon Augmentation, Lesser   |
+| Mask Dweomer                  | Swift Ready                   |
+| Mirror Polish                 | Telekinetic Assembly          |
+| Peacebond                     | Toughen Construct             |
+| Pending Potion                | Transmute Potion to Poison    |
+| Refine Improvised Weapon      | Unseen Crafter                |
+| Reinforce Armaments           | Unseen Engineers              |
+| Repair Light Damage           | Versatile Weapon              |
+| Resistance Item               | Weapon Augmentation, Lesser   |
+| Shield of Faith               |                               |
 | Skill Enhancement             |                               |
 | Weaken Powder                 |                               |
 | Weapon Augmentation, Personal |                               |
@@ -82,27 +75,34 @@
 ## Magic Items
 | Item (Personal Inventory)              | CL | Num | Notes
 |----------------------------------------|----|-----|-------
-| Wand of *Shocking Grasp*               |  5 |  47 |
-<!-- | Scroll of *Breath of Life*             | 11 |   1 | -->
-| Scroll of *Animal Purpose Training*    |  1 |   1 | to turn into wand later
-| Scroll of *Build Trust*                |  1 |   1 | to turn into wand later
-| Scroll of *Celestial Companion*        |  1 |   1 | to turn into wand later
-| Scroll of *Conditional Favor*          |  1 |   1 | to turn into wand later
-| Scroll of *Ghostbane Dirge*            |  1 |   1 | to turn into wand later
-| Scroll of *Grace*                      |  1 |   1 | to turn into wand later
+| Wand of *Shocking Grasp*               |  5 |  37 |
+| Wand of *Cure Light Wounds*            |  1 |  31 |
+| Wand of *Detect Chaos*                 |  1 |  10 |
+| Scroll of *Breath of Life*             | 11 |   1 |
+| Scroll of *Animal Purpose Training*    |  1 |   1 | wand option
+| Scroll of *Build Trust*                |  1 |   1 | wand option
+| Scroll of *Celestial Companion*        |  1 |   1 | wand option
+| Scroll of *Conditional Favor*          |  1 |   1 | wand option
+| Scroll of *Ghostbane Dirge*            |  1 |   1 | wand option
+| Scroll of *Grace*                      |  1 |   1 | wand option
 | Scroll of *Fallback Strategy*          |  1 |   1 |
-| Scroll of *Huntmaster's Spear*         |  1 |   1 | to turn into wand later
-| Scroll of *Inner Focus*                |  1 |   1 | to turn into wand later
-| Scroll of *Know Peerage*               |  1 |   1 | to turn into wand later
-| Scroll of *Litany of Duty*             |  1 |   1 | to turn into wand later
-| Scroll of *Litany of the Red Crusader* |  1 |   1 | to turn into wand later
-| Scroll of *Shield of Fortification*    |  1 |   1 | to turn into wand later
-| Scroll of *Watchful Eye*               |  1 |   1 | to turn into wand later
-| Scroll of *Stalwart Resolve*           |  1 |   1 | to turn into wand later
-| Scroll of *Tactical Acumen*            |  1 |   1 | to turn into wand later
+| Scroll of *Huntmaster's Spear*         |  1 |   1 | wand option
+| Scroll of *Inner Focus*                |  1 |   1 | wand option
+| Scroll of *Know Peerage*               |  1 |   1 | wand option
+| Scroll of *Litany of Duty*             |  1 |   1 | wand option
+| Scroll of *Litany of the Red Crusader* |  1 |   1 | wand option
+| Scroll of *Mending*                    |  1 |   7 | scrap
+| Scroll of *Shield of Fortification*    |  1 |   1 | wand option
+| Scroll of *Watchful Eye*               |  1 |   1 | wand option
+| Scroll of *Stalwart Resolve*           |  1 |   1 | wand option
+| Scroll of *Tactical Acumen*            |  1 |   1 | wand option
+| Scroll of *Vomit Swarm*                |  4 |   1 | scrap
 |----------------------------------------|----|-----|-------
 | Item (Party Loot Pool)                 | CL | Num |
 |----------------------------------------|----|-----|-------
+| *Oil of Alchemist's Fire*              |    |   4 |
+| *Tanglefoot Bag*                       |    |   1 |
+| Potion of *Cure Moderate Wounds*       |  3 |   8 |
 |----------------------------------------|----|-----|-------
 
 ## Akundol, Valet familiar archetype, Arcane bloodline familiar
@@ -116,9 +116,9 @@
     - Senses: blindsight 30 ft, darkvision 60 ft, low-light vision
     - Perception +2
 - Defense
-    - AC 18, touch 15, flat-footed 15 (+2 Dex, +1 dodge, +3 natural, +2 size)
-    - hp 25 (1d10)
-    - Fort +2, Ref +4, Will +6
+    - AC 18, touch 15, flat-footed 12 (+2 Dex, +1 dodge, +3 natural, +2 size)
+    - hp 28 (6d10)
+    - Fort +2, Ref +4, Will +7
     - Immune: construct traits
         - Ability damage
         - Ability drain
@@ -138,17 +138,17 @@
         - Stun
 - Offense
     - Speed 0 ft, fly 30 ft (average)
-    - Melee +2 slam (1d4-3 B)
+    - Melee +3 slam (1d4-3 B)
     - Space 2-1/2 ft; Reach 0 ft
-    - Spell-Like Abilities (CL 5)
+    - Spell-Like Abilities (CL 6)
         - At will - *open/close*, *prestidigitation*
 - Statistics
     - Str 4, Dex 15, Con —, Int 8, Wis 14, Cha 5
-    - Base Atk +3; CMB +3; CMD 10
+    - Base Atk +4; CMB +4; CMD 12
     - Feats: Agile Maneuvers (houserule to fix inconsistency), Dodge
     - Class Skills: Acrobatics, Climb, Craft, Fly, Perception, Perform, Profession, Stealth, Swim 
     - Skills: Fly +10, use master's ranks if higher
-        - Craft: +5 ranks, +3 class skill, -1 int mod, +2 tools, +5 spell; total +14
+        - Craft: +1 ranks, +3 class skill, -1 int mod, +2 tools, +5 spell; total +10
     - Languages: Common (can't speak)
 - Abilities
     - Able Assistant (Ex)
@@ -162,7 +162,7 @@
     - Ioun Affinity (Su)
         - Integrate 1 + half HD ioun stones into body
         - Can be swapped out by a creature it trusts
-        - Stones (1/3): dull gray
+        - Stones (1/4): dull gray
     - Share Iouns (Su)
         - Master gains benefit of integrated ioun stones if within 30 ft
     - Teammate (Ex)
@@ -179,11 +179,13 @@
 ## Achievement Feats Progress
 ### At Your Fingertips
 - 100+ wand castings of same spell
-- Shocking Grasp: 9
+- *Shocking Grasp*: 13
+- *Cure Light Wounds*: 16
 
 ### Ingrained Casting
 - 25+ scroll castings of same spell
 - *Breath of Life*: 1
+- *Healing Flames*: 1
 
 ### Master Alchemist
 - Kill 10+ creatures with self-made alchemical weapons
@@ -193,18 +195,3 @@
 - Craft 15+ different kinds of wands
     1. Shocking Grasp
     2. Cure Light Wounds
-
-## Unchained Skill Unlocks
-- Disable Device
-    - Reduce time to disarm trap or open lock by taking a -5 per step reduced
-    - 2d4 rds, 1d4 rds, 1 rd, std action, move action, swift action
-- Knowledge
-    - When identifying creature, +1 piece of information
-- Spellcraft
-    - Identifying magic items takes 1 full rd
-- UMD
-    - Can aid another with UMD check vs item's UMD DC
-- Artistry?
-    - Craft: Double result weekly progress
-    - Perform: DC 20 check for +2 circumstance Bluff, Dip, Handle Animal, Intimidate
-    - ???

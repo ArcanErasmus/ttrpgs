@@ -27,8 +27,29 @@
     - *Abilities* - Some characters can clear stress
     - *Fallout* - Clears a fixed amount, based on severity
 
+- Stress from sunlight:
+    - Goes to Blood or Mind
+    - d6, d3 if protected, 1 if minor or overcast/sunset/sunrise
+
+## Domain Locations
+- Academia: ?
+- Crime: Red Row
+- Commerce: Blue/North/Sky Docks
+- High Society: ?
+- Low Society: North Docks, Derelictus, Pilgrim's Walk, Works, Garden, Perch
+- Occult: Heart, other dimensions
+- Order: Jail/Hive, military camp, Council offices
+- Religion: Pilgrim’s Walk, New Heaven, Solar Basilica, Our Glorious Lady cathedral
+- Technology: Works, part of Gardens, Gywnn-Enforr
+
 ## Knacks
-If you would gain a skill or domain you already have, instead pick a knack in that skill or domain. A knack is a specific area of expertise (e.g. first aid for Fix, smuggling for Crime etc.) in which you always have mastery.
+If you would gain a skill/domain again, pick a knack in it. A knack is a specific area of expertise in which you always have mastery. Examples:
+- Deceive: Forgery, disguises, impersonating, casual lies
+- Low Society: North Docks, workers, blending in, defending the people thereof
+
+## Equipment
+- When finding something that matters to you, note 1 pos and 1 neg aspect
+- Pos/neg aspects can give mastery or add 1 difficulty
 
 ## Fallout
 - When you mark stress, GM rolls a d10

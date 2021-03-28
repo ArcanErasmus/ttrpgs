@@ -1,0 +1,34 @@
+Nurglite Cult, "Tree of Life", "Ordo Septinarius"
+- Markings
+    - Members bear a tattoo of a green tree
+- Chapters
+    - Nuln (IID)
+    - Altdorf
+    - Bogenhafen
+    - Middenheim (IID)
+- Actions of unknown chapter responsibility
+    - Disease in Blutroch 
+- Bogenhafen Chapter
+    - Actions
+        - Demon summoning in the sewers (for purposes beaurocratic and other)
+        - Death of Karl Teugen?
+- Structure
+    - Multiple cells of 5-6, spread thru city
+    - Cells organized in 3 groups
+        - Ordo Novitiae - Recruitment
+        - Ordo Terribilis - "Innovation"
+        - Ordo Impedimentae - Funds & Resources
+        - Ordo Septinarius - Public Face?
+            - Members drawn from local merchant guilds
+            - 7 inner members, each guides 6 apprentices
+    - Each Ordo headed by a Magister, each reports to the Magister of Magisters
+- Individuals of Note
+    - Lieberung: (Late) Magister Impedimentae of Nuln chapter
+    - Franz Steinhager: Member of Bogenhafen chapter
+    - Johannes Teugen: Started OSep 2 yrs ago
+- Hit List (0/50)
+    - Franz Steinhager
+    - Johannes Teugen
+    - Jochen Haagen
+    - Heironymus Ruggbroder
+    - 

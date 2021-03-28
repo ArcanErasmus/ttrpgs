@@ -36,7 +36,7 @@
 |------|---------|------|-----------|
 | Vigr |      45 |   45 | 0
 | Wnds |   28/14 |   28 | 0
-| Hero |       5 |    4 | 0
+| Hero |       3 |    2 | 0
 |------|---------|------|-----------|
 Vigor rolls (d8): [8], 7+1, 2+6, 6+2, 8, 5
 AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor, +1 nat armor
@@ -50,97 +50,87 @@ AC breakdown: +1 circumstance, +3 dex, +3 shield, +10 armor, +1 nat armor
 ## Saves
 | Name | Stat | Bonus | Temp |
 |------|------|-------|------|
-| Fort | Con  | +5    | +3*
-| Ref  | Dex  | +6    | +3*
-| Will | Wis  | +10   | +3*
+| Fort | Con  | +3    | +2*
+| Ref  | Dex  | +4    | +2*
+| Will | Wis  | +9    | +2*
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Race (Dwarf): +2 racial bonus on Craft and Profession checks related to metal or stone
 - Race (Dwarf): +4 bonus on Profession checks to make money
 - Race (Dwarf): +2 bonus on Perception checks to notice unusual stonework
 - Race (Dwarf): +2 racial bonus to saves vs spells/SLA and poison
-- Trait (Glory of Old): +1 trait bonus to saves vs spells/SLA and poison
-- Class Feature (Trapfinding): Bonus to Perception to detect traps equal to 1/2 artificer lvl, min +1
+- Class Feature (Trapfinding): Bonus to Perception to detect traps equal to  1/2 artificer lvl, min +1
+- Item (Forgefather's Hammer): +4 competence bonus to trained Craft checks
 - Item (Magnifying Glass): +2 circumstance bonus to Appraise with detailed items
 
 ## Skills
-| # | T | C | Adventuring Skills   | Sta | Mod | ACP | Temp
-|---|---|---|----------------------|-----|-----|-----|------
-|   |   |   | Acrobatics           | Dex |     | -3  |
-|   |   |   | Bluff                | Cha |     |     |
-|   |   |   | Climb                | Str |     | -3  |
-| 1 |   | C | Diplomacy            | Cha | +4  |     |
-M 6 | T | C | Disable Device       | Dex | +17 | -3  |
-|   |   |   | Disguise             | Cha |     |     |
-|   |   |   | Escape Artist        | Dex |     | -3  |
-|   |   | C | Fly                  | Dex |     | -3  |
-|   |   |   | Heal                 | Wis |     |     |
-|   |   |   | Intimidate           | Cha |     |     |
-M 6 | T | C | Kn (arcana)          | Int | +15 |     |
-| 1 | T |   | Kn (dungeoneering)   | Int | +7  |     |
-|   | T |   | Kn ("local")         | Int |     |     |
-| 1 | T |   | Kn (nature)          | Int | +7  |     |
-X 6 | T | C | Kn (planes)          | Int | +15 |     |
-M 6 | T | C | Kn (religion)        | Int | +15 |     |
-| 1 |   | C | Perception           | Wis | +9  |     | +2,+3*
-|   |   |   | Ride                 | Dex |     | -3  |
-|   |   |   | Sense Motive         | Wis | +6  |     |
-M 6 | T | C | Spellcraft           | Int | +15 |     |
-|   |   |   | Stealth              | Dex |     | -3  |
-|   |   |   | Survival             | Wis |     |     |
-|   |   |   | Swim                 | Str |     | -3  |
-M 6 | T | C | Use Magic Device     |(Int)| +20 |     |
-|---|---|---|----------------------|-----|-----|-----|------
-| # | T | C | Background Skills    | Sta | Mod | ACP | Temp
-|---|---|---|----------------------|-----|-----|-----|------
-| 1 |   | C | Appraise             | Int | +10 |     | +2*
-|   |   | C | Artistry             | Int |     |     |
-M 6 |   | C |  Custom Mag. Effects | Int | +17 |     |
-| 5 |   | C |  Technical Writing   | Int | +16 |     |
-|   |   | C | Craft                | Int |     |     | See `rule_systems.md`
-| 1 |   | C |  Alchemy             | Int | +15 |     | *
-| 1 |   | C |  Blacksmithing       | Int | +17 |     | *
-| 1 |   | C |  Calligraphy         | Int | +15 |     | *
-| 1 |   | C |  Carpentry           | Int | +15 |     | *
-| 1 |   | C |  Clockwork           | Int | +17 |     | *
-| 1 |   | C |  Cloth               | Int | +15 |     | *
-| 1 |   | C |  Cooking             | Int | +15 |     | *
-| 1 |   | C |  Lapidary            | Int | +17 |     | *
-| 1 |   | C |  Leather             | Int | +15 |     | *
-| 1 |   | C |  Pottery             | Int | +17 |     | *
-| 1 |   | C |  Stonemasonry        | Int | +17 |     | *
-| 1 |   | C |  Whitesmithing       | Int | +17 |     | *
-|   | T |   | Handle Animal        | Cha |     |     |
-| 1 | T | C | Kn (engineering)     | Int | +10 |     |
-|   | T |   | Kn (geography)       | Int |     |     |
-|   | T |   | Kn (history)         | Int |     |     |
-| 1 | T |   | Kn (nobility)        | Int | +7  |     |
-| 1 | T | C | Linguistics          | Int | +10 |     |
-|   | T | C | Lore                 | Int |     |     |
-| 1 | T | C |  Cursed Items        | Int | +10 |     |
-| 1 | T | C |  Dorstan Wiz College | Int | +10 |     |
-| 1 | T | C |  Dwarven History     | Int | +10 |     |
-| 1 | T | C |  Imperial Army       | Int | +10 |     |
-| 1 | T | C |  Intell. Magic Items | Int | +10 |     |
-| 1 | T | C |  Materials Science   | Int | +10 |     |
-| 1 | T | C |  Prostheses/Grafts   | Int | +10 |     |
-<!-- | 1 | T | C |  Alchemical Engines  | Int | +10 |     | -->
-<!-- | 1 | T | C |  Automatic Vehicles  | Int | +10 |     | -->
-<!-- | 1 | T | C |  Def. Fortifications | Int | +10 |     | -->
-<!-- | 1 | T | C |  Diet/Nutrition      | Int | +10 |     | -->
-<!-- | 1 | T | C |  Familiars           | Int | +10 |     | -->
-<!-- | 1 | T | C |  Flying Machines     | Int | +10 |     | -->
-<!-- | 1 | T | C |  Memetic Effects     | Int | +10 |     | -->
-<!-- | 1 | T | C |  Philosoph. Theories | Int | +10 |     | -->
-|   |   |   | Perform              | Cha |     |     |
-|   | T | C | Profession           | Wis |     |     | +4*
-| 1 | T | C |   Siege Engineer     | Wis | +8  |     | +4*
-|---|---|---|----------------------|-----|-----|-----|------
+| # | T | C | Adventuring Skills | Sta | Mod | ACP | Temp
+|---|---|---|--------------------|-----|-----|-----|------
+|   |   |   | Acrobatics         | Dex |     | -3  |
+|   | T |   | Autohypnosis       | Wis |     |     |
+|   |   |   | Bluff              | Cha |     |     |
+|   |   |   | Climb              | Str |     | -3  |
+| 1 |   | C | Diplomacy          | Cha | +4  |     |
+M 6 | T | C | Disable Device     | Dex | +17 | -3  |
+|   |   |   | Disguise           | Cha |     |     |
+|   |   |   | Escape Artist      | Dex |     | -3  |
+|   |   | C | Fly                | Dex |     | -3  |
+|   |   |   | Heal               | Wis |     |     |
+|   |   |   | Intimidate         | Cha |     |     |
+M 6 | T | C | Kn (arcana)        | Int | +14 |     |
+|   | T |   | Kn (dungeoneering) | Int |     |     |
+|   | T |   | Kn (local)         | Int |     |     |
+|   | T |   | Kn (nature)        | Int |     |     |
+M 6 | T | C | Kn (planes)        | Int | +15 |     |
+X 6 | T | C | Kn (psionics)      | Int | +15 |     |
+M 6 | T | C | Kn (religion)      | Int | +15 |     |
+| 1 |   | C | Perception         | Wis | +9  |     | +2,+3*
+|   |   |   | Ride               | Dex |     | -3  |
+|   |   |   | Sense Motive       | Wis | +6  |     |
+M 6 | T | C | Spellcraft         | Int | +15 |     |
+|   |   |   | Stealth            | Dex |     | -3  |
+|   |   |   | Survival           | Wis |     |     |
+|   |   |   | Swim               | Str |     | -3  |
+M 6 | T | C | Use Magic Device   |(Int)| +20 |     |
+|---|---|---|--------------------|-----|-----|-----|------
+| # | T | C | Background Skills  | Sta | Mod | ACP | Temp
+|---|---|---|--------------------|-----|-----|-----|------
+| 1 |   | C | Appraise           | Int | +10 |     | +2*
+|   |   | C | Artistry           | Int |     |     |
+M 6 |   | C |   Tech. Writing    | Int | +17 |     |
+|   |   | C | Craft              | Int |     |     | See `rule_systems.md`
+| 1 |   | C |   Alchemy          | Int | +12 |     | *
+| 1 |   | C |   Blacksmithing    | Int | +12 |     | *
+| 1 |   | C |   Calligraphy      | Int | +12 |     | *
+| 1 |   | C |   Carpentry        | Int | +12 |     | *
+| 1 |   | C |   Clockwork        | Int | +12 |     | *
+| 1 |   | C |   Cloth            | Int | +12 |     | *
+| 1 |   | C |   Cooking          | Int | +12 |     | *
+| 1 |   | C |   Lapidary         | Int | +12 |     | *
+| 1 |   | C |   Leather          | Int | +12 |     | *
+| 1 |   | C |   Pottery          | Int | +12 |     | *
+| 1 |   | C |   Stonemasonry     | Int | +12 |     | *
+| 1 |   | C |   Whitesmithing    | Int | +12 |     | *
+|   | T |   | Handle Animal      | Cha |     |     |
+| 1 | T | C | Kn (engineering)   | Int | +10 |     |
+|   | T |   | Kn (geography)     | Int |     |     |
+|   | T |   | Kn (history)       | Int |     |     |
+|   | T |   | Kn (nobility)      | Int |     |     |
+| 1 | T | C | Linguistics        | Int | +10 |     |
+|   | T | C | Lore               | Int |     |     |
+| 1 | T | C |   Int. Magic Items | Int | +10 |     |
+| 1 | T | C |   Dwarven History  | Int | +10 |     |
+| 1 | T | C |   Imperial Army    | Int | +10 |     |
+| 1 | T | C |   Dorstan Wiz Col  | Int | +10 |     |
+|   |   |   | Perform            | Cha | -1  |     |
+|   | T | C | Profession         | Wis |     |     | +4*
+| 1 | T | C |   Siege Engineer   | Wis | +8  |     | +4*
+|---|---|---|--------------------|-----|-----|-----|------
 
-- Skill ranks: 75/75 total; 40 Adv, 35/12 Bg
+- Skill ranks: 70/75 total; 44 Adv, 26/12 Bg
     - 6x(4+5) artificer
     - 3 favored
-    - 6 Headband of Vast Intelligence: Kn (planes)
+    - 6 Headband of Vast Intelligence: Kn (psionics)
     - 12 BG Skills system
 - Current encumbrance modifiers: -3 ACP, +3 max Dex, 0% ASFC (30% ignored), normal speed
     - Load: Light
@@ -218,21 +208,24 @@ M 6 |   | C |  Custom Mag. Effects | Int | +17 |     |
 ### (D) Pride
 - When threatened/accused/challenged, –2 penalty on Diplomacy/Sense Motive with that creature until apologizes
 
+### Curator of Mystic Secrets [Magic Exemplar]
+- Can take any number of magic traits
+- 2/day don't increase casting time for spontaneous metamagic
+- +1/day per other magic trait
+
+### Hedge Magician [Magic]
+- Cost of creating magic items is 5% less
+
 ### Spark of Creation [Magic]
 - +1 trait bonus on Craft checks
 - Cost of creating magic items is 5% less
 
-### Glory of Old (Dwarf) [Regional]
-- +1 trait bonus on saves vs spells, spell-like abilities, poison
-
-### Clever Wordplay [Social]
-- Use Int instead of Cha for one skill
-- Skill: UMD
+### Pragmatic Activator [Magic]
+- Use Int instead of Cha for UMD
 
 ## Feats
-### Hero's Fortune [lvl 1]
-- Immediately gain a hero point
-- Max hero points increased to 5
+### Additional Traits [lvl 1]
+- Gain 2 traits
 
 ### Reach Spell [Artificer Bonus, lvl 2]
 - +X spell lvl, up range by X steps

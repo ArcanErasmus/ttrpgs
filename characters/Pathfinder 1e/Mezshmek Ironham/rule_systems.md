@@ -34,8 +34,9 @@ total: +7
     total: x4 speed
 - net time cost: 0.178125x item's base price
 - base progress
-    - 1200 gp/day for arms and armor
-    - 1400 gp/day for wondrous
+    - 1200 gp/day (cost) for arms and armor
+    - 1200 gp/day (cost) for wondrous
+    - 1200 gp/day (cost) for scroll
 - misc
     - full 4 hrs/day progress for working while adventuring
     - can make multiple items per day (gp limited, rather than 1 item/day limited)

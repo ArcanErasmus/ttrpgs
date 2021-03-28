@@ -121,20 +121,38 @@ https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-fro
 - Gain arcane bond as wiz of sorcerer lvl
 - Chosen: familiar
 
-# Future Class Features (lvl 6)
+# Future Class Features (lvl 7)
+## Untyped
+### Hero Points
+- Regain 1 (max 5)
+
 ## Artificer
+### Base
+- +1d8 or +5 vigor
+- +4+Intmod skill ranks, +2 bG
+- favored class: +1 skill rank, vigor, or +200gp/day crafting speed one type magic item
+- +1 BAB
+
 ### Bonus Feat
-- One flexible feat (see list above)
-
-### Item Augmentation
-#### Charge Storing (Su)
-- Becomes standard action
-
-#### Spell Trigger (Su)
-- As part of casting spell/power from spell/power trigger item (ex: wand/dorje)
-- Can apply any one known metamagic/metapsionic feat, no effect on activation time or charges
-- Costs ingenuity points: 1 + spell lvl adjustment or 1 + 1/2 power point cost (rounded up), min 2
-- Can spend points per use of up to half ranks in UMD
+- Forge Ring
 
 ### Infusions
-- lvl 2: +1/day
+- Access to lvl 3
+- lvl 3: 1/day (+Int bonus)
+
+## Sorcerer VMC
+### Familiar
+- (max HP = half master's theoretical HP [not W&V])
+- (BAB/base saves use master's)
+- (skill ranks use master's where greater and where familiar has ranks)
+- +1 HD (doesn't affect HP)
+- Natural armor adjustment: +3 -> +4
+- Intelligence: 8 -> 9
+
+#### Deliver Aid (Ex)
+- Can move before and after using aid another, not exceeding total move spd
+
+### Metamagic Adept (Ex)
+- Use one known metamagic spontaneously w/o increase cast time
+- 1/day + 1 per 4 lvls beyond 3rd
+- At 20th level, this ability is replaced by arcane apotheosis

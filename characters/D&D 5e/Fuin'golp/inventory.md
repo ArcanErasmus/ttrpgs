@@ -10,32 +10,34 @@
 |--------------------------|        |--------------------------------
 | **Weapons**              |        |
 |--------------------------|        |--------------------------------
-| Dart (20)                |   5    |
+| Dart (10)                |   2.5  |
 | Fishing Spear            |   3    |
+| Net                      |   3    |
 | Wooden Shield            |   6    |
 |--------------------------|        |--------------------------------
 | **Tools**                |        |
 |--------------------------|        |--------------------------------
-| Bedroll                  |   7    |
 | Carving of Moss          |        | Druidic Focus
 | Crowbar                  |   5    |
 | Drum                     |   3    |
 | Hammer                   |   3    |
-| Hempen Rope (50 ft)      |  10    |
-| Herbalism Kit            |   3    | Identify herbs, make potions/medicine/antitoxin
+| Hatchet                  |   2    |
+| Hempen Rope (80 ft)      |  16    |
+| Herbalism Kit            |   3    | ID herbs, make pots/meds/antidote
+| Hunting Trap             |  25    |
 | Mess Kit                 |   1    |
-| Tinderbox (2)            |   2    |
+| Shovel                   |   5    |
+| Tinderbox                |   1    |
 |--------------------------|        |--------------------------------
 | **Consumables**          |        |
 |--------------------------|        |--------------------------------
-| Day's Rations (10)       |  20    |
-| Pint of Lamp Oil (1)     |   1    |
-| Torch (13)               |  13    |
-| Waterskin                |   5    | 1 lb empty
+| Day's Rations (5)        |  10    |
+| Vial of Pheremones       |        |
+| Waterskin (2)            |  10    | 1 lb empty
 |--------------------------|        |--------------------------------
-| **Coins**                |   0.56 | 0pp 28gp 0ep 0sp 0cp
+| **Coins**                |   0.2  | 4op 3gp 0ep 3sp 0cp
 |--------------------------|        |--------------------------------
-| **Total**                | 109.56 | Under capacity
+| **Total**                | 114.7  | Under cap
 
 ## Carrying Capacity
 | Load      | lbs    | Penalties
@@ -43,3 +45,8 @@
 | Capacity  | 150    |
 | Push/Drag | 300    | see book
 |-----------|--------|
+
+## Social Capital
+
+
+## Loot Table

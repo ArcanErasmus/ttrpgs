@@ -23,15 +23,83 @@
         - Side: Rescue Kiki the paladin (found)
         - Side: Rescue Kehabe the triton (found)
         - Side: Rescue "Karile" the magic lady (found)
+        - Side: Rescue Fuin'golp the weird grung (found)
         - Side: Rescue Sinala's sister (NOT FOUND)
+- Dating Mithras
+    - Temple to HOLLOW
+        - Awkwardly climbed up there with a ladder after failing to scale the rope
+        - (Mithras just flew up there)
+        - Attempted to teach Dragonchess, but too tipsy and nervous to do a good job
+        - Takkun (Mithras's familiar, alley sprite/chuh-what-a?)
+- Rediscovering Madame Karile, amnesiac human lady
+    - Known date: "5th Dawn, 1173"
+        - Obsolete measure of time used by humans who first built a settlement atop the Twist
+        - A derivative system is used by the predominantly-human kingdoms of the Tiger Emperors
+    - Familiar landmark: Religious district, statue of a 6-limbed drow
+        - Effigy in a shrine to GRAIN, Gods of Things Left Behind
+        - Karile knows about GRAIN, but remembers Lolth with a deep adoration and respect
+        - "Lolth, a god of elves"
+            - Drow goddess of whispers, ambition, darkness, and drow
+            - The reason that drow society is classically matriarchal
+            - Premier goddess of the underdark, a great catacomb that once stretched across the world
+            - A cruel and spiteful goddess, but after a time of great change in the heavens and earth, she shepherded people to places like GR, so that they find safety
+            - Her petition to GRAIN was to perpetually shroud GR in a faint cloud cover, allowing her people to walk amongst the daylight without harm
+            - In the end, her cruel flame was spent, leaving only her love for her malicious and vain children, who could not remain in the underdark, for it was taken over by things worse than them
+            - Effigies of her still adorn shrines to GRAIN
+    - Familiar interest: music
+        - Not familiar with Grung throat-singing
+    - 
+- Task: Count Rene Markham, Party Gone Wrong
+    - Hobgoblin, fancy cane, funny colored hair
+        - Adventurous arms merchant, just returned from lands of the twin emperors of faraway continents
+        - Contracts voided by twin emperors, arrested on suspicion of being a spy
+        - Released after petitioning from his spouse, who in return for pulling some strings, attended a gala
+    - Returned to some terrible tragedy, a party at Duke DeMourne's estate in Naiad's Vault, which ended in disaster
+        - Spouse went to this party, mansion of the DeMourne family, Count tried to break in to find her
+        - Nobody returned from this (and there were a lot of nobles there!)
+    - No one's been in or out in a month
+        - Inquisition all over it, blocked off, but their presense has been dwindling
+    - Miss Balderdamme, stubborn hobgoblin handmaid
+    - Duke DeMourne
+        - Rumors of necromancy
+    - Infiltrating the estate
+        - Orange glowing flowers
+        - Spontaneous pumpkins, black veins
+        - Spooky fireplace eats Unseen Servants to light
+        - Darkvision, and light sources brought from outside, don't work
+        - "Shadows" (type of ghost, very bad?)
+        - Being frightened makes weird things happen
+        - *Burning maid, Tereza*: needs water
+            - Washbasin in study downstairs, right off the main hall
+        - *Closet ghost*: lost?
+        - *Banging ghosts*: bad, go to horny jail
+        - *Duke Barnem DeMourne*: 
+
+## Religion
+- Most faiths seem to be sort of like amalgamations of pantheons into single entities
+- Faiths
+    - HOLLOW, Gods of Truth in Silence
+        - Temple is a very tall cathedral
+    - GRAIN, Gods of Things Left Behind
+    - ROT, Gods of Freedom Through Poison
 
 ## Relations
 ### Attraction
 - Mithras - Went on date
 - Karile - Flirting with
 
-### Other
-- Sinala - Cute baby, keep safe
+### Allies/Friends
+- Markoff Dimmholder - Well-known delver of the Twist
+- Antonin Kirolov - Merchant
+    - Sinala - Minotaur apprentice, employee of Markoff, child of Markoff
+    - Nibe - Kobold lamplighter, employee of Markoff
+    - Otlu - Yuan-ti clerk, employee of Markoff
+- Kiki - Angy goblin paladin
+
+- Unnamed friend that I stable my horse with
+
+### Dragonchess Match History
+- W vs Duke Barnem DeMourne (Ebony), session 3
 
 ## TODO List
 - Shopping
@@ -43,6 +111,7 @@
 - Falling in with this group, meeting with merchant, all to lead me to this cavern
     - Bottle of liquid had elven, Hawkins could read before they died. They must have been meant to help me just in that moment
     - Met Kiki, pay attention to him
+    - Karile seems like a person of big importance. Def not a coincidence they're hot
 
 # BG Notes
 - Knows parents, both imprisoned/enslaved/other

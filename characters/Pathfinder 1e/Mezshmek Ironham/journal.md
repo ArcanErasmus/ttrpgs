@@ -92,6 +92,25 @@
         - Gnolls carefully disguised in full plate
             - Armor crafted locally, no makers mark, designed by someone who does custom jobs and likely doesn't want it traced back to them
         - All the viewers in private boxes teleported away before the chaos erupted over discovering gladiator identity
+    - Asylum
+        - Attacked immediately, brutally tough defenses (numorous gnolls, multiple minotaurs, at least one fire elemental)
+        - Changing room/baths
+            - Secret crawlspace with guard, starved to death, and chest of stolen valuables (presumably from asylum patients)
+        - Imperial chapel room: Gruesome ritual markings and altars repurposed for sacrifice
+            - Corpses mostly elf, more bodies in wading pools
+            - Some corpses uniformed, fairly low-rank bureaucrats or guards
+            - Ritual divine and necromantic in nature, intent seems more on uplifting, summoning, or transmuting some specific thing
+            - "Triad" (from Adrena), cabal of powerful extraplanar beings
+        - Crematorium, converted to makeshift forge
+            - Forge contents: Electrum sensor with silver filigree, strange runes
+            - Burnt-out runes for summoning and binding a fire elemental
+            - Etchings altered/damaged to allow the elemental to wander freely
+        - Scribe room
+            - Ransacked, all papers with writing removed
+            - Same with adjoining office
+            - Office had a very powerful anti-non-lawful trapped floor slab, hiding a bundle of papers and wand of detect chaos
+            - Papers written by Professor Qinran
+            - Crawlspace containing stoneworking tools
 
 - Goal: Head to Na'macui to clear out Beastmark
 - Boats: The Rosabella, The Storm Viper
@@ -168,6 +187,16 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
 - Description: Cool, damp mist emanates from this white-hooded, floor length cloak, yet it protects the wearer from this mist and from rain. The wearer gains a +5 bonus on Stealth checks in fog, mist, or rain. During these conditions, if the wearer stands still, they can use the Stealth skill even if being observed. Additionally, if the wearer does not move from their position in a round, and is not subject to more than mild winds, the mists wrap around them, providing concealment at the end of their turn that lasts until they move. Lastly, three times a day, if the wearer falls more than 5 feet they can spend an immediate action to gain the benefits of *feather fall*.
 - Requirements: Craft Wondrous Item, *create water*, *feather fall*, *obscuring mist*
 - Cost: 4,400 gp
+
+### Charm of Immediate Repose
+- Aura: faint necromancy
+- CL: 3
+- Slot: none
+- Weight: -
+- Price: 600 gp
+- Description: This clear glass charm takes the shape of a coffin 2 inches in length. If the bearer of this charm dies, it immediately digs slightly into the owner's flesh (harmlessly), and begins glowing a ghostly green. The bearer's body is immediately affected as *gentle repose*, protecting their corpse from decay for 3 days. At the end of this period, or if the charm is removed from the body (requiring a DC 10 Strength check), or if the bearer is revived, it loses all magic and turns to ash.
+- Requirements: Craft Wondrous Item, *gentle repose*, *deathwatch*
+- Cost: 300 gp
 
 # Ship stuff
 - Rosabella: Gargantuan

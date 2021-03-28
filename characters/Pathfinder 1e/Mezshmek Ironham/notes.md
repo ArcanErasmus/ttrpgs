@@ -25,7 +25,6 @@
     - Brew Greater Potion https://www.d20pfsrd.com/feats/3rd-party-feats/louis-porter-jr-design/item-creation-feats-3rd-party-louis-porter-jr/brew-greater-potion-item-creation
     - Craft Implant https://sites.google.com/site/eberronpathfinder/conversion-info/feats/item-creation-feats
     * Craft Shadow Piercing https://www.d20pfsrd.com/feats/item-creation-feats/craft-shadow-piercing-item-creation
-    ? Create Reliquary Arms and Shields https://www.d20pfsrd.com/feats/general-feats/create-reliquary-arms-and-shields
     - Inscribe Magical Tattoo
         - https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-wondrous-tattoos/d20pfsrd-com-publishing-magic-tattoos/magic-tattoos
         - https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-wondrous-tattoos/rite-publishing
@@ -34,19 +33,9 @@
     - Combat Casting https://www.d20pfsrd.com/feats/general-feats/combat-casting
         - Uncanny Concentration https://www.d20pfsrd.com/feats/general-feats/uncanny-concentration
     - Companion Cache https://www.d20pfsrd.com/feats/3rd-party-feats/rite-publishing/bonded-feats-3rd-party-rite-publishing/companion-cache-bonded
-    - Extra Traits
-        - Caretaker [Faith] https://www.d20pfsrd.com/traits/faith-traits/caretaker
-        - Clockwork Surgeon [Religion] https://www.d20pfsrd.com/traits/religion-traits/clockwork-surgeon-religion-trait
     - Field Repair https://www.d20pfsrd.com/feats/general-feats/field-repair
     - Fortified Armor Training https://www.d20pfsrd.com/feats/combat-feats/fortified-armor-training-combat
     - Divine Fighting Technique https://aonprd.com/FeatDisplay.aspx?ItemName=Divine%20Fighting%20Technique
-    - Hero's Fortune https://www.d20pfsrd.com/feats/general-feats/hero-s-fortune
-    * Magical Aptitude https://www.d20pfsrd.com/feats/general-feats/magical-aptitude
-    - Master Alchemist https://www.d20pfsrd.com/feats/general-feats/master-alchemist
-    - Protector of the People https://aonprd.com/FeatDisplay.aspx?ItemName=Protector%20of%20the%20People
-        - Could potentially use Smoulder Hill as the community, since the poor town is always under attack
-    - Saving Shield https://www.d20pfsrd.com/feats/combat-feats/saving-shield-combat
-    - Shield Focus https://www.d20pfsrd.com/feats/combat-feats/shield-focus-combat
     * Shocking Spell https://www.d20pfsrd.com/feats/3rd-party-feats/rite-publishing/metamagic-feats-3rd-party-rite-publishing/shocking-spell-metamagic
     - Toxic Recovery https://www.d20pfsrd.com/feats/racial-feats/toxic-recovery-dwarf
     - Wand Channeler https://www.d20pfsrd.com/feats/3rd-party-feats/the-knotty-works/wand-channeler
@@ -58,8 +47,6 @@
 
 - story feats
     * Artifact Hunter https://www.d20pfsrd.com/feats/story-feats/artifact-hunter-story
-    - Forgotten Past https://www.d20pfsrd.com/feats/story-feats/forgotten-past-story
-        - For Adrena
     * Magnum Opus https://www.d20pfsrd.com/feats/story-feats/magnum-opus-story
 - item mastery feats (base Fort save prereqs) https://www.d20pfsrd.com/feats/item-mastery-feats
     * Ability Mastery https://www.d20pfsrd.com/feats/item-mastery-feats/ability-mastery-item-mastery
@@ -75,11 +62,9 @@
     - Vision Mastery https://www.d20pfsrd.com/feats/item-mastery-feats/vision-mastery-item-mastery
 - conduit feats (Kn Planes prereqs) https://www.d20pfsrd.com/feats/conduit-feats
     - Flickering Step https://www.d20pfsrd.com/feats/conduit-feats/flickering-step-conduit
-    - Healer's Hands https://www.d20pfsrd.com/feats/conduit-feats/healers-hands-conduit
     - Peace of Mind https://www.d20pfsrd.com/feats/conduit-feats/peace-of-mind-conduit
     - Wanderer's Fortune https://www.d20pfsrd.com/feats/conduit-feats/wanderers-fortune-conduit
 - metamagic
-    - reach
     - silent
 - discern item `Feats 101.pdf`
 
@@ -101,10 +86,15 @@
     - Ask about adding Embedded Ioun Stone https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types/#TOC-Clockwork-Subtype
 * Homunculus https://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus
 
+### Ioun stones for Akundol
+- Scarlet and Blue Sphere (cracked) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/scarlet-and-blue-sphere-ioun-stone
+- Mossy Disk (cracked) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/mossy-disk
+- Gold Nodule (cracked) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/gold-nodule
+- Dark Rhomboid (flawed or cracked) https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dark-blue-rhomboid-ioun-stone
+
 ## Neat stuff from Library of Metzofitz
 ### Rules
 - More Psychic Skill Unlocks https://libraryofmetzofitz.fandom.com/wiki/Psychic_Skill_Unlocks
-- Knowledge (Martial) https://libraryofmetzofitz.fandom.com/wiki/Knowledge
 - Reducing the magic item "christmas tree" https://libraryofmetzofitz.fandom.com/wiki/Steelforge_Items
 
 ### Armor Qualities

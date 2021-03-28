@@ -1,23 +1,22 @@
 # Szetszei, szei/szem
-- Rogue 1
+- NE Yuan-ti (Medium) Rogue 3, Noble career; Jobs: 0/4
+- 5'3", 150 lbs, 20 yo
+- Black hair (short ponytail), vivid green eyes (vertical slits), pale faintly-green skin
 - Delinquent/anti-social, but very queer
-- Yuan-ti Pureblood
-- NE
-- Exp: 0
-- 5'3", 150 lbs, 20 yo, black hair (short ponytail), vivid green eyes (vertical slits), pale faintly-green skin
-- Size: Medium
 
 ## Stats
 |------|------|------
-| HP   |  8   | -
 | AC   | 14   | -
 | Init | +3   | -
 | Spd  | 30   | -
-| HD   | 1d8  | -
-| Insp | O    | -
 | Prof | +2   | -
 | PWis | 10   | -
-| DSav |      | 
+|------|------|------
+| HP   | 19   | 19
+| HD   | 6d8  | OOOOO O
+| Insp | x
+| DSav | 0/0
+HP: [8] + 6 + 5
 
 ## Ability Scores
 | Sta | #  | Mod | P | Sav | Temp
@@ -37,7 +36,7 @@
 |   | Arcana             | Int |     | -
 |   | Athletics          | Str |     | -
 | P | Deception          | Cha | +5  | -
-| P | History            | Int | +4  | -
+|   | History            | Int |     | -
 |   | Insight            | Wis |     | -
 |   | Intimidation       | Cha |     | -
 |   | Investigation      | Int |     | -
@@ -49,13 +48,13 @@
 |   | Religion           | Int |     | -
 | E | Sleight of Hand    | Dex | +7  | -
 | P | Stealth            | Dex | +5  | -
-| P | Survival           | Wis | +2  | -
+|   | Survival           | Wis |     | -
 
 ## Proficiencies
-- Languages: Abyssal, Draconic, Goblin
+- Languages: Abyssal, Draconic, Goblin, Elven, Dwarvish
 - Armor: Light armor
 - Weapons: Hand Crossbow, Longsword, Rapier, Shortsword, Simple Weapons
-- Tools: Dragonchess, Thieves' Tools
+- Tools: Dragonchess, Thieves' Tools, Disguise Kit, Forgery Kit, 3-Dragon Ante
 
 ## Attacks/Spells
 | Name            | Atk  | Dam   | Type        | Range  | Notes
@@ -66,9 +65,16 @@
 | Dagger          | +5   | 1d4+3 | Piercing    |  20/60 | Finesse, Light, Thrown
 | Light Hammer    | +1   | 1d4-1 | Bludgeoning |  20/60 | Light, Thrown
 
+### Global Damage Modifier
+- Sneak Attack: +2d6
+
 ## Spells
+### Innate
 - *Poison Spray*
 - *Animal Friendship* (only on snakes)
+
+### Item
+- *Compelled Duel*
 
 ## Personality
 - Background: Inheritor
@@ -84,7 +90,7 @@
 - Knowledge of secret signs
 
 ### Sneak Attack
-- Once per turn, +1d6 dmg on hit with finesse or ranged weapon
+- Once per turn, bonus dmg on hit with finesse or ranged weapon
 - Requires advantage on atk or if an enemy of target is within 5 ft of it, and don't have disadvantage
 
 ### Darkvision
@@ -102,3 +108,31 @@
 - Inheritor to family's estate
 - Currently controlled by my uncle
 - Goal: Reclaim mansion
+
+### Cunning Action
+- As bonus action can: Dash, Disengage, Hide
+
+### Steady Aim
+- As bonus action, advantage on next atk this turn
+- Can only use if haven't moved, and sets speed to 0 this turn
+
+### Master of Intrigue
+- Unerringly mimic speech patterns/accent of a creature I hear speak for 1 min
+
+### Master of Tactics
+- Help as bonus action
+- Can Help to aid atk on creature within 30 ft, if target can see or hear me
+
+## Career
+### Aristocrat, Noble - Disheveled Noble (1)
+- Position of Privilege
+    - 1 hr speak in defense of self, DC 15 Cha (Persuasion)
+    - Avoid consequences of petty lawbreaking
+    - Reduce consequences of more serious crime
+- Holdings
+    - Ruined Estate
+    - Noble Title worth little influence
+- Progression
+    - Be granted a barony or higher, restore family household
+- Talent: Court Schemer
+    - Profession die to Cha (Deception) with aristocrats
