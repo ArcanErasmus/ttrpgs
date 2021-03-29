@@ -136,8 +136,37 @@ At 12th level, the agitant can touch one melee weapon as a standard action to gr
 At 20th level, an agitant learns the final revelation about their mystery, granting them amazing powers and abilities. The nature of these bonuses depends upon the agitant’s mystery.
 
 
-TODO:
-- well-versed
-- dirge of doom
-- other songs?
-- favored class bonuses
+# Possible Replacements
+## Well-Versed
+- Intuition https://www.sites.google.com/site/pathfinderogc/classes/core-classes/bard/archetypes/icosa-entertainment-llc/gypsy-bard-archetype
+- Uncanny Dodge https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/archaeologist
+- Dauntless https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/daredevil
+- Haunted Eyes https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/dirge-bard
+- Evasion https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/juggler-bard-archetype
+- Reverie https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/radiance-house-bard-archetypes/soul-muse
+
+## Songs
+Distraction
+- Ward https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/rite-publishing-bard-archetypes/moso
+
+Inspire Courage
+- Satire https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
+
+Inspire Competence
+- [Improved] https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/ringleader-bard-archetype
+
+Dirge of Doom
+- Glorious Epic https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
+- Scathing Tirade https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/diva
+- Maddening Harmonics https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/mute-musician-bard-archetype
+
+Inspire Greatness
+
+
+Frightening Tune
+- Scandal https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
+- Healing Performance https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/songhealer
+
+Inspire Heroics
+- Show Yourselves https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/detective
+- Ceaseless Performance https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/mute-musician-bard-archetype
