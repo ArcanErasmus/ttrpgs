@@ -1,10 +1,12 @@
 # Agitant
+The agitant is a class I came up with when in a party with a player who was running a very peculiar character: A multiclass bard/oracle with the Battle mystery, who really wanted to focus on sundering gear and objects. The player was not experienced with PF, nor had much interest in maximizing build utility, but didn't want to be left behind. After discussing what they actually wanted out of their progression, I decided to weave together a martial type with both bardic performance, and the oracle's mystery, to alleviate the incredible pains PF puts on multiclassers. As with most of my custom class design (which may or may not be posted here in the future), I lean heavily on the Rogue Genius Games system of martial archetype packages. To me, they represent not a way to trade class features for the martial packages, but the possibility of trading one class's features for another's. In the case of the agitant, I went with the Paladin as a chassis, dumping both of its archetype packages for Bard's performance, and Oracle's mysticism. The remaining Paladin features were sacrificed for Laborer's Wrath (which is the Warpriest's minor blessing from the Artifice domain at reduced daily usage), and more skill ranks. Additionally, some songs/abilities were drawn from a few bard archetypes: Arcane Duelist, Savage Skald, and Sound Striker. As a note, this was designed for a character taking the Battle mystery, so certain features may seem somewhat incongruous in other builds. If you wish to use this class for other purposes, consider looking at bard archetypes for songs more thematic to your character, or even oracle archetypes that trade revelations away. As for Laborer's Wrath, you could peruse other Warpriest minor blessings.
+
 ## Basic Information
+- Role: Agitants are capable frontliners that trade martial specialization for team utility both in and out of combat.
 - Alignment: any
 - Hit Die: d10
 - Starting Wealth: 3d6 × 10 gp (average 105 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
 - Class Skills: The agitant's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Heal (Wis), Intimidate (Cha), Knowledge (all) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis). In addition, agitants receive further class skills depending upon their agitant mystery.
-
 - Skill Ranks Per Level: 6 + Int modifier.
 
 ## Table: Agitant
@@ -132,3 +134,10 @@ At 12th level, the agitant can touch one melee weapon as a standard action to gr
 
 ### Final Revelation
 At 20th level, an agitant learns the final revelation about their mystery, granting them amazing powers and abilities. The nature of these bonuses depends upon the agitant’s mystery.
+
+
+TODO:
+- well-versed
+- dirge of doom
+- other songs?
+- favored class bonuses
