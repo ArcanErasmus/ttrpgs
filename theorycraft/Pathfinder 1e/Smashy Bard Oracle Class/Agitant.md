@@ -33,6 +33,78 @@ The agitant is a class I came up with when in a party with a player who was runn
 |  19 | +19/+14/+9/+4   | +11  | +6  | +11  | inspire competence +6
 |  20 | +20/+15/+10/+5  | +12  | +6  | +12  | final revelation
 
+## Table: Agitant
+| Lvl | BAB             | Fort | Ref | Will | Features
+|-----|-----------------|------|-----|------|-----------------------------------
+|   1 | +1              | +2   | +0  | +2   | rallying cry, ward, inspiring blow, inspire courage +1, agitantic performance, mystery, agitant's curse
+|   2 | +2              | +3   | +0  | +3   | versatile performance, well-versed, revelation
+|   3 | +3              | +3   | +1  | +3   | inspire competence +2
+|   4 | +4              | +4   | +1  | +4   | bladethirst, revelation
+|   5 | +5              | +4   | +1  | +4   | inspire courage +2
+|   6 | +6/+1           | +5   | +2  | +5   | versatile performance, weird words
+|   7 | +7/+2           | +5   | +2  | +5   | inspire competence +3
+|   8 | +8/+3           | +6   | +2  | +6   | <!-- dirge of doom -->, revelation
+|   9 | +9/+4           | +6   | +3  | +6   | inspire greatness
+|  10 | +10/+5          | +7   | +3  | +7   | versatile performance
+|  11 | +11/+6/+1       | +7   | +3  | +7   | inspire competence +4, inspire courage +3
+|  12 | +12/+7/+2       | +8   | +4  | +8   | laborer's wrath, revelation
+|  13 | +13/+8/+3       | +8   | +4  | +8   | berserkergang
+|  14 | +14/+9/+4       | +9   | +4  | +9   | <!-- versatile performance -->, healing performance
+|  15 | +15/+10/+5      | +9   | +5  | +9   | inspire competence +5, inspire heroics
+|  16 | +16/+11/+6/+1   | +10  | +5  | +10  | <!-- revelation -->
+|  17 | +17/+12/+7/+2   | +10  | +5  | +10  | inspire courage +4
+|  18 | +18/+13/+8/+3   | +11  | +6  | +11  | versatile performance, mass bladethirst
+|  19 | +19/+14/+9/+4   | +11  | +6  | +11  | <!-- inspire competence +6 -->
+|  20 | +20/+15/+10/+5  | +12  | +6  | +12  | final revelation
+
+- 
+- 
+- 
+- 
+
+ 1 | *rallying cry*, *ward*, *inspire courage +1*, *feat*, *performance*, *mystery*, *curse* |
+ 2 | *inspiring blow*, *revelation*                                                          | well-versed
+ 3 | *feat*, *versatile performance*, *laborer's wrath 2/day*                                |
+ 4 | *inspire competence +2*, *weird words 1*                                                |
+ 5 | *feat*                                                                                  | courage 2, wrath 3
+ 6 | *bladethirst +1*, *deep pockets*                                                        |
+ 7 | *feat*, *revelation*                                                                    | wrath 4
+ 8 | *versatile performance*                                                                 | words 2
+ 9 | *feat*, *live to tell the tale*                                                         | competence 3, bladethirst 2, wrath 5
+10 | *inspire greatness*, *improved aid*                                                     |
+11 | *feat*                                                                                  | courage 3, wrath 6
+12 | *berserkergang*, *revelation*                                                           | bladethirst 3, words 3
+13 | *feat*, *versatile performance*                                                         | wrath 7
+14 | *healing performance*                                                                   | competence 4
+15 | *feat*, *inspire action*                                                                | bladethirst 4, wrath 8
+16 | *inspire heroics*                                                                       | words 4
+17 | *feat*, *revelation*                                                                    | courage 4, wrath 9
+18 | *mass bladethirst*, *versatile performance*                                             | bladethirst 5
+19 | *feat*                                                                                  | competence 5, wrath 10
+20 | *final revelation*                                                                      | words 5
+
+ 1 || *rally* | *ward*  | *cour*  | *feat*  | *perf*  | *myst*  | *curse*
+
+ 2 || *blow*  | *revel* || well
+ 3 || *feat*  | *vers*  ||
+ 4 || *comp*  | *wrath* ||
+ 5 || *feat*  | *words* || cour 2
+ 6 || *blade* | *pockt* ||
+ 7 || *feat*  | *revel* ||
+ 8 || *vers*  |         || words 2
+ 9 || *feat*  | *live*  || comp 3
+10 || *great* | *aid*   || blade 2
+11 || *feat*  |         || cour 3
+12 || *zerk*  | *revel* || words 3
+13 || *feat*  | *vers*  || blade 3
+14 || *heal*  |         || comp 4
+15 || *feat*  | *act*   || blade 4
+16 || *hero*  |         || words 4
+17 || *feat*  | *revel* || cour 4
+18 || *mass*  | *vers*  || blade 5
+19 || *feat*  |         || comp 5
+20 || *final* |         || words 5
+
 ## Class Features
 All of the following are class features of the agitant.
 
@@ -57,8 +129,8 @@ List of Agitantic Performances:
 - Rallying Cry (Su)
 At 1st level, an agitant can use performance to rally dispirited allies. Each round they make an Intimidate check. Any ally (including the agitant) within 30 feet may use this check in place of their own saving throw against fear and despair effects. Those already under a fear or despair effect can attempt a new save each round using the agitant’s Intimidate check. Rallying cry does not work on effects that don’t allow saves. This is a mind-affecting ability that uses audible components.
 
-- Distraction (Su)
-At 1st level, an agitant can use their performance to counter magic effects that depend on sight. Each round of the Distraction, they makes a Perform (act, comedy, dance, or oratory) skill check. Any creature within 30 feet of the agitant (including the agitant themself) that is affected by an illusion (pattern) or illusion (figment) magical attack may use the agitant’s Perform check result in place of its saving throw if, after the saving throw is rolled, the Perform check result proves to be higher. If a creature within range of the Distraction is already under the effect of a non-instantaneous illusion (pattern) or illusion (figment) magical attack, it gains another saving throw against the effect each round it sees the Distraction, but it must use the agitant’s Perform check result for the save. Distraction does not work on effects that don’t allow saves. Distraction relies on visual components.
+- Ward (Sp)
+At 1st level, an agitant can use their performance to guard allies against evil influences. While an agitant uses this ability, everyone within 30 feet of the agitant benefit as if affected by *protection from evil* for the duration of the performance.
 
 - Inspiring Blow (Su)
 At 1st level, an agitant roars their war-cries with each telling blow. When they confirm a critical hit, they can start this performance as an immediate action (ending any other performances). They gain temporary hit points equal to their Charisma modifier (if positive), and all allies within 30 feet gain a +1 morale bonus on their next attack roll prior to the start of the agitant's next turn. These temporary hit points remain until the agitant ends their performance.
@@ -77,17 +149,17 @@ An agitant of 4th level or higher may use this performance to grant one weapon, 
 - Weird Words (Su)
 At 6th level the agitant can start a performance that is always a standard action to speak up to one word per 4 agitant levels laden with sonic energy. Each word deals 4d6 points of sonic damage as a ranged touch attack with a range of 30 feet. The agitant adds their charisma modifier on damage rolls with weird words. Multiple words that strike the same target stack into a single powerful attack, applying energy resistance and bonuses on damage rolls only once. The agitant can target all words at the same or different targets, but they unleash all words simultaneously. Each word costs 1 round of agitantic performance.
 
-- Dirge of Doom (Su)
+<!-- - Dirge of Doom (Su)
 An agitant of 8th level or higher can use their performance to foster a sense of growing dread in their enemies, causing them to take become shaken. To be affected, an enemy must be within 30 feet and able to see and hear the agitant’s performance. The effect persists for as long as the enemy is within 30 feet and the agitant continues the performance. The performance cannot cause a creature to become frightened or panicked, even if the targets are already shaken from another effect. Dirge of doom is a mind-affecting fear effect, and it relies on audible and visual components.
-
+ -->
 - Inspire Greatness (Su)
 An agitant of 9th level or higher can use their performance to inspire greatness in themself or a single willing ally within 30 feet, granting extra fighting capability. For every three levels an agitant attains beyond 9th, they can target one additional ally while using this performance (up to a maximum of four at 18th level). To inspire greatness, all of the targets must be able to see and hear the agitant. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target’s Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependent. Inspire greatness is a mind-affecting ability and it relies on audible and visual components.
 
 - Berserkergang (Ex)
 At 13th level, an agitant can inspire a rapturous battle trance that suppresses pain, stunning, and fear effects for one creature, plus one additional creature per three levels after 13th. Affected creatures also gain DR 5/— (DR 10/— against nonlethal damage); this benefit stacks with the damage reduction class ability of barbarians. This mind-affecting ability requires audible components.
 
-- Frightening Tune (Sp)
-An agitant of 14th level or higher can use their performance to cause fear in their enemies. To be affected, an enemy must be able to hear the agitant perform and be within 30 feet. Each enemy within range receives a Will save (DC 10 + 1/2 the agitant’s level + the agitant’s Cha modifier) to negate the effect. If the save succeeds, the creature is immune to this ability for 24 hours. If the save fails, the target becomes frightened and flees for as long as the target can hear the agitant’s performance. Frightening tune relies on audible components.
+- Healing Performance (Su)
+An agitant of 14th level or higher can use their performance to create an effect equivalent to heal on a living target (or harm on an undead target), using the agitant’s level as the caster level. Using this ability requires 5 rounds of continuous performance, and the target must be able to see and hear the agitant throughout the performance. The healing performance relies on audible and visual components.
 
 - Inspire Heroics (Su)
 An agitant of 15th level or higher can inspire tremendous heroism in themself or a single ally within 30 feet. For every three agitant levels the character attains beyond 15th, they can inspire heroics in one additional creature. To inspire heroics, all of the targets must be able to see and hear the agitant. Inspired creatures gain a +4 morale bonus on saving throws and a +4 dodge bonus to AC. The effect lasts for as long as the targets are able to witness the performance. Inspire heroics is a mind-affecting ability that relies on audible and visual components.
@@ -146,27 +218,7 @@ At 20th level, an agitant learns the final revelation about their mystery, grant
 - Reverie https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/radiance-house-bard-archetypes/soul-muse
 
 ## Songs
-Distraction
-- Ward https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/rite-publishing-bard-archetypes/moso
-
-Inspire Courage
-- Satire https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
-
-Inspire Competence
-- [Improved] https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/ringleader-bard-archetype
-
 Dirge of Doom
 - Glorious Epic https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
 - Scathing Tirade https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/diva
 - Maddening Harmonics https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/mute-musician-bard-archetype
-
-Inspire Greatness
-
-
-Frightening Tune
-- Scandal https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
-- Healing Performance https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/songhealer
-
-Inspire Heroics
-- Show Yourselves https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/detective
-- Ceaseless Performance https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/mute-musician-bard-archetype
