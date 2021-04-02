@@ -6,110 +6,38 @@ The agitant is a class I came up with when in a party with a player who was runn
 - Alignment: any
 - Hit Die: d10
 - Starting Wealth: 3d6 × 10 gp (average 105 gp.) In addition, each character begins play with an outfit worth 10 gp or less.
-- Class Skills: The agitant's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Heal (Wis), Intimidate (Cha), Knowledge (all) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis). In addition, agitants receive further class skills depending upon their agitant mystery.
+- Class Skills: The agitant's class skills are Acrobatics (Dex), Bluff (Cha), Climb (Str), Craft (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Heal (Wis), Intimidate (Cha), Knowledge (Engineering) (Int), Knowledge (Geography) (Int), Knowledge (History) (Int), Knowledge (Local) (Int), Perception (Wis), Perform (Cha), Profession (Wis), Sense Motive (Wis). In addition, agitants receive further class skills depending upon their agitant mystery.
 - Skill Ranks Per Level: 6 + Int modifier.
 
 ## Table: Agitant
 | Lvl | BAB             | Fort | Ref | Will | Features
 |-----|-----------------|------|-----|------|-----------------------------------
-|   1 | +1              | +2   | +0  | +2   | agitantic performance, rallying cry, distraction, inspiring blow, inspire courage +1, mystery, agitant's curse
-|   2 | +2              | +3   | +0  | +3   | versatile performance, well-versed, revelation
-|   3 | +3              | +3   | +1  | +3   | inspire competence +2
-|   4 | +4              | +4   | +1  | +4   | bladethirst, revelation
-|   5 | +5              | +4   | +1  | +4   | inspire courage +2
-|   6 | +6/+1           | +5   | +2  | +5   | versatile performance, weird words
-|   7 | +7/+2           | +5   | +2  | +5   | inspire competence +3
-|   8 | +8/+3           | +6   | +2  | +6   | dirge of doom, revelation
-|   9 | +9/+4           | +6   | +3  | +6   | inspire greatness
-|  10 | +10/+5          | +7   | +3  | +7   | versatile performance
-|  11 | +11/+6/+1       | +7   | +3  | +7   | inspire competence +4, inspire courage +3
-|  12 | +12/+7/+2       | +8   | +4  | +8   | laborer's wrath, revelation
-|  13 | +13/+8/+3       | +8   | +4  | +8   | berserkergang
-|  14 | +14/+9/+4       | +9   | +4  | +9   | versatile performance, frightening tune
-|  15 | +15/+10/+5      | +9   | +5  | +9   | inspire competence +5, inspire heroics
-|  16 | +16/+11/+6/+1   | +10  | +5  | +10  | revelation
-|  17 | +17/+12/+7/+2   | +10  | +5  | +10  | inspire courage +4
-|  18 | +18/+13/+8/+3   | +11  | +6  | +11  | versatile performance, mass bladethirst
-|  19 | +19/+14/+9/+4   | +11  | +6  | +11  | inspire competence +6
-|  20 | +20/+15/+10/+5  | +12  | +6  | +12  | final revelation
-
-## Table: Agitant
-| Lvl | BAB             | Fort | Ref | Will | Features
-|-----|-----------------|------|-----|------|-----------------------------------
-|   1 | +1              | +2   | +0  | +2   | rallying cry, ward, inspiring blow, inspire courage +1, agitantic performance, mystery, agitant's curse
-|   2 | +2              | +3   | +0  | +3   | versatile performance, well-versed, revelation
-|   3 | +3              | +3   | +1  | +3   | inspire competence +2
-|   4 | +4              | +4   | +1  | +4   | bladethirst, revelation
-|   5 | +5              | +4   | +1  | +4   | inspire courage +2
-|   6 | +6/+1           | +5   | +2  | +5   | versatile performance, weird words
-|   7 | +7/+2           | +5   | +2  | +5   | inspire competence +3
-|   8 | +8/+3           | +6   | +2  | +6   | <!-- dirge of doom -->, revelation
-|   9 | +9/+4           | +6   | +3  | +6   | inspire greatness
-|  10 | +10/+5          | +7   | +3  | +7   | versatile performance
-|  11 | +11/+6/+1       | +7   | +3  | +7   | inspire competence +4, inspire courage +3
-|  12 | +12/+7/+2       | +8   | +4  | +8   | laborer's wrath, revelation
-|  13 | +13/+8/+3       | +8   | +4  | +8   | berserkergang
-|  14 | +14/+9/+4       | +9   | +4  | +9   | <!-- versatile performance -->, healing performance
-|  15 | +15/+10/+5      | +9   | +5  | +9   | inspire competence +5, inspire heroics
-|  16 | +16/+11/+6/+1   | +10  | +5  | +10  | <!-- revelation -->
-|  17 | +17/+12/+7/+2   | +10  | +5  | +10  | inspire courage +4
-|  18 | +18/+13/+8/+3   | +11  | +6  | +11  | versatile performance, mass bladethirst
-|  19 | +19/+14/+9/+4   | +11  | +6  | +11  | <!-- inspire competence +6 -->
-|  20 | +20/+15/+10/+5  | +12  | +6  | +12  | final revelation
-
-- 
-- 
-- 
-- 
-
- 1 | *rallying cry*, *ward*, *inspire courage +1*, *feat*, *performance*, *mystery*, *curse* |
- 2 | *inspiring blow*, *revelation*                                                          | well-versed
- 3 | *feat*, *versatile performance*, *laborer's wrath 2/day*                                |
- 4 | *inspire competence +2*, *weird words 1*                                                |
- 5 | *feat*                                                                                  | courage 2, wrath 3
- 6 | *bladethirst +1*, *deep pockets*                                                        |
- 7 | *feat*, *revelation*                                                                    | wrath 4
- 8 | *versatile performance*                                                                 | words 2
- 9 | *feat*, *live to tell the tale*                                                         | competence 3, bladethirst 2, wrath 5
-10 | *inspire greatness*, *improved aid*                                                     |
-11 | *feat*                                                                                  | courage 3, wrath 6
-12 | *berserkergang*, *revelation*                                                           | bladethirst 3, words 3
-13 | *feat*, *versatile performance*                                                         | wrath 7
-14 | *healing performance*                                                                   | competence 4
-15 | *feat*, *inspire action*                                                                | bladethirst 4, wrath 8
-16 | *inspire heroics*                                                                       | words 4
-17 | *feat*, *revelation*                                                                    | courage 4, wrath 9
-18 | *mass bladethirst*, *versatile performance*                                             | bladethirst 5
-19 | *feat*                                                                                  | competence 5, wrath 10
-20 | *final revelation*                                                                      | words 5
-
- 1 || *rally* | *ward*  | *cour*  | *feat*  | *perf*  | *myst*  | *curse*
-
- 2 || *blow*  | *revel* || well
- 3 || *feat*  | *vers*  ||
- 4 || *comp*  | *wrath* ||
- 5 || *feat*  | *words* || cour 2
- 6 || *blade* | *pockt* ||
- 7 || *feat*  | *revel* ||
- 8 || *vers*  |         || words 2
- 9 || *feat*  | *live*  || comp 3
-10 || *great* | *aid*   || blade 2
-11 || *feat*  |         || cour 3
-12 || *zerk*  | *revel* || words 3
-13 || *feat*  | *vers*  || blade 3
-14 || *heal*  |         || comp 4
-15 || *feat*  | *act*   || blade 4
-16 || *hero*  |         || words 4
-17 || *feat*  | *revel* || cour 4
-18 || *mass*  | *vers*  || blade 5
-19 || *feat*  |         || comp 5
-20 || *final* |         || words 5
+|   1 |  +1             | +2   | +0  | +2   | agitantic performance, rallying cry, ward, inspire courage +1, mystery, agitant's curse
+|   2 |  +2             | +3   | +0  | +3   | inspiring blow, revelation
+|   3 |  +3             | +3   | +1  | +3   | versatile performance, dauntless
+|   4 |  +4             | +4   | +1  | +4   | laborer's wrath, inspire competence +2
+|   5 |  +5             | +4   | +1  | +4   | weird words 1, inspire courage +2
+|   6 |  +6/ +1         | +5   | +2  | +5   | bladethirst +1, deep pockets
+|   7 |  +7/ +2         | +5   | +2  | +5   | revelation
+|   8 |  +8/ +3         | +6   | +2  | +6   | versatile performance, weird words 2
+|   9 |  +9/ +4         | +6   | +3  | +6   | live to tell the tale, inspire competence +3
+|  10 | +10/ +5         | +7   | +3  | +7   | inspire greatness, improved aid, bladethirst +2
+|  11 | +11/ +6/ +1     | +7   | +3  | +7   | inspire courage +3
+|  12 | +12/ +7/ +2     | +8   | +4  | +8   | berserkergang, revelation, weird words 3
+|  13 | +13/ +8/ +3     | +8   | +4  | +8   | versatile performance, bladethist +3
+|  14 | +14/ +9/ +4     | +9   | +4  | +9   | healing tune, inspire competence +4
+|  15 | +15/+10/ +5     | +9   | +5  | +9   | inspire action, bladethirst +4
+|  16 | +16/+11/ +6/ +1 | +10  | +5  | +10  | inspire heroics, weird words 4
+|  17 | +17/+12/ +7/ +2 | +10  | +5  | +10  | revelation, inspire courage +4
+|  18 | +18/+13/ +8/ +3 | +11  | +6  | +11  | mass bladethirst, versatile performance, bladethirst +5
+|  19 | +19/+14/ +9/ +4 | +11  | +6  | +11  | inspire competence +5
+|  20 | +20/+15/+10/ +5 | +12  | +6  | +12  | final revelation, weird words 5
 
 ## Class Features
 All of the following are class features of the agitant.
 
 ### Weapon and Armor Proficiency
-Agitants are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+Agitants are proficient with all simple and martial weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields).
 
 ### Agitantic Performance
 An agitant is trained to use the Perform skill to create magical effects on those around them, including themself if desired. They can use this ability for a number of rounds per day equal to 4 + their Charisma modifier. At each level after 1st an agitant can use agitantic performance for 2 additional rounds per day. Each round, the agitant can produce any one of the types of agitantic performance that they has mastered, as indicated by their level.
@@ -130,39 +58,36 @@ List of Agitantic Performances:
 At 1st level, an agitant can use performance to rally dispirited allies. Each round they make an Intimidate check. Any ally (including the agitant) within 30 feet may use this check in place of their own saving throw against fear and despair effects. Those already under a fear or despair effect can attempt a new save each round using the agitant’s Intimidate check. Rallying cry does not work on effects that don’t allow saves. This is a mind-affecting ability that uses audible components.
 
 - Ward (Sp)
-At 1st level, an agitant can use their performance to guard allies against evil influences. While an agitant uses this ability, everyone within 30 feet of the agitant benefit as if affected by *protection from evil* for the duration of the performance.
-
-- Inspiring Blow (Su)
-At 1st level, an agitant roars their war-cries with each telling blow. When they confirm a critical hit, they can start this performance as an immediate action (ending any other performances). They gain temporary hit points equal to their Charisma modifier (if positive), and all allies within 30 feet gain a +1 morale bonus on their next attack roll prior to the start of the agitant's next turn. These temporary hit points remain until the agitant ends their performance.
+At 1st level, an agitant can use their performance to guard allies against evil influences. While an agitant uses this ability, everyone within 30 feet of the agitant benefit as if affected by *protection from evil* for the duration of the performance. Ward uses audible components.
 
 - Inspire Courage (Su)
 A 1st level agitant can use their performance to inspire courage in their allies (including themself), bolstering them against fear and improving their combat abilities. To be affected, an ally must be able to perceive the agitant’s performance. An affected ally receives a +1 morale bonus on saving throws against charm and fear effects and a +1 competence bonus on attack and weapon damage rolls. At 5th level, and every six agitant levels thereafter, this bonus increases by +1, to a maximum of +4 at 17th level. Inspire courage is a mind-affecting ability. inspire courage can use audible or visual components. The agitant must choose which component to use when starting their performance.
 
+- Inspiring Blow (Su)
+At 2nd level, an agitant roars their war-cries with each telling blow. When they confirm a critical hit, they can start this performance as an immediate action (ending any other performances). They gain temporary hit points equal to their Charisma modifier (if positive), and all allies within 30 feet gain a +1 morale bonus on their next attack roll prior to the start of the agitant's next turn. These temporary hit points remain until the agitant ends their performance.
+
 - Inspire Competence (Su)
-An agitant of 3rd level or higher can use their performance to help an ally succeed at a task. The ally must be within 30 feet and able to see and hear the agitant. The ally gets a +2 competence bonus on skill checks with a particular skill as long as she continues to hear the agitant’s performance. This bonus increases by +1 for every four levels the agitant has attained beyond 3rd (+3 at 7th, +4 at 11th, +5 at 15th, and +6 at 19th).
+An agitant of 4th level or higher can use their performance to help an ally succeed at a task. The ally must be within 30 feet and able to see and hear the agitant. The ally gets a +2 competence bonus on skill checks with a particular skill as long as she continues to hear the agitant’s performance. This bonus increases by +1 for every five levels the agitant has attained beyond 4th (+3 at 9th, +4 at 14th, and +5 at 19th).
 
 Certain uses of this ability are infeasible, such as Stealth, and may be disallowed at the GM’s discretion. An agitant can’t inspire competence in themself. Inspire competence relies on audible components.
 
-- Bladethirst (Su)
-An agitant of 4th level or higher may use this performance to grant one weapon, one natural weapon, one end of a double weapon, or 50 items of ammunition of the same type within 30 feet a +1 enhancement bonus. This enhancement bonus increases by +1 for every three levels after 6th (maximum +5 at 18th level). These bonuses stack with existing bonuses and may be used to increase the item’s enhancement bonus up to +5 or to add any of the following weapon properties: defending, distance, ghost touch, keen, mighty cleaving, returning, shock, shocking burst, seeking, speed, or wounding. If the weapon is not magical, at least a +1 enhancement bonus must be added before adding special abilities.
-
 - Weird Words (Su)
-At 6th level the agitant can start a performance that is always a standard action to speak up to one word per 4 agitant levels laden with sonic energy. Each word deals 4d6 points of sonic damage as a ranged touch attack with a range of 30 feet. The agitant adds their charisma modifier on damage rolls with weird words. Multiple words that strike the same target stack into a single powerful attack, applying energy resistance and bonuses on damage rolls only once. The agitant can target all words at the same or different targets, but they unleash all words simultaneously. Each word costs 1 round of agitantic performance.
+At 5th level the agitant can start a performance that is always a standard action to speak up to one word per 4 agitant levels laden with sonic energy. Each word deals 4d6 points of sonic damage as a ranged touch attack with a range of 30 feet. The agitant adds their charisma modifier on damage rolls with weird words. Multiple words that strike the same target stack into a single powerful attack, applying energy resistance and bonuses on damage rolls only once. The agitant can target all words at the same or different targets, but they unleash all words simultaneously. Each word costs 1 round of agitantic performance.
 
-<!-- - Dirge of Doom (Su)
-An agitant of 8th level or higher can use their performance to foster a sense of growing dread in their enemies, causing them to take become shaken. To be affected, an enemy must be within 30 feet and able to see and hear the agitant’s performance. The effect persists for as long as the enemy is within 30 feet and the agitant continues the performance. The performance cannot cause a creature to become frightened or panicked, even if the targets are already shaken from another effect. Dirge of doom is a mind-affecting fear effect, and it relies on audible and visual components.
- -->
+- Bladethirst (Su)
+An agitant of 6th level or higher may use this performance to grant one weapon, one natural weapon, one end of a double weapon, or 50 items of ammunition of the same type within 30 feet a +1 enhancement bonus. This enhancement bonus increases to +2 at 6th level, +3 at 10th level, +4 at 15th level, and +5 at 18th level. These bonuses stack with existing bonuses and may be used to increase the item’s enhancement bonus up to +5 or to add any of the following weapon properties: defending, distance, ghost touch, keen, mighty cleaving, returning, shock, shocking burst, seeking, speed, or wounding. If the weapon is not magical, at least a +1 enhancement bonus must be added before adding special abilities.
+
 - Inspire Greatness (Su)
-An agitant of 9th level or higher can use their performance to inspire greatness in themself or a single willing ally within 30 feet, granting extra fighting capability. For every three levels an agitant attains beyond 9th, they can target one additional ally while using this performance (up to a maximum of four at 18th level). To inspire greatness, all of the targets must be able to see and hear the agitant. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target’s Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependent. Inspire greatness is a mind-affecting ability and it relies on audible and visual components.
+An agitant of 10th level or higher can use their performance to inspire greatness in themself or a single willing ally within 30 feet, granting extra fighting capability. For every three levels an agitant attains beyond 10th, they can target one additional ally while using this performance (up to a maximum of four at 19th level). To inspire greatness, all of the targets must be able to see and hear the agitant. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target’s Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependent. Inspire greatness is a mind-affecting ability and it relies on audible and visual components.
 
 - Berserkergang (Ex)
-At 13th level, an agitant can inspire a rapturous battle trance that suppresses pain, stunning, and fear effects for one creature, plus one additional creature per three levels after 13th. Affected creatures also gain DR 5/— (DR 10/— against nonlethal damage); this benefit stacks with the damage reduction class ability of barbarians. This mind-affecting ability requires audible components.
+At 12th level, an agitant can inspire a rapturous battle trance that suppresses pain, stunning, and fear effects for one creature, plus one additional creature per three levels after 12th. Affected creatures also gain DR 5/— (DR 10/— against nonlethal damage); this benefit stacks with the damage reduction class ability of barbarians. This mind-affecting ability requires audible components.
 
-- Healing Performance (Su)
-An agitant of 14th level or higher can use their performance to create an effect equivalent to heal on a living target (or harm on an undead target), using the agitant’s level as the caster level. Using this ability requires 5 rounds of continuous performance, and the target must be able to see and hear the agitant throughout the performance. The healing performance relies on audible and visual components.
+- Healing Tune (Su)
+An agitant of 14th level or higher can use their performance to create an effect equivalent to heal on a living target (or harm on an undead target), using the agitant’s level as the caster level. Using this ability requires 5 rounds of continuous performance, and the target must be able to see and hear the agitant throughout the performance. Healing tune relies on audible and visual components.
 
 - Inspire Heroics (Su)
-An agitant of 15th level or higher can inspire tremendous heroism in themself or a single ally within 30 feet. For every three agitant levels the character attains beyond 15th, they can inspire heroics in one additional creature. To inspire heroics, all of the targets must be able to see and hear the agitant. Inspired creatures gain a +4 morale bonus on saving throws and a +4 dodge bonus to AC. The effect lasts for as long as the targets are able to witness the performance. Inspire heroics is a mind-affecting ability that relies on audible and visual components.
+An agitant of 16th level or higher can inspire tremendous heroism in themself or a single ally within 30 feet. For every three agitant levels the character attains beyond 16th, they can inspire heroics in one additional creature. To inspire heroics, all of the targets must be able to see and hear the agitant. Inspired creatures gain a +4 morale bonus on saving throws and a +4 dodge bonus to AC. The effect lasts for as long as the targets are able to witness the performance. Inspire heroics is a mind-affecting ability that relies on audible and visual components.
 
 - Mass Bladethirst (Su)
 An agitant of 18th level or higher can use their bladethirst performance to enhance the weapons of as many allies as desired within 30 feet. The bonus provided by this power is +4 if conferred on two allies, +3 for three allies, +2 for four allies, and +1 for five or more allies. The power granted to each weapon must be identical.
@@ -173,16 +98,16 @@ Each agitant draws upon a divine mystery to grant them additional class skills a
 ### Agitant's Curse (Ex)
 Each agitant is cursed, but this curse comes with a benefit as well as a hindrance. This choice is made at 1st level, and once made, it cannot be changed. The agitant’s curse cannot be removed or dispelled without the aid of a deity. An agitant’s curse is based on their agitant level plus one for every two levels or Hit Dice other than agitant. Each agitant must choose one of the following curses.
 
-https://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses
+- https://www.d20pfsrd.com/classes/base-classes/oracle/oracle-curses
 
 ### Versatile Performance (Ex)
-At 2nd level, an agitant can choose one type of Perform skill. They can use their bonus in that skill in place of their bonus in associated skills. When substituting in this way, the agitant uses their total Perform skill bonus, including class skill bonus, in place of its associated skill’s bonus, whether or not they has ranks in that skill or if it is a class skill. At 6th level, and every 4 levels thereafter, the agitant can select an additional type of Perform to substitute.
+At 3nd, 8th, 13th, and 18th level, an agitant can choose one type of Perform skill. They can use their bonus in that skill in place of their bonus in associated skills. When substituting in this way, the agitant uses their total Perform skill bonus, including class skill bonus, in place of its associated skill’s bonus, whether or not they has ranks in that skill or if it is a class skill.
 
 The types of Perform and their associated skills are: Act (Bluff, Disguise), Comedy (Bluff, Intimidate), Dance (Acrobatics, Fly), Keyboard Instruments (Diplomacy, Intimidate), Oratory (Diplomacy, Sense Motive), Percussion (Handle Animal, Intimidate), Sing (Bluff, Sense Motive), String (Bluff, Diplomacy), and Wind (Diplomacy, Handle Animal).
 
 Advanced Versatile Performances
 
-Beginning at 6th level, instead of selecting an additional skill with versatile performance, an agitant can choose an advanced versatile performance for one Perform skill they previously selected with versatile performance. Some advanced versatile performance options can be selected only if the agitant meets the option’s prerequisites.
+Beginning at 8th level, instead of selecting an additional skill with versatile performance, an agitant can choose an advanced versatile performance for one Perform skill they previously selected with versatile performance. Some advanced versatile performance options can be selected only if the agitant meets the option’s prerequisites.
 
 - Expanded Versatility (Ex)
 The agitant chooses one Perform skill that they has already selected with versatile performance. They adds one of the following skills to the list of skills that are associated with the chosen Perform skill for the purpose of the versatile performance ability: Bluff, Diplomacy, Disguise, Escape Artist, Handle Animal, Intimidate, Sense Motive, or Use Magic Device. This option can be selected multiple times, but no skill can be associated with the same Perform skill more than once.
@@ -193,32 +118,32 @@ The agitant chooses one weapon belonging to a fighter weapon group that is assoc
 - Masterpiece
 The agitant gains an agitantic masterpiece, as if they were giving up a feat to learn it. They must meet the masterpiece’s prerequisites, and the masterpiece must list ranks in a Perform skill that the agitant has chosen with versatile performance as a prerequisite. This option can be selected multiple times.
 
-### Well-Versed (Ex)
-At 2nd level, the agitant becomes resistant to the agitantic performance of others, and to sonic effects in general. The agitant gains a +4 bonus on saving throws made against agitantic performance, sonic, and language-dependent effects.
+### Dauntless (Ex)
+At 3rd level, the agitant gains a +1 morale bonus on saving throws against mind-affecting effects, including all fear effects. This bonus increases by +1 for every four levels gained after 3rd level, to a maximum of +5 at 19th level.
 
 ### Revelation
-At 2nd, 4th, 8th, 12th, and 16th level, an agitant uncovers a new secret about their mystery that grants them powers and abilities. The agitant must select a revelation from the list of revelations available to their mystery. If a revelation is chosen at a later level, the agitant gains all of the abilities and bonuses granted by that revelation based on their current level. Unless otherwise noted, activating the power of a revelation is a standard action.
+At 2nd, 7th, 12th, and 17th level, an agitant uncovers a new secret about their mystery that grants them powers and abilities. The agitant must select a revelation from the list of revelations available to their mystery. If a revelation is chosen at a later level, the agitant gains all of the abilities and bonuses granted by that revelation based on their current level. Unless otherwise noted, activating the power of a revelation is a standard action.
 
 Unless otherwise noted, the DC to save against these revelations is equal to 10 + 1/2 the agitant’s level + the agitant’s Charisma modifier.
 
 ### Laborer's Wrath (Su)
-At 12th level, the agitant can touch one melee weapon as a standard action to grant it greater power to harm and destroy crafted objects. For 1 minute, whenever this weapon deals damage to constructs or objects, it bypasses hardness and damage reduction. You can use this ability a number of times per day equal to 1/2 your agitant level (to a maximum of 10 times at 20th level).
+At 4th level, the agitant can touch one melee weapon as a standard action to grant it greater power to harm and destroy crafted objects. For 1 minute, whenever this weapon deals damage to constructs or objects, it bypasses hardness and damage reduction. You can use this ability a number of times per day equal to 1/2 your agitant level (to a maximum of 10 times at 20th level).
+
+### Deep Pockets (Ex)
+An agitant collects items as well as songs, picking up small amounts of this or that throughout their travels. As a result, starting at 6th level, they may carry unspecified equipment worth up to 50 gp per class level. This can be any kind of gear that can reasonably fit into a backpack, including potions and scrolls (but not any other sort of magic item). As a full-round action, the agitant may dig through their pockets to retrieve an item they specify at that time, deducting its value from their deep pockets pool. This item cannot weigh more than 10 pounds. When the total remaining cost reaches 0, the agitant can retrieve no more items until they refill their deep pockets pool by spending a few hours and an amount of gold to bring their total up to 50 gp per class level.
+
+In addition, if they take 1 hour to pack their gear each day, they gain a +4 bonus to Strength to determine their medium encumbrance. This does not affect their maximum carrying capacity. The efficient distribution of weight simply encumbers them less than the same amount of weight normally should. **Finally, the agitant gains a +4 bonus on Sleight of Hand checks made to conceal small objects on their person.**
+
+### Live to Tell the Tale (Ex)
+At 9th level, once per day per two four class levels, an agitant can attempt a new saving throw against any ongoing condition against which she failed a saving throw in a previous round, even if the effect is normally permanent. This ability has no effect on conditions that do not allow saving throws or against instantaneous effects.
+
+### Improved Aid (Ex)
+Agitants frequently serve in the company of other heroes, standing by their sides and lending a crucial helping hand. Starting at 10th level, an agitant using the aid another action grants a +4 bonus, rather than the normal +2.
+
+### Inspire Action (Su)
+As a special use of bardic music, a 15th-level agitant can exhort any one ally within hearing to a sudden surge of action, allowing them to immediately take an extra move action. This does not count against the ally's number of actions on their own turn.
+
+At 18th level, they can enable an ally to immediately take a standard action instead.
 
 ### Final Revelation
 At 20th level, an agitant learns the final revelation about their mystery, granting them amazing powers and abilities. The nature of these bonuses depends upon the agitant’s mystery.
-
-
-# Possible Replacements
-## Well-Versed
-- Intuition https://www.sites.google.com/site/pathfinderogc/classes/core-classes/bard/archetypes/icosa-entertainment-llc/gypsy-bard-archetype
-- Uncanny Dodge https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/archaeologist
-- Dauntless https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/daredevil
-- Haunted Eyes https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/dirge-bard
-- Evasion https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/juggler-bard-archetype
-- Reverie https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/radiance-house-bard-archetypes/soul-muse
-
-## Songs
-Dirge of Doom
-- Glorious Epic https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/court-bard
-- Scathing Tirade https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/diva
-- Maddening Harmonics https://www.d20pfsrd.com/classes/core-classes/bard/archetypes/paizo-bard-archetypes/mute-musician-bard-archetype
