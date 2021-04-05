@@ -135,13 +135,13 @@ An agitant collects items as well as songs, picking up small amounts of this or 
 In addition, if they take 1 hour to pack their gear each day, they gain a +4 bonus to Strength to determine their medium encumbrance. This does not affect their maximum carrying capacity. The efficient distribution of weight simply encumbers them less than the same amount of weight normally should. Finally, the agitant can prepare, as a full-round action, an instrument to be drawn quickly. The next time the instrument is retrieved from the agitant's inventory, it can be done so as a swift action, or as a free action as part of starting a performance.
 
 ### Live to Tell the Tale (Ex)
-At 9th level, once per day per two four class levels, an agitant can attempt a new saving throw against any ongoing condition against which she failed a saving throw in a previous round, even if the effect is normally permanent. This ability has no effect on conditions that do not allow saving throws or against instantaneous effects.
+At 9th level, once per day per four class levels, an agitant can attempt a new saving throw against any ongoing condition against which she failed a saving throw in a previous round, even if the effect is normally permanent. This ability has no effect on conditions that do not allow saving throws or against instantaneous effects.
 
 ### Improved Aid (Ex)
 Agitants frequently serve in the company of other heroes, standing by their sides and lending a crucial helping hand. Starting at 10th level, an agitant using the aid another action grants a +4 bonus, rather than the normal +2.
 
 ### Inspire Action (Su)
-As a special use of bardic music, a 15th-level agitant can exhort any one ally within hearing to a sudden surge of action, allowing them to immediately take an extra move action. This does not count against the ally's number of actions on their own turn.
+As a special use of agitantic music, a 15th-level agitant can exhort any one ally within hearing to a sudden surge of action, allowing them to immediately take an extra move action. This does not count against the ally's number of actions on their own turn.
 
 At 18th level, they can enable an ally to immediately take a standard action instead.
 
