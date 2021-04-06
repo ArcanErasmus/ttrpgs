@@ -11,7 +11,7 @@
 | **Weapons**              |        |
 |--------------------------|        |--------------------------------
 | Dart (10)                |   2.5  |
-| Fishing Spear            |   3    |
+| Fishing Spear            |   3    | with *Continual Flame*
 | Net                      |   3    |
 | Wooden Shield            |   6    |
 |--------------------------|        |--------------------------------
@@ -32,12 +32,15 @@
 | **Consumables**          |        |
 |--------------------------|        |--------------------------------
 | Day's Rations (5)        |  10    |
-| Vial of Pheremones       |        |
+| Pheremone Vial           |        |
+| Pheremone Sludge (5)     |        |
+| Torch (10)               |  10    |
+| Vial of Spindler Blood   |        | 12oz each
 | Waterskin (2)            |  10    | 1 lb empty
 |--------------------------|        |--------------------------------
-| **Coins**                |   0.2  | 4op 3gp 0ep 3sp 0cp
+| **Coins**                |   0.2  | 0cp 3sp 0ep 3gp 0pp
 |--------------------------|        |--------------------------------
-| **Total**                | 114.7  | Under cap
+| **Total**                | 130.6  | Under cap
 
 ## Carrying Capacity
 | Load      | lbs    | Penalties
