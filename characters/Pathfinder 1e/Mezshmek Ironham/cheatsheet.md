@@ -76,33 +76,15 @@
 | Item (Personal Inventory)              | CL | Num | Notes
 |----------------------------------------|----|-----|-------
 | Wand of *Shocking Grasp*               |  5 |  37 |
-| Wand of *Cure Light Wounds*            |  1 |  31 |
-| Wand of *Detect Chaos*                 |  1 |  10 |
+| Wand of *Cure Light Wounds*            |  1 |  28 |
+| Wand of *Detect Chaos*                 |  1 |   9 |
 | Scroll of *Breath of Life*             | 11 |   1 |
-| Scroll of *Animal Purpose Training*    |  1 |   1 | wand option
-| Scroll of *Build Trust*                |  1 |   1 | wand option
-| Scroll of *Celestial Companion*        |  1 |   1 | wand option
-| Scroll of *Conditional Favor*          |  1 |   1 | wand option
-| Scroll of *Ghostbane Dirge*            |  1 |   1 | wand option
-| Scroll of *Grace*                      |  1 |   1 | wand option
-| Scroll of *Fallback Strategy*          |  1 |   1 |
-| Scroll of *Huntmaster's Spear*         |  1 |   1 | wand option
-| Scroll of *Inner Focus*                |  1 |   1 | wand option
-| Scroll of *Know Peerage*               |  1 |   1 | wand option
-| Scroll of *Litany of Duty*             |  1 |   1 | wand option
-| Scroll of *Litany of the Red Crusader* |  1 |   1 | wand option
-| Scroll of *Mending*                    |  1 |   7 | scrap
-| Scroll of *Shield of Fortification*    |  1 |   1 | wand option
-| Scroll of *Watchful Eye*               |  1 |   1 | wand option
-| Scroll of *Stalwart Resolve*           |  1 |   1 | wand option
-| Scroll of *Tactical Acumen*            |  1 |   1 | wand option
-| Scroll of *Vomit Swarm*                |  4 |   1 | scrap
+| Scroll of *Dispel Chaos*               |  9 |   1 |
 |----------------------------------------|----|-----|-------
 | Item (Party Loot Pool)                 | CL | Num |
 |----------------------------------------|----|-----|-------
 | *Oil of Alchemist's Fire*              |    |   4 |
 | *Tanglefoot Bag*                       |    |   1 |
-| Potion of *Cure Moderate Wounds*       |  3 |   8 |
 |----------------------------------------|----|-----|-------
 
 ## Akundol, Valet familiar archetype, Arcane bloodline familiar
@@ -180,12 +162,16 @@
 ### At Your Fingertips
 - 100+ wand castings of same spell
 - *Shocking Grasp*: 13
-- *Cure Light Wounds*: 16
+- *Cure Light Wounds*: 19
+- *Detect Chaos*: 1
 
 ### Ingrained Casting
 - 25+ scroll castings of same spell
 - *Breath of Life*: 1
 - *Healing Flames*: 1
+- *Speak with Dead*: 1
+- *Heroes' Feast*: 1
+- *Dispel Chaos*: 5
 
 ### Master Alchemist
 - Kill 10+ creatures with self-made alchemical weapons

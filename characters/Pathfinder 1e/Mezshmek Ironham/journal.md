@@ -111,10 +111,13 @@
             - Office had a very powerful anti-non-lawful trapped floor slab, hiding a bundle of papers and wand of detect chaos
             - Papers written by Professor Qinran
             - Crawlspace containing stoneworking tools
+        - All floors cleared out
+            - Research material: Papers written by Professor Qinran
+            - Research material: Journal written by Thelsing
+            - Corpse of Thelsing, could *speak with dead*
 
 - Goal: Head to Na'macui to clear out Beastmark
 - Boats: The Rosabella, The Storm Viper
-
 
 1. we want to get to the Asylum in the Dead Sector
 2. to research the Beastmark, we want to search the Stellar Collegium for help
@@ -129,6 +132,29 @@
     - Order worshipped one of The Eldest, a Fey demigod
 6. Research anti-possession
     - *detect charm*
+7. Research on Beastmark from Asylum notes
+    - Infected detect as Chaotic
+    - Infected shift toward CE alignment
+    - Acting with cruelty and violence speeds up incubation time
+    - Spiritual parasite, not virus, spreads even before full transformation
+    - Cure: Simultaneous cast of *Cure Disease* and *Dispel Chaos*
+    - Fully turned creatures are effectively dead
+    - Beastmarked have their consciousness fully overridden
+    - The Beastmark is spread through witnessing infected engage in acts of grevious violence or cruelty
+8. Questions post-research
+    1. Given that there must be some paper trail for your procurement of spell scrolls and other specific research materials, why do the Songbirds not seem to know much about your progress and results?
+        - `We procured a lot of things, most of them dead ends`
+    2. Where could we go to cut off the source of the Beastmark?
+        - `Where it started`
+    3. Who or what else could we find who could give us useful information that we don't have relating the Beast-Mark?
+        - `The person who made it`
+    4. Where are the scrolls of *Dispel Chaos* and *Cure Disease* that you had procured?
+        - `The fifth floor`
+    5. Who made the Beast-Mark?
+        - `Someone with a great deal of resources and mystical ability`
+    6. What question about the Beast-Mark do you most wish you had been able to investigate?
+        - `What do the infected worship?`
+9. full plate, tailored for gnoll, no makers mark (remember 30 on craft armor to identify) (could look into materials/tools needed, look into shipping, to see who could have made)
 
 ### Archive
 - ?
@@ -197,6 +223,16 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
 - Description: This clear glass charm takes the shape of a coffin 2 inches in length. If the bearer of this charm dies, it immediately digs slightly into the owner's flesh (harmlessly), and begins glowing a ghostly green. The bearer's body is immediately affected as *gentle repose*, protecting their corpse from decay for 3 days. At the end of this period, or if the charm is removed from the body (requiring a DC 10 Strength check), or if the bearer is revived, it loses all magic and turns to ash.
 - Requirements: Craft Wondrous Item, *gentle repose*, *deathwatch*
 - Cost: 300 gp
+
+### Anchor of Orderly Souls
+- Aura: faint abjuration
+- CL: 1
+- Slot: chest
+- Weight: 5 lbs
+- Price: 3000 gp
+- Description: A slew of leather straps secures a light gray octagonal runic wardstone at the front, which pulses a faint blue when worn. The stone has gold and silver sigils inlaid in its outward face. The wearer is immune to possession or mental control effects that are chaotic in nature, or originate from a chaotic source.
+- Requirements: Craft Wondrous Item, *protection from chaos*
+- Cost: 1500 gp
 
 # Ship stuff
 - Rosabella: Gargantuan
