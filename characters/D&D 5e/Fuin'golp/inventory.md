@@ -38,7 +38,7 @@
 | Vial of Spindler Blood   |        | 12oz each
 | Waterskin (2)            |  10    | 1 lb empty
 |--------------------------|        |--------------------------------
-| **Coins**                |   0.2  | 0cp 3sp 0ep 3gp 0pp
+| **Coins**                |   0.2  | 0cp 3sp 1ep 9gp 36op
 |--------------------------|        |--------------------------------
 | **Total**                | 130.6  | Under cap
 
@@ -53,3 +53,4 @@
 
 
 ## Loot Table
+- 1 uncommon magic item from the Inquisition's Vaule

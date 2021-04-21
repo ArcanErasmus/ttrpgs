@@ -92,8 +92,11 @@ Shopping list:
 |-------|-|----------|---------------------
 | Bonds   | Stress
 |---------|--------------------------------
-| Zikonna
+| Nancy
+| Percy Three-Hundred-Years-Before-The-Fall
 | Phalqa
+| Santiago
+| Zikonna
 |------------------------------------------
 | Refresh
 |------------------------------------------
