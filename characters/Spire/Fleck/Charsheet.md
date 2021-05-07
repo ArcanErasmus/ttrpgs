@@ -225,3 +225,6 @@ The Rite of Sagacity: It's easy to believe society sits balanced on the tip of a
 --- A Long Process Culminates in Delicious Bottled Beverages ---
 **Ingesting Phalqa's witch-blood and passing the disease to Nancy**
 **Actions taken before joining the group at the courthouse**
+
+## Epilogue
+- Fell into the Heart! *Jazz Hands*

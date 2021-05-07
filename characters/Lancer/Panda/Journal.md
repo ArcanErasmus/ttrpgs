@@ -178,3 +178,38 @@ Pilot Gear:
 - Side options
     - Bar?
     - Mech printer (don't forget Nat!)
+
+## Session 2
+### Personnel Log
+- Castor Fielding, He/Him
+    - Chief Engineer
+- D-0P10 [Duplo], It/Its
+    - Construction Subaltern
+- Colonel Steaphen [Davenriche] Fick, He/Him
+    - Davenriche Regiment of Foot and Lance
+- Dr. Eku Marricado, She/Her
+    - Jacob Merrick's niece, biologist
+- Psalm, "Fuck/You"
+    - "Someone has seen too much"
+
+### Preparations for Our First Foray
+- Print Shop, Ozone and Motor Oil
+    - Metal printout of a swan, perfect for harassing C with
+    - Had a basically-date with Nat
+    - Wired/welded Dopey into NMG's blister mg
+- Militia Armory, Currently Understocked
+    - T has a scene with Ed-Finity
+    - She acquired weird lore and a crappy slasher movie
+- Down the Well, Best Bar in Town
+    - C has a scene with Merrick and Dr Marricado
+    - We might have a side mission to lend a hand to Merricktown
+
+### Sniper Hunt
+- Mission Objectives
+    - Primary: Kill the sniper
+        - Mech: "Trapdoor Spider"
+        - Pilot: "Venom"
+    - Secondary: Rescue any surviving Evergreen Militia
+        - ?/10 recovered (target: 3+)
+    - Secondary: Take the sniper alive
+        - With a melee or improvised weapon, deal the finishing blow while it is Stunned, Immobilized, or Prone

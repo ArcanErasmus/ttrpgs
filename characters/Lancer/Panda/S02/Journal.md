@@ -1,0 +1,51 @@
+# Pilot's Log, Tarsilyle Panderosa
+## Session 0
+- Royal Agarthian Star Alliance
+    - Carcosan Penitent Legions, pirates attacking royals. As part of the Union relief force, a team of [Panda, Tempo, combat engineer Apex] have been sent on board the support cruiser UNS Belinda. Princess Arsinoe Agartha and her crew of Lancers ventured out to a civilian zone to provide cover for evacuees. Researcher Leto requested to join us. Sassy royal? Swan arrives on the scene
+    - Encounter with CPL pirates
+    - Underground nuclear detonation nearby
+- Combat
+    - Tempo went HAM until her mech melted down
+    - Leto saved some NHP box instead of the princess (though all isn't lost! we can just get her clone data)
+- Recon Log
+    - Apex, Combat engineer
+        - Adjacent allies get advantage on all mech save/skills
+        - Restock drone, one-use +5
+    - Bloodshield, Heavy Controller/Defender
+        - Size 2, 1 Ar, GRUNT, 8 Ev, 8 ED
+        - Maul Fist, can knock targets prone
+        - Hydraulic Claw
+        - Shoulder Charge
+        - Spiked Shield: Can block with shield to gain resistance and deal 2 AP retaliation damage
+        - Go Down Swinging: Melee attack in death throes
+    - Gunslave
+        - Size 1, 13 HP
+        - Moves in synchronicity with identical buddy
+        - Reaction: Take hit for ally
+        - Explosive canisters: Suicide bomb
+        - Machinegun with large mag but no reload
+        - Shield in off-hand
+        - Panic Fire: 
+    - ? (Tank)
+        - Size 1
+        - Big main cannon, dealt 10 AP explosive
+    - Hwacha (Missile Tank)
+        - Size 1, GRUNT, 12 Ev, 10 ED
+        - Missiles: Arcing, 20 range, 4 explosive, 1 knockback, was able to hit 3 targets
+    - Witch
+        - Size 1/2, 12 HP, 15 Sens, 10 Ev, 13 ED, 12 Sv, 6 Spd
+        - Dumps a lot of heat on you
+    - Lance-r
+        - Size 1, 8 Spd, 15 HP, 
+        - Impale: 8 move in a line, hull save or target moves with, ignores engage, 2 dmg if move thru target, needs to recharge
+        - Just generally 
+        - Capacitor Discharge: All adjacent at end of turn take 2 heat
+        - Point Defense: Resistance to dmg from closest target unless there is a tie for closest
+
+## Intersession 0-1
+- Two years have passed
+    - What was our post-mission debrief like?
+    - What are my working relationships with PCs? NPCs?
+    - What parts of my job do I enjoy? What parts do I hate?
+- Relationship with Castrati
+    - We argue a lot, it's secretly enjoyable for me
