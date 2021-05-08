@@ -1,11 +1,11 @@
 # Ragna Loreley of Hargendorf, She/Her
 ## Human, Freeholder (Warrior) and Initiate of Rhya, Bondsman - Brass 5
-- ?'?", ? yo, blonde hair, light blue eyes
+- 6'2", 18 yo, blonde hair, light blue eyes
 - Nationality: Imperial
 - Birthplace: Hargendorf, Nordland
 - Religion: Rhya
-- Star Sign: Dragomas the Drake, born 18/3/24?? (+1 Cool)
-- Motivation: ?
+- Star Sign: Dragomas the Drake, born 18/3/2494
+- Motivation: Wild out
 
 - Short-term ambition: ?
 - Long-term ambition: ?
@@ -22,37 +22,50 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-| WS  |  ? |    |    |    |  ? |
-| BS  |  ? |    |    |    |  ? |
-| S   |  ? |    |    |    |  ? |
-| T   |  ? |    |    |    |  ? |
-| I   |  ? |    |    |    |  ? |
-| Ag  |  ? |    |    |    |  ? |
-| Dex |  ? |    |    |    |  ? |
-| Int |  ? |    |    |    |  ? |
-| WP  |  ? |    |    |    |  ? |
-| Fel |  ? |    |    |    |  ? |
+|^WS  | 40 |    |    |    | 40 |
+| BS  | 37 |    |    |    | 37 |
+|^S   | 35 | 10 |  5 |    | 50 |
+| T   | 35 | 15 |    |    | 50 |
+| I   | 32 |    |    |    | 32 |
+| Ag  | 28 | -5 |    |    | 23 |
+| Dex | 27 |    |    |    | 27 |
+| Int | 25 |    |    |    | 25 |
+|^WP  | 41 |    |    |    | 41 |
+| Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
 | Att | #  | ? |
 |-----|----|---|
-| W   | ?? | ??
-| F/F | ?  | ???
-| R/R | ?  | ???
+| W   | 24 | 24
+| F/F | 4  | 4
+| R/R | 2  | 2
 | M   | 4  |
-| Cor | ?  | 0
+| Cor | 9  | 0
 
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | ?                  |    | ?   |    |
-|$C$| ?                  |    | ?   |    |
+| C | Consume Alcohol    | 13 |  50 | 63 |
+| C | Cool (+1)          | 10 |  41 | 52 |
+| C | Dodge              |    |     |    |
+| C | Endurance          |    |     |    |
+| C | Gossip             |    |     |    |
+| C | Row                |    |     |    |
 |---|--------------------|----|-----|----|------
 | C | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
+| C | Heal               |    |     |    |
+|   | Language (Norse)   |  5 |  25 | 30 |
+|   | Lore (Nordland)    |  3 |  25 | 28 |
+| C | Lore (Norsca)      |    |     |    |
+| C | Lore (Plants)      |    |     |    |
+| C | Swim               | 15 |  50 | 65 |
+|   | Sail (Fisher)      |  3 |  23 | 26 |
+|   | Sail ()            |    |  23 | 23 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
+|$C$| Melee (Basic)      | 15 |  40 | 55 |
 
 Swim: 5
 Melee (Basic): 5
