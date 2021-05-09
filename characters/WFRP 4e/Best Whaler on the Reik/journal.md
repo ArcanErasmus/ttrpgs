@@ -4,16 +4,20 @@
 - ?
 
 ## Short Bio
-?
+- Moms: Hildur and Stephanie
+    - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of a Jarl, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling".
+    - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder".
+- 
+
 
 ## Appearance
-- (Basic/head)
-- (Body/outfit)
-- (Gear/bags)
+- Wavy blonde hair pulled back into a small ponytail
+- Wears a rugged patchwork of assorted pelts and cloths
+- Packs light, but has a pair of fighting axes flanking her waist
 
 ## Personality
 - Where are you from?
-?
+Hargendorf, Nordland. My 
 - What is your family like?
 ?
 - What was your childhood like?

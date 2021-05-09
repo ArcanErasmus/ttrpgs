@@ -58,7 +58,7 @@
 |   | Language (Norse)   |  5 |  25 | 30 |
 |   | Lore (Nordland)    |  3 |  25 | 28 |
 | C | Lore (Norsca)      |    |     |    |
-| C | Lore (Plants)      |    |     |    |
+| C | Lore (Herbs)       |    |     |    |
 | C | Swim               | 15 |  50 | 65 |
 |   | Sail (Fisher)      |  3 |  23 | 26 |
 |   | Sail ()            |    |  23 | 23 |
@@ -67,24 +67,8 @@
 |---|--------------------|----|-----|----|------
 |$C$| Melee (Basic)      | 15 |  40 | 55 |
 
-Swim: 5
-Melee (Basic): 5
-Language (Norse): 5
-Consume Alcohol: 3
-Lore (Nordland): 3
-Sail: 3
-
-swim +10
-melee (basic) +10
-consume alc +10
-cool +10
-
 ## Traits
 - Big
-
-## Psychology
-- Camaraderie (Norscans)
-- Love (Parents)
 
 ## Talents
 ### Hardy
@@ -95,17 +79,6 @@ cool +10
 ### Noble Blood
 
 ### Dual Wielder
-
-## Trappings
-- Battle Axe (hand weapon, +1 GC and +Hack)
-- Hand Weapon
-- Dagger
-
-- Clothing
-- Leather Jack
-
-- Tribe Tattoos (Mix of low-key Skaeling, personal family crest, and Rhya)
-- Pouch
 
 ## Career Info
 ### Homeland Skills
@@ -143,8 +116,3 @@ cool +10
 - Talents: Combat Master, Frightening, Relentless, Strike Mighty Blow
 - Rhya Talents: Master Tradesman (Farmer, Gardener, Herbalist, or Midwife)
 - Trappings: Land in Norsca, Large Unit of Bondsmen, Spoils of War (10d100 GC), Your Own Named Tribe
-
-## BG
-- Moms: Hildur and Stephanie
-    - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of a Jarl, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling".
-    - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder".

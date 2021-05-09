@@ -79,6 +79,12 @@
         - Only seems aged about 100 years
             - Probably due to storage in the Crux
         - Author: Segora Eventide
+        - Written by adventurers who used to operate out of Delvehaven (in Segovia)
+        - Adventurers were tasked by some benefactor with finding some linked object, some shards of a broken whole
+            - Authors seemed also confused as to what form they were supposed to take
+            - During this mission, Segovia was taken over by the Acyran Empire, and they resisted even after the city fell
+            - After they were killed or run out of the city, a second author takes over, making notes and trying to parse the first works
+            - One of these original adventurers that was killed was buried on a coastline to the east of Segovia, at the mouth of a river
     - Delvehaven
         - Large building, abandoned for quite a number of years
         - Algae-covered fountains, bushes grown out of their sculpted shapes
@@ -115,6 +121,15 @@
             - Research material: Papers written by Professor Qinran
             - Research material: Journal written by Thelsing
             - Corpse of Thelsing, could *speak with dead*
+    - New Kuelata info post-Adrena-transformation
+        - Was an assassin for pre-Adrena
+        - After years of success, failed one mission and pre-Adrena decapitated her and delivered her to pre-Adrena's boss "as a fun curiosity"
+        - Boss was fey, "heinous"
+        - Adrena always used that name
+        - The organization held court in the fey wilds
+        - Adrena would summon (i.e. magically) kuelata when she was needed
+        - Kuelata, unsurprisingly, also lived in the fey wilds when not on mission
+        - Body apparently would have rotted away without head
 
 - Goal: Head to Na'macui to clear out Beastmark
 - Boats: The Rosabella, The Storm Viper
@@ -237,8 +252,6 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
 # Ship stuff
 - Rosabella: Gargantuan
 - Keelboat
-
-longship
 
 ## Siege weapons
 ### Ram
