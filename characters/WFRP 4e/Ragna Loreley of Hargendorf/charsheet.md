@@ -68,7 +68,7 @@
 |$C$| Melee (Basic)      | 15 |  40 | 55 |
 
 ## Traits
-- Big
+### Big
 
 ## Talents
 ### Hardy
