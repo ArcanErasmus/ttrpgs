@@ -1,9 +1,9 @@
-# Ragna Loreley of Hargendorf, She/Her
+# Ragna Loreley Arnorung, She/Her
 ## Human, Freeholder (Warrior) and Initiate of Rhya, Bondsman - Brass 5
-- 6'2", 18 yo, blonde hair, light blue eyes
-- Nationality: Imperial
+- 6'2", 18 yo, red hair, light blue eyes
+- Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Hargendorf, Nordland
-- Religion: Rhya
+- Religion: Rhya, and just a smidge of the Northern Gods
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 

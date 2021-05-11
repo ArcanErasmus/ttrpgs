@@ -1,4 +1,4 @@
-# ?'s Gear & Magic
+# Ragna's Gear & Magic
 ## Inventory
 ### Armor
 | Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
