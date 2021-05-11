@@ -23,11 +23,11 @@
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
 |^WS  | 40 |    |    |    | 40 |
-| BS  | 37 |    |    |    | 37 |
+| BS  | 32 |    |    |    | 32 |
 |^S   | 35 | 10 |  5 |    | 50 |
 | T   | 35 | 15 |    |    | 50 |
-| I   | 32 |    |    |    | 32 |
-| Ag  | 28 | -5 |    |    | 23 |
+| I   | 28 |    |    |    | 28 |
+| Ag  | 37 | -5 |    |    | 32 |
 | Dex | 27 |    |    |    | 27 |
 | Int | 25 |    |    |    | 25 |
 |^WP  | 41 |    |    |    | 41 |
@@ -45,40 +45,78 @@
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Consume Alcohol    | 13 |  50 | 63 |
-| C | Cool (+1)          | 10 |  41 | 52 |
-| C | Dodge              |    |     |    |
-| C | Endurance          |    |     |    |
-| C | Gossip             |    |     |    |
-| C | Row                |    |     |    |
+|   | Athletics          |    | Ag  |    |
+|   | Bribery            |    | Fel |    |
+|   | Charm              |    | Fel |    |
+|   | Charm Animal       |    | WP  |    |
+|   | Climb              |    | S   |    |
+| C | Consume Alcohol    | 13 | T   | 63 |
+| C | Cool (+1)          | 10 | WP  | 52 |
+| C | Dodge              |    | Ag  |    |
+|   | Drive              |    | Ag  |    |
+| C | Endurance          |    | T   |    |
+|   | Gamble             |    | Int |    |
+| C | Gossip             |    | Fel |    |
+|   | Haggle             |    | Fel |    |
+|   | Intimidate         |    | S   |    |
+|   | Intuition          |    | I   |    |
+|   | Leadership         |    | Fel |    |
+|   | Navigation         |    | I   |    |
+|   | Outdoor Survival   |    | Int |    |
+|   | Perception         |    | I   |    |
+| C | Row                |    | S   |    |
 |---|--------------------|----|-----|----|------
 | C | Advanced/Grouped   | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Heal               |    |     |    |
-|   | Language (Norse)   |  5 |  25 | 30 |
-|   | Lore (Nordland)    |  3 |  25 | 28 |
-| C | Lore (Norsca)      |    |     |    |
-| C | Lore (Herbs)       |    |     |    |
-| C | Swim               | 15 |  50 | 65 |
-|   | Sail (Fisher)      |  3 |  23 | 26 |
-|   | Sail ()            |    |  23 | 23 |
+|   | Art                |    | Dex |    |
+|   | Entertain          |    | Fel |    |
+| C | Heal               |    | Int |    |
+|   | Language (Norse)   |  5 | Int | 30 |
+|   | Lore (Nordland)    |  3 | Int | 28 |
+| C | Lore (Norsca)      |    | Int |    |
+| C | Lore (Herbs)       |    | Int |    |
+|   | Ride               |    | Ag  |    |
+|   | Sail (Fisher)      |  3 | Ag  | 26 |
+|   | Sail ()            |    | Ag  | 23 |
+|   | Stealth            |    | Ag  |    |
+| C | Swim               | 15 | S   | 65 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|$C$| Melee (Basic)      | 15 |  40 | 55 |
+|$C$| Melee (Basic)      | 15 | WS  | 55 |
 
 ## Traits
 ### Big
+- +10 S, +10 T, -5 Ag
 
 ## Talents
-### Hardy
-### Stout-hearted
-### Very Resilient
+### Acute Sense (Hearing) [1/IB]
+- Tests: Perception (Hearing)
+- May make Perception tests, at GM discretion, to detect normally imperceptible details
 
-### Acute Sense (Hearing)
-### Noble Blood
+### Dual Wielder [1/AgB]
+- Tests: Melee or Ranged when attacking with two weapons
+- May attack with both weapons as action
+- Roll with primary and resolve first
+- If primary hit, use reverse of first roll for secondary (and apply off-hand penalty)
+- Secondary is opposed with a new defending roll, then resolves as normal
+- If primary crit, use crit roll instead for secondary attack, don't reverse
+- Advantage gained only if both attacks hit
+- If dual attack, all defending rolls at -10 until start of turn
 
-### Dual Wielder
+### Hardy [1/TB]
+- Add TB to wounds again for each level in talent
+
+### Noble Blood [1/1]
+- Tests: Any influenced by your Status
+- If dressed appropriately, you are always higher status unless others also have Noble Blood
+
+### Stout-hearted [1/WPB]
+- Tests: Willpower to remove Broken conditions
+- May attempt Cool to remove Broken at end of your Turn as well as at end of Round
+
+### Very Resilient [1/1]
+- +5 T
 
 ## Career Info
 ### Homeland Skills
