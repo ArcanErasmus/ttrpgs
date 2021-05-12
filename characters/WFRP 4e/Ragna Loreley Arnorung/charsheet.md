@@ -154,3 +154,49 @@
 - Talents: Combat Master, Frightening, Relentless, Strike Mighty Blow
 - Rhya Talents: Master Tradesman (Farmer, Gardener, Herbalist, or Midwife)
 - Trappings: Land in Norsca, Large Unit of Bondsmen, Spoils of War (10d100 GC), Your Own Named Tribe
+
+## BG Skill/Talent/Item Options
+### Skills
+- Climb
+<!-- - Intimidate -->
+- Intuition
+- Language (?)
+- Navigation
+<!-- - Outdoor Survival -->
+- Perform (Axe Juggling)
+- Pray
+- Stealth (Urban)
+- Track
+- Trade (Lumberjack)
+
+### Talents
+- Attractive
+- Beat Blade
+- Break and Enter
+- Careful Strike
+- Carouser
+- Catfall
+- Combat Reflexes
+- Contortionist
+- Deadeye Shot
+- Disarm
+- Implacable
+- Iron Jaw
+- Iron Will
+- Jump Up
+- Luck
+- Magic Resistance
+- Menacing
+- Nose for Trouble
+- Orientation
+- Reaction Strike
+- Resistance (?)
+- Resolute
+- Reversal
+- Sixth Sense
+- Strike Mighty Blow
+- Strong Back
+- Strong Legs
+- Strong-minded
+- Strong Swimmer
+- Tenacious
