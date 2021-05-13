@@ -5,10 +5,13 @@
 
 ## Short Bio
 - Moms: Hildur and Stephanie
-    - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of Jarl Nikolas, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling".
-    - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder".
-- 
-
+    - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of Jarl Nikolas, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling". 24 years older than ?.
+    - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder". 19 years older than ?.
+- Siblings:
+    - ? (male), 6 years older: ?
+    - ? (female), 1 year older: We are always at each other's throats in that sibling love/hate way
+    - ? (female), fraternal twin: My partner in crime
+    - ? (male), 9 years younger: Baby bro! Protect him!
 
 ## Appearance
 - Wavy red hair pulled back into a small ponytail
@@ -33,7 +36,10 @@ To become head of my own clan, with many loving partners. While dying in battle 
 - What are your religious beliefs?
 Rhya is responsible for my life and my lack of parenthood burdens. In her stead, I will protect the weak and the earth. In contrast, the War-God teaches strength in battle and glory in a violent death. To this end, bringing fury and giving love are both intimately pious acts. Other hints of the Northern Gods have trickled into my practices, wholly reinterpreted through an Imperial lens. Nurgle: His "blessings" of plague and famine are to be treated with utmost seriousness, lest they touch you or your loved ones, and are a sure sign of the gods' disfavor. Tzeentch: Magic is to be treated with fear and respect, and an offering to the powers that be should be made before any journey at sea (even a quick prayer before a swim is wise). Slaanesh: Everything in moderation, even moderation. For the last part, this generally means I try to only indulge in one thing at a time.
 - To whom, or what, are you loyal?
-?
+1. Her Norscan heritage
+2. Her own needs and beliefs
+3. Her friends
+4. Her employers
 - Why are you adventuring?
 To seek glory, and see the world.
 
@@ -46,7 +52,7 @@ To seek glory, and see the world.
         - Best Skills: Axe-wielding terror
         - Weaknesses: Subtle as a brick, thinks with her ovaries
         - Languages: Reikspiel, Norse
-        - Doom: N/A
+        - Doom: Has one but forgot it
         - Motivation: Wild out
         - Background: Genetically Norscan but culturally Nordlander, left home to conquer the world
     - Hannah: Asa Brendasdottir
@@ -60,29 +66,29 @@ To seek glory, and see the world.
         - Motivation: (motivation)
         - Background: Of Skeggi tribe, came to Empire to study apothecary stuff
     - Sophie: Sister Rosa Weir
-        - Ungol nun who worships Rhya
-        - Born in (location), Kislev under the sign of (sign), (age) yo
+        - Gospodar nun who worships Rhya
+        - Born in Kislev City, Kislev under the sign of The Broken Cart, 28 yo
         - Talents: Attractive, (talents)
         - Best Skills: Healing, looking pretty, hot damn she got knockers
         - Weaknesses: Tits full but head empty, illiterate
         - Languages: Reikspiel, Kislevite
-        - Doom: "(doom)"
+        - Doom: N/A
         - Motivation: (motivation)
         - Background: Wilded out too hard and got corrupted by Slaanesh, trying to reform and put that behind her
     - Talia: Peronelle of Parravon
         - Bretonnian sportsman who worships The Lady
-        - Born in (location), Parravon under the sign of (sign), (age) yo
+        - Born in (location), Parravon under the sign of (sign), 38 yo
         - Talents: (talents)
         - Best Skills: (description)
         - Weaknesses: (description)
-        - Languages: Reikspiel, Bretonnian, (other langs)
+        - Languages: Reikspiel, Bretonnian
         - Doom: N/A
-        - Motivation: (motivation)
+        - Motivation: Hunting
         - Background: Husband killed by Tree of Life cultists, set out to hunt them down
-    - Erica?: (charname)
-        - (race) (career) who worships (deity)
-        - Born in (location) under the sign of (sign), (age) yo
-        - Talents: (talents)
+    - Erica: Ethel Orric
+        - High Elf riverwoman who worships Mathlann
+        - Born in Reikwald Forest, Reikland under the sign of The Piper, 81 yo
+        - Talents: Strider (Wet), (talents)
         - Best Skills: (description)
         - Weaknesses: (description)
         - Languages: Reikspiel, (other langs)
