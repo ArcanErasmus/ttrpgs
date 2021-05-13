@@ -1,6 +1,6 @@
 # Ragna Loreley Arnorung, She/Her
 ## Human, Freeholder (Warrior) and Initiate of Rhya, Bondsman - Brass 5
-- 6'2", 18 yo, red hair, light blue eyes
+- 6'2", 220lbs, 18 yo, red hair, light blue eyes
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Hargendorf, Nordland
 - Religion: Rhya, and just a smidge of the Northern Gods
@@ -12,46 +12,52 @@
 - Party short-term: ?
 - Party long-term: ?
 
-## Total/Spent XP: 190/0
+## Total/Spent XP: 310/300
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
+att
 |------|-----|-----|------
+|  100 |   0 |   1 | Frenzy
+|  100 |   0 |   1 | Savvy
+|  100 |   0 |   1 | Slayer
 |------|-----|-----|------
+skl
 |------|-----|-----|------
+oth
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 40 |    |    |    | 40 |
+|^WS  | 41 |    |    |    | 41 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 35 | 10 |  5 |    | 50 |
-| T   | 35 | 15 |    |    | 50 |
+|^S   | 50 |    |    |    | 50 |
+| T   | 55 |  5 |    |    | 60 |
 | I   | 28 |    |    |    | 28 |
-| Ag  | 37 | -5 |    |    | 32 |
-| Dex | 27 |    |    |    | 27 |
-| Int | 25 |    |    |    | 25 |
-|^WP  | 41 |    |    |    | 41 |
+| Ag  | 27 |    |    |    | 27 |
+| Dex | 20 |    |    |    | 20 |
+| Int | 27 |  5 |    |    | 27 |
+|^WP  | 40 |    |  5 |    | 45 |
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
 | Att | #  | ? |
 |-----|----|---|
-| W   | 24 | 24
-| F/F | 4  | 4
-| R/R | 2  | 2
-| M   | 4  |
-| Cor | 9  | 0
+| W   | 27 | 27
+| F/F |  4 |  4
+| R/R |  2 |  2
+| M   |  4 |
+| Cor | 10 |  0
 
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|   | Athletics          |    | Ag  |    |
+| C | Athletics          |    | Ag  |    |
 |   | Bribery            |    | Fel |    |
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-| C | Consume Alcohol    | 13 | T   | 63 |
-| C | Cool (+1)          | 10 | WP  | 52 |
+| C | Consume Alcohol    | 13 | T   | 73 |
+| C | Cool               | 11 | WP  | 56 |
 | C | Dodge              |    | Ag  |    |
 |   | Drive              |    | Ag  |    |
 | C | Endurance          |    | T   |    |
@@ -71,23 +77,26 @@
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
 | C | Heal               |    | Int |    |
-|   | Language (Norse)   |  5 | Int | 30 |
-|   | Lore (Nordland)    |  3 | Int | 28 |
+|   | Language (Norse)   |  5 | Int | 37 |
+|   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |    | Int |    |
 | C | Lore (Herbs)       |    | Int |    |
 |   | Ride               |    | Ag  |    |
-|   | Sail (Fisher)      |  3 | Ag  | 26 |
-|   | Sail ()            |    | Ag  | 23 |
+|   | Sail               |  3 | Ag  | 30 |
 |   | Stealth            |    | Ag  |    |
 | C | Swim               | 15 | S   | 65 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|$C$| Melee (Basic)      | 15 | WS  | 55 |
+|$C$| Melee (Basic)      | 15 | WS  | 56 |
 
 ## Traits
 ### Big
 - +10 S, +10 T, -5 Ag
+
+### Background Features
+- Barrel-Chested: +5 S, +5 T, -5 Ag
+- Brawny Build: +5 T, -5 Dex
 
 ## Talents
 ### Acute Sense (Hearing) [1/IB]
@@ -103,6 +112,15 @@
 - If primary crit, use crit roll instead for secondary attack, don't reverse
 - Advantage gained only if both attacks hit
 - If dual attack, all defending rolls at -10 until start of turn
+
+### Frenzy [1/1]
+- WP Test to enter Frenzy:
+    - Immune to all other psychology
+    - Will not flee/retreat for any reason
+    - Must move at full rate to nearest visible enemy
+    - Usually only actions available are Athletics to reach enemy or Attack
+    - 
+ Further, you may take a Free Action Melee Test each Round as you are throwing everything you have into your attacks. Lastly, you gain a bonus of +1 Strength Bonus, such is your ferocity. You remain in Frenzy until all enemies in your line of sight are pacified, or you receive the Stunned or Unconscious condition. After your Frenzy is over you immediately receive a Fatigued condition.
 
 ### Hardy [1/TB]
 - Add TB to wounds again for each level in talent
@@ -158,14 +176,11 @@
 ## BG Skill/Talent/Item Options
 ### Skills
 - Climb
-<!-- - Intimidate -->
 - Intuition
-- Language (?)
 - Navigation
-<!-- - Outdoor Survival -->
 - Perform (Axe Juggling)
 - Pray
-- Stealth (Urban)
+- Stealth (Urban or Rural)
 - Track
 - Trade (Lumberjack)
 

@@ -13,7 +13,7 @@
 | Battle Axe                   | M Basic       | Average | +SB+4 | Hack
 | Hand Weapon                  | M Basic       | Average | +SB+4 | 
 | Dagger                       | M Basic       | V Short | +SB+? |
-| Rock                         | R Throwing    | ?       | +SB+? |
+| Rock                         | R Throwing    | SBx3    | +SB+? |
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
@@ -30,10 +30,10 @@
 |--------------------------|-----|-----|--------------------------------
 | **Weapons**              |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Battle Axe               |   1 |   1 |
+| Battle Axe               |   2 |   2 |
 | Hand Weapon (Axe)        |   1 |   1 |
 | Dagger                   |     |     |
-| A Few Nice Rocks         |   1 |   1 |
+| A Few Hefty Rocks        |   1 |   1 |
 |--------------------------|-----|-----|--------------------------------
 | **General**              |     |     | Non-consumable catch-all
 |--------------------------|-----|-----|--------------------------------
@@ -43,7 +43,7 @@
 |--------------------------|-----|-----|--------------------------------
 | **Coins**                |     |     | 4/4
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |   3 |
+| **Total**                |     |   4 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
