@@ -6,9 +6,9 @@
     - boombox
     - inscrutiable device that "detects the supernatural" with technobabble
     - walkie talkies
-    - too many D batteries
     - a pager
     - police CB radio
+    - too many D batteries
 
 - skills:
     - can tune a tv
@@ -63,3 +63,19 @@ Party skills checklist:
     - passing as an adult
     - money
     - language fluencies
+
+Erica:
+- Kid who talks to everything
+- Personification mage
+- Things can be tempermental
+- Moody teen
+- Toys follow her home
+- Siblings with Talia!Char, remembers her
+
+Talia:
+- Greatest talent is making people forget about her
+- Doesn't show up on cameras
+- The sneak
+- We became friends when I investigated a mystery that turned out to be her
+- Has a license
+- Siblings with Erica!Char, parents think she's one of Erica!Char's imaginary friends
