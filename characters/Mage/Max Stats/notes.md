@@ -267,10 +267,12 @@ Secondary Knowledges
     - Experience
 - Steps
     1. Concept and Identity
-    2. Attributes
-    3. Abilities
-    4. Advantages
+    2. Attributes (7/5/3)
+    3. Abilities (13/9/5)
+    4. Advantages (7 BG, define focus)
     5. Finishing Touches
+        - 6 Spheres
+        - 
 - Sample Concepts
     - Activist:     Journalist, blogger, lobbyist, malcontent.
     - Artist:       Writer, dancer, painter, musician.
