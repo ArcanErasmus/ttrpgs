@@ -1,0 +1,84 @@
+||===============================||=================================================================||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her                           ||
+||===============================||==============|==================================================||
+|| Core                          || Stat         | Value                                            ||
+||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Nature -                      || Arete        | ___ ___ ___                                      ||
+|| Demeanor -                    || Willpower    | _____ _____                                      ||
+|| Essence - Questing            ||   Temp WP    | _____ _____                                      ||
+|| Affiliation - The Disparates  || Health       | x -5 -2 -2 -1 -1 -0                              ||
+|| Sect - Orphans                ||   Current    | _  _  _  _  _  _  _                              ||
+|| Concept - The A/V Kid         || Quint/Pdox   | _____ _____ _____ _____                          ||
+||                               || XP Tot/Cur   |                                                  ||
+||============|=======|==========||==============|=======|======||================|=======|=========||
+|| Physical   | Level | Spec     || Social       | Level | Spec || Ment           | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
+|| Strength   | _____ |          || Charisma     | _____ |      || Perception     | _____ |         ||
+|| Dexterity  | _____ |          || Manipulation | _____ |      || Intelligence   | _____ | Bookish ||
+|| Stamina    | _____ | Tireless || Appearance   | _____ |      || Wits           | _____ |         ||
+||============|=======|==========||==============|=======|======||================|=======|=========||
+|| Talent     | Level | Spec     || Skill        | Level | Spec || Knowledge      | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
+|| Alertness  | _____ |          || Crafts       | _____ |      || Academics      | _____ |         ||
+|| Art        | _____ |          || Drive        | _____ |      || Computer       | _____ |         ||
+|| Athletics  | _____ |          || Etiquette    | _____ |      || Cosmology      | _____ |         ||
+|| Awareness  | _____ |          || Firearms     | _____ |      || Enigmas        | _____ |         ||
+|| Brawl      | _____ |          || Martial Arts | _____ |      || Esoterica      | _____ |         ||
+|| Empathy    | _____ |          || Meditation   | _____ |      || Investigation  | _____ |         ||
+|| Expression | _____ |          || Melee        | _____ |      || Law            | _____ |         ||
+|| Intimidate | _____ |          || Research     | _____ |      || Medicine       | _____ |         ||
+|| Leadership | _____ |          || Stealth      | _____ |      || Occult         | _____ |         ||
+|| Streetwise | _____ |          || Survival     | _____ |      || Politics       | _____ |         ||
+|| Subterfuge | _____ |          || Technology   | _____ |      || Science        | _____ |         ||
+||============|=======|==========||==============|=======|======||================|=======|=========||
+|| Sec Talent | Level | Spec     || Sec Skill    | Level | Spec || Sec Knowledge  | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
+|| Animal Kin | _____ |          || Acrobatics   | _____ |      || Area Knowledge | _____ |         ||
+|| Blatancy   | _____ |          || Archery      | _____ |      || Belief Systems | _____ |         ||
+|| Carousing  | _____ |          || Blind Fight  | _____ |      || Chantry/Constr | _____ |         ||
+|| Cooking    | _____ |          || Climbing     | _____ |      || Conspiracies   | _____ |         ||
+|| Diplomacy  | _____ |          || Disguise     | _____ |      || Covert Culture | _____ |         ||
+|| Do         | _____ |          || Elusion      | _____ |      || Cryptography   | _____ |         ||
+|| Flying     | _____ |          || Escapology   | _____ |      || Cultural Savvy | _____ |         ||
+|| High Ritu  | _____ |          || Fast-Draw    | _____ |      || Demolitions    | _____ |         ||
+|| Instruct   | _____ |          || Fast-Talk    | _____ |      || Finance        | _____ |         ||
+|| Intrigue   | _____ |          || Fence/Kenjut | _____ |      || History        | _____ |         ||
+|| Lucid Dr   | _____ |          || Fortune-Tell | _____ |      || Lore/RD Data   | _____ |         ||
+|| Mimicry    | _____ |          || Gambling     | _____ |      || Media          | _____ |         ||
+|| Negotiate  | _____ |          || Gunsmith     | _____ |      || Pharmacopoeia  | _____ |         ||
+|| Newspeak   | _____ |          || Hunting      | _____ |      || Power-Broker   | _____ |         ||
+|| Scan       | _____ |          || Hypertech    | _____ |      || Propaganda     | _____ |         ||
+|| Scrounge   | _____ |          || Hypnotism    | _____ |      || Theology       | _____ |         ||
+|| Search     | _____ |          || Jury-Rigging | _____ |      || Unconvent War  | _____ |         ||
+|| Seduction  | _____ |          || Misdirection | _____ |      || Vice           | _____ |         ||
+|| Style      | _____ |          || Networking   | _____ |      ||                |       |         ||
+||            |       |          || Psychology   | _____ |      ||                |       |         ||
+||            |       |          || Riding       | _____ |      ||                |       |         ||
+||            |       |          || Security     | _____ |      ||                |       |         ||
+||            |       |          || Speed-Read   | _____ |      ||                |       |         ||
+||            |       |          || Swimming     | _____ |      ||                |       |         ||
+||============|=======|==========||==============|=======|======||================|=======|=========||
+|| Sphere     | Level | Spec     || Sphere       | Level | Spec || Sphere         | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
+|| Corresp    | _____ |          || Life         | _____ |      || Prime          | _____ |         ||
+|| Entropy    | _____ |          || Matter       | _____ |      || Spirit         | _____ |         ||
+|| Forces     | _____ |          || Mind         | _____ |      || Time           | _____ |         ||
+||============|==|====|==========||==============|=|=====|======||================|==|====|=========||
+|| Background    | Value         || Flaw           | Value      || Merit             | Value        ||
+||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - ||- - - - - - - - - -|- - - - - - - ||
+|| Allies        | X____ _____   || Child          | X__        || Family Support    | X__          ||
+|| Avatar/Genius | X____         || Curiosity      | XX         || Hands of Daedalus | XXX          ||
+||$Lab           | X____         || Impatient      | X          || Hyperfocus        | XXX          ||
+|| Wonder        | X____         || Naive          | X          || Lightning Calc    | X            ||
+||               |               || Responsibility | X          || Mech Aptitude     | X            ||
+||               |               || Short          | XXX        || Medium            | XX           ||
+||===============|===============||================|============||===================|==============||
+|| Background: Wonder                                                                               ||
+||                                                                                                  ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Responsibility                                                                             ||
+|| School on weekdays (7th grade)                                                                   ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Allies                                                                                    ||
+|| The rest of the D&D Club or A/V Club (significant overlap)                                       ||
+||==================================================================================================||
