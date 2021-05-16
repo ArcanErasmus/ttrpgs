@@ -226,6 +226,11 @@
 - Indentical twins with Autumn
 - Prime could be good sphere
 
+### Scott (Paolo):
+- Plays music
+- Magical lineage
+- Emotions from voice
+
 # Character Building
 Technician – Mechanic, lab tech, craftsman, computer geek.
 Kid – Child, student, innocent, gutter-punk.

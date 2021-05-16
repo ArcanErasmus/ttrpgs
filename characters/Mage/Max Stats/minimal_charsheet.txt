@@ -82,3 +82,28 @@
 || Merit: Allies                                                                                    ||
 || The rest of the D&D Club or A/V Club (significant overlap)                                       ||
 ||==================================================================================================||
+
+|----------------|----------------|-------------------|
+| archetype      | strength       | weakness          |
+|----------------|----------------|-------------------|
+| activist       | action         | outrage           |
+| benefactor     | altruism       | obligation        |
+| contrary       | insight        | subversion        |
+| crusader       | zeal           | fanaticism        |
+| hacker         | imagination    | perversity        |
+| idealist       | conviction     | dogmatic          |
+| innovator      | creativity     | unorthodoxy       |
+| kid            | innocence      | immaturity        |
+| loner          | self-reliance  | disconnection     |
+| machine        | diligent/stoic | creepy/burn-out   |
+| mad scientist  | vision         | insane            |
+| martyr         | sacrifice      | self-deprecation  |
+| monster        | dark truths    | depraved          |
+| prophet        | insight        | ruthlessness      |
+| rogue          | defiance       | selfishness       |
+| sensualist     | receptiveness  | hedonism          |
+| survivor       | perserverance  | callousness       |
+| traditionalist | consistency    | rigidity          |
+| trickster      | cleverness     | untrustworthiness |
+| visionary      | inspiration    | pride             |
+|----------------|----------------|-------------------|
