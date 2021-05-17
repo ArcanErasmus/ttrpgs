@@ -3,41 +3,41 @@
 ||===============================||==============|==================================================||
 || Core                          || Stat         | Value                                            ||
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Nature - ?                    || Arete        | ◘◘◘ ... ...                                      ||
-|| Demeanor - ?                  || Willpower    | ◘◘◘◘◘ .....                                      ||
-|| Essence - Questing            ||   Temp WP    | ◘◘◘◘◘                                            ||
+|| Nature - ?                    || Arete        | @@@ ... ...                                      ||
+|| Demeanor - ?                  || Willpower    | @@@@@ .....                                      ||
+|| Essence - Questing            ||   Temp WP    | @@@@@                                            ||
 || Affiliation - The Disparates  || Health       | x-5-2-2-1-1-0                                    ||
-|| Sect - Orphans                ||   Current    | ◘-◘-◘-◘-◘-◘-◘                                    ||
-|| Concept - The A/V Kid         || Quint/Pdox   | ◘◘◘◘◘ ◘.... ..... .....                          ||
+|| Sect - Orphans                ||   Current    | @-@-@-@-@-@-@                                    ||
+|| Concept - The A/V Kid         || Quint/Pdox   | @@... ..... ..... .....                          ||
 ||                               || XP Tot/Cur   | 0/0 (0 Freebie)                                  ||
 ||============|=======|==========||==============|=======|======||================|=======|=========||
 || Physical   | Level | Spec     || Social       | Level | Spec || Ment           | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
-|| Strength   | ◘◘... |          || Charisma     | ◘◘◘.. |      || Perception     | ◘◘... |         ||
-|| Dexterity  | ◘.... |          || Manipulation | ◘◘... |      || Intelligence   | ◘◘◘◘◘ | Bookish ||
-|| Stamina    | ◘◘◘◘◘ | Tireless || Appearance   | ◘.... |      || Wits           | ◘◘◘.. |         ||
+|| Strength   | @@... |          || Charisma     | @@@.. |      || Perception     | @@... |         ||
+|| Dexterity  | @.... |          || Manipulation | @@... |      || Intelligence   | @@@@@ | Bookish ||
+|| Stamina    | @@@@@ | Tireless || Appearance   | @.... |      || Wits           | @@@.. |         ||
 ||============|=======|==========||==============|=======|======||================|=======|=========||
 || Talent     | Level | Spec     || Skill        | Level | Spec || Knowledge      | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
-|| Alertness  | ..... |          || Crafts       | ◘◘◘.. |      || Academics      | ◘.... |         ||
-|| Art        | ..... |          || Drive        | ..... |      || Computer       | ◘.... |         ||
-|| Athletics  | ◘.... |          || Etiquette    | ..... |      || Cosmology      | ◘.... |         ||
-|| Awareness  | ◘.... |          || Firearms     | ..... |      || Enigmas        | ..... |         ||
+|| Alertness  | ..... |          || Crafts       | @@@.. |      || Academics      | @.... |         ||
+|| Art        | ..... |          || Drive        | ..... |      || Computer       | @.... |         ||
+|| Athletics  | @.... |          || Etiquette    | ..... |      || Cosmology      | @.... |         ||
+|| Awareness  | @.... |          || Firearms     | ..... |      || Enigmas        | ..... |         ||
 || Brawl      | ..... |          || Martial Arts | ..... |      || Esoterica      | ..... |         ||
-|| Empathy    | ◘.... |          || Meditation   | ..... |      || Investigation  | ◘.... |         ||
+|| Empathy    | @.... |          || Meditation   | ..... |      || Investigation  | @.... |         ||
 || Expression | ..... |          || Melee        | ..... |      || Law            | ..... |         ||
-|| Intimidate | ..... |          || Research     | ◘◘... |      || Medicine       | ..... |         ||
-|| Leadership | ..... |          || Stealth      | ..... |      || Occult         | ◘◘◘.. |         ||
-|| Streetwise | ..... |          || Survival     | ◘.... |      || Politics       | ..... |         ||
-|| Subterfuge | ..... |          || Technology   | ◘◘◘.. |      || Science        | ◘.... |         ||
+|| Intimidate | ..... |          || Research     | @@... |      || Medicine       | ..... |         ||
+|| Leadership | ..... |          || Stealth      | ..... |      || Occult         | @@@.. |         ||
+|| Streetwise | ..... |          || Survival     | @.... |      || Politics       | ..... |         ||
+|| Subterfuge | ..... |          || Technology   | @@@.. |      || Science        | @.... |         ||
 ||============|=======|==========||==============|=======|======||================|=======|=========||
 || Sec Talent | Level | Spec     || Sec Skill    | Level | Spec || Sec Knowledge  | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
 || Animal Kin | ..... |          || Acrobatics   | ..... |      || Area Knowledge | ..... |         ||
 || Blatancy   | ..... |          || Archery      | ..... |      || Belief Systems | ..... |         ||
 || Carousing  | ..... |          || Blind Fight  | ..... |      || Chantry/Constr | ..... |         ||
-|| Cooking    | ..... |          || Climbing     | ..... |      || Conspiracies   | ◘◘◘.. |         ||
-|| Diplomacy  | ..... |          || Disguise     | ..... |      || Covert Culture | ◘◘... |         ||
+|| Cooking    | ..... |          || Climbing     | ..... |      || Conspiracies   | @@@.. |         ||
+|| Diplomacy  | ..... |          || Disguise     | ..... |      || Covert Culture | @@... |         ||
 || Do         | ..... |          || Elusion      | ..... |      || Cryptography   | ..... |         ||
 || Flying     | ..... |          || Escapology   | ..... |      || Cultural Savvy | ..... |         ||
 || High Ritu  | ..... |          || Fast-Draw    | ..... |      || Demolitions    | ..... |         ||
@@ -47,34 +47,54 @@
 || Mimicry    | ..... |          || Gambling     | ..... |      || Media          | ..... |         ||
 || Negotiate  | ..... |          || Gunsmith     | ..... |      || Pharmacopoeia  | ..... |         ||
 || Newspeak   | ..... |          || Hunting      | ..... |      || Power-Broker   | ..... |         ||
-|| Scan       | ◘.... |          || Hypertech    | ..... |      || Propaganda     | ..... |         ||
-|| Scrounge   | ◘.... |          || Hypnotism    | ..... |      || Theology       | ..... |         ||
+|| Scan       | @.... |          || Hypertech    | ..... |      || Propaganda     | ..... |         ||
+|| Scrounge   | @.... |          || Hypnotism    | ..... |      || Theology       | ..... |         ||
 || Search     | ..... |          || Jury-Rigging | ..... |      || Unconvent War  | ..... |         ||
 || Seduction  | ..... |          || Misdirection | ..... |      || Vice           | ..... |         ||
 || Style      | ..... |          || Networking   | ..... |      ||                |       |         ||
 ||            |       |          || Psychology   | ..... |      ||                |       |         ||
 ||            |       |          || Riding       | ..... |      ||                |       |         ||
-||            |       |          || Security     | ◘.... |      ||                |       |         ||
+||            |       |          || Security     | @.... |      ||                |       |         ||
 ||            |       |          || Speed-Read   | ..... |      ||                |       |         ||
 ||            |       |          || Swimming     | ..... |      ||                |       |         ||
 ||============|=======|==========||==============|=======|======||================|=======|=========||
 || Sphere     | Level | Spec     || Sphere       | Level | Spec || Sphere         | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
 || Corresp    | ..... |          || Life         | ..... |      || Prime          | ..... |         ||
-|| Entropy    | ..... |          || Matter       | ..... |      || Spirit         | ◘◘◘.. |         ||
-|| Forces     | ..... |          || Mind         | ◘◘◘.. |      || Time           | ..... |         ||
+|| Entropy    | ..... |          || Matter       | ..... |      || Spirit         | @@@.. |         ||
+|| Forces     | ..... |          || Mind         | @@@.. |      || Time           | ..... |         ||
 ||============|==|====|==========||==============|=|=====|======||================|==|====|=========||
 || Background    | Value         || Flaw           | Value      || Merit             | Value        ||
 ||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - ||- - - - - - - - - -|- - - - - - - ||
-|| Allies        | ◘◘... .....   || Child          | ◘◘.        || Family Support    | ◘..          ||
-|| Avatar/Genius | ◘◘◘..         || Curiosity      | ◘◘         || Hands of Daedalus | ◘◘◘          ||
-||$Lab           | ◘....         || Impatient      | ◘          || Hyperfocus        | ◘◘◘          ||
-|| Wonder        | ◘◘...         || Naive          | ◘          || Lightning Calc    | ◘            ||
-||               |               || Responsibility | ◘          || Mech Aptitude     | ◘            ||
-||               |               || Short          | ◘◘◘        || Medium            | ◘◘           ||
+|| Allies        | @@... .....   || Child          | @@.        || Family Support    | @..          ||
+|| Avatar/Genius | @@@..         || Curiosity      | @@         || Hands of Daedalus | @@@          ||
+||$Lab           | @....         || Impatient      | @          || Hyperfocus        | @@@          ||
+|| Wonder        | @@@@@         || Naive          | @          || Lightning Calc    | @            ||
+||               |               || Responsibility | @          || Mech Aptitude     | @            ||
+||               |               || Short          | @@@        ||                   |              ||
 ||===============|===============||================|============||===================|==============||
 || Background: Wonder                                                                               ||
-|| ?                                                                                                ||
+|| The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
+|| is a military surplus radio set, connected to a heavily modified Gameboy, Nintendo Power Glove,  ||
+|| and Priness Leia Bounty Hunter costume helmet, which can be programmed to see beyond our world   ||
+|| and follow the ripples and energies left behind by spirits and manipulations of magicks.         ||
+||                                                                                                  ||
+|| Quintessence | @@@@@ @@@                                                                         ||
+|| Damage       | x-5-2-2-1-1-0                                                                     ||
+||   Current    | @-@-@-@-@-@-@                                                                     ||
+||                                                                                                  ||
+|| - Stats: Perception 5, Awareness 5, 2 Arete, Correspondence 2 (Affinity), Prime 1                ||
+||                                                                                                  ||
+|| - Grants: Clear Sighted, Medium, Acute Senses (vision, hearing, touch, but only for Awareness)   ||
+||                                                                                                  ||
+|| - Flaws: Needs D batteries, +1 Alertness difficulty while worn, looks super dorky and obvious    ||
+||      Weakness to water that gets through its plastic/epoxy shell                                 ||
+||                                                                                                  ||
+|| - Abilities: Percieve magick/quintessence/resonance/synergy as Prime 1                           ||
+|| - Abilities: Record and track signatures through Correspondence 2                                ||
+||                                                                                                  ||
+|| - Point Breakdown: 15 points - Perception (5), Awareness (5), Arete (2), Spheres (3), Merits (7) ||
+||      Minor Annoyance (-1), Impediment (-1), Uncanny (-3), Vulnerability (-3)                     ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Responsibility                                                                             ||
 || School on weekdays (7th grade)                                                                   ||
@@ -107,3 +127,41 @@
 | trickster      | cleverness     | untrustworthiness |
 | visionary      | inspiration    | pride             |
 |----------------|----------------|-------------------|
+
+@@@@@ @@@@@ @@@@@
+
+- Attributes
+    - Perception 5
+- Abilities
+    - Awareness 5
+- Arete 2
+    - 8 Quintessence
+- Spheres
+    - Correspondence 2 (Affinity)
+    - Prime 1
+- Merits
+    - Clear Sighted 5
+    - Medium 2
+    - Acute Senses 1 (vision, hearing, touch, but only for Awareness)
+- Flaws
+    - Minor Annoyance -1 (Needs D batteries)
+    - Impediment -1 (Impairs hearing and peripheral vision when worn; +1 Alertness difficulty)
+    - Uncanny -3 (You are a mega dork and people cringe around you, it's loud and flashy)
+    - Vulnerability -3 (Weakness to moisture that gets through the simple plastic shell)
+
+Abilities @@...
+- Basic Detection (any Rank 1 perception effect)
+    - Immediate spatial vicinity/orientation (Correspondence 1)
+        - Anything previously studied and recorded in the Device (Correspondence 2)
+    - Flows of magick/quintessence, Resonance/Synergy, Pattern relations (Prime 1)
+- Tracking/Tracing/Mapping/Recording
+    - Follow ripples/energies left by notable or unusual objects/events/people/spirits
+    - Record signatures to compare future readings against, track previously-keyed Patterns (Correspondence 2)
+- ?
+- ?
+- ?
+
+Aesthetics
+- Nintendo Gameboy with wires strapped to it
+- Princess Leia bounty hunter helmet (from ESB) with wires strapped to it
+- Nintendo Power Glove with wires strapped to it
