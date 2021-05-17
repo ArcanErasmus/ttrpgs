@@ -73,7 +73,16 @@
 ||               |               || Responsibility | @          || Mech Aptitude     | @            ||
 ||               |               || Short          | @@@        ||                   |              ||
 ||===============|===============||================|============||===================|==============||
-|| Background: Wonder                                                                               ||
+|| Background: Allies 2/10                                                                          ||
+|| The rest of the D&D Club or A/V Club (significant overlap)                                       ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Avatar/Genius 3/5                                                                    ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Lab 1/5                                                                              ||
+|| The empty office room next to the Radio Shack, that I converted into my workshop.                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Wonder 5/5                                                                           ||
 || The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
 || is a military surplus radio set, connected to a heavily modified Gameboy, Nintendo Power Glove,  ||
 || and Priness Leia Bounty Hunter costume helmet, which can be programmed to see beyond our world   ||
@@ -95,73 +104,47 @@
 ||                                                                                                  ||
 || - Point Breakdown: 15 points - Perception (5), Awareness (5), Arete (2), Spheres (3), Merits (7) ||
 ||      Minor Annoyance (-1), Impediment (-1), Uncanny (-3), Vulnerability (-3)                     ||
+||--------------------------------------------------------------------------------------------------||
+|| Flaw: Child 2/3                                                                                  ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Curiosity                                                                                  ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Impatient                                                                                  ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Naive                                                                                      ||
+|| ?                                                                                                ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Responsibility                                                                             ||
 || School on weekdays (7th grade)                                                                   ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Allies                                                                                    ||
-|| The rest of the D&D Club or A/V Club (significant overlap)                                       ||
+|| Flaw: Short                                                                                      ||
+|| ?                                                                                                ||
+||--------------------------------------------------------------------------------------------------||
+|| Merit: Family Support 1/3                                                                        ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hands of Daedalus                                                                         ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hyperfocus                                                                                ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Lightning Calculator                                                                      ||
+|| ?                                                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Mechanical Aptitude                                                                       ||
+|| ?                                                                                                ||
 ||==================================================================================================||
 
 |----------------|----------------|-------------------|
 | archetype      | strength       | weakness          |
 |----------------|----------------|-------------------|
-| activist       | action         | outrage           |
-| benefactor     | altruism       | obligation        |
 | contrary       | insight        | subversion        |
-| crusader       | zeal           | fanaticism        |
 | hacker         | imagination    | perversity        |
-| idealist       | conviction     | dogmatic          |
 | innovator      | creativity     | unorthodoxy       |
-| kid            | innocence      | immaturity        |
-| loner          | self-reliance  | disconnection     |
 | machine        | diligent/stoic | creepy/burn-out   |
 | mad scientist  | vision         | insane            |
-| martyr         | sacrifice      | self-deprecation  |
-| monster        | dark truths    | depraved          |
-| prophet        | insight        | ruthlessness      |
-| rogue          | defiance       | selfishness       |
-| sensualist     | receptiveness  | hedonism          |
-| survivor       | perserverance  | callousness       |
-| traditionalist | consistency    | rigidity          |
-| trickster      | cleverness     | untrustworthiness |
-| visionary      | inspiration    | pride             |
 |----------------|----------------|-------------------|
-
-@@@@@ @@@@@ @@@@@
-
-- Attributes
-    - Perception 5
-- Abilities
-    - Awareness 5
-- Arete 2
-    - 8 Quintessence
-- Spheres
-    - Correspondence 2 (Affinity)
-    - Prime 1
-- Merits
-    - Clear Sighted 5
-    - Medium 2
-    - Acute Senses 1 (vision, hearing, touch, but only for Awareness)
-- Flaws
-    - Minor Annoyance -1 (Needs D batteries)
-    - Impediment -1 (Impairs hearing and peripheral vision when worn; +1 Alertness difficulty)
-    - Uncanny -3 (You are a mega dork and people cringe around you, it's loud and flashy)
-    - Vulnerability -3 (Weakness to moisture that gets through the simple plastic shell)
-
-Abilities @@...
-- Basic Detection (any Rank 1 perception effect)
-    - Immediate spatial vicinity/orientation (Correspondence 1)
-        - Anything previously studied and recorded in the Device (Correspondence 2)
-    - Flows of magick/quintessence, Resonance/Synergy, Pattern relations (Prime 1)
-- Tracking/Tracing/Mapping/Recording
-    - Follow ripples/energies left by notable or unusual objects/events/people/spirits
-    - Record signatures to compare future readings against, track previously-keyed Patterns (Correspondence 2)
-- ?
-- ?
-- ?
-
-Aesthetics
-- Nintendo Gameboy with wires strapped to it
-- Princess Leia bounty hunter helmet (from ESB) with wires strapped to it
-- Nintendo Power Glove with wires strapped to it
