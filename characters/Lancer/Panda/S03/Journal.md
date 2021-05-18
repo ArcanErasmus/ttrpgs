@@ -252,3 +252,8 @@ Pilot Gear:
 >///NOTICE:::THROW DOWN YOUR WEAPONS. IT IS FOR YOUR OWN GOOD. I AM UNION I AM PEACE. HELP IS ON THE WAY.
 
 MENDICANT_DEMAND=(O/K)
+
+### Counters
+- Defense of Evergreen: @.....
+    - +1, saved the buggies
+    - 0, did not kill the sniper
