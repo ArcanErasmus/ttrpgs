@@ -1,62 +1,78 @@
 ||===============================||=================================================================||
-|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her                           ||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ||
 ||===============================||==============|==================================================||
 || Core                          || Stat         | Value                                            ||
-||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Nature - ?                    || Arete        | @@@ ... ...                                      ||
-|| Demeanor - ?                  || Willpower    | @@@@@ .....                                      ||
-|| Essence - Questing            ||   Temp WP    | @@@@@                                            ||
-|| Affiliation - The Disparates  || Health       | x-5-2-2-1-1-0                                    ||
-|| Sect - Orphans                ||   Current    | @-@-@-@-@-@-@                                    ||
-|| Concept - The A/V Kid         || Quint/Pdox   | @@... ..... ..... .....                          ||
-||                               || XP Tot/Cur   | 0/0 (0 Freebie)                                  ||
-||============|=======|==========||==============|=======|======||================|=======|=========||
-|| Physical   | Level | Spec     || Social       | Level | Spec || Ment           | Level | Spec    ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
-|| Strength   | @@... |          || Charisma     | @@@.. |      || Perception     | @@... |         ||
-|| Dexterity  | @.... |          || Manipulation | @@... |      || Intelligence   | @@@@@ | Bookish ||
-|| Stamina    | @@@@@ | Tireless || Appearance   | @.... |      || Wits           | @@@.. |         ||
-||============|=======|==========||==============|=======|======||================|=======|=========||
-|| Talent     | Level | Spec     || Skill        | Level | Spec || Knowledge      | Level | Spec    ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
-|| Alertness  | ..... |          || Crafts       | @@@.. |      || Academics      | @.... |         ||
-|| Art        | ..... |          || Drive        | ..... |      || Computer       | @.... |         ||
-|| Athletics  | @.... |          || Etiquette    | ..... |      || Cosmology      | @.... |         ||
-|| Awareness  | @.... |          || Firearms     | ..... |      || Enigmas        | ..... |         ||
-|| Brawl      | ..... |          || Martial Arts | ..... |      || Esoterica      | ..... |         ||
-|| Empathy    | @.... |          || Meditation   | ..... |      || Investigation  | @.... |         ||
-|| Expression | ..... |          || Melee        | ..... |      || Law            | ..... |         ||
-|| Intimidate | ..... |          || Research     | @@... |      || Medicine       | ..... |         ||
-|| Leadership | ..... |          || Stealth      | ..... |      || Occult         | @@@.. |         ||
-|| Streetwise | ..... |          || Survival     | @.... |      || Politics       | ..... |         ||
-|| Subterfuge | ..... |          || Technology   | @@@.. |      || Science        | @.... |         ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
-|| Scan       | @.... |          || Security     | @.... |      || Conspiracies   | @@@.. |         ||
-|| Scrounge   | @.... |          ||              |       |      || Covert Culture | @@... |         ||
-||============|=======|==========||==============|=======|======||================|=======|=========||
-|| Sphere     | Level | Spec     || Sphere       | Level | Spec || Sphere         | Level | Spec    ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - ||- - - - - - - - | - - - | - - - - ||
-|| Corresp    | ..... |          || Life         | ..... |      || Prime          | ..... |         ||
-|| Entropy    | ..... |          || Matter       | ..... |      || Spirit         | @@@.. |         ||
-|| Forces     | ..... |          || Mind         | @@@.. |      || Time           | ..... |         ||
-||============|==|====|==========||==============|=|=====|======||================|==|====|=========||
-|| Background    | Value         || Flaw           | Value      || Merit             | Value        ||
-||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - ||- - - - - - - - - -|- - - - - - - ||
-|| Allies        | @@... .....   || Child          | @@.        || Family Support    | @..          ||
-|| Avatar/Genius | @@@..         || Curiosity      | @@         || Hands of Daedalus | @@@          ||
-||$Lab           | @....         || Impatient      | @          || Hyperfocus        | @@@          ||
-|| Wonder        | @@@@@         || Naive          | @          || Lightning Calc    | @            ||
-||               |               || Responsibility | @          || Mech Aptitude     | @            ||
-||               |               || Short          | @@@        ||                   |              ||
-||===============|===============||================|============||===================|==============||
+||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
+|| Nature - Innovator            || Willpower    | @@@@@ .....                   | XP Total/Current ||
+|| Demeanor - Hacker             ||   Temp WP    | @@@@@                         |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 0/0              ||
+|| Affiliation - The Disparates  ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - ||
+|| Sect - Orphans                || Quint/Pdox   | @@@@. ..... ..... .....                          ||
+|| Concept - The A/V Kid         || Arete        | @@@ ... ...                                      ||
+||============|=======|==========||==============|=======|========||==============|=======|=========||
+|| Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
+|| Strength   | @@... |          || Charisma     | @@@.. |        || Perception   | @@@@. | Sensory ||
+|| Dexterity  | @@... |          || Manipulation | @.... |        || Intelligence | @@@@. | Bookish ||
+|| Stamina    | @@@@. | Tireless || Appearance   | @@... |        || Wits         | @@... |         ||
+||============|=======|==========||==============|=======|========||==============|=======|=========||
+|| Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
+|| Alertness  | ..... |          || Crafts       | ..... |        || Academics    | @.... |         ||
+|| Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |         ||
+|| Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |         ||
+|| Awareness  | @.... |          || Firearms     | ..... |        || Enigmas      | ..... |         ||
+|| Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |         ||
+|| Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |         ||
+|| Expression | ..... |          || Melee        | ..... |        || Law          | ..... |         ||
+|| Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |         ||
+|| Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@.. |         ||
+|| Streetwise | ..... |          || Survival     | @.... |        || Politics     | ..... |         ||
+|| Subterfuge | ..... |          || Technology   | @@@.. |        || Science      | @.... |         ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
+|| Scan       | @.... |          || Jury-Rig     | @@@.. |        || Conspiracies | @@@.. |         ||
+|| Scrounge   | @.... |          || Security     | @.... |        || Covert Cult  | @@... |         ||
+||============|=======|==========||==============|=======|========||==============|=======|=========||
+|| Sphere     | Level | Spec     || Sphere       | Level | Spec   || Sphere       | Level | Spec    ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
+|| Corresp    | @@@.. |          || Life         | ..... |        || Prime        | ..... |         ||
+|| Entropy    | ..... |          || Matter       | ..... |        || Spirit       |A@@@..A|         ||
+|| Forces     | ..... |          || Mind         | ..... |        || Time         | ..... |         ||
+||============|==|====|==========||==============|=|=====|========||==============|====|==|=========||
+|| Background    | Value         || Flaw           | Value        || Merit             | Value      ||
+||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - - ||- - - - - - - - - -|- - - - - - ||
+|| Allies        | @@... .....   || Child          | @@.          || Acute Senses      | @@@        ||
+|| Avatar/Genius | @@@@.         || Curiosity      | @@           || Family Support    | @..        ||
+||$Lab           | @....         || Impatient      | @            || Hands of Daedalus | @@@        ||
+|| Wonder        | @@@@@         || Responsibility | @            || Hyperfocus        | @@@        ||
+||               |               || Short          | @@@          || Lightning Calc    | @          ||
+||               |               || Technobabbler  | @            || Medium            | @@         ||
+||===============|===============||================|==============||===================|============||
+|| Archetype - Innovator Nature, Hacker Demeanor:                                                   ||
+|| - Hacker: Strength in imagination, weakness in perversity                                        ||
+||     - Regain Willpower when you detect a flaw in some important structure, system, or device, or ||
+||          else when you puzzle out a way to improve something that was supposedly designed well   ||
+||          to begin with.                                                                          ||
+|| - Innovator: Strength in creativity, weakness in unorthodoxy                                     ||
+||     - Regain Willpower when your inspiration leads to a helpful new breakthrough.                ||
+||==================================================================================================||
+|| Magic:                                                                                           ||
+|| -                                                                                                ||
+||                                                                                                  ||
+|| - Spirit: Celestials, fetishes, gauntlet manipulation, infernals, naturalism, necromancy,        ||
+||      possession, primal spirits, shadow-walking, spirit dealings, tech spirits, umbral travel.   ||
+|| - Correspondence: Conjuration, distortion, gates, scrying, teleportation, warding, wayfaring.    ||
+|| - Spirit + Correspondence: Convert between ephemera and space, sense ephemera at distance, link  ||
+||      spaces across the Gauntlet.                                                                 ||
+||==================================================================================================||
 || Background: Allies 2/10                                                                          ||
-|| The rest of the D&D Club or A/V Club (significant overlap)                                       ||
+|| - The four other members of the A/V Club.                                                        ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Avatar/Genius 3/5                                                                    ||
-|| ?                                                                                                ||
+|| Background: Avatar/Genius 4/5                                                                    ||
+|| - ?                                                                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Background: Lab 1/5                                                                              ||
-|| The empty office room next to the Radio Shack, that I converted into my workshop.                ||
+|| - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Background: Wonder 5/5                                                                           ||
 || The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
@@ -64,134 +80,105 @@
 || and Priness Leia Bounty Hunter costume helmet, which can be programmed to see beyond our world   ||
 || and follow the ripples and energies left behind by spirits and manipulations of magicks.         ||
 ||                                                                                                  ||
-|| Quintessence | @@@@@ @@@                                                                         ||
-|| Damage       | x-5-2-2-1-1-0                                                                     ||
-||   Current    | @-@-@-@-@-@-@                                                                     ||
+|| - Stats: Awareness 5                                                                             ||
+|| - Grants: Clear Sighted, Deathwalker, Quantum Voyager (5 pt).                                    ||
+|| - Flaws: Needs D batteries, looks super dorky and obvious.                                       ||
+|| - Abilities: Record and track observed ephemera/effects.                                         ||
+|| - Point Breakdown: 15 points - Awareness (5), Merits (14), Minor Annoyance (-1), Uncanny (-3).   ||
 ||                                                                                                  ||
-|| - Stats: Perception 5, Awareness 5, 2 Arete, Correspondence 2 (Affinity), Prime 1                ||
+|| Clear Sighted                                                                                    ||
+|| - Can make Perception + Awareness to see through metaphysical deceptions, usually at diff of     ||
+||      highest Sphere Rank/other level involved + 5.                                               ||
+|| - Diff -3 from normal if could already make roll to see through the illusion.                    ||
 ||                                                                                                  ||
-|| - Grants: Clear Sighted, Medium, Acute Senses (vision, hearing, touch, but only for Awareness)   ||
+|| Deathwalker                                                                                      ||
+|| - Travel to Deadlands (Shadowlands and Low Umbra) with Spirit 3, at no risk of Avatar Storm.     ||
+|| - Knowledgeable entities can distinguish me from ghost with Perception + Occult at diff 7.       ||
 ||                                                                                                  ||
-|| - Flaws: Needs D batteries, +1 Alertness difficulty while worn, looks super dorky and obvious    ||
-||      Weakness to water that gets through its plastic/epoxy shell                                 ||
-||                                                                                                  ||
-|| - Abilities: Percieve magick/quintessence/resonance/synergy as Prime 1                           ||
-|| - Abilities: Record and track signatures through Correspondence 2                                ||
-||                                                                                                  ||
-|| - Point Breakdown: 15 points - Perception (5), Awareness (5), Arete (2), Spheres (3), Merits (7) ||
-||      Minor Annoyance (-1), Impediment (-1), Uncanny (-3), Vulnerability (-3)                     ||
+|| Quantum Voyager                                                                                  ||
+|| - Can cross the Gauntlet with no risk of Avatar Storm, including everyone/everything touched     ||
+||      that I desire to protect, including things "touched" with Correspondence.                   ||
 ||--------------------------------------------------------------------------------------------------||
 || Flaw: Child 2/3                                                                                  ||
-|| ?                                                                                                ||
+|| - I am 12 years old.                                                                             ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Curiosity                                                                                  ||
-|| ?                                                                                                ||
+|| - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Impatient                                                                                  ||
-|| ?                                                                                                ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Naive                                                                                      ||
-|| ?                                                                                                ||
+|| - Willpower diff 6 to restrain yourself when others are taking for-freaking-ever.                ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Responsibility                                                                             ||
-|| School on weekdays (7th grade)                                                                   ||
+|| - School on weekdays (7th grade)                                                                 ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Short                                                                                      ||
-|| ?                                                                                                ||
+|| - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Technobabbler                                                                              ||
+|| - Social rolls at +1 or +2 diff, due to compulsive jargon-spouting.                              ||
+|| - May become a bonus instead when speaking with an expert.                                       ||
 ||--------------------------------------------------------------------------------------------------||
+|| Merit: Acute Senses 3/3                                                                          ||
+|| - Perception-based rolls at -2 diff for all senses.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Family Support 1/3                                                                        ||
-|| ?                                                                                                ||
+|| - Typical family, support is mostly emotional but can get occasional favor/allowance.            ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Hands of Daedalus                                                                         ||
-|| ?                                                                                                ||
+|| - Rolls to craft/repair/invent/modify mechanical technologies at -2 diff when hands-on.          ||
+|| - Tech-based magickal instruments function as Personalized Instruments once familiar.            ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Hyperfocus                                                                                ||
-|| ?                                                                                                ||
+|| - For every hr focusing without distractions on non-magickal-casting task, add 1 die to pool,    ||
+||      max 3 bonus dice.                                                                           ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Lightning Calculator                                                                      ||
-|| ?                                                                                                ||
+|| - Math- and calculation-based rolls at -2 diff.                                                  ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Mechanical Aptitude                                                                       ||
-|| ?                                                                                                ||
+|| Merit: Medium                                                                                    ||
+|| - Successful Perception + Awareness lets me sense the presence of ghosts.                        ||
+|| - My aura shines faintly like a spirit-beacon in the Shadowlands, causing the dead to favor me.  ||
+|| - Social rolls at -2 diff when dealing with ghosts, and may perceive things the living don't.    ||
 ||==================================================================================================||
 || Bio                                                                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Family                                                                                           ||
+|| Family:                                                                                          ||
 || - Mom runs the Radio Shack located in the tiny mall. Said mall also contains an O'Tulleys, an    ||
 ||      Endron, an Army recruiter who taught her morse code and the NATO phonetic alphabet, Burger  ||
 ||      of the King, a Western Union branch, and clothing/general store.                            ||
 || - Don't have lots of money, but can scrounge up kit                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Kit
-|| - camcorder
-|| - tape deck
-|| - boombox
-|| - inscrutiable device that "detects the supernatural" with technobabble
-|| - walkie talkies
-|| - a pager
-|| - police CB radio
-|| - too many D batteries
+|| Kit                                                                                              ||
+|| - Camcorder, tape deck, walkie talkies, a pager, police CB radio, too many D batteries.          ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Skills:
-|| - can tune a tv
-|| - knows morse code
-|| - remembers at least 50% of the NATO phonetic alphabet, makes up the rest
-|| - surprisingly in-shape cardio-wise from lugging around tons of equipment
-|| - can decipher some amount of military/police radio chatter
+|| Skills:                                                                                          ||
+|| - Can tune a tv, phone phreak, and really ruck a pack.                                           ||
+|| - Knows morse code, half the NATO phonetic alphabet, and too many conspiracy theories.           ||
+|| - Can decipher some amount of military/police radio chatter.                                     ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Magic:
-|| - manipulates recordings by playing them forward/backward/fast/slow to hear/play "subliminal messages"
-|| - plays sounds to mind control people or drive off ghosts or something
-|| - spheres notes:
-||     - correspondence: scrying, warding
-||     - entropy: chaos?
-||     - forces: technology
-||     - matter: complex patterns, forging, refinement
-||     - mind: astral travel, communication, dreams?, emotion, mind-shielding, psychic combat, self-empowerment, social programming
-||     - spirit: spirit sight
-||     - time: ham radio cross-universe
-|| - interesting combinations
-||     - correspondence + mind: telepathy, logical shortcuts/deduction
-||     - mind + matter: imbue intelligence in nonliving (erica char)
-||     - mind + spirit:
+|| Personality:                                                                                     ||
+|| - The supernatural is all around us, and we can tap into it with advanced technology.            ||
+|| - Always trying to capture a/v recordings to prove to adults she's not full of shit.             ||
+|| - Chats on the police CB radio, they remind her to get back to her homework.                     ||
+|| - Convinced parents to get her a trainer bra, stores D batteries in it.                          ||
+|| - Minmaxer in her D&D group.                                                                     ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Personality:
-|| - 12 years old
-|| - believes the supernatural is everywhere around us always
-|| - we can only tap into it with "advanced" technology
-|| - always trying to capture a/v recordings to prove to adults she's not full of shit
-|| - talks to the police on their radio because all of them are bored, they have to remind her to get back to her homework
-|| - wears aviators
-|| - minmaxer in her D&D group
-|| - the only uncool kid with a boombox
-|| - awakening: the detectificator started working. what changed/occured?
+|| Goals:                                                                                           ||
+|| - Turn mostly-abandoned listening post into personal lab/hideout/pirate radio.                   ||
+|| - Get an internet connection.                                                                    ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Goals:
-|| - turn mostly-abandoned listening post into personal lab/hideout/pirate radio
-|| - get a dialup connection
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Questionable lore:
-|| - convinced parents to get her a trainer bra just because she secretly wanted the perfect pocket to store batteries in and keep them warm
-|| - knows how to phone phreak even though it's not useful any more
-||     - UPDATE: it might be useful because 2.6 KHz controlled trunks were still in use in parts of Alaska until 2011
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Group Relations
-|| - Summer
-||     - Thought she was a ghost
-||     - Asked Autumn why her sister was a ghost
-||     - Invited her to D&D club
-||     - Showed up to D&D with a 7-page backstory dripping with edge and angst, Max reads it cover to cover several times
-|| - Autumn
-||     - Shoved me out the door when I interrogated Autumn about ghost-ness
-||     - Showed up to D&D with Summer, made the most obnoxious Mary Sue murderhobo
+|| Group Relations                                                                                  ||
+|| - Summer                                                                                         ||
+||     - Thought she was a ghost, asked Autumn about this, then invited them to the D&D club.       ||
+||     - Summer showed up to D&D with a 7-page backstory dripping with edge and angst, Max read it  ||
+||          cover to cover several times.                                                           ||
+|| - Autumn                                                                                         ||
+||     - Shoved me out the door when I interrogated Autumn about ghost-ness.                        ||
+||     - Showed up to D&D with Summer, made the most obnoxious Mary Sue murderhobo.                 ||
+|| - Klaus                                                                                          ||
+||     -                                                                                            ||
+|| - Scott                                                                                          ||
+||     -                                                                                            ||
+|| - ???                                                                                            ||
+||     -                                                                                            ||
 ||==================================================================================================||
-
-|----------------|----------------|-------------------|
-| archetype      | strength       | weakness          |
-|----------------|----------------|-------------------|
-| contrary       | insight        | subversion        |
-| hacker         | imagination    | perversity        |
-| innovator      | creativity     | unorthodoxy       |
-| machine        | diligent/stoic | creepy/burn-out   |
-| mad scientist  | vision         | insane            |
-|----------------|----------------|-------------------|
