@@ -1,0 +1,64 @@
+||===============================||=================================================================||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ||
+||===============================||=================================================================||
+|| Archetype - Innovator Nature, Hacker Demeanor:                                                   ||
+|| - Hacker: Strength in imagination, weakness in perversity                                        ||
+||     - Regain Willpower when you detect a flaw in some important structure, system, or device, or ||
+||          else when you puzzle out a way to improve something that was supposedly designed well   ||
+||          to begin with.                                                                          ||
+|| - Innovator: Strength in creativity, weakness in unorthodoxy                                     ||
+||     - Regain Willpower when your inspiration leads to a helpful new breakthrough.                ||
+||==================================================================================================||
+|| Background: Allies 2/10                                                                          ||
+|| - Four sidekicks: The four other members of the A/V Club.                                        ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Avatar/Genius 4/5                                                                    ||
+|| - ?                                                                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Lab 1/5                                                                              ||
+|| - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Wonder 5/5                                                                           ||
+|| - The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick.        ||
+||--------------------------------------------------------------------------------------------------||
+|| Flaw: Child 2/3                                                                                  ||
+|| - I am 12 years old.                                                                             ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Curiosity                                                                                  ||
+|| - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Impatient                                                                                  ||
+|| - Willpower diff 6 to restrain yourself when others are taking for-freaking-ever.                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Responsibility                                                                             ||
+|| - School on weekdays (7th grade)                                                                 ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Short                                                                                      ||
+|| - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Technobabbler                                                                              ||
+|| - Social rolls at +1 or +2 diff, due to compulsive jargon-spouting.                              ||
+|| - May become a bonus instead when speaking with an expert.                                       ||
+||--------------------------------------------------------------------------------------------------||
+|| Merit: Acute Senses 3/3                                                                          ||
+|| - Perception-based rolls at -2 diff for all senses.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Family Support 1/3                                                                        ||
+|| - Typical family, support is mostly emotional but can get occasional favor/allowance.            ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hands of Daedalus                                                                         ||
+|| - Rolls to craft/repair/invent/modify mechanical technologies at -2 diff when hands-on.          ||
+|| - Tech-based magickal instruments function as Personalized Instruments once familiar.            ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hyperfocus                                                                                ||
+|| - For every hr focusing without distractions on non-magickal-casting task, add 1 die to pool,    ||
+||      max 3 bonus dice.                                                                           ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Lightning Calculator                                                                      ||
+|| - Math- and calculation-based rolls at -2 diff.                                                  ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Medium                                                                                    ||
+|| - Successful Perception + Awareness lets me sense the presence of ghosts.                        ||
+|| - My aura shines faintly like a spirit-beacon in the Shadowlands, causing the dead to favor me.  ||
+|| - Social rolls at -2 diff when dealing with ghosts, and may perceive things the living don't.    ||
+||==================================================================================================||

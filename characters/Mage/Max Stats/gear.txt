@@ -1,0 +1,46 @@
+||===============================||=================================================================||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ||
+||===============================||===============||================================================||
+|| Gear                                           || Gear                                           ||
+||- - - - - - - - - - - - - - - - - - - - - - - - ||- - - - - - - - - - - - - - - - - - - - - - - - ||
+|| - Camcorder                                    || - The Detectificator                           ||
+|| - Tape deck                                    || - Big fat flashlight                           ||
+|| - Walkie talkies                               || - Leatherman                                   ||
+|| - A pager                                      || - Rope                                         ||
+|| - Police CB radio                              || - Poncho                                       ||
+|| - Too many batteries                           || - Apple Newton MessagePad                      ||
+|| - Chalk                                        || - Digital watch with calculator                ||
+|| - Various handmade charms                      ||                                                ||
+||===============|======|========|=======|======|=||===|=========|==================================||
+|| Weapon        | Diff | Damage | Range | Rate | Clip | Conceal | Notes                            ||
+||- - - - - - - -|- - - | - - - -|- - - -|- - - | - - -|- - - - -|- - - - - - - - - - - - - - - - - ||
+|| Leatherman    | 5    | S/L    | -     | -    | -    | Pocket  | Knife but worse                  ||
+||===============|======|========|=======|======|======|=========|==================================||
+|| Armor         | Prot | Dex    | Notes                                                            ||
+||- - - - - - - -|- - - | - - - -|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Thick Clothes | 1    | 0      | Max wears lots of layers                                         ||
+||===============|======|========|==================================================================||
+|| The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
+|| is a military surplus radio set, connected to a heavily modified Gameboy, Nintendo Power Glove,  ||
+|| and Priness Leia Bounty Hunter costume helmet, which can be programmed to see beyond our world   ||
+|| and follow the ripples and energies left behind by spirits and manipulations of magicks.         ||
+||                                                                                                  ||
+|| - Stats: Awareness 5 (Spec: Spiritual Vidare)                                                    ||
+|| - Grants: Clear Sighted, Deathwalker, Quantum Voyager (5 pt).                                    ||
+|| - Flaws: Needs D batteries, looks super dorky and obvious.                                       ||
+|| - Abilities: Record and track observed ephemera/effects.                                         ||
+|| - Point Breakdown: 15 points - Awareness (5), Merits (14), Minor Annoyance (-1), Uncanny (-3).   ||
+||                                                                                                  ||
+|| Clear Sighted                                                                                    ||
+|| - Can make Perception + Awareness to see through metaphysical deceptions, usually at diff of     ||
+||      highest Sphere Rank/other level involved + 5.                                               ||
+|| - Diff -3 from normal if could already make roll to see through the illusion.                    ||
+||                                                                                                  ||
+|| Deathwalker                                                                                      ||
+|| - Travel to Deadlands (Shadowlands and Low Umbra) with Spirit 3, at no risk of Avatar Storm.     ||
+|| - Knowledgeable entities can distinguish me from ghost with Perception + Occult at diff 7.       ||
+||                                                                                                  ||
+|| Quantum Voyager                                                                                  ||
+|| - Can cross the Gauntlet with no risk of Avatar Storm, including everyone/everything touched     ||
+||      that I desire to protect, including things "touched" with Correspondence.                   ||
+||==================================================================================================||

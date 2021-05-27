@@ -14,7 +14,7 @@
 7. If you gain Stress above your cap, make a Challenging (+0) Cool Test. On a failure, lose stress equal to the SL you failed the Cool Test by, and pick one:
     a. Lose 1 corruption and roll a random Fight, Flee, or Freeze response
     b. Choose a Fight, Flee, or Freeze response
-    c. Gain 1 corruption as you push yourself beyond
+    c. Gain 1 corruption as you push yourself beyond your limits
 
 ### Fight, Flee, or Freeze:
 - You immediately lash out, gaining a number of Rage conditions equal to the SL you failed the Cool Test by.
