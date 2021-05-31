@@ -1,0 +1,63 @@
+{
+  "id": "vc_omalley",
+  "license_level": 2, // set to zero for this item to be available to a LL0 character
+  "source": "IPS-N", // must be the same as the Manufacturer ID to sort correctly
+  "name": "O'MALLEY",
+  "mechtype": ["Striker"], // can be customized
+  "specialty": false, // see below
+  "description": "The O'Malley is not a conductor of festival pieces.", // v-html
+  "mounts": ["Flex","Flex","Heavy"],
+  "stats": {
+    "size": 2, // see note below
+    "structure": 4,
+    "stress": 4,
+    "armor": 3,
+    "hp": 6,
+    "evasion": 6,
+    "edef": 8,
+    "heatcap": 6,
+    "repcap": 5,
+    "sensor_range": 10,
+    "tech_attack": -2,
+    "save": 10,
+    "speed": 3,
+    "sp": 6
+  },
+  "traits": [{
+      "name": "Industrial Materials",
+      "description": "The O'Malley rolls an extra d6 on structure checks and drops the lowest die before determining the result.",
+      "synergies": [{
+        "locations": ["structure"],
+        "detail": "The O'Malley rolls an extra d6 on structure checks and drops the lowest die before determining the result."
+      }]
+    },
+    {
+      "name": "Volume of Fire",
+      "description": "When the O'Malley consumes Lock On as part of an attack, it can gain +1 Accuracy versus another target within 3 spaces of the original on an attack role made during the same attack action."
+    },
+    {
+      "name": "Exposed Reactor",
+      "description": "The O'Malley takes +1 Difficulty on all ENGINEERING saves and checks.",
+      "synergies": [{
+        "locations": ["engineering", "skill_check"],
+        "detail": "The O'Malley takes +1 Difficulty on all engineering saves and checks"
+      }]
+    }
+  ],
+  "core_system": {
+    "name": "???",
+    "description": "???",
+    "active_name": "Crescendo",
+    "activation": "Protocol",
+    "active_effect": "Your damaging weapons and systems deal +1 damage for each instance of damage you or your systems have previously scored this round, to a maximum of +2.",
+    "passive_name": "Lead Symphony",
+    "passive_effect": "For the rest of the scene, your maximum bonus damage from lead symphony increases to +6. However, if your Lead Symphony would increase past +6, it resets to 0 instead, and ??? happens.",
+    "counters": [{
+      "id": "ctr_lead_symphony",
+      "name": "Lead Symphony",
+      "default_value": 0,
+      "min": 0,
+      "max": 6
+    }]
+  }
+},

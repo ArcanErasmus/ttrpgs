@@ -1,0 +1,133 @@
+stat   ??
+size |  1
+arm  |  2
+hp   |  8
+evas |  7
+edef |  7
+heat |  6
+reps |  4
+sens | 15
+tech | -2
+save | 10
+spd  |  4
+sp   |  6
+
+?? mounts
+    Flex
+    Main, Aux/Aux
+
+passive, gravitational lensing - you project a burst 2 area that warps space. hostile attacks against allied characters other than you are at +1 difficulty.
+active, ??? - your space-warping aura expands to burst 4 and applies 3 difficulty instead of 1. enemies targeting you with an attack take 2 heat before the attack resolves.
+
+kit to work with
+- worldkiller genghis frame
+- sunzi frame (to be recovered)
+- drake's assault cannon
+- agrippa's heavy lift gear
+- specialty snapdragon launcher (can ask team for more)
+- specialty advanced combat rifle, modular
+    - or specialty optimized engineering (can ask team for more)
+- specialty ballistic shield
+    - or specialty underbarrel breacher (can ask team for more)
+- 1 core battery (can ask team for more)
+
+licenses to work with
+- ipsn worden 2
+    - warthog gpmg
+    - turret mount
+    - sticky launcher
+    - mass pack
+    - worden frame
+
+sunzi-inspired passive space-warping:
+- transplant a lot of the space-warping tech into a weapon system, so it focuses on manipulating the path of projectiles. this could lead to either increased range, ability to target line of sight from different squares, and warping enemy projectiles away from me. this isn't a niche that's really explored with another mech, and still lets me get into a similar role as the genghis/worden
+- this would be a system that passively adds difficulty to ranged attacks made against you or chars within burst 1 while you're in the danger zone (heat shimmer plus space warping makes fire control sad)
+- active, it lets you put a single 60 degree (one hex angle) bend in your weapons' projectile paths (possibly including line templates?), or extend their range by like 4 hexes, or maybe a percentage. this lets you get more utility out of setup-and-shoot weapons, where its not hard for enemies to outmaneuver you or sit outside your range. maybe it also expands your space warping aura to burst 2.
+- unlike the worldkiller, your passive and active don't fuck with adjacents. you don't prevent reactions, nor can you belch out your reactor heat, nor melt through terrain. so instead it is more protective of nearby allies, and in a way that synergizes with the gorgon's reactiveness. you need to rely on allies for anti-melee, or shoot them before they get close. this puts you closer to artillery than striker, but the anti-ranged defense keeps you near the frontline
+
+turn the snapdragon into a system-launcher:
+- rocket-deployed turret. launches to a space within 10 range as if with Arcing, but lands in random space within burst 1 of targeted spot (roll a d6 with 1 as top or top-right, moving clockwise), spends until start of your next turn setting up. as a free action once per round, you can have it fire its weapon as per Turret Mount system being operated by a subaltern. stats as a fairly tough deployable. usable 1/scene but no limited. 2-3 system points.
+    - idea: instead of free action shoot, it fires as a reaction. when ally scans an enemy, it can shoot them, and you can take this reaction any number of times in a round.
+    - idea: damage is 2d3, but increases by +1 (max +3) on a target for each time beyond the first that target is scanned.
+- rocket-powered medevac suite! the mech catapults it to a location within LoS and sensors, where a couple of medical subalterns emerge and recover a willing adjacent half-size or smaller target (organic or not) into the pod. recovery is complete at the start of your next turn, and it takes off through rocket propulsion (protecting the injured occupant with small-scale g-dampeners) and either returns them to your mech or more likely flies them to a safe location offsite. could also be used to recover an important object up to size half and not insanely heavy. since it can be targeted before it finishes recovery and launch prep, stats as per a deployable. limited 1. 1-2 system points.
+
+
+traits
+    spatial ballistics - weapons gain the arcing tag. if they already had arcing, they gain the seeking tag instead.
+    gravity well - adjacent allies have soft cover.
+    ?? - slide one space when you fire a weapon
+
+weapon ideas
+- low-RoF tri-barrel autocannon
+    - heavy or superheavy
+    - cannon or rifle
+    - explosive damage
+    - range between 10 and 12
+    - first profile, precision: accurate, extra die on crit
+    - second profile, airburst: burst 1, heat 2 self
+
+- smart howitzer
+    - not aux
+    - cannon or rifle
+    - ap damage
+    - another mid-long range, arcing
+    - gets bonuses vs same target hit before
+
+Theme: Using suzni-scaveneged tech, project spatial warping to manipulate projectiles
+Role: While controller/support feels natural for this, I want to make it into a striker/controller or artillery/controller
+Specific Niche: Disrupt enemy targeting/aiming, return precise fire through unusual angles
+Narrative: Frustrated by the dense jungle on Hercynia foiling long-range fire, Union Navy lancer, combat medic, and mech engineer Tarsilyle Panderosa designed a custom weapons platform for advanced fire control in complex terrain. Starting from her IPS-N Worden, Panderosa applied salvaged components from the derelict frames of a Mk. I Genghis and a Sunzi. In combination with other scavenged gear, her mech was fully rebuilt to utilize spatial warping systems in a projectile-focused application.
+
+team:
+- Gorgon, retaliatory (defender)
+- Emperor, overshields and line template fire (artillery/support)
+- Nelson, fast anti-grapple melee (striker)
+
+my original role
+- Worden, mid-range (artillery)
+
+desired role
+- mid-range (artillery)
+
+needed roles
+- controller
+- non-hp support
+
+=================================
+=================================
+
+O'Malley, Worden alt-frame, Striker
+
+stat   ok  wk dif wo dif
+size |  2 |      |
+arm  |  3 |      | +2
+hp   |  6 |      | -2
+evas |  6 |      | -1
+edef |  8 |      |
+heat |  6 | -2   | +1
+reps |  5 | +1   | -1
+sens | 10 | +5   | -5
+tech | -2 |      | -1
+save | 10 |      |
+spd  |  3 |      |
+sp   |  6 | +1   | +1
+
+mounts
+    flex
+    flex
+    heavy
+
+"The O'Malley is not a conductor of festival pieces"
+
+core
+    passive - lead symphony
+        - your damaging weapons and systems deal +1 damage for each instance of damage you or your systems have previously scored this round, to a maximum of +2.
+    active - crescendo
+        - For the rest of the scene, your maximum bonus damage from lead symphony increases to +6. However, if your Lead Symphony would increase past +6, it resets to 0 instead, and ??? happens.
+
+"I shield my allies without warmth, without love" - Panderosa
+
+traits
+    - industrial materials - roll an extra d6 on structure checks and drop the lowest die before determining the result.
+    - Volume of Fire - When you consume Lock On as part of an attack, gain +1 Accuracy vs another target within 3 spaces of the original for that same attack action.
+    - exposed reactor - +1 diff eng checks/saves
