@@ -1,0 +1,352 @@
+===========================
+
+Name
+Age
+Pronouns
+People
+
+Hard
+Keen
+Calm
+Daring
+
+Stress .... ..... .
+XP
+
+Triggers
+
+Vents
+
+Comrades , Trust
+
+Familiar Vices
+
+Intimacy Move
+
+Personal Moves
+
+Other Moves
+
+Other/Notes
+
+Mastery Progress
+
+---------------------------
+
+BG-Specific Location of Origin
+
+Expectations
+
+Personal History
+
+Questions
+
+Trust
+
+---------------------------
+
+Assets
+
+Baggage
+
+Planes
+
+Combat Value
+
+===========================
+
+Company Name
+Structure
+Company Value
+Fame , Infamy
+
+Fame Moves
+
+Infamy Moves
+
+Overruns
+
+Picture Space
+
+Plane List
+
+Employee List
+
+===========================
+
+Name
+Type
+Value
+
+What You're Fighting For
+
+Wet Stats Chart
+
+G-Force
+
+Toughness , Max Strain
+
+Fuel
+
+Ordinance
+
+Vital Parts
+
+Dry Stats
+Stress
+Escape , Crash
+
+Armor
+
+Tags , Notes
+
+Decorations/Nose Art
+
+===========================
+
+Weapon Type
+
+Ammo
+AP
+Jam
+
+Picture
+
+Range Chart
+
+Tags
+
+===========================
+
+Engine Type
+
+Reliability
+Ideal Altitude
+Overspeed
+
+Picture
+
+RPM Gauge
+
+Wear Gauge
+
+===========================
+
+Radiator Mount Type
+
+Liquid
+
+Picture
+
+===========================
+
+Universal Moves Reference
+- Press Your Luck
+- Break Trust
+- Restore Trust
+- Help/Hinder
+- Discover Beauty
+- Intimacy
+
+Get Going Moves Reference
+- Contact
+- Air Patrol
+- Long Haul
+
+Heading Into Battle Moves Reference
+- Engage
+- Fuel Check
+
+Manoeuvers Moves Reference
+- Extend
+- Altitude Adjustment
+- Pull Up
+- Overstrain
+- Overspeed
+- Boost
+- Cool Off
+- Stall/Spin
+- Recover
+- Bail Out
+- Go Down
+- Collision
+
+Air Combat Moves Reference
+- Stay on Target
+- Evade Danger
+- Overwatch
+- Dogfight!
+- Chase!
+
+Shooting Moves Reference
+- Open Fire
+- Take Fire
+- Draw A Bead
+
+Support Moves Reference
+- Eyeball
+- Empty Seat
+- Wingwalk
+- Patch Fix
+
+On-Foot Moves Reference
+- Explore the Wild
+- Confront your Fears
+- Parlay with the Strange
+- Sieze the Initiative
+- Personal Attack
+
+Stress Moves Reference
+- Vent
+- Indulge in Vice
+- End of Night
+- Quality Time
+
+Ground Moves Reference
+- Press the Issue
+- Turn on the Charm
+- Get Real
+- Brawl
+
+Finance Moves Reference
+- Get Stuff
+- Sell Stuff
+
+Finding Work Moves Reference
+- Find Work
+- Negotiate a Contract
+
+Quiet Moments Moves Reference
+- Introspection
+
+Characters Moves Reference
+- Cast a Spell
+
+Ground Fire Moves Reference
+- Weather Flak
+
+Bombing Moves Reference
+- Bombs Away!
+- Dive Bomb
+- Air Bomb
+
+Large Battles Moves Reference
+- Battle
+
+===========================
+
+Agenda
+- Put the players in thrilling danger
+- Mix glory and tragedy in equal measure
+- Play to find out what happens next
+
+Principles
+- Make players love the world
+- Talk to the characters, not the players
+- Speak out your moves through fiction
+- Litter the world with hooks, and use the interesting ones
+- Treat humans as humans, even the nameless ones
+- Figure out what everyone wants
+- Ask provocative questions and build on the answers
+- Say "Yes, and..." or "No, but..."
+- Wash your hands of cruel decisions
+
+Soft Move vs Hard Move
+
+Their Plane
+- Forecast problems with sounds and sensations
+- Steal their energy from them
+- Push a move or mechanical consequence
+- Spray something into the cockpit
+- Turn them around and confuse them
+- Threaten a collision or shower them with debris
+
+Their Enemies
+- Drop in behind them
+- Offer bait to draw them in
+- Move the fight dangerously low
+- Twist out from under their guns
+- Fill the air with bullets
+- Return fire with tailguns and personal weapons
+- Chase them doggedly
+- Outrun them and leave them behind
+
+Town Moves
+- Make them pay for it
+- Bring in local authority
+- Have the goodwill of the town run out
+- Have the goodwill of their employees run out
+- Have the goodwill of a Confidant run out
+- Dare them to do something stupid
+- Show them the consequences of their actions
+
+Creating Threats
+- What are they called?
+- How do you recognize them?
+- Who is in charge?
+- What do they want?
+
+Bandit Moves
+- Approach and threaten with signals and warning shots
+- Take what they can carry and leave quickly
+- Use misdirection to appear to have greater numbers
+- Flee to a nearby village that will defend them as their own
+- Tug at the heartstrings with a sob story
+- Take any deal that keeps them alive
+
+Pirate Moves
+- Approach and demand surrender
+- Surround and ambush from all sides
+- Board an airship with lines or gliders
+- Humiliate and take everything from the defeated
+- Flee once they begin to lose
+- Espouse a noble philosophy at odds with their actions
+
+Warlord Moves
+- Catch the pilots in violation of their laws
+- Fill the sky and ground with patrols
+- Make an unwise attempt to harness a greater evil
+
+Goth Moves
+- Jump daringly between planes
+- Attack savagely and up close
+- Take a captive straight out of their plane
+- Die gloriously and absurdly for the cause
+- Fall to pieces when their leader is dead
+
+Clockwerk Moves
+- Obey the orders of their keyholders
+- Molt into bigger, more dangerous forms
+- Pursue their quarry indefatigably
+- Take people alive to turn their keys
+- Rebuild their allies with whatever is available
+- Chase down those who take their keys
+
+Leviathan Moves
+- Close the distance to its target (use a clock!)
+- Crush everything in its path
+- Fire turreted guns in a huge barrage
+- Launch automated fighter planes
+- Reveal an alternate, possibly supernatural form
+
+Fae Moves
+- Confront the players demanding deference and sacrifice
+- Kick the players up the chain to more dangerous faeries
+- Entrance with beautiful illusions or promises
+- Reveal how desperate they are for what they want
+- Hold the players to what they perceive as a promise
+- Strike out with swift, sudden, and terrible violence
+- Command Beasts to act on their behalf
+- Let the humans go when they aren't fun anymore
+
+Shade Moves
+- Follow the pilots from just out of sight
+- Confront the pilots as though they were wartime intruders
+- Confuse the pilots for somebody they knew from life
+- Reach out, grasp at the pilots, and beg for help
+- Pull gas protection off of pilots to spread the poison
+
+Dragon Moves
+- Offer a generous reward for a dangerous job
+- Subtly indoctrinate a nearby human
+- Burn those who annoy them, then go back to sleep

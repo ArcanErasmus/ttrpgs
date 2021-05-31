@@ -1,0 +1,128 @@
+role: energy fighter
+
+era
+    WWI
+    *maybe* roaring 20s parts
+
+cockpit
+    narrow canopy
+
+upgrades
+    ox mask
+
+safety
+    padding
+    harness
+
+gunsights
+    telescopic
+
+engines
+    center-mounted tractor
+or wing engines
+    nacelle (inside)
+or push-pull
+    tractor + pusher
+or push-pull wing engines
+    nacelle/nacelle
+
+pulsejet?
+
+engine upgrades
+    extended driveshaft if center-mount
+    geared prop
+    geared prop reliability upgrade?
+
+cowl
+    sealed?
+
+radiator type
+    panel
+    intake?
+
+radiator mount
+    low
+    inline
+
+radiator fluid
+    castor oil
+    ammonia?
+
+frame
+    wooden ribs
+    aluminum ribs?
+
+covering
+    molded plywood
+    aluminum sheet?
+    corrugated duralumin?
+
+flying wing?
+
+internal bracing?
+
+tail
+    stubby?
+    standard?
+
+wing decks
+    mid
+
+wing surfaces
+    corregated duralumin
+    aluminum sheet?
+
+closed wing?
+
+miniature landing gear wing
+
+ailerons
+    flap
+
+lift aids
+    basic flaps
+
+drag inducers
+    dive brake
+
+definitely cantilever wings
+
+weapons
+    heavy cannon (hc) in nose
+    light machine cannon (lmc) in nose?
+    heavy machine gun (hmg) in wings?
+
+accessible cannon?
+
+fuel
+    up to 2 tanks in a section
+    up to 1 tank per 10 cantilevered wing area
+    remote fire extinguishers? (era?)
+    self-sealing tank? (era?)
+
+landing gear
+    regular
+    zeppelin hook?
+    underwing skid?
+
+armor
+    1/3+ = 0 mass, 8$
+
+climate control
+    radiator loop
+
+control systems
+    control rods if needed
+
+propeller
+    it's going to be one of the extremes i bet
+
+variable prop
+    manual?
+    automatic???
+
+optimization, if allowed
+    bonus to drag or max strain
+    penalty to mass or escape/visibility
+
+Þ (Thorn, used for Thaler)

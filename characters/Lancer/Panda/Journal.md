@@ -285,3 +285,40 @@ MENDICANT_DEMAND=(O/K)
 
 ### TODO
 1. Have Leto protect Duplo against "Beggar" code intrusion
+
+## Intersession 4-5
+- Playlist for Panda:
+    - https://youtu.be/T-OPN-6xF3U Cara Dune Theme
+    - https://youtu.be/HKtsdZs9LJo Ain't No Rest for the Wicked by Cage The Elephant
+    - https://youtu.be/3iZ9JRVmJ5o Paint It Black (Westworld) by The Rolling Stones
+    - https://youtu.be/mj-v6zCnEaw Brain Power by NOMA
+    - https://youtu.be/AiWWGfnKLW4 Shepherd's Song by Katzenjammer
+    - https://youtu.be/ZHKirAIhf4Y Han from Atom Zombie Smasher
+    - https://youtu.be/1z8zZBBkIRw Soldier, Poet, King by The Oh Hellos
+    - https://youtu.be/Wr9ie2J2690 Highway Star by Deep Purple
+    - https://youtu.be/oiOPEQqfPRQ Puppet Loosely Strung by The Correspondents
+    - https://youtu.be/JRo3ayKS2Vc Back in My Basket from Kingdom 2 
+    - https://youtu.be/z5rRZdiu1UE Sabotage by Beastie Boys
+    - https://youtu.be/AvlhFPP8vHc When Johnny Comes Marching Home by HOI4 KR Team
+    - https://youtu.be/2C1mxdeUDSQ Black and Gold by Gio Navas
+    - https://youtu.be/KsPJt7X9r_8 Roll On Big Mamma by Joe Stampley
+    - https://youtu.be/-k45h6zQs2k Again (FMAB synthwave remix) by Astrophysics
+    - https://youtu.be/ZzGVOjc3Dig FLOPPY DISK OVERDRIVE by MASTER BOOT RECORD
+    - https://youtu.be/05ghq2n25N8 Sex Bob-Omb from Scott Pilgrim vs. The World
+    - https://youtu.be/Twix375Me4Q Beggin for Thread by BANKS
+    - https://youtu.be/whxGyC5GhkI Live in the Moment by Portugal, The Man
+    - https://youtu.be/HgzGwKwLmgM Don't Stop Me Now by Queen
+
+## Session 5
+### Personnel Log
+- Yuna [Specs] Wellington
+    - Automated Infrastructure Technician, coffee addict
+
+### Back at Evergreen
+- Castrati has scene with Merracado
+- Panda bothers Castor Fielding, and drags Leto along to go treasure hunting in a downed carrier
+    - Both of us get 20+, filling Panda's Salvage Clock with all 6 segments
+    - We found a "Worldkiller" Genghis Mk I frame
+    - Leto took home an extremely-unshackled agni-class nhp, if it could even be called that
+- Tempo goes for a walk
+- Then it's PARTY TIIIIIME!
