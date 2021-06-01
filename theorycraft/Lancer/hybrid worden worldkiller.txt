@@ -24,11 +24,11 @@ kit to work with
 - sunzi frame (to be recovered)
 - drake's assault cannon
 - agrippa's heavy lift gear
-- specialty snapdragon launcher (can ask team for more)
+- specialty snapdragon launcher (can ask team for more?)
 - specialty advanced combat rifle, modular
-    - or specialty optimized engineering (can ask team for more)
+    - or specialty optimized engineering (can ask team for more?)
 - specialty ballistic shield
-    - or specialty underbarrel breacher (can ask team for more)
+    - or specialty underbarrel breacher (can ask team for more?)
 - 1 core battery (can ask team for more)
 
 licenses to work with
