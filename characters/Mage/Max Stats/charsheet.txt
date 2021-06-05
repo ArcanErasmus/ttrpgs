@@ -5,8 +5,8 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
 || Nature - Innovator            || Willpower    | @@@@@ .....                   | XP Total/Spent   ||
 || Demeanor - Hacker             ||   Temp WP    | @@@@@                         |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 4/0              ||
-|| Affiliation - None            ||   Current    | @-@-@-@-x-x-.                 |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 7/0              ||
+|| Affiliation - None            ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - ||
 || Sect - Tweens With Toad       || Quint/Pdox   | @@@@. ..... ..... .....                          ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@ ... ...                                      ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||

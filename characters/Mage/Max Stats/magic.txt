@@ -6,7 +6,8 @@
 || - Practice: I Have the Power of God and Sentai on my Side                                        ||
 || - Instruments:                                                                                   ||
 ||    - Ritual diagrams and symbols                                                                 ||
-||    - Writing and languages                                                                       ||
+||    - Inscriptions, runes, and writings                                                           ||
+||    - Languages                                                                                   ||
 ||    - Prop evocation                                                                              ||
 ||    - Collective Will                                                                             ||
 ||    - The Power of Friendship                                                                     ||
@@ -16,6 +17,56 @@
 || - Spirit: Celestials, fetishes, gauntlet manipulation, infernals, naturalism, necromancy,        ||
 ||      possession, primal spirits, shadow-walking, spirit dealings, tech spirits, umbral travel.   ||
 || - Correspondence: Conjuration, distortion, gates, scrying, teleportation, warding, wayfaring.    ||
-|| - Spirit + Correspondence: Convert between ephemera and space, sense ephemera at distance, link  ||
-||      spaces across the Gauntlet.                                                                 ||
 ||==================================================================================================||
+corr
+- track thing
+- learn path to thing
+- see around corners/thru walls
+- scry a loc or watch for scrying
+- search universe for obj/creature
+- set up jars and watch ripples to "learn information about the subject area"???
+- check if objects have been moved with Correspondence in an area
+- "track any irregularity back to its source"
+- arc projectiles around cover/obstructions
+- pull an object to your location from elsewhere
+- travel with great speed, even instantaneously
+    - a single step crosses leagues, move very fast, just plain teleport
+    - optionally causes physical exhaustion
+    - find unreproducable shortcuts
+- bypass security
+- determine location from limited information
+- determine distance/direction/speed of an object/creature
+- determine if object is being manipulated remotely, or if two Patterns are linked
+- fold space so light passes around you
+- strengthen or weaken the connection between objects
+- protect small objects from being stolen via other Corr magic
+
+spirit
+- create single-use fetish (talen), requires tass
+- awaken an object spirit
+- call out an introduction across the Dreamtime (to similar mages), an important courtesy
+- locate Songlines previously introduced to
+- strengthen or weaken the gauntlet
+- see things that leave footprints in the Umbra (ghosts, spirits, werewolves, faeries, etc)
+- soothe ghosts, push Wraiths into Slumber
+- protect against being denied passage to the afterlife
+- detect a spirit possessing/inhabiting a person/obj
+- call out for a spirit
+- ask questions to spirits
+- commune with a spirit, who is confined to some ritual or physical barrier
+- summon a Paradox Spirit
+- ward against malevolent spirits
+- raise or lower the Gauntlet/Shroud rating in your area
+
+corr+spirit
+- can scry in spirit worlds
+- chant that kills a target (like Death Note?) by invoking why you want them dead
+- detect boundaries/strength of the Dreamtime at location
+- can enter to anywhere in the Umbra, or exit to anywhere on Earth
+- send perception off into Umbra without actually moving there (presumably works in reverse)
+- convert between ephemera and space, sense ephemera at distance, link spaces across the Gauntlet
+- instantaneously travel along a Songline in the Dreamtime
+- sense objects "touched by Sekhem"
+- find nearby spirits and talk with them
+- create a boundary spirits cannot cross
+- call a Night Terror (or friendly spirit?) to torment (or soothe?) someone in their dreams

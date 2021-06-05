@@ -22,7 +22,7 @@
 ||===============|======|========|==================================================================||
 || The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
 || is a military surplus radio set, connected to a heavily modified Gameboy, Nintendo Power Glove,  ||
-|| and Priness Leia Bounty Hunter costume helmet, which can be programmed to see beyond our world   ||
+|| and Yellow Ranger costume helmet, which can be programmed to see beyond our world                ||
 || and follow the ripples and energies left behind by spirits and manipulations of magicks.         ||
 ||                                                                                                  ||
 || - Stats: Awareness 5 (Spec: Spiritual Vidare)                                                    ||
