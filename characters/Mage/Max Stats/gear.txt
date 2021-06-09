@@ -18,7 +18,7 @@
 ||===============|======|========|=======|======|======|=========|==================================||
 || Armor         | Prot | Dex    | Notes                                                            ||
 ||- - - - - - - -|- - - | - - - -|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Thick Clothes | 1    | 0      | Max wears lots of layers                                         ||
+|| Thick Clothes | 1    | 0      | Max wears lots of layers because she's always a little chilly    ||
 ||===============|======|========|==================================================================||
 || The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
 || is a military surplus radio set, connected to a heavily modified Gameboy, Nintendo Power Glove,  ||
