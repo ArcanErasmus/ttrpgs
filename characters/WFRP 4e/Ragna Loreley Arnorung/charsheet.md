@@ -1,5 +1,5 @@
 # Ragna Loreley Arnorung, She/Her
-## Human, Freeholder (Warrior) and Initiate of Rhya, Bondsman - Brass 5
+## Human, Freeholder (Warrior) + Initiate of Rhya, Bondsman - Brass 5
 - 6'2", 220lbs, 18 yo, red hair, light blue eyes
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Hargendorf, Nordland
@@ -12,7 +12,7 @@
 - Party short-term: ?
 - Party long-term: ?
 
-## Total/Spent XP: 310/300
+## Total/Spent XP: 460/460
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 att
@@ -21,7 +21,10 @@ att
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Slayer
 |------|-----|-----|------
-skl
+|   50 |   0 |   1 | Endurance
+|   10 |   0 |   1 | Heal
+|   50 |   0 |   5 | Lore (Herbs)
+|   50 |   0 |   5 | Lore (Norsca)
 |------|-----|-----|------
 oth
 
@@ -35,7 +38,7 @@ oth
 | I   | 28 |    |    |    | 28 |
 | Ag  | 27 |    |    |    | 27 |
 | Dex | 20 |    |    |    | 20 |
-| Int | 27 |  5 |    |    | 27 |
+| Int | 27 |  5 |    |    | 32 |
 |^WP  | 40 |    |  5 |    | 45 |
 | Fel | 28 |    |    |    | 28 |
 
@@ -60,7 +63,7 @@ oth
 | C | Cool               | 11 | WP  | 56 |
 | C | Dodge              |    | Ag  |    |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |    | T   |    |
+| C | Endurance          |  5 | T   | 65 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -76,11 +79,11 @@ oth
 |---|--------------------|----|-----|----|------
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
-| C | Heal               |    | Int |    |
+| C | Heal               |  1 | Int | 33 |
 |   | Language (Norse)   |  5 | Int | 37 |
+| C | Lore (Herbs)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
-| C | Lore (Norsca)      |    | Int |    |
-| C | Lore (Herbs)       |    | Int |    |
+| C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
 |   | Sail               |  3 | Ag  | 30 |
 |   | Stealth            |    | Ag  |    |

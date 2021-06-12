@@ -1,0 +1,84 @@
+forces 3 prime 2 - create beam-ray (does ag damage, can blind or deafen, etc)
+forces 3 prime 2 - make inanimate object inside the internet
+forces 3 prime 2 - create electricity and then direct it
+forces 3 prime 2 - conjure flame from nothing
+forces 3 prime 2 - summon and ride lightning bolt
+forces 2/3 prime 2 - enhances or creates a light source
+forces 2 prime 3 - fuel a flame from a quintessence stream without consuming the quint (10+ successes)
+forces 2 prime 2/3 - become invisible by bending light
+forces 2 prime 2 - convert water to scalding steam
+forces 2 prime 2 - "de-rez" a digital target
+forces 2 prime 1 - explode lightbulb into blinding flash
+
+prime 3 - sacrifice thing or willing creature for quintessence
+prime 3 - let focus obj hold 2 resonance traits per success for duration or until used
+prime 3 - temporarily change your resonance
+prime 3 - tap node to make tass, can do beyond avatar
+prime 3 - take/give quintessence from/to willing target
+prime 3 - pull quintessence faster but temporarily dries up node
+prime 3 - cause weapon to do ag damage
+prime 2 - reinforce object
+prime 2 - disrupt target's pattern to cause pain or even pleasure
+prime 2 - attack with blast of pure quintessence
+prime 2 - find a person/place/thing
+prime 2 - create armor of pure quintessence
+prime 2 - tap source of quintessence
+prime 1 - sacrifice health for quintessence, 1 point per lvl bashing taken, 2 per lethal
+prime 1 - store quintessence beyond avatar (limit only by pdox)
+prime 1 - trace flow of quintessence back to node
+prime 1 - watch magick being done (appearance based on your paradigm)
+
+forces 3 - telekinesis
+forces 3 - shoot harder (add successes to damage on next shot)
+forces 3 - create waterspout from clouds, or tornado over open water
+forces 3 - convert kinetic energy to heat
+forces 3 - douse a flame
+forces 3 - call lightning during a thunderstorm
+forces 3 - rapidly ignite paper into blinding light
+forces 2 - push away light to shroud self in darkness
+forces 2 - silence signals (audio or any on electromagnetic spectrum) in area
+forces 2 - cause fear in all that view you or other
+forces 2 - jam a signal (anywhere on electromagnetic spectrum)
+forces 2 - cause sound (such as shout) to disorient target
+forces 2 - make object appear more/less valuable/interesting via illusion
+forces 2 - make weapon shoot more rapidly
+forces 2 - create field that blocks/redirects/dampens a type of energy (kinetic, electromagnetic, audio, etc)
+forces 2 - transmit energy through ground to target, injure or push 3ft per success any direction
+forces 2 - make hand-to-hand deadly
+forces 2 - stop missile weapons (successes subtract from attack)
+forces 2 - walk on water through levitation (with more successes, others can too)
+forces 2 - strengthen/focus laser pointer into deadly weapon
+forces 2 - alter light source (e.g. diffuse/concentrate/display pattern, only light or only heat)
+forces 2 - electrical spike into electronics to fry them
+forces 2 - if you have some implant, connect directly to computer system
+forces 2 - coalesce airborne static electricity into a single blast
+forces 1 - enhance hearing to superhuman levels
+forces 1 - shift vision to different parts of electromagnetic spectrum
+forces 1 - determine how much energy is being used in an area, and what kinds
+forces 1 - sense opponent's fine movements, reduce parry/block diff by 1 per success
+forces 1 - spy on electronic communications
+
+
+forces 5 prime 2 - create perpetual motion system, or create/destroy kinetic energy from nothing
+forces 5 prime 2 - unleash massive earthquake/firestorm/plague/explosion
+forces 4/5 prime 4/5 - create truly all-consuming fire
+forces 4 prime 2 - create divine-associated forces, like ball lightning or pillar of fire
+forces 4 prime 2 - detonate a small object in a direction
+
+prime 5 - create object from pure quintessence
+prime 5 - pass your resonance along to another being
+prime 5 - temporarily draw in and dispel paradox spirit
+prime 5 - cancel out paradox a person/object has or will generate
+prime 5 - draw quintessence from universe at large
+prime 5 - turn off node until process reversed
+prime 5 - enchant person into relic, place into node, time into juncture
+prime 4 - attack target's pattern, drawing and optionallyt capturing quintessence from it
+prime 4 - draw quintessence from spot with particularly in-tune resonance as if it was a node
+prime 4 - drain all quintessence from node, makes it dormant
+
+forces 5 - create storm from nothing
+forces 5 - convert all light/sound in an area to heat
+forces 5 - move clouds to obscure ship (or other thing)
+forces 4 - cause rapid weather changes
+forces 4 - alter target's gravity
+forces 4 - create wings and fly
