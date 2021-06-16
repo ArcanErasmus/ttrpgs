@@ -18,6 +18,8 @@
 ||      possession, primal spirits, shadow-walking, spirit dealings, tech spirits, umbral travel.   ||
 || - Correspondence: Conjuration, distortion, gates, scrying, teleportation, warding, wayfaring.    ||
 ||==================================================================================================||
+Rotes:
+- Send location to/from Shadowlands (Spirit 3 + Optional Correspondence, 10 Successes)
 
 corr
 - track thing

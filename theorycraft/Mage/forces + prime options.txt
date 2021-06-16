@@ -23,6 +23,8 @@ prime 2 - attack with blast of pure quintessence
 prime 2 - find a person/place/thing
 prime 2 - create armor of pure quintessence
 prime 2 - tap source of quintessence
+prime 1/2 - attune object or living creature's pattern to own pattern (also bond familiar)
+prime 1 - tell if target has magick/supernatural powers
 prime 1 - sacrifice health for quintessence, 1 point per lvl bashing taken, 2 per lethal
 prime 1 - store quintessence beyond avatar (limit only by pdox)
 prime 1 - trace flow of quintessence back to node
