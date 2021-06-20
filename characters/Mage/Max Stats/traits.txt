@@ -1,11 +1,9 @@
 ||===============================||=================================================================||
 || Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ||
 ||===============================||=================================================================||
-|| Archetype - Innovator Nature, Hacker Demeanor:                                                   ||
-|| - Hacker: Strength in imagination, weakness in perversity                                        ||
-||     - Regain Willpower when you detect a flaw in some important structure, system, or device, or ||
-||          else when you puzzle out a way to improve something that was supposedly designed well   ||
-||          to begin with.                                                                          ||
+|| Archetype - Benefactor Nature, Innovator Demeanor:                                               ||
+|| - Benefactor: Strength in altruism, weakness in obligation                                       ||
+||     - Regain Willpower when you provide help that someone else *desperately* needs.              ||
 || - Innovator: Strength in creativity, weakness in unorthodoxy                                     ||
 ||     - Regain Willpower when your inspiration leads to a helpful new breakthrough.                ||
 ||==================================================================================================||
