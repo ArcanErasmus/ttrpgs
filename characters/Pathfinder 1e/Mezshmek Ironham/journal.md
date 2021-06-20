@@ -209,7 +209,7 @@ Cursed: Anyone attempting to use the staff must pass a Will save versus a DC of 
 - Requirements: Craft Wondrous Item, *weaponwand*
 - Cost: 4,000 gp
 
-### Glove, Reach
+### Gloves of Inexplicable Reach
 - Aura: faint transmutation
 - CL: 1
 - Slot: hands
