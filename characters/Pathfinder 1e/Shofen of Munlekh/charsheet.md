@@ -32,14 +32,11 @@
         - Corruption of mind: Manipulation and gross dishonor, whatever gives me a real gut reaction to behaviors like Maunresh
         - Corruption of body: Beseeching the dark powers
         - Corruption of the world: Aberrations
-    - Hunter of the exotics/occult
-        - Have been meddled with
+    - Hunter of the exotics/occult, things that have been meddled with by short-sighted individuals
     - Views on others, based on their dealings with the strange realities beyond
         - If they are unaware entirely: Slight envy, significant pity/empathy
         - If they are in tune with the worlds you are familiar with: Either fear or great respect
         - If they control supernatural powers but do not deal with the occult visibly: Fascination/curiosity, suspicion
-        - If they are aware ?
-    - Catch phrase: ""
     - Drive: Live with honor, protect the people and the world, free trapped souls
     - Fears: Losing my soul, guilt over my involvement in the sacrifice of Erred
 

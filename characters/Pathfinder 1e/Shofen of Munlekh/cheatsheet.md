@@ -96,12 +96,12 @@
     - +5 damage 1st hit/rd vs target denied Dex
 
 ## Magical Abilities
-- At-will - *detect chaos* (CL 2)
+- At-will - *detect chaos* (CL 3)
     - focus on target within 60 ft as move to learn as if cast and studied for 3 rounds
 - Smite Chaos
     - **Daily**, swift action; 1/day: O
     - **Daily**, swift action, Dreamlands; 1/day: O
-    - Bonus: +5 atk, +2 dmg
+    - Bonus: +5 atk, +3 dmg
     - Double damage bonus on first atk vs: [chaotic] outsiders, chaotic dragons, aberrations
 - Lay on Hands
     - **Daily**; 6/day: OOOOOO
