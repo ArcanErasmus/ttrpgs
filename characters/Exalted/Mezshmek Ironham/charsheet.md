@@ -21,7 +21,11 @@
 || Ability        | Level  || Specialties
 ||----------------|--------||-----------
 || [Supernal]              ||
-|| C (Artifacts)  | @@@..  || Ranged Weapons
+|| Craft                   || Ranged Weapons
+||   Artifacts    | @@@..  ||
+||   Armor        | @....  ||
+||   Cooking      | @....  ||
+||   Weapons      | @....  ||
 || [Caste]                 ||
 || Integrity      | @@@..  ||
 || Lore           | @@@..  || Artifacts
@@ -34,10 +38,7 @@
 || Resistance     | @....  ||
 || War            | @....  || Siege Weapons
 || [Other]                 ||
-|| Athletics      | @....  ||
-|| C (Armor)      | @....  ||
-|| C (Cooking)    | @....  ||
-|| C (Weapons)    | @....  ||
+Z|| Athletics      | @....  ||
 || Dodge          | @....  ||
 || Investigation  | @....  ||
 
@@ -84,9 +85,21 @@ Points Spent: 13/10
 - Can strike a broken or damaged object to instantly repair it (how much? mote cost?)
 - Description: This adamantine blacksmith’s hammer bears designs of Torag’s holy symbol on the head, with a smooth but finely shaped darkwood handle.  -->
 
-## Charms - @@@@@ @@@@@ @@@@
+## Charms - @@@@@ @
 ### Occult - Terrestrial Circle Sorcery
 ?
+
+### Craft - Craftsman Needs No Tools
+### Craft - Thousand-Forge Hands
+### Craft - Flawless Handiwork Method (x1)
+### Craft - Supreme Masterwork Focus (x1)
+### Craft - Supreme Masterwork Focus (x2)
+### Craft - Experiential Conjuring of the Void
+### Craft - First Movement of the Demiurge
+### Craft - Bright-Forging Prana
+#### Craft - Flawless Handiwork Method (x2)
+#### Craft - Supreme Masterwork Focus (x3)
+#### Craft - Divine Inspiration Technique
 
 M - Mandatory
 C - Core
@@ -95,64 +108,6 @@ F - Filler
 
 I | Archery - Trance of Unhesitating Speed
 F |     Archery - Wise Arrow
-
-C | Craft - Unwinding Gyre Meditation
-C |     Craft - Spirit-Gathering Industry
-I |         Craft - Clay and Breath Practice
-C |             Craft - Copper Spider Conception
-C |                 Craft - Dragon Soul Emergence
-C |                     Craft - Ages-Echoing Wisdom
-C |                         Craft - Sublime Transference
-I |                             Craft - Arete-Shifting Prana
-C |                         Craft - Efficient Craftsman Technique
-I |                             Craft - Tireless Workhorse Method
- | Craft - Words-as-Workshop Method
- |     Craft - Craftsman Needs No Tools
-C |     Craft - Vice-Miracle Technique
-I |         Craft - Summit-Piercing Touch
-I |             Craft - Clay and Breath Practice
-C |                 Craft - Copper Spider Conception
-C |                     Craft - Dragon Soul Emergence
-C |                         Craft - Ages-Echoing Wisdom
-C |                             Craft - Sublime Transference
-I |                                 Craft - Arete-Shifting Prana
-C |                             Craft - Efficient Craftsman Technique
-I |                                 Craft - Tireless Workhorse Method
- | Craft - Thousand-Forge Hands
- |     Craft - Craftsman Needs No Tools
- | Craft - Divine Transcendence of Craft
- |     Craft - Supreme Perfection of Craft
- |         Craft - Peerless Paragon of Craft
- |             Craft - Chains Fall Away
- |                 Craft - Red Anvils Ringing
- |                     Craft - Brass Scales Falling
- |             Craft - Craftsman Needs No Tools
-C |         Craft - Supreme Celestial Focus
-I |             Craft - Arete-Shifting Prana
- | Craft - Soul-Forge Tempering
- |     Craft - Hero-Forging God-Weapon
- |         Craft - Design Beyond Limit
- |             Craft - Crack-Mending Technique
- |             Craft - Craftsman Needs No Tools
- | Craft - Realizing the Form Supernal
- |     Craft - Breach-Healing Method
- |         Craft - Time Heals Nothing
- |             Craft - Crack-Mending Technique
- | Craft - The Art of Permanence
- |     Craft - Chaos-Resistance Preparation
- |         Craft - Object-Strengthening Touch
- |             Craft - Durability-Enhancing Technique
- |                 Craft - Craftsman Needs No Tools
- | Craft - Shattering Grasp
- |     Craft - Craftsman Needs No Tools
- | Craft - Holistic Miracle Understanding
- |     Craft - Divine Inspiration Technique
- |         Craft - First Movement of the Demiurge
- |             Craft - Experiential Conjuring of True Void
- |                 Craft - Flawless Handiwork Method
- |         Craft - Supreme Masterwork Focus (2)
- |             Craft - Supreme Masterwork Focus
- |                 Craft - Flawless Handiwork Method
 
  | Integrity - Enduring Mental Toughness
  | Integrity - Legend-Soul Revival

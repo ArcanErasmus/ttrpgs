@@ -337,4 +337,9 @@ MENDICANT_DEMAND=(O/K)
 - There is to be blood and fire, and not for all the words of wisdom inked can you stop the violence that is to come.
 
 ### "Bad Guys" Scene
+- It was good noice
+
+## Session 7
+### The Governor's Farm, several days later
+- Brava is stressed and sleep-deprived
 - 
