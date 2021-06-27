@@ -10,6 +10,13 @@
 - 3'11", 185 lbs, 71 yo, black hair, gray eyes, medium brown skin
 - black afro, pink ribbon tying off short-cut black beard
 
+BG Point spend: 15/10
+- Craft (Artifact) (2)
+- Integrity (2)
+- Lore (2)
+- Medicine (2)
+- Occult (2)
+
 ## Attributes
 || Physical    | Level  || Social      | Level  || Mental         | Level
 ||-------------|--------||-------------|--------||----------------|--------
@@ -22,15 +29,15 @@
 ||----------------|--------||-----------
 || [Supernal]              ||
 || Craft                   || Ranged Weapons
-||   Artifacts    | @@@..  ||
+||   Artifacts    | @@@@@  ||
 ||   Armor        | @....  ||
 ||   Cooking      | @....  ||
 ||   Weapons      | @....  ||
 || [Caste]                 ||
-|| Integrity      | @@@..  ||
-|| Lore           | @@@..  || Artifacts
-|| Medicine       | @@@..  || Body Modification
-|| Occult         | @@@..  ||
+|| Integrity      | @@@@@  ||
+|| Lore           | @@@@@  || Artifacts
+|| Medicine       | @@@@@  || Body Modification
+|| Occult         | @@@@@  ||
 || [Favored]               ||
 || Archery        | @@@..  ||
 || Awareness      | @....  ||
@@ -38,7 +45,7 @@
 || Resistance     | @....  ||
 || War            | @....  || Siege Weapons
 || [Other]                 ||
-Z|| Athletics      | @....  ||
+|| Athletics      | @....  ||
 || Dodge          | @....  ||
 || Investigation  | @....  ||
 
@@ -69,90 +76,103 @@ Z|| Athletics      | @....  ||
 
 ## Merits
 
-Points Spent: 13/10
+Points Spent: 7/10
 
 || Merit             | Level  || Notes
 ||-------------------|--------||-----------
-|| Exalted Healing   | xxxxx  ||
-|| Artifact          | @@@..  || Blaster
-|| Familiar          | @@@..  || Akundol
-|| Resources         | @@@@@  || (See old inventory for ideas)
-|| Language          | @      || (Dwarven, Imperial Elven), Sylvan
-|| Followers         | @      || Artisans & Engineers pulled from volunteers
+|| Exalted Healing   | #####  ||
+|| Resources         | #####  || Artifact sales & adventurer looting
+|| Artifact          | ##@@.  || Blaster (int to atk, other?)
+|| Familiar          | @@@    || Akundol
+|| Followers         | @..    || Artisan & engineer volunteers pulled from evacuees
+|| Language          | @      || Dorstani, Dragonic, Dwavic, Imperial Common, Old Dwavic, Sylvan, Terran
+
+eidetic memory @@
+demense @@..
+or manse @@@..
+natural immunity @@
+quick draw (archery) @...
+followers +@
 
 <!-- ### Forgehammer
 - Can inscribe a magical maker's mark on object by pressing it to them
 - Can strike a broken or damaged object to instantly repair it (how much? mote cost?)
 - Description: This adamantine blacksmith’s hammer bears designs of Torag’s holy symbol on the head, with a smooth but finely shaped darkwood handle.  -->
 
-## Charms - @@@@@ @
-### Occult - Terrestrial Circle Sorcery
+## Charms - @@@@@
+### Craft - Craftsman Needs No Tools
 ?
 
-### Craft - Craftsman Needs No Tools
 ### Craft - Thousand-Forge Hands
+?
+
+### Craft - Ever-Ready Innovation Discipline
+?
+
 ### Craft - Flawless Handiwork Method (x1)
+?
+
 ### Craft - Supreme Masterwork Focus (x1)
+?
+
 ### Craft - Supreme Masterwork Focus (x2)
+?
+
 ### Craft - Experiential Conjuring of the Void
+?
+
 ### Craft - First Movement of the Demiurge
+?
+
 ### Craft - Bright-Forging Prana
-#### Craft - Flawless Handiwork Method (x2)
-#### Craft - Supreme Masterwork Focus (x3)
-#### Craft - Divine Inspiration Technique
+?
+
+- Craft - Flawless Handiwork Method (x2)
+- Craft - Supreme Masterwork Focus (x3)
+- Craft - Divine Inspiration Technique
+
+### Occult - Terrestrial Circle Sorcery
+?
+shaping ritual
+control spell
+additional spells bought as charms
+see lunars and dragonblooded books' chapters on spellcasting
+    and the sidereal homebrew's
+
+
+
+I | Archery - Trance of Unhesitating Speed
+F |     Archery - Wise Arrow
+
+I | Integrity - Legend-Soul Revival
+I |     Integrity - Destiny-Manifesting Method (need 10 total [any] charms)
+
+I | Linguistics - Whirling Brush Method
+
+C | Lore - Flowing Mind Prana
+I |     Lore - First Knowledge's Grace
+C |         Lore - Harmonious Academic Methodology
+
+I | Medicine - Flawless Diagnosis Technique
+C | Medicine - Wound-Cleansing Meditation
+C |     Medicine - Wound-Mending Care Technique
+I | Medicine - Plague-Banishing Incitation
+I |     Medicine - Ailment-Rectifying Method
+
+I | Occult - Supernal Control Method
+I |     Occult - Ancient Tongue Understanding
+
+I | Resistance - Body-Mending Meditation (need resist 2)
+I |     Resistance - Ox-Body Technique
+
+C | War - Immortal Commander's Presence (need war 2)
+I |     War - War God Descendent
+
 
 M - Mandatory
 C - Core
 I - Important
 F - Filler
-
-I | Archery - Trance of Unhesitating Speed
-F |     Archery - Wise Arrow
-
- | Integrity - Enduring Mental Toughness
- | Integrity - Legend-Soul Revival
- |     Integrity - Destiny-Manifesting Method
-
- | Linguistics - Whirling Brush Method
-
- | Lore - Flowing Mind Prana
- |     Lore - First Knowledge's Grace
- |         Lore - Harmonious Academic Methodology
-
- | Medicine - Flawless Diagnosis Technique
- | Medicine - Wound-Cleansing Meditation
- |     Medicine - Wound-Mending Care Technique
- | Medicine - Plague-Banishing Incitation
- |     Medicine - Ailment-Rectifying Method
-
- | Occult - Supernal Control Method
- |     Occult - Ancient Tongue Understanding
-
- | Resistance - Body-Mending Meditation
- |     Resistance - Ox-Body Technique
-
- | War - Immortal Commander's Presence
- |     War - War God Descendent
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 m - Motes
 wp - Willpower
@@ -186,130 +206,7 @@ Downtime - More abstract narration
 
 
 ## Charms
-### Bureaucracy
-#### Alluring Eloquence Method
-- Cost: 1m; Mins: Bureaucracy 1, Essence 1
-- Type: Supplemental
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: None
-- The smooth tongue of the Abyssal can make any deal sound appealing. She makes a bargain action using (Charisma or Manipulation + Bureaucracy), which gains (Essence or 3, whichever is higher) bonus dice.
-#### The Villain You Know
-- Cost: 2m; Mins: Bureaucracy 3, Essence 1
-- Type: Supplemental
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: Alluring Eloquence Method
-- The Abyssal's offer doesn't have to be good for others to accept it. It only needs to be better than the alternatives. This Charm enhances a persuade or bargain action made with any Ability, allowing the Abyssal to leverage negative Intimacies towards her contextual rivals as though they were positive Intimacies towards herself. For example, when a desperate man is presented with the option of selling a prized heirloom to a merchant he despises so he can afford food, the Abyssal could use that hatred to convince him to make a deal with her.
-- This Charm does not require that the Abyssal and the subject of the negative Intimacy be the only two options. In the above example, even if there were a dozen other perfectly trustworthy merchants all making offers, the Abyssal would still be able to use the one hated one to her own advantage. This effect may also allow the Abyssal to effectively use a single Intimacy twice. If she were the only other option, she could persuade the man to sell her the heirloom using the positive Intimacy towards herself, then if he still refused she could use the negative intimacy towards the merchant in a second influence attempt.
 
-### Occult
-#### Spirit Sensing Technique
-- Cost: 3m; Mins: Occult 1, Essence 1
-- Type: Reflexive
-- Keywords: None
-- Duration: One scene
-- Prerequisite Charms: None
-- Projecting her senses into the realm of ghosts and other spirits, the Abyssal gains the ability to perceive immaterial beings.
-#### Scent of Death
-- Cost: -; Mins: Occult 2, Essence 1
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: Spirit Sensing Technique
-- The senses of the Abyssal are finely tuned to notice her fellows. Whenever any creature of darkness is within the range of her senses, including an immaterial one, some uncanny sense informs her of this fact. This also grants her (half Occult, rounded up) automatic successes to Awareness-based rolls to detect such beings.
-#### Queen of the Night
-- Cost: -; Mins: Occult 2, Essence 1
-- Type: Reflexive
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: Scent of Death
-- The Abyssal Exalted stand as the preeminent princes of darkness, and their lessers must bow to them. Whenever she detects another creature of darkness using Scent of Death, the Abyssal rolls (Charisma + Presence) with (Occult) non-Charm bonus dice to instill a Tie of respect towards herself in that character. Any other creatures of darkness she encounters for the remainder of the scene are affected by the same roll.
-#### Shadowlands Circle Necromancy
-- Cost: -; Mins: Occult 3, Essence 1
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: None
-- Drawing ever closer to oneness with the death, the Abyssal initiates into the Shadowlands Circle of necromancy. She gains one necromantic spell for free as her control spell, which may feature in her anima banner, gains a shaping ritual, and can perform necromantic workings.
-#### Terrestrial Circle Sorcery
-- Cost: -; Mins: Occult 3, Essence 1
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: Any four Occult Charms
-- Demonstrating a more unorthodox mystical talent, the Abyssal initiates into the Terrestrial Circle of sorcery. She gains a free spell which functions as her control spell, gains access to sorcerous workings and learns one shaping ritual.
-
-### Presence
-#### Soul-Flaying Gaze II
-- Cost: -; Mins: Presence 2, Essence 1
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: None
-- With this Charm, the Abyssal gains the ability to make attacks using (any social Attribute + Presence). Such attacks use the thrown (short) and lethal tags and use the traits of light mortal weapons. Her withering attacks deal (7 + threshold successes) damage, gaining no bonus damage from her Strength, and subtract the target's Resolve from damage instead of his soak.
-- A Presence 5, Essence 2+ repurchase gives the Abyssal's gaze the traits of a light artifact weapon, increasing its damage to (10 + threshold successes).
-#### Elegant Tyrant's Majesty
-- Cost: 5m or 7m; Mins: Presence 2, Essence 1
-- Type: Reflexive
-- Keywords: None
-- Duration: One scene
-- Prerequisite Charms: None
-- The Abyssal is effortlessly eloquent, allowing her to easily sway the minds of the living. She gains three dice on social influence rolls made with any Ability, and all other Charms she use to enhance or create social influence actions benefit from a one mote discount, to a minimum of one mote.
-- Elegant Tyrant's Majesty can be activated for seven motes rather than five. Doing so increases its duration to indefinite.
-#### Death's Alluring Face
-- Cost: 2m; Mins: Presence 3, Essence 1
-- Type: Supplemental
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: None
-- The Abyssal's eerie beauty gives her double 9s on seduction-based influence using any Attribute, or any other social influence using Appearance. If she gains any bonus dice due to high Appearance, she gains an additional such die as a non-Charm bonus.
-- If the Abyssal has the Hideous Merit, this Charm affects threatening rather than seductive influence.
-#### Impossible Chilling Beauty
-- Cost: 5m; Mins: Presence 3, Essence 1
-- Type: Reflexive
-- Keywords: None
-- Duration: Indefinite
-- Prerequisite Charms: Death's Alluring Face
-- Drinking of the seductive allure of the grave, the Abyssal gains a +1 bonus to her Appearance. If this brings her Appearance above 5, her beauty is clearly unnatural to all who see it, though no less appealing for that fact. Her seductive persuade actions are always considered to exploit at least a Minor Intimacy, and the offer of physical intimacy from her, even as little as a kiss, always qualifies for at least a serious task when used in a bargain action towards a character of compatible orientation.
-- With the Hideous Merit, rather than gaining seductive bonuses the Abyssal treats all characters as though they had a Minor Tie of fear towards her.
-#### Dread Lord's Demeanor
-- Cost: 6m; Mins: Presence 4, Essence 2
-- Type: Simple
-- Keywords: None
-- Duration: One scene
-- Prerequisite Charms: Elegant Tyrant's Majesty
-- Cloaked in dark power, the Abyssal stands unquestioned. Those who would oppose her feel a sense of dread warning against that course of action, and should they ignore it deep wounds appear across their body as punishment for their impudence. Any character must pay one lethal health level the first time in the scene he wishes to speak against or attack the Abyssal. Furthermore, any threaten actions against the Abyssal suffer a dice penalty equal to her Essence.
-#### Loving and Fearing Death
-- Cost: 2m; Mins: Presence 5, Essence 2
-- Type: Supplemental
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: Death's Alluring Face
-- Beauty and horror are but two sides of the same coin. When the Abyssal makes any social influence action, she can either gain the Hideous Merit or remove it for the purposes of that action. Her appearance does not change, rather, the targets of that influence look upon her grotesque visage and feel profound attraction, or are terrified by her comely appearance. Characters not subject to the influence are unaffected by this Charm, leaving them baffled by their associates' bizarre reactions.
-- This Charm's effects on the perceptions of its targets lasts for the remainder of the scene. If the Abyssal uses it on the same targets again, their perceptions flip each time.
-#### Uncanny Radiance Meditation
-- Cost: - (+2m); Mins: Presence 4, Essence 2
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: Impossible Chilling Beauty
-- When The Abyssal activates Impossible Chilling Beauty, she can spend two extra motes to enhance it with this Charm. She ignores all penalties to her Appearance-based actions. Even caked in mud and blood, her unnatural beauty shines through, and when she lies at death's door her injuries somehow only accentuate her looks. She also ignores Minor Intimacies that oppose her Appearance-based social influence, as any small misgivings other characters might have melt away at the sight of her.
-#### World-Scarring Loveliness
-- Cost: - (1 Resonance); Mins: Presence 5, Essence 2
-- Type: Reflexive
-- Keywords: None
-- Duration: One scene
-- Prerequisite Charms: Uncanny Radiance Meditation
-- Creation cannot stand to look upon the true beauty of death, but with this Charm, the Abyssal forces it to anyway. While Impossible Chilling Beauty is active, she can use World-Scarring Loveliness to increase the Appearance bonus that Charm grants to +3. Using this Charm is free in the Underworld, but in other realms it instantly causes a point of Resonance gain.
-#### Hands and Blades Tied
-- Cost: 1m, 1wp; Mins: Presence 5, Essence 3
-- Type: Reflexive
-- Keywords: Clash
-- Duration: Instant
-- Prerequisite Charms: World-Scarring Loveliness, Dread Lord's Demeanour
-- Try as they might to slay the deathknight who stands before them, her foes cannot force themselves to raise a hand against such a fair creature. She can reflexively clash attacks with (Appearance + Presence), gaining all the dice from high Appearance she would claim on appropriate social influence. If the Abyssal wins the clash, her attacker falters at the last second, or his arrows refuse to strike the Abyssal and instead drop out of the air to land at her feet. The attacker suffers the Defence penalty from a failed clash but takes no damage.
-- Hands and Blades Tied can also be used to resist environmental hazards of any kind by rolling (Appearance + Presence) in place of the usual dice pool, gaining the Abyssal's full Appearance in non-Charm bonus dice. She can block uncountable damage in this way without any roll required. A single doleful glance parts a sea of lava as it rushes towards her, even the primal forces of the world refusing to bring any harm to such a lovely figure.
 #### Heart-Stopping Glance
 - Cost: 5m, 1wp; Mins: Presence 5, Essence 5
 - Type: Simple
