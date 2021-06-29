@@ -1,0 +1,74 @@
+
+Padded armour set (125gp): +8 armour bonus to AC; maximum Dexterity bonus of +7.
+Leather armour set (130gp): +9 armour bonus to AC; maximum Dexterity bonus of +5.
+Chain Shirt set (220gp): +11 armour bonus to AC; maximum Dexterity bonus of +3.
+
+If we add to the basic sets the aforementioned DR 3/-- versus piercing projectiles; nonlethal damage [from] physical attacks reduced by 8 points; lethal bludgeoning damage from natural attacks reduced by 4 points, the prices increase to a still-modest 685gp, 690gp, and 780gp.
+
+The second cheapest modification would be the riding template, followed by the interlocking template:
+- Padded armour set (285gp/885gp; 845gp/1445gp with DR): +12/+20 armour bonus to AC; maximum Dexterity bonus of +7/+6.
+- Leather armour set (290gp/890gp; 850gp/1450gp with DR): +13/+21 armour bonus to AC; maximum Dexterity bonus of +5/+4.
+- Chain shirt set (380gp/980gp; 940gp/1540gp with DR): +15/+23 armour bonus to AC; maximum Dexterity bonus of +3/+2.
+
+
+Next comes the gloryborn template, which remains reasonably priced compared to those yet to come:
+- Padded armour set (885gp/1485gp; 1445gp/2045gp with DR): +12/+20 armour bonus to AC; +4 untyped bonus to AC (charge); maximum Dexterity bonus of +7/+6.
+- Leather armour set (890gp/1490gp; 1450gp/2050gp with DR): +13/+21 armour bonus to AC; +4 untyped bonus to AC (charge); maximum Dexterity bonus of +5/+4.
+- Chain shirt set (980gp/1580gp; 1540gp/2140gp with DR): +15/+23 armour bonus to AC; +4 untyped bonus to AC (charge); maximum Dexterity bonus of +3/+2.
+
+
+(SUBTRACT 200gp FROM ALL COSTS BELOW, "REINFORCED" OVERPRICED IN THIS MATH)
+
+Followed by the reinforced and vital coverage templates:
+- Padded armour set (5685gp/6285gp; 6245gp/6845gp with DR): +16/+24 armour bonus to AC (+24/+32 versus critical); +4 untyped bonus to AC (charge); maximum Dexterity bonus of +7/+6.
+- Leather armour set (5690gp/6290gp; 6250gp/6850gp with DR): +17/+25 armour bonus to AC (+25/+33 versus critical); +4 untyped bonus to AC (charge); maximum Dexterity bonus of +5/+4.
+- Chain shirt set (5780gp/6380gp; 6340gp/6940gp with DR): +19/+27 armour bonus to AC (+27/+35 versus critical); +4 untyped bonus to AC (charge); maximum Dexterity bonus of +3/+2.
+
+
+Then by the double-plated modification:
+- Padded armour set (9685gp/10285gp; 10245gp/10845gp with DR): +20/+28 armour bonus to AC (+24/+32 versus critical); +4 untyped bonus to AC (charge); maximum Dexterity bonus of +5/+4.
+- Leather armour set (9690gp/10290gp; 10250gp/10850gp with DR): +21/+29 armour bonus to AC (+25/+33 versus critical); +4 untyped bonus to AC (charge); maximum Dexterity bonus of +3/+2.
+- Chain shirt set (9780gp/10380gp; 10340gp/10940gp with DR): +23/+31 armour bonus to AC (+27/+35 versus critical); +4 untyped bonus to AC (charge); maximum Dexterity bonus of +1/+0.
+
+
+And finally, the (now-superfluous) hellforged template:
+- Padded armour set (15685gp/16285gp; 16245gp/16845gp with DR): +20/+28 armour bonus to AC (+24/+32 versus critical); +4/+4/+8 untyped bonus to AC (charge/phalanx/both); maximum Dexterity bonus of +4/+3.
+- Leather armour set (15690gp/16290gp; 16250gp/16850gp with DR): +21/+29 armour bonus to AC (+25/+33 versus critical); +4/+4/+8 untyped bonus to AC (charge/phalanx/both); maximum Dexterity bonus of +2/+1.
+- Chain shirt set (15780gp/16380gp; 16340gp/16940gp with DR): +23/+31 armour bonus to AC (+27/+35 versus critical); +4/+4/+8 untyped bonus to AC (charge/phalanx/both); maximum Dexterity bonus of +0/+0.
+
+
+- Base Armor (with all 4 supplemental pieces):
+    - Padded (max dex +7) +8: 125/8=15.63
+    - Leather (max dex +5) +9: 130/9=14.45
+    - Hide Shirt (max dex +3) +10: 150/10=15
+    - Parade Armor (max dex +4) +10: 155/10=15.5
+    - Chain Shirt (max dex +3) +11: 220/11=20
+
+- AC Optionals:
+    - Riding - While mounted, +4 AC: 160/4=40
+    - Interlocking - While mounted or stationary, +8 AC but -1 max dex: 600/8=75
+    - Gloryborn - +4 AC on charge: 600/4=150
+    - Reinforced - +4 AC: 3200/4=800
+    - Double-Plated - +4 AC: 4000/4=1000
+    - Hellforged - +4 AC in phalanx: 6000/4=1500
+
+Misc Boni:
+    - DR Set - DR 3/- vs missile, -8 dam vs physical NL, -4 dam vs lethal bludgeoning nat wpn: 560
+    - Vital Coverage - +8 AC vs crits: 800/8=100
+
+Cheap options:
+- Leather: +8 AC, 130gp
+- Chain Shirt: +11 AC, 220gp
+    - +Riding: +16 AC, 480gp
+    - ++Interlocking: +24 AC, 1080gp
+- +Heavy Wooden Shield: add +2 AC, add 7gp
+
+Shields:
+    - Light Wooden: 3/1=3
+    - Heavy Wooden: 7/2=3.5
+
+
+Troop presets (AC Base/FF/Touch):
+- Standard - Hide Shirt, Heavy Wooden Shield, 14 Dex: 157gp, 24/22/12 AC
+- Mounted - Chain Shirt, +Riding, 16 Dex: 480gp, 29/26/13 AC
+- Honor Guard - Parade Armor, +Interlocking, Heavy Steel Shield, 16 Dex: 775gp, 33/30/13 AC

@@ -1,0 +1,48 @@
+Languages in this world:
+
+Dead Languages:
+- Dragonic
+- Jotun
+- Ancient dialects of any language fall under this category
+
+Trade Languages:
+- Imperial Common - "Imperial" for short, a creole of Goblenic languages and Elvish. Formalized 75 years ago by the Acyran Empire and implemented as the Empire's official language at the same time. All businesses and official organizations are required to conduct their business in Imperial. Knowing Imperial is basically necessary for all levels of imperial society as well as anyone who wants to do business even partially in the Empire.
+- Humic - A language passed down to nomadic humans and kenku directly from their deities, kept unchanging and universal by constant communion with those deities. Most commonly spoken by leaders, priests, diplomats, and the elderly, but all humans and kenkus have incorporated words and aspects from Humic into their local languages.
+- Undercommon - The trade language used through out the underdark. No one knows how one language has become nearly ubiquitous in such a massive and diverse area.
+- Dwavic - Descended from the ancient language of the first dwarves. Uses the same alphabet as Jotun. Primarily spoken in formal settings, but dwarves who travel have put it to use as a trade language as nearly all dwarves are taught Dwavic.
+- Sunlit Tongue - Used by the Sunset Empire. Given to them and kept unchanging by their Sunlit Gods. When the Sunset Empire goes to war, any who can swear fealty to the Solar gods in this tongue must customarily be spared by the Empire's forces, on pain of death. This applies even on the battlefield. 
+- Scalish - trade language of the Bla'kroyan deserts and jungle kingdoms
+- Vahtian - The common tongue formalized by the council which established the Behlak Vaht. Originally intended for coordinating war efforts and maintaining diplomatic cohesion, it has become widely used within the Vaht even by groups not bound to the Behlak Vaht.
+- Macuine - A creole of the numerous languages of the Na'macuin Steppes. Spoken by the refugees of the Beastmark such as halflings.
+
+Academic languages:
+- Elvish - Used by the patricians of the Acyran empire and their servants.
+- Goblenic - Primarily used by goblin clans for documenting the heritage of their members.
+(I can't think of any more that might be relevant to this campaign or your characters)
+
+Spirit languages:
+- Celestial - Language of the upper planes. First detailed in the commandments of ascendent righteousness.
+- Infernal - Language of the lower planes. First detailed in the book of ultimate evil.
+- Axiomatic - Language of the axiomatics and their primordial fortresses. Came into being simultaneously with the World Wall and the what the first laws were written in.
+- Primordial - More of a vibe really. This is the "language" used by the proteans that inhabit the primordial mists.
+- Sylvan - Spoken by the courtiers of the Feywild.
+- Shade Tongue - Spoken by the denizens of the Shadow Fell.
+- Necrol - Language of psychopomps and their masters. This language is known automatically by all dead things.
+- Aquan/Auric/Igni/Terran - Elemental languages used by denizens of their respective planes.
+
+Local languages:
+(It is impossible to detail every local language in this world and the outer realms, and is left to players to define for their backstories)
+
+Starting Languages 
+- All characters begin play knowing at least 3 languages:
+    - Imperial Common
+    - A trade language which is logical for their homeland
+    - The local language they grew up speaking
+
+- Characters with an intelligence of three or more gain one academic or dead language per point of intelligence over 2
+
+- Characters with a bureaucracy of 3 or higher gain an additional trade or local language for every point over 2
+
+- Characters can only learn spirit languages by taking the language merit 
+
+- A linguistics + wits roll can be used to have an awkward and slow conversation with someone you do not share a language with if you share languages of the same family or one of you is speaking an archaic dialect of the other. This applies to deciphering documents as well.

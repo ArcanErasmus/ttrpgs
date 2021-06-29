@@ -25,29 +25,29 @@ BG Point spend: 15/10
 || Stamina     | @@@@@  || Appearance  | @@@@@  || Wits           | @@@@@
 
 ## Abilities
-|| Ability        | Level  || Specialties
-||----------------|--------||-----------
-|| [Supernal]              ||
-|| Craft                   || Ranged Weapons
-||   Artifacts    | @@@@@  ||
-||   Armor        | @....  ||
-||   Cooking      | @....  ||
-||   Weapons      | @....  ||
-|| [Caste]                 ||
-|| Integrity      | @@@@@  ||
-|| Lore           | @@@@@  || Artifacts
-|| Medicine       | @@@@@  || Body Modification
-|| Occult         | @@@@@  ||
-|| [Favored]               ||
-|| Archery        | @@@..  ||
-|| Awareness      | @....  ||
-|| Linguistics    | @....  ||
-|| Resistance     | @....  ||
-|| War            | @....  || Siege Weapons
-|| [Other]                 ||
-|| Athletics      | @....  ||
-|| Dodge          | @....  ||
-|| Investigation  | @....  ||
+|| Ability       | Level  || Specialties
+||---------------|--------||-----------
+|| [Supernal]             ||
+|| Craft                  || Ranged Weapons
+||   Artifacts   | @@@@@  ||
+||   Armor       | @....  ||
+||   Cooking     | @....  ||
+||   Weapons     | @....  ||
+|| [Caste]                ||
+|| Integrity     | @@@@@  ||
+|| Lore          | @@@@@  || Artifacts
+|| Medicine      | @@@@@  || Body Modification
+|| Occult        | @@@@@  ||
+|| [Favored]              ||
+|| Archery       | @@@..  ||
+|| Awareness     | @....  ||
+|| Linguistics   | @....  ||
+|| Resistance    | @....  ||
+|| War           | @....  || Siege Weapons
+|| [Other]                ||
+|| Athletics     | @....  ||
+|| Dodge         | @....  ||
+|| Investigation | @....  ||
 
 # Essence
 # Willpower
@@ -164,10 +164,12 @@ I |     Occult - Ancient Tongue Understanding
 
 I | Resistance - Body-Mending Meditation (need resist 2)
 I |     Resistance - Ox-Body Technique
+F | Resistance - Whirlwind Armor-Donning Prana (upgrade to C if making a warstrider)
 
 C | War - Immortal Commander's Presence (need war 2)
 I |     War - War God Descendent
 
+I | ??? - Hallowed Bond of Night and Flame (req essence 3, upgrade to C or even M as bond with Adrena grows)
 
 M - Mandatory
 C - Core
@@ -196,6 +198,16 @@ Session - Single session, generally contains several sessions
 Scene - Single segment without time cut
 Round - For combat, take one action
 Downtime - More abstract narration
+
+
+Ties
+- Adrena - comfort zone
+
+Principle
+- Teaching over doing+
+- I write in Imperial Common, not Dwavic, to share more knowledge
+- Very prideful
+
 
 
 ## Evocations
