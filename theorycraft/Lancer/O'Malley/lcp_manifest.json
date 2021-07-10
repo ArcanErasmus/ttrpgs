@@ -2,5 +2,6 @@
     "name": "The IPS-N O'Malley",
     "author": "Violet Catanese",
     "description": "An alt-frame for the IPS-N Worden",
+    "item_prefix": "vc-",
     "version": "1.0"
 }

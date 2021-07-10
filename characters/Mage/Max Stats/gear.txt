@@ -9,17 +9,17 @@
 || - A pager                                      || - Rope                                         ||
 || - Police CB radio                              || - Poncho                                       ||
 || - Too many batteries                           || - Apple Newton MessagePad                      ||
-|| - Chalk                                        || - Digital watch with calculator                ||
-|| - Various handmade charms                      ||                                                ||
-||===============|======|========|=======|======|=||===|=========|==================================||
-|| Weapon        | Diff | Damage | Range | Rate | Clip | Conceal | Notes                            ||
-||- - - - - - - -|- - - | - - - -|- - - -|- - - | - - -|- - - - -|- - - - - - - - - - - - - - - - - ||
-|| Leatherman    | 5    | S/L    | -     | -    | -    | Pocket  | Knife but worse                  ||
-||===============|======|========|=======|======|======|=========|==================================||
-|| Armor         | Prot | Dex    | Notes                                                            ||
-||- - - - - - - -|- - - | - - - -|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Thick Clothes | 1    | 0      | Max wears lots of layers because she's always a little chilly    ||
-||===============|======|========|==================================================================||
+|| - Chalk                                        || - Digital watch                                ||
+|| - Various handmade charms                      || - TI-81                                        ||
+||==================|======|========|=======|=====||======|=========|===============================||
+|| Weapon           | Diff | Damage | Range | Rate | Clip | Conceal | Notes                         ||
+||- - - - - - - - - | - - -|- - - - | - - - | - - -|- - - | - - - - | - - - - - - - - - - - - - - - ||
+|| Leatherman Knife | 5    | S/L    |       |      | -    | Pocket  | Knife but worse               ||
+||==================|======|========|=======|======|======|=========|===============================||
+|| Armor            | Prot | Dex    | Notes                                                         ||
+||- - - - - - - - - | - - -|- - - - | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Thick Clothes    | 1    | 0      | Max wears lots of layers because she's always a little chilly ||
+||==================|======|========|===============================================================||
 || The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick. The core ||
 || is a military surplus radio set, connected to a heavily modified TI-81, Nintendo Power Glove,    ||
 || and Yellow Ranger costume helmet, which can be programmed to see beyond our world                ||

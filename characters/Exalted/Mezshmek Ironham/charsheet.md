@@ -80,12 +80,18 @@ Points Spent: 7/10
 
 || Merit             | Level  || Notes
 ||-------------------|--------||-----------
-|| Exalted Healing   | #####  ||
-|| Resources         | #####  || Artifact sales & adventurer looting
-|| Artifact          | ##@@.  || Blaster (int to atk, other?)
+|| Exalted Healing   | xxxxx  ||
+|| Resources         | xxxxx  || Artifact sales & adventurer looting
+|| Artifact          | xx@@.  || Blaster (int to atk, other?)
 || Familiar          | @@@    || Akundol
 || Followers         | @..    || Artisan & engineer volunteers pulled from evacuees
-|| Language          | @      || Dorstani, Dragonic, Dwavic, Imperial Common, Old Dwavic, Sylvan, Terran
+|| Language          | x      || Dorstani (Local)
+|| Language          | x      || Dragonic (Academic)
+|| Language          | x      || Dwavic (Trade)
+|| Language          | x      || Dwavic, Archaic (Academic)
+|| Language          | x      || Imperial Common (Trade)
+|| Language          | @      || Sylvan (Spirit)
+|| Language          | x      || Terran (Academic/Spirit)
 
 eidetic memory @@
 demense @@..
@@ -201,14 +207,70 @@ Downtime - More abstract narration
 
 
 Ties
-- Adrena - comfort zone
+- Adrena (Major) - Rock of support, social comfort zone, must protect her
+- Adrena's Memories (Defining) - A trove of past knowledge
 
 Principle
-- Teaching over doing+
+- Teaching over doing
 - I write in Imperial Common, not Dwavic, to share more knowledge
 - Very prideful
 
+Sorcerer Paradigm Options
+1. Adrena teaches past-life magic
+2. Bloodline of magical use
+3. Mathematically extrapolate new systems from old
+4. Core item is bridge to magic
+5. Self-modification has inextricably linked body to the world
 
+Cirrus Skiff - riding cloud
+Corrupted Words - forbid speaking of a subject
+Death of Obsidian Butterflies - blast of glass shards
+Demon of the First Circle - summon demon
+Flight of the Brilliant Raptor - summon big bird
+Infallible Messenger - send messenger spirit
+Invulnerable Skin of Bronze - natural armor
+Mists of Eventide - sleep gas
+Silent Words of Dreams and Nightmares - mess with someone's dreams
+Stormwind Rider - riding dust devil
+Summon Elemental - summon elemental
+Wood Dragon's Claws - claws
+
+Blood Lash - blood whip
+Flight of Separation - gaseous form but birds
+Peacock Shadow Eyes - hypnotize
+
+Beckoning That Which Stirs The Sky - change weather
+Floral Ferry - make boat
+Impervious Sphere of Water - protective dome
+Keel Cleaves the Clouds - make a ship fly
+Sculpted Seafoam Eidolon - shape seafoam
+Spoke the Wooden Face - make ward
+Thunder Wolf Howl - thunderclap
+Unslakable Thirst of the Devil-Maw - hand mouth
+Virtuous Guardian of Flame - fire sword
+
+Assassin's Fatal Touch
+Burning Eyes of the Offender
+Coin of Distant Vision - place marker, view from later
+Commanding the Beasts
+Disguise the New Face
+Dirge of Shadows
+Flying Guillotine
+Fugue of Truth - see through deceptions and illusions
+Internal Flame
+Mirror of Bending Light
+Paralyzing Contradiction
+Personal Tempest
+*Raising the Earth's Bones - reshape the earth*
+Sorcerer's Irresistable Puppetry
+Theft of Memory
+The Ravenous Fire
+
+
+
+Sorcerous Vibes
+1. Helpers
+2. Resource Acquisition (transmutation)
 
 ## Evocations
 
