@@ -3,11 +3,11 @@
 ||===============================||==============|==================================================||
 || Core                          || Stat         | Value                                            ||
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
-|| Nature - Benefactor           || Willpower    | @@@@@ .....                   | XP Total/Spent   ||
-|| Demeanor - Innovator          ||   Temp WP    | @@@@@                         |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 18/10            ||
+|| Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
+|| Demeanor - Innovator          ||   Temp WP    | @@@@@ .                       |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 29/13            ||
 || Affiliation - None            ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - ||
-|| Sect - Tweens With Toad       || Quint/Pdox   | @@@.. ..... ....X XXXXX                          ||
+|| Sect - Tweens With Toad       || Quint/Pdox   | @@@.. ..... ..... .XXXX                          ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@ ... ...                                      ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
