@@ -1,0 +1,48 @@
+step 1: Design the Chassis—Determine the Support Vehicle’s motive type, tech base (including Structural Tech Rating), weight, internal structure and chassis modifications (if any).
+step 2: Install Engine and Control Systems—Determine the Support Vehicle’s engine type, modifications and size; add control systems.
+step 3: Add Heat Sinks—Determine number and weight of the Support Vehicle’s heat sinks (if any).
+step 4: Add Armor—Determine type, amount and weight of armor (if any), and allocate armor points.
+step 5: Install Weapons and Equipment—Add weapons and other equipment to the Support Vehicle.
+step 6: Complete the Record Sheet.
+
+1
+motive: naval vehicle
+tech base: inner sphere
+structural tech rating: C
+availability: D
+weight: 300.0t
+base chassis: 0.15
+base engine: 0.007
+space: 35 slots
+structure weight: 52t
+structure points: 30
+structure locs: Front, Left, Right, Rear, Turret
+turret: yes, t = 0.1 * wpn mass => 0.5t
+
+2
+movement factor: 4 + cruising MP ^ 2
+flank MP = cruising MP * 1.5
+engine weight: 
+    3 => 62.5t
+    4 => 88.5t
+    5 => 121.5t
+base crew: 4
+    +1/t comms equip
+    +3 for 1 field kitchen
+    +5 for 1 theater MASH
+officer crew: other/6 (round up)
+comms: up to 15t, always 1 slot
+mash: 3.5t + 1t/additional theater, always 1 slot
+
+131
+
+156
+
+212
+217
+228
+
+strat op
+41
+169
+187
