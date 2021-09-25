@@ -1,18 +1,19 @@
 # Ragna Loreley Arnorung, She/Her
 ## Human, Freeholder (Warrior) + Initiate of Rhya, Bondsman - Brass 5
 - 6'2", 220lbs, 18 yo, red hair, light blue eyes
+    - Distinguishing Mark: Ruddy face, utter unit
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Hargendorf, Nordland
 - Religion: Rhya, and just a smidge of the Northern Gods
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 
-- Short-term ambition: ?
-- Long-term ambition: ?
-- Party short-term: ?
+- Short-term ambition: Buddy up with the really tall lady
+- Long-term ambition: Be respected and/or feared by a large populace
+- Party short-term: Find Maria
 - Party long-term: ?
 
-## Total/Spent XP: 460/460
+## Total/Spent XP: 610/460
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 att
@@ -39,7 +40,7 @@ oth
 | Ag  | 27 |    |    |    | 27 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
-|^WP  | 40 |    |  5 |    | 45 |
+|!WP  | 40 |    |  5 |    | 45 |
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
@@ -59,11 +60,11 @@ oth
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-| C | Consume Alcohol    | 13 | T   | 73 |
-| C | Cool               | 11 | WP  | 56 |
+|!C | Consume Alcohol    | 13 | T   | 73 |
+|!C | Cool               | 11 | WP  | 56 |
 | C | Dodge              |    | Ag  |    |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |  5 | T   | 65 |
+|!C | Endurance          |  5 | T   | 65 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -81,17 +82,17 @@ oth
 |   | Entertain          |    | Fel |    |
 | C | Heal               |  1 | Int | 33 |
 |   | Language (Norse)   |  5 | Int | 37 |
-| C | Lore (Herbs)       |  5 | Int | 37 |
+|!C | Lore (Herbs)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
-| C | Lore (Norsca)      |  5 | Int | 37 |
+|!C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
 |   | Sail               |  3 | Ag  | 30 |
 |   | Stealth            |    | Ag  |    |
-| C | Swim               | 15 | S   | 65 |
+|!C | Swim               | 15 | S   | 65 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|$C$| Melee (Basic)      | 15 | WS  | 56 |
+|!C$| Melee (Basic)      | 15 | WS  | 56 |
 
 ## Traits
 ### Big

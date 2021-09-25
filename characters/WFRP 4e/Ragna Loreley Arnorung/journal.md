@@ -9,7 +9,7 @@
     - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder". 19 years older than ?.
 - Siblings:
     - ? (male), 6 years older: ?
-    - ? (female), 1 year older: We are always at each other's throats in that sibling love/hate way
+    - ? (female), 1 year older: We are always at each other's throats in that sibling love/hate way. She is definitely jealous of us twins' dynamic (sorry sis!)
     - ? (female), fraternal twin: My partner in crime
     - ? (male), 9 years younger: Baby bro! Protect him!
 
