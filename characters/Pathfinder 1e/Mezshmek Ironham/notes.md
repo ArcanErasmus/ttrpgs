@@ -186,3 +186,45 @@
 - Mirror of Suggestion https://libraryofmetzofitz.fandom.com/wiki/Mirror_of_Suggestion
 - Pearl, Brain Lock https://libraryofmetzofitz.fandom.com/wiki/Pearl,_Brain_Lock
 - Rug of Object Sliding https://libraryofmetzofitz.fandom.com/wiki/Rug_of_Object_Sliding
+
+## Improving Akundol
+### Movement Modification
+- +10 ft fly speed (4000gp), up to 3 times
+- 15 ft swim or climb speed (6000gp)
+- +10 ft swim or climb speed (3000gp), up to 1.5 times
+- 15 ft land speed (4000gp, extrapolated)
+- +10 ft land speed (2000gp), up to 1.5 times
+
+### Resistances
+- Energy resistance 5 to acid, cold, electricity, or fire (4000gp)
+- +5 to existing resistance (6000gp), up to 2 times
+
+### Sense Modification
+- +30 ft darkvision (2500gp), up to 2 times
+- +30 ft blindsense (4000gp), up to 2 times
+
+### SLA Modification
+- +1/day use of a SLA (3000gp/lvl), up to 6 use-lvls
+    - *Shield of Faith* (1st lvl)
+    - *Reinforce Construct* (2nd lvl)
+
+### Complex Modifications
+- Alarm Link (250gp/mile)
+- Mind Link (16500gp)
+- Self-Repair (1500gp), up to 4 times
+
+### Maximim Improvement Cost
+- Movement: 4000 * 3 + 6000 + 3000 * 1.5 + 4000 + 2000 * 1.5 = 29500
+- Resistances: 4000 * 5 + 6000 * 5 * 2 = 80000
+- Senses: 2500 * 2 + 4000 * 2 = 13000
+- SLAs: 3000 * 6 = 18000
+- Complex: 250 * 2 + 16500 + 1500 * 4 = 20000
+- Total: 160,500gp
+- End Result:
+    - fly speed 60 ft
+    - land/swim/climb speeds 30 ft
+    - acid/cold/electricity/fire resistances 15
+    - darkvision 120 ft
+    - blindsense 60 ft
+    - SLAs: *Shield of Faith* 2/day, *Reinforce Construct* 2/day
+    - alarm link (2 mi), mind link, self-repair (12 rounds)

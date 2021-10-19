@@ -189,33 +189,37 @@ oth
 - Trade (Lumberjack)
 
 ### Talents
+- Animal Affinity
 - Attractive
-- Beat Blade
-- Break and Enter
 - Careful Strike
 - Carouser
-- Catfall
+- Chaos Magic (?)
 - Combat Reflexes
-- Contortionist
-- Deadeye Shot
+- Dirty Fighting
 - Disarm
+- Fleet Footed
+- Hatred (?)
 - Implacable
+- In-fighter
 - Iron Jaw
 - Iron Will
 - Jump Up
 - Luck
 - Magic Resistance
 - Menacing
-- Nose for Trouble
-- Orientation
-- Reaction Strike
+- Pure Soul
 - Resistance (?)
 - Resolute
 - Reversal
-- Sixth Sense
+- Riposte
+- Scale Sheer Surface
+- Sea Legs
+- Sprinter
 - Strike Mighty Blow
 - Strong Back
 - Strong Legs
 - Strong-minded
 - Strong Swimmer
 - Tenacious
+- Unshakable
+- Wealthy

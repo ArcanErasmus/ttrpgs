@@ -3,12 +3,12 @@
 ||===============================||==============|==================================================||
 || Core                          || Stat         | Value                                            ||
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
-|| Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
-|| Demeanor - Innovator          ||   Temp WP    | @@@@@ .                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 32/29            ||
-|| Affiliation - None            ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - ||
-|| Sect - Tweens With Toad       || Quint/Pdox   | @@@.. ..... ..... .XXXX                          ||
-|| Concept - Ghostbuster A/V Kid || Arete        | @@@ @.. ...                                      ||
+|| Nature - Benefactor           || Willpower    | @@@@x x....                   | XP Total/Spent   ||
+|| Demeanor - Innovator          ||   Temp WP    | @@@@@ @                       |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 40/29            ||
+|| Affiliation - None            ||   Current    | /-/-/-/-/-/-X                 |- - - - - - - - - ||
+|| Sect - Tweens With Toad       || Quint/Pdox   | @@@@ .... .... .... XXXX                         ||
+|| Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
@@ -35,9 +35,9 @@
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Sphere     | Level | Spec     || Sphere       | Level | Spec   || Sphere       | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Corresp    | @@@.. |          || Life         | ..... |        || Prime        | ..... |         ||
-|| Entropy    | ..... |          || Matter       | ..... |        || Spirit       |A@@@..A|         ||
-|| Forces     | @.... |          || Mind         | @.... |        || Time         | ..... |         ||
+|| Corresp    | @@@.. |          || Entropy      | ..... |        || Forces       | @.... |         ||
+|| Life       | ..... |          || Matter       | ..... |        || Mind         | @.... |         ||
+|| Prime      | ..... |          || Spirit       |A@@@..A|        || Time         | ..... |         ||
 ||============|==|====|==========||==============|=|=====|========||==============|====|==|=========||
 || Background    | Value         || Flaw           | Value        || Merit             | Value      ||
 ||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - - ||- - - - - - - - - -|- - - - - - ||

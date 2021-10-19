@@ -9,9 +9,10 @@
 ||    - Energy                                                                                      ||
 ||    - Formulae, Equations, and Sacred or Advanced Mathematics                                     ||
 ||    - Group Rites                                                                                 ||
-||    - True Names                                                                                  ||
 ||    - Writings, Inscriptions, and Runes                                                           ||
 ||    - Labs & Gear                                                                                 ||
+|| - Obsoleted Instruments:                                                                         ||
+||    - True Names                                                                                  ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Sphere Notes:                                                                                    ||
 || - Spirit: Celestials, fetishes, gauntlet manipulation, infernals, naturalism, necromancy,        ||
@@ -51,7 +52,7 @@ spirit (3)
 - locate Songlines previously introduced to
 - strengthen or weaken the gauntlet
 - see things that leave footprints in the Umbra (ghosts, spirits, werewolves, faeries, etc)
-- soothe ghosts, push Wraiths into Slumber
+- soothe ghosts
 - protect against being denied passage to the afterlife
 - detect a spirit possessing/inhabiting a person/obj
 - call out for a spirit
@@ -74,5 +75,16 @@ corr (3) + spirit (3)
 - create a boundary spirits cannot cross
 - call a Night Terror (or friendly spirit?) to torment (or soothe?) someone in their dreams
 
-forces (1)
+force (1)
+- wiretap
+- parry/block faster
+- determine energy usage/readings/types in area
+- enhance vision/hearing
+
 mind (1)
+
+misc
+- filter recorded fighting/training information directly into mind (corr 2, force 1, mind 1)
+- detect electronic alarm systems (corr 1, force 1)
+- find specific information on computer (corr 3, mind 1)
+- spy on conversations in other areas (corr 2, mind 1)
