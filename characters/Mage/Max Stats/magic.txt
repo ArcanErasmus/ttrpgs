@@ -27,7 +27,6 @@ corr (3)
 - learn path to thing
 - see around corners/thru walls
 - scry a loc or watch for scrying
-- search universe for obj/creature
 - set up jars and watch ripples to "learn information about the subject area"???
 - check if objects have been moved with Correspondence in an area
 - "track any irregularity back to its source"
@@ -67,7 +66,6 @@ corr (3) + spirit (3)
 - chant that kills a target (like Death Note?) by invoking why you want them dead
 - detect boundaries/strength of the Dreamtime at location
 - can enter to anywhere in the Umbra, or exit to anywhere on Earth
-- send perception off into Umbra without actually moving there (presumably works in reverse)
 - convert between ephemera and space, sense ephemera at distance, link spaces across the Gauntlet
 - instantaneously travel along a Songline in the Dreamtime
 - sense objects "touched by Sekhem"
@@ -82,9 +80,21 @@ force (1)
 - enhance vision/hearing
 
 mind (1)
+- sense surface emotions/read auras
+- coordinate individuals, they can use successes during execution of plan
+- determine if a mind has been tampered with
+- gain insight into a problem
+- disguise own thoughts/defend against mind magick
+- boost mental stats, successes = bonus dots to spread for duration
+- super-multitask
 
 misc
 - filter recorded fighting/training information directly into mind (corr 2, force 1, mind 1)
 - detect electronic alarm systems (corr 1, force 1)
 - find specific information on computer (corr 3, mind 1)
 - spy on conversations in other areas (corr 2, mind 1)
+- search universe for obj/creature (corr 3, mind 1)
+- transmit messages across distances (corr 2, mind 1)
+- open a distant connection to the Dreamtime (spirit 2, mind 1)
+- project senses into Umbra during trance (corr 2, spirit 2, mind 1)
+- perfect backtracking recall (corr 1, mind 1)

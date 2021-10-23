@@ -3,7 +3,7 @@
 ### Armor
 | Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
 |----------------------|------|------|------|------|------|------|------|----|-----------------
-| Leather Jack         |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
+| Bear-Pelt Coat       |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
 |----------------------|------|------|------|------|------|------|------|----|-----------------
 | Summary              |      |    1 |    1 |    1 |      |      |      |
 
@@ -11,9 +11,8 @@
 | Weapon                       | Group         | Reach   | Dam   | Qualities/Flaws
 |------------------------------|---------------|---------|-------|-----------------
 | Battle Axe                   | M Basic       | Average | +SB+4 | Hack
-| Hand Weapon                  | M Basic       | Average | +SB+4 | 
-| Dagger                       | M Basic       | V Short | +SB+? |
-| Rock                         | R Throwing    | SBx3    | +SB+? |
+| Hand Weapon                  | M Basic       | Average | +SB+4 |
+| Rock                         | R Throwing    | SBx3    | +SB   |
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
@@ -21,7 +20,7 @@
 | **Worn Equipment**       |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Clothing                 |   1 |     | Experimental Norscan-Imperial fusion fashion
-| Leather Jack             |   1 |     | More of a thick bear pelt really
+| Bear-Pelt Coat           |   1 |     | Fine Leather Jack
 | Tribe Tattoos            |     |     | Mix of low-key Skaeling, family crest, and Rhya
 |--------------------------|-----|-----|--------------------------------
 | **Worn Containers**      |     |     |
@@ -32,11 +31,11 @@
 |--------------------------|-----|-----|--------------------------------
 | Battle Axe               |   2 |   2 |
 | Hand Weapon (Axe)        |   1 |   1 |
-| Dagger                   |     |     |
 | A Few Hefty Rocks        |   1 |   1 |
 |--------------------------|-----|-----|--------------------------------
 | **General**              |     |     | Non-consumable catch-all
 |--------------------------|-----|-----|--------------------------------
+| Knife                    |     |     |
 |--------------------------|-----|-----|--------------------------------
 | **Supplies/Consumables** |     |     |
 |--------------------------|-----|-----|--------------------------------
@@ -48,9 +47,9 @@
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
 |-----------|-----|------------
-| Limit     |  10 |
-| 2x Limit  |  20 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
-| 3x Limit  |  30 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
+| Limit     |  11 |
+| 2x Limit  |  22 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
+| 3x Limit  |  33 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
 |-----------|-----|
 
 ## Psychology and Corruption

@@ -3,10 +3,10 @@
 ||===============================||==============|==================================================||
 || Core                          || Stat         | Value                                            ||
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
-|| Nature - Benefactor           || Willpower    | @@@@x x....                   | XP Total/Spent   ||
-|| Demeanor - Innovator          ||   Temp WP    | @@@@@ @                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 40/29            ||
-|| Affiliation - None            ||   Current    | /-/-/-/-/-/-X                 |- - - - - - - - - ||
+|| Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
+|| Demeanor - Innovator          ||   Temp WP    | @@@@x x                       |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 44/29            ||
+|| Affiliation - None            ||   Current    | @-@-@-@-/-/-/                 |- - - - - - - - - ||
 || Sect - Tweens With Toad       || Quint/Pdox   | @@@@ .... .... .... XXXX                         ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
@@ -18,7 +18,7 @@
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Alertness  | ..... |          || Crafts       | ..... |        || Academics    | @.... |         ||
+|| Alertness  | ..... |          || Crafts       | @@@.. | Invent || Academics    | @.... |         ||
 || Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |         ||
 || Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |         ||
 || Awareness  | @.... |          || Firearms     | ..... |        || Enigmas      | ..... |         ||
@@ -30,8 +30,8 @@
 || Streetwise | ..... |          || Survival     | @.... |        || Politics     | ..... |         ||
 || Subterfuge | ..... |          || Technology   | @@@.. |        || Science      | @.... | Paraphy ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Scan       | @.... |          || Jury-Rig     | @@@.. |        || Conspiracies | @@@.. |         ||
-|| Scrounge   | @.... |          || Security     | @.... |        || Covert Cult  | @@... |         ||
+|| Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |         ||
+|| Scrounge   | @.... |          ||              |       |        || Covert Cult  | @@... |         ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Sphere     | Level | Spec     || Sphere       | Level | Spec   || Sphere       | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
@@ -41,10 +41,10 @@
 ||============|==|====|==========||==============|=|=====|========||==============|====|==|=========||
 || Background    | Value         || Flaw           | Value        || Merit             | Value      ||
 ||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - - ||- - - - - - - - - -|- - - - - - ||
-|| Allies        | @@... .....   || Child          | @@.          || Acute Senses      | @@@        ||
-|| Avatar/Genius | @@@@.         || Curiosity      | @@           || Family Support    | @..        ||
-||$Lab           | @....         || Impatient      | @            || Hands of Daedalus | @@@        ||
-|| Wonder        | @@@@@         || Responsibility | @            || Hyperfocus        | @@@        ||
+|| Avatar/Genius | @@@@.         || Child          | @@.          || Acute Senses      | @@@        ||
+|| Laboratory    | @@...         || Curiosity      | @@           || Family Support    | @..        ||
+|| Wonder        | @@@@@         || Impatient      | @            || Hands of Daedalus | @@@        ||
+||               |               || Responsibility | @            || Hyperfocus        | @@@        ||
 ||               |               || Short          | @@@          || Lightning Calc    | @          ||
 ||               |               || Technobabbler  | @            || Medium            | @@         ||
 ||===============|===============||================|==============||===================|============||

@@ -7,16 +7,15 @@
 || - Innovator: Strength in creativity, weakness in unorthodoxy                                     ||
 ||     - Regain Willpower when your inspiration leads to a helpful new breakthrough.                ||
 ||==================================================================================================||
-|| Background: Allies 2/10                                                                          ||
-|| - Four sidekicks: The four other members of the A/V Club.                                        ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Background: Avatar/Genius 4/5                                                                    ||
-|| - ?                                                                                              ||
+|| - Radio Free Occult! A mysterious radio station.                                                 ||
+|| - Seems to only come through on unshielded electronics.                                          ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Lab 1/5                                                                              ||
+|| Background: $ Laboratory 2/5                                                                     ||
 || - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
-|| - My magick is coincidental, one point in Arcane for concealment, rival magick is vulgar.        ||
+|| - My magick is coincidental, two dots in Arcane for concealment, rival magick is vulgar.         ||
 || - Gauntlet rating is +1.                                                                         ||
+|| - Ritual difficulties reduced by 1.                                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Background: Wonder 5/5                                                                           ||
 || - The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick.        ||
@@ -31,7 +30,7 @@
 || - Willpower diff 6 to restrain yourself when others are taking for-freaking-ever.                ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Responsibility                                                                             ||
-|| - School on weekdays (7th grade)                                                                 ||
+|| - School on weekdays (7th grade).                                                                ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Short                                                                                      ||
 || - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
@@ -51,11 +50,11 @@
 || - Tech-based magickal instruments function as Personalized Instruments once familiar.            ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Hyperfocus                                                                                ||
-|| - For every hr focusing without distractions on non-magickal-casting task, add 1 die to pool,    ||
-||      max 3 bonus dice.                                                                           ||
+|| - For every hr focusing without distractions on non-magickal-casting task, add 1 die to pool.    ||
+|| - Max 3 bonus dice.                                                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Lightning Calculator                                                                      ||
-|| - Math- and calculation-based rolls at -2 diff.                                                  ||
+|| - Math- and calculation-based rolls at -2 diff. This works for appropriate magick instruments!   ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Medium                                                                                    ||
 || - Successful Perception + Awareness lets me sense the presence of ghosts.                        ||

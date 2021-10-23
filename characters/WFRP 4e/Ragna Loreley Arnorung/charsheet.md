@@ -8,33 +8,34 @@
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 
-- Short-term ambition: Buddy up with the really tall lady
+- Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again
 - Long-term ambition: Be respected and/or feared by a large populace
 - Party short-term: Find Maria
 - Party long-term: ?
 
-## Total/Spent XP: 610/460
+## Total/Spent XP: 810/750
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-att
+|  125 |   0 |   5 | WS
+|  125 |   0 |   5 | S
 |------|-----|-----|------
 |  100 |   0 |   1 | Frenzy
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Slayer
 |------|-----|-----|------
-|   50 |   0 |   1 | Endurance
-|   10 |   0 |   1 | Heal
+|   50 |   0 |   5 | Endurance
+|   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Lore (Herbs)
 |   50 |   0 |   5 | Lore (Norsca)
 |------|-----|-----|------
-oth
+|    0 |   0 |   0 | Leave Completed Career Rank
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |    |    |    | 41 |
+|!WS  | 41 |    |  5 |    | 46 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 50 |    |    |    | 50 |
+|!S   | 50 |    |  5 |    | 55 |
 | T   | 55 |  5 |    |    | 60 |
 | I   | 28 |    |    |    | 28 |
 | Ag  | 27 |    |    |    | 27 |
@@ -80,7 +81,7 @@ oth
 |---|--------------------|----|-----|----|------
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
-| C | Heal               |  1 | Int | 33 |
+|!C | Heal               |  5 | Int | 37 |
 |   | Language (Norse)   |  5 | Int | 37 |
 |!C | Lore (Herbs)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
@@ -88,11 +89,11 @@ oth
 |   | Ride               |    | Ag  |    |
 |   | Sail               |  3 | Ag  | 30 |
 |   | Stealth            |    | Ag  |    |
-|!C | Swim               | 15 | S   | 65 |
+|!C | Swim               | 15 | S   | 70 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 56 |
+|!C$| Melee (Basic)      | 15 | WS  | 61 |
 
 ## Traits
 ### Big
@@ -133,6 +134,13 @@ oth
 - Tests: Any influenced by your Status
 - If dressed appropriately, you are always higher status unless others also have Noble Blood
 
+### Savvy [1/1]
+- +5 Int
+
+### Slayer [1/1]
+- For dmg, use opp's TB if greater than own SB, then apply S/SB modifiers
+- On crit, multiply dmg by num steps target is larger than you (2 steps = x2, etc)
+
 ### Stout-hearted [1/WPB]
 - Tests: Willpower to remove Broken conditions
 - May attempt Cool to remove Broken at end of your Turn as well as at end of Round
@@ -157,9 +165,10 @@ oth
 
 ### Freeholder - Silver 1
 - Attr: T
-- Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail
+- Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail (Wolfship)
 - Rhya Skills: Trade (Farmer, Gardener, Herbalist, or Midwife), Secret Signs (Taalrhya)
 - Talents: Ambidextrous, Berserk Charge, Furious Assault, Warrior Born
+- Rhya Talents: Savvy
 - Trappings: Animal Hide Cloak, Horned Helmet, 3 Throwing Axes or Javelins
 
 ### Huskarl - Silver 5
@@ -167,14 +176,14 @@ oth
 - Skills: Leadership, Lore (Chaos), Melee (Flail or Polearm), Perception
 - Rhya Skills: Lore (The Old Faith)
 - Talents: Battle Rage, Fearless (Everything), Resistance (Mutation), Robust
-- Rhya Talents: Gregarious
+- Rhya Talents: Gregarious, Savvy
 - Trappings: Norscan Iron Plate Armor and Helm, Norseman's Axe, Skull Trophies
 
 ### Jarl - Gold 7
 - Attr: Ag
 - Skills: Lore (Any), Ride (Horse or Mammoth)
 - Talents: Combat Master, Frightening, Relentless, Strike Mighty Blow
-- Rhya Talents: Master Tradesman (Farmer, Gardener, Herbalist, or Midwife)
+- Rhya Talents: Gregarious, Master Tradesman (Farmer, Gardener, Herbalist, or Midwife), Savvy
 - Trappings: Land in Norsca, Large Unit of Bondsmen, Spoils of War (10d100 GC), Your Own Named Tribe
 
 ## BG Skill/Talent/Item Options
