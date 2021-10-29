@@ -83,7 +83,7 @@
 |   | Entertain          |    | Fel |    |
 |!C | Heal               |  5 | Int | 37 |
 |   | Language (Norse)   |  5 | Int | 37 |
-|!C | Lore (Herbs)       |  5 | Int | 37 |
+|!C | Lore (Trees)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
 |!C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
@@ -120,12 +120,16 @@
 
 ### Frenzy [1/1]
 - WP Test to enter Frenzy:
+    - Continues until all visible enemies pacified
+    - Stopped if get Stunned or Unconscious
+    - After over, immediately receive one Fatigued
+- While in Frenzy:
+    - +1 to SB
+    - One Free Action Melee Test each Round
     - Immune to all other psychology
     - Will not flee/retreat for any reason
     - Must move at full rate to nearest visible enemy
-    - Usually only actions available are Athletics to reach enemy or Attack
-    - 
- Further, you may take a Free Action Melee Test each Round as you are throwing everything you have into your attacks. Lastly, you gain a bonus of +1 Strength Bonus, such is your ferocity. You remain in Frenzy until all enemies in your line of sight are pacified, or you receive the Stunned or Unconscious condition. After your Frenzy is over you immediately receive a Fatigued condition.
+    - Usually only actions available are Attack, or Athletics to reach enemy faster
 
 ### Hardy [1/TB]
 - Add TB to wounds again for each level in talent
@@ -158,7 +162,7 @@
 ### Bondsman - Brass 5
 - Attr: WS, S, WP
 - Skills: Consume Alcohol, Cool, Dodge, Endurance, Lore (Norsca), *Melee (Basic)*, Row, Swim
-- Rhya Skills: Gossip, Heal, Lore (Plants or Herbs)
+- Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees)
 - Talents: Dual Wielder, Frenzy, Slayer, Sturdy
 - Rhya Talents: Savvy
 - Trappings: Battle Axe or Shield, Leather Jack, Tribe Tattoos
@@ -166,7 +170,7 @@
 ### Freeholder - Silver 1
 - Attr: T
 - Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail (Wolfship)
-- Rhya Skills: Trade (Farmer, Gardener, Herbalist, or Midwife), Secret Signs (Taalrhya)
+- Rhya Skills: Trade (Farmer, Feller, Gardener, Herbalist, or Midwife), Secret Signs (Taalrhya)
 - Talents: Ambidextrous, Berserk Charge, Furious Assault, Warrior Born
 - Rhya Talents: Savvy
 - Trappings: Animal Hide Cloak, Horned Helmet, 3 Throwing Axes or Javelins
@@ -195,7 +199,6 @@
 - Pray
 - Stealth (Urban or Rural)
 - Track
-- Trade (Lumberjack)
 
 ### Talents
 - Animal Affinity
@@ -232,3 +235,8 @@
 - Tenacious
 - Unshakable
 - Wealthy
+
+### Items
+- Something that proves noble heritage
+- Something given to me by Norse family
+- Something given to me by priestess of Rhya
