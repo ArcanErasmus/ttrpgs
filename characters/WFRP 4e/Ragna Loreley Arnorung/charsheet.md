@@ -1,5 +1,5 @@
 # Ragna Loreley Arnorung, She/Her
-## Human, Freeholder (Warrior) + Initiate of Rhya, Bondsman - Brass 5
+## Human, Freeholder (Warrior) + Initiate of Rhya, Freeholder - Silver 1
 - 6'2", 220lbs, 18 yo, red hair, light blue eyes
     - Distinguishing Mark: Ruddy face, utter unit
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
@@ -8,40 +8,43 @@
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 
-- Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again
+- Short-term ambition: Hit something hard
+<!-- - Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again -->
 - Long-term ambition: Be respected and/or feared by a large populace
-- Party short-term: Find Maria
+- Party short-term: Get Maria safely back to Karlitz
 - Party long-term: ?
 
-## Total/Spent XP: 810/750
+## Total/Spent XP: 860/860
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  125 |   0 |   5 | WS
 |  125 |   0 |   5 | S
 |------|-----|-----|------
+|  100 |   0 |   1 | Ambidextrous
 |  100 |   0 |   1 | Frenzy
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Slayer
 |------|-----|-----|------
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
-|   50 |   0 |   5 | Lore (Herbs)
+|   50 |   0 |   5 | Lore (Trees)
 |   50 |   0 |   5 | Lore (Norsca)
+|   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|!WS  | 41 |    |  5 |    | 46 |
+|^WS  | 41 |    |  5 |    | 46 |
 | BS  | 32 |    |    |    | 32 |
-|!S   | 50 |    |  5 |    | 55 |
-| T   | 55 |  5 |    |    | 60 |
+|^S   | 50 |    |  5 |    | 55 |
+|^T   | 55 |  5 |    |    | 60 |
 | I   | 28 |    |    |    | 28 |
 | Ag  | 27 |    |    |    | 27 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
-|!WP  | 40 |    |  5 |    | 45 |
+|^WP  | 40 |    |  5 |    | 45 |
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
@@ -65,7 +68,7 @@
 |!C | Cool               | 11 | WP  | 56 |
 | C | Dodge              |    | Ag  |    |
 |   | Drive              |    | Ag  |    |
-|!C | Endurance          |  5 | T   | 65 |
+| C | Endurance          |  5 | T   | 65 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -81,19 +84,23 @@
 |---|--------------------|----|-----|----|------
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
-|!C | Heal               |  5 | Int | 37 |
+| C | Heal               |  5 | Int | 37 |
+| C | Language (Battle)  |    | Int |    |
 |   | Language (Norse)   |  5 | Int | 37 |
-|!C | Lore (Trees)       |  5 | Int | 37 |
+| C | Lore (Trees)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
-|!C | Lore (Norsca)      |  5 | Int | 37 |
+| C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
 |   | Sail               |  3 | Ag  | 30 |
 |   | Stealth            |    | Ag  |    |
 |!C | Swim               | 15 | S   | 70 |
+| C | Trade (Feller)     |  1 | S   | 56 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
 |!C$| Melee (Basic)      | 15 | WS  | 61 |
+| C | Melee (Two-Handed) |    | WS  |    |
+| C | Ranged (Throwing)  |    | BS  |    |
 
 ## Traits
 ### Big
@@ -107,6 +114,9 @@
 ### Acute Sense (Hearing) [1/IB]
 - Tests: Perception (Hearing)
 - May make Perception tests, at GM discretion, to detect normally imperceptible details
+
+### Ambidextrous [1/2]
+- Only suffer -10 to Tests relying solely on secondary hand
 
 ### Dual Wielder [1/AgB]
 - Tests: Melee or Ranged when attacking with two weapons
@@ -169,7 +179,7 @@
 
 ### Freeholder - Silver 1
 - Attr: T
-- Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail (Wolfship)
+- Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail
 - Rhya Skills: Trade (Farmer, Feller, Gardener, Herbalist, or Midwife), Secret Signs (Taalrhya)
 - Talents: Ambidextrous, Berserk Charge, Furious Assault, Warrior Born
 - Rhya Talents: Savvy
