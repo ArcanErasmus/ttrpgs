@@ -98,3 +98,27 @@ misc
 - open a distant connection to the Dreamtime (spirit 2, mind 1)
 - project senses into Umbra during trance (corr 2, spirit 2, mind 1)
 - perfect backtracking recall (corr 1, mind 1)
+
+Wonder Crafting Rules
+1. Foundation
+    - Extended Attribute+Ability roll to craft suitable foundation
+2. Energy
+    - Arete roll (base = 3 succ/dot in Wonder) to infuse foundation with Quintessence
+3. Investment (Optional: Purification)
+    - Extended Arete roll (base = 3 succ/dot in Wonder); vulgar Prime effect + wonder-appropriate Spheres
+
+Wonder: Screamcatcher + Spirit Battery
+1. Foundation
+    - Roll: Intelligence (Book-learning) + [Technology, Crafts (Invention)]
+    - Traits: Hands of Daedalus, Hyperfocus
+2. Energy
+    - Roll: Arete
+    - Traits: Laboratory, Lightning Calculator
+3. Investment
+    - Roll: Arete
+    - Traits: Laboratory, Hyperfocus
+
+Wonder: (Supermelter, Superroaster, ?)
+1. Foundation
+    - Roll: [Intelligence, Dexterity] + [Technology, Crafts (Invention), Firearms]
+    - Traits: Hands of Daedalus, Hyperfocus, 

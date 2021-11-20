@@ -5,7 +5,7 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
 || Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
 || Demeanor - Innovator          ||   Temp WP    | @@@@x x                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 44/29            ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 47/34            ||
 || Affiliation - None            ||   Current    | @-@-@-@-/-/-/                 |- - - - - - - - - ||
 || Sect - Tweens With Toad       || Quint/Pdox   | @@@@ .... .... .... XXXX                         ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
@@ -37,7 +37,7 @@
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
 || Corresp    | @@@.. |          || Entropy      | ..... |        || Forces       | @.... |         ||
 || Life       | ..... |          || Matter       | ..... |        || Mind         | @.... |         ||
-|| Prime      | ..... |          || Spirit       |A@@@..A|        || Time         | ..... |         ||
+|| Prime      | @.... |          || Spirit       |A@@@..A|        || Time         | ..... |         ||
 ||============|==|====|==========||==============|=|=====|========||==============|====|==|=========||
 || Background    | Value         || Flaw           | Value        || Merit             | Value      ||
 ||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - - ||- - - - - - - - - -|- - - - - - ||

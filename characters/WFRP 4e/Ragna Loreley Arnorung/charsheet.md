@@ -22,8 +22,8 @@
 |------|-----|-----|------
 |  100 |   0 |   1 | Ambidextrous
 |  100 |   0 |   1 | Frenzy
+|  100 |   0 |   1 | Mark of the Gods
 |  100 |   0 |   1 | Savvy
-|  100 |   0 |   1 | Slayer
 |------|-----|-----|------
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
@@ -85,8 +85,8 @@
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
 | C | Heal               |  5 | Int | 37 |
-| C | Language (Battle)  |    | Int |    |
-|   | Language (Norse)   |  5 | Int | 37 |
+| C | Language (Battle)  |    | Int |    | -10
+|   | Language (Norse)   |  5 | Int | 37 | -10
 | C | Lore (Trees)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
@@ -109,6 +109,10 @@
 ### Background Features
 - Barrel-Chested: +5 S, +5 T, -5 Ag
 - Brawny Build: +5 T, -5 Dex
+
+### Mutation: Lolling Tongue
+- -10 to Language Tests
+- A long tongue has its uses
 
 ## Talents
 ### Acute Sense (Hearing) [1/IB]
@@ -144,16 +148,17 @@
 ### Hardy [1/TB]
 - Add TB to wounds again for each level in talent
 
+### Mark of the Gods [1/1]
+- Must spend half hour worshipping Ruinous Powers each day
+- May Frenzy immediately without testing, but must test Challenging Cool vs corrupting influence
+    - Minor exposure 1st time, Moderate 2nd, Major every after, resets each session
+
 ### Noble Blood [1/1]
 - Tests: Any influenced by your Status
 - If dressed appropriately, you are always higher status unless others also have Noble Blood
 
 ### Savvy [1/1]
 - +5 Int
-
-### Slayer [1/1]
-- For dmg, use opp's TB if greater than own SB, then apply S/SB modifiers
-- On crit, multiply dmg by num steps target is larger than you (2 steps = x2, etc)
 
 ### Stout-hearted [1/WPB]
 - Tests: Willpower to remove Broken conditions
