@@ -4,10 +4,10 @@
 || Core                          || Stat         | Value                                            ||
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
 || Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
-|| Demeanor - Innovator          ||   Temp WP    | @@@@x x                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 47/34            ||
+|| Demeanor - Innovator          ||   Temp WP    | @@@@@ @                       |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 51/34            ||
 || Affiliation - None            ||   Current    | @-@-@-@-/-/-/                 |- - - - - - - - - ||
-|| Sect - Tweens With Toad       || Quint/Pdox   | @@@@ .... .... .... XXXX                         ||
+|| Sect - Tweens With Toad       || Quint/Pdox   | .... .... .... .... XXXX                         ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
@@ -18,7 +18,7 @@
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Alertness  | ..... |          || Crafts       | @@@.. | Invent || Academics    | @.... |         ||
+|| Alertness  | ..... |          || Crafts       | @@@.. | Invent || Academics    | @.... | Math    ||
 || Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |         ||
 || Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |         ||
 || Awareness  | @.... |          || Firearms     | ..... |        || Enigmas      | ..... |         ||
@@ -27,7 +27,7 @@
 || Expression | ..... |          || Melee        | ..... |        || Law          | ..... |         ||
 || Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |         ||
 || Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@.. |         ||
-|| Streetwise | ..... |          || Survival     | @.... |        || Politics     | ..... |         ||
+|| Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |         ||
 || Subterfuge | ..... |          || Technology   | @@@.. |        || Science      | @.... | Paraphy ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
 || Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |         ||

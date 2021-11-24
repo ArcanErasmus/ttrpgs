@@ -118,7 +118,17 @@ Wonder: Screamcatcher + Spirit Battery
     - Roll: Arete
     - Traits: Laboratory, Hyperfocus
 
-Wonder: (Supermelter, Superroaster, ?)
+Wonder: Vesuvius
 1. Foundation
     - Roll: [Intelligence, Dexterity] + [Technology, Crafts (Invention), Firearms]
-    - Traits: Hands of Daedalus, Hyperfocus, 
+    - Traits: Hands of Daedalus, Hyperfocus
+    - Description: Take a squirtgun, replace the tank with a mount for a thermos-battery. Run wires along the inside of the pumping mechanism to the nozzle, and seal them in place with wax.
+2. Energy
+    - Roll: Arete
+    - Description: ?
+2a. Purification
+    - Roll: Arete (Prime 2), one per level of purification (max 3)
+    - Description: ?
+3. Investment
+    - Roll: Arete
+    - Description: ?
