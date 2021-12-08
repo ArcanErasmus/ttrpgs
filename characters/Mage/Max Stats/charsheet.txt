@@ -5,7 +5,7 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
 || Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
 || Demeanor - Innovator          ||   Temp WP    | @@@@@ @                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 51/34            ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 51/48            ||
 || Affiliation - None            ||   Current    | @-@-@-@-/-/-/                 |- - - - - - - - - ||
 || Sect - Tweens With Toad       || Quint/Pdox   | .... .... .... .... XXXX                         ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
@@ -13,7 +13,7 @@
 || Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
 || Strength   | @@... |          || Charisma     | @@@.. |        || Perception   | @@@@. | Senses  ||
-|| Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@. | Bookish ||
+|| Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@@ | Bookish ||
 || Stamina    | @@@@@ | Tireless || Appearance   | @@... |        || Wits         | @@... |         ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec    ||
@@ -28,7 +28,7 @@
 || Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |         ||
 || Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@.. |         ||
 || Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |         ||
-|| Subterfuge | ..... |          || Technology   | @@@.. |        || Science      | @.... | Paraphy ||
+|| Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphy ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
 || Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |         ||
 || Scrounge   | @.... |          ||              |       |        || Covert Cult  | @@... |         ||
