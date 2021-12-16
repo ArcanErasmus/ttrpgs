@@ -1,7 +1,10 @@
 # Ragna's Journal
 
 ## Adventure Log
-- ?
+- Kills:
+    - Ungor
+    - Ungor
+    - Ungor
 
 ## Short Bio
 - Moms: Hildur and Stephanie
@@ -160,3 +163,80 @@ To seek glory, and see the world.
     - Common Holy Symbols: ?
     - Strictures
         #. ?
+
+# Career Counseling
+## Duellist
+### Fencer - Silver 3
+- Attributes
+    - *WS*
+    - I
+    - Ag
+- Skills
+    - Athletics
+    - Dodge
+    - *Endurance*
+    - *Heal*
+    - Intuition
+    - Language (Classical)
+    $ Melee (Any)
+    - Perception
+- Talents
+    - Beat Blade
+    - Distract
+    - Feint
+    - Step Aside
+- Trappings
+    - Hand Weapon or Rapier
+    - Sling Bag containing Clothing and 1d10 Bandages
+
+### Duellist - Silver 5
+- Attributes
+    - BS
+- Skills
+    - Charm
+    - *Cool*
+    - Gamble
+    - Melee (Parry)
+    - Ranged (Blackpowder)
+    - Trade (Gunsmith)
+- Talents
+    **Combat Reflexes**
+    **Etiquette (Any)**
+    - Fast Shot
+    - Reversal
+- Trappings
+    - Main Gauge or Sword-breaker
+    - Pistol with Gunpowder and Ammunition
+
+### Duelmaster - Gold 1
+- Attributes
+    -*S*
+- Skills
+    **Intimidate**
+    - Leadership
+    -*Melee (Basic)*
+    - Perform (Acrobatics)
+- Talents
+    -*Ambidextrous*
+    - Disarm
+    -*Dual Wielder*
+    **Riposte**
+- Trappings
+    - Quality Rapier
+    - Hand Weapon
+    - Trusty Second
+    - 2 Wooden Training Swords
+
+### Judicial Champion - Gold 3
+- Attributes
+    -*WP*
+- Skills
+    - Lore (Law)
+    - Melee (Any)
+- Talents
+    **Combat Master**
+    - Menacing
+    - Reaction Strike
+    - Strike to Injure
+- Trappings
+    - 2 Quality Weapons

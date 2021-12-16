@@ -8,27 +8,30 @@
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 
-- Short-term ambition: Hit something hard
+- Short-term ambition: Keep Peronelle safe
 <!-- - Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again -->
 - Long-term ambition: Be respected and/or feared by a large populace
 - Party short-term: Get Maria safely back to Karlitz
 - Party long-term: ?
 
-## Total/Spent XP: 860/860
+## Total/Spent XP: 1010/1010
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|  125 |   0 |   5 | WS
+|  155 |   0 |   6 | WS
 |  125 |   0 |   5 | S
 |------|-----|-----|------
 |  100 |   0 |   1 | Ambidextrous
 |  100 |   0 |   1 | Frenzy
+|  100 |   0 |   1 | Furious Assault
 |  100 |   0 |   1 | Mark of the Gods
 |  100 |   0 |   1 | Savvy
 |------|-----|-----|------
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
-|   50 |   0 |   5 | Lore (Trees)
+|   10 |   0 |   1 | Language (Battle)
 |   50 |   0 |   5 | Lore (Norsca)
+|   50 |   0 |   5 | Lore (Trees)
+|   10 |   0 |   1 | Ranged (Throwing)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
@@ -36,7 +39,7 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |    |  5 |    | 46 |
+|^WS  | 41 |    |  6 |    | 47 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
 |^T   | 55 |  5 |    |    | 60 |
@@ -85,8 +88,8 @@
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
 | C | Heal               |  5 | Int | 37 |
-| C | Language (Battle)  |    | Int |    | -10
-|   | Language (Norse)   |  5 | Int | 37 | -10
+| C | Language (Battle)  |  1 | Int | 33 | -10 when speaking
+|   | Language (Norse)   |  5 | Int | 37 | -10 when speaking
 | C | Lore (Trees)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
@@ -98,9 +101,9 @@
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 61 |
+|!C$| Melee (Basic)      | 15 | WS  | 62 |
 | C | Melee (Two-Handed) |    | WS  |    |
-| C | Ranged (Throwing)  |    | BS  |    |
+| C | Ranged (Throwing)  |  1 | BS  | 33 |
 
 ## Traits
 ### Big
@@ -145,6 +148,11 @@
     - Must move at full rate to nearest visible enemy
     - Usually only actions available are Attack, or Athletics to reach enemy faster
 
+### Furious Assault [1/AgB]
+- Tests: Melee when making extra attacks
+- 1/rd if hit opponent in close combat
+- May immediately spend Move (if remaining), or 1 Adv, to make an extra attack
+
 ### Hardy [1/TB]
 - Add TB to wounds again for each level in talent
 
@@ -152,6 +160,7 @@
 - Must spend half hour worshipping Ruinous Powers each day
 - May Frenzy immediately without testing, but must test Challenging Cool vs corrupting influence
     - Minor exposure 1st time, Moderate 2nd, Major every after, resets each session
+- While Frenzying like this, turns my eyes red!
 
 ### Noble Blood [1/1]
 - Tests: Any influenced by your Status
@@ -218,37 +227,21 @@
 ### Talents
 - Animal Affinity
 - Attractive
-- Careful Strike
-- Carouser
 - Chaos Magic (?)
 - Combat Reflexes
-- Dirty Fighting
 - Disarm
 - Fleet Footed
-- Hatred (?)
-- Implacable
 - In-fighter
 - Iron Jaw
-- Iron Will
-- Jump Up
 - Luck
 - Magic Resistance
-- Menacing
-- Pure Soul
-- Resistance (?)
-- Resolute
+- Resistance ([Corruption, ?])
 - Reversal
 - Riposte
 - Scale Sheer Surface
 - Sea Legs
 - Sprinter
 - Strike Mighty Blow
-- Strong Back
-- Strong Legs
-- Strong-minded
-- Strong Swimmer
-- Tenacious
-- Unshakable
 - Wealthy
 
 ### Items
