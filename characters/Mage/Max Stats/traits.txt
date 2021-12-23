@@ -26,18 +26,15 @@
 || Flaw: Curiosity                                                                                  ||
 || - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Impatient                                                                                  ||
-|| - Willpower diff 6 to restrain yourself when others are taking for-freaking-ever.                ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Responsibility                                                                             ||
 || - School on weekdays (7th grade).                                                                ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Short                                                                                      ||
 || - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Technobabbler                                                                              ||
-|| - Social rolls at +1 or +2 diff, due to compulsive jargon-spouting.                              ||
-|| - May become a bonus instead when speaking with an expert.                                       ||
+|| Flaw: PTSD 3/5                                                                                   ||
+|| - Triggers phobias off of physical aggression, guns, and certain types of masculinity.           ||
+|| - Especially sensitive to rough masculinity, like trade workers and cops.                        ||
 ||--------------------------------------------------------------------------------------------------||
 || Merit: Acute Senses 3/3                                                                          ||
 || - Perception-based rolls at -2 diff for all senses.                                              ||
@@ -60,4 +57,8 @@
 || - Successful Perception + Awareness lets me sense the presence of ghosts.                        ||
 || - My aura shines faintly like a spirit-beacon in the Shadowlands, causing the dead to favor me.  ||
 || - Social rolls at -2 diff when dealing with ghosts, and may perceive things the living don't.    ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Pitiable                                                                                  ||
+|| - Social rolls at -2 diff to get someone to take care of you.                                    ||
+|| - Social rolls at +2 diff to get someone to take you seriously.                                  ||
 ||==================================================================================================||

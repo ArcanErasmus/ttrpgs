@@ -4,10 +4,10 @@
 || Core                          || Stat         | Value                                            ||
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
 || Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
-|| Demeanor - Innovator          ||   Temp WP    | @@@@@ @                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 51/48            ||
+|| Demeanor - Innovator          ||   Temp WP    | @@@@@ .                       |- - - - - - - - - ||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 55/48            ||
 || Affiliation - None            ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - ||
-|| Sect - Tweens With Toad       || Quint/Pdox   | .... .... .... .... .XXX                         ||
+|| Sect - Tweens With Toad       || Quint/Pdox   | .... .... .... ..XX XXXX                         ||
 || Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
 ||============|=======|==========||==============|=======|========||==============|=======|=========||
 || Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
@@ -46,5 +46,6 @@
 || Wonder        | @@@@@         || Impatient      | @            || Hands of Daedalus | @@@        ||
 ||               |               || Responsibility | @            || Hyperfocus        | @@@        ||
 ||               |               || Short          | @@@          || Lightning Calc    | @          ||
-||               |               || Technobabbler  | @            || Medium            | @@         ||
+||               |               || PTSD           | @@...        || Medium            | @@         ||
+||               |               ||                |              || Pitiable          | @          ||
 ||===============|===============||================|==============||===================|============||
