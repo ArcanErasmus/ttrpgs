@@ -1,51 +1,52 @@
-||===============================||=================================================================||
-|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ||
-||===============================||==============|==================================================||
-|| Core                          || Stat         | Value                                            ||
-||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - ||
-|| Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent   ||
-|| Demeanor - Innovator          ||   Temp WP    | @@@@@ .                       |- - - - - - - - - ||
-|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 55/48            ||
-|| Affiliation - None            ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - ||
-|| Sect - Tweens With Toad       || Quint/Pdox   | .... .... .... ..XX XXXX                         ||
-|| Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                      ||
-||============|=======|==========||==============|=======|========||==============|=======|=========||
-|| Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec    ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Strength   | @@... |          || Charisma     | @@@.. |        || Perception   | @@@@. | Senses  ||
-|| Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@@ | Bookish ||
-|| Stamina    | @@@@@ | Tireless || Appearance   | @@... |        || Wits         | @@... |         ||
-||============|=======|==========||==============|=======|========||==============|=======|=========||
-|| Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec    ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Alertness  | ..... |          || Crafts       | @@@.. | Invent || Academics    | @.... | Math    ||
-|| Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |         ||
-|| Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |         ||
-|| Awareness  | @.... |          || Firearms     | ..... |        || Enigmas      | ..... |         ||
-|| Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |         ||
-|| Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |         ||
-|| Expression | ..... |          || Melee        | ..... |        || Law          | ..... |         ||
-|| Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |         ||
-|| Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@.. |         ||
-|| Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |         ||
-|| Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphy ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |         ||
-|| Scrounge   | @.... |          ||              |       |        || Covert Cult  | @@... |         ||
-||============|=======|==========||==============|=======|========||==============|=======|=========||
-|| Sphere     | Level | Spec     || Sphere       | Level | Spec   || Sphere       | Level | Spec    ||
-||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - ||
-|| Corresp    | @@@.. |          || Entropy      | ..... |        || Forces       | @.... |         ||
-|| Life       | ..... |          || Matter       | ..... |        || Mind         | @.... |         ||
-|| Prime      | @.... |          || Spirit       |A@@@..A|        || Time         | ..... |         ||
-||============|==|====|==========||==============|=|=====|========||==============|====|==|=========||
-|| Background    | Value         || Flaw           | Value        || Merit             | Value      ||
-||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - - ||- - - - - - - - - -|- - - - - - ||
-|| Avatar/Genius | @@@@.         || Child          | @@.          || Acute Senses      | @@@        ||
-|| Laboratory    | @@...         || Curiosity      | @@           || Family Support    | @..        ||
-|| Wonder        | @@@@@         || Impatient      | @            || Hands of Daedalus | @@@        ||
-||               |               || Responsibility | @            || Hyperfocus        | @@@        ||
-||               |               || Short          | @@@          || Lightning Calc    | @          ||
-||               |               || PTSD           | @@...        || Medium            | @@         ||
-||               |               ||                |              || Pitiable          | @          ||
-||===============|===============||================|==============||===================|============||
+||===============================||==================================================================||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)          ||
+||===============================||==============|===================================================||
+|| Core                          || Stat         | Value                                             ||
+||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - -||
+|| Nature - Benefactor           || Willpower    | @@@@@ @....                   | XP Total/Spent    ||
+|| Demeanor - Innovator          ||   Temp WP    | @@@@@ .                       |- - - - - - - - - -||
+|| Essence - Questing            || Health       | x-5-2-2-1-1-0                 | 55/52             ||
+|| Affiliation - None            ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - -||
+|| Sect - Tweens With Toad       || Quint/Pdox   | .... .... .... ..XX XXXX                          ||
+|| Concept - Ghostbuster A/V Kid || Arete        | @@@@ .... .                                       ||
+||============|=======|==========||==============|=======|========||==============|=======|==========||
+|| Physical   | Level | Spec     || Social       | Level | Spec   || Ment         | Level | Spec     ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - -||
+|| Strength   | @@... |          || Charisma     | @@@.. |        || Perception   | @@@@. | Senses   ||
+|| Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@@ | Bookish  ||
+|| Stamina    | @@@@@ | Durable  || Appearance   | @@... |        ||              |       | Creative ||
+||            |       | Tireless ||              |       |        || Wits         | @@... |          ||
+||============|=======|==========||==============|=======|========||==============|=======|==========||
+|| Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec     ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - -||
+|| Alertness  | ..... |          || Crafts       | @@@.. | Invent || Academics    | @.... | Math     ||
+|| Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |          ||
+|| Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |          ||
+|| Awareness  | @.... |          || Firearms     | ..... |        || Enigmas      | ..... |          ||
+|| Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |          ||
+|| Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |          ||
+|| Expression | ..... |          || Melee        | ..... |        || Law          | ..... |          ||
+|| Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |          ||
+|| Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@.. |          ||
+|| Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |          ||
+|| Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphy  ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - -||
+|| Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |          ||
+|| Scrounge   | @.... |          ||              |       |        || Covert Cult  | @@... |          ||
+||============|=======|==========||==============|=======|========||==============|=======|==========||
+|| Sphere     | Level | Spec     || Sphere       | Level | Spec   || Sphere       | Level | Spec     ||
+||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - -||
+|| Corresp    | @@@.. |          || Entropy      | ..... |        || Forces       | @.... |          ||
+|| Life       | ..... |          || Matter       | ..... |        || Mind         | @.... |          ||
+|| Prime      | @.... |          || Spirit       |A@@@..A|        || Time         | ..... |          ||
+||============|==|====|==========||==============|=|=====|========||==============|====|==|==========||
+|| Background    | Value         || Flaw           | Value        || Merit             | Value       ||
+||- - - - - - - -|- - - - - - - -|| - - - - - - - -|- - - - - - - ||- - - - - - - - - -|- - - - - - -||
+|| Avatar/Genius | @@@@.         || Child          | @@.          || Acute Senses      | @@@         ||
+|| Laboratory    | @@...         || Curiosity      | @@           || Family Support    | @..         ||
+|| Wonder        | @@@@@         || Responsibility | @            || Hands of Daedalus | @@@         ||
+||               |               || Short          | @@@          || Hyperfocus        | @@@         ||
+||               |               || PTSD           | @@@..        || Lightning Calc    | @           ||
+||               |               ||                |              || Medium            | @@          ||
+||               |               ||                |              || Pitiable          | @           ||
+||===============|===============||================|==============||===================|=============||

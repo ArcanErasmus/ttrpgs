@@ -102,7 +102,7 @@ misc
 - project senses into Umbra during trance (corr 2, spirit 2, mind 1)
 - perfect backtracking recall (corr 1, mind 1)
 
-Wonder: Screamcatcher (@@@@.)
+Wonder: The Screamcatcher (@@@@.)
 - Aesthetics:
     - Copper wires arranged like a collection of dreamcatchers
     - Taps into latent energies ebbing through from other dimensions
@@ -136,3 +136,21 @@ Wonder: Vesuvius (@@@@.)
     - Consumes 2 Quintessence per attack, compatible with Spirit Batteries
     - When it kills a creature, it creates a number of Banes equal to the target's Willpower
         - Most likely baby Drattosi, who are quite benevolent towards the wielder, assuming both stick around long enough as they stabilize
+
+PLANNED Wonder: The Crystal Stylus (@....)
+    - "The Magick Sharpie" - Summer
+- Aesthetics:
+    - Laser pointer aiming at a little garnet
+        - The garnet is almost fully enclosed in tinfoil, with a small gap on the laser side
+        - The gem, foil, and laser lens are all encased in resin (with glitter!).
+    - The watch batteries in the laser have been replaced with a tiny rune-carved capacitor.
+        - This capacitor provides a constant trickle-feed for the low-power laser.
+        - On a fundamental level, the capacitor is suspended in the moment where it pops and "lets the smoke out", but, through magick the energy contained within the moment of a state change is rationed and released over the course of roughly 45 years.
+        - (It will run out when 32-bit Unix timestamps overflow, not that Max will make the connection).
+    - Handle wrapped in shoelace (flat, synthetic, wavy rainbow pattern).
+    - Hanging off the back end is a red lanyard, which was given to her by the school library.
+- Stats:
+    - Can draw in the air, emitting a smoke that seems no more resilient than normal.
+    - However, to the user, it creates a writing that floats in the air like a long-exposure shot.
+    - Said writing retains coherence as long as the user focuses on it.
+    - Can function as a magickal instrument where relevant.
