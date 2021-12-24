@@ -14,8 +14,8 @@
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - -||
 || Strength   | @@... |          || Charisma     | @@@.. |        || Perception   | @@@@. | Senses   ||
 || Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@@ | Bookish  ||
-|| Stamina    | @@@@@ | Durable  || Appearance   | @@... |        ||              |       | Creative ||
-||            |       | Tireless ||              |       |        || Wits         | @@... |          ||
+|| Stamina    | @@@@@ | Tireless || Appearance   | @@... |        ||              |       | Creative ||
+||            |       | Tough    ||              |       |        || Wits         | @@... |          ||
 ||============|=======|==========||==============|=======|========||==============|=======|==========||
 || Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec     ||
 ||- - - - - - | - - - | - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - | - - - | - - - - -||
