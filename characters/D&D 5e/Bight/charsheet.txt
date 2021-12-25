@@ -1,0 +1,92 @@
+bg
+- know/knew parents
+- birthplace: home
+- family: raised by both parents, still on good terms
+    - mother: NG, quite successful (despite age), guild member
+    - father: N, doing poorly (old and sick), bedridden
+- lifestyle: comfortable
+- childhood home: large house
+- childhood memories: easy to make friends
+- age: 51-60, 9 life events
+    - adventurer friend: male human bard, N, infamous, worked with them for a few years
+    - met someone important: enby elf laborer, N, doing well
+    - blight hit, father contracted chronic illness
+    - worked as a bureaucrat (+8 gp)
+    - fiend visited in dreams to give warning
+    - adventurer enemy (male dragonborn monk, N, doing poorly, I squandered something that could make us rich)
+    - badly injured in battle, when trampled by a horse
+        - lost right leg at hip
+        - lost left leg below knee
+    - fiend visited in dreams to give warning
+    - fell in love (Binder)
+
+- 11 siblings
+    - 10 yr older, NG, doing well, good terms, farmer/herder
+    - 7 yr older, NE, doing well, good terms, farmer/herder
+    - 4 yr older, N, doing well, good terms, farmer/herder
+    - 2 yr older, NE, doing well, indifferent, farmer/herder
+    - my twin, N, doing well, good terms, hunter/trapper
+    - 2 yr younger, N, doing poorly, indifferent, laborer
+    - 5 yr younger, NG, doing well, good terms, farmer/herder
+    - 9 yr younger, NE, quite successful, indifferent, criminal
+    - 11 yr younger, NG, quite successful, good terms, explorer
+    - 12 yr younger, NG, quite successful, good terms, explorer
+    - 14 yr younger, NE, quite successful, good terms, soldier
+
+
+Dungeoneer's Pack (12 gp). Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+
+Alchemy jug
+Bag of holding
+
+Sending stones
+Wand of secrets
+
+CANTRIPS (O LEVEL)
+Acid splash
+Dancing lights
+Fire bolt
+Guidance
+Light
+Mage hand
+Mending
+Message
+Poison spray
+Prestidigitation
+Ray of frost
+Resistance
+Shocking grasp
+Spare the dying
+Thorn whip
+
+    Booming blade
+    Green-flame blade
+    Lightning lure
+    Sword burst
+
+        Create bonfire
+        Frostbite
+        Magic stone
+        Thunderclap
+
+1ST LEVEL
+        Absorb elements'
+        Catapult
+        Snare
+
+    Tasha's caustic brew'
+
+Alarm (ritual)
+Cure wounds
+Detect magic (ritual)
+Disguise self
+Expeditious retreat
+Faerie fire
+False life
+Feather fall
+Grease
+Identify (ritual)
+Jump
+Longstrider
+Purify food and drink
+Sanctuary
