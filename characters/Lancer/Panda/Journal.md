@@ -342,4 +342,183 @@ MENDICANT_DEMAND=(O/K)
 ## Session 7
 ### The Governor's Farm, several days later
 - Brava is stressed and sleep-deprived
-- 
+
+-----
+
+## Session 20 (vague guess)
+- We prep for overlanding
+
+STATS
+Engagement Range: 18
+Speed: 60km/Per Day Phase
+Stealth: 21
+Boons: 7
+The Convoy - Stats & Supplies
+- Engagement Range: Highest Sensors + lowest Sensors = 18
+    - RC - 8
+    - HI - 5
+    - SSU - 3
+    - SE - 15
+- Speed: Party average = 6 (x10 km/day)
+    - RC - 3
+    - HI - 7
+    - SSU - 6
+    - SE - 6
+- Stealth: Highest E-Def + lowest E-Def = 21
+    - RC - 12
+    - HI - 7
+    - SSU - 14
+    - SE - 9
+- Provisions: Avg of party's repair caps (each feeds everyone for 1 day) = 4
+    - RC - 4
+    - HI - 5
+    - SSU - 2
+    - SE - 2
+
+The Players - Stats & Supplies
+- Repair Cap: Double normal, but has to last for the entire journey
+    - Can give at 2:1 ratio to other members
+    - Anything above your regular cap is carried on support vehicles or other mechs
+    - The Pool: PPPPTTTTTLLCC
+- Flairs: 3 per long rest
+    - Can spend one to bring in a mech system into the scene to solve a problem
+    - Refresh when taking 2 consecutive rest segments
+- Personal Equipment
+    - Everyone: Dataplating
+    - Leto: Wilderness Survival Kit, Personal Drone
+    - Tempo: Flex Suit, Tertiary Arm
+    - Castrati: Portable Cabin, Camo Cloth
+    - Panda: Handheld Printer, Trauma Kit
+
+The Preparation
+- The Situation Prior to Departure
+    - Patience has been incapacitated, Artemis is missing (fled? kidnapped?)
+    - There is no evidence of any vehicles leaving the settlement, but sensors/cameras picked up a number of subalterns exiting in a scattered group, headed 60% NNE to Mt Cooper, 10% West, and 30% SSE
+    - Most encounters with the HUC occurred West of EG
+- Objectives
+    - Recover Artemis
+        - Clue: Eros
+        - Artemis decided her destination based on messages from the orbital derelicts
+        - "The poles" are also relevant
+    - Clue: The bell
+        - Hand-twisted metal (requiring super-human strength, most likely that of a subaltern)
+        - Clear, resonant note (is the sound significant?)
+        - Symbol from an old-Earth culture
+        - The bell may be left for Eros, not Leto
+    - Make contact with the HUC
+        - Clue: Tended to attack from the west
+        - Clue: Likely use old Egregorian catacombs
+            - Catacombs tend to avoid water-saturated areas
+            - Suggests either further inland in general, or towards a raised altitude (like a mountain)
+    - Learn more about The Mendicant and other SECCOM relics
+        - Clue: Subalterns headed in three directions, likely to points of interest to the orbital derelicts
+
+The Journey
+- Day 0: At home
+    - Panda, at The Bottom of the Well - Acquired: 5 bottles of SSC piss wine, 3 of good local brandy
+    - Tempo, finding Ed - Acquired: Ed, Omni-Node towern't
+    - Castrati, breaking into Merricado's apt - Acquired: Emotional growth and google drive access
+    - Leto, chatting with Neo-Artemis - Acquired: Name for Neo-Artemis (Eros!), mental spiraling
+    - End of Day Stats:
+        - Provisions: XXXXX XXXXX XXXXX XXXXX XXXXX X
+        - Repair Cap:
+            - P: PPPP PPPP
+            - T: TTTTT TTTTT
+            - L: LL LL
+            - C: CC CC
+        - Pilot Flair:
+            - P: PPP
+            - T: TTT
+            - L: LLL
+            - C: CCC
+
+## Session 21
+The Journey
+- Day 1: First leg - Evergreen to Mt. Cooper
+    - Morning: Headed toward the mtn, passing east of Tower 2
+        - Tempo spent 1 flair to use the Nelson's avoidance of difficult terrain to navigate a path
+        - Encountered subalterns cannibalized for their power packs, with no tools used
+        - Scans showed lots and lots of signals from around Tower 2
+    - Afternoon: Hustled (double-move in one day) towards the mtn
+        - Crossed rough terrain near the base
+        - Panda spent 1 flair to use the Heavy Lift Gear system to help the support vehicle navigate large rocks
+        - Subaltern programming had been subverted a long time ago by orbital commands, implanted weird orders to group into odd cheerleader-pyramid-like formations
+    - Evening: Making camp
+        - Tempo (remembered she has a bell as well, found in the ruins of the Enkidu)
+            - Very similar to the double-headed bell Artemis left behind
+            - Eros asked to borrow it
+        - Eros (talked to Tempo about the bell)
+            - "[Artemis] was listening to the ringing of the bell. Something out in the woods was saying it was going to hurt Leto's friends, and everybody. She was very scared, but went out to do it anyway. [Artemis] said she could make it stop if she went out to do something, and didn't want Leto to hurt. The thing in the woods was saying that Artemis was not being given space to grow."
+            - "Artemis, or the thing that took Artemis's casket, made the bell and left it for you."
+        - Castrati made dinner, some shellfish in a white wine sauce over pasta
+        - Panda uprooted the trees into a low perimeter wall
+        - Leto took watch with Eros
+            - A mysterious "shrub" caught her eye
+            - A dropship descended towards Evergreen, then suddenly took a hit and crashed violently somewhere south of the colony
+                - Contingency White wouldn't have Union IFF codes, and the orbital derelicts have been real hostile towards non-Union
+            - The mysterious "shrub" had vanished in the meantime, no clues were found
+                - "It was like a really big spider, short and really wide" - Eros
+        - Everyone takes +2 forward (+1 from good food, +1 from comfy shelter)
+    - Night: Part 2 of resting
+        - Tempo took over watch
+            - There was a lot of fire where the dropship crashed        
+    - End of Day Stats:
+        - Provisions: XXXXX XXXXX XXXXX XXXXX XX... .
+        - Repair Cap:
+            - P: PPPP PPPP
+            - T: TTTTT TTTTT
+            - L: LL LL
+            - C: CC ..
+        - Pilot Flair (was refreshed):
+            - P: PPP
+            - T: TTT
+            - L: LLL
+            - C: CCC
+- Day 2: First leg - Evergreen to Mt. Cooper
+    - Morning: Headed straight up from the base of the mtn
+        - Tempo scouted ahead
+            - Lots of shapes with similar size signatures to the "shrub" from last evening
+        - Castrati tried to keep watch, "had a newtype moment" and felt like he was being watched
+            - There was a weird sensation in the air
+        - Panda stripped subalterns for more repair cap
+        - Leto invented a gravity-generating device to make climbing easier
+            - Negates 1 difficulty from climbing for the rest of the current day
+    - Afternoon: Through a crevasse
+        - Tempo navigated expertly through a treacherous route
+            - Spent a flair to handle the rough terrain
+        - Panda missed a step while scanning the horizon and fell into an oil lake
+            - Spent a flair to slow fall with EVA thruster, oil ignited
+            - Ed helped her up with the winch
+            - We acquired a vaguely humanoid petrified thing that was in the muck
+        - Leto analyzed the petrified body
+            - Roughly mech-size-1, 6 limbs, a carapace, frozen in an embrace of something
+            - Upper body very worn away by the flames and subsequent cleaning
+        - Castrati analyzed the petrified bracelet found on the body
+            - Can feel/hear intent/words from it:
+                - Participants: Bitterness[E] (PoV), Terror[E]
+                - B is scared bc they are losing badly, T is determined to protect the Queen at all costs.
+                - B loves T, and wants more meaning in life than a death in war.
+                - T feels B is too influenced by humans, and longs too much for peace.
+                - T demands B's sword, B hands it over and T heads into battle.
+                - B retreats to the bunker, finding a human and a scribe and helping them open the stuck gate.
+                - Hearing war machines approach, B begins to close the portal, but a viscous oil floods in.
+                - The oil is a nanomachine swarm that pulls B deeper to talk to him.
+                    - (B can hear the horrid intent behind its programming???)
+                - B asserts superiority over this monster, and pity for it and the human who died instantly from spinal trauma.
+                - The swarm froths with hatred for Egregorians.
+            - Castrati was overtaken by the remains of the nanite swarm, and Panda+Leto's best attempts could only hold it at bay until he argued it into submission
+                - There was an Egregorian shelter here (in the crevasse?)
+            - Then Leto + Tempo argued about something, something living in Tempo's head?
+    - End of Session Stats:
+        - Provisions: XXXXX XXXXX XXXXX XXXXX XX... .
+        - Repair Cap:
+            - P: PPPP PPPP
+            - T: TTTTT TTTTT
+            - L: LL LL [LL]
+            - C: CC CC
+        - Pilot Flair:
+            - P: PP.
+            - T: TT.
+            - L: LLL
+            - C: CCC
+`Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil`
