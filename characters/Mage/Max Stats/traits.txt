@@ -67,17 +67,25 @@
 ||--------------------------------------------------------------------------------------------------||
 || Background: Hedge Magic                                                                          ||
 || - May buy Paths & Rituals from [Sorcerer: Revised Edition].                                      ||
-|| - Paths cost 2xp, then [current rating x2]xp, Rituals cost [rating/2]xp.                         ||
+|| - Paths cost 2xp, then [new rating x2]xp, Rituals cost [rating/2]xp.                             ||
+|| - Effects have base diff 4 + [lvl of path used or highest desired aspect].                       ||
+|| - Effects take 1 turn per [lvl of effect or highest aspect of effect]. Rituals take min 10 mins. ||
+|| - Extended rolls take the original time per roll.                                                ||
+|| - Botches cause misfires/backlash, but not as bad as Paradox.                                    ||
+|| - Fast casting is +1 diff (max 9) per turn reduced, and +1 WP cost.                              ||
+|| - Can prep spell at +1 diff and 1 WP, release later for normal cost & 1 turn. Add +1 diff to all ||
+||   mental and social tasks while hanging a spell, +1 for each additional 2 spells held.           ||
+|| - If have 2 more dots in Path than min for effect, can cast at higher diff for -1 WP cost.       ||
+|| - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff? ASK ABOUT THIS    ||
+|| - Counterspelling: Wits+Occult diff 8, subtract succcesses from caster's.                        ||
+|| - Unweaving: Like Counterspelling, but must meet num original successes to undo active effect.   ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Background: Hideaway 2/6                                                                         ||
 || - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
 || - Stocked with tools and several days' worth of food/water.                                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Primium Countermeasures 3/5                                                          ||
-|| - 3 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Wonder 5/5                                                                           ||
-|| - The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick.        ||
+|| Background: Primium Countermeasures 5/5                                                          ||
+|| - 5 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
 ||--------------------------------------------------------------------------------------------------||
 || Merit: Acute Senses 3/3                                                                          ||
 || - Perception-based rolls at -2 diff for all senses.                                              ||

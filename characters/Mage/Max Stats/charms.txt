@@ -15,11 +15,6 @@
 || - Can change personal orientation of "down" at will, or reduce weight by up to 90%.              ||
 || - Lower weight allows up to 4x jump distance/height.                                             ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Stealth & Disguise Charm: Aura-Dampening Component (@)                                           ||
-|| - Aesthetic: Crystalline ports on chest and back.                                                ||
-|| - First 2 Essence/scene don't count toward Banner flaring unless desired.                        ||
-|| - If spent at least 3 Essence in scene, can unleash Banner at will.                              ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Stealth & Disguise Charm: Integrated Artifact Transmogrifier (@)                                 ||
 || - Aesthetic: Complex series of flesh patches and retracting mechanisms.                          ||
 || - Concentrate 1 turn & roll WP diff 8, hides all evidence of Charms, until any Charm used.       ||
@@ -29,11 +24,6 @@
 || Analytic & Cognitive Charm: Imprinted Data Cluster (@)                                           ||
 || - Aesthetic: Memory crystals implanted in frontal lobe.                                          ||
 || - Each time Charm loaded into array, define a specialty which applies to ALL Attrs/Abilities.    ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Analytic & Cognitive Charm: Interpolative Syntax Emulator (@)                                    ||
-|| - Aesthetic: Artificial synapse webs in brain.                                                   ||
-|| - Spend 1 Essence to understand any spoken language for rest of scene.                           ||
-|| - After a minute of listening, can speak it as well.                                             ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Analytic & Cognitive Charm: Mobile Sensory Drone (@)                                             ||
 || - Aesthetic: May remove an eyeball, it skitters on legs.                                         ||
@@ -79,6 +69,7 @@
 || - Spend +1 Essence & +1 roll diff (max diff 9) per person to take willing others with.           ||
 || - While installed, can comprehend & speak language of spirits.                                   ||
 || - Must activate again to travel back to material world.                                          ||
+||--------------------------------------------------------------------------------------------------||
 ||==================================================================================================||
 
 

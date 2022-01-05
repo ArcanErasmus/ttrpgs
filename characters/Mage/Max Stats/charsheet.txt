@@ -5,10 +5,10 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - -||
 || Nature - Benefactor           || Health       | x-5-2-2-1-1-0                 | XP Total/Spent    ||
 || Demeanor - Innovator          ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - -||
-|| Caste - Jade                  || Willpower    | @@@@@ @                       | 71/59             ||
+|| Caste - Jade                  || Willpower    | @@@@@ @                       | 71/64             ||
 || Affiliation - None            || Limit Track  | XXXXX XX...                   |- - - - - - - - - -||
 || Sect - Tweens With Toad       || Ess Rating   | @@@..                                             ||
-|| Concept - Ghostbuster A/V Kid || Essence Pool | @@@@@ @@@@@ @@@@@                                 ||
+|| Concept - Ghostbuster A/V Kid || Essence Pool | @@@@@ @@@@@ @@                                    ||
 ||============|=======|==========||==============|=======|========||==============|=======|==========||
 || Physical   | Level | Spec     || Social       | Level | Spec   || Mental       | Level | Spec     ||
 ||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
@@ -22,7 +22,7 @@
 || Alertness  | @@@.. |          || Crafts       | @@@.. | Invent || Academics    | @.... | Math     ||
 || Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |          ||
 || Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |          ||
-|| Awareness  | @.... |          || Firearms     | ..... |        || Enigmas      | ..... |          ||
+|| Awareness  | @@@@. | Spir Vdr || Firearms     | ..... |        || Enigmas      | ..... |          ||
 || Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |          ||
 || Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |          ||
 || Expression | ..... |          || Melee        | ..... |        || Law          | ..... |          ||
@@ -38,8 +38,8 @@
 ||- - - - - - - - - - ╂ - - - - -|| - - - - - - - - - - -|- - - - ||- - - - - - - - - - - ╂ - - - - -||
 || Hedge Magic        | @@@@@    || Acute Senses         | @@@    || Child                | @@.      ||
 || Hideaway           | @@... .  || Family Support       | @..    || Curiosity            | @@       ||
-|| Primium Countermsr | @@@..    || Hyperfocus           | @@@    || Glass Heart          | @@       ||
-|| Wonder             | @@@@@    || Lightning Calculator | @      || PTSD                 | @@...    ||
+|| Primium Countermsr | @@@@@    || Hyperfocus           | @@@    || Glass Heart          | @@       ||
+||                    |          || Lightning Calculator | @      || PTSD                 | @@...    ||
 ||                    |          || Mechancial Aptitude  | @      || Short                | @@@      ||
 ||                    |          || Medium               | @@     ||                      |          ||
 ||====================|==========||======================|========||======================|==========||
@@ -57,26 +57,25 @@
 || - S: Cross-Phase Scanner (@)                                   ||                                 ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||- - - - - - - - - - - - - - - - -||
 || Inactive Charms                                                ||                                 ||
-|| - SD: Aura-Dampening Component (@)                             ||                                 ||
-|| - AC: Interpolative Syntax Emulator (@)                        ||                                 ||
 || - U: Synaptic Acceleration Node (@)                            ||                                 ||
 || - S: Transphase Engine (@@@)                                   ||                                 ||
 ||================================================================||=================================||
 
 
-xp spent: VERIFY BEFORE CONTINUING
-!- 4 for 2x new specialty
-!- 8 for 4x ability 0->1 or 1->2
-!- 3 for 1x ability 2->3
+xp spent:
+- 4 for 2x new specialty
+- 8 for 4x ability 0->1 or 1->2
+- 3 for 1x ability 2->3
 - 3 for 5->6 WP
-!- 2 for 1->2 Wits
-!- 3 for 2->3 Wits
-- 21 for 7 dots charms
-!- 4 for 1->2 Essence
-!- 8 for 2->3 Essence
+- 3 for 1->2 Wits
+- 5 for 2->3 Wits
+- 15 for 5 dots charms
 - 3 for 2x charm submodules
+- 8 for 1->2 Essence
+- 12 for 2->3 Essence
 
 dots
-- 15 bg
+- 12 bg
+- 3 skills
 - 11 merits
 - 11 flaws
