@@ -23,7 +23,7 @@
 || - Correspondence: Distortion, gates, scrying, teleportation, wayfaring                           ||
 ||==================================================================================================||
 Rotes:
-- Send location to/from Shadowlands (Spirit 3 + Optional Correspondence, 10 Successes)
+- Send location to/from Shadowlands (Spirit 4 + Optional Correspondence, 10 Successes)
 
 corr (3)
 - track thing
@@ -47,6 +47,12 @@ corr (3)
 - strengthen or weaken the connection between objects
 - protect small objects from being stolen via other Corr magic
 
+spirit (4)
+- bind spirit to object (fetish) or person
+- banish spirit from object or person
+- make a pact with a spirit and channel its powers
+- open a gateway across the gauntlet
+- harden the gauntlet to prevent travel across it
 spirit (3)
 - create single-use fetish (talen), requires tass
 - awaken an object spirit
@@ -64,6 +70,8 @@ spirit (3)
 - ward against malevolent spirits
 - raise or lower the Gauntlet/Shroud rating in your area
 
+corr (3) + spirit (4)
+- open a gateway across the gauntlet to another location
 corr (3) + spirit (3)
 - can scry in spirit worlds
 - chant that kills a target (like Death Note?) by invoking why you want them dead

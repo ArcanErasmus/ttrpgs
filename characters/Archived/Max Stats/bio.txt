@@ -49,7 +49,5 @@
 ||     -                                                                                            ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Contacts                                                                                         ||
-|| - Samantha ??? | Blockbuster Samantha                                                            ||
-|| - Doris John | Ms. Doris                                                                         ||
-|| - Jeanine "Telentes" Harrow | Ms. Harrow                                                         ||
+|| - Jeanine "Telentes" Harrow                                                                      ||
 ||==================================================================================================||

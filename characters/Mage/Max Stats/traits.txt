@@ -7,18 +7,99 @@
 || - Innovator: Strength in creativity, weakness in unorthodoxy                                     ||
 ||     - Regain Willpower when your inspiration leads to a helpful new breakthrough.                ||
 ||==================================================================================================||
-|| Background: Avatar/Genius 4/5                                                                    ||
-|| - Radio Free Occult! A mysterious radio station.                                                 ||
-|| - Seems to only come through on unshielded electronics.                                          ||
+|| Intimacies:                                                                                      ||
+|| - Tie: Summer (best friend!!!)                                                                   ||
+|| - (?)
+|| - (?)
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: $ Laboratory 2/5                                                                     ||
+|| Rules for Intimacies:                                                                            ||
+|| - When pressured to betray an Intimacy (incl. supernatural), roll WP @ diff 8 to resist.         ||
+|| - 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ||
+||--------------------------------------------------------------------------------------------------||
+|| Special Exalted Rule: Parrying                                                                   ||
+|| - May parry ranged atks, including bullets.                                                      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Exalted Rule: Soak                                                                       ||
+|| - May soak agg damage.                                                                           ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Exalted Rule: Poison & Disease                                                           ||
+|| - Resisting/soaking/recovering from poisons at -2 diff.                                          ||
+|| - Mundane diseases can weaken but not kill.                                                      ||
+|| - Each successive roll to recover from a disease at cumulative -1 diff.                          ||
+|| - Incurable diseases purged from system in (8 - Stam) weeks.                                     ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Exalted Rule: Healing                                                                    ||
+|| - Fast healing, more like slow regeneration, never scars, but doesn't regen lost limbs.          ||
+|| - Heal supernatural disfigurement as if Incapacitated-level lethal dmg.                          ||
+|| | Health Lvl | Bashing | Lethal/Agg |                                                            ||
+|| |------------|---------|------------|                                                            ||
+|| | Bruised    | 30 mins | 1 hour     |                                                            ||
+|| | Hurt       | 30 mins | 12 hours   |                                                            ||
+|| | Injured    | 30 mins | 1 day      |                                                            ||
+|| | Wounded    | 30 mins | 2 days     |                                                            ||
+|| | Maimed     | 1 hour  | 2 days     |                                                            ||
+|| | Crippled   | 1 hour  | 3 days     |                                                            ||
+|| | Incap      | 1 hour  | 5 days     |                                                            ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Exalted Rule: Supernatural Resilience                                                    ||
+|| - Considered more-than-human for powers which have lessened effect vs supernaturals.             ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Exalted Rule: Stunting                                                                   ||
+|| - No penalties/diff for doing actions in ridiculous and flashy way.                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Alchemical Rules: Charm Array                                                            ||
+|| - Can only have certain number of dots of Charms active at once, based on Essence Rating.        ||
+|| - Can change active charms during Dormancy.                                                      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Special Alchemical Rules: Dormancy                                                               ||
+|| - Non-Dormant Alchemical immediately recognizable as something weird.                            ||
+|| - On engaging Dormancy, all Charms disappear into cloud of Essence which swirls into Core.       ||
+|| - To enter, turn of concentration and WP roll diff 8. In Dormancy, no access to Charms/Essence.  ||
+|| - Lasts 6 hrs, can reflexively roll WP diff 5 to extend, costs 1 WP to end prematurely.          ||
+|| - Can reconfigure Charms if Dormancy lasts full 6 hrs. If end early, only 1-dot Charms manifest. ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Caste: Jade                                                                                      ||
+|| - While anima is flaring, add Essence Rating to soak rolls.                                      ||
+|| - Regain Essence when defending or advanceing an Intimacy through persistence or endurance.      ||
+|| - Regain (3 + Essence Rating) Essence when the sun rises                                         ||
+|| - If beginning a scene at 0 Essence, gain 1 Essence.                                             ||
+|| - Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ||
+||--------------------------------------------------------------------------------------------------||
+|| Background: Hedge Magic                                                                          ||
+|| - May buy Paths & Rituals from [Sorcerer: Revised Edition].                                      ||
+|| - Paths cost 2xp, then [current rating x2]xp, Rituals cost [rating/2]xp.                         ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Hideaway 2/6                                                                         ||
 || - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
-|| - My magick is coincidental, two dots in Arcane for concealment, rival magick is vulgar.         ||
-|| - Gauntlet rating is +1.                                                                         ||
-|| - Ritual difficulties reduced by 1.                                                              ||
+|| - Stocked with tools and several days' worth of food/water.                                      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Primium Countermeasures 3/5                                                          ||
+|| - 3 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Background: Wonder 5/5                                                                           ||
 || - The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick.        ||
+||--------------------------------------------------------------------------------------------------||
+|| Merit: Acute Senses 3/3                                                                          ||
+|| - Perception-based rolls at -2 diff for all senses.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Family Support 1/3                                                                        ||
+|| - Typical family, support is mostly emotional but can get occasional favor/allowance.            ||
+|| - Family aware and supportive of supernatural life.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hyperfocus                                                                                ||
+|| - For every hr focusing without distractions on task, add 1 die to pool.                         ||
+|| - Max 3 bonus dice.                                                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Lightning Calculator                                                                      ||
+|| - Math- and calculation-based rolls at -2 diff.                                                  ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Mechanical Aptitude                                                                       ||
+|| - Rolls to work with mechanical technologies at -2 diff.                                         ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Medium                                                                                    ||
+|| - Perception+Awareness to sense the presence of ghosts.                                          ||
+|| - Aura shines faintly like spirit-beacon in Shadowlands, causing the dead to view favorably.     ||
+|| - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ||
 ||--------------------------------------------------------------------------------------------------||
 || Flaw: Child 2/3                                                                                  ||
 || - I am 12 years old.                                                                             ||
@@ -26,39 +107,16 @@
 || Flaw: Curiosity                                                                                  ||
 || - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Responsibility                                                                             ||
-|| - School on weekdays (7th grade).                                                                ||
+|| Flaw: Glass Heart                                                                                ||
+|| - Limit Track runs 0 to 10, +1 Limit when: Botch a roll, go a week without nonviolent human      ||
+||   contact, or act to undermine/betray Nature or Intimacies.                                      ||
+|| - At 10, enter Clarity and reset Limit. When in Clarity, all Empathy rolls at diff 9, can no     ||
+||   longer use Intimacies, and can't enter Dormancy. Lasts 6 to 36 hrs.                            ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Short                                                                                      ||
 || - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: PTSD 3/5                                                                                   ||
+|| Flaw: PTSD 2/5                                                                                   ||
 || - Triggers phobias off of physical aggression, guns, and certain types of masculinity.           ||
 || - Especially sensitive to rough masculinity, like trade workers and cops.                        ||
-||--------------------------------------------------------------------------------------------------||
-|| Merit: Acute Senses 3/3                                                                          ||
-|| - Perception-based rolls at -2 diff for all senses.                                              ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Family Support 1/3                                                                        ||
-|| - Typical family, support is mostly emotional but can get occasional favor/allowance.            ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Hands of Daedalus                                                                         ||
-|| - Rolls to craft/repair/invent/modify mechanical technologies at -2 diff when hands-on.          ||
-|| - Tech-based magickal instruments function as Personalized Instruments once familiar.            ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Hyperfocus                                                                                ||
-|| - For every hr focusing without distractions on non-magickal-casting task, add 1 die to pool.    ||
-|| - Max 3 bonus dice.                                                                              ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Lightning Calculator                                                                      ||
-|| - Math- and calculation-based rolls at -2 diff. This works for appropriate magick instruments!   ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Medium                                                                                    ||
-|| - Successful Perception + Awareness lets me sense the presence of ghosts.                        ||
-|| - My aura shines faintly like a spirit-beacon in the Shadowlands, causing the dead to favor me.  ||
-|| - Social rolls at -2 diff when dealing with ghosts, and may perceive things the living don't.    ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Pitiable                                                                                  ||
-|| - Social rolls at -2 diff to get someone to take care of you.                                    ||
-|| - Social rolls at +2 diff to get someone to take you seriously.                                  ||
 ||==================================================================================================||

@@ -1,0 +1,84 @@
+||===============================||=================================================================||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Exalted 10/27/1993)      ||
+||===============================||=================================================================||
+|| General Charm: Transitory Augmentation of Jade (@)                                               ||
+|| - Aesthetic: Miniature Essence reservoirs throughout body.                                       ||
+|| - Reflexively spend 1 Essence to pick a Caste Attribute & add its rating to all rolls using it.  ||
+|| - Lasts (Essence + 1) turns in combat, or minutes out of combat.                                 ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| General Charm: Sustained Augmentation of Jade (@)                                                ||
+|| - Aesthetic: Physical/mental implants or body sculpting.                                         ||
+|| - While installed, permanent +1 to all Cast Attributes, can raise above 5.                       ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Physical Enhancement Charm: Personal Gravity Manipulation Apparatus (@)                          ||
+|| - Aesthetic: Reinforcing components & Essence capacitors in legs.                                ||
+|| - Can change personal orientation of "down" at will, or reduce weight by up to 90%.              ||
+|| - Lower weight allows up to 4x jump distance/height.                                             ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Stealth & Disguise Charm: Aura-Dampening Component (@)                                           ||
+|| - Aesthetic: Crystalline ports on chest and back.                                                ||
+|| - First 2 Essence/scene don't count toward Banner flaring unless desired.                        ||
+|| - If spent at least 3 Essence in scene, can unleash Banner at will.                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Stealth & Disguise Charm: Integrated Artifact Transmogrifier (@)                                 ||
+|| - Aesthetic: Complex series of flesh patches and retracting mechanisms.                          ||
+|| - Concentrate 1 turn & roll WP diff 8, hides all evidence of Charms, until any Charm used.       ||
+|| - If spend 1 WP, only deployed Charms visible for rest of scene.                                 ||
+|| - Permanently-active charms keep effects while hidden.                                           ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Analytic & Cognitive Charm: Imprinted Data Cluster (@)                                           ||
+|| - Aesthetic: Memory crystals implanted in frontal lobe.                                          ||
+|| - Each time Charm loaded into array, define a specialty which applies to ALL Attrs/Abilities.    ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Analytic & Cognitive Charm: Interpolative Syntax Emulator (@)                                    ||
+|| - Aesthetic: Artificial synapse webs in brain.                                                   ||
+|| - Spend 1 Essence to understand any spoken language for rest of scene.                           ||
+|| - After a minute of listening, can speak it as well.                                             ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Analytic & Cognitive Charm: Mobile Sensory Drone (@)                                             ||
+|| - Aesthetic: May remove an eyeball, it skitters on legs.                                         ||
+|| - Can grant Optical Enhancement Charm benefits to drone.                                         ||
+|| - Spend a turn extracting & setting loose, has 1 health lvl, takes 1 day to regrow eye.          ||
+|| - Can see what it sees, but +1 diff to original body actions while also viewing from drone.      ||
+|| Submodule: Hover Mode                                                                            ||
+|| - Can spin legs to fly like tiny helicopter.                                                     ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Analytic & Cognitive Charm: Optical Enhancement (@@)                                             ||
+|| - Aesthetic: Lenses fixed over eyes.                                                             ||
+|| - Reflexively spend 1 Essense or 1 WP to activate an ability for rest of scene:                  ||
+||     - Sight-based Perception at -2 diff (min 4).                                                 ||
+||     - Can see perfectly in dark.                                                                 ||
+||     - Can magnify as high-power binoculars.                                                      ||
+||     - Can zoom in on details to microscopic level.                                               ||
+||     - Can see thru walls/surfaces when concentrating & rolling Perception+Alertness diff 6.      ||
+|| Submodule: Optical Optimization                                                                  ||
+|| - Can activate any (except Perception diff) mode with 1 turn concentration, no Essence.          ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Utility Charm: Metaneural Uplink Node (@)                                                        ||
+|| - Aesthetic: Circuitry on visual cortex, metal disk at base of skull                             ||
+|| - Can view & interact with internet mentally, no action, vision unimpeded, can't be hacked.      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Utility Charm: Omnitool Implant (@)                                                              ||
+|| - Aesthetic: Hands replaced with complex reconfigurable machinery.                               ||
+|| - Always assumed to have any manner of work tool while installed.                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Utility Charm: Synaptic Acceleration Node (@)                                                    ||
+|| - Aesthetic: Relay crystals implanted throughout body.                                           ||
+|| - Can work at 5x rate when doing any mundane task/job, including crafting & medical care.        ||
+|| - Does not apply to combat or travel. Movements are optimized, not sped up.                      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Spiritual Charm: Cross-Phase Scanner (@)                                                         ||
+|| - Aesthetic: Receptor nodes in face.                                                             ||
+|| - Perception+Occult diff 7 to see aura of power from places of supernatural energy.              ||
+|| - Places appear as rising auras of Essence, visible from Essence Rating miles.                   ||
+|| - Spend 1 WP to see other plane for a scene, such as Penumbra or Shadowlands.                    ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Spiritual Charm: Transphase Engine (@@@)                                                         ||
+|| - Aesthetic: Silver-and-iron sphere embedded in spine.                                           ||
+|| - Spend 1 Essence, roll Wits+Science diff Shroud/Gauntlet rating, warp to Penumbra/Shadowlands.  ||
+|| - Spend +1 Essence & +1 roll diff (max diff 9) per person to take willing others with.           ||
+|| - While installed, can comprehend & speak language of spirits.                                   ||
+|| - Must activate again to travel back to material world.                                          ||
+||==================================================================================================||
+
+

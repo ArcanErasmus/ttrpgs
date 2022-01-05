@@ -1,0 +1,65 @@
+||===============================||=================================================================||
+|| Chronicle - In The Pines      || Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ||
+||===============================||=================================================================||
+|| Archetype - Benefactor Nature, Innovator Demeanor:                                               ||
+|| - Benefactor: Strength in altruism, weakness in obligation                                       ||
+||     - Regain Willpower when you provide help that someone else *desperately* needs.              ||
+|| - Innovator: Strength in creativity, weakness in unorthodoxy                                     ||
+||     - Regain Willpower when your inspiration leads to a helpful new breakthrough.                ||
+||==================================================================================================||
+|| Background: Avatar/Genius 4/5                                                                    ||
+|| - Radio Free Occult! A mysterious radio station.                                                 ||
+|| - Seems to only come through on unshielded electronics.                                          ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: $ Laboratory 2/5                                                                     ||
+|| - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
+|| - My magick is coincidental, two dots in Arcane for concealment, rival magick is vulgar.         ||
+|| - Gauntlet rating is +1.                                                                         ||
+|| - Ritual difficulties reduced by 1.                                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Wonder 5/5                                                                           ||
+|| - The Detectificator - A bundle of wires and gadgetry that lets me see ghosts and magick.        ||
+||--------------------------------------------------------------------------------------------------||
+|| Merit: Acute Senses 3/3                                                                          ||
+|| - Perception-based rolls at -2 diff for all senses.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Family Support 1/3                                                                        ||
+|| - Typical family, support is mostly emotional but can get occasional favor/allowance.            ||
+|| - Family aware and supportive of supernatural life.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hands of Daedalus                                                                         ||
+|| - Rolls to craft/repair/invent/modify mechanical technologies at -2 diff when hands-on.          ||
+|| - Tech-based magickal instruments function as Personalized Instruments once familiar.            ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Hyperfocus                                                                                ||
+|| - For every hr focusing without distractions on non-magickal-casting task, add 1 die to pool.    ||
+|| - Max 3 bonus dice.                                                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Lightning Calculator                                                                      ||
+|| - Math- and calculation-based rolls at -2 diff. This works for appropriate magick instruments!   ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Medium                                                                                    ||
+|| - Perception+Awareness to sense the presence of ghosts.                                          ||
+|| - Aura shines faintly like spirit-beacon in Shadowlands, causing the dead to view favorably.     ||
+|| - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Pitiable                                                                                  ||
+|| - Social rolls at -2 diff to get someone to take care of you.                                    ||
+|| - Social rolls at +2 diff to get someone to take you seriously.                                  ||
+||--------------------------------------------------------------------------------------------------||
+|| Flaw: Child 2/3                                                                                  ||
+|| - I am 12 years old.                                                                             ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Curiosity                                                                                  ||
+|| - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Responsibility                                                                             ||
+|| - School on weekdays (7th grade).                                                                ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: Short                                                                                      ||
+|| - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Flaw: PTSD 3/5                                                                                   ||
+|| - Triggers phobias off of physical aggression, guns, and certain types of masculinity.           ||
+|| - Especially sensitive to rough masculinity, like trade workers and cops.                        ||
+||==================================================================================================||
