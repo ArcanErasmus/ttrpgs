@@ -521,4 +521,4 @@ The Journey
             - T: TT.
             - L: LLL
             - C: CCC
-`Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil`
+`Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil lake in the crevasse (which is on fire)`
