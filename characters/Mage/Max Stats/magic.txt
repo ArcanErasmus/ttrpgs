@@ -10,11 +10,6 @@
 || - Aesthetic: Physical/mental implants or body sculpting.                                         ||
 || - While installed, permanent +1 to all Cast Attributes, can raise above 5.                       ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Physical Enhancement Charm: Personal Gravity Manipulation Apparatus (@)                          ||
-|| - Aesthetic: Reinforcing components & Essence capacitors in legs.                                ||
-|| - Can change personal orientation of "down" at will, or reduce weight by up to 90%.              ||
-|| - Lower weight allows up to 4x jump distance/height.                                             ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Stealth & Disguise Charm: Integrated Artifact Transmogrifier (@)                                 ||
 || - Aesthetic: Complex series of flesh patches and retracting mechanisms.                          ||
 || - Concentrate 1 turn & roll WP diff 8, hides all evidence of Charms, until any Charm used.       ||
@@ -70,6 +65,14 @@
 || - While installed, can comprehend & speak language of spirits.                                   ||
 || - Must activate again to travel back to material world.                                          ||
 ||--------------------------------------------------------------------------------------------------||
+|| Sorcerous Path: Enchantment (@@@.. .) [p. 72]
+|| - Roll: Intelligence+Occult (diff 4 + lvl of Enchantment)
+|| - Cost: 1 WP
+|| - Modifiers: -1 diff for Enchantments that have been mastered
+|| - Time: 1-3 days per lvl of Enchantment, plus crafting time
+|| - Duration: Special
+|| - 
+|| - 
 ||==================================================================================================||
 
 

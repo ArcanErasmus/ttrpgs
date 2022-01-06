@@ -9,8 +9,8 @@
 ||==================================================================================================||
 || Intimacies:                                                                                      ||
 || - Tie: Summer (best friend!!!)                                                                   ||
-|| - (?)
-|| - (?)
+|| - Principle: Nobody gets left behind, ever.                                                      ||
+|| - Principle: Everything can be understood; everything should be studied.                         ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Rules for Intimacies:                                                                            ||
 || - When pressured to betray an Intimacy (incl. supernatural), roll WP @ diff 8 to resist.         ||
@@ -76,7 +76,7 @@
 || - Can prep spell at +1 diff and 1 WP, release later for normal cost & 1 turn. Add +1 diff to all ||
 ||   mental and social tasks while hanging a spell, +1 for each additional 2 spells held.           ||
 || - If have 2 more dots in Path than min for effect, can cast at higher diff for -1 WP cost.       ||
-|| - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff? ASK ABOUT THIS    ||
+|| - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff                    ||
 || - Counterspelling: Wits+Occult diff 8, subtract succcesses from caster's.                        ||
 || - Unweaving: Like Counterspelling, but must meet num original successes to undo active effect.   ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
@@ -84,8 +84,11 @@
 || - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
 || - Stocked with tools and several days' worth of food/water.                                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Primium Countermeasures 5/5                                                          ||
-|| - 5 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
+|| Background: Primium Countermeasures 4/5                                                          ||
+|| - 4 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Supernatural Status 1/5                                                              ||
+|| - Peers recognize name, as member in good standing (of our little band of misfits).              ||
 ||--------------------------------------------------------------------------------------------------||
 || Merit: Acute Senses 3/3                                                                          ||
 || - Perception-based rolls at -2 diff for all senses.                                              ||

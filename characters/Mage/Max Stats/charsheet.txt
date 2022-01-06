@@ -5,7 +5,7 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - -||
 || Nature - Benefactor           || Health       | x-5-2-2-1-1-0                 | XP Total/Spent    ||
 || Demeanor - Innovator          ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - -||
-|| Caste - Jade                  || Willpower    | @@@@@ @                       | 71/64             ||
+|| Caste - Jade                  || Willpower    | @@@@@ @                       | 71/71             ||
 || Affiliation - None            || Limit Track  | XXXXX XX...                   |- - - - - - - - - -||
 || Sect - Tweens With Toad       || Ess Rating   | @@@..                                             ||
 || Concept - Ghostbuster A/V Kid || Essence Pool | @@@@@ @@@@@ @@                                    ||
@@ -15,21 +15,21 @@
 || Strength   | @@... |          || Charisma    C| @@@@# | Bold   || Perception   | @@@@. | Sensory  ||
 || Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@@ | Book-lrn ||
 || Stamina   C| @@@@@#| Tireless || Appearance   | @@... |        ||              |       | Creative ||
-||            |       | Tough    ||              |       |        || Wits        C| @@@#. |          ||
+||            |       |          ||              |       |        || Wits        C| @@@#. |          ||
 ||============|=======|==========||==============|=======|========||==============|=======|==========||
 || Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec     ||
 ||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
 || Alertness  | @@@.. |          || Crafts       | @@@.. | Invent || Academics    | @.... | Math     ||
 || Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |          ||
 || Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |          ||
-|| Awareness  | @@@@. | Spir Vdr || Firearms     | ..... |        || Enigmas      | ..... |          ||
+|| Awareness  | @@@.. |          || Firearms     | ..... |        || Enigmas      | ..... |          ||
 || Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |          ||
 || Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |          ||
 || Expression | ..... |          || Melee        | ..... |        || Law          | ..... |          ||
 || Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |          ||
-|| Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@.. |          ||
+|| Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@@. | WtchCode ||
 || Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |          ||
-|| Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphy  ||
+|| Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphys ||
 ||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
 || Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |          ||
 || Scrounge   | @.... |          ||              |       |        || Covert Cult  | @@... |          ||
@@ -38,44 +38,51 @@
 ||- - - - - - - - - - ╂ - - - - -|| - - - - - - - - - - -|- - - - ||- - - - - - - - - - - ╂ - - - - -||
 || Hedge Magic        | @@@@@    || Acute Senses         | @@@    || Child                | @@.      ||
 || Hideaway           | @@... .  || Family Support       | @..    || Curiosity            | @@       ||
-|| Primium Countermsr | @@@@@    || Hyperfocus           | @@@    || Glass Heart          | @@       ||
-||                    |          || Lightning Calculator | @      || PTSD                 | @@...    ||
+|| Primium Countermsr | @@@@.    || Hyperfocus           | @@@    || Glass Heart          | @@       ||
+|| Supernat Status    | @....    || Lightning Calculator | @      || PTSD                 | @@...    ||
 ||                    |          || Mechancial Aptitude  | @      || Short                | @@@      ||
 ||                    |          || Medium               | @@     ||                      |          ||
 ||====================|==========||======================|========||======================|==========||
-|| Charm Array: Active Charms (max 11 dots)                       || Notes                           ||
+|| Charm Array: Active Charms (@@@@@ @@@@@ @)                     || Notes                           ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||- - - - - - - - - - - - - - - - -||
 || - G: Transitory Augmentation of Jade (@)                       ||                                 ||
 || - G: Sustained Augmentation of Jade (@)                        ||                                 ||
-|| - PE: Personal Gravity Manipulation Apparatus (@)              ||                                 ||
 || - SD: Integrated Artifact Transmogrifier (@)                   ||                                 ||
-|| - AC: Imprinted Data Cluster (@)                               || Spec: Unrelenting               ||
+|| - AC: Imprinted Data Cluster (@)                               || Spec: Determined                ||
 || - AC: Mobile Sensory Drone (@)                                 ||                                 ||
 || - AC: Optical Enhancement (@@)                                 ||                                 ||
 || - U: Metaneural Uplink Node (@)                                ||                                 ||
 || - U: Omnitool Implant (@)                                      ||                                 ||
+|| - U: Synaptic Acceleration Node (@)                            ||                                 ||
 || - S: Cross-Phase Scanner (@)                                   ||                                 ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||- - - - - - - - - - - - - - - - -||
 || Inactive Charms                                                ||                                 ||
-|| - U: Synaptic Acceleration Node (@)                            ||                                 ||
 || - S: Transphase Engine (@@@)                                   ||                                 ||
 ||================================================================||=================================||
 
 
 xp spent:
-- 4 for 2x new specialty
+- 2 for 1x new specialty
 - 8 for 4x ability 0->1 or 1->2
 - 3 for 1x ability 2->3
 - 3 for 5->6 WP
-- 3 for 1->2 Wits
-- 5 for 2->3 Wits
-- 15 for 5 dots charms
+- 3 for 1x caste attribute 1->2
+- 5 for 1x caste attribute 2->3
+- 12 for 4 dots charms
 - 3 for 2x charm submodules
 - 8 for 1->2 Essence
 - 12 for 2->3 Essence
+- 2 for 1x sorcerous path 0->1
+- 4 for 1x sorcerous path 1->2
+- 6 for 1x sorcerous path 2->3
 
 dots
 - 12 bg
 - 3 skills
 - 11 merits
 - 11 flaws
+
+Counterspelling vs sorcery, sphere magic, blood magic, fey magic
+Unweaving vs sorcery, sphere magic, blood magic, fey magic
+Counterspelling vs ghosts, spirits, etc
+Unweaving vs ghosts, spirits, etc
