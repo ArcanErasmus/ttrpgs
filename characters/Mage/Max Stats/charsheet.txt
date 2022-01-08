@@ -5,7 +5,7 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - -||
 || Nature - Benefactor           || Health       | x-5-2-2-1-1-0                 | XP Total/Spent    ||
 || Demeanor - Innovator          ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - -||
-|| Caste - Jade                  || Willpower    | @@@@@ @                       | 71/71             ||
+|| Alchemical Caste - Jade       || Willpower    | @@@@@ @                       | 71/71             ||
 || Affiliation - None            || Limit Track  | XXXXX XX...                   |- - - - - - - - - -||
 || Sect - Tweens With Toad       || Ess Rating   | @@@..                                             ||
 || Concept - Ghostbuster A/V Kid || Essence Pool | @@@@@ @@@@@ @@                                    ||
@@ -43,22 +43,22 @@
 ||                    |          || Mechancial Aptitude  | @      || Short                | @@@      ||
 ||                    |          || Medium               | @@     ||                      |          ||
 ||====================|==========||======================|========||======================|==========||
-|| Charm Array: Active Charms (@@@@@ @@@@@ @)                     || Notes                           ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||- - - - - - - - - - - - - - - - -||
-|| - G: Transitory Augmentation of Jade (@)                       ||                                 ||
-|| - G: Sustained Augmentation of Jade (@)                        ||                                 ||
-|| - SD: Integrated Artifact Transmogrifier (@)                   ||                                 ||
-|| - AC: Imprinted Data Cluster (@)                               || Spec: Determined                ||
-|| - AC: Mobile Sensory Drone (@)                                 ||                                 ||
-|| - AC: Optical Enhancement (@@)                                 ||                                 ||
-|| - U: Metaneural Uplink Node (@)                                ||                                 ||
-|| - U: Omnitool Implant (@)                                      ||                                 ||
-|| - U: Synaptic Acceleration Node (@)                            ||                                 ||
-|| - S: Cross-Phase Scanner (@)                                   ||                                 ||
-||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||- - - - - - - - - - - - - - - - -||
-|| Inactive Charms                                                ||                                 ||
-|| - S: Transphase Engine (@@@)                                   ||                                 ||
-||================================================================||=================================||
+|| Charm Array: Active Charms (@@@@@ @@@@@ @)            | Notes                                     ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - -|- - - - - - - - - - - - - - - - - - - - - -||
+|| - G: Transitory Augmentation of Jade (@)              |                                           ||
+|| - G: Sustained Augmentation of Jade (@)               |                                           ||
+|| - SD: Integrated Artifact Transmogrifier (@)          |                                           ||
+|| - AC: Imprinted Data Cluster (@)                      | Spec: Determined                          ||
+|| - AC: Mobile Sensory Drone (@)                        |                                           ||
+|| - AC: Optical Enhancement (@@)                        |                                           ||
+|| - U: Metaneural Uplink Node (@)                       |                                           ||
+|| - U: Omnitool Implant (@)                             |                                           ||
+|| - U: Synaptic Acceleration Node (@)                   |                                           ||
+|| - S: Cross-Phase Scanner (@)                          |                                           ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - -|- - - - - - - - - - - - - - - - - - - - - -||
+|| Inactive Charms                                       |                                           ||
+|| - S: Transphase Engine (@@@)                          |                                           ||
+||=======================================================|===========================================||
 
 
 xp spent:
