@@ -2,9 +2,10 @@
 
 ## Adventure Log
 - Kills:
-    - Ungor
-    - Ungor
-    - Ungor
+    - 1x Minotaur
+    - 1x Gor
+    - 3x Ungor
+    - 4x Wolf
 
 ## Short Bio
 - Moms: Hildur and Stephanie

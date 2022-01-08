@@ -4,7 +4,10 @@
 | Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
 |----------------------|------|------|------|------|------|------|------|----|-----------------
 | Bear-Pelt Coat       |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
-<!-- | Horned Helm          | xxxx |      |      |      |      |      |      |  2 | Partial, Ugly -->
+<!-- | Horned Helm          | xxxx |      |      |      |      |      |      |  2 | Fear 1, Partial, Ugly -->
+<!-- | Leather Skullcap     | xxxx |      |      |      |      |      |      |  1 | Partial -->
+<!-- | Leather Leggings     |      |      |      |      | xxxx | xxxx |      |  1 | -->
+<!-- | Shield (Large)ap     |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging -->
 |----------------------|------|------|------|------|------|------|------|----|-----------------
 | Summary              |      |    1 |    1 |    1 |      |      |      |
 
@@ -13,11 +16,12 @@
 |------------------------------|---------------|---------|-------|-----------------
 | Battle Axe                   | M Basic       | Average | +SB+4 | Hack
 | Hand Weapon                  | M Basic       | Average | +SB+4 |
+<!-- | Shield (Large)               | M Basic       | V Short | +SB+3 | Shield 3, Defensive, Undamaging -->
 |------------------------------|---------------|---------|-------|-----------------
 | Ranged Weapon                | Group         | Range   | Dam   | Qualities/Flaws
 |------------------------------|---------------|---------|-------|-----------------
 | Rock                         | R Throwing    | SBx3    | +SB   |
-<!-- | Javelin                      | R Throwing    | SBx3    | +SB+3 | Impale -->
+<!-- | Throwing Axe                 | R Throwing    | SBx2    | +SB+3 | Hack -->
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
@@ -26,12 +30,15 @@
 |--------------------------|-----|-----|--------------------------------
 | Battle Axe               |   2 |     |
 | Hand Weapon (Axe)        |   1 |     |
-<!-- | Javelin (3)              |   1 |     | -->
+<!-- | Shield (Large)           |   3 |     | -->
+<!-- | Throwing Axe (3)         |   3 |     | -->
 |--------------------------|-----|-----|--------------------------------
 | **Armor**                |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Bear-Pelt Coat           |   1 |   W | Fine Leather Jack
-<!-- | Horned Helm              |   2 |   W | -->
+<!-- | Minotaur Helm            |   2 |   W | -->
+<!-- | Leather Skullcap         |     |   W | Partial -->
+<!-- | Leather Leggings         |   1 |   W | -->
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
@@ -51,9 +58,20 @@
 |--------------------------|-----|-----|--------------------------------
 | A Few Hefty Rocks        |   1 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 4/4
+<!-- | *Container: Backpack*    |   2 |   W | Carries: 4 Enc -->
+|--------------------------|-----|-----|--------------------------------
+|--------------------------|-----|-----|--------------------------------
+| **Coins**                |     |     | 3GC 4/4
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   4 |
+
+### Shopping List
+- Shield (Large): 3GC
+- Leather Leggings: 14/-
+- Leather Skullcap: 8/-
+- Backpack: 4/10
+
+- [Sell] Hand Weapon: 10/-
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties

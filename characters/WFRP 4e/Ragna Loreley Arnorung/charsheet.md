@@ -8,13 +8,13 @@
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 
-- Short-term ambition: Keep Peronelle safe
-<!-- - Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again -->
+- Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again
+<!-- - Short-term ambition: ? -->
 - Long-term ambition: Be respected and/or feared by a large populace
-- Party short-term: Get Maria safely back to Karlitz
+- Party short-term: Girls be shopping
 - Party long-term: ?
 
-## Total/Spent XP: 1010/1010
+## Total/Spent XP: 1210/1010
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
