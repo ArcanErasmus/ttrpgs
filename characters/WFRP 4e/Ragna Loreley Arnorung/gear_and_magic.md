@@ -70,6 +70,7 @@
 - Leather Leggings: 14/-
 - Leather Skullcap: 8/-
 - Backpack: 4/10
+- Training (I 0->2, Ag 0->3): up to 14/8
 
 - [Sell] Hand Weapon: 10/-
 

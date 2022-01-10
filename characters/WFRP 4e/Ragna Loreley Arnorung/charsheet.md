@@ -88,8 +88,8 @@
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
 | C | Heal               |  5 | Int | 37 |
-| C | Language (Battle)  |  1 | Int | 33 | -10 when speaking
-|   | Language (Norse)   |  5 | Int | 37 | -10 when speaking
+| C | Language (Battle)  |  1 | Int | 33 |
+|   | Language (Norse)   |  5 | Int | 37 |
 | C | Lore (Trees)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
@@ -112,10 +112,6 @@
 ### Background Features
 - Barrel-Chested: +5 S, +5 T, -5 Ag
 - Brawny Build: +5 T, -5 Dex
-
-### Mutation: Lolling Tongue
-- -10 to Language Tests
-- A long tongue has its uses
 
 ## Talents
 ### Acute Sense (Hearing) [1/IB]
@@ -248,3 +244,43 @@
 - Something that proves noble heritage
 - Something given to me by Norse family
 - Something given to me by priestess of Rhya
+
+## Exp Planning
+### Rank 2->3: 2115
+- Attributes: 820
+    - WS | 6->10 | 120
+    - S  | 5->10 | 150
+    - T  |  ->10 | 275
+    - I  |  -> 2 |  50
+    - Ag |  -> 3 |  75
+    - WP | 5->10 | 150
+- Skills: 690
+    - Athletics          |   ->10 | 125
+    - Consume Alcohol    | 13->15 |  40
+    - Cool               | 11->15 |  80
+    - Dodge              |   -> 5 |  50
+    - Endurance          |  5->10 |  75
+    - Language (Battle)  |  1-> 5 |  40
+    - Lore (Trees)       |  5->10 |  75
+    - Trade (Feller)     |  1-> 5 |  40
+    - Melee (Two-Handed) |   -> 5 |  50
+    - Ranged (Throwing)  |  1->10 | 115
+- Talents: 600
+    - Ambidextrous   | 1->2 | 200
+    - Berserk Charge |  ->2 | 300
+    - Warrior Born   |  ->1 | 100
+
+## Rank 3->4 xp
+### Bare Minimum 3->4: 1625
+- Attributes: 1225
+    - WS | 10->15 | 200
+    - S  | 10->15 | 200
+    - T  | 10->15 | 200
+    - I  |  2->15 | 425
+    - WP | 10->15 | 200
+- Skills: 400
+    - Athletics         | 10->15 | 100
+    - Endurance         | 10->15 | 100
+    - Lore (Trees)      | 10->15 | 100
+    - Ranged (Throwing) | 10->15 | 100
+- Talents: 0
