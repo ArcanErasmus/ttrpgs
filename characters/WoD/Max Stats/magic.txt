@@ -8,7 +8,7 @@
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || General Charm: Sustained Augmentation of Jade (@)                                                ||
 || - Aesthetic: Physical/mental implants or body sculpting.                                         ||
-|| - While installed, permanent +1 to all Cast Attributes, can raise above 5.                       ||
+|| - While installed, permanent +1 to all Caste Attributes, can raise above 5.                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Stealth & Disguise Charm: Integrated Artifact Transmogrifier (@)                                 ||
 || - Aesthetic: Complex series of flesh patches and retracting mechanisms.                          ||
@@ -35,7 +35,7 @@
 ||     - Can see perfectly in dark.                                                                 ||
 ||     - Can magnify as high-power binoculars.                                                      ||
 ||     - Can zoom in on details to microscopic level.                                               ||
-||     - Can see thru walls/surfaces when concentrating & rolling Perception+Alertness diff 6.      ||
+||     - Can see thru walls/surfaces when concentrating & rolling Perception + Alertness diff 6.    ||
 || Submodule: Optical Optimization                                                                  ||
 || - Can activate any (except Perception diff) mode with 1 turn concentration, no Essence.          ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
@@ -54,25 +54,25 @@
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Spiritual Charm: Cross-Phase Scanner (@)                                                         ||
 || - Aesthetic: Receptor nodes in face.                                                             ||
-|| - Perception+Occult diff 7 to see aura of power from places of supernatural energy.              ||
+|| - Perception + Occult diff 7 to see aura of power from places of supernatural energy.            ||
 || - Places appear as rising auras of Essence, visible from Essence Rating miles.                   ||
 || - Spend 1 WP to see other plane for a scene, such as Penumbra or Shadowlands.                    ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Spiritual Charm: Transphase Engine (@@@)                                                         ||
 || - Aesthetic: Silver-and-iron sphere embedded in spine.                                           ||
-|| - Spend 1 Essence, roll Wits+Science diff Shroud/Gauntlet rating, warp to Penumbra/Shadowlands.  ||
+|| - Spend 1 Essence, roll Wits + Sci diff Shroud/Gauntlet rating, warp to Penumbra/Shadowlands.    ||
 || - Spend +1 Essence & +1 roll diff (max diff 9) per person to take willing others with.           ||
 || - While installed, can comprehend & speak language of spirits.                                   ||
 || - Must activate again to travel back to material world.                                          ||
 ||--------------------------------------------------------------------------------------------------||
-|| Sorcerous Path: Enchantment (@@@.. .) [p. 72]
-|| - Roll: Intelligence+Occult (diff 4 + lvl of Enchantment)
-|| - Cost: 1 WP
-|| - Modifiers: -1 diff for Enchantments that have been mastered
-|| - Time: 1-3 days per lvl of Enchantment, plus crafting time
-|| - Duration: Special
-|| - 
-|| - 
+|| Sorcerous Path: Enchantment (@@@@. .) [p. 72]                                                    ||
+|| - Roll: Intelligence + [Occult] (diff 4 + lvl of Enchantment).                                   ||
+|| - Cost: 1 WP.                                                                                    ||
+|| - Modifiers: -1 diff if 5+ successes on Crafting roll.                                           ||
+|| - Time: 1-3 days per lvl of Enchantment, plus crafting time.                                     ||
+|| - Failure: Item has flaw, botch might mean terrible item or even workshop explosion.             ||
+|| - (@.... .) Effect: +1 bonus or 1 dot to Attr or Ability, or very minor effect.                  ||
+|| - (@@... .) Effect: +2 bonus or 2 dot to Attr or Ability, or subtle effect.                      ||
+|| - (@@@.. .) Effect: Obviously magical to those in the know, weird effect.                        ||
+|| - (@@@@. .) Effect: Go above ability limits, duplicate 2nd-rank supernatural abilities.          ||
 ||==================================================================================================||
-
-

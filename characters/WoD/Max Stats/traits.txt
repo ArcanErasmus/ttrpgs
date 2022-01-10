@@ -16,6 +16,11 @@
 || - When pressured to betray an Intimacy (incl. supernatural), roll WP @ diff 8 to resist.         ||
 || - 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ||
 ||--------------------------------------------------------------------------------------------------||
+|| Special Exalted Rule: Anima Banner                                                               ||
+|| - After spending 3 Essence in a scene, Banner flares visible to naked eye, as bright as bonfire. ||
+|| - Banner fades after (3 x Essence Rating) minutes.                                               ||
+|| - Unique color & texture: Yellow static with blue edges, green inner core, hints of purple.      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Special Exalted Rule: Parrying                                                                   ||
 || - May parry ranged atks, including bullets.                                                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
@@ -70,64 +75,70 @@
 || - Paths cost 2xp, then [new rating x2]xp, Rituals cost [rating/2]xp.                             ||
 || - Effects have base diff 4 + [lvl of path used or highest desired aspect].                       ||
 || - Effects take 1 turn per [lvl of effect or highest aspect of effect]. Rituals take min 10 mins. ||
-|| - Extended rolls take the original time per roll.                                                ||
+|| - For extended rolls, each roll doubles the total time spent.                                    ||
 || - Botches cause misfires/backlash, but not as bad as Paradox.                                    ||
 || - Fast casting is +1 diff (max 9) per turn reduced, and +1 WP cost.                              ||
 || - Can prep spell at +1 diff and 1 WP, release later for normal cost & 1 turn. Add +1 diff to all ||
 ||   mental and social tasks while hanging a spell, +1 for each additional 2 spells held.           ||
-|| - If have 2 more dots in Path than min for effect, can cast at higher diff for -1 WP cost.       ||
+|| - If have 2 more dots in Path than min for effect, can cast at +1 diff for -1 WP cost.           ||
 || - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff                    ||
-|| - Counterspelling: Wits+Occult diff 8, subtract succcesses from caster's.                        ||
+|| - Counterspelling: Wits + [Occult] diff 8, subtract succcesses from caster's.                    ||
 || - Unweaving: Like Counterspelling, but must meet num original successes to undo active effect.   ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Hideaway 2/6                                                                         ||
+|| Background: Hideaway @@....                                                                      ||
 || - The empty office room next to the Radio Shack, that I converted into my workshop.              ||
 || - Stocked with tools and several days' worth of food/water.                                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Primium Countermeasures 4/5                                                          ||
-|| - 4 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
+|| Background: Primium Countermeasures @@@@@                                                        ||
+|| - 5 innate dice of countermagick (reflexively roll pool @ diff 7, remove successes from magick). ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Background: Supernatural Status 1/5                                                              ||
+|| Background: Supernatural Status @....                                                            ||
 || - Peers recognize name, as member in good standing (of our little band of misfits).              ||
 ||--------------------------------------------------------------------------------------------------||
-|| Merit: Acute Senses 3/3                                                                          ||
-|| - Perception-based rolls at -2 diff for all senses.                                              ||
+|| Merit: Acute Senses @..                                                                          ||
+|| - Sight-based Perception rolls at -2 diff.                                                       ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Family Support 1/3                                                                        ||
+|| Merit: Computer Aptitude @                                                                       ||
+|| - Computer-based rolls at -2 diff.                                                               ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Concentration @                                                                           ||
+|| - Ignore penalties for distracting scenarios (gunfire, storms, etc.).                            ||
+|| - Might require WP roll to ignore extreme distractions (middle of tornado).                      ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Merit: Family Support @..                                                                        ||
 || - Typical family, support is mostly emotional but can get occasional favor/allowance.            ||
 || - Family aware and supportive of supernatural life.                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Hyperfocus                                                                                ||
+|| Merit: Hyperfocus @@@                                                                            ||
 || - For every hr focusing without distractions on task, add 1 die to pool.                         ||
 || - Max 3 bonus dice.                                                                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Lightning Calculator                                                                      ||
+|| Merit: Lightning Calculator @                                                                    ||
 || - Math- and calculation-based rolls at -2 diff.                                                  ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Mechanical Aptitude                                                                       ||
+|| Merit: Mechanical Aptitude @                                                                     ||
 || - Rolls to work with mechanical technologies at -2 diff.                                         ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Merit: Medium                                                                                    ||
-|| - Perception+Awareness to sense the presence of ghosts.                                          ||
+|| Merit: Medium @@                                                                                 ||
+|| - Perception + Awareness to sense the presence of ghosts.                                        ||
 || - Aura shines faintly like spirit-beacon in Shadowlands, causing the dead to view favorably.     ||
 || - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ||
 ||--------------------------------------------------------------------------------------------------||
-|| Flaw: Child 2/3                                                                                  ||
+|| Flaw: Child @@.                                                                                  ||
 || - I am 12 years old.                                                                             ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Curiosity                                                                                  ||
+|| Flaw: Curiosity @@                                                                               ||
 || - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Glass Heart                                                                                ||
+|| Flaw: Glass Heart @@                                                                             ||
 || - Limit Track runs 0 to 10, +1 Limit when: Botch a roll, go a week without nonviolent human      ||
 ||   contact, or act to undermine/betray Nature or Intimacies.                                      ||
 || - At 10, enter Clarity and reset Limit. When in Clarity, all Empathy rolls at diff 9, can no     ||
 ||   longer use Intimacies, and can't enter Dormancy. Lasts 6 to 36 hrs.                            ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: Short                                                                                      ||
+|| Flaw: Short @@@                                                                                  ||
 || - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Flaw: PTSD 2/5                                                                                   ||
-|| - Triggers phobias off of physical aggression, guns, and certain types of masculinity.           ||
-|| - Especially sensitive to rough masculinity, like trade workers and cops.                        ||
+|| Flaw: Nightmares @..                                                                             ||
+|| - Nightmares play havoc on mood, sleep, and long-term sanity.                                    ||
 ||==================================================================================================||

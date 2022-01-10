@@ -22,25 +22,27 @@
 || Alertness  | @@@.. |          || Crafts       | @@@.. | Invent || Academics    | @.... | Math     ||
 || Art        | ..... |          || Drive        | ..... |        || Computer     | @.... |          ||
 || Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |          ||
-|| Awareness  | @@@.. |          || Firearms     | ..... |        || Enigmas      | ..... |          ||
+|| Awareness  | @@... |          || Firearms     | ..... |        || Enigmas      | ..... |          ||
 || Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |          ||
 || Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |          ||
 || Expression | ..... |          || Melee        | ..... |        || Law          | ..... |          ||
-|| Intimidate | ..... |          || Research     | @@... |        || Medicine     | ..... |          ||
+|| Intimidate | ..... |          || Research     | ..... |        || Medicine     | ..... |          ||
 || Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@@. | WtchCode ||
 || Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |          ||
 || Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphys ||
 ||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
-|| Scan       | @.... |          || Security     | @.... |        || Conspiracies | @@@.. |          ||
-|| Scrounge   | @.... |          ||              |       |        || Covert Cult  | @@... |          ||
+||            |       |          || Security     | @.... |        || Conspiracies | @@@.. |          ||
+||            |       |          ||              |       |        || Covert Cult  | @@... |          ||
 ||============|=======|==========||==============|=======|========||==============|=======|==========||
 || Background         | Value    || Merit                | Value  || Flaw                 | Value    ||
 ||- - - - - - - - - - ╂ - - - - -|| - - - - - - - - - - -|- - - - ||- - - - - - - - - - - ╂ - - - - -||
-|| Hedge Magic        | @@@@@    || Acute Senses         | @@@    || Child                | @@.      ||
-|| Hideaway           | @@... .  || Family Support       | @..    || Curiosity            | @@       ||
-|| Primium Countermsr | @@@@.    || Hyperfocus           | @@@    || Glass Heart          | @@       ||
-|| Supernat Status    | @....    || Lightning Calculator | @      || PTSD                 | @@...    ||
-||                    |          || Mechancial Aptitude  | @      || Short                | @@@      ||
+|| Hedge Magic        | @@@@@    || Acute Senses         | @..    || Child                | @@.      ||
+|| Hideaway           | @@... .  || Computer Aptitude    | @      || Curiosity            | @@       ||
+|| Primium Countermsr | @@@@@    || Concentration        | @      || Glass Heart          | @@       ||
+|| Supernat Status    | @....    || Family Support       | @..    || Nightmares           | @..      ||
+||                    |          || Hyperfocus           | @@@    || Short                | @@@      ||
+||                    |          || Lightning Calculator | @      ||                      |          ||
+||                    |          || Mechancial Aptitude  | @      ||                      |          ||
 ||                    |          || Medium               | @@     ||                      |          ||
 ||====================|==========||======================|========||======================|==========||
 || Charm Array: Active Charms (@@@@@ @@@@@ @)            | Notes                                     ||
@@ -60,29 +62,21 @@
 || - S: Transphase Engine (@@@)                          |                                           ||
 ||=======================================================|===========================================||
 
-
 xp spent:
-- 2 for 1x new specialty
-- 8 for 4x ability 0->1 or 1->2
-- 3 for 1x ability 2->3
-- 3 for 5->6 WP
-- 3 for 1x caste attribute 1->2
-- 5 for 1x caste attribute 2->3
-- 12 for 4 dots charms
-- 3 for 2x charm submodules
-- 8 for 1->2 Essence
-- 12 for 2->3 Essence
-- 2 for 1x sorcerous path 0->1
-- 4 for 1x sorcerous path 1->2
-- 6 for 1x sorcerous path 2->3
+- 12 for 4 dots favored charms
+- 12 for Essence 2->3
+-  8 for Essence 1->2
+-  8 for 1x sorcerous path 3->4
+-  6 for 3x ability 0->1 or 1->2
+-  6 for 1x sorcerous path 2->3
+-  5 for 1x caste attribute 2->3
+-  4 for 1x sorcerous path 1->2
+-  3 for 1x caste attribute 1->2
+-  3 for 2x charm submodules
+-  2 for 1x sorcerous path 0->1
+-  2 for 1x new specialty
 
 dots
-- 12 bg
-- 3 skills
-- 11 merits
-- 11 flaws
-
-Counterspelling vs sorcery, sphere magic, blood magic, fey magic
-Unweaving vs sorcery, sphere magic, blood magic, fey magic
-Counterspelling vs ghosts, spirits, etc
-Unweaving vs ghosts, spirits, etc
+- 13 bg
+-  1 WP
+- 11 merits - 10 flaws
