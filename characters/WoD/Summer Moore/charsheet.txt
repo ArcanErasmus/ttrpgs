@@ -1,0 +1,57 @@
+||===============================||==================================================================||
+|| Chronicle - In The Pines      || Summer Moore, She/Her (Born ??/??/19??)                          ||
+||===============================||==============|===================================================||
+|| Core                          || Stat         | Value                                             ||
+||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - -||
+|| Nature - Caregiver            || Health       | x-5-2-2-1-1-0                 | XP Total/Spent    ||
+|| Demeanor - Survivor           ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - -||
+|| Sidereal Caste - Endings      || Willpower    | @@@@@ @                       | 71/68             ||
+|| Affiliation - None            ||              |                               |- - - - - - - - - -||
+|| Sect - Tweens With Toad       || Ess Rating   | @@...                                             ||
+|| Concept - Isekai into horror  || Essence Pool | @@@@@ @@@@@                                       ||
+||============|=======|==========||==============|=======|========||==============|=======|==========||
+|| Physical   | Level | Spec     || Social       | Level | Spec   || Mental       | Level | Spec     ||
+||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
+|| Strength   | @@... |          || Charisma     | @@... |        || Perception   | @@... |          ||
+|| Dexterity  | @@@@@ | Precise  || Manipulation | @.... |        || Intelligence | @@@@. | Encyclop ||
+|| Stamina    | @@... |          || Appearance   | @@@@. | Timels || Wits         | @@@@@ | Genre-sv ||
+||============|=======|==========||==============|=======|========||==============|=======|==========||
+|| Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec     ||
+||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
+|| Alertness C| @@... |          || Crafts       | ..... |        || Academics    | @@... | Lit      ||
+|| Art        | @.... | Singing  || Drive        | ..... |        || Computer     | @.... |          ||
+|| Athletics C| @.... |          || Etiquette    | @.... |        || Cosmology    | ..... |          ||
+|| Awareness  | @@@.. |          || Firearms    C| @@@@. | Finger || Enigmas      | @.... |          ||
+|| Brawl     C| ..... |          || Martial Arts | ..... |        || Esoterica    | @@... | Horror   ||
+|| Empathy    | @@... |          || Meditation   | ..... |        || Investigate  | @.... |          ||
+|| Expression | @@... |          || Melee        | ..... |        || Law          | ..... |          ||
+|| Intimidate | @@... |          || Research     | ..... |        || Medicine     | ..... |          ||
+|| Leadership | ..... |          || Stealth      | @.... |        || Occult       | @.... |          ||
+|| Streetwise | @.... |          || Survival     | ..... |        || Politics     | ..... |          ||
+|| Subterfuge | @@... |          || Technology   | @@... |        || Science      | @.... | Psychol  ||
+||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
+||            |       |          || Security     | @.... |        || Finance     C| ..... |          ||
+||============|=======|==========||==============|=======|========||==============|=======|==========||
+|| Background         | Value    || Merit                | Value  || Flaw                 | Value    ||
+||- - - - - - - - - - ╂ - - - - -|| - - - - - - - - - - -|- - - - ||- - - - - - - - - - - ╂ - - - - -||
+|| Arcane             | @@@@@    || Anima Control        | @@...  || Child                | @@.      ||
+|| Past Life          | @....    || Astr College Init    | @@@    || Echoes               | XXX..    ||
+|| Supernat Status    | @....    || Burning Aura         | @      || Phobia               | X        ||
+||                    |          ||                      |        || Responsibility       | @        ||
+||                    |          ||                      |        || Short                | @@@      ||
+||                    |          ||                      |        || Witch-Hunted         | @@@@.    ||
+||====================|==========||======================|========||======================|==========||
+||C- Excellence of Endings (@)                           |                                           ||
+|| - Holistic Bullet Methodology (@@)                    |                                           ||
+|| - Horrific Wreath (@@@)                               |                                           ||
+||C- Of Horrors Best Unknown (@@@@@)                     |                                           ||
+||C- Prior Warning (@@)                                  |                                           ||
+|| - Prospects of Battles (@)                            |                                           ||
+||C- Prospects of Endings (X)                            |                                           ||
+|| - Prospects of Journeys (@)                           |                                           ||
+||C- Prospects of Secrets (@)                            |                                           ||
+|| - Prospects of Serenity (@)                           |                                           ||
+||C- Supernatural Awareness (@@@@@)                      |                                           ||
+||C- Wise Choice (@)                                     |                                           ||
+|| - World-Shaping Artistic Vision (@@)                  |                                           ||
+||=======================================================|===========================================||
