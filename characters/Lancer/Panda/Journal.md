@@ -397,7 +397,7 @@ The Preparation
     - Most encounters with the HUC occurred West of EG
 - Objectives
     - Recover Artemis
-        - Clue: Eros
+        - Clue: Eros (he/they)
         - Artemis decided her destination based on messages from the orbital derelicts
         - "The poles" are also relevant
     - Clue: The bell
@@ -425,7 +425,7 @@ The Journey
             - P: PPPP PPPP
             - T: TTTTT TTTTT
             - L: LL LL
-            - C: CC CC
+            - C: CC C.
         - Pilot Flair:
             - P: PPP
             - T: TTT
@@ -522,3 +522,32 @@ The Journey
             - L: LLL
             - C: CCC
 `Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil lake in the crevasse (which is on fire)`
+
+## Session 22
+The Journey
+- Day 2: First leg - Evergreen to Mt. Cooper
+    - Afternoon: Through a crevasse
+        - After putting out the fire on the oil lake, we lowered the SE down, and the SSU climbed in.
+            - L climbs down the wall of the cavern, finding fist-sized holes bored in the ceiling.
+            - C submerges the SE and finds an orbital rod+cluster munition embedded in the floor. The impact in fact split the entire mountain down to this point.
+            - C also finds the shattered remains of likely the/an Egregorian queen, too ruined to recover easily.
+    - Evening: Up the mountainside
+        - T scouts, there are subalterns visibly shadowing us.
+        - C navigates, we get lost.
+    - Night
+        - Around the campfire:
+            - We argue a lot, Panda is shot when Leto negligently discharges her lightning-gun.
+            - The second bell, the one Tempo recovered from the Firedancer, is revealed.
+            - We watch the message from Dthall Ordo.
+    - End of Session Stats:
+        - Provisions: XXXXX XXXXX XXXXX XXXXX XX... .
+        - Repair Cap:
+            - P: PPPP PPPP
+            - T: TTTTT TTTTT
+            - L: LL LL [LL]
+            - C: CC CC
+        - Pilot Flair:
+            - P: PP.
+            - T: TT.
+            - L: LLL
+            - C: CCC
