@@ -25,8 +25,18 @@
 || - Can grant Optical Enhancement Charm benefits to drone.                                         ||
 || - Spend a turn extracting & setting loose, has 1 health lvl, takes 1 day to regrow eye.          ||
 || - Can see what it sees, but +1 diff to original body actions while also viewing from drone.      ||
+|| Submodule: Communication                                                                         ||
+|| - Can broadcast sound, and interface with machines possessing speakers to use those.             ||
+|| Submodule: Hearing                                                                               ||
+|| - Can pick up audio data as well as visual.                                                      ||
+|| Submodule: Extra Drones x3                                                                       ||
+|| - Can remove second eye, and has 2 extra rivet-like drones stored on body. Can only control one. ||
 || Submodule: Hover Mode                                                                            ||
 || - Can spin legs to fly like tiny helicopter.                                                     ||
+|| Submodule: Autonomous                                                                            ||
+|| - Have Intelligence 2, can send off with instructions, will ping when finds something.           ||
+|| Submodule: Playback                                                                              ||
+|| - Records visual (and auditory) data, uploads on re-integration, can playback on devices.        ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Analytic & Cognitive Charm: Optical Enhancement (@@)                                             ||
 || - Aesthetic: Lenses fixed over eyes.                                                             ||
@@ -40,7 +50,7 @@
 || - Can activate any (except Perception diff) mode with 1 turn concentration, no Essence.          ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Utility Charm: Metaneural Uplink Node (@)                                                        ||
-|| - Aesthetic: Circuitry on visual cortex, metal disk at base of skull                             ||
+|| - Aesthetic: Circuitry on visual cortex, metal disk at base of skull.                            ||
 || - Can view & interact with internet mentally, no action, vision unimpeded, can't be hacked.      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Utility Charm: Omnitool Implant (@)                                                              ||
@@ -65,7 +75,7 @@
 || - While installed, can comprehend & speak language of spirits.                                   ||
 || - Must activate again to travel back to material world.                                          ||
 ||--------------------------------------------------------------------------------------------------||
-|| Sorcerous Path: Enchantment (@@@@. .) [p. 72]                                                    ||
+|| Sorcerous Path: Enchantment (@@... .) [p. 72]                                                    ||
 || - Roll: Intelligence + [Occult] (diff 4 + lvl of Enchantment).                                   ||
 || - Cost: 1 WP.                                                                                    ||
 || - Modifiers: -1 diff if 5+ successes on Crafting roll.                                           ||
@@ -73,6 +83,4 @@
 || - Failure: Item has flaw, botch might mean terrible item or even workshop explosion.             ||
 || - (@.... .) Effect: +1 bonus or 1 dot to Attr or Ability, or very minor effect.                  ||
 || - (@@... .) Effect: +2 bonus or 2 dot to Attr or Ability, or subtle effect.                      ||
-|| - (@@@.. .) Effect: Obviously magical to those in the know, weird effect.                        ||
-|| - (@@@@. .) Effect: Go above ability limits, duplicate 2nd-rank supernatural abilities.          ||
 ||==================================================================================================||

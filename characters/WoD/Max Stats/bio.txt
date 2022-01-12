@@ -28,7 +28,6 @@
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Goals:                                                                                           ||
 || - Turn mostly-abandoned listening post into personal lab/hideout/pirate radio.                   ||
-|| - Get an internet connection.                                                                    ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Group Relations                                                                                  ||
 || - Summer Moore                                                                                   ||

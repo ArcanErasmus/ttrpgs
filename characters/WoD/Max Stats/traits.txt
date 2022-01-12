@@ -66,13 +66,13 @@
 || Caste: Jade                                                                                      ||
 || - While anima is flaring, add Essence Rating to soak rolls.                                      ||
 || - Regain Essence when defending or advanceing an Intimacy through persistence or endurance.      ||
-|| - Regain (3 + Essence Rating) Essence when the sun rises                                         ||
+|| - Regain (3 + Essence Rating) Essence when the sun rises.                                        ||
 || - If beginning a scene at 0 Essence, gain 1 Essence.                                             ||
 || - Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ||
 ||--------------------------------------------------------------------------------------------------||
 || Background: Hedge Magic                                                                          ||
-|| - May buy Paths & Rituals from [Sorcerer: Revised Edition].                                      ||
-|| - Paths cost 2xp, then [new rating x2]xp, Rituals cost [rating/2]xp.                             ||
+|| - May buy Paths & Rituals from [Sorcerer: Paths of Power].                                       ||
+|| - Paths cost 4xp, then [new rating x4]xp, Rituals cost 2xp.                                      ||
 || - Effects have base diff 4 + [lvl of path used or highest desired aspect].                       ||
 || - Effects take 1 turn per [lvl of effect or highest aspect of effect]. Rituals take min 10 mins. ||
 || - For extended rolls, each roll doubles the total time spent.                                    ||
@@ -81,7 +81,7 @@
 || - Can prep spell at +1 diff and 1 WP, release later for normal cost & 1 turn. Add +1 diff to all ||
 ||   mental and social tasks while hanging a spell, +1 for each additional 2 spells held.           ||
 || - If have 2 more dots in Path than min for effect, can cast at +1 diff for -1 WP cost.           ||
-|| - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff                    ||
+|| - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff.                   ||
 || - Counterspelling: Wits + [Occult] diff 8, subtract succcesses from caster's.                    ||
 || - Unweaving: Like Counterspelling, but must meet num original successes to undo active effect.   ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
@@ -102,7 +102,7 @@
 || - Computer-based rolls at -2 diff.                                                               ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Concentration @                                                                           ||
-|| - Ignore penalties for distracting scenarios (gunfire, storms, etc.).                            ||
+|| - Ignore penalties for distracting scenarios (gunfire, storms, etc).                             ||
 || - Might require WP roll to ignore extreme distractions (middle of tornado).                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Merit: Family Support @..                                                                        ||
@@ -125,7 +125,7 @@
 || - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ||
 ||--------------------------------------------------------------------------------------------------||
 || Flaw: Child @@.                                                                                  ||
-|| - I am 12 years old.                                                                             ||
+|| - I am 13 years old.                                                                             ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 || Flaw: Curiosity @@                                                                               ||
 || - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ||

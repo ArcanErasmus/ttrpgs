@@ -5,7 +5,7 @@
 ||- - - - - - - - - - - - - - - -|| - - - - - - -|- - - - - - - - - - - - - - - -|- - - - - - - - - -||
 || Nature - Benefactor           || Health       | x-5-2-2-1-1-0                 | XP Total/Spent    ||
 || Demeanor - Innovator          ||   Current    | @-@-@-@-@-@-@                 |- - - - - - - - - -||
-|| Alchemical Caste - Jade       || Willpower    | @@@@@ @                       | 71/71             ||
+|| Alchemical Caste - Jade       || Willpower    | @@@@@ @                       |  71/ 70           ||
 || Affiliation - None            || Limit Track  | XXXXX XX...                   |- - - - - - - - - -||
 || Sect - Tweens With Toad       || Ess Rating   | @@@..                                             ||
 || Concept - Ghostbuster A/V Kid || Essence Pool | @@@@@ @@@@@ @@                                    ||
@@ -15,7 +15,7 @@
 || Strength   | @@... |          || Charisma    C| @@@@# | Bold   || Perception   | @@@@. | Sensory  ||
 || Dexterity  | @.... |          || Manipulation | @.... |        || Intelligence | @@@@@ | Book-lrn ||
 || Stamina   C| @@@@@#| Tireless || Appearance   | @@... |        ||              |       | Creative ||
-||            |       |          ||              |       |        || Wits        C| @@@#. |          ||
+||            |       |          ||              |       |        || Wits        C| @@@#. | Supernat ||
 ||============|=======|==========||==============|=======|========||==============|=======|==========||
 || Talent     | Level | Spec     || Skill        | Level | Spec   || Knowledge    | Level | Spec     ||
 ||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
@@ -24,15 +24,15 @@
 || Athletics  | @.... |          || Etiquette    | ..... |        || Cosmology    | @.... |          ||
 || Awareness  | @@... |          || Firearms     | ..... |        || Enigmas      | ..... |          ||
 || Brawl      | ..... |          || Martial Arts | ..... |        || Esoterica    | ..... |          ||
-|| Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | @.... |          ||
+|| Empathy    | @.... |          || Meditation   | ..... |        || Investigate  | ..... |          ||
 || Expression | ..... |          || Melee        | ..... |        || Law          | ..... |          ||
 || Intimidate | ..... |          || Research     | ..... |        || Medicine     | ..... |          ||
 || Leadership | ..... |          || Stealth      | ..... |        || Occult       | @@@@. | WtchCode ||
 || Streetwise | ..... |          || Survival     | @.... | Preprd || Politics     | ..... |          ||
 || Subterfuge | ..... |          || Technology   | @@@@. | A/V    || Science      | @.... | Paraphys ||
 ||- - - - - - ╂ - - - ╂ - - - - -|| - - - - - - -|- - - -|- - - - ||- - - - - - - ╂ - - - ╂ - - - - -||
-||            |       |          || Security     | @.... |        || Conspiracies | @@@.. |          ||
-||            |       |          ||              |       |        || Covert Cult  | @@... |          ||
+||            | ..... |          || Security     | @.... |        || Conspiracies | @@@.. |          ||
+||            | ..... |          ||              | ..... |        || Covert Cult  | @@... |          ||
 ||============|=======|==========||==============|=======|========||==============|=======|==========||
 || Background         | Value    || Merit                | Value  || Flaw                 | Value    ||
 ||- - - - - - - - - - ╂ - - - - -|| - - - - - - - - - - -|- - - - ||- - - - - - - - - - - ╂ - - - - -||
@@ -61,22 +61,3 @@
 || Inactive Charms                                       |                                           ||
 || - S: Transphase Engine (@@@)                          |                                           ||
 ||=======================================================|===========================================||
-
-xp spent:
-- 12 for 4 dots favored charms
-- 12 for Essence 2->3
--  8 for Essence 1->2
--  8 for 1x sorcerous path 3->4
--  6 for 3x ability 0->1 or 1->2
--  6 for 1x sorcerous path 2->3
--  5 for 1x caste attribute 2->3
--  4 for 1x sorcerous path 1->2
--  3 for 1x caste attribute 1->2
--  3 for 2x charm submodules
--  2 for 1x sorcerous path 0->1
--  2 for 1x new specialty
-
-dots
-- 13 bg
--  1 WP
-- 11 merits - 10 flaws
