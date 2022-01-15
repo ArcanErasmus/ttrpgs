@@ -521,7 +521,7 @@ The Journey
             - T: TT.
             - L: LLL
             - C: CCC
-`Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil lake in the crevasse (which is on fire)`
+`Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil lake in the crevasse (which is on fire).`
 
 ## Session 22
 The Journey
@@ -551,3 +551,31 @@ The Journey
             - T: TT.
             - L: LLL
             - C: CCC
+
+## Session 23
+The Journey
+- Day 3: First leg - Evergreen to Mt. Cooper
+    - Morning: Nearly at the peak
+        - The storm has resumed.
+        - C navigates, we choose to rush the final stretch and alert more subalterns.
+        - L rings the bell, receives weird sensory experience.
+        - T scans the area, we chat with Psalm.
+        - P designs an anti-subaltern expanding foam blast.
+    - *Midday*: At the peak
+        - Psalm, Waitrose, and ??? are there.
+        - We push through the swarm of subalterns protecting The Tower, and we keep The Shepherd safe, but the HI goes down, and Tempo is unconscious in the ambulance suite.
+        - Artemis, in The Shepherd, asks us to protect her while she completes her upload.
+        - Psalm and Castrati take a stance against Artemis, and Panda follows. Leto takes the offered hand of Beggar One.
+    - End of Session Stats:
+        - Provisions: XXXXX XXXXX XXXXX XXXXX X.... .
+        - Repair Cap:
+            - P: PPPP PPPP
+            - T: TTTTT TTTTT
+            - L: LL LL [LL]
+            - C: CC CC
+        - Pilot Flair:
+            - P: PP.
+            - T: TT.
+            - L: LLL
+            - C: CCC
+`The Fight, Part Two: Psalm, Checkmate, Terror, Castrati, Panda vs. Leto, The Shepherd, The Buzzard, The Whisperer, and 150 subalterns.`

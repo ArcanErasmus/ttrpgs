@@ -27,6 +27,7 @@ trauma, baggage, or concept:
 baggage options:
 - long-distance relationship that can't achieve physical contact, perpetual loneliness
 - time slipping by, regrets over having missed out, death/ending looming
+- constant fear of being shot/bombed, victim of asymmetrical warfare
 
 speculative fear:
 - ?
