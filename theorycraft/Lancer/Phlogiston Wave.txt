@@ -1,0 +1,16 @@
+Phlogiston Wave Inducer [Mod]
+- SP: 3
+- License: [Intercorp Specialty]
+- Sizes: Main, Heavy
+- Types: Melee, Rifle, Cannon, Launcher
+- Special: This mod can only be applied to a non-template weapon that deals kinetic damage.
+- The weapon gains Exceed (3): 1/round, after you hit a character with this weapon, it projects a Cone 3 burst of molten metal oriented away from your target in the direction of your attack. Your target and any characters caught in the cone take 2 Burn.
+[Exceed X: Take X heat to activate this system or weapon. (Designed by Creator Unreal)]
+
+Phlogiston Wave Director
+- License: [Intercorp Specialty]
+- Size: Main
+- Type: Cannon
+- Range: 6 then Cone 2
+- Damage: 1 Energy + 2 Burn
+- Tags: Heat 3, AP
