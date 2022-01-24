@@ -14,11 +14,13 @@
 - Party short-term: Girls be shopping
 - Party long-term: ?
 
-## Total/Spent XP: 1210/1010
+## Total/Spent XP: 1210/1135
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
 |  125 |   0 |   5 | S
+|   50 |   0 |   2 | I
+|   75 |   0 |   3 | Ag
 |------|-----|-----|------
 |  100 |   0 |   1 | Ambidextrous
 |  100 |   0 |   1 | Frenzy
@@ -43,8 +45,8 @@
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
 |^T   | 55 |  5 |    |    | 60 |
-| I   | 28 |    |    |    | 28 |
-| Ag  | 27 |    |    |    | 27 |
+| I   | 28 |    |  2 |    | 30 |
+| Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
 |^WP  | 40 |    |  5 |    | 45 |
@@ -94,7 +96,7 @@
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
-|   | Sail               |  3 | Ag  | 30 |
+|   | Sail               |  3 | Ag  | 33 |
 |   | Stealth            |    | Ag  |    |
 |!C | Swim               | 15 | S   | 70 |
 | C | Trade (Feller)     |  1 | S   | 56 |
@@ -246,13 +248,11 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 2115
-- Attributes: 820
+### Rank 2->3: 1985
+- Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
     - T  |  ->10 | 275
-    - I  |  -> 2 |  50
-    - Ag |  -> 3 |  75
     - WP | 5->10 | 150
 - Skills: 690
     - Athletics          |   ->10 | 125

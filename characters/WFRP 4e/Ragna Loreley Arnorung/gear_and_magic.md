@@ -4,24 +4,24 @@
 | Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
 |----------------------|------|------|------|------|------|------|------|----|-----------------
 | Bear-Pelt Coat       |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
-<!-- | Horned Helm          | xxxx |      |      |      |      |      |      |  2 | Fear 1, Partial, Ugly -->
-<!-- | Leather Skullcap     | xxxx |      |      |      |      |      |      |  1 | Partial -->
-<!-- | Leather Leggings     |      |      |      |      | xxxx | xxxx |      |  1 | -->
-<!-- | Shield (Large)ap     |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging -->
+| Leather Skullcap     | xxxx |      |      |      |      |      |      |  1 | Partial
+| Leather Leggings     |      |      |      |      | xxxx | xxxx |      |  1 |
+| Mail Coat            |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
+| Minotaur Helm        | xxxx |      |      |      |      |      |      |  2 | Fear 1, Partial, Ugly
+| Shield (Large)       |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
 |----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary              |      |    1 |    1 |    1 |      |      |      |
+| Summary              |    3 |    3 |    3 |    3 |    1 |    1 |    3 |
 
 ### Weapons
 | Melee Weapon                 | Group         | Reach   | Dam   | Qualities/Flaws
 |------------------------------|---------------|---------|-------|-----------------
 | Battle Axe                   | M Basic       | Average | +SB+4 | Hack
 | Hand Weapon                  | M Basic       | Average | +SB+4 |
-<!-- | Shield (Large)               | M Basic       | V Short | +SB+3 | Shield 3, Defensive, Undamaging -->
+| Shield (Large)               | M Basic       | V Short | +SB+3 | Shield 3, Defensive, Undamaging
 |------------------------------|---------------|---------|-------|-----------------
 | Ranged Weapon                | Group         | Range   | Dam   | Qualities/Flaws
 |------------------------------|---------------|---------|-------|-----------------
-| Rock                         | R Throwing    | SBx3    | +SB   |
-<!-- | Throwing Axe                 | R Throwing    | SBx2    | +SB+3 | Hack -->
+| Throwing Axe                 | R Throwing    | SBx2    | +SB+3 | Hack
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
@@ -30,19 +30,19 @@
 |--------------------------|-----|-----|--------------------------------
 | Battle Axe               |   2 |     |
 | Hand Weapon (Axe)        |   1 |     |
-<!-- | Shield (Large)           |   3 |     | -->
-<!-- | Throwing Axe (3)         |   3 |     | -->
+| Shield (Large)           |   3 |     |
 |--------------------------|-----|-----|--------------------------------
 | **Armor**                |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Bear-Pelt Coat           |   1 |   W | Fine Leather Jack
-<!-- | Minotaur Helm            |   2 |   W | -->
-<!-- | Leather Skullcap         |     |   W | Partial -->
-<!-- | Leather Leggings         |   1 |   W | -->
+| Leather Skullcap         |     |   W | Partial
+| Leather Leggings         |   1 |   W |
+| Mail Coat                |   3 |   W | Flexible
+| Minotaur Helm            |   2 |   W |
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
-<!-- | Animal Hide Cloak        |   1 |   W | -->
+| Animal Hide Cloak        |   1 |   W |
 | Clothing                 |   1 |   W | Long sleeves and overalls
 | Tribe Tattoos            |     |   W | Mix of low-key Skaeling, family crest, and Rhya
 |--------------------------|-----|-----|--------------------------------
@@ -52,27 +52,18 @@
 |--------------------------|-----|-----|--------------------------------
 | **Miscellaneous**        |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Bedroll                  |   1 |     | +20 Endurance to resist Cold Exposure when resting
 |--------------------------|-----|-----|--------------------------------
 | *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
-| A Few Hefty Rocks        |   1 |     |
+| Bedroll                  |   1 |     | +20 Endurance to resist Cold Exposure when resting
 |--------------------------|-----|-----|--------------------------------
-<!-- | *Container: Backpack*    |   2 |   W | Carries: 4 Enc -->
+| *Container: Backpack*    |   2 |   W | Carries: 4 Enc
 |--------------------------|-----|-----|--------------------------------
+| Throwing Axe (3)         |   3 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 3GC 4/4
+| **Coins**                |     |     | 1GC 15/8 (give back to Peronelle)
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |   4 |
-
-### Shopping List
-- Shield (Large): 3GC
-- Leather Leggings: 14/-
-- Leather Skullcap: 8/-
-- Backpack: 4/10
-- Training (I 0->2, Ag 0->3): up to 14/8
-
-- [Sell] Hand Weapon: 10/-
+| **Total**                |     |   9 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
