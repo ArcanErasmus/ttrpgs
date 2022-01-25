@@ -578,4 +578,42 @@ The Journey
             - T: TT.
             - L: LLL
             - C: CCC
-`The Fight, Part Two: Psalm, Checkmate, Terror, Castrati, Panda vs. Leto, The Shepherd, The Buzzard, The Whisperer, and 150 subalterns.`
+`The Fight, Part Two: Psalm, Checkmate, (Assumed to be Terror), Castrati, Panda vs. Leto, The Shepherd, The Buzzard, The Whisperer, and 150 subalterns.`
+
+## Session 24
+The Journey
+- Day 3: First leg - Evergreen to Mt. Cooper
+    - *Midday*: At the peak
+        - The Fight, Part Two: Psalm, Checkmate, (Assumed to be Terror), Castrati, Panda vs. Leto, The Shepherd, The Buzzard, The Whisperer, and 150 subalterns.
+            - Psalm: Destroyed, pilot maimed but rescued
+            - Checkmate: Crippled, escaped with Psalm's wounded body
+            - Terror: Wounded
+            - Silver Encore: Damaged
+            - Rainbow Convection: Damaged
+            - Something Sharp Underfoot: Destroyed
+            - The Shephard: Destroyed
+            - The Buzzard: Damaged, escaped
+            - The Whisperer: Damaged, escaped
+            - Subalterns: 0 destroyed
+        - The Fight, Part Three: (Assumed to be Terror), Castrati, Panda vs. Red Queen, White Knight, and 150 subalterns.
+            - Terror: More Wounded (?)
+            - Silver Encore: Still Damaged (?)
+            - Rainbow Convection: Still Damaged (3 reactor, 1 Charge Used: Castor NHP, Snapdragon, Trauma Kit)
+            - Red Queen: Destroyed
+            - White Knight: Destroyed
+        - HUC + Non-Brainwashed Victory
+            - Panda, Castrati, Terror, Checkmate: Roughed up but still standing
+            - Leto, Tempo, Psalm: Seriously wounded, unconscious, condition stable, mechs destroyed
+        - We prepare for the trek to the HUC
+    - End of Session Stats:
+        - Provisions: XXXXX XXXXX XXXXX XXXXX X.... .
+        - Repair Cap:
+            - P: PPPP PPP.
+            - T: TTTTT TTTTT
+            - L: LL LL [LL]
+            - C: CC CC
+        - Pilot Flair:
+            - P: PP.
+            - T: TT.
+            - L: LLL
+            - C: CCC
