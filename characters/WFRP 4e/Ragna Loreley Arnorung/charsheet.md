@@ -69,7 +69,7 @@
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-|!C | Consume Alcohol    | 13 | T   | 73 |
+|!C | Consume Alcohol    | 15 | T   | 75 |
 |!C | Cool               | 11 | WP  | 56 |
 | C | Dodge              |    | Ag  |    |
 |   | Drive              |    | Ag  |    |
@@ -120,8 +120,8 @@
 - Tests: Perception (Hearing)
 - May make Perception tests, at GM discretion, to detect normally imperceptible details
 
-### Ambidextrous [1/2]
-- Only suffer -10 to Tests relying solely on secondary hand
+### Ambidextrous [2/2]
+- No penalties to Tests relying solely on secondary hand
 
 ### Dual Wielder [1/AgB]
 - Tests: Melee or Ranged when attacking with two weapons
