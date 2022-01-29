@@ -1,27 +1,27 @@
 # Ragna's Gear & Magic
 ## Inventory
 ### Armor
-| Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
-|----------------------|------|------|------|------|------|------|------|----|-----------------
-| Bear-Pelt Coat       |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
-| Leather Skullcap     | xxxx |      |      |      |      |      |      |  1 | Partial
-| Leather Leggings     |      |      |      |      | xxxx | xxxx |      |  1 |
-| Mail Coat            |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
-| Minotaur Helm        | xxxx |      |      |      |      |      |      |  2 | Fear 1, Partial, Ugly
-| Shield (Large)       |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
-|----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary              |    3 |    3 |    3 |    3 |    1 |    1 |    3 |
+| Name             | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
+|------------------|------|------|------|------|------|------|------|----|-----------------
+| Bear-Pelt Coat   |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
+| Leather Skullcap | xxxx |      |      |      |      |      |      |  1 | Partial
+| Leather Leggings |      |      |      |      | xxxx | xxxx |      |  1 |
+| Mail Coat        |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
+| Minotaur Helm    | xxxx |      |      |      |      |      |      |  2 | Fear 1, Partial, Ugly
+| Shield (Large)   |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
+|------------------|------|------|------|------|------|------|------|----|-----------------
+| Summary          |    3 |    3 |    3 |    3 |    1 |    1 |    3 |
 
 ### Weapons
-| Melee Weapon                 | Group         | Reach   | Dam   | Qualities/Flaws
-|------------------------------|---------------|---------|-------|-----------------
-| Battle Axe                   | M Basic       | Average | +SB+4 | Hack
-| Hand Weapon                  | M Basic       | Average | +SB+4 |
-| Shield (Large)               | M Basic       | V Short | +SB+3 | Shield 3, Defensive, Undamaging
-|------------------------------|---------------|---------|-------|-----------------
-| Ranged Weapon                | Group         | Range   | Dam   | Qualities/Flaws
-|------------------------------|---------------|---------|-------|-----------------
-| Throwing Axe                 | R Throwing    | SBx2    | +SB+3 | Hack
+| Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
+|----------------|------------|---------|-------|-----------------
+| Battle Axe     | M Basic    | Average | +SB+4 | Hack
+| Hand Weapon    | M Basic    | Average | +SB+4 |
+| Shield (Large) | M Basic    | V Short | +SB+3 | Shield 3, Defensive, Undamaging
+|----------------|------------|---------|-------|-----------------
+| Ranged Weapon  | Group      | Range   | Dam   | Qualities/Flaws
+|----------------|------------|---------|-------|-----------------
+| Throwing Axe   | R Throwing | SBx2    | +SB+3 | Hack
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
@@ -55,13 +55,13 @@
 |--------------------------|-----|-----|--------------------------------
 | *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
-| Bedroll                  |   1 |     | +20 Endurance to resist Cold Exposure when resting
+| Bedroll                  |   1 |     | +20 Endurance vs cold when resting
 |--------------------------|-----|-----|--------------------------------
 | *Container: Backpack*    |   2 |   W | Carries: 4 Enc
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe (3)         |   3 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 1GC 15/8 (give back to Peronelle)
+| **Coins**                |     |     | 0GC 0/0
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   9 |
 

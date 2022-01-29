@@ -8,13 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2494
 - Motivation: Wild out
 
-- Short-term ambition: Figure out if Guillarme swings my way, or make him spittake again
-<!-- - Short-term ambition: ? -->
+- Short-term ambition: Meet Peronelle's Daughter
 - Long-term ambition: Be respected and/or feared by a large populace
-- Party short-term: Girls be shopping
-- Party long-term: ?
+- Party short-term: Reach Altdorf
+- Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1210/1135
+## Total/Spent XP: 1430/1375
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -22,12 +21,13 @@
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
-|  100 |   0 |   1 | Ambidextrous
+|  300 |   0 |   2 | Ambidextrous
 |  100 |   0 |   1 | Frenzy
 |  100 |   0 |   1 | Furious Assault
 |  100 |   0 |   1 | Mark of the Gods
 |  100 |   0 |   1 | Savvy
 |------|-----|-----|------
+|   40 |  13 |  15 | Consume Alcohol
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
 |   10 |   0 |   1 | Language (Battle)
@@ -57,7 +57,7 @@
 |-----|----|---|
 | W   | 27 | 27
 | F/F |  4 |  4
-| R/R |  2 |  2
+| R/R |  2 |  3
 | M   |  4 |
 | Cor | 10 |  0
 
@@ -235,7 +235,6 @@
 - Magic Resistance
 - Resistance ([Corruption, ?])
 - Reversal
-- Riposte
 - Scale Sheer Surface
 - Sea Legs
 - Sprinter
@@ -248,15 +247,14 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1985
+### Rank 2->3: 1745
 - Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
     - T  |  ->10 | 275
     - WP | 5->10 | 150
-- Skills: 690
+- Skills: 650
     - Athletics          |   ->10 | 125
-    - Consume Alcohol    | 13->15 |  40
     - Cool               | 11->15 |  80
     - Dodge              |   -> 5 |  50
     - Endurance          |  5->10 |  75
@@ -265,8 +263,7 @@
     - Trade (Feller)     |  1-> 5 |  40
     - Melee (Two-Handed) |   -> 5 |  50
     - Ranged (Throwing)  |  1->10 | 115
-- Talents: 600
-    - Ambidextrous   | 1->2 | 200
+- Talents: 400
     - Berserk Charge |  ->2 | 300
     - Warrior Born   |  ->1 | 100
 
