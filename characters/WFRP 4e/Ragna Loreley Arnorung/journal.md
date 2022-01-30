@@ -8,7 +8,7 @@
     - 4x Wolf
 
 ## Short Bio
-- Moms: Hildur and Stephanie
+- Moms: Hildur Arnorung and Stephanie ?
     - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of Jarl Nikolas, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling". 24 years older than Ragna.
     - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder". 19 years older than Ragna.
 - Siblings:
@@ -49,76 +49,46 @@ To seek glory, and see the world.
 
 ## Contacts/Friends
 - The Party
-    - Violet: Ragna Loreley Arnorung
-        - Imperial freeholder who worships Rhya
-        - Born in Hargendorf, Nordland under the sign of Dragomas the Drake, 18 yo
-        - Talents: Dual Wielder, Noble Blood
-        - Best Skills: Axe-wielding terror
-        - Weaknesses: Subtle as a brick, thinks with her ovaries
-        - Languages: Reikspiel, Norse
-        - Doom: Has one but forgot it
-        - Motivation: Wild out
-        - Background: Genetically Norscan but culturally Nordlander, left home to conquer the world
+    - Paolo: Guillarme de Mountonfou (sp?)
+        - Bretonnian aspirational grail knight who worships The Lady
+        - Born in (city), (state) under the sign of (sign), 22 yo
+        - Key Talents: Birth Sword, Noble Blood
+        - Best Skills: Mounted melee, (others)
+        - Weaknesses: Traditional
+        - Languages: Reikspiel, Bretonnian
+        - Doom: N/A
+        - Motivation: Worship of The Lady
+        - Background: Half-changeling noble bastard, turned to religion and knightly duties
     - Sophie: Sister Rosa Weir
         - Gospodar nun who worships Rhya
         - Born in Kislev City, Kislev under the sign of The Broken Cart, 28 yo
-        - Talents: Attractive, (talents)
-        - Best Skills: Healing, looking pretty, hot damn she got knockers
-        - Weaknesses: Tits full but head empty, illiterate
+        - Key Talents: Attractive, Bless (Rhya), Invoke (Rhya)
+        - Best Skills: Healing, looking pretty, forgettable face
+        - Weaknesses: Tits full but head empty
         - Languages: Reikspiel, Kislevite
         - Doom: N/A
-        - Motivation: (motivation)
+        - Motivation: (Probably to atone for past sins)
         - Background: Wilded out too hard and got corrupted by Slaanesh, trying to reform and put that behind her
-    - Talia: Peronelle of Parravon
+    - Talia: Peronelle Radler ne Parravon
         - Bretonnian sportsman who worships The Lady
-        - Born in (location), Parravon under the sign of (sign), 38 yo
-        - Talents: (talents)
-        - Best Skills: (description)
-        - Weaknesses: (description)
+        - Born in (city), Parravon under the sign of (sign), 38 yo
+        - Key Talents: Trick Riding, (relating to diplomacy?)
+        - Best Skills: Archery, diplomacy
+        - Weaknesses: Stubborn, fragile in melee
         - Languages: Reikspiel, Bretonnian
         - Doom: N/A
         - Motivation: Hunting
         - Background: Husband killed by Tree of Life cultists, set out to hunt them down
-    - Erica: Ethel Orric
-        - High Elf riverwoman who worships Mathlann
-        - Born in Reikwald Forest, Reikland under the sign of The Piper, 81 yo
-        - Talents: Strider (Wet), (talents)
-        - Best Skills: (description)
-        - Weaknesses: (description)
-        - Languages: Reikspiel, (other langs)
-        - Doom: "(doom)"
-        - Motivation: (motivation)
-        - Background: (background)
-<!--     - Talia: Cythara of Mackenstein
-        - High Elf cult magus who worships Tzeentch
-        - Born in (location) under the sign of (sign), (age) yo
-        - Talents: (talents)
-        - Best Skills: Magic, sneaking, reading
-        - Weaknesses: Gets into trouble, strong as a marshmallow
-        - Languages: Reikspiel, Classical, Elvish, Magic
-        - Doom: "(doom)"
-        - Motivation: (motivation)
-        - Background: Family were cultists-but-good, got persecuted/killed, she fled -->
-<!--     - Violet: Luliana di Faliero
-        - Tilean merchant who worships Myrmidia
-        - Born in Remas, Tilea under the sign of The Dancer, 30 yo
-        - Talents: Gregarious, Cat-Tongued, Dealmaker
-        - Best Skills: Social, financial
-        - Weaknesses: Stubborn and proud, strong as a marshmallow
-        - Languages: Reikspiel, Tilean, Bretonnian, Classical, Guilder
-        - Doom: "A child will be Morr's herald"
-        - Motivation: Get RICH
-        - Background: Escaped backwater town by latching onto a passing merchant, took over after semi-accidentally causing his death -->
-    - (player): (charname)
-        - (race) (career) who worships (deity)
-        - Born in (location) under the sign of (sign), (age) yo
-        - Talents: (talents)
-        - Best Skills: (description)
-        - Weaknesses: (description)
-        - Languages: Reikspiel, (other langs)
-        - Doom: "(doom)"
-        - Motivation: (motivation)
-        - Background: (background)
+    - Violet: Ragna Loreley Arnorung
+        - Imperial freeholder who worships Rhya, pays lip service to Ruinous Powers
+        - Born in Hargendorf, Nordland under the sign of Dragomas the Drake, 18 yo
+        - Key Talents: Frenzy, Mark of the Gods, Noble Blood
+        - Best Skills: Axe-wielding terror
+        - Weaknesses: Subtle as a brick, thinks with her hormones
+        - Languages: Reikspiel, Norse
+        - Doom: [Has one but forgot it]
+        - Motivation: Wild out
+        - Background: Genetically Norscan but culturally Nordlander, left home to conquer the world
 
 ## Enemies
 - ?
@@ -155,7 +125,7 @@ To seek glory, and see the world.
     Speech & Accent: ?
     Customs & Pastime: ?
 
-- Cult of (deity), God of (domain)
+- Cult of Rhya, God of (domain)
     - Seat of Power: ?
     - Head of the Cult: ?
     - Primary Orders: ?
