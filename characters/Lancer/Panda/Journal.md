@@ -345,10 +345,10 @@ MENDICANT_DEMAND=(O/K)
 
 -----
 
-## Session 20 (vague guess)
+## Session 30 (vague guess)
 - We prep for overlanding
 
-STATS
+### STATS
 Engagement Range: 18
 Speed: 60km/Per Day Phase
 Stealth: 21
@@ -375,7 +375,7 @@ The Convoy - Stats & Supplies
     - SSU - 2
     - SE - 2
 
-The Players - Stats & Supplies
+### The Players - Stats & Supplies
 - Repair Cap: Double normal, but has to last for the entire journey
     - Can give at 2:1 ratio to other members
     - Anything above your regular cap is carried on support vehicles or other mechs
@@ -390,7 +390,7 @@ The Players - Stats & Supplies
     - Castrati: Portable Cabin, Camo Cloth
     - Panda: Handheld Printer, Trauma Kit
 
-The Preparation
+### The Preparation
 - The Situation Prior to Departure
     - Patience has been incapacitated, Artemis is missing (fled? kidnapped?)
     - There is no evidence of any vehicles leaving the settlement, but sensors/cameras picked up a number of subalterns exiting in a scattered group, headed 60% NNE to Mt Cooper, 10% West, and 30% SSE
@@ -413,7 +413,7 @@ The Preparation
     - Learn more about The Mendicant and other SECCOM relics
         - Clue: Subalterns headed in three directions, likely to points of interest to the orbital derelicts
 
-The Journey
+### The Journey
 - Day 0: At home
     - Panda, at The Bottom of the Well - Acquired: 5 bottles of SSC piss wine, 3 of good local brandy
     - Tempo, finding Ed - Acquired: Ed, Omni-Node towern't
@@ -432,8 +432,8 @@ The Journey
             - L: LLL
             - C: CCC
 
-## Session 21
-The Journey
+## Session 31
+### The Journey
 - Day 1: First leg - Evergreen to Mt. Cooper
     - Morning: Headed toward the mtn, passing east of Tower 2
         - Tempo spent 1 flair to use the Nelson's avoidance of difficult terrain to navigate a path
@@ -523,8 +523,8 @@ The Journey
             - C: CCC
 `Current time: Afternoon on Day 2, we will probably spend what remains of this segment, plus the evening/night segments, exploring the Egregorian shelter presumably under the oil lake in the crevasse (which is on fire).`
 
-## Session 22
-The Journey
+## Session 32
+### The Journey
 - Day 2: First leg - Evergreen to Mt. Cooper
     - Afternoon: Through a crevasse
         - After putting out the fire on the oil lake, we lowered the SE down, and the SSU climbed in.
@@ -552,8 +552,8 @@ The Journey
             - L: LLL
             - C: CCC
 
-## Session 23
-The Journey
+## Session 33
+### The Journey
 - Day 3: First leg - Evergreen to Mt. Cooper
     - Morning: Nearly at the peak
         - The storm has resumed.
@@ -580,8 +580,8 @@ The Journey
             - C: CCC
 `The Fight, Part Two: Psalm, Checkmate, (Assumed to be Terror), Castrati, Panda vs. Leto, The Shepherd, The Buzzard, The Whisperer, and 150 subalterns.`
 
-## Session 24
-The Journey
+## Session 34
+### The Journey
 - Day 3: First leg - Evergreen to Mt. Cooper
     - *Midday*: At the peak
         - The Fight, Part Two: Psalm, Checkmate, (Assumed to be Terror), Castrati, Panda vs. Leto, The Shepherd, The Buzzard, The Whisperer, and 150 subalterns.
@@ -617,3 +617,16 @@ The Journey
             - T: TT.
             - L: LLL
             - C: CCC
+
+## Session 35
+### The Journey
+- [Timeskip after the fight on the peak]
+- Day 5: Second leg - Mt. Cooper to Wherever the HUC Base Themselves
+    - 3-tier facility made out of some sort of white coral
+        - Top floor: Living facilities, crashed SECCOM freighter
+        - Middle floor: Gallery/feast hall, medical facility
+        - Bottom floor: Catacombs, shrine pond, ???
+    - Morning: West of Mt. Cooper, HUC Outpost
+        - Tempo is the last to wake up from her coma
+        - We had a biiiig talk with Revenant (who used to be Leto) and decided to let her back on the team
+        - Revenant is a human-hardsuit fusion being, full of nanites and hate for Beggar One
