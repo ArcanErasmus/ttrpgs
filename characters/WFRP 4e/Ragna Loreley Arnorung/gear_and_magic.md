@@ -38,7 +38,7 @@
 | Leather Skullcap         |     |   W | Partial
 | Leather Leggings         |   1 |   W |
 | Mail Coat                |   3 |   W | Flexible
-| Minotaur Helm            |   2 |   W |
+| Minotaur Helm            |   2 |   W | `Nerf Fear into Intimidate bonus, or make this a future commission`
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
