@@ -8,14 +8,14 @@
     - 4x Wolf
 
 ## Short Bio
-- Moms: Hildur Arnorung and Stephanie ?
-    - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of Jarl Nikolas, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling". 24 years older than Ragna.
-    - Stephanie (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder". 19 years older than Ragna.
+- Moms: Hildur Arnorung and Stephanie of Hargendorf
+    - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of Jarl Nikolas, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling". 22 years older than Ragna.
+    - Stephanie of Hargendorf (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder". 19 years older than Ragna.
 - Siblings:
-    - ? (male), 6 years older: ?
+    - ? (male), 3 years older: ?
     - ? (female), 1 year older: We are always at each other's throats in that sibling love/hate way. She is definitely jealous of us twins' dynamic (sorry sis!)
     - ? (female), fraternal twin: My partner in crime
-    - ? (male), 9 years younger: Baby bro! Protect him!
+    - ? (male), 2 years younger: Baby bro! Protect him!
 
 ## Appearance
 - Wavy red hair pulled back into a small ponytail
@@ -40,12 +40,14 @@ To become head of my own clan, with many loving partners. While dying in battle 
 - What are your religious beliefs?
 Rhya is responsible for my life and my lack of parenthood burdens. In her stead, I will protect the weak and the earth. In contrast, the War-God teaches strength in battle and glory in a violent death. To this end, bringing fury and giving love are both intimately pious acts. Other hints of the Northern Gods have trickled into my practices, wholly reinterpreted through an Imperial lens. Nurgle: His "blessings" of plague and famine are to be treated with utmost seriousness, lest they touch you or your loved ones, and are a sure sign of the gods' disfavor. Tzeentch: Magic is to be treated with fear and respect, and an offering to the powers that be should be made before any journey at sea (even a quick prayer before a swim is wise). Slaanesh: Everything in moderation, even moderation. For the last part, this generally means I try to only indulge in one thing at a time.
 - To whom, or what, are you loyal?
-1. Her Norscan heritage
+1. Her Norscan heritage, and her family (close and far)
 2. Her own needs and beliefs
 3. Her friends
 4. Her employers
 - Why are you adventuring?
 To seek glory, and see the world.
+- What were some significant conflicts in your past?
+    - Major: 
 
 ## Contacts/Friends
 - The Party
