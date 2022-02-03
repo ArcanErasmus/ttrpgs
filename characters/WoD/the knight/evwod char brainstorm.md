@@ -37,6 +37,35 @@ speculative fear:
 - Drove with a crew: spotters, swapping with other drivers, etc
 
 
+
+Character concept, round 2
+- inspirations: Lung, Raine, Skitter, Grue
+- former member of ???-hunters
+- middling-seniority, no leadership position
+- calamity befell the group? 
+
+- infernal exalt
+- Conqueror/Corrupter/Manipulator?
+- crown of eyes/night
+
+- angelic appearance?
+
+- aspirationally: devil-tyrant form, the biggest +dex or the even bonuses one
+- 7 of likely these aspects
+    - camouflage
+    - demon armor
+    - demon weapons
+    - energy projection
+    - extra limbs
+    - flight
+    - hardened devil body
+    - nightvision
+    - stealthy
+    - swift stride
+    - transcendent anathema
+
+
+
 |----------------|----------------------|------------------------------|
 | Archetype      | Positive             | Negative                     |
 |----------------|----------------------|------------------------------|
