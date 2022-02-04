@@ -40,9 +40,17 @@ speculative fear:
 
 Character concept, round 2
 - inspirations: Lung, Raine, Skitter, Grue
+- BETTER inspirations: Coil, Luliana
 - former member of ???-hunters
-- middling-seniority, no leadership position
-- calamity befell the group? 
+    - middling-seniority, no leadership position
+        - the group was very anonymous, isolated information
+        - i had no contacts outside of two of my superiors, but i also had info to contact Smithy
+    - a bad hunt led to the near-obliteration of our group, remainders fled/disbanded
+        - this was cause for my exaltation, after the adrenaline faded and the rage and helplessness settled in
+    - none of my superiors remained, nobody i had any way to reconnect with, so i went to Smithy
+        - on fear of being hunted by that which we failed to kill, i asked about other groups she may have had contact with
+        - (possibly worked a job or two with Smithy) and somehow The Portal comes up (or just appears?)
+        - looking for an escape, i take the opportunity
 
 - infernal exalt
 - Conqueror/Corrupter/Manipulator?
@@ -57,14 +65,42 @@ Character concept, round 2
     - demon weapons
     - energy projection
     - extra limbs
-    - flight
+    * flight
     - hardened devil body
     - nightvision
     - stealthy
     - swift stride
     - transcendent anathema
 
+dragonslayers inspiration
+- you are part of a small cell facing off against supernatural threats
+    - (you are actually working for the technocracy, but do not know this)
+- you were supposed to hunt down this alchemical
+- and thus you "entered a tinker's lair"
+- said supernatural ambushes/traps your group, and carves through it
+- you run, very fast, and are one of the few who did so successfully
+- you have no means of contacting the group that won't be found out by said supernatural
 
+- result: healthy respect/fear/hatred for supernaturals
+
+- crown of eyes: a cloud of golden smoke that pours off my head, filled with eyes
+
+https://en.wikipedia.org/wiki/Christian_angelology
+- consider starting with 3rd-sphere aesthetics, and moving up (2nd at Essence 3, 1st at Essence 5)
+
+demeanor options:
+- activist
+* director
+- hacker
+- machine
+- prophet
+
+nature options:
+* artist
+- architect
+- crusader
+- mentor
+- vigilante
 
 |----------------|----------------------|------------------------------|
 | Archetype      | Positive             | Negative                     |

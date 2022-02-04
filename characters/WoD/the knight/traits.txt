@@ -1,10 +1,10 @@
 ||===============================||=================================================================||
 || Chronicle - The Isekai        || CHARNAME, PRONOUNS (Born ??/??/????)                            ||
 ||===============================||=================================================================||
-|| Archetype - ?? Nature, ?? Demeanor:                                                              ||
-|| - ??: Strength in ??, weakness in ??                                                             ||
+|| Archetype - Artist Nature, Director Demeanor:                                                    ||
+|| - Artist: Strength in ??, weakness in ??                                                         ||
 ||     - Regain Willpower when you ??.                                                              ||
-|| - ??: Strength in ??, weakness in ??                                                             ||
+|| - Director: Strength in ??, weakness in ??                                                       ||
 ||     - Regain Willpower when you ??.                                                              ||
 ||==================================================================================================||
 || Intimacies:                                                                                      ||
@@ -52,24 +52,42 @@
 || Special Exalted Rule: Stunting                                                                   ||
 || - No penalties/diff for doing actions in ridiculous and flashy way.                              ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Special Sidereal Rules: Dynamic LARP                                                             ||
-|| - ??                                                                                             ||
-|| - Options: Work-boss, ship’s officer, pro-fessional soldier, vagabond, mendicant, ditch digger,  ||
-||   secretary, house servant, messenger, butler, assistant, diplomat, manual laborer, pilot.       ||
+|| Special Infernal Rules: Shintai                                                                  ||
+|| - Not yet! Wait for Essence 2.                                                                   ||
+|| - First time in story you transform, one turn, 2 Ess & 2 WP. Future attempts require roll Ess at ||
+||   diff 6, +1 diff each afterwards. If already diff 9, instead +1 Ess & +1 WP. Cost resets each   ||
+||   story, or if spend 28 days without use.                                                        ||
+|| - Normal health track, damage does not carry between normal and Shintai forms. No KO, if Incap   ||
+||   by lethal/agg, form shatters and you take 5 unsoakable bashing.                                ||
+|| - Lasts 1 scene. Cannot resume Shintai from in same scene it was destroyed or dismissed.         ||
+|| - Signature Charm: Wait for Essence 3!                                                           ||
+|| - Base Form: ??                                                                                  ||
+|| - Aspect: ??                                                                                     ||
+|| - Aspect: ??                                                                                     ||
+|| - Aspect: ??                                                                                     ||
+|| - Aspect: ??                                                                                     ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Caste: Journeys                                                                                  ||
-|| - While anima is flaring, Anima Power automatically activates.                                   ||
-|| - Regain Essence when causing, safeguarding, guiding, or participating in a journey that destiny ||
-||   demands must occur.                                                                            ||
+|| Special Infernal Rules: Urge of The Conqueror                                                    ||
+|| - 1/scene, regain 2 Essence when forcing enemy or powerful figure to submit to my will.          ||
 || - Regain (3 + Essence Rating) Essence when the sun rises.                                        ||
 || - If beginning a scene at 0 Essence, gain 1 Essence.                                             ||
 || - Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
-|| Journeys: Anima Power                                                                            ||
-|| - 1 Ess, for rest of scene, triple movement speed for self and allies, on foot or in vehicle.    ||
+|| Special Infernal Rules: The Crown of Eyes                                                        ||
+|| - When intensely studying object, individual, or situation, spend 1 Esssence to ask a question.  ||
+|| - GM must answer honestly, but can only ask question ever once per obj/indiv/situ.               ||
+|| - When anima flaring, great eyes open within golden smoke of bannner, and become impossible to   ||
+||   ambush or strike unexpectedly, including verbally, even if foe is invisible.                   ||
 ||--------------------------------------------------------------------------------------------------||
 || Background: ??                                                                                   ||
 || - ??                                                                                             ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
+|| Background: Demonic Guide @@@@@                                                                  ||
+|| - Permanent manifestation of one demonic Aspect: ??.                                             ||
+|| - Guide grants advice, free Occult specialty in single Hell-like domain of Vort.                 ||
+|| - +2 dice to social interactions with Banes or denizens of Hell-like realms.                     ||
+|| - -2 diff to Awareness.                                                                          ||
+|| - +2 to Initiative results.                                                                      ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 ||--------------------------------------------------------------------------------------------------||
 || Merit: ??                                                                                        ||
@@ -80,3 +98,6 @@
 || - ??                                                                                             ||
 ||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
 ||==================================================================================================||
+|| Background Left Behind: Supernatural Status @@...                                                ||
+|| - Considered respected within supernatural society.                                              ||
+||- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ||
