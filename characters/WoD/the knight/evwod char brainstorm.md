@@ -59,17 +59,22 @@ Character concept, round 2
 - angelic appearance?
 
 - aspirationally: devil-tyrant form, the biggest +dex or the even bonuses one
-- 7 of likely these aspects
-    - camouflage
+- 7 of likely these aspects:
+    * camouflage
+    * extra limbs
+    * flight
+    * keen (sight)
+    * stealthy
+    * swift stride
+    * tentacles
+- or possibly these:
+    - aquatic
     - demon armor
     - demon weapons
     - energy projection
-    - extra limbs
-    * flight
+    - gills
     - hardened devil body
     - nightvision
-    - stealthy
-    - swift stride
     - transcendent anathema
 
 dragonslayers inspiration
@@ -88,6 +93,25 @@ dragonslayers inspiration
 https://en.wikipedia.org/wiki/Christian_angelology
 - consider starting with 3rd-sphere aesthetics, and moving up (2nd at Essence 3, 1st at Essence 5)
 
+https://64.media.tumblr.com/73e7dc46cb9d9b6d17a9e001343701e3/tumblr_pyvcq6ZJnI1wsiamto1_1280.jpg
+https://64.media.tumblr.com/740416c4f15c4b192d899b66e2e01248/tumblr_p967yzB9sx1rcmxnyo1_1280.jpg
+https://64.media.tumblr.com/9180c8e571024fe29563b43a0e132b6a/tumblr_p92ir5cPeY1qhttpto1_1280.jpg
+https://64.media.tumblr.com/96920108a249d12ef54603b3bb6fd29d/tumblr_oz8dkldd2N1tkvs7lo2_1280.png
+https://64.media.tumblr.com/bf1efd8a9caa0a541f797531a0df86e4/tumblr_pd5iydlFNu1vjsgnao1_1280.jpg
+https://cdn.discordapp.com/attachments/542033582470856704/555137067399512087/tumblr_o14r6wjhAv1s2ngvbo1_500.png
+https://cdn.discordapp.com/attachments/542033582470856704/578920053131444226/242.jpg
+https://cdn.discordapp.com/attachments/542033582470856704/594274597671665680/tumblr_pjpw7hMowz1qmjk4fo6_1280.png
+https://cdn.discordapp.com/attachments/542033582470856704/628736284709486602/tumblr_pybfymhWRa1u4pwwpo1_r2_1280.png
+https://cdn.discordapp.com/attachments/542033582470856704/637094321644109854/s6.png
+https://cdn.discordapp.com/attachments/542033582470856704/637097639405420544/s13.png
+https://cdn.discordapp.com/attachments/542033582470856704/659517336306581515/image0.png
+https://cdn.discordapp.com/attachments/542033582470856704/917089332987322428/tumblr_pu7scprcpE1w5utzbo1_1280.png
+https://cdn.discordapp.com/attachments/702924178671534427/939363304458035200/simurgh_by_lonsheep_dbmcso5-fullview.png
+https://cdn.discordapp.com/attachments/702924178671534427/939363467931058196/d7ok5tg-927b2832-35e1-47d6-a553-d974b6c298bb.png
+https://cdnb.artstation.com/p/assets/images/images/004/865/863/4k/mikhail-palamarchuk-sketchbook-3.jpg
+https://static.wikia.nocookie.net/parahumans/images/7/73/QAktDTW.jpg
+https://creoparametric.tumblr.com/post/188066403704/my-cat-has-to-wear-a-cone-this-week-and-it-made-me
+
 demeanor options:
 - activist
 * director
@@ -101,6 +125,78 @@ nature options:
 - crusader
 - mentor
 - vigilante
+
+weird apperance flaw 1pt
+
+NR Charms
+- 1 dot
+    - *naked wicked souls - perfect*
+    - without honor, without hope - can go into everstorm
+    - witness to darkness - be careful of optics
+- 2 dots
+    - a cold and lonely world - good for breaking someone
+    - gift of unyielding misery - easy optics, very general purpose
+    - golden years tarnished black - fast tool
+- 3 dots
+    - bloodless murk evasion - flighty combat tool
+    - false springs beckon - provide motivation
+    - night swallows secrets - covering up my actions
+    - sun denying spite - careful with optics
+- 4 dots
+    - inner devils unchained - turn person into fomori
+- 5 dots
+    - black mirror incarnation - impersonate important figure
+
+DC Charms
+- 1 dot
+    - by pain reforged - staying conscious is important
+    - *nightmare fugue vigilance - no sleep equals more plotting*
+- 2 dots
+    - by rage recast - bonus demonic aspect
+    - kneel or be knelt - exactly what it says
+- 3 dots
+    - magnanimous warning glyph - obey or suffer
+- 4 dots
+- 5 dots
+    - by agony empowered - don't die from lethal
+
+SA Charms
+- 1 dot
+    - freedom lets go - only really fun for signature effect
+    - murder is meat - eat spirits to regain essence
+    - running to forever - regaining essence via movement
+- 2 dots
+    - heart-carving wind - manipulation options
+    - laughing shrapnel arrival - literal "fall from heaven"
+    - silence of inverted spires - commit mischief w/o party notice
+    - windborne stride - speeeeed
+- 3 dots
+    - dissonant lies made true - force other to believe the lie they told you
+- 4 dots
+    - thoughts resound in silence - straight up listen to idle thoughts
+- 5 dots
+    - 
+
+WC Charms
+- 1 dot
+- 2 dots
+- 3 dots
+- 4 dots
+- 5 dots
+
+BO Charms
+- 1 dot
+- 2 dots
+- 3 dots
+- 4 dots
+- 5 dots
+
+BM Charms
+- 1 dot
+- 2 dots
+- 3 dots
+- 4 dots
+- 5 dots
 
 |----------------|----------------------|------------------------------|
 | Archetype      | Positive             | Negative                     |

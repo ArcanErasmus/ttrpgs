@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1430/1375
+## Total/Spent XP: 1505/1505
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -30,10 +30,11 @@
 |   40 |  13 |  15 | Consume Alcohol
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
-|   10 |   0 |   1 | Language (Battle)
+|   50 |   0 |   5 | Language (Battle)
 |   50 |   0 |   5 | Lore (Norsca)
 |   50 |   0 |   5 | Lore (Trees)
-|   10 |   0 |   1 | Ranged (Throwing)
+|   50 |   0 |   5 | Melee (Two-Handed)
+|   50 |   0 |   5 | Ranged (Throwing)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
@@ -90,7 +91,7 @@
 |   | Art                |    | Dex |    |
 |   | Entertain          |    | Fel |    |
 | C | Heal               |  5 | Int | 37 |
-| C | Language (Battle)  |  1 | Int | 33 |
+| C | Language (Battle)  |  5 | Int | 37 |
 |   | Language (Norse)   |  5 | Int | 37 |
 | C | Lore (Trees)       |  5 | Int | 37 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
@@ -104,8 +105,8 @@
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
 |!C$| Melee (Basic)      | 15 | WS  | 62 |
-| C | Melee (Two-Handed) |    | WS  |    |
-| C | Ranged (Throwing)  |  1 | BS  | 33 |
+| C | Melee (Two-Handed) |  5 | WS  | 52 |
+| C | Ranged (Throwing)  |  5 | BS  | 37 |
 
 ## Traits
 ### Big
@@ -247,22 +248,20 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1745
+### Rank 2->3: 1615
 - Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
     - T  |  ->10 | 275
     - WP | 5->10 | 150
-- Skills: 650
+- Skills: 520
     - Athletics          |   ->10 | 125
     - Cool               | 11->15 |  80
     - Dodge              |   -> 5 |  50
     - Endurance          |  5->10 |  75
-    - Language (Battle)  |  1-> 5 |  40
     - Lore (Trees)       |  5->10 |  75
     - Trade (Feller)     |  1-> 5 |  40
-    - Melee (Two-Handed) |   -> 5 |  50
-    - Ranged (Throwing)  |  1->10 | 115
+    - Ranged (Throwing)  |  5->10 |  75
 - Talents: 400
     - Berserk Charge |  ->2 | 300
     - Warrior Born   |  ->1 | 100

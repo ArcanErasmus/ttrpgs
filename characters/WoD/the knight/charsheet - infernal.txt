@@ -34,8 +34,8 @@
 ||============|=======|==========||============|=======|==========||==============|=======|==========||
 || Background         | Value    || Merit              | Value    || Flaw                 | Value    ||
 ||- - - - - - - - - - ╂ - - - - -|| - - - - - - - - - -|- - - - - ||- - - - - - - - - - - ╂ - - - - -||
-|| Demonic Guide      | @@@@@    ||                    |          ||                      |          ||
-||                    |          ||                    |          ||                      |          ||
+|| Demonic Guide      | @@@@@    || Acute Sense (Sight)| @..      ||                      |          ||
+||                    |          || Arcane Eye         | @@       ||                      |          ||
 ||                    |          ||                    |          ||                      |          ||
 ||                    |          ||                    |          ||                      |          ||
 ||                    |          ||                    |          ||                      |          ||
@@ -65,6 +65,8 @@
 
 15 dots freebie
 
+up to 10 dots flaws
+
 NR - kakuri: the night realm
     the meanest, torment enemies, debuff opp, disguise self
 DC - lanka: demon city of the rakshas
@@ -77,3 +79,10 @@ BO - the hell of boiling oil
     protect friends, boil enemies
 BM - the hell of burrowing maggots
     demon messiah, evil genie, world-walker, monster-boss
+
+
+
+- weird apperance (1pt flaw) - social oddities
+- beacon of power (2pt flaw) - flare anima at 2 Ess spent
+- permanent caste mark (2pt flaw) - need to determine this anyway!
+- thrall of the wyrm (3pt flaw) - great curse, enslaver, maybe sadist archetype
