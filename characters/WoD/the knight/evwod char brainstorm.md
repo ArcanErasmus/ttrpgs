@@ -155,7 +155,9 @@ DC Charms
     - by rage recast - bonus demonic aspect
     - kneel or be knelt - exactly what it says
 - 3 dots
+    - crowned with fury - turn target into servant
     - magnanimous warning glyph - obey or suffer
+    - violence is worship - regain essence from viewing violence
 - 4 dots
 - 5 dots
     - by agony empowered - don't die from lethal
@@ -179,23 +181,78 @@ SA Charms
 
 WC Charms
 - 1 dot
+    - disembodied voice tintinnabula - speak to all subordinates
+    - source code compliance protocol - speak and hear ur-language
 - 2 dots
+    - raw-edged paranoia principle - spend essence to notice ambush
 - 3 dots
+    - chirality protection index - slowly create a cult
+    - essence-dissecting stare - view node auras, see other realms
+    - principle-invoking onslaught - conjure complex weaponry, infinite ammo
 - 4 dots
+    - factual determination analysis - detect lies
 - 5 dots
 
 BO Charms
 - 1 dot
+    - boiling sea mastery - become aquatic
+    - charred sinner renewal - heal in toxic liquid
+    - rendered villain dispersal - hide in liquid
+    - simmering sinner resentment - have a nemesis
 - 2 dots
+    - soul rendering practice - suffer to store bonus dice
 - 3 dots
+    - mind-charring infusion - erase memories
 - 4 dots
+    - baptismal agony blessing - turn person into fomori
 - 5 dots
 
 BM Charms
 - 1 dot
+    - demonic primacy of essence - social ease with lesser creatures of darkness
+    - ephemeral abrasion curse - lower shroud/gauntlet rating
+    - gift of worms - make target into temporary spy
+    - mercy in servitude - keep fomori suffering at bay while in your command
 - 2 dots
+    - anonymity through propriety - act without being acknowledged
 - 3 dots
+    - knowing the desolate heart - mind read those suffering
 - 4 dots
+    - spawning pit sanctification - turn many people into fomori
+- 5 dots
+    - verdant emptiness endowment - grant wishes and demand loyalty
+
+Dark Ages Charmsets
+
+Dark Ages DC Charms
+- 1 dot
+    - imperious denial of misfortune - staying conscious is important
+- 2 dots
+    - donning the face of terror - exploit fears
+    - kneel or be knelt - exactly what it says
+    - visage of infernal glory - bonus demonic aspect
+- 3 dots
+    - crowned in splendor - turn target into servant
+    - violence is worship - regain essence from viewing violence
+- 4 dots
+    - games of expectation and desire - exploit desires
+- 5 dots
+    - oath of one hundred devil disciples - create personal army
+
+Dark Ages WC Charms
+- 1 dot
+    - crowd-commanding utterance - speak in large area
+    - the voice of the tower - speak and hear ur-language
+- 2 dots
+    - hollow mind possession - make servant from statue/doll
+    - raw-edged paranoia principle - spend essence to notice ambush
+    - revelations of silence - make two people reveal secrets to each other
+- 3 dots
+    - chirality prohibition index - slowly create a cult
+    - essence-dissecting stare - view node auras, see other realms
+    - mind spider curse - implant delayed suggestion
+- 4 dots
+    - a home for liars - liars condemned to hell
 - 5 dots
 
 |----------------|----------------------|------------------------------|
@@ -236,3 +293,94 @@ BM Charms
 | Visionary      | Inspiration          | Pride                        |
 | Zealot         | Conviction           | Extremity                    |
 |----------------|----------------------|------------------------------|
+
+
+The King and Kingdom (total 5 points)
+- Size                  pick one (2 to -3)
+- Geography             pick one
+- Climate               pick one (3 to -2)
+- Population            pick any (1 to -2)
+- Social Structures     pick one
+- Technology            pick one (0 to -2)
+- Loyalty               pick one (2 to -3)
+- Features              pick any (0 to -15)
+
+Realm: The Pit
+- Size: Small (1)
+- Difficult terrain
+- Pockets of safety (2)
+- Overpopulated by earthly flora and devils
+- Archaic social structures
+- Advanced technology (-2)
+- Comitted loyalty (-2)
+- Bottleneck (-1)
+- Dangerously alien
+- Fruits of Hell - corrupting (-2)
+- Gaols (-1)
+
+Realm: Spa Palace
+- Size: Small (1)
+- Acessible terrain
+- Heavenly climate (-2)
+- Balanced ecosystem of Earthly flora, fauna, and humans
+- Modern social structures
+- Modern technology (-1)
+- Indifferent loyalty
+- Slave-realm (-1)
+- Half-speed time (-2)
+
+Realm: Support Network
+- Size: Average
+- Acessible terrain
+- Earthly climate
+- Balanced ecosystem of Earthly flora, fauna, and devils (-1)
+- Advanced social structures
+- Advanced technology (-2)
+- Loyal inhabitants (-1)
+- All indoors
+- Grand Grimoire (-1)
+
+Realm: Ruler of All
+- Size: Vast (-3)
+- Mundane terrain
+- Harsh climate (1)
+- Overpopulated by Earthly flora, fauna, and humans (1)
+- Advanced social structures
+- Modern technology (-1)
+- Committed loyalty (-2)
+- Lord of the Land (-1)
+
+Realm: Barracks
+- Size: Large (-1)
+- Accessible terrain
+- Harsh climate (1)
+- Overpopulated by earthly flora, fauna, and devils
+- Archaic social structures
+- Advanced technology (-2)
+- Fanatical loyalty (-3)
+
+Realm: Hidey Hole
+- Size: Small (1)
+- Difficult terrain
+- Unsirvivable climate (3)
+- Overpopulated by deadly flora, dangerous beasts, devils, and humans (-2)
+- Chaotic social structure
+- Savage technology
+- Bottleneck (-1)
+- Dangerously alien
+- Eternal night (-1)
+- Lord of the Land (-1)
+- Non-Euclidean (-1)
+
+Realm: Inhospitable Wasteland
+- Size: Vast (-3)
+- Difficult terrain
+- Unsirvivable climate (3)
+- Uninhabited, no technology or social structure (1)
+- Bottleneck (-1)
+- Dangerously alien
+- Eternal night (-1)
+- Lord of the land (-1)
+- Non-Euclidean (-1)
+- Exclusive transportation (-1)
+- Endless suffering (-1)
