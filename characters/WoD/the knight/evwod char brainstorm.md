@@ -375,7 +375,7 @@ Realm: Hidey Hole
 Realm: Inhospitable Wasteland
 - Size: Vast (-3)
 - Difficult terrain
-- Unsirvivable climate (3)
+- Unsurvivable climate (3)
 - Uninhabited, no technology or social structure (1)
 - Bottleneck (-1)
 - Dangerously alien
