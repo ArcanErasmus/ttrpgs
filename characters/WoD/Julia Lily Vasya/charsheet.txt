@@ -1,0 +1,55 @@
+╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
+║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
+╠════════════════════════════════╬════════════╤════════════════════════════════════════════════════╣
+║ Core                           ║ Stat       │ Value                                              ║
+╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
+║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
+║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
+║ Concept - Coil/Luliana/TT      ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   0/  0         ║
+║ Urge - The Conqueror           ║ Ess Rating │ ♠∙∙∙∙                            └─────────────────╢
+║ Crown - Eyes                   ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠                                        ║
+║ Circle - The Displaced?        ║            │                                                    ║
+╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╤═══════╤═════════╣
+║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
+║ Strength   │ ♠∙∙∙∙ │           ║ Charisma   │ ♠♠♠♠♠ │ Regal     ║ Perception   │ ♠♠♠♠∙ │ Insight ║
+║ Dexterity  │ ♠♠♠♠♠ │ Coordind  ║ Manipulatn │ ♠♠♠♠∙ │ Guile     ║ Intelligence │ ♠♠∙∙∙ │         ║
+║ Stamina    │ ♠∙∙∙∙ │           ║ Appearance │ ♠♠∙∙∙ │           ║ Wits         │ ♠♠♠∙∙ │         ║
+╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═════════╣
+║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec    ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
+║ Alertness  │ ♠♠♠∙∙ │           ║ Animal Ken │x-----x│           ║ Academics    │ ∙∙∙∙∙ │         ║
+║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Computer     │ ∙∙∙∙∙ │         ║
+║ Awareness  │ ∙∙∙∙∙ │           ║ Drive      │ ∙∙∙∙∙ │           ║ Finance      │ ∙∙∙∙∙ │         ║
+║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠♠♠∙ │ UmbrlCrt  ║ Investigatn  │ ∙∙∙∙∙ │         ║
+║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ∙∙∙∙∙ │         ║
+║ Expression │ ∙∙∙∙∙ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
+║ Intimidatn │K♠♠♠♠♠ │ Terror    ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠♠∙∙∙ │         ║
+║ Leadership │K♠∙∙∙∙ │           ║ Perform    │ ∙∙∙∙∙ │           ║ Politics     │K♠♠♠∙∙ │ PwrBrkr ║
+║ Streetwise │ ∙∙∙∙∙ │           ║ Stealth    │K♠♠♠∙∙ │           ║ Science      │ ∙∙∙∙∙ │         ║
+║ Subterfuge │K♠♠♠♠♠ │ Undermne  ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ∙∙∙∙∙ │         ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
+╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═════════╣
+║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value   ║
+╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
+║ Demonic Guide      │ ♠♠♠♠♠     ║ Common Sense       │ ♠         ║ Defensive            │ ♠       ║
+║                    │           ║ Regal Bearing      │ ♠         ║ Impractical Dresser  │ ♠       ║
+║                    │           ║ Smooth             │ ♠         ║ Insubordinate        │ ♠       ║
+║                    │           ║ Arcane Eye         │ ♠♠        ║ Overconfident        │ ♠       ║
+║                    │           ║ Crack Shot         │ ♠♠        ║ Short Temper         │ ♠       ║
+║                    │           ║ Poker Face         │ ♠♠        ║ Low Pain Tolerance   │ ♠♠      ║
+║                    │           ║ Sanctity           │ ♠♠        ║ Mark of the Predator │ ♠♠      ║
+║                    │           ║ Dark Triad         │ ♠♠♠       ║ Winged               │ ♠♠      ║
+║                    │           ║ Anima Control      │ ♠♠♠♠♠     ║                      │         ║
+╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
+║ Charms - Key: NR & DC                               │ Notes                                      ║
+╟─────────────────────────────────────────────────────┼────────────────────────────────────────────╢
+║ - G: Key to the Kingdom (♠)                         │ All key abilities                          ║
+║ - NR: Naked Wicked Souls (♠)                        │                                            ║
+║ - NR: Witness to Darkness (♠)                       │                                            ║
+║ - DC: Nightmare Fugue Vigilance (♠)                 │                                            ║
+║ - DC: By Rage Recast (♠♠)                           │ Aspect: Flight (2+Essence Wings)           ║
+║ - BM: Anonymity Through Propriety (♠♠)              │                                            ║
+╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
