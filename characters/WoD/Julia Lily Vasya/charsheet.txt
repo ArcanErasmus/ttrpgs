@@ -24,7 +24,7 @@
 ║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠♠♠∙ │ UmbrlCrt  ║ Investigatn  │ ∙∙∙∙∙ │         ║
 ║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ∙∙∙∙∙ │         ║
 ║ Expression │ ∙∙∙∙∙ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
-║ Intimidatn │K♠♠♠♠♠ │ Terror    ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠♠∙∙∙ │         ║
+║ Intimidatn │K♠♠♠♠♠ │ Terror    ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠♠∙∙∙ │ DemonQn ║
 ║ Leadership │K♠∙∙∙∙ │           ║ Perform    │ ∙∙∙∙∙ │           ║ Politics     │K♠♠♠∙∙ │ PwrBrkr ║
 ║ Streetwise │ ∙∙∙∙∙ │           ║ Stealth    │K♠♠♠∙∙ │           ║ Science      │ ∙∙∙∙∙ │         ║
 ║ Subterfuge │K♠♠♠♠♠ │ Undermne  ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ∙∙∙∙∙ │         ║
@@ -50,6 +50,6 @@
 ║ - NR: Naked Wicked Souls (♠)                        │                                            ║
 ║ - NR: Witness to Darkness (♠)                       │                                            ║
 ║ - DC: Nightmare Fugue Vigilance (♠)                 │                                            ║
-║ - DC: By Rage Recast (♠♠)                           │ Aspect: Flight (2+Essence Wings)           ║
+║ - DC: By Rage Recast (♠♠)                           │ Aspect: Flight                             ║
 ║ - BM: Anonymity Through Propriety (♠♠)              │                                            ║
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝

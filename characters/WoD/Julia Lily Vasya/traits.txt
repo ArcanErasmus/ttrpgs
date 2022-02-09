@@ -1,63 +1,77 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
-║ Background: Demonic Guide (♠♠♠♠♠)                                                                ║
-║ - Permanent manifestation of one demonic Aspect: ??.                                             ║
+║ Background: Demonic Guide (♠♠♠♠♠) - EvWoD                                                        ║
+║ - Permanent manifestation of one demonic Aspect: Camoflauge.                                     ║
 ║ - Guide grants advice, free Occult specialty in single Hell-like domain of Vort.                 ║
 ║ - +2 dice to social interactions with Banes or denizens of Hell-like realms.                     ║
 ║ - -2 diff to Awareness.                                                                          ║
 ║ - +2 to Initiative results.                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Merit: Common Sense (♠)                                                                          ║
-║ - ?                                                                                              ║
+║ Aspect: Camoflauge                                                                               ║
+║ - Always active.                                                                                 ║
+║ - -2 diff to Stealth rolls. A perception/attention filter.                                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Regal Bearing (♠)                                                                         ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Smooth (♠)                                                                                ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Arcane Eye (♠♠)                                                                           ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Crack Shot (♠♠)                                                                           ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Poker Face (♠♠)                                                                           ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Sanctity (♠♠)                                                                             ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Dark Triad (♠♠♠)                                                                          ║
-║ - ?                                                                                              ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Anima Control (♠♠♠♠♠)                                                                     ║
-║ - ?                                                                                              ║
+║ Aspect: Flight                                                                                   ║
+║ - Active only via By Rage Recast, or when anima flares.                                          ║
+║ - Can fly at normal movement speed. This is a hover, but manifests several angelic wings.        ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Flaw: Defensive (♠)                                                                              ║
-║ - ?                                                                                              ║
+║ Merit: Common Sense (♠) - M20                                                                    ║
+║ - Get Out Of Doing Something Stupid Free card, GM may warn you of obvious idiocy.                ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Impractical Dresser (♠)                                                                    ║
-║ - ?                                                                                              ║
+║ Merit: Regal Bearing (♠) - M20                                                                   ║
+║ - -2 diff to Social-Trait rolls to make an impression, most people inclined to respect you.      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Insubordinate (♠)                                                                          ║
-║ - ?                                                                                              ║
+║ Merit: Smooth (♠) - Hunter                                                                       ║
+║ - -2 diff to Manipulation rolls.                                                                 ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Overconfident (♠)                                                                          ║
-║ - ?                                                                                              ║
+║ Merit: Arcane Eye (♠♠∙∙∙ ∙∙∙) - Homebrew                                                         ║
+║ - Can see magic, see auras of intelligent beings, recognize bounds of persistent spells, etc.    ║
+║ - Lose normal sight, can only see areas illuminated by beings' auras, including own aura.        ║
+║ - Auras come from all animals/insects/magically-sentient-constructs, people aura avg as torch.   ║
+║ - Exalts aura as bonfire, demons stronger than avg human, humans can be as dim as candle.        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Short Temper (♠)                                                                           ║
-║ - ?                                                                                              ║
+║ Merit: Crack Shot (♠♠) - Hunter                                                                  ║
+║ - With gun, arrow, or dart, no penalty to specific targeting, -1 diff if general targeting.      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Low Pain Tolerance (♠♠)                                                                    ║
-║ - ?                                                                                              ║
+║ Merit: Poker Face (♠♠) - M20                                                                     ║
+║ - -2 diff to intimidation, subterfuge, & resistance to intimidation rolls.                       ║
+║ - +2 diff to others' attempts to get under your skin or read your responses.                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Mark of the Predator (♠♠)                                                                  ║
-║ - ?                                                                                              ║
+║ Merit: Sanctity (♠♠) - M20                                                                       ║
+║ - People trust you even if not trustworthy, & tend to think of you as some sort of paragon.      ║
+║ - When you get in trouble, authorities will go easy & even strangers will come to your defense.  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Winged (♠♠)                                                                                ║
-║ - ?                                                                                              ║
+║ Merit: Dark Triad (♠♠♠) - M20                                                                    ║
+║ - +3 dice to all rolls involving Etiquette, Manipulation, Leadership, Subterfuge.                ║
+║ - If your true intentions eventually become clear, nobody will trust you.                        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: Anima Control (♠♠♠♠♠) - EvWoD                                                             ║
+║ - Banner flares when and only when you want it to. Can flare as torch or bonfire brightness.     ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Flaw: Defensive (♠) - Hunter                                                                     ║
+║ - Will always put up a fight to avoid accepting blame or criticism.                              ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Impractical Dresser (♠) - Hunter                                                           ║
+║ - Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics & Dodge.        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Insubordinate (♠) - C20                                                                    ║
+║ - When given a command/request from non-respected leader, roll WP diff 5 or work against it.     ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Overconfident (♠) - M20                                                                    ║
+║ - Almost never back down from a challenge, no matter the odds, and failure is others' faults.    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Short Temper (♠) - Hunter                                                                  ║
+║ - If get no successes on any extended roll, further of those rolls get +1 diff cumulatively.     ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Low Pain Tolerance (♠♠) - Hunter                                                           ║
+║ - Increase wound penalties by 1 when injured.                                                    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Mark of the Predator (♠♠) - W20                                                            ║
+║ - Herbivores shy away, carnivores see you as potential threat. May not possess Animal Ken.       ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Winged (♠♠) - C20                                                                          ║
+║ - Vestigal wings, +1 diff Dexterity when not free.                                               ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Background Left Behind: Supernatural Status (♠♠∙∙∙)                                              ║
 ║ - Considered respected within supernatural society.                                              ║

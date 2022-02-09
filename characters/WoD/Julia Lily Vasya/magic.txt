@@ -2,20 +2,40 @@
 ║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ General Charm: Key to the Kingdom (♠)                                                            ║
-║ - ??                                                                                             ║
+║ - Reflexively spend 1 Ess & choose an ability, for (Ess+1) turns in combat, or mins out of it,   ║
+║   add (attr being rolled + ability chosen) dice to all rolls using the Ability.                  ║
+║ - Available abilities: All marked as Key.                                                        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Night Realm Charm: Naked Wicked Souls (♠)                                                        ║
-║ - ??                                                                                             ║
+║ - Spend a turn examining target, spend 1 Ess & roll Perception + Empathy vs diff of target's     ║
+║   (Wits + Subterfuge). Success reveals deed in all target's history they're most ashamed of.     ║
+║ - With 3+ successes, learn some specific details (names, dates, things might have seen if were   ║
+║   present). With 5+, learn more than target knows, such as long-term consequences.               ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Night Realm Charm: Witness to Darkness (♠)                                                       ║
-║ - ??                                                                                             ║
+║ - -1 diff to Manipulation rolls. +1 diff all rolls in dense crowds (80% stadium capacity, have   ║
+║   to speak loud to be heard, no elbow room, etc. Proximity matters, addressing crowd from a      ║
+║   point with elbow room doesn't count).                                                          ║
+║ - Can see in the dark. With Arcane Eye, Auras shine twice as far in the dark.                    ║
+║ "You are set apart from others - it is your place to speak in private confidence to those worthy ║
+║ of your time, and it is your place to command the rabble, but you should not sully yourself by   ║
+║ acting as a member of that very rabble - first among equals will never apply to you because you  ║
+║ have no equals."                                                                                 ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Demon City Charm: Nightmare Fugue Vigilance (♠)                                                  ║
-║ - ??                                                                                             ║
+║ - Never need to sleep, nor suffer sleep deprivation.                                             ║
+║ - If sleep, suffer nightmares, and roll WP diff 7 upon waking to regain WP.                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Demon City Charm: By Rage Recast (♠♠)                                                            ║
-║ - ??                                                                                             ║
+║ - Select a Demonic Aspect (not Hardened Devil Body). Chosen: Flight.                             ║
+║ - Concentrate for action & roll Ess diff 7, or reflexively spend 1 Ess, to manifest Aspect.      ║
+║ - Can manifest any/all chosen Aspects this way, all auto-manifest when banner flares.            ║
+║ - To not manifest with banner, must roll WP diff 7.                                              ║
+║ - Can purchase Ess Rating times. Aspects don't have to match ones in Shintai form.               ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Burning Maggots Charm: Anonymity Through Propriety (♠♠)                                          ║
-║ - ??                                                                                             ║
+║ - Spend 1 Ess & roll Charisma + Etiquette, diff 4, effect lasts for rest of scene.               ║
+║ - Anyone without WP > successes can't notice you unless directly interact with them.             ║
+║ - If take indirect action that would cause distress, and char has 5+ WP, they can spend 1 WP &   ║
+║   roll WP diff 7 to be able to acknowledge/confront you.                                         ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
