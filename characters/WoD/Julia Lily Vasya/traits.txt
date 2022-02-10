@@ -53,13 +53,10 @@
 ║ - Will always put up a fight to avoid accepting blame or criticism.                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Impractical Dresser (♠) - Hunter                                                           ║
-║ - Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics & Dodge.        ║
+║ - Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics.                ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Insubordinate (♠) - C20                                                                    ║
 ║ - When given a command/request from non-respected leader, roll WP diff 5 or work against it.     ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Overconfident (♠) - M20                                                                    ║
-║ - Almost never back down from a challenge, no matter the odds, and failure is others' faults.    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Short Temper (♠) - Hunter                                                                  ║
 ║ - If get no successes on any extended roll, further of those rolls get +1 diff cumulatively.     ║

@@ -338,7 +338,7 @@ Dark Ages WC Charms
 |----------------|----------------------|------------------------------|
 | Activist       | Action               | Outrage                      |
 | Architect      | Purpose              | Obsession                    |
-| Artist         | Expression           | Stick in Your Own Head       |
+| Artist         | Expression           | Stuck in Your Own Head       |
 | Benefactor     | Altruism             | Obligation                   |
 | Bon Vivant     | Love of Life         | Superficiality               |
 | Caregiver      | Kindness             | Insecurity                   |
@@ -371,6 +371,23 @@ Dark Ages WC Charms
 | Visionary      | Inspiration          | Pride                        |
 | Zealot         | Conviction           | Extremity                    |
 |----------------|----------------------|------------------------------|
+| Autocrat
+| Bravo
+| Capitalist
+| Celebrant
+| Chameleon
+| Competitor
+| Conniver
+| Creep Show
+| Curmudgeon
+| Dabbler
+| Deviant
+| Enigma
+| Eye of the Storm
+| Fanatic
+| Gallant
+| Guru
+
 
 
 The King and Kingdom (total 5 points)

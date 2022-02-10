@@ -88,11 +88,11 @@
 ║ - Base Form: ??                                                                                  ║
 ║ - Aspect: Flight (Wings in apperance, actually just magic hovering)                              ║
 ║ - Aspect: Camoflauge                                                                             ║
-║ - Aspect: ??                                                                                     ║
-║ - Aspect: ??                                                                                     ║
-║ - Aspect: ??                                                                                     ║
-║ - Aspect: ??                                                                                     ║
-║ - Aspect: ??                                                                                     ║
+║ - Aspect: Transcendent Anathema                                                                  ║
+║ - Aspect: Swift Stride                                                                           ║
+║ - Aspect: Stealthy                                                                               ║
+║ - Aspect: Keen (Sight)                                                                           ║
+║ - Aspect: Hardened Devil Body                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Infernal Rules: Urge of The Conqueror                                                    ║
 ║ - 1/scene, regain 2 Essence when forcing enemy or powerful figure to submit to my will.          ║

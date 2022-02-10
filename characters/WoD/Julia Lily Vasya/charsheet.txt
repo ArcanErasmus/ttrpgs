@@ -13,8 +13,8 @@
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
 ║ Strength   │ ♠∙∙∙∙ │           ║ Charisma   │ ♠♠♠♠♠ │ Regal     ║ Perception   │ ♠♠♠♠∙ │ Insight ║
-║ Dexterity  │ ♠♠♠♠♠ │ Coordind  ║ Manipulatn │ ♠♠♠♠∙ │ Guile     ║ Intelligence │ ♠♠∙∙∙ │         ║
-║ Stamina    │ ♠∙∙∙∙ │           ║ Appearance │ ♠♠∙∙∙ │           ║ Wits         │ ♠♠♠∙∙ │         ║
+║ Dexterity  │ ♠♠♠♠♠ │ Coordind  ║ Manipulatn │ ♠∙∙∙∙ │           ║ Intelligence │ ♠♠∙∙∙ │         ║
+║ Stamina    │ ♠∙∙∙∙ │           ║ Appearance │ ♠♠♠♠♠ │           ║ Wits         │ ♠♠♠∙∙ │         ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -25,7 +25,7 @@
 ║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ∙∙∙∙∙ │         ║
 ║ Expression │ ∙∙∙∙∙ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
 ║ Intimidatn │K♠♠♠♠♠ │ Terror    ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠♠∙∙∙ │ DemonQn ║
-║ Leadership │K♠∙∙∙∙ │           ║ Perform    │ ∙∙∙∙∙ │           ║ Politics     │K♠♠♠∙∙ │ PwrBrkr ║
+║ Leadership │K♠∙∙∙∙ │           ║ Perform    │ ∙∙∙∙∙ │           ║ Politics     │K♠♠♠∙∙ │         ║
 ║ Streetwise │ ∙∙∙∙∙ │           ║ Stealth    │K♠♠♠∙∙ │           ║ Science      │ ∙∙∙∙∙ │         ║
 ║ Subterfuge │K♠♠♠♠♠ │ Undermne  ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ∙∙∙∙∙ │         ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -37,11 +37,11 @@
 ║ Demonic Guide      │ ♠♠♠♠♠     ║ Common Sense       │ ♠         ║ Defensive            │ ♠       ║
 ║                    │           ║ Regal Bearing      │ ♠         ║ Impractical Dresser  │ ♠       ║
 ║                    │           ║ Smooth             │ ♠         ║ Insubordinate        │ ♠       ║
-║                    │           ║ Arcane Eye         │ ♠♠        ║ Overconfident        │ ♠       ║
-║                    │           ║ Crack Shot         │ ♠♠        ║ Short Temper         │ ♠       ║
-║                    │           ║ Poker Face         │ ♠♠        ║ Low Pain Tolerance   │ ♠♠      ║
-║                    │           ║ Sanctity           │ ♠♠        ║ Mark of the Predator │ ♠♠      ║
-║                    │           ║ Dark Triad         │ ♠♠♠       ║ Winged               │ ♠♠      ║
+║                    │           ║ Arcane Eye         │ ♠♠        ║ Short Temper         │ ♠       ║
+║                    │           ║ Crack Shot         │ ♠♠        ║ Low Pain Tolerance   │ ♠♠      ║
+║                    │           ║ Poker Face         │ ♠♠        ║ Mark of the Predator │ ♠♠      ║
+║                    │           ║ Sanctity           │ ♠♠        ║ Winged               │ ♠♠      ║
+║                    │           ║ Dark Triad         │ ♠♠♠       ║                      │         ║
 ║                    │           ║ Anima Control      │ ♠♠♠♠♠     ║                      │         ║
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
 ║ Charms - Key: NR & DC                               │ Notes                                      ║
