@@ -34,13 +34,13 @@
 ╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═════════╣
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value   ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
-║ Demonic Guide      │ ♠♠♠♠♠     ║ Common Sense       │ ♠         ║ Defensive            │ ♠       ║
-║                    │           ║ Regal Bearing      │ ♠         ║ Impractical Dresser  │ ♠       ║
-║                    │           ║ Smooth             │ ♠         ║ Insubordinate        │ ♠       ║
-║                    │           ║ Arcane Eye         │ ♠♠        ║ Short Temper         │ ♠       ║
-║                    │           ║ Crack Shot         │ ♠♠        ║ Low Pain Tolerance   │ ♠♠      ║
-║                    │           ║ Poker Face         │ ♠♠        ║ Mark of the Predator │ ♠♠      ║
-║                    │           ║ Sanctity           │ ♠♠        ║ Winged               │ ♠♠      ║
+║ Demonic Guide      │ ♠♠♠♠♠     ║ Common Sense       │ ♠         ║ Impractical Dresser  │ ♠       ║
+║                    │           ║ Regal Bearing      │ ♠         ║ Low Pain Tolerance   │ ♠♠      ║
+║                    │           ║ Smooth             │ ♠         ║ Mark of the Predator │ ♠♠      ║
+║                    │           ║ Arcane Eye         │ ♠♠        ║ Winged               │ ♠♠      ║
+║                    │           ║ Crack Shot         │ ♠♠        ║ Thrall of the Wyrm   │ ♠♠♠     ║
+║                    │           ║ Poker Face         │ ♠♠        ║                      │         ║
+║                    │           ║ Sanctity           │ ♠♠        ║                      │         ║
 ║                    │           ║ Dark Triad         │ ♠♠♠       ║                      │         ║
 ║                    │           ║ Anima Control      │ ♠♠♠♠♠     ║                      │         ║
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
