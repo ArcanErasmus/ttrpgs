@@ -3,9 +3,9 @@
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Archetype - Artist Nature, Director Demeanor:                                                    ║
 ║ - Artist: Strength in ??, weakness in ??                                                         ║
-║     - Regain Willpower when you ??.                                                              ║
+║   - Regain Willpower when you ??.                                                                ║
 ║ - Director: Strength in ??, weakness in ??                                                       ║
-║     - Regain Willpower when you ??.                                                              ║
+║   - Regain Willpower when you ??.                                                                ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Intimacies:                                                                                      ║
 ║ - Principle: I have no equals.                                                                   ║
@@ -15,39 +15,44 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Backstory:                                                                                       ║
 ║ - Childhood                                                                                      ║
-║     - Mom who didn't want her. Stepdad who wanted her mom, didn't care about her.                ║
-║     - Was successful at navigating school social circles, but had no deep friendships.           ║
+║   - Mom who didn't want her. Stepdad who wanted her mom, didn't care about her.                  ║
+║   - Was successful at navigating school social circles, but had no deep friendships.             ║
 ║ - Adolescence                                                                                    ║
-║     - Due to her confidence and skills at brown-nosing, found a good secretary job.              ║
-║     - Coworker had a friend of friend who was looking for someone with social skills, to be a    ║
-║       recon, and she accepted the offer. Had success working with this "detective agency".       ║
+║   - Due to her confidence and skills at brown-nosing, found a good secretary job.                ║
+║   - Coworker had a friend of friend who was looking for someone with social skills, to be a      ║
+║     recon, and she accepted the offer. Had success working with this "detective agency".         ║
 ║ - Entry into the supernatural world                                                              ║
-║     - A recon job at a club goes south, she is used as a body shield, takes gun and kills her    ║
-║       attacker. Her office boss sends her home to recover for indefinite paid leave.             ║
-║     - Starts to question her own memories of the event, of the weird lines of interrogation that ║
-║       she was told to ask her targets, and the very clear vulgar magick she witnessed.           ║
-║     - After lifting mental blocks, she reaches out to the "detective agency", and demands they   ║
-║       give her answers. Always lacking in non-coerced recruits, they gladly accept her.          ║
+║   - A recon job at a club goes south, she is used as a body shield, takes gun and kills her      ║
+║     attacker. Her office boss sends her home to recover for indefinite paid leave.               ║
+║   - Starts to question her own memories of the event, of the weird lines of interrogation that   ║
+║     she was told to ask her targets, and the very clear vulgar magick she witnessed.             ║
+║   - After lifting mental blocks, she reaches out to the "detective agency", and demands they     ║
+║     give her answers. Always lacking in non-coerced recruits, they gladly accept her.            ║
 ║ - Joining a supernaturally-aware mercenary group                                                 ║
-║     - The "detective agency" takes the gloves off, esp because they liked her pistol skills, and ║
-║       she jumps on the opportunity for firearms training. She slowly moves from peaceful recon   ║
-║       to pre-combat recon.                                                                       ║
+║   - The "detective agency" takes the gloves off, esp because they liked her pistol skills, and   ║
+║     she jumps on the opportunity for firearms training. She slowly moves from peaceful recon to  ║
+║     pre-combat recon.                                                                            ║
 ║ - A mission gone wrong                                                                           ║
-║     - The merc group is tasked to go after an Alchemical. Julia is sent in to do recon, but he   ║
-║       figures out something is amiss, and counter-ambushes the rest of the group. Julia is saved ║
-║       when their mysterious and very ideological arms supplier, Smithy, joins the fray.          ║
-║     - Smithy drags her to one of their other contacts, the in-the-know Doctor Woebegone, who     ║
-║       treats her immediate injuries, but her ruined eyes aren't urgent.                          ║
+║   - The merc group is tasked to go after an Alchemical. Julia is sent in to do recon, but he     ║
+║     figures out something is amiss, and counter-ambushes the rest of the group. Julia is saved   ║
+║     when their mysterious and very ideological arms supplier, Smithy, joins the fray.            ║
+║   - Smithy drags her to one of their other contacts, the in-the-know Doctor Woebegone, who       ║
+║     treats her immediate injuries, but her ruined eyes aren't urgent.                            ║
 ║ - Exaltation                                                                                     ║
-║     - the misery and anger of recovery is the beacon for exaltation                              ║
-║     - turning my image around, becoming a *professional*                                         ║
-║     - growing a small cult                                                                       ║
-║     - The Portal                                                                                 ║
+║   - The misery and anger of her helplessness during the attack, left to stew at home without her ║
+║     eyesight, was the perfect storm to beckon the demonic messenger.                             ║
+║                                                                                                  ║
+║                                                                                                  ║
+║                                                                                                  ║
+║                                                                                                  ║
+║   - turning my image around, becoming a *professional*                                           ║
+║   - growing a small cult                                                                         ║
+║   - The Portal                                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Family: ??                                                                                       ║
-║ - PARENT A                                                                                       ║
-║ - PARENT B                                                                                       ║
-║ - FAMILY STATUS                                                                                  ║
+║ - ?? Vasya (Mom)                                                                                 ║
+║ - ?? ?? (Stepdad)                                                                                ║
+║ - dad died? left? mom found shitty men                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Skills:                                                                                          ║
 ║ - ??                                                                                             ║

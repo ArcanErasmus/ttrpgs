@@ -5,7 +5,7 @@
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Hargendorf, Nordland
 - Religion: Rhya, and just a smidge of the Northern Gods
-- Star Sign: Dragomas the Drake, born 18/3/2494
+- Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
 - Short-term ambition: Meet Peronelle's Daughter
@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1505/1505
+## Total/Spent XP: 1525/1585
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -35,6 +35,7 @@
 |   50 |   0 |   5 | Lore (Trees)
 |   50 |   0 |   5 | Melee (Two-Handed)
 |   50 |   0 |   5 | Ranged (Throwing)
+|   20 |   3 |   5 | Sail
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
@@ -59,8 +60,8 @@
 | W   | 27 | 27
 | F/F |  4 |  4
 | R/R |  2 |  3
-| M   |  4 |
-| Cor | 10 |  0
+| M   |  4 |  2
+| Cor | 10 |  3
 
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
@@ -97,7 +98,7 @@
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
-|   | Sail               |  3 | Ag  | 33 |
+|   | Sail               |  5 | Ag  | 35 |
 |   | Stealth            |    | Ag  |    |
 |!C | Swim               | 15 | S   | 70 |
 | C | Trade (Feller)     |  1 | S   | 56 |
@@ -107,6 +108,11 @@
 |!C$| Melee (Basic)      | 15 | WS  | 62 |
 | C | Melee (Two-Handed) |  5 | WS  | 52 |
 | C | Ranged (Throwing)  |  5 | BS  | 37 |
+
+## Injuries
+### Torn Leg Muscle (Minor)
+- 17 days remaining
+- Movement halved, -10 to all tests using the leg
 
 ## Traits
 ### Big

@@ -47,7 +47,7 @@
 ║ - If your true intentions eventually become clear, nobody will trust you.                        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Anima Control (♠♠♠♠♠) - EvWoD                                                             ║
-║ - Banner flares when and only when you want it to. Can flare as torch or bonfire brightness.     ║
+║ - Banner flares when and only when you want it to. Can flare from torch to bonfire brightness.   ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Flaw: Impractical Dresser (♠) - Hunter Player's Guide                                            ║
 ║ - Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics.                ║
@@ -66,11 +66,11 @@
 ║   Intimacies, or whenever someone tries to exercise power/authority over you.                    ║
 ║ - At 10, enter Torment and reset Limit. When in Torment, Nature changes to new Archetype, lasts  ║
 ║   from few hours to 2-3 days, burns out faster by committing regrettable acts. Archetypes:       ║
-║     - Destroyer: Regain WP when destroy something precious/useful, like artifact or relationshp. ║
-║     - Enslaver: Regain WP when subvert another's will to your own.                               ║
-║     - Sadist: Regain WP when deliberately cause great pain (physical/emotional/spiritual).       ║
-║     - Tyrant: Regain WP when utterly destroy/ruin someone who opposes you.                       ║
-║     - Vivisectionist: Regain WP when your twisted experiments yield useful information.          ║
+║   - Destroyer: Regain WP when destroy something precious/useful, like artifact or relationshp.   ║
+║   - Enslaver: Regain WP when subvert another's will to your own.                                 ║
+║   - Sadist: Regain WP when deliberately cause great pain (physical/emotional/spiritual).         ║
+║   - Tyrant: Regain WP when utterly destroy/ruin someone who opposes you.                         ║
+║   - Vivisectionist: Regain WP when your twisted experiments yield useful information.            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Background Left Behind: Supernatural Status (♠♠∙∙∙)                                              ║
 ║ - Considered respected within supernatural society.                                              ║

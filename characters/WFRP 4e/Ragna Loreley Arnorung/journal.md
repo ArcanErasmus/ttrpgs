@@ -6,6 +6,12 @@
     - 1x Gor
     - 3x Ungor
     - 4x Wolf
+    - 2x Mutant Humans
+
+- Trophies:
+    - Large Squid Beak
+    - Minotaur Head
+    - Shark full jaw + teeth
 
 ## Short Bio
 - Moms: Hildur Arnorung and Stephanie of Hargendorf

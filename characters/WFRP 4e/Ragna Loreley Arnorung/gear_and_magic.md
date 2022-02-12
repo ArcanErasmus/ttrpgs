@@ -7,7 +7,7 @@
 | Leather Skullcap | xxxx |      |      |      |      |      |      |  1 | Partial
 | Leather Leggings |      |      |      |      | xxxx | xxxx |      |  1 |
 | Mail Coat        |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
-| Minotaur Helm    | xxxx |      |      |      |      |      |      |  2 | Fear 1, Partial, Ugly
+| Horned Helm      | xxxx |      |      |      |      |      |      |  2 | Partial, Ugly
 | Shield (Large)   |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
 |------------------|------|------|------|------|------|------|------|----|-----------------
 | Summary          |    3 |    3 |    3 |    3 |    1 |    1 |    3 |
@@ -38,12 +38,13 @@
 | Leather Skullcap         |     |   W | Partial
 | Leather Leggings         |   1 |   W |
 | Mail Coat                |   3 |   W | Flexible
-| Minotaur Helm            |   2 |   W | `Nerf Fear into Intimidate bonus, or make this a future commission`
+| Horned Helm              |   2 |   W | Partial, Ugly
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Animal Hide Cloak        |   1 |   W |
 | Clothing                 |   1 |   W | Long sleeves and overalls
+| Kill Trophies            |     |     | See journal
 | Tribe Tattoos            |     |   W | Mix of low-key Skaeling, family crest, and Rhya
 |--------------------------|-----|-----|--------------------------------
 | **Tools/Kits**           |     |     |
@@ -82,3 +83,9 @@
 - Must aid when threatened physically or socially
 - +1 SL all tests to support or defend them
 - Immune to Fear and Intimidation while defending them
+
+## Inventory of The Svettbukk
+- 38 GC 17/7
+- 2x sword
+- 1x dagger
+- 1x crowbar
