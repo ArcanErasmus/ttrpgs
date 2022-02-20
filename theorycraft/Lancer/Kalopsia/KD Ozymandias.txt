@@ -1,0 +1,36 @@
+K/D Ozymandias
+
+Decided Stats:
+Size 4
+Armor 1
+Speed 2
+Evasion sucks, E-Def quite decent
+
+Flavored - Forward Operating Suite
+
+Frame Traits
+
+- Behemoth
+- Heavy Frame
+- Glacial - +1 diff on Agiligy checks/saves, and speed does not increase from Agility.
+
+Onboard Core System - 
+Passive - (logistics, multiple profiles, different roles)
+Module - Recon
+- deny enemies a deployment zone, or choose some enemies and force them to pick different zone
+- [Master Fire Control] frame trait
+- (penalty)
+
+Module - Shock & Awe
+- start with a couple autonomous car bombs
+- (double range of core active?)
+- (penalty)
+
+Module - Defense in Depth
+- +3 Armor
+- place defensive terrain? pre-deploy mines/drones?
+- -1 Speed
+
+Active - STARSPURN BROADSIDE SCREEN
+free action, gain a quick action
+- Range from 8 to 15, create a lines or a few (5?) tiles of dangerous terrain that last until end of scene
