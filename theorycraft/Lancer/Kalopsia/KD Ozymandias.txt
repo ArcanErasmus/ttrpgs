@@ -4,7 +4,16 @@ Decided Stats:
 Size 4
 Armor 1
 Speed 2
-Evasion sucks, E-Def quite decent
+
+Poor Evasion
+Average EDef
+Poor Repair Cap
+High System Points
+High HP
+Average Heat Cap
+Average to Poor Tech Attack
+Average to High Sensors
+
 
 Flavored - Forward Operating Suite
 
@@ -14,7 +23,9 @@ Frame Traits
 - Heavy Frame
 - Glacial - +1 diff on Agiligy checks/saves, and speed does not increase from Agility.
 
-Onboard Core System - 
+Mounts: Aux/Aux, Heavy
+
+Onboard Core System - Look Upon My Works
 Passive - (logistics, multiple profiles, different roles)
 Module - Recon
 - deny enemies a deployment zone, or choose some enemies and force them to pick different zone
@@ -34,3 +45,18 @@ Module - Defense in Depth
 Active - STARSPURN BROADSIDE SCREEN
 free action, gain a quick action
 - Range from 8 to 15, create a lines or a few (5?) tiles of dangerous terrain that last until end of scene
+
+
+LL1:
+-Interceptor Hive - size 3 drone system; all movement is flight; can occupy same spaces as other characters; at the end of the controllers turn any enemy characters sharing a space take 2 kinetic; any flyers damaged this way must pass a hull save or land; enemy attacks that trace a path through the hive receive +1 difficulty
+-point defence battery - range 5 AUX Rifle; can hit two different targets for 2 kinetic damage each; gain defense screen reaction: 1/round when the ozymandius is hit by an attack, it gains 2 overshield before damage is received
+LL2:
+-coordinated fire control - system; gain the sneer of cold command reaction: 1/round when an ally or drone damages an enemy in sensors, mark them. marked enemies receive +1 damage for every previous time they have been damaged by an ally or drone system until the end of your next turn
+-Modular combat subalterns - non-unique size 2 drone system; can occupy same spaces as other characters; resistance vs non template weapons; when printed or during full repair select one of three profiles for each installed system:
+
+CQB - at the end of the controllers turn deal 2 kinetic damage to any character in a burst 2 and 4 kinetic to any character sharing a space with the drone
+Anti-Armor - at the end of the controllers turn deal 6 AP explosive damage to one character in range 6 of the drone; they may make an agility save for half damage
+Spec-ops - the drone is invisible; if the drone is in cover at the end of the controllers turn and it resolves all of it's other effects it becomes hidden; if an enemy attempts to remove hidden with a search action they roll against a difficulty of the controllers save target not contested; at the end of the controller's turn they deal 2 energy damage to any character sharing a space with them; if they are hidden they instead deal 4 AP energy damage and the targets must make a engineering save or become impaired and slowed
+LL3:
+-Mass Reactive Explosive Stake - range 15 Heavy cannon; middling AP damage (probably flat); on hit hull save or become shredded until the end of their next turn; steak MRE heeheehee
+-King-Slayer combat sub alterns - size 1/2 limited 1 drone system; at the end of it's controllers turn this drone may Jockey using it's controllers grit and talents

@@ -89,6 +89,9 @@
 ║ - When pressured to betray an Intimacy (incl. supernatural), roll WP diff 8 to resist.           ║
 ║ - 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Caste/Aspect/Key Abilities                                                 ║
+║ - When rolling a pool that involves a caste/aspect/key ability, 1s do not subtract successes.    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: Anima Banner                                                               ║
 ║ - After spending 3 Essence in a scene, Banner flares visible to naked eye, as bright as bonfire. ║
 ║ - Banner fades after (3 x Essence Rating) minutes.                                               ║
