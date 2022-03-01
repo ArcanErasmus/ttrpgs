@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1525/1585
+## Total/Spent XP: 1575/1585
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -36,6 +36,7 @@
 |   50 |   0 |   5 | Melee (Two-Handed)
 |   50 |   0 |   5 | Ranged (Throwing)
 |   20 |   3 |   5 | Sail
+|   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
@@ -190,7 +191,7 @@
 
 ### Bondsman - Brass 5
 - Attr: WS, S, WP
-- Skills: Consume Alcohol, Cool, Dodge, Endurance, Lore (Norsca), *Melee (Basic)*, Row, Swim
+- Skills: Athletics, Consume Alcohol, Cool, Dodge, Endurance, Lore (Norsca), *Melee (Basic)*, Row, Swim
 - Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees)
 - Talents: Dual Wielder, Frenzy, Slayer, Sturdy
 - Rhya Talents: Savvy
