@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1575/1585
+## Total/Spent XP: 1575/1665
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -56,8 +56,8 @@
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
-| Att | #  | ? |
-|-----|----|---|
+| Att | #  | ?  |
+|-----|----|----|
 | W   | 27 | 27
 | F/F |  4 |  4
 | R/R |  2 |  3
