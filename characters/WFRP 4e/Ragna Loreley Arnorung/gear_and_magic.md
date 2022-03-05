@@ -85,7 +85,8 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
-- 38 GC 17/7
-- 2x sword
+- 4 GC -/-
+- 2x hand weapon
 - 1x dagger
 - 1x crowbar
+- 25x lumber (10 enc/unit) (purchased at 1.2 GC/unit [includes 20% discount])

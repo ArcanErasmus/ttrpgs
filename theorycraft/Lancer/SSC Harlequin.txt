@@ -1,0 +1,73 @@
+Harlequin
+Mourning Cloak Alt-Frame
+
+Frame Trait Ideas:
+- Can contest Hull checks (just grapples?) with Agility
+- Can grapple targets at a range of its weapon threat
+
+- 1/rd reaction, pivot yourself around a grappled target, doesn't provoke opy
+- 1/rd reaction, pivot grappled target around yourself, doesn't provoke opy, can't push into dangerous terrain? (or other hazards?)
+
+Mounts:
+- Main/Aux
+
+Core Passive:
+- Integrated aux weapon (Swordbreaker/Parrying Dagger), can only attack as reaction against a character that misses you, on crit apply Jammed for a turn
+
+Core Active Ideas:
+- Make enemies attack themselves
+- Take enemy hostage
+
+
+
+
+
+
+SSC Harlequin
+(Mourning Cloak Alt-Frame)
+Striker/Controller
+
+Structure:4 
+Stress:4 
+Size:1
+Armor: 0
+HP: 8
+Evasion: 12
+EDef: 8
+HeatCap: 4
+RepCap: 3
+Sensors: 10
+TechAtk: 1
+Save: 10
+Speed: 4
+SP: 6
+
+Mounts:
+Main/Aux
+
+Traits: 
+Les Bouffons
+The Harlequin may contest opposed hull checks with its agility.
+
+???
++1 accuracy on agility checks and saves.
+
+Danse Macabre
+The Harlequin may grapple characters within the threat range of its melee weapons, and as a reaction 1/round, The Harlequin may force a target it is grappling to change places with itself. This movement counts as teleportation.
+
+
+OR
+The Harlequin may teleport into spaces occupied by other characters whereupon the character takes 3AP Energy Damage and teleports to the place previously occupied by the Harlequin.
+
+
+Core Passive La Meraviglia 
+Whenever you crit with a weapon you gain a charge (up to 6)
+-spend 2 charges to swap places with someone and redirect an attack/invade that missed you onto them. 
+-spend 4 charges Single out an enemy for a duel
+-spend 6 charges for some crazy backstab or exposed condition
+
+Core Power
+Parrying dagger that attacks on missed attacks and jams on a crit.
+
+
+i wanna make this mech really shine with the Combined Arms, Duelist, and Hunter  talent trees 

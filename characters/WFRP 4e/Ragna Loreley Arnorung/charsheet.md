@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1525/1585
+## Total/Spent XP: 1675/1725
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -26,6 +26,7 @@
 |  100 |   0 |   1 | Furious Assault
 |  100 |   0 |   1 | Mark of the Gods
 |  100 |   0 |   1 | Savvy
+|  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
 |   50 |   0 |   5 | Endurance
@@ -36,6 +37,7 @@
 |   50 |   0 |   5 | Melee (Two-Handed)
 |   50 |   0 |   5 | Ranged (Throwing)
 |   20 |   3 |   5 | Sail
+|   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
@@ -43,7 +45,7 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |    |  6 |    | 47 |
+|^WS  | 41 |  5 |  6 |    | 52 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
 |^T   | 55 |  5 |    |    | 60 |
@@ -55,9 +57,9 @@
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
-| Att | #  | ? |
-|-----|----|---|
-| W   | 27 | 27
+| Att | #  | ?  |
+|-----|----|----|
+| W   | 27 | 26
 | F/F |  4 |  4
 | R/R |  2 |  3
 | M   |  4 |  2
@@ -105,8 +107,8 @@
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 62 |
-| C | Melee (Two-Handed) |  5 | WS  | 52 |
+|!C$| Melee (Basic)      | 15 | WS  | 67 |
+| C | Melee (Two-Handed) |  5 | WS  | 57 |
 | C | Ranged (Throwing)  |  5 | BS  | 37 |
 
 ## Injuries
@@ -181,6 +183,9 @@
 ### Very Resilient [1/1]
 - +5 T
 
+### Warrior Born [1/1]
+- +5 WS
+
 ## Career Info
 ### Homeland Skills
 - Consume Alcohol, Cool, Gossip, Haggle, Language (Norse), Language (Wastelander), Lore (Nordland), Melee (Basic), Ranged (Throwing), Row, Sail, Swim
@@ -190,7 +195,7 @@
 
 ### Bondsman - Brass 5
 - Attr: WS, S, WP
-- Skills: Consume Alcohol, Cool, Dodge, Endurance, Lore (Norsca), *Melee (Basic)*, Row, Swim
+- Skills: Athletics, Consume Alcohol, Cool, Dodge, Endurance, Lore (Norsca), *Melee (Basic)*, Row, Swim
 - Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees)
 - Talents: Dual Wielder, Frenzy, Slayer, Sturdy
 - Rhya Talents: Savvy
@@ -254,7 +259,7 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1615
+### Rank 2->3: 1515
 - Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
@@ -268,9 +273,8 @@
     - Lore (Trees)       |  5->10 |  75
     - Trade (Feller)     |  1-> 5 |  40
     - Ranged (Throwing)  |  5->10 |  75
-- Talents: 400
+- Talents: 300
     - Berserk Charge |  ->2 | 300
-    - Warrior Born   |  ->1 | 100
 
 ## Rank 3->4 xp
 ### Bare Minimum 3->4: 1625

@@ -3,9 +3,9 @@
 ╠════════════════════════════════╩════════════════╤════════════════════════════════════════════════╣
 ║ Gear                                            │ Gear                                           ║
 ╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
-║ - Combat knife & sheathe                        │ - Glock 17 +1 mag, +1 subsonic mag, suppressor ║
+║ - Stiletto & sheath                             │ - Glock 17 +1 mag, +1 subsonic mag, suppressor ║
 ║ - Phone, wallet, keys                           │ - White suit, kevlar undershirt, flats         ║
-║ - ??                                            │ - ??                                           ║
+║ - ??                                            │ - Suitcase with toiletries & extra clothes     ║
 ║ - ??                                            │ - ??                                           ║
 ╠════════════════════════╤══════╤════════╤════════╧╤═══════════════════════════════════════════════╣
 ║ Melee Weapons          │ Diff │ Damage │ Conceal │ Notes                                         ║

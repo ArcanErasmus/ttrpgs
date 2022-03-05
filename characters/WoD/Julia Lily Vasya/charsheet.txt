@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Concept - Coil/Luliana/TT      ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   0/  0         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   0/  0         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ░░░░░ ░░░░░                      └─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠∙∙∙∙                                              ║
 ║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠                                        ║
@@ -18,16 +18,16 @@
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
-║ Alertness  │ ♠♠♠∙∙ │           ║ Animal Ken │x-----x│           ║ Academics    │ ∙∙∙∙∙ │         ║
-║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Computer     │ ∙∙∙∙∙ │         ║
-║ Awareness  │ ∙∙∙∙∙ │           ║ Drive      │ ∙∙∙∙∙ │           ║ Finance      │ ∙∙∙∙∙ │         ║
-║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠♠∙∙ │           ║ Investigatn  │ ∙∙∙∙∙ │         ║
-║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠♠∙ │ SmCaliber ║ Law          │ ∙∙∙∙∙ │         ║
-║ Expression │ ∙∙∙∙∙ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
-║ Intimidatn │K♠♠♠♠♠ │ Terror    ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠♠∙∙∙ │ DemonQn ║
-║ Leadership │K♠∙∙∙∙ │           ║ Perform    │ ∙∙∙∙∙ │           ║ Politics     │K♠♠♠∙∙ │         ║
-║ Streetwise │ ∙∙∙∙∙ │           ║ Stealth    │K♠♠♠∙∙ │           ║ Science      │ ∙∙∙∙∙ │         ║
-║ Subterfuge │K♠♠♠♠♠ │ Undermne  ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ∙∙∙∙∙ │         ║
+║ Alertness  │ ♠∙∙∙∙ │           ║ Animal Ken │x-----x│           ║ Academics    │ ♠∙∙∙∙ │         ║
+║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Cmptr/Enigma │ ♠∙∙∙∙ │         ║
+║ Awareness  │ ♠∙∙∙∙ │           ║ Drive/Ride │ ∙∙∙∙∙ │           ║ Finance/Sncl │ ♠∙∙∙∙ │         ║
+║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠∙∙∙ │           ║ Investigatn  │K♠♠♠♠∙ │ Deductn ║
+║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ∙∙∙∙∙ │         ║
+║ Expression │ ♠♠∙∙∙ │           ║ Larceny    │ ♠∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
+║ Intimidatn │K♠♠♠∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠∙∙∙∙ │ DemonQn ║
+║ Leadership │K♠∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ♠∙∙∙∙ │         ║
+║ Streetwise │ ♠∙∙∙∙ │           ║ Stealth    │K♠♠∙∙∙ │           ║ Science      │ ∙∙∙∙∙ │         ║
+║ Subterfuge │K♠♠♠∙∙ │           ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ∙∙∙∙∙ │         ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
 ║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
 ║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
