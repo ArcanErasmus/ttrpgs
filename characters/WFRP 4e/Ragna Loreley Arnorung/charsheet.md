@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1575/1665
+## Total/Spent XP: 1675/1725
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -26,6 +26,7 @@
 |  100 |   0 |   1 | Furious Assault
 |  100 |   0 |   1 | Mark of the Gods
 |  100 |   0 |   1 | Savvy
+|  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
 |   50 |   0 |   5 | Endurance
@@ -44,7 +45,7 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |    |  6 |    | 47 |
+|^WS  | 41 |  5 |  6 |    | 52 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
 |^T   | 55 |  5 |    |    | 60 |
@@ -58,7 +59,7 @@
 ## Secondary Attributes
 | Att | #  | ?  |
 |-----|----|----|
-| W   | 27 | 27
+| W   | 27 | 26
 | F/F |  4 |  4
 | R/R |  2 |  3
 | M   |  4 |  2
@@ -106,8 +107,8 @@
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 62 |
-| C | Melee (Two-Handed) |  5 | WS  | 52 |
+|!C$| Melee (Basic)      | 15 | WS  | 67 |
+| C | Melee (Two-Handed) |  5 | WS  | 57 |
 | C | Ranged (Throwing)  |  5 | BS  | 37 |
 
 ## Injuries
@@ -182,6 +183,9 @@
 ### Very Resilient [1/1]
 - +5 T
 
+### Warrior Born [1/1]
+- +5 WS
+
 ## Career Info
 ### Homeland Skills
 - Consume Alcohol, Cool, Gossip, Haggle, Language (Norse), Language (Wastelander), Lore (Nordland), Melee (Basic), Ranged (Throwing), Row, Sail, Swim
@@ -255,7 +259,7 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1615
+### Rank 2->3: 1515
 - Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
@@ -269,9 +273,8 @@
     - Lore (Trees)       |  5->10 |  75
     - Trade (Feller)     |  1-> 5 |  40
     - Ranged (Throwing)  |  5->10 |  75
-- Talents: 400
+- Talents: 300
     - Berserk Charge |  ->2 | 300
-    - Warrior Born   |  ->1 | 100
 
 ## Rank 3->4 xp
 ### Bare Minimum 3->4: 1625
