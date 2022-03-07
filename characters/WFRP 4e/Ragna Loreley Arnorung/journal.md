@@ -45,6 +45,11 @@ To become head of my own clan, with many loving partners. While dying in battle 
 ?
 - What are your religious beliefs?
 Rhya is responsible for my life and my lack of parenthood burdens. In her stead, I will protect the weak and the earth. In contrast, the War-God teaches strength in battle and glory in a violent death. To this end, bringing fury and giving love are both intimately pious acts. Other hints of the Northern Gods have trickled into my practices, wholly reinterpreted through an Imperial lens. Nurgle: His "blessings" of plague and famine are to be treated with utmost seriousness, lest they touch you or your loved ones, and are a sure sign of the gods' disfavor. Tzeentch: Magic is to be treated with fear and respect, and an offering to the powers that be should be made before any journey at sea (even a quick prayer before a swim is wise). Slaanesh: Everything in moderation, even moderation. For the last part, this generally means I try to only indulge in one thing at a time.
+- To The Hound: "Thank you for offering me challenge, that I may continue to improve myself."
+- To The Crow: "Thank you for judging me not deserving of smiting."
+- To The Snake: "Thank you for offering joys, that I may have respite from the stresses of the world."
+- To The Eagle: "Thank you for calming the seas, that I may swim and sail without being consumed by uncaring waters."
+A sample daily prayer:
 - To whom, or what, are you loyal?
 1. Her Norscan heritage, and her family (close and far)
 2. Her own needs and beliefs
