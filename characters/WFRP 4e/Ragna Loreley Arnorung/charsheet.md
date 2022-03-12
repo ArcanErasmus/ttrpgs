@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1675/1725
+## Total/Spent XP: 1750/1785
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -29,13 +29,14 @@
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
+|   20 |   0 |   2 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
 |   50 |   0 |   5 | Lore (Norsca)
-|   50 |   0 |   5 | Lore (Trees)
+|  125 |   0 |  10 | Lore (Trees)
 |   50 |   0 |   5 | Melee (Two-Handed)
-|   50 |   0 |   5 | Ranged (Throwing)
+|   65 |   0 |   6 | Ranged (Throwing)
 |   20 |   3 |   5 | Sail
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
@@ -75,7 +76,7 @@
 |   | Climb              |    | S   |    |
 |!C | Consume Alcohol    | 15 | T   | 75 |
 |!C | Cool               | 11 | WP  | 56 |
-| C | Dodge              |    | Ag  |    |
+| C | Dodge              |  2 | Ag  | 32 |
 |   | Drive              |    | Ag  |    |
 | C | Endurance          |  5 | T   | 65 |
 |   | Gamble             |    | Int |    |
@@ -96,7 +97,7 @@
 | C | Heal               |  5 | Int | 37 |
 | C | Language (Battle)  |  5 | Int | 37 |
 |   | Language (Norse)   |  5 | Int | 37 |
-| C | Lore (Trees)       |  5 | Int | 37 |
+| C | Lore (Trees)       | 10 | Int | 42 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
 |   | Ride               |    | Ag  |    |
@@ -109,7 +110,7 @@
 |---|--------------------|----|-----|----|------
 |!C$| Melee (Basic)      | 15 | WS  | 67 |
 | C | Melee (Two-Handed) |  5 | WS  | 57 |
-| C | Ranged (Throwing)  |  5 | BS  | 37 |
+| C | Ranged (Throwing)  |  6 | BS  | 38 |
 
 ## Injuries
 ### Torn Leg Muscle (Minor)
@@ -259,20 +260,19 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1515
+### Rank 2->3: 1405
 - Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
     - T  |  ->10 | 275
     - WP | 5->10 | 150
-- Skills: 520
+- Skills: 410
     - Athletics          |   ->10 | 125
     - Cool               | 11->15 |  80
-    - Dodge              |   -> 5 |  50
+    - Dodge              |  2-> 5 |  30
     - Endurance          |  5->10 |  75
-    - Lore (Trees)       |  5->10 |  75
     - Trade (Feller)     |  1-> 5 |  40
-    - Ranged (Throwing)  |  5->10 |  75
+    - Ranged (Throwing)  |  6->10 |  60
 - Talents: 300
     - Berserk Charge |  ->2 | 300
 

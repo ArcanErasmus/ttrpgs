@@ -85,7 +85,7 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
-- 4 GC -/-
+- 0 GC -/-
 - 2x hand weapon
 - 1x dagger
 - 1x crowbar
