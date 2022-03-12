@@ -49,11 +49,9 @@ Traits:
 Les Bouffons
 The Harlequin may contest opposed hull checks with its agility.
 
-???
-+1 accuracy on agility checks and saves.
 
 Danse Macabre
-The Harlequin may grapple characters within the threat range of its melee weapons, and as a reaction 1/round, The Harlequin may force a target it is grappling to change places with itself. This movement counts as teleportation.
+1/round when an attack misses the Harlequin, it may swap places with a different character within its threat. The attacker to reroll the attack, targeting the swapped character.
 
 
 OR
