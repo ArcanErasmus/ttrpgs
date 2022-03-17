@@ -5,7 +5,7 @@
 ╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
 ║ - Stiletto & sheath                             │ - Glock 17 +1 mag, +1 subsonic mag, suppressor ║
 ║ - Phone, wallet, keys                           │ - White suit, kevlar undershirt, flats         ║
-║ - ??                                            │ - Suitcase with toiletries & extra clothes     ║
+║ - Fencing tournament trophy                     │ - Suitcase with toiletries & extra clothes     ║
 ║ - ??                                            │ - ??                                           ║
 ╠════════════════════════╤══════╤════════╤════════╧╤═══════════════════════════════════════════════╣
 ║ Melee Weapons          │ Diff │ Damage │ Conceal │ Notes                                         ║

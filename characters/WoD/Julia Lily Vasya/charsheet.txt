@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   0/  0         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   4/  0         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ░░░░░ ░░░░░                      └─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠∙∙∙∙                                              ║
 ║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠                                        ║
