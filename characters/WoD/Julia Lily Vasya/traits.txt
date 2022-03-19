@@ -16,11 +16,11 @@
 ║ - Active only via By Rage Recast, or when anima flares.                                          ║
 ║ - Can fly at normal movement speed. This is a hover, but manifests several angelic wings.        ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Merit: Common Sense (♠) - M20                                                                    ║
-║ - Get Out Of Doing Something Stupid Free card, GM may warn you of obvious idiocy.                ║
+║ Merit: Angelic Gaze (♠) - Demon Player's Guide                                                   ║
+║ - -1 diff to Leadership, Intimidation, Empathy rolls.                                            ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Regal Bearing (♠) - M20                                                                   ║
-║ - -2 diff to Social-Trait rolls to make an impression, most people inclined to respect you.      ║
+║ Merit: Angelic Aura (♠) - Demon Player's Guide                                                   ║
+║ - -1 diff to Charisma, Appearance rolls when interacting with mortals.                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Smooth (♠) - Hunter Player's Guide                                                        ║
 ║ - -2 diff to Manipulation rolls.                                                                 ║
@@ -59,7 +59,7 @@
 ║ - Herbivores shy away, carnivores see you as potential threat. May not possess Animal Ken.       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Winged (♠♠) - C20                                                                          ║
-║ - Vestigal wings, +1 diff Dexterity when not free.                                               ║
+║ - Vestigal wings, +1 diff to Dexterity rolls when not free.                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Thrall of the Wyrm (♠♠♠) - EvWoD                                                           ║
 ║ - Limit Track runs 0 to 10, +1 Limit when you: Botch a roll, act to undermine/betray Nature or   ║

@@ -136,9 +136,9 @@
 ║   by lethal/agg, form shatters and you take 5 unsoakable bashing.                                ║
 ║ - Lasts 1 scene. Cannot resume Shintai from in same scene it was destroyed or dismissed.         ║
 ║ - Signature Charm: Wait for Essence 3!                                                           ║
-║ - Base Form: ??                                                                                  ║
+║ - Base Form: Devil-Tyrant Avatar Shintai - +1 Str, +4 Dex, +1 Sta, 7 aspects                     ║
 ║ - Aspect: Flight (Wings in apperance, actually just magic hovering)                              ║
-║ - Aspect: Camoflauge                                                                             ║
+║ - Aspect: Camouflage                                                                             ║
 ║ - Aspect: Transcendent Anathema                                                                  ║
 ║ - Aspect: Swift Stride                                                                           ║
 ║ - Aspect: Stealthy                                                                               ║

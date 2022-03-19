@@ -34,8 +34,8 @@
 ╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═════════╣
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value   ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
-║ Demonic Guide      │ ♠♠♠♠♠     ║ Common Sense       │ ♠         ║ Impractical Dresser  │ ♠       ║
-║                    │           ║ Regal Bearing      │ ♠         ║ Low Pain Tolerance   │ ♠♠      ║
+║ Demonic Guide      │ ♠♠♠♠♠     ║ Angelic Aura       │ ♠         ║ Impractical Dresser  │ ♠       ║
+║                    │           ║ Angelic Gaze       │ ♠         ║ Low Pain Tolerance   │ ♠♠      ║
 ║                    │           ║ Smooth             │ ♠         ║ Mark of the Predator │ ♠♠      ║
 ║                    │           ║ Arcane Eye         │ ♠♠        ║ Winged               │ ♠♠      ║
 ║                    │           ║ Crack Shot         │ ♠♠        ║ Thrall of the Wyrm   │ ♠♠♠     ║
@@ -53,3 +53,73 @@
 ║ - DC: By Rage Recast (♠♠)                           │ Aspect: Flight                             ║
 ║ - BM: Anonymity Through Propriety (♠♠)              │                                            ║
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
+
+14pts or 7 aspects
+
+Fiend House (10pts + 2 aspects)
+- Dread Mein (♠)
+- Enhanced Intuition (♠)
+- Enhanced Mental Acuity (♠♠♠)
+- Rend the Soul (♠♠♠)
+- Sibilant Whispers (♠)
+- Unearthly Glamour (♠)
+* Camouflage
+* Transcendent Anathema
+
+
+Defiler House (8pts + 3 aspects)
+- Enhanced Empathy (♠)
+- Enhanced Intuition (♠)
+- Improved Dexterity (♠♠)
+- Lyrical Voice (♠)
+- Sea's Beauty (♠♠♠)
+* Camouflage
+* Flight
+* Transcendent Anathema
+
+Devil House (8pts + 3 aspects)
+- Inhuman Allure (♠♠)
+- Lordly Mien (♠♠)
+- Voice of the Damned (♠♠)
+* Camouflage
+* Flight
+* Transcendent Anathema
+
+(Common)
+- Pass Without Trace (♠♠) = Camouflage
+- Enhanced Social Traits (♠♠♠♠)
+
+(Devils)
+- Affirm (♠♠♠)
+- Beckon (♠♠)
+- Dread Gaze (♠♠♠♠)
+- Increased Awareness (♠♠)
+* Inhuman Allure (♠♠)
+* Lordly Mien (♠♠)
+- Sense the Hidden (♠)
+* Spark of Faith (♠♠♠)
+* Voice of the Damned (♠♠)
+
+(Devourers)
+- Chameleon Skin (♠)
+- Enhanced Social Traits (♠♠♠)
+- Primal Mind (♠♠♠)
+
+(Malefactors)
+none
+
+(Scourges)
+- Cloak of Shadows (♠♠)
+- Enhanced Intuition (♠)
+- Multiple Eyes (♠♠)
+- Supernatural Vision (♠)
+
+(Slayers)
+- Aura of Dread (♠♠)
+- Aura of Entropy (♠♠)
+- Cloak of Shadows (♠♠)
+- Dread Gaze (♠♠♠♠)
+- Enhanced Awareness (♠♠)
+- Enhanced Social Traits (♠♠♠)
+- Ghost Sight (♠♠)
+- Howl of the Damned (♠♠)
