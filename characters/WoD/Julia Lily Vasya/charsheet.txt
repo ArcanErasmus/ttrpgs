@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   4/  0         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   8/  8         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ░░░░░ ░░░░░                      └─────────────────╢
-║ Crown - Eyes                   ║ Ess Rating │ ♠∙∙∙∙                                              ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠                                        ║
+║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                                              ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠··· ··                                     ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╤═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -46,80 +46,63 @@
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
 ║ Charms - Key: NR & DC                               │ Notes                                      ║
 ╟─────────────────────────────────────────────────────┼────────────────────────────────────────────╢
-║ - G: Key to the Kingdom (♠)                         │ All key abilities                          ║
-║ - NR: Naked Wicked Souls (♠)                        │                                            ║
-║ - NR: Witness to Darkness (♠)                       │                                            ║
-║ - DC: Nightmare Fugue Vigilance (♠)                 │                                            ║
-║ - DC: By Rage Recast (♠♠)                           │ Aspect: Flight                             ║
-║ - BM: Anonymity Through Propriety (♠♠)              │                                            ║
+║ · G: Key to the Kingdom (♠)                         │ All key abilities                          ║
+║ · NR: Naked Wicked Souls (♠)                        │                                            ║
+║ · NR: Witness to Darkness (♠)                       │                                            ║
+║ · DC: Nightmare Fugue Vigilance (♠)                 │                                            ║
+║ · DC: By Rage Recast (♠♠)                           │ Aspect: Flight                             ║
+║ · BM: Anonymity Through Propriety (♠♠)              │                                            ║
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
 
-14pts or 7 aspects
-
-Fiend House (10pts + 2 aspects)
-- Dread Mein (♠)
-- Enhanced Intuition (♠)
-- Enhanced Mental Acuity (♠♠♠)
-- Rend the Soul (♠♠♠)
-- Sibilant Whispers (♠)
-- Unearthly Glamour (♠)
-* Camouflage
-* Transcendent Anathema
-
-
-Defiler House (8pts + 3 aspects)
-- Enhanced Empathy (♠)
-- Enhanced Intuition (♠)
-- Improved Dexterity (♠♠)
-- Lyrical Voice (♠)
-- Sea's Beauty (♠♠♠)
-* Camouflage
-* Flight
-* Transcendent Anathema
-
-Devil House (8pts + 3 aspects)
-- Inhuman Allure (♠♠)
-- Lordly Mien (♠♠)
-- Voice of the Damned (♠♠)
-* Camouflage
-* Flight
-* Transcendent Anathema
-
-(Common)
-- Pass Without Trace (♠♠) = Camouflage
-- Enhanced Social Traits (♠♠♠♠)
-
-(Devils)
-- Affirm (♠♠♠)
-- Beckon (♠♠)
-- Dread Gaze (♠♠♠♠)
-- Increased Awareness (♠♠)
-* Inhuman Allure (♠♠)
-* Lordly Mien (♠♠)
-- Sense the Hidden (♠)
-* Spark of Faith (♠♠♠)
-* Voice of the Damned (♠♠)
-
-(Devourers)
-- Chameleon Skin (♠)
-- Enhanced Social Traits (♠♠♠)
-- Primal Mind (♠♠♠)
-
-(Malefactors)
-none
-
-(Scourges)
-- Cloak of Shadows (♠♠)
-- Enhanced Intuition (♠)
-- Multiple Eyes (♠♠)
-- Supernatural Vision (♠)
-
-(Slayers)
-- Aura of Dread (♠♠)
-- Aura of Entropy (♠♠)
-- Cloak of Shadows (♠♠)
-- Dread Gaze (♠♠♠♠)
-- Enhanced Awareness (♠♠)
-- Enhanced Social Traits (♠♠♠)
-- Ghost Sight (♠♠)
-- Howl of the Damned (♠♠)
+Collected Modifiers:
+· Global
+    · +1 diff in dense crowds (Charm, Witness to Darkness)
+    · +2 to Initiative (Background, Demonic Guide)
+· Situational
+    · +2 dice to social w/ Banes or denizens of Hell-like realms (Background, Demonic Guide)
+    · -2 diff to resist Intimidation (Merit, Poker Face)
+    · +1 diff to others' attempts to get under your skin or read your responses (Merit, Poker Face)
+· Attributes
+    · Dexterity
+        · +1 diff if wings concealed (Flaw, Winged)
+    · Charisma
+        · -1 diff when interacting with mortals (Merit, Angelic Aura)
+    · Manipulation
+        · -1 diff (Charm, Witness to Darkness)
+        · -2 diff (Merit, Smooth)
+        · +3 dice (Merit, Dark Triad)
+    · Appearance
+        · -1 diff when interacting with mortals (Merit, Angelic Aura)
+· Talents
+    · Athletics
+        · +2 diff unless dressed properly (Flaw, Impractical Dresser)
+    · Awareness
+        · -2 diff (Background, Demonic Guide)
+    · Empathy
+        · -1 diff (Merit, Angelic Gaze)
+    · Intimidation
+        · -2 diff (Merit, Poker Face)
+        · -1 diff (Merit, Angelic Gaze)
+    · Leadership
+        · -1 diff (Merit, Angelic Gaze)
+        · +3 dice (Merit, Dark Triad)
+    · Subterfuge
+        · -2 diff (Merit, Poker Face)
+        · +3 dice (Merit, Dark Triad)
+· Skills
+    · Etiquette
+        · +3 dice (Merit, Dark Triad)
+    · Firearms
+        · -1 diff or no called shot penalty (Merit, Crack Shot)
+    · Stealth
+        · -2 diff (Background, Demonic Guide)
+· Knowledges
+    · ?
+· Shintai Form
+    · +1 Strength, +6 Dexterity, +1 Stamina, +2 Charisma, +1 Manipulation, +2 Appearance
+    · -2 diff Empathy
+    · -2 diff Intuition
+    · -2 diff Leadership
+    · -2 diff Subterfuge
+    · +2 dice Stealth
+    · All your attacks which did lethal instead do agg

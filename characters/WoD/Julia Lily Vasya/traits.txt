@@ -2,79 +2,96 @@
 ║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Background: Demonic Guide (♠♠♠♠♠) - EvWoD                                                        ║
-║ - Permanent manifestation of one demonic Aspect: Camoflauge.                                     ║
-║ - Guide grants advice, free Occult specialty in single Hell-like domain of Vort.                 ║
-║ - +2 dice to social interactions with Banes or denizens of Hell-like realms.                     ║
-║ - -2 diff to Awareness.                                                                          ║
-║ - +2 to Initiative results.                                                                      ║
+║ · Permanent manifestation of one demonic Aspect: Camoflauge.                                     ║
+║ · Guide grants advice, free Occult specialty in single Hell-like domain of Vort.                 ║
+║ · +2 dice to social interactions with Banes or denizens of Hell-like realms.                     ║
+║ · -2 diff to Awareness.                                                                          ║
+║ · +2 to Initiative results.                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Aspect: Camoflauge                                                                               ║
-║ - Always active.                                                                                 ║
-║ - -2 diff to Stealth rolls. A perception/attention filter.                                       ║
+║ · Always active.                                                                                 ║
+║ · -2 diff to Stealth rolls. A perception/attention filter.                                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Aspect: Flight                                                                                   ║
-║ - Active only via By Rage Recast, or when anima flares.                                          ║
-║ - Can fly at normal movement speed. This is a hover, but manifests several angelic wings.        ║
+║ · Active only via By Rage Recast, or when anima flares.                                          ║
+║ · Can fly at normal movement speed. This is a hover, but manifests several angelic wings.        ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Merit: Angelic Gaze (♠) - Demon Player's Guide                                                   ║
-║ - -1 diff to Leadership, Intimidation, Empathy rolls.                                            ║
+║ · -1 diff to Leadership, Intimidation, Empathy rolls.                                            ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Angelic Aura (♠) - Demon Player's Guide                                                   ║
-║ - -1 diff to Charisma, Appearance rolls when interacting with mortals.                           ║
+║ · -1 diff to Charisma, Appearance rolls when interacting with mortals.                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Smooth (♠) - Hunter Player's Guide                                                        ║
-║ - -2 diff to Manipulation rolls.                                                                 ║
+║ · -2 diff to Manipulation rolls.                                                                 ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Arcane Eye (♠♠∙∙∙ ∙∙∙) - Homebrew                                                         ║
-║ - Can see magic, see auras of intelligent beings, recognize bounds of persistent spells, etc.    ║
-║ - Lose normal sight, can only see areas illuminated by beings' auras, including own aura.        ║
-║ - Auras come from all animals/insects/magically-sentient-constructs, people aura avg as torch.   ║
-║ - Exalts aura as bonfire, demons stronger than avg human, humans can be as dim as candle.        ║
+║ · Can see magic, see auras of intelligent beings, recognize bounds of persistent spells, etc.    ║
+║ · Lose normal sight, can only see areas illuminated by beings' auras, including own aura.        ║
+║ · Auras come from all animals/insects/magically-sentient-constructs, people aura avg as torch.   ║
+║ · Exalts aura as bonfire, demons stronger than avg human, humans can be as dim as candle.        ║
+║ · Everything seen is monochrome, painted only by the colors of auras.                            ║
+║ ║ Emotional State        │ Color  ║ Condition              │ Texture            ║                ║
+║ ╟────────────────────────┼────────╫────────────────────────┼────────────────────╢                ║
+║ ║ Arousal                │ Bright ║ Corruption             │ Pulsating          ║                ║
+║ ║ Bitterness             │ Brown  ║ Dementia/Quiet         │ Flickering         ║                ║
+║ ║ Calm, Devotion         │ Blue   ║ "Demon"                │ [TBD]              ║                ║
+║ ║ Change/Transformation  │ Violet ║ Excitement             │ Crackling          ║                ║
+║ ║ Compassion/Affection   │ Pink   ║ Faerie                 │ Rainbow Highlights ║                ║
+║ ║ Empathy/Sensitivity    │ Green  ║ Marauder               │ Hypnotic/Swirling  ║                ║
+║ ║ Enthusiasm/Idealism    │ Yellow ║ Fanatical              │ Intense Color      ║                ║
+║ ║ Fear                   │ Orange ║ Ghost                  │ Weak/Faded         ║                ║
+║ ║ Fury                   │ Maroon ║ Magic/Mage             │ Sparkling          ║                ║
+║ ║ Pain, Hatred           │ Black  ║ Sickness/Dying         │ Fading             ║                ║
+║ ║ Passion/Anger          │ Red    ║ Spirituality/Awareness │ Gold               ║                ║
+║ ║ Sadness                │ Silver ║ Truth/Purity/Faith     │ White              ║                ║
+║ ║ Uncertainty/Depression │ Gray   ║ Vampire                │ Pale               ║                ║
+║                                   ║ Werecreature           │ Bright/Vibrant     ║                ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Crack Shot (♠♠) - Hunter Player's Guide                                                   ║
-║ - With gun, arrow, or dart, no penalty to specific targeting, -1 diff if general targeting.      ║
+║ · With gun, arrow, or dart, no penalty to specific targeting, -1 diff if general targeting.      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Poker Face (♠♠) - M20                                                                     ║
-║ - -2 diff to intimidation, subterfuge, & resistance to intimidation rolls.                       ║
-║ - +2 diff to others' attempts to get under your skin or read your responses.                     ║
+║ · -2 diff to intimidation, subterfuge, & resistance to intimidation rolls.                       ║
+║ · +2 diff to others' attempts to get under your skin or read your responses.                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Sanctity (♠♠) - M20                                                                       ║
-║ - People trust you even if not trustworthy, & tend to think of you as some sort of paragon.      ║
-║ - When you get in trouble, authorities will go easy & even strangers will come to your defense.  ║
+║ · People trust you even if not trustworthy, & tend to think of you as some sort of paragon.      ║
+║ · When you get in trouble, authorities will go easy & even strangers will come to your defense.  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Dark Triad (♠♠♠) - M20                                                                    ║
-║ - +3 dice to all rolls involving Etiquette, Manipulation, Leadership, Subterfuge.                ║
-║ - If your true intentions eventually become clear, nobody will trust you.                        ║
+║ · +3 dice to all rolls involving Etiquette, Manipulation, Leadership, Subterfuge.                ║
+║ · If your true intentions eventually become clear, nobody will trust you.                        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Anima Control (♠♠♠♠♠) - EvWoD                                                             ║
-║ - Banner flares when and only when you want it to. Can flare from torch to bonfire brightness.   ║
+║ · Banner flares when and only when you want it to. Can flare from torch to bonfire brightness.   ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Flaw: Impractical Dresser (♠) - Hunter Player's Guide                                            ║
-║ - Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics.                ║
+║ · Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics.                ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Low Pain Tolerance (♠♠) - Hunter Player's Guide                                            ║
-║ - Increase wound penalties by 1 when injured.                                                    ║
+║ · Increase wound penalties by 1 when injured.                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Mark of the Predator (♠♠) - W20                                                            ║
-║ - Herbivores shy away, carnivores see you as potential threat. May not possess Animal Ken.       ║
+║ · Herbivores shy away, carnivores see you as potential threat. May not possess Animal Ken.       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Winged (♠♠) - C20                                                                          ║
-║ - Vestigal wings, +1 diff to Dexterity rolls when not free.                                      ║
+║ · Vestigal wings, +1 diff to Dexterity rolls when not free.                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Flaw: Thrall of the Wyrm (♠♠♠) - EvWoD                                                           ║
-║ - Limit Track runs 0 to 10, +1 Limit when you: Botch a roll, act to undermine/betray Nature or   ║
+║ · Limit Track runs 0 to 10, +1 Limit when you: Botch a roll, act to undermine/betray Nature or   ║
 ║   Intimacies, or whenever someone tries to exercise power/authority over you.                    ║
-║ - At 10, enter Torment and reset Limit. When in Torment, Nature changes to new Archetype, lasts  ║
+║ · At 10, enter Torment and reset Limit. When in Torment, Nature changes to new Archetype, lasts  ║
 ║   from few hours to 2-3 days, burns out faster by committing regrettable acts. Archetypes:       ║
-║   - Destroyer: Regain WP when destroy something precious/useful, like artifact or relationshp.   ║
-║   - Enslaver: Regain WP when subvert another's will to your own.                                 ║
-║   - Sadist: Regain WP when deliberately cause great pain (physical/emotional/spiritual).         ║
-║   - Tyrant: Regain WP when utterly destroy/ruin someone who opposes you.                         ║
-║   - Vivisectionist: Regain WP when your twisted experiments yield useful information.            ║
+║   · Destroyer: Regain WP when destroy something precious/useful, like artifact or relationshp.   ║
+║   · Enslaver: Regain WP when subvert another's will to your own.                                 ║
+║   · Sadist: Regain WP when deliberately cause great pain (physical/emotional/spiritual).         ║
+║   · Tyrant: Regain WP when utterly destroy/ruin someone who opposes you.                         ║
+║   · Vivisectionist: Regain WP when your twisted experiments yield useful information.            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Background Left Behind: Supernatural Status (♠♠∙∙∙)                                              ║
-║ - Considered respected within supernatural society.                                              ║
+║ · Considered respected within supernatural society.                                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background Left Behind: Cult (♠∙∙∙∙)                                                             ║
-║ - ?                                                                                              ║
+║ · ?                                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

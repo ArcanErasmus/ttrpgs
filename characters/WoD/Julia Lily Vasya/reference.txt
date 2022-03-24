@@ -1,0 +1,68 @@
+╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
+║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
+╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
+║ Rules for Intimacies:                                                                            ║
+║ · When pressured to betray an Intimacy (incl. supernatural), roll WP diff 8 to resist.           ║
+║ · 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Caste/Aspect/Key Abilities                                                 ║
+║ · When rolling a pool that involves a caste/aspect/key ability, 1s do not subtract successes.    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Anima Banner                                                               ║
+║ · After spending 3 Essence in a scene, Banner flares visible to naked eye, as bright as bonfire. ║
+║ · Banner fades after (3 x Essence Rating) minutes.                                               ║
+║ · Unique color & texture: Yellow static with blue edges, green inner core, hints of purple.      ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Parrying                                                                   ║
+║ · May parry ranged atks, including bullets.                                                      ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Soak                                                                       ║
+║ · May soak agg damage.                                                                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Poison & Disease                                                           ║
+║ · Resisting/soaking/recovering from poisons at -2 diff.                                          ║
+║ · Mundane diseases can weaken but not kill.                                                      ║
+║ · Each successive roll to recover from a disease at cumulative -1 diff.                          ║
+║ · Incurable diseases purged from system in (8 - Stamina) weeks.                                  ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Healing                                                                    ║
+║ · Fast healing, more like slow regeneration, never scars, but doesn't regen lost limbs.          ║
+║ · Heal supernatural disfigurement as if Incapacitated-level lethal dmg.                          ║
+║ │ Health Lvl │ Bashing │ Lethal/Agg │                                                            ║
+║ ├────────────┼─────────┼────────────┤                                                            ║
+║ │ Bruised    │ 30 mins │ 1 hour     │                                                            ║
+║ │ Hurt       │ 30 mins │ 12 hours   │                                                            ║
+║ │ Injured    │ 30 mins │ 1 day      │                                                            ║
+║ │ Wounded    │ 30 mins │ 2 days     │                                                            ║
+║ │ Maimed     │ 1 hour  │ 2 days     │                                                            ║
+║ │ Crippled   │ 1 hour  │ 3 days     │                                                            ║
+║ │ Incap      │ 1 hour  │ 5 days     │                                                            ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Supernatural Resilience                                                    ║
+║ · Considered more-than-human for powers which have lessened effect vs supernaturals.             ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Exalted Rule: Stunting                                                                   ║
+║ · No penalties/diff for doing actions in ridiculous and flashy way.                              ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Infernal Rules: Shintai                                                                  ║
+║ · First time in story you transform, one turn, 2 Ess & 2 WP. Future attempts require roll Ess at ║
+║   diff 6, +1 diff each afterwards. If already diff 9, instead +1 Ess & +1 WP. Cost resets each   ║
+║   story, or if spend 28 days without use.                                                        ║
+║ · Normal health track, damage does not carry between normal and Shintai forms. No KO, if Incap   ║
+║   by lethal/agg, form shatters and you take 5 unsoakable bashing.                                ║
+║ · Lasts 1 scene. Cannot resume Shintai from in same scene it was destroyed or dismissed.         ║
+║ · Houserule: 1 shintai aspect = 2 apocalypse form points                                         ║
+║ · Signature Charm: Wait for Essence 3!                                                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Infernal Rules: Urge of The Conqueror                                                    ║
+║ · 1/scene, regain 2 Essence when forcing enemy or powerful figure to submit to my will.          ║
+║ · Regain (3 + Essence Rating) Essence when the sun rises.                                        ║
+║ · If beginning a scene at 0 Essence, gain 1 Essence.                                             ║
+║ · Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Infernal Rules: The Crown of Eyes                                                        ║
+║ · When intensely studying object, individual, or situation, spend 1 Esssence to ask a question.  ║
+║ · GM must answer honestly, but can only ask question ever once per obj/indiv/situ.               ║
+║ · When anima flaring, great eyes open within golden smoke of bannner, and become impossible to   ║
+║   ambush or strike unexpectedly, including verbally, even if foe is invisible.                   ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
