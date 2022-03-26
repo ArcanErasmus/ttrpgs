@@ -85,8 +85,12 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
-- 0 GC -/-
+- 2GC 6/3
 - 2x hand weapon
 - 1x dagger
 - 1x crowbar
-- 25x lumber (10 enc/unit) (purchased at 1.2 GC/unit [includes 20% discount])
+
+- 10 units of luxuries (10 enc/unit)
+    - Purchased at 4.5 GC/unit in Altdorf
+        - Includes 10% discount
+    - Trade Rumor: 2x sell price in Fielbach

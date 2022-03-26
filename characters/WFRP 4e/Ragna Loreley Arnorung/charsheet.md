@@ -13,7 +13,7 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1750/1785
+## Total/Spent XP: 1915/1915
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  155 |   0 |   6 | WS
@@ -22,6 +22,7 @@
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
 |  300 |   0 |   2 | Ambidextrous
+|  100 |   0 |   1 | Berserk Charge
 |  100 |   0 |   1 | Frenzy
 |  100 |   0 |   1 | Furious Assault
 |  100 |   0 |   1 | Mark of the Gods
@@ -29,7 +30,7 @@
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
-|   20 |   0 |   2 | Dodge
+|   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
@@ -76,17 +77,17 @@
 |   | Climb              |    | S   |    |
 |!C | Consume Alcohol    | 15 | T   | 75 |
 |!C | Cool               | 11 | WP  | 56 |
-| C | Dodge              |  2 | Ag  | 32 |
+| C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
 | C | Endurance          |  5 | T   | 65 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
-|   | Intimidate         |    | S   |    |
+| C | Intimidate         |    | S   |    |
 |   | Intuition          |    | I   |    |
 |   | Leadership         |    | Fel |    |
 |   | Navigation         |    | I   |    |
-|   | Outdoor Survival   |    | Int |    |
+| C | Outdoor Survival   |    | Int |    |
 |   | Perception         |    | I   |    |
 | C | Row                |    | S   |    |
 |---|--------------------|----|-----|----|------
@@ -97,11 +98,12 @@
 | C | Heal               |  5 | Int | 37 |
 | C | Language (Battle)  |  5 | Int | 37 |
 |   | Language (Norse)   |  5 | Int | 37 |
-| C | Lore (Trees)       | 10 | Int | 42 |
 |   | Lore (Nordland)    |  3 | Int | 35 |
 | C | Lore (Norsca)      |  5 | Int | 37 |
+|!C | Lore (Trees)       | 10 | Int | 42 |
 |   | Ride               |    | Ag  |    |
-|   | Sail               |  5 | Ag  | 35 |
+| C | Sail               |  5 | Ag  | 35 |
+| C | SecSign (TaalRhya) |  5 | Int | 37 |
 |   | Stealth            |    | Ag  |    |
 |!C | Swim               | 15 | S   | 70 |
 | C | Trade (Feller)     |  1 | S   | 56 |
@@ -260,33 +262,89 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1405
+### Rank 2->3: 1475
 - Attributes: 695
     - WS | 6->10 | 120
     - S  | 5->10 | 150
     - T  |  ->10 | 275
     - WP | 5->10 | 150
-- Skills: 410
+- Skills: 580
     - Athletics          |   ->10 | 125
     - Cool               | 11->15 |  80
-    - Dodge              |  2-> 5 |  30
     - Endurance          |  5->10 |  75
-    - Trade (Feller)     |  1-> 5 |  40
+    - Gossip             |   -> 5 |  50
+    - Intimidate         |   -> 5 |  50
+    - Outdoor Survival   |   -> 5 |  50
     - Ranged (Throwing)  |  6->10 |  60
-- Talents: 300
-    - Berserk Charge |  ->2 | 300
+    - Row                |   -> 5 |  50
+    - Trade (Feller)     |  1-> 5 |  40
+- Talents: 200
+    - Berserk Charge | 1->2 | 200
 
 ## Rank 3->4 xp
-### Bare Minimum 3->4: 1625
-- Attributes: 1225
-    - WS | 10->15 | 200
-    - S  | 10->15 | 200
-    - T  | 10->15 | 200
-    - I  |  2->15 | 425
-    - WP | 10->15 | 200
+### Bare Minimum 3->4: 1005
+- Attributes: 605
+    - WS | 10->15 | 100
+    - S  | 10->15 | 100
+    - T  | 10->15 | 100
+    - I  |  2->15 | 205
+    - WP | 10->15 | 100
 - Skills: 400
     - Athletics         | 10->15 | 100
     - Endurance         | 10->15 | 100
     - Lore (Trees)      | 10->15 | 100
     - Ranged (Throwing) | 10->15 | 100
+- Talents: 0
+
+### Acquire From 3 And Then Leave: 1755 (+100xp fee to bail)
+- Attributes: 305
+    - I  |  2->12 | 305
+- Skills: 550
+    - Leadership           |   ->10 | 125
+    - Lore (Chaos)         |   ->10 | 125
+    - Lore (The Old Faith) |   ->10 | 125
+    - Melee (Polearm)      |   -> 5 |  50
+    - Perception           |   ->10 | 125
+- Talents: 900
+    - Battle Rage           |   -> 2 | 300
+    - Fearless (Everything) |   -> 1 | 100
+    - Gregarious            |   -> 1 | 100
+    - Robust                |   -> 2 | 300
+    - Resistance (Mutation) |   -> 1 | 100
+
+### Desired 3->4: 3425
+- Acquire From 3 And Then Leave: 1755
+- Attributes: 920
+    - WS | 10->15 | 200
+    - S  | 10->15 | 200
+    - T  | 10->15 | 200
+    - I  | 12->15 | 120
+    - WP | 10->15 | 200
+- Skills: 750
+    - Intimidate         |  5->15 | 175
+    - Language (Battle)  |  5->10 |  75
+    - Leadership         | 10->15 | 100
+    - Lore (Norsca)      |  5->15 | 175
+    - Outdoor Survival   |  5->10 |  75
+    - Sail               |  5->15 | 175
+    - SecSign (TaalRhya) |  5->10 |  75
+
+## Rank 4->? xp
+### Bare Minimum 4->x: 2700
+- Attributes: 1500
+    - WS | 15->20 | 250
+    - S  | 15->20 | 250
+    - T  | 15->20 | 250
+    - I  | 15->20 | 250
+    - Ag | 15->20 | 250
+    - WP | 15->20 | 250
+- Skills: 1200
+    - Consume Alcohol    | 15->20 | 150
+    - Cool               | 15->20 | 150
+    - Intimidate         | 15->20 | 150
+    - Leadership         | 15->20 | 150
+    - Lore (Norsca)      | 15->20 | 150
+    - Melee (Basic)      | 15->20 | 150
+    - Sail               | 15->20 | 150
+    - Swim               | 15->20 | 150
 - Talents: 0
