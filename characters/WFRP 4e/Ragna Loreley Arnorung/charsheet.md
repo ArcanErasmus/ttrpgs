@@ -348,3 +348,11 @@
     - Sail               | 15->20 | 150
     - Swim               | 15->20 | 150
 - Talents: 0
+
+
+### Juggernaut Frenzy
+As normal Frenzy, except instead of +1 SB & free attack, get:
+- +1 TB.
+- You store up any damage that your TB reduces (after armor or similar effects, but before things like the Sturdy talent) up to a maximum of twice your TB.
+- The stored energy is lost when the Frenzy ends.
+- When you make a Melee attack, you may unleash your stored energy. Treat the attack as a Charge (giving an Advantage as normal), and on hit, convert all stored energy to bonus damage.
