@@ -1,0 +1,90 @@
+## Stage 1 - Home World
+Feral World
+- Skills:
+    - Speak Language (Tribal Dialect) (Int)
+- Traits:
+    - Iron Stomach
+        - +10 to Carouse to resist ingested toxins/poison or tainted foods
+    - Primitive
+        - -10 to Tech-Use (Int)
+        - -10 to Fellowship in formal/civilized surroundings
+    - Rite of Passage
+        - May spend a Full Action to make an Int test to staunch Blood Loss, on success you stop the bleeding
+    - Wilderness Savvy
+        - Navigation (Surface) (Int), Survival (Int), Tracking (Int) count as Basic Skills
+Dusk (Feral World)
+- Skills:
+    - Speak Language (Dusk Cant) (Int)
+- Traits:
+    - Bad Blood
+        - +3 Per, +3 WP
+        - Begin with 1d5 Insanity, 1d5 Corruption
+    - Primitive
+        - -10 to Tech-Use (Int)
+        - -10 to Fellowship in formal/civilized surroundings
+    - Dark Tales
+        - Begin with Common Lore (Dusk Folklore) (Int)
+        - Forbidden Lore (Daemonology) (Int), Scholastic Lore (Occult) (Int) count as Basic Skills
+    - Little Left to Fear
+        - Reduce effects of Fear on self by one degree (suffer no effects from Fear 1)
+        - Begin with 1 fewer Fate Point
+    - Wilderness Savvy
+        - Navigation (Surface) (Int), Survival (Int), Tracking (Int) count as Basic Skills
+
+## Stage 2 - Characteristics
+WS  34 34 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░░░░░░░░░
+BS  26 29 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░▒▒▒
+S   38 38 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░░░░░░░░░░ ░░░
+T   36 36 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░░░░░░░░░░ ░
+Ag  28 28 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░░░
+Int 31 31 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░░░░░░
+Per 33 33 ░░░░░░░░░░░░░░░ ░░░░░ ░░░░░ ░░░░░░░░
+WP  23 23 ░░░░░░░░░░░░░░░ ░░░░░ ░░░
+Fel 22 22 ░░░░░░░░░░░░░░░ ░░░░░ ░░
+
+## Stage 3 - Career
+Assassin
+- Starting Skills:
+    - Speak Language (Low Gothic) (Int)
+    - Awareness (Per)
+    - Dodge (Ag)
+- Starting Talents:
+    - Melee Weapon Training (Primitive)
+    - Ambidextrous or Unremarkable
+    - [Thrown Weapon Training] or [Pistol Training (Las)]
+    - Basic Weapon Training (SP)
+    - Pistol Training (SP)
+- Starting Gear:
+    - [Shotgun and 12 shells] or [hunting rifle and 16 rounds] or [autogun and 1 clip]
+    - Sword
+    - Knife
+    - Compact las pistol and 1 charge pack or 10 throwing knives
+    - 3 doses of stimm
+    - Charm (corpse hair)
+    - Black bodyglove (Common Quality Clothing)
+- Starting Rank:
+    - Sell-Steel
+
+## Stage 4 - Secondary Statistics
+- Wounds: 12
+- Fate Points: 2
+- Movement: 2/4/6/12
+- Wealth: $134
+- Equipment:
+    - [Starting Gear]
+    - [TODO buy more stuff]
+- XP: 400
+
+Quick Play Package: Assassin
+    - Weapon Skill Advance Simple (+5) 100
+    - Inquiry 100
+    - Heightened Senses (Sight) 100
+    - Sound Constitution 100
+
+## Stage 5 - Final Details
+- Build: Rangy - 1.8m/60kg
+- Age: Old One - 27
+- Coloration: Tan Skin, Blond Hair, Gray Eyes
+- Quirks: Joined Eyebrows
+- Feral World Superstition: Unlucky Color - Orange is the color of disaster/death
+- Imperial Divination: "The gun is mightier than the sword", +3 BS
