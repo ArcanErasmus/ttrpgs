@@ -5,11 +5,11 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │   8/  8         ║
-║ Urge - The Conqueror           ║ LimitTrack │ ░░░░░ ░░░░░                      └─────────────────╢
-║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                                              ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠··· ··                                     ║
-╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╤═══════╤═════════╣
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │  11/  8         ║
+║ Urge - The Conqueror           ║ LimitTrack │ ░░░░░ ░░░░░                      ├─────────────────╢
+║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ♠·                   │ 7w/17j/35r yds  ║
+╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
 ║ Strength   │ ♠∙∙∙∙ │           ║ Charisma   │ ♠♠♠♠♠ │ Regal     ║ Perception   │ ♠♠♠♠∙ │ Insight ║
@@ -104,5 +104,6 @@ Collected Modifiers:
     · -2 diff Intuition
     · -2 diff Leadership
     · -2 diff Subterfuge
-    · +2 dice Stealth
+    · Double all movement speeds
     · All your attacks which did lethal instead do agg
+    · (Final movement speed: 14w/46j/106r)

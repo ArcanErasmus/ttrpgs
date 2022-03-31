@@ -8,8 +8,8 @@
 ║ · Already active from Demonic Guide background.                                                  ║
 ║ · -2 diff Stealth rolls.                                                                         ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Shintai Aspect: Stealthy                                                                         ║
-║ · +2 dice Stealth rolls.                                                                         ║
+║ Shintai Aspect: Swift Stride                                                                     ║
+║ · Double all movement speeds.                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Shintai Aspect: Transcendent Anathema                                                            ║
 ║ · All your attacks which did lethal instead do agg.                                              ║
@@ -27,7 +27,7 @@
 ║ · -2 diff Leadership, Subterfuge rolls.                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Apocalypse Form: Sea's Beauty (♠♠♠)                                                              ║
-║ · +2 Charisma, Appearance, +1 Manipulation.                                                      ║
+║ · +2 Charisma, +2 Appearance, +1 Manipulation.                                                   ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ General Charm: Key to the Kingdom (♠)                                                            ║
 ║ · Reflexively spend 1 Ess & choose an ability, for (Ess+1) turns in combat, or mins out of it,   ║

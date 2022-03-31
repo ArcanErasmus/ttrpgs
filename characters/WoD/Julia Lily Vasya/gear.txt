@@ -11,10 +11,13 @@
 ║ · Duffel with toiletries & extra clothes        │ 06                                             ║
 ║ · Glock 17 + suppressor                         │ 07                                             ║
 ║ · MP5                                           │ 08                                             ║
-║ ·                                               │ 09                                             ║
-║ · Basic foodstuffs                              │ x  MP5 mag: 9mm sub 30/30                      ║
-║ · Shooter's earplugs                            │ x                                              ║
-║ · Bag of brass casings (3)                      │ x                                              ║
+║ · Shooter's earplugs                            │ 09                                             ║
+║ · Bag of brass casings (3)                      │ x  MP5 mag: 9mm sub 30/30                      ║
+║ · Mysterious journal found in camp, is ledger   │ x                                              ║
+║ · Many vials of perfume                         │ x                                              ║
+║ ·                                               │ x                                              ║
+║ ·                                               │ x                                              ║
+║ · Coinage worth 3 dots Resources                │ x                                              ║
 ╠════════════════════════╤══════╤════════╤═══╤════╧════════════════════════════════════════════════╣
 ║ Melee Weapons          │ Diff │ Damage │ C │ Notes                                               ║
 ╟────────────────────────┼──────┼────────┼───┼─────────────────────────────────────────────────────╢
