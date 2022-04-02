@@ -1,4 +1,4 @@
-        # Ragna's Journal
+# Ragna's Journal
 
 ## Adventure Log
 - Kills:

@@ -13,9 +13,10 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 1915/1915
+## Total/Spent XP: 2045/2045
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
+|   90 |   5 |   8 | WP
 |  155 |   0 |   6 | WS
 |  125 |   0 |   5 | S
 |   50 |   0 |   2 | I
@@ -30,6 +31,7 @@
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
+|   40 |  11 |  13 | Cool
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
@@ -55,7 +57,7 @@
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
-|^WP  | 40 |    |  5 |    | 45 |
+|^WP  | 40 |    |  8 |    | 48 |
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
@@ -76,7 +78,7 @@
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
 |!C | Consume Alcohol    | 15 | T   | 75 |
-|!C | Cool               | 11 | WP  | 56 |
+|!C | Cool               | 13 | WP  | 61 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
 | C | Endurance          |  5 | T   | 65 |
@@ -145,18 +147,23 @@
 - Advantage gained only if both attacks hit
 - If dual attack, all defending rolls at -10 until start of turn
 
-### Frenzy [1/1]
-- WP Test to enter Frenzy:
+### Juggernaut Frenzy [1/1]
+- WP Test to enter Juggernaut Frenzy:
     - Continues until all visible enemies pacified
     - Stopped if get Stunned or Unconscious
     - After over, immediately receive one Fatigued
-- While in Frenzy:
-    - +1 to SB
-    - One Free Action Melee Test each Round
+- While in Juggernaut Frenzy:
+    - +1 to TB
     - Immune to all other psychology
     - Will not flee/retreat for any reason
     - Must move at full rate to nearest visible enemy
     - Usually only actions available are Attack, or Athletics to reach enemy faster
+- Additional special benefit while in Juggernaut Frenzy:
+    - You store up any damage that your TB reduces (after armor or similar effects, but before things like the Sturdy talent) up to a maximum of twice your TB.
+    - The stored energy is lost when the Frenzy ends.
+    - When you make a Melee attack, you may unleash your stored energy. Treat the attack as a Charge (giving an Advantage as normal), and on hit, convert all stored energy to bonus damage.
+- May reflexively make WP Test to enter Juggernaut Frenzy when taking damage from an attack
+    - Do not count triggering attack for stored damage
 
 ### Furious Assault [1/AgB]
 - Tests: Melee when making extra attacks
@@ -262,15 +269,15 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1475
-- Attributes: 695
+### Rank 2->3: 1315
+- Attributes: 605
     - WS | 6->10 | 120
     - S  | 5->10 | 150
     - T  |  ->10 | 275
-    - WP | 5->10 | 150
+    - WP | 8->10 |  60
 - Skills: 580
     - Athletics          |   ->10 | 125
-    - Cool               | 11->15 |  80
+    - Cool               | 13->15 |  40
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
     - Intimidate         |   -> 5 |  50
@@ -282,13 +289,13 @@
     - Berserk Charge | 1->2 | 200
 
 ## Rank 3->4 xp
-### Bare Minimum 3->4: 1005
-- Attributes: 605
-    - WS | 10->15 | 100
-    - S  | 10->15 | 100
-    - T  | 10->15 | 100
-    - I  |  2->15 | 205
-    - WP | 10->15 | 100
+### Bare Minimum 3->4: 1625
+- Attributes: 1225
+    - WS | 10->15 | 200
+    - S  | 10->15 | 200
+    - T  | 10->15 | 200
+    - I  |  2->15 | 425
+    - WP | 10->15 | 200
 - Skills: 400
     - Athletics         | 10->15 | 100
     - Endurance         | 10->15 | 100
@@ -349,7 +356,7 @@
     - Swim               | 15->20 | 150
 - Talents: 0
 
-
+## Homebrew
 ### Juggernaut Frenzy
 As normal Frenzy, except instead of +1 SB & free attack, get:
 - +1 TB.
