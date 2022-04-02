@@ -1,16 +1,16 @@
 # Ragna's Gear & Magic
 ## Inventory
 ### Armor
-| Name             | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
-|------------------|------|------|------|------|------|------|------|----|-----------------
-| Bear-Pelt Coat   |      | xxxx | xxxx | xxxx |      |      |      |  1 | 
-| Leather Skullcap | xxxx |      |      |      |      |      |      |  1 | Partial
-| Leather Leggings |      |      |      |      | xxxx | xxxx |      |  1 |
-| Mail Coat        |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
-| Horned Helm      | xxxx |      |      |      |      |      |      |  2 | Partial, Ugly
-| Shield (Large)   |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
-|------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary          |    3 |    3 |    3 |    3 |    1 |    1 |    3 |
+| Name                | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
+|---------------------|------|------|------|------|------|------|------|----|-----------------
+| Bear-Pelt Coat      |      | xxxx | xxxx | xxxx |      |      |      |  1 | Fine
+| Horned Helm         | xxxx |      |      |      |      |      |      |  2 | Partial, Ugly
+| Leather Leggings    |      |      |      |      | xxxx | xxxx |      |  1 |
+| Leather Skullcap    | xxxx |      |      |      |      |      |      |  1 | Partial
+| Mail Coat           |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
+| Shield (Large)      |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
+|---------------------|------|------|------|------|------|------|------|----|-----------------
+| Summary             |    3 |    3 |    3 |    3 |    1 |    1 |    3 |
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
@@ -29,16 +29,16 @@
 | **Weapons**              |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Battle Axe               |   2 |     |
-| Hand Weapon (Axe)        |   1 |     |
+| Throwing Axe (1)         |   1 |     |
 | Shield (Large)           |   3 |     |
 |--------------------------|-----|-----|--------------------------------
 | **Armor**                |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Bear-Pelt Coat           |   1 |   W | Fine Leather Jack
-| Leather Skullcap         |     |   W | Partial
-| Leather Leggings         |   1 |   W |
-| Mail Coat                |   3 |   W | Flexible
+| Bear-Pelt Coat           |   1 |   W | (Leather Jack), Fine
 | Horned Helm              |   2 |   W | Partial, Ugly
+| Leather Leggings         |   1 |   W |
+| Leather Skullcap         |     |   W | Partial
+| Mail Coat                |   3 |   W | Flexible
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
@@ -60,11 +60,12 @@
 |--------------------------|-----|-----|--------------------------------
 | *Container: Backpack*    |   2 |   W | Carries: 4 Enc
 |--------------------------|-----|-----|--------------------------------
-| Throwing Axe (3)         |   3 |     |
+| Hand Weapon (Axe)        |   1 |     |
+| Throwing Axe (2)         |   2 |     |
 |--------------------------|-----|-----|--------------------------------
 | **Coins**                |     |     | 0GC 0/0
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |   9 |
+| **Total**                |     |  10 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
