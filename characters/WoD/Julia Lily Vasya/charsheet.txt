@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │  11/  8         ║
-║ Urge - The Conqueror           ║ LimitTrack │ ░░░░░ ░░░░░                      ├─────────────────╢
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │  11/ 15         ║
+║ Urge - The Conqueror           ║ LimitTrack │ ▓░░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ♠·                   │ 7w/17j/35r yds  ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ··                   │ 8w/17j/35r yds  ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -24,7 +24,7 @@
 ║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠∙∙∙ │           ║ Investigatn  │K♠♠♠♠∙ │ Deductn ║
 ║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ∙∙∙∙∙ │         ║
 ║ Expression │ ♠♠∙∙∙ │           ║ Larceny    │ ♠∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
-║ Intimidatn │K♠♠♠∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ♠∙∙∙∙ │ DemonQn ║
+║ Intimidatn │K♠♠♠∙∙ │           ║ Melee      │ ♠∙∙∙∙ │           ║ Occult       │ ♠∙∙∙∙ │ DemonQn ║
 ║ Leadership │K♠∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ♠∙∙∙∙ │         ║
 ║ Streetwise │ ♠∙∙∙∙ │           ║ Stealth    │K♠♠∙∙∙ │           ║ Science      │ ∙∙∙∙∙ │         ║
 ║ Subterfuge │K♠♠♠∙∙ │           ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ∙∙∙∙∙ │         ║
@@ -106,4 +106,4 @@ Collected Modifiers:
     · -2 diff Subterfuge
     · Double all movement speeds
     · All your attacks which did lethal instead do agg
-    · (Final movement speed: 14w/46j/106r)
+    · (Final movement speed: 16w/46j/106r)

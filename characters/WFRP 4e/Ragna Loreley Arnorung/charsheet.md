@@ -13,11 +13,11 @@
 - Party short-term: Reach Altdorf
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 2045/2045
+## Total/Spent XP: 2045/2125
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
-|  155 |   0 |   6 | WS
+|  215 |   0 |   8 | WS
 |  125 |   0 |   5 | S
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
@@ -49,7 +49,7 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |  5 |  6 |    | 52 |
+|^WS  | 41 |  5 |  8 |    | 54 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
 |^T   | 55 |  5 |    |    | 60 |
@@ -112,8 +112,8 @@
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 67 |
-| C | Melee (Two-Handed) |  5 | WS  | 57 |
+|!C$| Melee (Basic)      | 15 | WS  | 69 |
+| C | Melee (Two-Handed) |  5 | WS  | 59 |
 | C | Ranged (Throwing)  |  6 | BS  | 38 |
 
 ## Injuries
@@ -269,13 +269,13 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1315
-- Attributes: 605
-    - WS | 6->10 | 120
+### Rank 2->3: 1285
+- Attributes: 545
+    - WS | 8->10 |  60
     - S  | 5->10 | 150
     - T  |  ->10 | 275
     - WP | 8->10 |  60
-- Skills: 580
+- Skills: 540
     - Athletics          |   ->10 | 125
     - Cool               | 13->15 |  40
     - Endurance          |  5->10 |  75
