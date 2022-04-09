@@ -137,6 +137,10 @@
 ### Ambidextrous [2/2]
 - No penalties to Tests relying solely on secondary hand
 
+### Berserk Charge [1/SB]
+- Tests: Melee on a Turn when you Charge
+- When you Charge, you get +1 Damage per talent lvl to all Melee attacks
+
 ### Dual Wielder [1/AgB]
 - Tests: Melee or Ranged when attacking with two weapons
 - May attack with both weapons as action
