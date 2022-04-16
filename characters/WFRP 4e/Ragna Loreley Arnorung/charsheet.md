@@ -8,16 +8,16 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
-- Short-term ambition: Meet Peronelle's Daughter
+- Short-term ambition: Make a big profit on my trade goods (likely Fielbach)
 - Long-term ambition: Be respected and/or feared by a large populace
-- Party short-term: Reach Altdorf
+- Party short-term: Kill the Drachwald Gibberbeast
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 2045/2125
+## Total/Spent XP: 2185/2185
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
-|  215 |   0 |   8 | WS
+|  275 |   0 |  10 | WS
 |  125 |   0 |   5 | S
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
@@ -31,7 +31,7 @@
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
-|   40 |  11 |  13 | Cool
+|   60 |  11 |  14 | Cool
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
@@ -49,7 +49,7 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |  5 |  8 |    | 54 |
+|!WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
 |^T   | 55 |  5 |    |    | 60 |
@@ -63,9 +63,9 @@
 ## Secondary Attributes
 | Att | #  | ?  |
 |-----|----|----|
-| W   | 27 | 26
+| W   | 27 | 21
 | F/F |  4 |  4
-| R/R |  2 |  3
+| R/R |  1 |  2
 | M   |  4 |  2
 | Cor | 10 |  3
 
@@ -78,7 +78,7 @@
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
 |!C | Consume Alcohol    | 15 | T   | 75 |
-|!C | Cool               | 13 | WP  | 61 |
+|!C | Cool               | 14 | WP  | 62 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
 | C | Endurance          |  5 | T   | 65 |
@@ -112,8 +112,8 @@
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 69 |
-| C | Melee (Two-Handed) |  5 | WS  | 59 |
+|!C$| Melee (Basic)      | 15 | WS  | 71 |
+| C | Melee (Two-Handed) |  5 | WS  | 61 |
 | C | Ranged (Throwing)  |  6 | BS  | 38 |
 
 ## Injuries
@@ -273,15 +273,14 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1285
-- Attributes: 545
-    - WS | 8->10 |  60
+### Rank 2->3: 1205
+- Attributes: 485
     - S  | 5->10 | 150
     - T  |  ->10 | 275
     - WP | 8->10 |  60
-- Skills: 540
+- Skills: 520
     - Athletics          |   ->10 | 125
-    - Cool               | 13->15 |  40
+    - Cool               | 14->15 |  20
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
     - Intimidate         |   -> 5 |  50
