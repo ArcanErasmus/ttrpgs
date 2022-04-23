@@ -3,59 +3,86 @@
 ### Armor
 | Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
 |----------------------|------|------|------|------|------|------|------|----|-----------------
-| Mail Shirt           |      |      |      | xxxx |      |      |      |  2 | Flexible, -10 Stealth
+| Copper Mail Shirt    |      |      |      | xxxx |      |      |      |  3 | Flexible, Grants bearer Regenerate, does not impede spellcasting, +1 AP
 |----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary              |    0 |    0 |    0 |    2 |    0 |    0 |    0 |
+| Summary              |    0 |    0 |    0 |    3 |    0 |    0 |    0 |
 
 ### Weapons
 | Weapon                       | Group         | Reach   | Dam   | Qualities/Flaws
 |------------------------------|---------------|---------|-------|-----------------
 | Dagger                       | M Basic       | V Short | +SB+2 |
+| Dagger                       | M Basic       | V Short | +SB+2 |
+
+| Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
+|----------------|------------|---------|-------|-----------------
+| Dagger         | M Basic    | V Short | +SB+2 |
+|----------------|------------|---------|-------|-----------------
+| Ranged Weapon  | Group      | Range   | Dam   | Qualities/Flaws
+|----------------|------------|---------|-------|-----------------
+| Blunderbuss    | R Blackpwd | 20      | +8    | 2H, Blast 3, Blackpowder, Damaging, Dangerous, Reload 2, (Half range)
+| Pistol         | R Blackpwd | 20      | +8    | Pistol, Blackpowder, Damaging, Reload 1, (Impale, Penetrating)
+
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
 |--------------------------|-----|-----|--------------------------------
-| **Worn Equipment**       |     |   1 |
-|--------------------------|-----|-----|--------------------------------
-| Cloak                    |   1 |     |
-| Fine Clothes             |   1 |     |
-| Hat                      |     |     |
-| Mail Shirt               |   2 |   1 | Flexible
-|--------------------------|-----|-----|--------------------------------
-| **Worn Containers**      |     |     |
-|--------------------------|-----|-----|--------------------------------
-| Pouch                    |     |     | Carries 1
-|   Comb                   |     |     |
-|   Ear Pick               |     |     |
-|   Tweezers               |     |     |
-| Sling bag                |   1 |     | Carries 2
-|   Lunch                  |     |     |
-|   Abacus                 |     |     |
-|   Dice and Cards         |     |     |
-|--------------------------|-----|-----|--------------------------------
 | **Weapons**              |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Dagger                   |     |     | In sheathe on belt
+| Dagger                   |     |     |
+| Blunderbuss              |   1 |     |
+| Pistol (3)               |     |     |
 |--------------------------|-----|-----|--------------------------------
-| **General**              |     |     | Non-consumable catch-all
+| **Armor**                |     |     |
+|--------------------------|-----|-----|--------------------------------
+| Copper Mail Shirt        |   2 |   W | Flexible, Grants bearer Regenerate, Does not impede spellcasting, +1 AP
+|--------------------------|-----|-----|--------------------------------
+| **Clothing/Accessories** |     |     |
+|--------------------------|-----|-----|--------------------------------
+| Cloak                    |   1 |   W |
+| Fine Clothes             |   1 |   W |
+| Hat                      |     |   W |
+| Leather Gloves           |     |   W |
+| Iron Flower              |     |   W | Lunaria O' Moneta
+| Morrian Holy Amulet      |     |   W | Gives +1 advance in Magic Resistance trait
+|--------------------------|-----|-----|--------------------------------
+| **Tools/Kits**           |     |     |
+|--------------------------|-----|-----|--------------------------------
+| Guild License            |     |     |
+| Deed to Blutroch         |     |     | License to collect taxes and administrate
+| Contract (VOID)          |     |     | For old mercenary group
+|--------------------------|-----|-----|--------------------------------
+| **Miscellaneous**        |     |     |
 |--------------------------|-----|-----|--------------------------------
 |--------------------------|-----|-----|--------------------------------
-| **Cart**                 | xxx | xxx | Cart capacity: 5/25
+| *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
 |--------------------------|-----|-----|--------------------------------
-| Paychest with Keys       |   2 |     | Locks to cart, have 2 keys
-|   Coinage                |     |     | 17 GC
-|   Contract               |     |     |
+| Ear Pick                 |     |     |
+| Tweezers                 |     |     |
+| Abacus                   |     |     |
+| Key to Paychest          |     |     |
+| Comb                     |     |     |
 | Canvas Tarp              |   1 |     |
-| Cask of Diluted Bugman's |   2 |     | 10 gal capacity; 9 gal of 2:1 cheap swill to XXXXXX
+| Deck of Cards            |     |     |
+| Dice                     |     |     |
 |--------------------------|-----|-----|--------------------------------
-| **Tartalo (Dray)**       | xxx | xxx | See `notes.md`
+| *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
-| Saddle and Harness       |   4 |   3 |
-| Saddlebags               |   4 |   3 | Carries 8
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 3GC 10/11
+| *Container: Paychest*    |     |     | Carries: 5 Enc
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |   1 |
+|--------------------------|-----|-----|--------------------------------
+| **Coins**                |     |     | 60GC 24/10
+|--------------------------|-----|-----|--------------------------------
+| **Total**                |     |   2 |
+
+### Other trappings
+- Heavy work clothing & boots
+- Banked coinage: 43GC 12/4 @ 1% risk, Altdorf
+    5GC 3/4 is from Asa
+- Contracts for Resettlement Efforts in Blutroch
+- Warehouse in Bogenhafen
+- Manor house in Bogenhafen
+- Lots of coffee beans
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties

@@ -7,11 +7,13 @@
     - 3x Ungor
     - 4x Wolf
     - 2x Mutant Humans
+    - 1x Gibberbeast
 
 - Trophies:
-    - Large Squid Beak
-    - Minotaur Head
+    - Large squid beak
+    - Minotaur head
     - Shark full jaw + teeth
+    - Gibberbeast horns & teeth
 
 ## Short Bio
 - Moms: Hildur Arnorung and Stephanie of Hargendorf

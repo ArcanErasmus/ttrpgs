@@ -3,22 +3,23 @@
 - 6'2", 220lbs, 18 yo, red hair, light blue eyes
     - Distinguishing Mark: Ruddy face, utter unit
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
-- Birthplace: Hargendorf, Nordland
+- Birthplace: Hargendorf, Nordland, The Reik
 - Religion: Rhya, and just a smidge of the Northern Gods
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
 - Short-term ambition: Make a big profit on my trade goods (likely Fielbach)
 - Long-term ambition: Be respected and/or feared by a large populace
-- Party short-term: Kill the Drachwald Gibberbeast
+- Party short-term: -
 - Party long-term: Find Etelka Herzen
 
-## Total/Spent XP: 2185/2185
+## Total/Spent XP: 2330/2335
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
 |  275 |   0 |  10 | WS
 |  125 |   0 |   5 | S
+|  125 |   0 |   5 | T
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
@@ -31,7 +32,7 @@
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
 |   40 |  13 |  15 | Consume Alcohol
-|   60 |  11 |  14 | Cool
+|   80 |  11 |  15 | Cool
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
@@ -52,7 +53,7 @@
 |!WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  5 |    | 55 |
-|^T   | 55 |  5 |    |    | 60 |
+|^T   | 55 |  5 |  5 |    | 65 |
 | I   | 28 |    |  2 |    | 30 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
@@ -77,11 +78,11 @@
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-|!C | Consume Alcohol    | 15 | T   | 75 |
-|!C | Cool               | 14 | WP  | 62 |
+|!C | Consume Alcohol    | 15 | T   | 80 |
+|!C | Cool               | 15 | WP  | 63 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |  5 | T   | 65 |
+| C | Endurance          |  5 | T   | 70 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -273,14 +274,13 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1205
-- Attributes: 485
+### Rank 2->3: 1060
+- Attributes: 360
     - S  | 5->10 | 150
-    - T  |  ->10 | 275
+    - T  | 5->10 | 150
     - WP | 8->10 |  60
-- Skills: 520
+- Skills: 500
     - Athletics          |   ->10 | 125
-    - Cool               | 14->15 |  20
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
     - Intimidate         |   -> 5 |  50
