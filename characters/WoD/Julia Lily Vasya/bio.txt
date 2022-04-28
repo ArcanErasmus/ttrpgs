@@ -68,6 +68,7 @@
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Group Relations                                                                                  ║
 ║ · Sarah Smith, "Smithy" - The Prophet                                                            ║
+║   · Value/Risk: Medium/High !!
 ║   · Secret Guilt: Blames herself for her abuse at the hands of family, Michael (demon/ex-bf).    ║
 ║     She summoned Michael to protect herself from her family. I know how she did it.              ║
 ║   · Weaknesses: I know enough of Michael's mannerisms to impersonate him. Grabbing Smithy's      ║
@@ -75,25 +76,31 @@
 ║   · Notes: Lacks self-confidence, view world as angels/demons
 ║   · Powers: Insectoid rage form, speak to spirits, super sneaking, learn languages by blood drinking
 ║ · Dr. Mister Woebegone Esquire - The Doctor                                                      ║
+║   · Value/Risk: Medium/Medium
 ║   · Secret Guilt: [ASK PERMISSION BEFORE USE]
 ║   · Weaknesses:
 ║   · Notes: Obsessed with personally saving lives
 ║   · Powers: Super-fast-doctoring, temporary language assimilation
-║ · Esmeralda Sterling Esquire - The Scholar                                                       ║
-║   · Secret Guilt: [ASK PERMISSION BEFORE USE]
-║   · Weaknesses:
-║   · Notes: Nerd
-║   · Powers: Linguist, can summon spiders
 ║ · The Initiate - The Assassin                                                                    ║
+║   · Value/Risk: Medium/Low
 ║   · Secret Guilt: [ASK PERMISSION BEFORE USE]
 ║   · Weaknesses:
 ║   · Notes: Super darkness guy but weirdly chill
 ║   · Powers: Stealthy, murdery
 ║ · Ruth Gold - The Explorer                                                                       ║
+║   · Value/Risk: High/Medium
 ║   · Secret Guilt: [ASK PERMISSION BEFORE USE]
 ║   · Weaknesses:
 ║   · Notes: ?
 ║   · Powers: Has huge eagle friend, can manipulate stone, has social common sense
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Ex-Group Relations                                                                               ║
+║ · Esmeralda Sterling Esquire - The Scholar                                                       ║
+║   · Value/Risk: High/Low
+║   · Secret Guilt: [ASK PERMISSION BEFORE USE]
+║   · Weaknesses:
+║   · Notes: Nerd
+║   · Powers: Linguist, can summon spiders
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Contacts                                                                                         ║
 ║ · ??                                                                                             ║

@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │  11/ 15         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠··                        │  11/ 18         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ▓░░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ··                   │ 8w/17j/35r yds  ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠·· ··                   │ 8w/17j/35r yds  ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -56,9 +56,9 @@
 
 Collected Modifiers:
 · Global
-    · +1 diff in dense crowds (Charm, Witness to Darkness)
     · +2 to Initiative (Background, Demonic Guide)
 · Situational
+    · +1 diff in dense crowds (Charm, Witness to Darkness)
     · +2 dice to social w/ Banes or denizens of Hell-like realms (Background, Demonic Guide)
     · -2 diff to resist Intimidation (Merit, Poker Face)
     · +1 diff to others' attempts to get under your skin or read your responses (Merit, Poker Face)
