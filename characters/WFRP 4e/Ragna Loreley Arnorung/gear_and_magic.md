@@ -5,13 +5,14 @@
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
 | Bear-Pelt Coat        |      | xxxx | xxxx | xxxx |      |      |      |  1 | Fine
 | Boiled L. Breastplate |      |      |      | xxxx |      |      |      |  2 | Weakpoints
-| Horned Helm           | xxxx |      |      |      |      |      |      |  2 | Partial, Ugly
+| Plate Helm            | xxxx |      |      |      |      |      |      |  2 | Impenetrable, Weakpoints
 | Leather Leggings      |      |      |      |      | xxxx | xxxx |      |  1 |
 | Leather Skullcap      | xxxx |      |      |      |      |      |      |  1 | Partial
+| Mail Chausses         |      |      |      |      | xxxx | xxxx |      |  2 | Flexible
 | Mail Coat             |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
 | Shield (Large)        |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary               |    3 |    3 |    3 |    5 |    1 |    1 |    3 |
+| Summary               |    3 |    3 |    3 |    5 |    3 |    3 |    3 |
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
@@ -30,23 +31,22 @@
 | **Weapons**              |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Battle Axe               |   2 |     |
-| Throwing Axe (1)         |   1 |     |
 | Shield (Large)           |   3 |     |
 |--------------------------|-----|-----|--------------------------------
 | **Armor**                |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Bear-Pelt Coat           |   1 |   W | (Leather Jack), Fine
 | Boiled Lthr Breastplate  |   2 |   W | Weakpoints
-| Horned Helm              |   1 |   W | Partial, Ugly
+| Guillarme's plate helm   |   2 |     | Impenetrable, Weakpoints, -20 Perception
 | Leather Leggings         |   1 |   W |
 | Leather Skullcap         |     |   W | Partial
+| Mail Chausses            |   2 |   W | Flexible
 | Mail Coat                |   3 |   W | Flexible
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Animal Hide Cloak        |   1 |   W |
 | Clothing                 |   1 |   W | Long sleeves and overalls
-| Kill Trophies            |     |     | See journal
 | Tribe Tattoos            |     |   W | Mix of low-key Skaeling, family crest, and Rhya
 |--------------------------|-----|-----|--------------------------------
 | **Tools/Kits**           |     |     |
@@ -58,16 +58,13 @@
 | **Miscellaneous**        |     |     |
 |--------------------------|-----|-----|--------------------------------
 |--------------------------|-----|-----|--------------------------------
-| *Container: Backpack*    |   2 |   W | Carries: 4 Enc
+| *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe (2)         |   2 |     |
 |--------------------------|-----|-----|--------------------------------
-| *Container: Pouch*       |     |   W | Carries: 1 Enc
-|--------------------------|-----|-----|--------------------------------
-|--------------------------|-----|-----|--------------------------------
 | **Coins**                |     |     | 2GC 6/3
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |  11 |
+| **Total**                |     |  12 | Encumbered x1
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
@@ -88,13 +85,19 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
+- 18 GC
 - 3x hand weapon
 - 1x dagger
 - 1x crowbar
 - 1x bedroll
-- Guillarme's plate helm
+- 1x throwing axe
 - Guillarme's shield (large)
 - Melted slag of: Iron Bolt [gore-soaked greatsword]
+- Kill trophies (see journal)
+- Backpack
+- Pouch
+- Blessed Torch (1 enc, illuminates 20yds [as opposed to 1], lasts twice as long)
+- Horned Helm (1 enc, Partial, Ugly)
 
 - 10 units of luxuries (10 enc/unit)
     - Purchased at 4.5 GC/unit in Altdorf

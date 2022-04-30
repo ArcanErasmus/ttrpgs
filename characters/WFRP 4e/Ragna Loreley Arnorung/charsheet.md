@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
-- Short-term ambition: Make a big profit on my trade goods (likely Fielbach)
-- Long-term ambition: Be respected and/or feared by a large populace
-- Party short-term: -
-- Party long-term: Find Etelka Herzen
+- Personal short-term ambition: Feel like a princess
+- Personal long-term ambition: Be respected and/or feared by a large populace
+- Party short-term ambition: Make a big profit on trade goods (likely Fielbach)
+- Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2330/2335
+## Total/Spent XP: 2330/2365
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
@@ -201,13 +201,14 @@
 ### Warrior Born [1/1]
 - +5 WS
 
-## Career Info
+## Background Info
 ### Homeland Skills
 - Consume Alcohol, Cool, Gossip, Haggle, Language (Norse), Language (Wastelander), Lore (Nordland), Melee (Basic), Ranged (Throwing), Row, Sail, Swim
 
 - Overlap: Consume Alcohol, Cool, Gossip, Melee (Basic), Row, Swim
 - Non-ovr: Haggle, Language (Norse), Language (Wastelander), Lore (Nordland), Ranged (Throwing), Sail
 
+## Freeholder Info (Warrior)
 ### Bondsman - Brass 5
 - Attr: WS, S, WP
 - Skills: Athletics, Consume Alcohol, Cool, Dodge, Endurance, Lore (Norsca), *Melee (Basic)*, Row, Swim
@@ -236,8 +237,26 @@
 - Attr: Ag
 - Skills: Lore (Any), Ride (Horse or Mammoth)
 - Talents: Combat Master, Frightening, Relentless, Strike Mighty Blow
-- Rhya Talents: Gregarious, Master Tradesman (Farmer, Gardener, Herbalist, or Midwife), Savvy
+- Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
 - Trappings: Land in Norsca, Large Unit of Bondsmen, Spoils of War (10d100 GC), Your Own Named Tribe
+
+## Boatman Info (Riverfolk)
+### Barge Master (+ previous) - Silver 5
+- Attr: S, T, I, Ag, Dex, Int
+- Skills: Athletics, Climb, Consume Alcohol, Dodge, Endurance, Entertain (Singing), Entertain (Storytelling), Gossip, Haggle, Heal, Intuition, Leadership, Lore (Riverways), Melee (Brawling), Navigation, Perception, Row, Sail, Swim, Trade (Boatbuilding)
+- Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees), Lore (The Old Faith), Secret Signs (Taalrhya), Trade (Farmer, Feller, Gardener, Herbalist, or Midwife)
+- Talents: Menacing, Orientation, Pilot, Public Speaking
+- Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
+- Trappings: Hat, Riverboat and Crew
+
+## Seaman Info (Riverfolk)
+### Ship's Master (+ previous) - Gold 2
+- Attr: WS, I, Ag, Dex, Int, Fel
+- Skills: Athletics, Charm, Climb, Consume Alcohol, Cool, Dodge, Endurance, Entertain (Singing), Gamble, Gossip, Language (any), Leadership, Melee (Basic), Melee (Brawling), Navigation, Perception, Row, Sail, Swim, Trade (Carpenter)
+- Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees), Lore (The Old Faith), Secret Signs (Taalrhya), Trade (Farmer, Feller, Gardener, Herbalist, or Midwife)
+- Talents: Orientation, Pilot, Public Speaking, Savvy
+- Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
+- Trappings: Shipping Charts, Sailing Ship and Crew, Sextant, Spyglass
 
 ## BG Skill/Talent/Item Options
 ### Skills
