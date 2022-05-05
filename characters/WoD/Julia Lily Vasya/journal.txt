@@ -8,18 +8,27 @@
 ║ · Questions for GM       
 ║   · What is the local cuisine (type/abundance of meat? vegetables? type of cereal grain?)
 ║   · What types of utensils do people use in a tavern? do they bring their own?
-║   · "What sort of analogous other-realms (like the spirit realm) are there in this world?" (essence already spent)
 ║ · Between session stuff
-║   · You're in the penumbra, cause mayhem instead of sleeping!
 ║   · 
 ║   · 
 ║ · 
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 6 - 2022/05/04?future                                                                    ║
+║ Session 7 - 2022/05/11?future                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
 ║   · 
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 6 - 2022/05/04                                                                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · The inn
+║   · Studied Mol-Garathi language overnight, 0 successes @ diff 9
+║ · On the road, towards The Calamity
+║   · The area is getting more magical, but we will encounter a region that it comes from
+║   · There are sky rivers
+║   · Sky rivers contain demon fish
+║   · So far, Demonic beasts have been mutated towards conflict
+║   · Musings on whether we *are* on Earth, but in some sort of weird other-multiverse-cluster
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 5 - 2022/04/27                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -31,6 +40,8 @@
 ║   · Vondorvia is to our north-east                                                               ║
 ║   · Compasses *appear* to work                                                                   ║
 ║   · We have a world map!                                                                         ║
+║ · Post session stuff                                                                             ║
+║   · There are the same analagous other-realms in this world: spirit, shadow, fae                 ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 4 - 2022/04/06                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -105,7 +116,8 @@
 ║ XP Log                                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ ·  8: 1x Essence 1 -> 2
-║ ·  3: 1x New Ability (Melee)
+║ ·  3: Melee   -> 1          
+║ ·  2: Academics 1 -> 2      
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -136,9 +148,15 @@
 ║   · 16: Essence 2 -> 3
 ║   ·  8: WP 8 -> 9
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
-║   ·  9: False Springs Beckon
-║   ·  6: Golden Years Tarnished Black
-║   ·  3: Cracked Cell Circumvention
-║   ·  3: Mocking Murmurs Retort
-║   ·  3: Without Honor, Without Hope
-║   ·   : 
+║   · 15: Black Mirror Incarnation - perfect illusion of being someone else
+║   · 15: The City Still Stands - 1/story free shintai instead of dying
+║   ·  9: Crowned With Fury - force someone to follow orders or suffer
+║   ·  9: False Springs Beckon - offer reprieve and make demands of subject
+║   ·  9: Green Sun Nimbus Flare - fat automatic agg damage bonus
+║   ·  6: By Rage Recast (#2) - manifest yet another shintai aspect
+║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
+║   ·  3: Cracked Cell Circumvention - escape all types of confinement
+║   ·  3: Mocking Murmurs Retort - make ppl distrust speaker's words
+║   ·  3: Without Honor, Without Hope - you are good in the cold
+║   · 
+║   · 

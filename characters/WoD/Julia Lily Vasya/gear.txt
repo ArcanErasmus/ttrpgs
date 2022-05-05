@@ -5,16 +5,19 @@
 ╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
 ║ · Stiletto & sheath                             │ 01 Glock mag: 9mm 17/17                        ║
 ║ · Phone, wallet, keys                           │ 02 Glock mag: 9mm 17/17                        ║
-║ · Fencing tournament trophy                     │ 03 Glock mag: 9mm sub 16/17                    ║
-║ · A couple this-world outfits                   │ 04 MP5 mag: 9mm 27/30                          ║
-║ · White suit, kevlar undershirt, flats          │ 05 MP5 mag: 9mm 30/30                          ║
+║ · Fencing tournament trophy                     │ 03 Glock mag: 9mm sub 17/17                    ║
+║ · Traveler's outfit                             │ 04 MP5 mag: 9mm 30/30                          ║
+║ · White suit, kevlar undershirt, flats          │ 05 MP5 mag: 9mm 27/30                          ║
 ║ · Duffel with toiletries & extra clothes        │ 06                                             ║
 ║ · Glock 17 + suppressor                         │ 07                                             ║
 ║ · MP5                                           │ 08                                             ║
 ║ · Shooter's earplugs                            │ 09                                             ║
-║ · Bag of brass casings (3)                      │ x  MP5 mag: 9mm sub 30/30                      ║
+║ · Bag of brass casings (3)                      │ x  MP5 mag: 9mm sub 29/30                      ║
 ║ · Mysterious journal found in camp, is ledger   │ x                                              ║
 ║ · Many vials of perfume                         │ x                                              ║
+║ · Spirit-reflection of "coinage"?               │ x                                              ║
+║ · Robe of "The Cult of the Thousand Voices"     │ x                                              ║
+║ ·                                               │ x                                              ║
 ║ ·                                               │ x                                              ║
 ║ ·                                               │ x                                              ║
 ║ · Coinage worth 3 dots Resources                │ x                                              ║

@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠··                        │  11/ 18         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠··                        │  13/ 21         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ▓░░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠·· ··                   │ 8w/17j/35r yds  ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ♠·                   │ 8w/17j/35r yds  ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -18,7 +18,7 @@
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
-║ Alertness  │ ♠∙∙∙∙ │           ║ Animal Ken │x-----x│           ║ Academics    │ ♠∙∙∙∙ │         ║
+║ Alertness  │ ♠∙∙∙∙ │           ║ Animal Ken │x-----x│           ║ Academics    │ ♠♠∙∙∙ │         ║
 ║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Cmptr/Enigma │ ♠∙∙∙∙ │         ║
 ║ Awareness  │ ♠∙∙∙∙ │           ║ Drive/Ride │ ∙∙∙∙∙ │           ║ Finance/Sncl │ ♠∙∙∙∙ │         ║
 ║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠∙∙∙ │           ║ Investigatn  │K♠♠♠♠∙ │ Deductn ║
