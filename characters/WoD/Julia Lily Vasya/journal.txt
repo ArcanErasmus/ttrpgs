@@ -9,8 +9,8 @@
 ║   · What is the local cuisine (type/abundance of meat? vegetables? type of cereal grain?)
 ║   · What types of utensils do people use in a tavern? do they bring their own?
 ║ · Between session stuff
-║   · 
-║   · 
+║   · PLAN YOUR XP OPTIONS
+║   · Read /WoD/Werewolf/W20 - Riot of the Flesh.pdf
 ║ · 
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
@@ -116,7 +116,7 @@
 ║ XP Log                                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ ·  8: 1x Essence 1 -> 2
-║ ·  3: Melee   -> 1          
+║ ·  3: Melee 0 -> 1          
 ║ ·  2: Academics 1 -> 2      
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
@@ -128,11 +128,11 @@
 ║   ·  4: Strength 1 -> 2
 ║   ·  4: Stamina 1 -> 2
 ║ · Abilities
-║   ·  3: Athletics   -> 1
+║   ·  3: Athletics 0 -> 1
 ║   ·  3: Empathy 3 -> 4
 ║   ·  3: Firearms 3 -> 4 (Unlocks 1-to-1 with Archery!)
 ║   ·  3: Intimidation 3 -> 4
-║   ·  3: Law   -> 1
+║   ·  3: Law 0 -> 1
 ║   ·  3: Subterfuge 3 -> 4
 ║   ·  2: Alertness 1 -> 2
 ║   ·  2: Awareness 1 -> 2
@@ -143,20 +143,29 @@
 ║   ·  2: Stealth 2 -> 3
 ║   ·  2: Streetwise 1 -> 2
 ║   ·  1: Leadership 1 -> 2
-║ · Charms
-║ · Other
-║   · 16: Essence 2 -> 3
-║   ·  8: WP 8 -> 9
-╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+║ · Caste Charms
 ║   · 15: Black Mirror Incarnation - perfect illusion of being someone else
 ║   · 15: The City Still Stands - 1/story free shintai instead of dying
 ║   ·  9: Crowned With Fury - force someone to follow orders or suffer
 ║   ·  9: False Springs Beckon - offer reprieve and make demands of subject
 ║   ·  9: Green Sun Nimbus Flare - fat automatic agg damage bonus
+║   ·  9: Ultimate Darkness Internalization - cross shroud, can take others
+║   ·  6: A Cold and Lonely World - isolate someone, ruins mundane life
 ║   ·  6: By Rage Recast (#2) - manifest yet another shintai aspect
 ║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
 ║   ·  3: Cracked Cell Circumvention - escape all types of confinement
 ║   ·  3: Mocking Murmurs Retort - make ppl distrust speaker's words
 ║   ·  3: Without Honor, Without Hope - you are good in the cold
+║   · 
+║   · 
+║   · 
+║ · Non-Caste Charms
+║   · 20: The King and the Kingdom - make your own hell
+║   · 
+║   · 
+║ · Other
+║   · 16: Essence 2 -> 3
+║   ·  8: WP 8 -> 9
+╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 ║   · 
 ║   · 
