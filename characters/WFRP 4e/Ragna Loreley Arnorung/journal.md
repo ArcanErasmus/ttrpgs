@@ -105,8 +105,26 @@ To seek glory, and see the world.
         - Motivation: Wild out
         - Background: Genetically Norscan but culturally Nordlander, left home to conquer the world
 
+### Arguing with Peronelle
+- Finding common ground:
+    We are both robbed of power by our statuses: Peronelle is a Bretonnian widowed noblewoman, and Ragna is just plain poor.
+    We've fought together and traveled together, and learned much about each other.
+    We're stubborn, yes, but we want to leave a positive mark on the world, and that will be easier together.
+    Fuck Chaos cults!
+- Making concessions
+    Ragna will check her biases against other religions, especially Shallya and Sigmar.
+    Ragna will put effort into dressing and acting more like her noble blood, and even try to learn to read & write.
+    Ragna will agree to get partial coverup tattoos, de-emphasizing the Chaos Gods for Taalrhyan and Imperial symbolism.
+    Ragna will agree that Norscans aren't infallible, and their traditions aren't perfect.
+    Ragna will agree to let Peronelle hold her accountable to this.
+- Demanding concessions
+    Peronelle will listen to Ragna talk about her faith, and give it honest consideration.
+    Peronelle will extend at least basic human decency to other religions and cultures, even if she doesn't fully trust them, and come up with at least one genuine, non-backhanded positive thing to say about them when prompted by Ragna.
+    Peronelle will treat mutants as people, not degenerates but *victims*.
+    Peronelle will agree to let Ragna hold her accountable to this.
+
 ## Enemies
-- ?
+- Guillarme de Mountonfou
 
 ## Notes on background places
 - ?
@@ -149,80 +167,3 @@ To seek glory, and see the world.
     - Common Holy Symbols: ?
     - Strictures
         #. ?
-
-# Career Counseling
-## Duellist
-### Fencer - Silver 3
-- Attributes
-    - *WS*
-    - I
-    - Ag
-- Skills
-    - Athletics
-    - Dodge
-    - *Endurance*
-    - *Heal*
-    - Intuition
-    - Language (Classical)
-    $ Melee (Any)
-    - Perception
-- Talents
-    - Beat Blade
-    - Distract
-    - Feint
-    - Step Aside
-- Trappings
-    - Hand Weapon or Rapier
-    - Sling Bag containing Clothing and 1d10 Bandages
-
-### Duellist - Silver 5
-- Attributes
-    - BS
-- Skills
-    - Charm
-    - *Cool*
-    - Gamble
-    - Melee (Parry)
-    - Ranged (Blackpowder)
-    - Trade (Gunsmith)
-- Talents
-    **Combat Reflexes**
-    **Etiquette (Any)**
-    - Fast Shot
-    - Reversal
-- Trappings
-    - Main Gauge or Sword-breaker
-    - Pistol with Gunpowder and Ammunition
-
-### Duelmaster - Gold 1
-- Attributes
-    -*S*
-- Skills
-    **Intimidate**
-    - Leadership
-    -*Melee (Basic)*
-    - Perform (Acrobatics)
-- Talents
-    -*Ambidextrous*
-    - Disarm
-    -*Dual Wielder*
-    **Riposte**
-- Trappings
-    - Quality Rapier
-    - Hand Weapon
-    - Trusty Second
-    - 2 Wooden Training Swords
-
-### Judicial Champion - Gold 3
-- Attributes
-    -*WP*
-- Skills
-    - Lore (Law)
-    - Melee (Any)
-- Talents
-    **Combat Master**
-    - Menacing
-    - Reaction Strike
-    - Strike to Injure
-- Trappings
-    - 2 Quality Weapons

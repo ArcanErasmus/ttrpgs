@@ -18,7 +18,6 @@
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
 |----------------|------------|---------|-------|-----------------
 | Battle Axe     | M Basic    | Average | +SB+4 | Hack
-| Hand Weapon    | M Basic    | Average | +SB+4 |
 | Shield (Large) | M Basic    | V Short | +SB+3 | Shield 3, Defensive, Undamaging
 |----------------|------------|---------|-------|-----------------
 | Ranged Weapon  | Group      | Range   | Dam   | Qualities/Flaws
@@ -62,7 +61,7 @@
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe (2)         |   2 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 2GC 6/3
+| **Coins**                |     |     | 0GC  5/- 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |  12 | Encumbered x1
 
@@ -85,7 +84,7 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
-- 18 GC
+- 75 GC
 - 3x hand weapon
 - 1x dagger
 - 1x crowbar
@@ -99,7 +98,12 @@
 - Blessed Torch (1 enc, illuminates 20yds [as opposed to 1], lasts twice as long)
 - Horned Helm (1 enc, Partial, Ugly)
 
-- 10 units of luxuries (10 enc/unit)
+### Trade Goods
+- 28 units of lumber (10 enc/unit)
+    - Purchased at 1.2 GC/unit in Altdorf
+        - Includes 20% discount
+    - Trade Rumor: Will always have buyer in Grünberg
+- 0 units of luxuries (10 enc/unit)
     - Purchased at 4.5 GC/unit in Altdorf
         - Includes 10% discount
     - Trade Rumor: 2x sell price in Fielbach

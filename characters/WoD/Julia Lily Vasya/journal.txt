@@ -146,18 +146,21 @@
 ║ · Caste Charms
 ║   · 15: Black Mirror Incarnation - perfect illusion of being someone else
 ║   · 15: The City Still Stands - 1/story free shintai instead of dying
+║   · 12: Inner Devils Unchained - turn target into fomori, reversible
 ║   ·  9: Crowned With Fury - force someone to follow orders or suffer
 ║   ·  9: False Springs Beckon - offer reprieve and make demands of subject
 ║   ·  9: Green Sun Nimbus Flare - fat automatic agg damage bonus
+║   ·  9: Night Swallows Secrets - prevent discussion of event or evidence
 ║   ·  9: Ultimate Darkness Internalization - cross shroud, can take others
 ║   ·  6: A Cold and Lonely World - isolate someone, ruins mundane life
 ║   ·  6: By Rage Recast (#2) - manifest yet another shintai aspect
 ║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
+║   ·  3: By Pain Reforged - counter low pain tolerance, don't get KO'd
 ║   ·  3: Cracked Cell Circumvention - escape all types of confinement
 ║   ·  3: Mocking Murmurs Retort - make ppl distrust speaker's words
+║   ·  3: Ox-Body Technique - cheap extra health levels
+║   ·  3: Prince of Ruin Attitude - make broken things just work
 ║   ·  3: Without Honor, Without Hope - you are good in the cold
-║   · 
-║   · 
 ║   · 
 ║ · Non-Caste Charms
 ║   · 20: The King and the Kingdom - make your own hell

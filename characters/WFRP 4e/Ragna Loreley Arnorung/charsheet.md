@@ -13,13 +13,13 @@
 - Party short-term ambition: Make a big profit on trade goods (likely Fielbach)
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2330/2365
+## Total/Spent XP: 2450/2455
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
 |  275 |   0 |  10 | WS
-|  125 |   0 |   5 | S
-|  125 |   0 |   5 | T
+|  185 |   0 |   7 | S
+|  185 |   0 |   7 | T
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
@@ -52,8 +52,8 @@
 |-----|----|----|----|----|----|
 |!WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 50 |    |  5 |    | 55 |
-|^T   | 55 |  5 |  5 |    | 65 |
+|^S   | 50 |    |  7 |    | 57 |
+|^T   | 55 |  5 |  7 |    | 67 |
 | I   | 28 |    |  2 |    | 30 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
@@ -78,11 +78,11 @@
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-|!C | Consume Alcohol    | 15 | T   | 80 |
+|!C | Consume Alcohol    | 15 | T   | 82 |
 |!C | Cool               | 15 | WP  | 63 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |  5 | T   | 70 |
+| C | Endurance          |  5 | T   | 72 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -108,8 +108,8 @@
 | C | Sail               |  5 | Ag  | 35 |
 | C | SecSign (TaalRhya) |  5 | Int | 37 |
 |   | Stealth            |    | Ag  |    |
-|!C | Swim               | 15 | S   | 70 |
-| C | Trade (Feller)     |  1 | S   | 56 |
+|!C | Swim               | 15 | S   | 72 |
+| C | Trade (Feller)     |  1 | S   | 58 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
@@ -293,10 +293,10 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 1060
-- Attributes: 360
-    - S  | 5->10 | 150
-    - T  | 5->10 | 150
+### Rank 2->3: 740
+- Attributes: 240
+    - S  | 7->10 |  90
+    - T  | 7->10 |  90
     - WP | 8->10 |  60
 - Skills: 500
     - Athletics          |   ->10 | 125
@@ -307,75 +307,6 @@
     - Ranged (Throwing)  |  6->10 |  60
     - Row                |   -> 5 |  50
     - Trade (Feller)     |  1-> 5 |  40
-- Talents: 200
-    - Berserk Charge | 1->2 | 200
-
-## Rank 3->4 xp
-### Bare Minimum 3->4: 1625
-- Attributes: 1225
-    - WS | 10->15 | 200
-    - S  | 10->15 | 200
-    - T  | 10->15 | 200
-    - I  |  2->15 | 425
-    - WP | 10->15 | 200
-- Skills: 400
-    - Athletics         | 10->15 | 100
-    - Endurance         | 10->15 | 100
-    - Lore (Trees)      | 10->15 | 100
-    - Ranged (Throwing) | 10->15 | 100
-- Talents: 0
-
-### Acquire From 3 And Then Leave: 1755 (+100xp fee to bail)
-- Attributes: 305
-    - I  |  2->12 | 305
-- Skills: 550
-    - Leadership           |   ->10 | 125
-    - Lore (Chaos)         |   ->10 | 125
-    - Lore (The Old Faith) |   ->10 | 125
-    - Melee (Polearm)      |   -> 5 |  50
-    - Perception           |   ->10 | 125
-- Talents: 900
-    - Battle Rage           |   -> 2 | 300
-    - Fearless (Everything) |   -> 1 | 100
-    - Gregarious            |   -> 1 | 100
-    - Robust                |   -> 2 | 300
-    - Resistance (Mutation) |   -> 1 | 100
-
-### Desired 3->4: 3425
-- Acquire From 3 And Then Leave: 1755
-- Attributes: 920
-    - WS | 10->15 | 200
-    - S  | 10->15 | 200
-    - T  | 10->15 | 200
-    - I  | 12->15 | 120
-    - WP | 10->15 | 200
-- Skills: 750
-    - Intimidate         |  5->15 | 175
-    - Language (Battle)  |  5->10 |  75
-    - Leadership         | 10->15 | 100
-    - Lore (Norsca)      |  5->15 | 175
-    - Outdoor Survival   |  5->10 |  75
-    - Sail               |  5->15 | 175
-    - SecSign (TaalRhya) |  5->10 |  75
-
-## Rank 4->? xp
-### Bare Minimum 4->x: 2700
-- Attributes: 1500
-    - WS | 15->20 | 250
-    - S  | 15->20 | 250
-    - T  | 15->20 | 250
-    - I  | 15->20 | 250
-    - Ag | 15->20 | 250
-    - WP | 15->20 | 250
-- Skills: 1200
-    - Consume Alcohol    | 15->20 | 150
-    - Cool               | 15->20 | 150
-    - Intimidate         | 15->20 | 150
-    - Leadership         | 15->20 | 150
-    - Lore (Norsca)      | 15->20 | 150
-    - Melee (Basic)      | 15->20 | 150
-    - Sail               | 15->20 | 150
-    - Swim               | 15->20 | 150
 - Talents: 0
 
 ## Homebrew
