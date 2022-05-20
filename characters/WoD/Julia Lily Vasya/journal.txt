@@ -11,24 +11,41 @@
 ║ · Between session stuff
 ║   · PLAN YOUR XP OPTIONS
 ║   · Read /WoD/Werewolf/W20 - Riot of the Flesh.pdf
+║   · Plan for Smithy to snap when she gets angry. *Make* her angry and direct her at hostiles.
 ║ · 
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 7 - 2022/05/11?future                                                                    ║
+║ Session 7 - 2022/05/25?future                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
+║   · 
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 7 - 2022/05/18                                                                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · On the road, towards The Calamity (Wednesday)
+║   · Magic appears to be in constant flow/flux, some sort of "adjustment" taking place
+║   · We make camp, studied Mol-Garathi language overnight, _ successes @ diff _
+║ · Camped on the path to The Calamity (Thursday)
+║   · My "definitive answer" on the state of the trees returns OVERLAPPING CONFLICTING INFORMATION
+║   · Spirits materialize from trees even w/o Smithy prompting, desire magical blood to manifest
+║   · "Demonic" aura color/pattern is a flavor on *change/transformation*, trees have it stronger
+║   · The tree spirits are localized to fairly rare areas, not desperate enough to attack
+║   · As we continue inwards, we smell modern city smog, and briefly get a smidgen of cell signal
+║   · It is likely that we are experiencing hallucinations or manifestations from memory
+║   · We begin to turn back
+║   · 
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 6 - 2022/05/04                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · The inn
-║   · Studied Mol-Garathi language overnight, 0 successes @ diff 9
-║ · On the road, towards The Calamity
-║   · The area is getting more magical, but we will encounter a region that it comes from
-║   · There are sky rivers
-║   · Sky rivers contain demon fish
-║   · So far, Demonic beasts have been mutated towards conflict
-║   · Musings on whether we *are* on Earth, but in some sort of weird other-multiverse-cluster
+║ · The inn                                                                                        ║
+║   · Studied Mol-Garathi language overnight, 0 successes @ diff 9                                 ║
+║ · On the road, towards The Calamity                                                              ║
+║   · The area is getting more magical, but we will encounter a region that it comes from          ║
+║   · There are sky rivers                                                                         ║
+║   · Sky rivers contain demon fish                                                                ║
+║   · So far, Demonic beasts have been mutated towards conflict                                    ║
+║   · Musings on whether we *are* on Earth, but in some sort of weird other-multiverse-cluster     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 5 - 2022/04/27                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -45,79 +62,80 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 4 - 2022/04/06                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · Info from the journal-ledger
-║   · Merchant wasn't super wealthy, we have a modest sum of coinage
-║   · Our haul of the perfumes is large enough to be difficult to fence
-║   · Merchant doesn't seem to deal in shady goods
-║ · On the road, past the bridge
-║   · Encountered a cart being attacked by 2 wolves and a werewolf-like being
-║   · (The same group Julia stole from)
-║ · Chatting with travelers: Revold Joyce (Merchant), Dana Adalia (Guard), Flynn Dantius (Driver)
-║   · Using and being around magic corrupts the body, there are semantic "stages" to the changes
-║   · We are near the "Mol-Garath Calamity", which causes a lot of magic corruption
-║   · English is not uncommon to this world, but generally used by unsavory types (cultists)
-║   · There is a war against the forces of The Demon Queen, frontlines are fairly far north
-║   · The "Fey" exist, are far to the East, but portals sporadically found in "any forest"
-║   · There is a system of magic, which isn't particularly secret, but uses some other language
-║   · The idea of multiple systems of magic was bewildering to them
-║   · The idea of monotheism was strange, polytheism appears the norm
-║   · There are Earth animals (horses, wolves, oxen)
-║   · Full "Demons" can look a lot like Rahmiel, but not The Initiate
-║   · There is an Adventurer's Guild that hunts corrupted beasts to keep the roads clear
-║   · The Adventurer's Guild is separate from "the army", but draws from same population
-║   · The "Fey" are NOT actively watching us
-║   · Espinade is to the north of us        
-║ · Arrived at an inn along the road
-║   · Revold offered to pay for a night for us
+║ · Info from the journal-ledger                                                                   ║
+║   · Merchant wasn't super wealthy, we have a modest sum of coinage                               ║
+║   · Our haul of the perfumes is large enough to be difficult to fence                            ║
+║   · Merchant doesn't seem to deal in shady goods                                                 ║
+║ · On the road, past the bridge                                                                   ║
+║   · Encountered a cart being attacked by 2 wolves and a werewolf-like being                      ║
+║   · (The same group Julia stole from)                                                            ║
+║ · Chatting with travelers: Revold Joyce (Merchant), Dana Adalia (Guard), Flynn Dantius (Driver)  ║
+║   · Using and being around magic corrupts the body, there are semantic "stages" to the changes   ║
+║   · We are near the "Mol-Garath Calamity", which causes a lot of magic corruption                ║
+║   · English is not uncommon to this world, but generally used by unsavory types (cultists)       ║
+║   · There is a war against the forces of The Demon Queen, frontlines are fairly far north        ║
+║   · The "Fey" exist, are far to the East, but portals sporadically found in "any forest"         ║
+║   · There is a system of magic, which isn't particularly secret, but uses some other language    ║
+║   · The idea of multiple systems of magic was bewildering to them                                ║
+║   · The idea of monotheism was strange, polytheism appears the norm                              ║
+║   · There are Earth animals (horses, wolves, oxen)                                               ║
+║   · Full "Demons" can look a lot like Rahmiel, but not The Initiate                              ║
+║   · There is an Adventurer's Guild that hunts corrupted beasts to keep the roads clear           ║
+║   · The Adventurer's Guild is separate from "the army", but draws from same population           ║
+║   · The "Fey" are NOT actively watching us                                                       ║
+║   · Espinade is to the north of us                                                               ║
+║ · Arrived at an inn along the road                                                               ║
+║   · Revold offered to pay for a night for us                                                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 3 - 2022/03/30                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · On the road
-║   · Come to a bridge
-║ · Scouting alone during the night
-║   · Come across a camp of 3 travelers
-║   · Steal coinage, vials, journal from them, frame the person on watch
-║ · By the destroyed bridge
-║   · Ruth earthbends a hut to camp in, and in the morning, a new bridge
-║   · We investigate mystery journal, seems to be a ledger
+║ · On the road                                                                                    ║
+║   · Come to a bridge                                                                             ║
+║ · Scouting alone during the night                                                                ║
+║   · Come across a camp of 3 travelers                                                            ║
+║   · Steal coinage, vials, journal from them, frame the person on watch                           ║
+║ · By the destroyed bridge                                                                        ║
+║   · Ruth earthbends a hut to camp in, and in the morning, a new bridge                           ║
+║   · We investigate mystery journal, seems to be a ledger                                         ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 2 - 2022/03/23                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · A cabin somewhere
-║   · Looted supplies and food
-║   · Smithy got directions to civilization from a river spirit
-║   · Reviewed political knowledge: We are "near The Spine, in Mol-Garath, in Voll, in Vort"
-║   · Shoved the paladin bodies in cages, posed summoner body to appear as ritual suicide
-║ · On the road
-║   · Accosted by a "bear made demonic by an overabundance of magic"
-║   · Conclusion: Too much magic = turn into "demon"
-║   · The bear was oversized, extremely enraged, capable of absorbing bullets
+║ · A cabin somewhere                                                                              ║
+║   · Looted supplies and food                                                                     ║
+║   · Smithy got directions to civilization from a river spirit                                    ║
+║   · Reviewed political knowledge: We are "near The Spine, in Mol-Garath, in Voll, in Vort"       ║
+║   · Shoved the paladin bodies in cages, posed summoner body to appear as ritual suicide          ║
+║ · On the road                                                                                    ║
+║   · Accosted by a "bear made demonic by an overabundance of magic"                               ║
+║   · Conclusion: Too much magic = turn into "demon"                                               ║
+║   · The bear was oversized, extremely enraged, capable of absorbing bullets                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 1 - 2022/03/16                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · 15 Charlcote Pl, Baltimore, MD
-║   · Showed up with Smithy to assassinate a very unpopular supernatural
-║   · Esmeralda & Ruth were there to make a purchase of some fancy book
-║   · Woebegone was there to work on one of the target's underlings
-║   · The Initiate was there to also assassinate the target
-║   · Smithy shot the target dead
-║   · We got ripped out of our world
-║ · A cellar somewhere
-║   · Confused summoner-looking guy does not understand why we specifically showed up
-║   · 2 armored paladin-types arrive and attack summoner, we kill all 3 figures
-║   · We determine we are in a different world, were summoned "to kill the demon queen", paladins
-║     serve "the dead king"
-║   · Find a couple of books in English
-║   · Exit the cellar together
-║ · A cabin somewhere
-║   · This summoner-dude lived alone in middle of woods
-║   · It's nighttime, nobody else around, signs of civilization couple days' walk away
+║ · 15 Charlcote Pl, Baltimore, MD                                                                 ║
+║   · Showed up with Smithy to assassinate a very unpopular supernatural                           ║
+║   · Esmeralda & Ruth were there to make a purchase of some fancy book                            ║
+║   · Woebegone was there to work on one of the target's underlings                                ║
+║   · The Initiate was there to also assassinate the target                                        ║
+║   · Smithy shot the target dead                                                                  ║
+║   · We got ripped out of our world                                                               ║
+║ · A cellar somewhere                                                                             ║
+║   · Confused summoner-looking guy does not understand why we specifically showed up              ║
+║   · 2 armored paladin-types arrive and attack summoner, we kill all 3 figures                    ║
+║   · We determine we are in a different world, were summoned "to kill the demon queen", paladins  ║
+║     serve "the dead king"                                                                        ║
+║   · Find a couple of books in English                                                            ║
+║   · Exit the cellar together                                                                     ║
+║ · A cabin somewhere                                                                              ║
+║   · This summoner-dude lived alone in middle of woods                                            ║
+║   · It's nighttime, nobody else around, signs of civilization couple days' walk away             ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ XP Log                                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ ·  8: 1x Essence 1 -> 2
-║ ·  3: Melee 0 -> 1          
-║ ·  2: Academics 1 -> 2      
+║ ·  6: Key Charm: By Rage Recast (♠♠)
+║ ·  3: Melee 0 -> 1
+║ ·  2: Academics 1 -> 2
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -146,29 +164,33 @@
 ║ · Caste Charms
 ║   · 15: Black Mirror Incarnation - perfect illusion of being someone else
 ║   · 15: The City Still Stands - 1/story free shintai instead of dying
-║   · 12: Inner Devils Unchained - turn target into fomori, reversible
+║  *· 12: Inner Devils Unchained - turn target into fomori, reversible
 ║   ·  9: Crowned With Fury - force someone to follow orders or suffer
-║   ·  9: False Springs Beckon - offer reprieve and make demands of subject
-║   ·  9: Green Sun Nimbus Flare - fat automatic agg damage bonus
+║  *·  9: False Springs Beckon - offer reprieve and make demands of subject
+║  *·  9: Green Sun Nimbus Flare - fat automatic agg damage bonus
 ║   ·  9: Night Swallows Secrets - prevent discussion of event or evidence
 ║   ·  9: Ultimate Darkness Internalization - cross shroud, can take others
 ║   ·  6: A Cold and Lonely World - isolate someone, ruins mundane life
-║   ·  6: By Rage Recast (#2) - manifest yet another shintai aspect
+║  *·  6: By Rage Recast (#3) - manifest yet another shintai aspect
 ║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
 ║   ·  3: By Pain Reforged - counter low pain tolerance, don't get KO'd
 ║   ·  3: Cracked Cell Circumvention - escape all types of confinement
-║   ·  3: Mocking Murmurs Retort - make ppl distrust speaker's words
+║  *·  3: Mocking Murmurs Retort - make ppl distrust speaker's words
 ║   ·  3: Ox-Body Technique - cheap extra health levels
 ║   ·  3: Prince of Ruin Attitude - make broken things just work
 ║   ·  3: Without Honor, Without Hope - you are good in the cold
 ║   · 
 ║ · Non-Caste Charms
 ║   · 20: The King and the Kingdom - make your own hell
+║  *·  8: Heart-Carving Wind - target can't feel/think specific emotion/thought
+║   ·  8: Laughing Shrapnel Arrival - fall to deal AoE, easy w/ flight
+║  *·  8: Silence of the Inverted Spires - aura of selective silence
+║  *·  8: Wind-Born Stride - 3x speed, 2x initiative, can go even faster
+║   ·  4: Theft as Release - target forgets item you steal
+║   · 
 ║   · 
 ║   · 
 ║ · Other
-║   · 16: Essence 2 -> 3
+║  *· 16: Essence 2 -> 3
 ║   ·  8: WP 8 -> 9
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
-║   · 
-║   · 

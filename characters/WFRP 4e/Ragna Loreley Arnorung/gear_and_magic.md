@@ -36,7 +36,7 @@
 |--------------------------|-----|-----|--------------------------------
 | Bear-Pelt Coat           |   1 |   W | (Leather Jack), Fine
 | Boiled Lthr Breastplate  |   2 |   W | Weakpoints
-| Guillarme's plate helm   |   2 |     | Impenetrable, Weakpoints, -20 Perception
+| Guillarme's plate helm   |   2 |   W | Impenetrable, Weakpoints, -20 Perception
 | Leather Leggings         |   1 |   W |
 | Leather Skullcap         |     |   W | Partial
 | Mail Chausses            |   2 |   W | Flexible
@@ -46,6 +46,7 @@
 |--------------------------|-----|-----|--------------------------------
 | Animal Hide Cloak        |   1 |   W |
 | Clothing                 |   1 |   W | Long sleeves and overalls
+| Kill Trophies            |   1 |   W | Large squid beak, minotaur head, shark full jaw + teeth, Gibberbeast horns & teeth
 | Tribe Tattoos            |     |   W | Mix of low-key Skaeling, family crest, and Rhya
 |--------------------------|-----|-----|--------------------------------
 | **Tools/Kits**           |     |     |
@@ -61,9 +62,13 @@
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe (2)         |   2 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC  5/- 
+| *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |  12 | Encumbered x1
+| Throwing Axe             |   1 |     |
+|--------------------------|-----|-----|--------------------------------
+| **Coins**                |     |     | 0GC 13/- 
+|--------------------------|-----|-----|--------------------------------
+| **Total**                |     |  11 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
@@ -84,26 +89,17 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
-- 75 GC
-- 3x hand weapon
-- 1x dagger
-- 1x crowbar
-- 1x bedroll
-- 1x throwing axe
+- 121 GC
 - Guillarme's shield (large)
 - Melted slag of: Iron Bolt [gore-soaked greatsword]
-- Kill trophies (see journal)
 - Backpack
-- Pouch
-- Blessed Torch (1 enc, illuminates 20yds [as opposed to 1], lasts twice as long)
-- Horned Helm (1 enc, Partial, Ugly)
+    - Horned Helm (1 enc, Partial, Ugly)
+    - Trade Tools (Navigator)
+    - Crowbar
+    - Bedroll
 
 ### Trade Goods
-- 28 units of lumber (10 enc/unit)
-    - Purchased at 1.2 GC/unit in Altdorf
-        - Includes 20% discount
-    - Trade Rumor: Will always have buyer in Grünberg
-- 0 units of luxuries (10 enc/unit)
-    - Purchased at 4.5 GC/unit in Altdorf
+- 19 units of Grain (10 enc/unit)
+    - Purchased at 0.225 GC/unit in Grünberg
         - Includes 10% discount
-    - Trade Rumor: 2x sell price in Fielbach
+    - Trade Rumor: 2x price in Fielbach

@@ -13,13 +13,13 @@
 - Party short-term ambition: Make a big profit on trade goods (likely Fielbach)
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2450/2455
+## Total/Spent XP: 2510/2515
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
 |  275 |   0 |  10 | WS
-|  185 |   0 |   7 | S
-|  185 |   0 |   7 | T
+|  215 |   0 |   8 | S
+|  215 |   0 |   8 | T
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
@@ -52,8 +52,8 @@
 |-----|----|----|----|----|----|
 |!WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 50 |    |  7 |    | 57 |
-|^T   | 55 |  5 |  7 |    | 67 |
+|^S   | 50 |    |  8 |    | 58 |
+|^T   | 55 |  5 |  8 |    | 68 |
 | I   | 28 |    |  2 |    | 30 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
@@ -78,11 +78,11 @@
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-|!C | Consume Alcohol    | 15 | T   | 82 |
+|!C | Consume Alcohol    | 15 | T   | 83 |
 |!C | Cool               | 15 | WP  | 63 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |  5 | T   | 72 |
+| C | Endurance          |  5 | T   | 73 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -105,11 +105,12 @@
 | C | Lore (Norsca)      |  5 | Int | 37 |
 |!C | Lore (Trees)       | 10 | Int | 42 |
 |   | Ride               |    | Ag  |    |
-| C | Sail               |  5 | Ag  | 35 |
+|   | Sail (Wolfship)    |  5 | Ag  | 35 |
+| C | Sail (Barge)       |    | Ag  |    |
 | C | SecSign (TaalRhya) |  5 | Int | 37 |
 |   | Stealth            |    | Ag  |    |
-|!C | Swim               | 15 | S   | 72 |
-| C | Trade (Feller)     |  1 | S   | 58 |
+|!C | Swim               | 15 | S   | 73 |
+| C | Trade (Feller)     |  1 | S   | 59 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
@@ -219,7 +220,7 @@
 
 ### Freeholder - Silver 1
 - Attr: T
-- Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail
+- Skills: Intimidate, Language (Battle), Melee (2H), Outdoor Survival, Ranged (Throwing), Sail (Any)
 - Rhya Skills: Trade (Farmer, Feller, Gardener, Herbalist, or Midwife), Secret Signs (Taalrhya)
 - Talents: Ambidextrous, Berserk Charge, Furious Assault, Warrior Born
 - Rhya Talents: Savvy
@@ -293,12 +294,12 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 740
-- Attributes: 240
-    - S  | 7->10 |  90
-    - T  | 7->10 |  90
+### Rank 2->3: 765
+- Attributes: 180
+    - S  | 8->10 |  60
+    - T  | 8->10 |  60
     - WP | 8->10 |  60
-- Skills: 500
+- Skills: 585
     - Athletics          |   ->10 | 125
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
@@ -306,7 +307,7 @@
     - Outdoor Survival   |   -> 5 |  50
     - Ranged (Throwing)  |  6->10 |  60
     - Row                |   -> 5 |  50
-    - Trade (Feller)     |  1-> 5 |  40
+    - Sail (Barge)       |   ->10 | 125
 - Talents: 0
 
 ## Homebrew

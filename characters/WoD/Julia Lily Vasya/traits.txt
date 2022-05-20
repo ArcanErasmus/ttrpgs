@@ -8,19 +8,11 @@
 ║ · -2 diff to Awareness.                                                                          ║
 ║ · +2 to Initiative results.                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Aspect: Camoflauge                                                                               ║
-║ · Always active.                                                                                 ║
-║ · -2 diff to Stealth rolls. A perception/attention filter.                                       ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Aspect: Flight                                                                                   ║
-║ · Active only via By Rage Recast, or when anima flares.                                          ║
-║ · Can fly at normal movement speed. This is a hover, but manifests several angelic wings.        ║
-╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Merit: Angelic Gaze (♠) - Demon Player's Guide                                                   ║
-║ · -1 diff to Leadership, Intimidation, Empathy rolls.                                            ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Angelic Aura (♠) - Demon Player's Guide                                                   ║
 ║ · -1 diff to Charisma, Appearance rolls when interacting with mortals.                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: Angelic Gaze (♠) - Demon Player's Guide                                                   ║
+║ · -1 diff to Leadership, Intimidation, Empathy rolls.                                            ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Smooth (♠) - Hunter Player's Guide                                                        ║
 ║ · -2 diff to Manipulation rolls.                                                                 ║
@@ -38,8 +30,8 @@
 ║ ║ Calm, Devotion         │ Blue   ║ "Demon"                │ [TBD]              ║                ║
 ║ ║ Change/Transformation  │ Violet ║ Excitement             │ Crackling          ║                ║
 ║ ║ Compassion/Affection   │ Pink   ║ Faerie                 │ Rainbow Highlights ║                ║
-║ ║ Empathy/Sensitivity    │ Green  ║ Marauder               │ Hypnotic/Swirling  ║                ║
-║ ║ Enthusiasm/Idealism    │ Yellow ║ Fanatical              │ Intense Color      ║                ║
+║ ║ Empathy/Worry          │ Green  ║ Marauder               │ Hypnotic/Swirling  ║                ║
+║ ║ Excitement/Idealism    │ Yellow ║ Fanatical              │ Intense Color      ║                ║
 ║ ║ Fear                   │ Orange ║ Ghost                  │ Weak/Faded         ║                ║
 ║ ║ Fury                   │ Maroon ║ Magic/Mage             │ Sparkling          ║                ║
 ║ ║ Pain, Hatred           │ Black  ║ Sickness/Dying         │ Fading             ║                ║

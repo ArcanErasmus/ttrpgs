@@ -4,30 +4,30 @@
 ║ Shintai Form: Devil-Tyrant Avatar Shintai                                                        ║
 ║ · Statline Chosen: +1 Strength, +4 Dexterity, +1 Stamina, 7 aspects.                             ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Shintai Aspect: Camouflage                                                                       ║
-║ · Already active from Demonic Guide background.                                                  ║
-║ · -2 diff Stealth rolls.                                                                         ║
+║ Apocalypse Form: Pass Without Trace (♠♠)                                                         ║
+║ · Always active.                                                                                 ║
+║ · -2 diff to Stealth rolls. A perception/attention filter.                                       ║
+║ · Leave no footprints, disturb no foliage.                                                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Shintai Aspect: Swift Stride                                                                     ║
-║ · Double all movement speeds.                                                                    ║
+║ Shintai Aspect: Flight                                                                           ║
+║ · Active only via By Rage Recast, or when anima flares.                                          ║
+║ · Can fly at normal movement speed. This is a hover, but manifests several angelic wings.        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Shintai Aspect: Transcendent Anathema                                                            ║
+║ · Active only via By Rage Recast, or when anima flares.                                          ║
 ║ · All your attacks which did lethal instead do agg.                                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Apocalypse Form: Enhanced Empathy (♠)                                                            ║
-║ · -2 diff Empathy rolls.                                                                         ║
+║ Apocalypse Form: Enhanced Mental Acuity (♠♠♠♠)                                                   ║
+║ · +1 Perception, +1 Intelligence, +2 Wits.                                                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Apocalypse Form: Enhanced Intuition (♠)                                                          ║
-║ · -2 diff Intuition rolls.                                                                       ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Apocalypse Form: Improved Dexterity (♠♠)                                                         ║
-║ · +2 Dexterity.                                                                                  ║
+║ Apocalypse Form: Enhanced Social Traits (♠♠♠♠)                                                   ║
+║ · +1 Charisma, +2 Manipulation, +1 Appearance.                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Apocalypse Form: Lyrical Voice (♠)                                                               ║
 ║ · -2 diff Leadership, Subterfuge rolls.                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Apocalypse Form: Sea's Beauty (♠♠♠)                                                              ║
-║ · +2 Charisma, +2 Appearance, +1 Manipulation.                                                   ║
+║ · +2 Charisma, +1 Manipulation, +2 Appearance.                                                   ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ General Charm: Key to the Kingdom (♠)                                                            ║
 ║ · Reflexively spend 1 Ess & choose an ability, for (Ess+1) turns in combat, or mins out of it,   ║
@@ -54,9 +54,9 @@
 ║ · Never need to sleep, nor suffer sleep deprivation.                                             ║
 ║ · If sleep, suffer nightmares, and roll WP diff 7 upon waking to regain WP.                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Demon City Charm: By Rage Recast (♠♠)                                                            ║
-║ · Select a Demonic Aspect (not Hardened Devil Body). Chosen: Flight.                             ║
-║ · Concentrate for action & roll Ess diff 7, or reflexively spend 1 Ess, to manifest Aspect.      ║
+║ Demon City Charm: By Rage Recast (♠♠) x2                                                         ║
+║ · Select a Demonic Aspect (not Hardened Devil Body). Chosen: Flight, Transcendent Anathema.      ║
+║ · Concentrate for action & roll Ess diff 7, or reflexively spend 1 Ess, to manifest Aspect(s).   ║
 ║ · Can manifest any/all chosen Aspects this way, all auto-manifest when banner flares.            ║
 ║ · To not manifest with banner, must roll WP diff 7.                                              ║
 ║ · Can purchase Ess Rating times. Aspects don't have to match ones in Shintai form.               ║
