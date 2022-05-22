@@ -171,7 +171,7 @@
 ║   ·  9: Night Swallows Secrets - prevent discussion of event or evidence
 ║   ·  9: Ultimate Darkness Internalization - cross shroud, can take others
 ║   ·  6: A Cold and Lonely World - isolate someone, ruins mundane life
-║  *·  6: By Rage Recast (#3) - manifest yet another shintai aspect
+║  *·  6: By Rage Recast (#3) - another shintai/apoc aspect
 ║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
 ║   ·  3: By Pain Reforged - counter low pain tolerance, don't get KO'd
 ║   ·  3: Cracked Cell Circumvention - escape all types of confinement
@@ -182,13 +182,19 @@
 ║   · 
 ║ · Non-Caste Charms
 ║   · 20: The King and the Kingdom - make your own hell
+║   · 16: Thoughts Resound in Silence - when quiet listen to thoughts
+║   · 12: Chirality Prohibition Index - train acolytes
+║   · 12: Principle-Invoking Onslaught - summon complex weapon and/or infinite ammo
+║   ·  8: All Things Betray - easy perception, faster initiative
 ║  *·  8: Heart-Carving Wind - target can't feel/think specific emotion/thought
 ║   ·  8: Laughing Shrapnel Arrival - fall to deal AoE, easy w/ flight
 ║  *·  8: Silence of the Inverted Spires - aura of selective silence
 ║  *·  8: Wind-Born Stride - 3x speed, 2x initiative, can go even faster
+║   ·  4: Boiling Sea Mastery - stronger/faster/better/smarter when wet/in water
+║   ·  4: Source Code Compliance Protocol - speak ur-language
 ║   ·  4: Theft as Release - target forgets item you steal
 ║   · 
-║   · 
+║ · Homebrew Charms (Non-Caste)
 ║   · 
 ║ · Other
 ║  *· 16: Essence 2 -> 3
