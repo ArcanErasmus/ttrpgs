@@ -3,19 +3,15 @@
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ To Remember For Next Session                                                                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · SPEND YOUR FREAKING WP
-║   · You keep having moments where you'd recover it!!!
-║ · Questions for GM       
-║   · What is the local cuisine (type/abundance of meat? vegetables? type of cereal grain?)
-║   · What types of utensils do people use in a tavern? do they bring their own?
 ║ · Between session stuff
-║   · PLAN YOUR XP OPTIONS
-║   · Read /WoD/Werewolf/W20 - Riot of the Flesh.pdf
+║   · Read /WoD/Werewolf/W20 - Riot of the Flesh.pdf for info on fomori creation
 ║   · Plan for Smithy to snap when she gets angry. *Make* her angry and direct her at hostiles.
-║ · 
+║ · Questions from Julia for next session
+║   · What caused The Mol-Garath Calamity?
+║   · When was The Mol-Garath Calmity caused?
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 7 - 2022/05/25?future                                                                    ║
+║ Session 8 - 2022/05/25?future                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
 ║   · 
@@ -24,7 +20,7 @@
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · On the road, towards The Calamity (Wednesday)
 ║   · Magic appears to be in constant flow/flux, some sort of "adjustment" taking place
-║   · We make camp, studied Mol-Garathi language overnight, _ successes @ diff _
+║   · We make camp, studied Mol-Garathi language overnight, 0 successes @ diff 9 (total 0)
 ║ · Camped on the path to The Calamity (Thursday)
 ║   · My "definitive answer" on the state of the trees returns OVERLAPPING CONFLICTING INFORMATION
 ║   · Spirits materialize from trees even w/o Smithy prompting, desire magical blood to manifest
@@ -33,8 +29,6 @@
 ║   · As we continue inwards, we smell modern city smog, and briefly get a smidgen of cell signal
 ║   · It is likely that we are experiencing hallucinations or manifestations from memory
 ║   · We begin to turn back
-║   · 
-║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 6 - 2022/05/04                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -140,33 +134,34 @@
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · Attributes
-║   · 12: Wits 3 -> 4
+║   · 12: Wits 3 -> 4 (+Specialty)
 ║   ·  8: Intelligence 2 -> 3
 ║   ·  8: Manipulation 2 -> 3
 ║   ·  4: Strength 1 -> 2
 ║   ·  4: Stamina 1 -> 2
-║ · Abilities
-║   ·  3: Athletics 0 -> 1
-║   ·  3: Empathy 3 -> 4
+║ · Key Abilities
+║   ·  3: Empathy 3 -> 4 (+Specialty)
 ║   ·  3: Firearms 3 -> 4 (Unlocks 1-to-1 with Archery!)
-║   ·  3: Intimidation 3 -> 4
+║   ·  3: Intimidation 3 -> 4 (+Specialty)
+║   ·  3: Subterfuge 3 -> 4 (+Specialty)
+║   ·  2: Etiquette 2 -> 3
+║   ·  1: Leadership 1 -> 2
+║ · Non-Key Abilities
+║   ·  3: Athletics 0 -> 1
 ║   ·  3: Law 0 -> 1
-║   ·  3: Subterfuge 3 -> 4
 ║   ·  2: Alertness 1 -> 2
 ║   ·  2: Awareness 1 -> 2
-║   ·  2: Etiquette 2 -> 3
 ║   ·  2: Finance 1 -> 2
 ║   ·  2: Melee 1 -> 2
 ║   ·  2: Politics 1 -> 2
 ║   ·  2: Stealth 2 -> 3
 ║   ·  2: Streetwise 1 -> 2
-║   ·  1: Leadership 1 -> 2
-║ · Caste Charms
+║ · Key Charms
 ║   · 15: Black Mirror Incarnation - perfect illusion of being someone else
 ║   · 15: The City Still Stands - 1/story free shintai instead of dying
 ║  *· 12: Inner Devils Unchained - turn target into fomori, reversible
 ║   ·  9: Crowned With Fury - force someone to follow orders or suffer
-║  *·  9: False Springs Beckon - offer reprieve and make demands of subject
+║  *·  9: False Springs Beckon - offer reprieve and make demands
 ║  *·  9: Green Sun Nimbus Flare - fat automatic agg damage bonus
 ║   ·  9: Night Swallows Secrets - prevent discussion of event or evidence
 ║   ·  9: Ultimate Darkness Internalization - cross shroud, can take others
@@ -179,11 +174,14 @@
 ║   ·  3: Ox-Body Technique - cheap extra health levels
 ║   ·  3: Prince of Ruin Attitude - make broken things just work
 ║   ·  3: Without Honor, Without Hope - you are good in the cold
-║   · 
-║ · Non-Caste Charms
+║ · Non-Key Charms
 ║   · 20: The King and the Kingdom - make your own hell
+║   · 20: Verdant Emptiness Endowment - grant wish and make demands
 ║   · 16: Thoughts Resound in Silence - when quiet listen to thoughts
 ║   · 12: Chirality Prohibition Index - train acolytes
+║  *· 12: Endless Torment Emanation - ruin a bureaucracy
+║   · 12: Hell-Walker Technique - cross penumbra, can take others
+║   · 12: Soul-Sieve Transmutation - soak with charisma
 ║   · 12: Principle-Invoking Onslaught - summon complex weapon and/or infinite ammo
 ║   ·  8: All Things Betray - easy perception, faster initiative
 ║  *·  8: Heart-Carving Wind - target can't feel/think specific emotion/thought
@@ -191,11 +189,21 @@
 ║  *·  8: Silence of the Inverted Spires - aura of selective silence
 ║  *·  8: Wind-Born Stride - 3x speed, 2x initiative, can go even faster
 ║   ·  4: Boiling Sea Mastery - stronger/faster/better/smarter when wet/in water
+║   ·  4: Demonic Primacy of Essence - easier rolls vs lesser creatures of darkness
+║   ·  4: Mercy in Servitude - fomori that obey you suppress their own torments
 ║   ·  4: Source Code Compliance Protocol - speak ur-language
 ║   ·  4: Theft as Release - target forgets item you steal
-║   · 
-║ · Homebrew Charms (Non-Caste)
-║   · 
+║ · Homebrew Charms: Hell of the Seven Burning Seas (Non-Key) - https://docs.google.com/document/d/e/2PACX-1vQRrFiBmEPuZAVhC7KQI3lCrWHIxsuJtIqjsIgaz_Kw4SUEBCMzFHGk9QZQ_F_1ny8cWcea9cY_mo1X/pub
+║   · 20: Inextinguishable Sacred Flame - consecrate vessel of water, many benefits
+║  *· 16: Appealing to a Lower Court - create fomori from guilty soul
+║   · 12: Organization Through Ceremony - grant bureaucracy boons and make demands
+║   · 12: Stone-Faced Advisor Method - be seen as impartial
+║  *·  8: Justice Blinding Derogation - grant target blanket legal immunity
+║   ·  8: Heat Dismisses Heat - force targets to drop weapons
+║   ·  4: Error Recognizing Scrutiny - identify possibility for crime, structural weaknesses
+║   ·  4: Fire on the Water - ignore heat/flame, don't need oxygen
+║  *·  4: Law-as-Tool Realization - innately understand social/religious laws/customs
+║   ·  4: Weighing Oil and Wine - idenfity material compositions and object functions
 ║ · Other
 ║  *· 16: Essence 2 -> 3
 ║   ·  8: WP 8 -> 9
