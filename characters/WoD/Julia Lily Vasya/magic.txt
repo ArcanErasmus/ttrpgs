@@ -66,4 +66,9 @@
 ║ · Anyone without WP > successes can't notice you unless directly interact with them.             ║
 ║ · If take indirect action that would cause distress, and char has 5+ WP, they can spend 1 WP &   ║
 ║   roll WP diff 7 to be able to acknowledge/confront you.                                         ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Skinned Alive Charm: Wind-Born Stride (♠♠)                                                       ║
+║ · Permanently triple base movement speed.                                                        ║
+║ · Permanently double all initiative results.                                                     ║
+║ · Each minute of flat-out movement adds 1 to speed multiplier, max x10 after 7 minutes.          ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

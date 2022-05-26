@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠·                        │  19/ 25         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠··                        │  27/ 28         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ▓▓░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠∙∙ ∙∙                   │ 8w/17j/35r yds  ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠∙∙∙∙ ∙∙                   │ 24w/51j/105r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -57,6 +57,8 @@
 Collected Modifiers:
 · Global
     · +2 to Initiative (Background, Demonic Guide)
+    · x2 to final Initiative roll (Charm, Wind-Born Stride)
+    · x3 to base movement speed (Charm, Wind-Born Stride)
 · Situational
     · +1 diff in dense crowds (Charm, Witness to Darkness)
     · +2 dice to social w/ Banes or denizens of Hell-like realms (Background, Demonic Guide)
@@ -104,4 +106,4 @@ Collected Modifiers:
     · +1 Perception, +1 Intelligence, +2 Wits
     · -2 diff Leadership
     · -2 diff Subterfuge
-    · (Final movement speed: 8w/21j/47r)
+    · (Final movement speed: 24w/63j/141r)

@@ -7,32 +7,52 @@
 ║   · Read /WoD/Werewolf/W20 - Riot of the Flesh.pdf for info on fomori creation
 ║   · Plan for Smithy to snap when she gets angry. *Make* her angry and direct her at hostiles.
 ║ · Questions from Julia for next session
-║   · What caused The Mol-Garath Calamity?
-║   · When was The Mol-Garath Calmity caused?
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 8 - 2022/05/25?future                                                                    ║
+║ Session 09 - 2022/06/08?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 7 - 2022/05/18                                                                           ║
+║ Interlude Julia - 2022/05/27?future                                                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · On the road, towards The Calamity (Wednesday)
-║   · Magic appears to be in constant flow/flux, some sort of "adjustment" taking place
-║   · We make camp, studied Mol-Garathi language overnight, 0 successes @ diff 9 (total 0)
-║ · Camped on the path to The Calamity (Thursday)
-║   · My "definitive answer" on the state of the trees returns OVERLAPPING CONFLICTING INFORMATION
-║   · Spirits materialize from trees even w/o Smithy prompting, desire magical blood to manifest
-║   · "Demonic" aura color/pattern is a flavor on *change/transformation*, trees have it stronger
-║   · The tree spirits are localized to fairly rare areas, not desperate enough to attack
-║   · As we continue inwards, we smell modern city smog, and briefly get a smidgen of cell signal
-║   · It is likely that we are experiencing hallucinations or manifestations from memory
-║   · We begin to turn back
+║ · TODO: Questions from Julia for next session
+║   · What caused The Mol-Garath Calamity?
+║   · When was The Mol-Garath Calmity caused?
+║   · 
+║ · Don't forget to regain your Essence & WP when you actually return and make it to sunrise
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 6 - 2022/05/04                                                                           ║
+║ Session 08 - 2022/05/25                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · The inn                                                                                        ║
+║ · Tunnelling out of The Calamity (Thursday)                                                      ║
+║   · Treeroots are exuding heavy fear & rage from locust                                          ║
+║ · At the edge of The Calamity (Thursday)                                                         ║
+║   · Looking while hovering, there are a few pockets of emotions (likely from tree spirits)       ║
+║   · Also it appears The Calamity's shifting is a result of waves of magic washing over it        ║
+║   · The Calamity will be permanently altered, though "damaged" is debatable                      ║
+║ · Back at the inn for the night (Thursday evening)                                               ║
+║   · Do a little stealing to acquire food & coinage                                               ║
+║   · Studied Mol-Garathi language overnight, 0 successes @ diff 8 (total 0)                       ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 07 - 2022/05/18                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · On the road, towards The Calamity (Wednesday)                                                  ║
+║   · Magic appears to be in constant flow/flux, some sort of "adjustment" taking place            ║
+║   · We make camp, studied Mol-Garathi language overnight, 0 successes @ diff 9 (total 0)         ║
+║ · Camped on the path to The Calamity (Thursday)                                                  ║
+║   · My "definitive answer" on the state of the trees returns OVERLAPPING CONFLICTING INFORMATION ║
+║   · Spirits materialize from trees even w/o Smithy prompting, desire magical blood to manifest   ║
+║   · "Demonic" aura color/pattern is a flavor on *change/transformation*, trees have it stronger  ║
+║   · The tree spirits are localized to fairly rare areas, not desperate enough to attack          ║
+║   · As we continue inwards, we smell modern city smog, and briefly get a smidgen of cell signal  ║
+║   · It is likely that we are experiencing hallucinations or manifestations from memory           ║
+║   · We begin to turn back                                                                        ║
+║   · Smithy summons a massive swarm of locusts, we hide in a Ruth-made earth shelter              ║
+║   · The Calamity's magic seems to react oddly to the spell, gets "fuzzy" for a second            ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 06 - 2022/05/04                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · The inn (Tuesday)                                                                              ║
 ║   · Studied Mol-Garathi language overnight, 0 successes @ diff 9                                 ║
 ║ · On the road, towards The Calamity                                                              ║
 ║   · The area is getting more magical, but we will encounter a region that it comes from          ║
@@ -41,7 +61,7 @@
 ║   · So far, Demonic beasts have been mutated towards conflict                                    ║
 ║   · Musings on whether we *are* on Earth, but in some sort of weird other-multiverse-cluster     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 5 - 2022/04/27                                                                           ║
+║ Session 05 - 2022/04/27                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · (Discussing previous scene, chatting with Revold)                                              ║
 ║   · "What impression do we give off?"                                                            ║
@@ -54,7 +74,7 @@
 ║ · Post session stuff                                                                             ║
 ║   · There are the same analagous other-realms in this world: spirit, shadow, fae                 ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 4 - 2022/04/06                                                                           ║
+║ Session 04 - 2022/04/06                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · Info from the journal-ledger                                                                   ║
 ║   · Merchant wasn't super wealthy, we have a modest sum of coinage                               ║
@@ -81,7 +101,7 @@
 ║ · Arrived at an inn along the road                                                               ║
 ║   · Revold offered to pay for a night for us                                                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 3 - 2022/03/30                                                                           ║
+║ Session 03 - 2022/03/30                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · On the road                                                                                    ║
 ║   · Come to a bridge                                                                             ║
@@ -92,7 +112,7 @@
 ║   · Ruth earthbends a hut to camp in, and in the morning, a new bridge                           ║
 ║   · We investigate mystery journal, seems to be a ledger                                         ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 2 - 2022/03/23                                                                           ║
+║ Session 02 - 2022/03/23                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · A cabin somewhere                                                                              ║
 ║   · Looted supplies and food                                                                     ║
@@ -104,7 +124,7 @@
 ║   · Conclusion: Too much magic = turn into "demon"                                               ║
 ║   · The bear was oversized, extremely enraged, capable of absorbing bullets                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 1 - 2022/03/16                                                                           ║
+║ Session 01 - 2022/03/16                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 15 Charlcote Pl, Baltimore, MD                                                                 ║
 ║   · Showed up with Smithy to assassinate a very unpopular supernatural                           ║
@@ -126,7 +146,8 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ XP Log                                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ ·  8: 1x Essence 1 -> 2
+║ ·  8: Non-Key Charm: Wind-Born Stride (♠♠)
+║ ·  8: Essence 1 -> 2
 ║ ·  6: Key Charm: By Rage Recast (♠♠)
 ║ ·  3: Melee 0 -> 1
 ║ ·  2: Academics 1 -> 2
@@ -187,7 +208,6 @@
 ║  *·  8: Heart-Carving Wind - target can't feel/think specific emotion/thought
 ║   ·  8: Laughing Shrapnel Arrival - fall to deal AoE, easy w/ flight
 ║  *·  8: Silence of the Inverted Spires - aura of selective silence
-║  *·  8: Wind-Born Stride - 3x speed, 2x initiative, can go even faster
 ║   ·  4: Boiling Sea Mastery - stronger/faster/better/smarter when wet/in water
 ║   ·  4: Demonic Primacy of Essence - easier rolls vs lesser creatures of darkness
 ║   ·  4: Mercy in Servitude - fomori that obey you suppress their own torments

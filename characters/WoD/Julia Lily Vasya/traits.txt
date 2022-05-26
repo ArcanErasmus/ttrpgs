@@ -23,22 +23,22 @@
 ║ · Auras come from all animals/insects/magically-sentient-constructs, people aura avg as torch.   ║
 ║ · Exalts aura as bonfire, demons stronger than avg human, humans can be as dim as candle.        ║
 ║ · Everything seen is monochrome, painted only by the colors of auras.                            ║
-║ ║ Emotional State        │ Color  ║ Condition              │ Texture            ║                ║
-║ ╟────────────────────────┼────────╫────────────────────────┼────────────────────╢                ║
-║ ║ Arousal                │ Bright ║ Corruption             │ Pulsating          ║                ║
-║ ║ Bitterness             │ Brown  ║ Dementia/Quiet         │ Flickering         ║                ║
-║ ║ Calm, Devotion         │ Blue   ║ "Demon"                │ [TBD]              ║                ║
-║ ║ Change/Transformation  │ Violet ║ Excitement             │ Crackling          ║                ║
-║ ║ Compassion/Affection   │ Pink   ║ Faerie                 │ Rainbow Highlights ║                ║
-║ ║ Empathy/Worry          │ Green  ║ Marauder               │ Hypnotic/Swirling  ║                ║
-║ ║ Excitement/Idealism    │ Yellow ║ Fanatical              │ Intense Color      ║                ║
-║ ║ Fear                   │ Orange ║ Ghost                  │ Weak/Faded         ║                ║
-║ ║ Fury                   │ Maroon ║ Magic/Mage             │ Sparkling          ║                ║
-║ ║ Pain, Hatred           │ Black  ║ Sickness/Dying         │ Fading             ║                ║
-║ ║ Passion/Anger          │ Red    ║ Spirituality/Awareness │ Gold               ║                ║
-║ ║ Sadness                │ Silver ║ Truth/Purity/Faith     │ White              ║                ║
-║ ║ Uncertainty/Depression │ Gray   ║ Vampire                │ Pale               ║                ║
-║                                   ║ Werecreature           │ Bright/Vibrant     ║                ║
+║ ║ Condition              │ Texture            ║                                                  ║
+║ ╟────────────────────────┼────────────────────╢                                                  ║
+║ ║ Corruption             │ Pulsating          ║                                                  ║
+║ ║ Dementia/Quiet         │ Flickering         ║                                                  ║
+║ ║ "Demon"                │ [TBD]              ║                                                  ║
+║ ║ Excitement             │ Crackling          ║                                                  ║
+║ ║ Faerie                 │ Rainbow Highlights ║                                                  ║
+║ ║ Marauder               │ Hypnotic/Swirling  ║                                                  ║
+║ ║ Fanatical              │ Intense Color      ║                                                  ║
+║ ║ Ghost                  │ Weak/Faded         ║                                                  ║
+║ ║ Magic/Mage             │ Sparkling          ║                                                  ║
+║ ║ Sickness/Dying         │ Fading             ║                                                  ║
+║ ║ Spirituality/Awareness │ Gold               ║                                                  ║
+║ ║ Truth/Purity/Faith     │ White              ║                                                  ║
+║ ║ Vampire                │ Pale               ║                                                  ║
+║ ║ Werecreature           │ Bright/Vibrant     ║                                                  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Crack Shot (♠♠) - Hunter Player's Guide                                                   ║
 ║ · With gun, arrow, or dart, no penalty to specific targeting, -1 diff if general targeting.      ║
