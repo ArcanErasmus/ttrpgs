@@ -8,6 +8,8 @@
     - 4x Wolf
     - 2x Mutant Humans
     - 1x Gibberbeast
+    - 4x Giant Spider
+    - 2x Baby Giant Spider
 
 - Trophies:
     - Large squid beak
@@ -20,10 +22,10 @@
     - Hildur (aka "bigmom" or "vollmutter") is a Skaeling, the daughter of Jarl Nikolas, and was a whaler. Is now a woodsman because she didn't want to be away from Stephanie for long periods. Calls her wife "Stephling". 22 years older than Ragna.
     - Stephanie of Hargendorf (aka "smallmom" or "mutterchen") is a Nordlander, devout Rhyan, and homemaker. Rhya answered her prayers to bless them with a beautiful and healthy child, who is a little much for her to handle at times. Sometimes calls her wife "Volldur" as a pun on "Voll-" + "Hildur" and "boulder". 19 years older than Ragna.
 - Siblings:
-    - ? (male), 3 years older: ?
-    - ? (female), 1 year older: We are always at each other's throats in that sibling love/hate way. She is definitely jealous of us twins' dynamic (sorry sis!)
-    - ? (female), fraternal twin: My partner in crime
-    - ? (male), 2 years younger: Baby bro! Protect him!
+    - Lukas (male), 3 years older: ?
+    - Jane (female), 1 year older: We are always at each other's throats in that sibling love/hate way. She is definitely jealous of us twins' dynamic (sorry sis!)
+    - Petra (female), fraternal twin: My partner in crime
+    - Kresten (male), 2 years younger: Baby bro! Protect him!
 
 ## Appearance
 - Wavy red hair pulled back into a small ponytail

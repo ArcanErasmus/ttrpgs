@@ -13,13 +13,13 @@
 - Party short-term ambition: Make a big profit on trade goods (likely Fielbach)
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2510/2515
+## Total/Spent XP: 2570/2575
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
 |  275 |   0 |  10 | WS
 |  215 |   0 |   8 | S
-|  215 |   0 |   8 | T
+|  275 |   0 |  10 | T
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
@@ -53,7 +53,7 @@
 |!WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    |  8 |    | 58 |
-|^T   | 55 |  5 |  8 |    | 68 |
+|!T   | 55 |  5 | 10 |    | 70 |
 | I   | 28 |    |  2 |    | 30 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
@@ -64,11 +64,11 @@
 ## Secondary Attributes
 | Att | #  | ?  |
 |-----|----|----|
-| W   | 27 | 21
+| W   | 30 | 30/33
 | F/F |  4 |  4
 | R/R |  1 |  2
-| M   |  4 |  2
-| Cor | 10 |  3
+| M   |  4 |  4
+| Cor | 11 |  2
 
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
@@ -78,11 +78,11 @@
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
-|!C | Consume Alcohol    | 15 | T   | 83 |
+|!C | Consume Alcohol    | 15 | T   | 85 |
 |!C | Cool               | 15 | WP  | 63 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |  5 | T   | 73 |
+| C | Endurance          |  5 | T   | 75 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -294,10 +294,9 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 765
-- Attributes: 180
+### Rank 2->3: 705
+- Attributes: 120
     - S  | 8->10 |  60
-    - T  | 8->10 |  60
     - WP | 8->10 |  60
 - Skills: 585
     - Athletics          |   ->10 | 125

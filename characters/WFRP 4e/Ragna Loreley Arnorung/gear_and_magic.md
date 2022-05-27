@@ -103,3 +103,6 @@
     - Purchased at 0.225 GC/unit in Grünberg
         - Includes 10% discount
     - Trade Rumor: 2x price in Fielbach
+
+## Shopping List
+- Grappling hook
