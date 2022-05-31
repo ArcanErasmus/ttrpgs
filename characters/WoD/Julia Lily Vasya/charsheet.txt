@@ -8,7 +8,7 @@
 ║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠··                        │  27/ 28         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ▓▓░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠∙∙∙∙ ∙∙                   │ 24w/51j/105r yd ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠∙ ∙∙∙∙∙ ∙∙                   │ 24w/51j/105r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
