@@ -66,7 +66,7 @@
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe             |   1 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 13/- 
+| **Coins**                |     |     | 1GC 13/- 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |  11 |
 
@@ -97,6 +97,9 @@
     - Trade Tools (Navigator)
     - Crowbar
     - Bedroll
+- Quality dwarven-craft breastplate and shield
+    - Stolen back from Grizzlespit
+    - Produced by a the Black Peaks Clan
 
 ### Trade Goods
 - 19 units of Grain (10 enc/unit)

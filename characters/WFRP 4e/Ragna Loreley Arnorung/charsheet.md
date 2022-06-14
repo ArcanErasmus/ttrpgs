@@ -13,12 +13,12 @@
 - Party short-term ambition: Make a big profit on trade goods (likely Fielbach)
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2570/2575
+## Total/Spent XP: 2630/2655
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |   90 |   5 |   8 | WP
 |  275 |   0 |  10 | WS
-|  215 |   0 |   8 | S
+|  275 |   0 |  10 | S
 |  275 |   0 |  10 | T
 |   50 |   0 |   2 | I
 |   75 |   0 |   3 | Ag
@@ -52,7 +52,7 @@
 |-----|----|----|----|----|----|
 |!WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 50 |    |  8 |    | 58 |
+|!S   | 50 |    | 10 |    | 60 |
 |!T   | 55 |  5 | 10 |    | 70 |
 | I   | 28 |    |  2 |    | 30 |
 | Ag  | 27 |    |  3 |    | 30 |
@@ -64,11 +64,11 @@
 ## Secondary Attributes
 | Att | #  | ?  |
 |-----|----|----|
-| W   | 30 | 30/33
+| W   | 33 | 
 | F/F |  4 |  4
 | R/R |  1 |  2
 | M   |  4 |  4
-| Cor | 11 |  2
+| Cor | 11 |  3
 
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
@@ -109,8 +109,8 @@
 | C | Sail (Barge)       |    | Ag  |    |
 | C | SecSign (TaalRhya) |  5 | Int | 37 |
 |   | Stealth            |    | Ag  |    |
-|!C | Swim               | 15 | S   | 73 |
-| C | Trade (Feller)     |  1 | S   | 59 |
+|!C | Swim               | 15 | S   | 75 |
+| C | Trade (Feller)     |  1 | S   | 61 |
 |---|--------------------|----|-----|----|------
 | C | Weapon Specs       | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
@@ -119,9 +119,6 @@
 | C | Ranged (Throwing)  |  6 | BS  | 38 |
 
 ## Injuries
-### Torn Leg Muscle (Minor)
-- 17 days remaining
-- Movement halved, -10 to all tests using the leg
 
 ## Traits
 ### Big
@@ -294,9 +291,8 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 705
-- Attributes: 120
-    - S  | 8->10 |  60
+### Rank 2->3: 645
+- Attributes: 60
     - WP | 8->10 |  60
 - Skills: 585
     - Athletics          |   ->10 | 125

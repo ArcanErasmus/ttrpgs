@@ -8,8 +8,10 @@
     - 4x Wolf
     - 2x Mutant Humans
     - 1x Gibberbeast
-    - 4x Giant Spider
-    - 2x Baby Giant Spider
+    - 5x Giant Spider
+    - 3x Baby Giant Spider
+    - 1x Goblin With Big Hat
+    - 1x Giant Spider Matriarch
 
 - Trophies:
     - Large squid beak
