@@ -3,20 +3,20 @@
 - 6'2", 220lbs, 18 yo, red hair, light blue eyes
     - Distinguishing Mark: Ruddy face, utter unit
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
-- Birthplace: Hargendorf, Nordland, The Reik
+- Birthplace: Schlaghügel, Barony of Hargendorf, Grand Barony of Nordland, The Reik
 - Religion: Rhya, and just a smidge of the Northern Gods
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
-- Personal short-term ambition: Feel like a princess
+- Personal short-term ambition: ?
 - Personal long-term ambition: Be respected and/or feared by a large populace
-- Party short-term ambition: Make a big profit on trade goods (likely Fielbach)
+- Party short-term ambition: Find actionable intelligence about the GTC
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2630/2655
+## Total/Spent XP: 2805/2805
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|   90 |   5 |   8 | WP
+|  150 |   5 |  10 | WP
 |  275 |   0 |  10 | WS
 |  275 |   0 |  10 | S
 |  275 |   0 |  10 | T
@@ -31,17 +31,19 @@
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
+|   50 |   0 |   5 | Athletics
 |   40 |  13 |  15 | Consume Alcohol
 |   80 |  11 |  15 | Cool
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
+|   20 |   0 |   2 | Intimidate
 |   50 |   0 |   5 | Language (Battle)
 |   50 |   0 |   5 | Lore (Norsca)
 |  125 |   0 |  10 | Lore (Trees)
 |   50 |   0 |   5 | Melee (Two-Handed)
-|   65 |   0 |   6 | Ranged (Throwing)
-|   20 |   3 |   5 | Sail
+|   80 |   0 |   7 | Ranged (Throwing)
+|   50 |   0 |   5 | Sail (Barge)
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
@@ -58,35 +60,35 @@
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
-|^WP  | 40 |    |  8 |    | 48 |
+|!WP  | 40 |    | 10 |    | 50 |
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
 | Att | #  | ?  |
 |-----|----|----|
-| W   | 33 | 
+| W   | 32 | 
 | F/F |  4 |  4
 | R/R |  1 |  2
 | M   |  4 |  4
-| Cor | 11 |  3
+| Cor | 12 |  3
 
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Athletics          |    | Ag  |    |
+| C | Athletics          |  5 | Ag  | 35 |
 |   | Bribery            |    | Fel |    |
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
 |   | Climb              |    | S   |    |
 |!C | Consume Alcohol    | 15 | T   | 85 |
-|!C | Cool               | 15 | WP  | 63 |
+|!C | Cool               | 15 | WP  | 65 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
 | C | Endurance          |  5 | T   | 75 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
-| C | Intimidate         |    | S   |    |
+| C | Intimidate         |  2 | S   | 62 |
 |   | Intuition          |    | I   |    |
 |   | Leadership         |    | Fel |    |
 |   | Navigation         |    | I   |    |
@@ -105,8 +107,8 @@
 | C | Lore (Norsca)      |  5 | Int | 37 |
 |!C | Lore (Trees)       | 10 | Int | 42 |
 |   | Ride               |    | Ag  |    |
-|   | Sail (Wolfship)    |  5 | Ag  | 35 |
-| C | Sail (Barge)       |    | Ag  |    |
+|   | Sail (Wolfship)    |  3 | Ag  | 33 |
+| C | Sail (Barge)       |  5 | Ag  | 35 |
 | C | SecSign (TaalRhya) |  5 | Int | 37 |
 |   | Stealth            |    | Ag  |    |
 |!C | Swim               | 15 | S   | 75 |
@@ -116,7 +118,7 @@
 |---|--------------------|----|-----|----|------
 |!C$| Melee (Basic)      | 15 | WS  | 71 |
 | C | Melee (Two-Handed) |  5 | WS  | 61 |
-| C | Ranged (Throwing)  |  6 | BS  | 38 |
+| C | Ranged (Throwing)  |  7 | BS  | 39 |
 
 ## Injuries
 
@@ -247,20 +249,8 @@
 - Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
 - Trappings: Hat, Riverboat and Crew
 
-## Seaman Info (Riverfolk)
-### Ship's Master (+ previous) - Gold 2
-- Attr: WS, I, Ag, Dex, Int, Fel
-- Skills: Athletics, Charm, Climb, Consume Alcohol, Cool, Dodge, Endurance, Entertain (Singing), Gamble, Gossip, Language (any), Leadership, Melee (Basic), Melee (Brawling), Navigation, Perception, Row, Sail, Swim, Trade (Carpenter)
-- Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees), Lore (The Old Faith), Secret Signs (Taalrhya), Trade (Farmer, Feller, Gardener, Herbalist, or Midwife)
-- Talents: Orientation, Pilot, Public Speaking, Savvy
-- Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
-- Trappings: Shipping Charts, Sailing Ship and Crew, Sextant, Spyglass
-
 ## BG Skill/Talent/Item Options
 ### Skills
-- Climb
-- Intuition
-- Navigation
 - Perform (Axe Juggling)
 - Pray
 - Stealth (Urban or Rural)
@@ -269,7 +259,6 @@
 ### Talents
 - Animal Affinity
 - Attractive
-- Chaos Magic (?)
 - Combat Reflexes
 - Disarm
 - Fleet Footed
@@ -291,18 +280,17 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 645
-- Attributes: 60
-    - WP | 8->10 |  60
-- Skills: 585
-    - Athletics          |   ->10 | 125
+### Rank 2->3: 460
+- Attributes: 0
+- Skills: 460
+    - Athletics          |  5->10 |  75
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
-    - Intimidate         |   -> 5 |  50
+    - Intimidate         |  2-> 5 |  30
     - Outdoor Survival   |   -> 5 |  50
-    - Ranged (Throwing)  |  6->10 |  60
+    - Ranged (Throwing)  |  7->10 |  45
     - Row                |   -> 5 |  50
-    - Sail (Barge)       |   ->10 | 125
+    - Sail (Barge)       |  5->10 |  75
 - Talents: 0
 
 ## Homebrew

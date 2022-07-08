@@ -5,14 +5,15 @@
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
 | Bear-Pelt Coat        |      | xxxx | xxxx | xxxx |      |      |      |  1 | Fine
 | Boiled L. Breastplate |      |      |      | xxxx |      |      |      |  2 | Weakpoints
-| Plate Helm            | xxxx |      |      |      |      |      |      |  2 | Impenetrable, Weakpoints
 | Leather Leggings      |      |      |      |      | xxxx | xxxx |      |  1 |
 | Leather Skullcap      | xxxx |      |      |      |      |      |      |  1 | Partial
 | Mail Chausses         |      |      |      |      | xxxx | xxxx |      |  2 | Flexible
 | Mail Coat             |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
+| Mail Coif             | xxxx |      |      |      |      |      |      |  2 | Flexible, Partial
+| Plate Helm            | xxxx |      |      |      |      |      |      |  2 | Impenetrable, Weakpoints
 | Shield (Large)        |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary               |    3 |    3 |    3 |    5 |    3 |    3 |    3 |
+| Summary               |    5 |    3 |    3 |    5 |    3 |    3 |    3 |
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
@@ -34,20 +35,23 @@
 |--------------------------|-----|-----|--------------------------------
 | **Armor**                |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Bear-Pelt Coat           |   1 |   W | (Leather Jack), Fine
+| Bear-Pelt Coat           |   1 |   W | [Leather Jack (Fine)]
 | Boiled Lthr Breastplate  |   2 |   W | Weakpoints
-| Guillarme's plate helm   |   2 |   W | Impenetrable, Weakpoints, -20 Perception
 | Leather Leggings         |   1 |   W |
 | Leather Skullcap         |     |   W | Partial
 | Mail Chausses            |   2 |   W | Flexible
 | Mail Coat                |   3 |   W | Flexible
+| Mail Coif                |   2 |   W | Flexible, Partial, -10 Perception
+| Plate Helm               |   2 |   W | Impenetrable, Weakpoints, -20 Perception
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Animal Hide Cloak        |   1 |   W |
-| Clothing                 |   1 |   W | Long sleeves and overalls
+| Clothing (Fine)          |   1 |   W | Long sleeves and overalls
+| Gold Ring                |     |   W | 10 GC value
 | Kill Trophies            |   1 |   W | Large squid beak, minotaur head, shark full jaw + teeth, Gibberbeast horns & teeth
-| Tribe Tattoos            |     |   W | Mix of low-key Skaeling, family crest, and Rhya
+| Signet Ring              |     |   W | Clan Arnorung
+| Tattoos                  |     |   W | Mix of: Skaeling, Arnorung Clan Crest, Taalrhyan, Imperial Skulls/Crosses
 |--------------------------|-----|-----|--------------------------------
 | **Tools/Kits**           |     |     |
 |--------------------------|-----|-----|--------------------------------
@@ -60,22 +64,23 @@
 |--------------------------|-----|-----|--------------------------------
 | *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
 |--------------------------|-----|-----|--------------------------------
-| Throwing Axe (2)         |   2 |     |
+| Throwing Axe             |   1 |     |
+| Grappling Hook           |   1 |     |
 |--------------------------|-----|-----|--------------------------------
 | *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe             |   1 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 1GC 13/- 
+| **Coins**                |     |     | 16GC 3/2 
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |  11 |
+| **Total**                |     |  12 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
 |-----------|-----|------------
-| Limit     |  11 |
-| 2x Limit  |  22 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
-| 3x Limit  |  33 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
+| Limit     |  13 |
+| 2x Limit  |  26 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
+| 3x Limit  |  39 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
 |-----------|-----|
 
 ## Psychology and Corruption
@@ -89,23 +94,30 @@
 - Immune to Fear and Intimidation while defending them
 
 ## Inventory of The Svettbukk
-- 121 GC
-- Guillarme's shield (large)
-- Melted slag of: Iron Bolt [gore-soaked greatsword]
-- Backpack
-    - Horned Helm (1 enc, Partial, Ugly)
-    - Trade Tools (Navigator)
+- 272 GC
+- Trade Tools (Navigator)
+- Meat Smoker (Trade Tools for preserving game)
+
+- Backpack for Ragna's Stuff
     - Crowbar
     - Bedroll
+    - Clothing (Fine x2)
+    - Hat (Fine x3)
+    - Throwing Axe
+
+- Loot from the signal tower's cellar
+    - 11 Old but readable books
+        - Some poetry, some salacious, some written in arcane text
+    - Assorted glassware (value: 2GC, worth more if selling to alchemist)
+    - Portraits of Wittgensteins (value: ?)
+    - Five 6-pointed metal keys, to be melted down (one on Peronelle's person)
+
 - Quality dwarven-craft breastplate and shield
     - Stolen back from Grizzlespit
     - Produced by a the Black Peaks Clan
 
 ### Trade Goods
-- 19 units of Grain (10 enc/unit)
-    - Purchased at 0.225 GC/unit in Grünberg
-        - Includes 10% discount
-    - Trade Rumor: 2x price in Fielbach
-
-## Shopping List
-- Grappling hook
+- 0 units of Metal (10 enc/unit)
+    - Purchased at 6.4 GC/unit in Fielbach
+        - Includes 20% discount from 8 GC/unit
+    - Trade Rumor: 2x price & always buyer in Kemperbad

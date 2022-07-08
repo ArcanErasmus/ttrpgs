@@ -12,6 +12,7 @@
     - 3x Baby Giant Spider
     - 1x Goblin With Big Hat
     - 1x Giant Spider Matriarch
+    - 1x Ghoul
 
 - Trophies:
     - Large squid beak
