@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠·                        │  27/ 31         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │  30/ 31         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ▓▓░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠∙ ∙∙                   │ 24w/51j/105r yd ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ♠♠                   │ 24w/51j/105r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -36,9 +36,10 @@
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
 ║ Demonic Guide      │ ♠♠♠♠♠     ║ Angelic Aura       │ ♠         ║ Impractical Dresser  │ ♠       ║
 ║                    │           ║ Angelic Gaze       │ ♠         ║ Low Pain Tolerance   │ ♠♠      ║
-║                    │           ║ Smooth             │ ♠         ║ Mark of the Predator │ ♠♠      ║
-║                    │           ║ Arcane Eye         │ ♠♠        ║ Winged               │ ♠♠      ║
-║                    │           ║ Crack Shot         │ ♠♠        ║ Thrall of the Wyrm   │ ♠♠♠     ║
+║                    │           ║ Language           │ ♠         ║ Mark of the Predator │ ♠♠      ║
+║                    │           ║ Smooth             │ ♠         ║ Winged               │ ♠♠      ║
+║                    │           ║ Arcane Eye         │ ♠♠        ║ Thrall of the Wyrm   │ ♠♠♠     ║
+║                    │           ║ Crack Shot         │ ♠♠        ║                      │         ║
 ║                    │           ║ Poker Face         │ ♠♠        ║                      │         ║
 ║                    │           ║ Sanctity           │ ♠♠        ║                      │         ║
 ║                    │           ║ Dark Triad         │ ♠♠♠       ║                      │         ║

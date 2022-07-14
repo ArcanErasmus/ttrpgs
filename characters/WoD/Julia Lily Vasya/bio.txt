@@ -68,36 +68,66 @@
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Group Relations
 ║ · Sarah Smith, "Smithy" - The Prophet
-║   · Value/Risk: Medium/High !!
+║   · Value: Medium. Capable of violence, quick language learning, spirit world transportation
+║   · Risk: High. Socially oblivious and obstinate, inflexible and hostile worldview, volatile
 ║   · Secret Guilt: Blames herself for her abuse at the hands of family, Michael (demon/ex-bf).
 ║     She summoned Michael to protect herself from her family. I know how she did it.
-║   · Weaknesses: I know enough of Michael's mannerisms to impersonate him. Grabbing Smithy's wrist will shut her down immediately
-║   · Notes: Views the whole world as a fight between angels and demons
+║   · Weaknesses:
+║     · I know enough of Michael's mannerisms to impersonate him
+║     · Grabbing Smithy's wrist will shut her down immediately
+║   · Notes:
+║     · Views the whole world as a fight between angels and demons
 ║     · Lacks self-confidence
-║   · Powers: Insectoid rage form, speak to spirits, super sneaking, learn languages by blood drinking
+║   · Powers:
+║     · Insectoid rage form
+║     · Travel to spirit world, draw forth and/or speak to spirits
+║     · Learn languages by blood drinking
+║
 ║ · Dr. Mister Woebegone Esquire - The Doctor
-║   · Value/Risk: Medium/Medium
-║   · Secret Guilt: [ask permission before use]
-║   · Weaknesses: Can be convinced to not render aid, especially if it risks future ability to do so (personal danger, larger reputation), but refuses to commit violence actively
-║   · Notes: Obsessed with personally saving lives
-║     · For all his openness, steers around full answers on his own history
-║     · Strong pride in his competence
-║   · Powers: Super-fast-doctoring, temporary language assimilation
-║ · The Initiate - The Assassin
-║   · Value/Risk: Medium/Low
+║   · Value: High. Strong healer (and potential for fleshcrafting?), creative
+║   · Risk: Medium. Socially oblivious, pacificstic to a fault
 ║   · Secret Guilt: [ask permission before use]
 ║   · Weaknesses:
-║   · Notes: Super darkness guy but weirdly chill
+║     · Can be convinced to not render aid, especially if it risks future ability to do so
+║     · Refuses to actively commit violence
+║   · Notes:
+║     · Obsessed with personally saving lives
+║     · For all his openness, steers around full answers on his own history
+║     · Strong pride in his competence
+║   · Powers:
+║     · Super-fast doctoring
+║     · Temporary language assimilation
+║
+║ · The Initiate - The Assassin
+║   · Value: Medium. Capable of great stealth and violence
+║   · Risk: Low. More likely to bail than turn hostile, content to follow us around
+║   · Secret Guilt: [ask permission before use]
+║   · Weaknesses:
+║     · Cult upbringing likely, may have hidden volatility
+║     · Reclusive, tends to duck out without notice
+║   · Notes:
+║     · Super darkness guy but weirdly chill
 ║     · Enjoys being recognized as being stealthy
 ║     · Very annoyed at being misidentified, or when his clan is doubted
-║   · Powers: Stealthy, murdery
+║   · Powers:
+║     · Stealthy
+║     · Murdery
+║     · Fast reflexes and overland
+║
 ║ · Ruth Gold - The Explorer
+║   · Value: High. Scholarly background and earthshaping have broad applications
+║   · Risk: Low. Overall accepting and stable. Likely to catch on to machinations, but primarily desires to return home
 ║   · Value/Risk: High/Medium
 ║   · Secret Guilt: [ask permission before use]
 ║   · Weaknesses:
-║   · Notes: A scholar of magic, the supernatural, and even the more odd mundane
+║     · 
+║   · Notes:
+║     · A scholar of magic, the supernatural, and even the more odd mundane
 ║     · Enjoys hanging out with fellow scholars
-║   · Powers: Has huge eagle friend, can manipulate stone, has social common sense
+║   · Powers:
+║     · Huge eagle pet-friend, bond definitely has supernatural aspect
+║     · Can manipulate stone
+║     · Social common sense
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Ex-Group Relations
 ║ · Esmeralda Sterling Esquire - The Scholar
