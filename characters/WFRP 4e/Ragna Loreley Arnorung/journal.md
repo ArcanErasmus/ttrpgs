@@ -110,23 +110,19 @@ To seek glory, and see the world.
         - Motivation: Wild out
         - Background: Genetically Norscan but culturally Nordlander, left home to conquer the world
 
-### Arguing with Peronelle
-- Finding common ground:
-    We are both robbed of power by our statuses: Peronelle is a Bretonnian widowed noblewoman, and Ragna is just plain poor.
-    We've fought together and traveled together, and learned much about each other.
-    We're stubborn, yes, but we want to leave a positive mark on the world, and that will be easier together.
-    Fuck Chaos cults!
-- Making concessions
-    Ragna will check her biases against other religions, especially Shallya and Sigmar.
-    Ragna will put effort into dressing and acting more like her noble blood, and even try to learn to read & write.
-    Ragna will agree to get partial coverup tattoos, de-emphasizing the Chaos Gods for Taalrhyan and Imperial symbolism.
-    Ragna will agree that Norscans aren't infallible, and their traditions aren't perfect.
-    Ragna will agree to let Peronelle hold her accountable to this.
-- Demanding concessions
-    Peronelle will listen to Ragna talk about her faith, and give it honest consideration.
-    Peronelle will extend at least basic human decency to other religions and cultures, even if she doesn't fully trust them, and come up with at least one genuine, non-backhanded positive thing to say about them when prompted by Ragna.
-    Peronelle will treat mutants as people, not degenerates but *victims*.
-    Peronelle will agree to let Ragna hold her accountable to this.
+### Interrogating Cythara
+- What was your involvement with Etelka's group?
+- What is Etelka's group up to (past/future)?
+- Where is Etelka's group going?
+- Who are the other people in Etelka's group?
+- How long were you running with them?
+- Do you have any other connections from their group?
+- How did you fall in with them?
+- How good are you in a fight?
+- Are you willing to wholesale slaughter your former companions?
+- When/how did you join Sister Weir's group?
+- Why did you leave it?
+- What were your connections to the other members of Sister Weir's group?
 
 ## Enemies
 - Guillarme de Mountonfou

@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
-- Personal short-term ambition: ?
+- Personal short-term ambition: Figure out connection between Cythara and Sister Weir's group
 - Personal long-term ambition: Be respected and/or feared by a large populace
-- Party short-term ambition: Find actionable intelligence about the GTC
+- Party short-term ambition: Get out of Kemperbad and on the trail of Etelka
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2805/2805
+## Total/Spent XP: 2900/2905
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -37,12 +37,13 @@
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
 |   50 |   0 |   5 | Heal
-|   20 |   0 |   2 | Intimidate
+|   50 |   0 |   5 | Intimidate
 |   50 |   0 |   5 | Language (Battle)
 |   50 |   0 |   5 | Lore (Norsca)
 |  125 |   0 |  10 | Lore (Trees)
 |   50 |   0 |   5 | Melee (Two-Handed)
-|   80 |   0 |   7 | Ranged (Throwing)
+|   50 |   0 |   5 | Outdoor Survival
+|   95 |   0 |   8 | Ranged (Throwing)
 |   50 |   0 |   5 | Sail (Barge)
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
@@ -88,11 +89,11 @@
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
-| C | Intimidate         |  2 | S   | 62 |
+| C | Intimidate         |  5 | S   | 65 |
 |   | Intuition          |    | I   |    |
 |   | Leadership         |    | Fel |    |
 |   | Navigation         |    | I   |    |
-| C | Outdoor Survival   |    | Int |    |
+| C | Outdoor Survival   |  5 | Int | 37 |
 |   | Perception         |    | I   |    |
 | C | Row                |    | S   |    |
 |---|--------------------|----|-----|----|------
@@ -118,7 +119,7 @@
 |---|--------------------|----|-----|----|------
 |!C$| Melee (Basic)      | 15 | WS  | 71 |
 | C | Melee (Two-Handed) |  5 | WS  | 61 |
-| C | Ranged (Throwing)  |  7 | BS  | 39 |
+| C | Ranged (Throwing)  |  8 | BS  | 40 |
 
 ## Injuries
 
@@ -243,17 +244,49 @@
 ## Boatman Info (Riverfolk)
 ### Barge Master (+ previous) - Silver 5
 - Attr: S, T, I, Ag, Dex, Int
-- Skills: Athletics, Climb, Consume Alcohol, Dodge, Endurance, Entertain (Singing), Entertain (Storytelling), Gossip, Haggle, Heal, Intuition, Leadership, Lore (Riverways), Melee (Brawling), Navigation, Perception, Row, Sail, Swim, Trade (Boatbuilding)
+- Skills: Athletics, Climb, Consume Alcohol, Dodge, Endurance, Entertain (Singing), Entertain (Storytelling), Gossip, Haggle, Heal, Intuition, Leadership, Lore (Riverways), Melee (Brawling), Navigation, Perception, Row, *Sail*, Swim, Trade (Boatbuilding)
 - Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees), Lore (The Old Faith), Secret Signs (Taalrhya), Trade (Farmer, Feller, Gardener, Herbalist, or Midwife)
 - Talents: Menacing, Orientation, Pilot, Public Speaking
 - Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
 - Trappings: Hat, Riverboat and Crew
 
+## Witch Hunter Info (Ranger)
+### Interrogator - Silver 1
+- Attr: WS, T, WP
+- Skills: Charm, Consume Alcohol, Heal, *Intimidate*, Intuition, Lore (Torture), Melee (Brawling), Perception
+- Rhya Skills: Gossip, Heal, Lore (Herbs, Plants, or Trees)
+- Talents: Coolheaded, Menacing, Read/Write, Resolute
+- Rhya Talents: Savvy
+- Trappings: Hand Weapon, Instruments of Torture
+
+### Witch Hunter - Silver 3
+- Attr: BS
+- Skills: Cool, Gossip, Melee (Basic), Lore (Witches), Ranged (Any), Ride (Horse)
+- Rhya Skills: Trade (Farmer, Feller, Gardener, Herbalist, or Midwife), Secret Signs (Taalrhya)
+- Talents: Dual Wielder, Marksman, Seasoned Traveller, Shadow
+- Rhya Talents: Savvy
+- Trappings: Crossbow Pistol or Pistol, Hat (Henin), Leather Jack, Riding Horse with Saddle and Tack, Rope, Silvered Sword
+
+### Inquisitor - Silver 5
+- Attr: Fel
+- Skills: Endurance, Leadership, Lore (Law), Lore (Local)
+- Rhya Skills: Lore (The Old Faith)
+- Talents: Fearless (Witches), Nose for Trouble, Relentless, Strong-minded
+- Rhya Talents: Gregarious, Savvy
+- Trappings: Quality Clothing, Subordinate Interrogators
+
+### Witchfinder General - Gold 1
+- Attr: Int
+- Skills: Lore (Chaos), Lore (Politics)
+- Talents: Frightening, Iron Will, Magical Sense, Pure Soul
+- Rhya Talents: Gregarious, Master Tradesman (Farmer, Feller, Gardener, Herbalist, or Midwife), Savvy
+- Trappings: Best Quality Courtly Garb, Subordinate Witch Hunters
+
 ## BG Skill/Talent/Item Options
 ### Skills
 - Perform (Axe Juggling)
 - Pray
-- Stealth (Urban or Rural)
+- Stealth (Rural)
 - Track
 
 ### Talents
@@ -280,18 +313,63 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 460
+### Rank 2->3: 305
 - Attributes: 0
-- Skills: 460
+- Skills: 305
     - Athletics          |  5->10 |  75
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
-    - Intimidate         |  2-> 5 |  30
-    - Outdoor Survival   |   -> 5 |  50
-    - Ranged (Throwing)  |  7->10 |  45
-    - Row                |   -> 5 |  50
+    - Ranged (Throwing)  |  8->10 |  30
     - Sail (Barge)       |  5->10 |  75
 - Talents: 0
+
+### Rank 3->Exit: 1645
+- Attributes: 345
+    - I                  |  2->12 | 345
+- Skills: 300
+    - Leadership         |   ->10 | 125
+    - Lo(Chaos)          |   -> 5 |  50
+    - Lo(The Old Faith)  |   -> 5 |  50
+    - Perception         |   ->10 | 125
+- Talents: 900
+    - Battle Rage        |   -> 2 | 300
+    - Gregarious         |   -> 1 | 100
+    - Fearless (All)     |   -> 1 | 100
+    - Resistance (Mut)   |   -> 1 | 100
+    - Robust             |   -> 2 | 300
+- Exit Career Early: 100
+
+### Witch Hunter
+#### Rank 1->2: 350
+- Attributes: 0
+- Skills: 250
+    - Charm              |   -> 5 |  50
+    - Intuition          |   -> 5 |  50
+    - Lore (Torture/?)   |   -> 5 |  50
+    - Melee (Brawling)   |   -> 5 |  50
+    - Perception         |   -> 5 |  50
+- Talents: 100
+    - Coolheaded         |   -> 1 | 100
+Menacing
+Read/Write
+Resolute
+
+#### Rank 2->3: 1325
+- Attributes: 275
+    - BS                 |   ->10 | 275
+- Skills: 750
+    - Gossip             |  5->10 |  75
+    - Lore (Witches)     |   ->10 | 125
+    - Ranged (Any)       |   ->10 | 125
+    - Ride (Horse)       |   ->10 | 125
+    - Heal               |  5->10 |  75
+    - Intimidate         |  5->10 |  75
+    - Intuition          |  5->10 |  75
+    - Perception         |  5->10 |  75
+- Talents: 300
+    - Marksman           |   -> 1 | 100
+    - Seasoned Traveller |   -> 1 | 100
+    - Shadow             |   -> 1 | 100
 
 ## Homebrew
 ### Juggernaut Frenzy
