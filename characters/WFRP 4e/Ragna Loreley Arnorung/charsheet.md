@@ -1,6 +1,6 @@
 # Ragna Loreley Arnorung, She/Her
 ## Human, Freeholder (Warrior) + Initiate of Rhya, Freeholder - Silver 1
-- 6'2", 220lbs, 18 yo, red hair, light blue eyes
+- 6'2", 250lbs, 18 yo, red hair, light blue eyes
     - Distinguishing Mark: Ruddy face, utter unit
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Schlaghügel, Barony of Hargendorf, Grand Barony of Nordland, The Reik
