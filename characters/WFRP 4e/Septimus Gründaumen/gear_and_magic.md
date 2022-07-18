@@ -30,11 +30,12 @@
 |--------------------------|-----|-----|--------------------------------
 | **Miscellaneous**        |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Bandages                 |     |     |
 | Healing Draught          |     |     |
+| Symbol of the Fellowship |     |     |
 |--------------------------|-----|-----|--------------------------------
 | *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
 |--------------------------|-----|-----|--------------------------------
+| Book (Blank)             |   1 |     |
 | Parchment (5)            |     |     |
 | Writing Kit              |     |     |
 |--------------------------|-----|-----|--------------------------------
@@ -44,6 +45,12 @@
 | **Coins**                |     |     | 0GC 4/- 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |   0 |
+
+`TODO Add/Sort`
+Book (Medicine or Apothecary)
+Guild License
+Plague Mask
+Trade Tools (Medicine or Apothecary)
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
