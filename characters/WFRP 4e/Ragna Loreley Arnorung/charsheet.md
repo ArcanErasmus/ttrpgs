@@ -36,17 +36,19 @@
 |   80 |  11 |  15 | Cool
 |   50 |   0 |   5 | Dodge
 |   50 |   0 |   5 | Endurance
-|   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Intimidate
+|   50 |   0 |   5 | Outdoor Survival
+|------|-----|-----|------
+|   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
 |   50 |   0 |   5 | Lore (Norsca)
 |  125 |   0 |  10 | Lore (Trees)
-|   50 |   0 |   5 | Melee (Two-Handed)
-|   50 |   0 |   5 | Outdoor Survival
-|   95 |   0 |   8 | Ranged (Throwing)
 |   50 |   0 |   5 | Sail (Barge)
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
+|------|-----|-----|------
+|   50 |   0 |   5 | Melee (Two-Handed)
+|   95 |   0 |   8 | Ranged (Throwing)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
 

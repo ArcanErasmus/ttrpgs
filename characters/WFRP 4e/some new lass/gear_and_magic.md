@@ -1,15 +1,18 @@
-# Septimus's Gear & Magic
+# Marlien's Gear & Magic
 ## Inventory
 ### Armor
-| Name                 | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
-|----------------------|------|------|------|------|------|------|------|----|-----------------
-|----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary              |    0 |    0 |    0 |    0 |    0 |    0 |    0 |
+| Name                  | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
+|-----------------------|------|------|------|------|------|------|------|----|-----------------
+|-----------------------|------|------|------|------|------|------|------|----|-----------------
+| Summary               |    0 |    0 |    0 |    0 |    0 |    0 |    0 |
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
 |----------------|------------|---------|-------|-----------------
 | Dagger         | M Basic    | V Short | +SB+2 |
+|----------------|------------|---------|-------|-----------------
+| Ranged Weapon  | Group      | Range   | Dam   | Qualities/Flaws
+|----------------|------------|---------|-------|-----------------
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
@@ -23,38 +26,40 @@
 |--------------------------|-----|-----|--------------------------------
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Plague Mask              |   ? |     | ???
-| Clothing                 |   1 |   W |
+| Cloak                    |   1 |   W |
+| Clothes                  |   1 |   W |
 |--------------------------|-----|-----|--------------------------------
 | **Tools/Kits**           |     |     |
 |--------------------------|-----|-----|--------------------------------
 |--------------------------|-----|-----|--------------------------------
 | **Miscellaneous**        |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Healing Draught          |     |     |
-| Symbol of the Fellowship |     |     |
-| Guild License            |     |     |
+| Assorted goods           |     |     | Value: 15d
 |--------------------------|-----|-----|--------------------------------
-| *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
+| *Container: Backpack*    |   2 |   W | Carries: 4 Enc
 |--------------------------|-----|-----|--------------------------------
-| Book (Apothecary)        |   1 |     | The Essential Handbook on Preparations of Graveroot
-| Parchment (5)            |     |     |
-| Writing Kit              |     |     |
+| Backpack                 |   2 |     |
+| Blanket                  |     |     |
+| Tent                     |   2 |     |
+| Tinderbox                |     |     |
 |--------------------------|-----|-----|--------------------------------
 | *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
-| Trade Tools (Apothecary) |   1 |     |
+| Bedroll                  |   1 |     |
+| Rations, Day's (1)       |     |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 4/- 
+| **Coins**                |     |     | 0 GC -/6 
 |--------------------------|-----|-----|--------------------------------
-| **Total**                |     |   0 |
+| **Total**                |     |   2 |
+
+Backpack
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
 |-----------|-----|------------
-| Limit     |   5 |
-| 2x Limit  |  10 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
-| 3x Limit  |  15 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
+| Limit     |   6 |
+| 2x Limit  |  12 | -1 Mov (min 3), -10 Ag, +1 Travel Fatigue
+| 3x Limit  |  18 | -2 Mov (min 2), -20 Ag (min 10), +2 Travel Fatigue
 |-----------|-----|
 
 ## Psychology and Corruption

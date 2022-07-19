@@ -146,17 +146,17 @@ h Assortment of Animal Skulls, Ceremonial Cloak and Garland
 - Attr: Fel
 - Skills: Charm, Cool, Entertain (Comedy), Gossip, Language (Magick), Lore (Anatomy)
 - Talents: Disciple of Evolution, Etiquette (Guilder), Petty Magic, Pharmacist
-- Trappings: Book (Medicine or Apothecary), Guild License, Plague Mask, Trade Tools (Medicine or Apothecary)
+- Trappings: Book (Apothecary or Medicine), Guild License, Plague Mask, Trade Tools (Apothecary or Medicine)
 ### Scholar of Medicine - Silver 4
 - Attr: I
-- Skills: Channeling (Dhar), Lore (Nurgle), Leadership, Secret Signs (Cultist)
-- Talents: Bookish, Chaos Magic (Nurgle), Magnum Opus, Surgery
+- Skills: Channeling (Dhar), Leadership, Lore (Nurgle), Secret Signs (Cultist)
+- Talents: Bookish, Chaos Magic (Nurgle), Master Tradesman (Apothecary), Surgery
 - Trappings: Forbidden Tome, Nasty Diseases, Pledge
 ### Doktor Regent - Gold 2
 - Attr: T
 - Skills: Language (Dark Tongue), Lore (Any)
-- Talents: Cat-tongued, Master Tradesman (Apothecary), Savant (Medicine), Wealthy
-- Trappings: Workshop (Medicine or Apothecary), Unsuspecting Populace
+- Talents: Cat-tongued, Magnum Opus, Savant (Medicine), Wealthy
+- Trappings: Workshop (Apothecary or Medicine), Unsuspecting Populace
 
 ## Homebrew Talents
 ### Disciple of Evolution
