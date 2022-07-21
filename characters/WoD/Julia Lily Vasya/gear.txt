@@ -17,10 +17,10 @@
 ║ · Many vials of perfume                         │ x                                              ║
 ║ · Spirit-reflection of "coinage"?               │ x                                              ║
 ║ · Robe of "The Cult of the Thousand Voices"     │ x                                              ║
+║ · Tac webbing for ammo/gun storage              │ x                                              ║
+║ · Knockout potion, flavorless (5)               │ x                                              ║
 ║ ·                                               │ x                                              ║
-║ ·                                               │ x                                              ║
-║ ·                                               │ x                                              ║
-║ · Coinage worth 3 dots Resources                │ x                                              ║
+║ · Coinage worth [Resources ♠♠♠]                 │ x                                              ║
 ╠════════════════════════╤══════╤════════╤═══╤════╧════════════════════════════════════════════════╣
 ║ Melee Weapons          │ Diff │ Damage │ C │ Notes                                               ║
 ╟────────────────────────┼──────┼────────┼───┼─────────────────────────────────────────────────────╢
