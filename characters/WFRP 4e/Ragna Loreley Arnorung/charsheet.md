@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
-- Personal short-term ambition: Figure out connection between Cythara and Sister Weir's group
+- Personal short-term ambition: Concoct a scheme to take down Etelka
 - Personal long-term ambition: Be respected and/or feared by a large populace
-- Party short-term ambition: Get out of Kemperbad and on the trail of Etelka
+- Party short-term ambition: Get out of Kemperbad
 - Party long-term ambition: Find Etelka Herzen
 
-## Total/Spent XP: 2900/2905
+## Total/Spent XP: 2960/2995
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -48,7 +48,7 @@
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
 |   50 |   0 |   5 | Melee (Two-Handed)
-|   95 |   0 |   8 | Ranged (Throwing)
+|  125 |   0 |  10 | Ranged (Throwing)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
 
@@ -121,7 +121,7 @@
 |---|--------------------|----|-----|----|------
 |!C$| Melee (Basic)      | 15 | WS  | 71 |
 | C | Melee (Two-Handed) |  5 | WS  | 61 |
-| C | Ranged (Throwing)  |  8 | BS  | 40 |
+|!C | Ranged (Throwing)  | 10 | BS  | 42 |
 
 ## Injuries
 
@@ -315,13 +315,12 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 305
+### Rank 2->3: 275
 - Attributes: 0
-- Skills: 305
+- Skills: 275
     - Athletics          |  5->10 |  75
     - Endurance          |  5->10 |  75
     - Gossip             |   -> 5 |  50
-    - Ranged (Throwing)  |  8->10 |  30
     - Sail (Barge)       |  5->10 |  75
 - Talents: 0
 

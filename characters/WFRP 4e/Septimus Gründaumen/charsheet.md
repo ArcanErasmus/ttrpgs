@@ -26,7 +26,7 @@
 |------|-----|-----|------
 |   50 |   0 |   5 | Endurance
 |------|-----|-----|------
-|   50 |   0 |   5 | Lore (Chemistry)
+|   50 |   0 |   5 | Lore (Herbs)
 |   50 |   0 |   5 | Sleight of Hand
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
@@ -71,7 +71,7 @@
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
 |   | Intimidate         |    | S   |    |
-| C | Intuition          |    | I   |    |
+| C | Intuition          |  5 | I   | 39 |
 |   | Leadership         |  5 | Fel | 45 |
 |   | Navigation         |    | I   |    |
 |   | Outdoor Survival   |    | Int |    |
@@ -177,7 +177,7 @@
 
 ### Grandfather's Blessing
 - Max: WPB
-- Tests: Tests using this Talent
+- Tests: Tests using Grandfather's Blessing
 - When you would contract a disease (and no later!), you may spend a point of Resolve to force it into dormancy. When a disease is dormant, it causes no symptoms, and is not transmissible. If you have one or more diseases held dormant using this Talent, you may make an opposed Willpower/Endurance test to foist one on someone else, infecting them as normal and curing yourself. You may have a number of diseases held dormant this way up to your Toughness Bonus.
 
 ## Exp Planning

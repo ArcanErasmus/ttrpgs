@@ -112,17 +112,70 @@ To seek glory, and see the world.
 
 ### Interrogating Cythara
 - What was your involvement with Etelka's group?
+    - Limited, camp assistant.
+    - Opportunistic pickup, not targeted recruit.
 - What is Etelka's group up to (past/future)?
-- Where is Etelka's group going?
+    - "Trying to find something [at map location]"
+    - Likely "warpstone" (a material, "and a faith thing")
+- Where are they coming from?
+    - Likely Black Peaks, Grissenwald, near Nuln
 - Who are the other people in Etelka's group?
+    - Etelka's personal physician
+    - Outdoorsy men
+    - Handful of thugs
 - How long were you running with them?
-- Do you have any other connections from their group?
+    - 5-ish days
+    <!-- - that seems short. what were you up to before that? -->
 - How did you fall in with them?
+    - Coerced by them. They have information that could ruin her life.
+    <!-- - What information? -->
 - How good are you in a fight?
+    - Being cagey about capabilities, doesn't seem as scared of a group of thugs as she's trying to sound
 - Are you willing to wholesale slaughter your former companions?
-- When/how did you join Sister Weir's group?
+    - Only Etelka is redeemable
+    - No love lost for the others
 - Why did you leave it?
+    - Sister Weir as escape
 - What were your connections to the other members of Sister Weir's group?
+    - Cared about Guillarme a great deal, after he saved her life.
+    - Samir and Asa were also there.
+    - Misses Luliana, guilty over leaving?
+    - Luliana is an angry and spiteful person.
+    - Got quite close with Sister Weir over the month of travel.
+- Is Etelka the leader?
+    - Yes (and she held the money).
+    - Perhaps the physician was the real puppetmaster?
+- How well do group members know each other? Are they familiar/close, or disparate strangers?
+    - Unknown. (Cythara seems like a not very socially-observant character)
+    - Perhaps they got along better than a recently-thrown-together gang
+    - No major friction
+- What does Cythara know about the previous cult Sister Weir's group was fighting? Are they the same people?
+    - Don't believe they had any interaction, not the same people, wouldn't get along
+
+- Bonus info
+    - Believes Etelka is not beyond redemption, "not like Heidelmann [the physician]"
+    - Believes Etelka has a good heart
+    - Etelka manipulated into following the Wind Lord, doesn't understand danger
+    - Etelka's group follows the Wind Lord, NOT the Lord of the Garden
+    - Etelka's group is known as The Red Crown
+- Timeline:
+    - Met Luliana, Guillarme, Samir when they protected her from a mob
+    - Grew fond of Guillarme.
+    - Luliana hired Cythara for her knowledge?
+    - Cythara met Sister Weir on the road, they grew close.
+    - They traveled together.
+    - They had a crazy experience taking down a branch of the Tree of Life cult in Bogenhafen.
+    - They split apart??? (Cythara doesn't want to talk about this part)
+
+Remember: I have not asked specifically about chaos. I am asking about the group in general, in order to question my assumptions.
+
+### Secret goal: Make Cythara grow a spine
+Force Cythara to spend an Endeavor on Training, for Strength and Toughness, and spend at least 100xp
+DO NOT EXPLAIN YOUR SECRET PLANS
+[Steven universe, "light a fire in you" song]
+
+### Anti-magic
+Research for how to acquire wards against magic. Consider charms, but especially awesome would be tattoos (like Highlander Career's but for MR) 
 
 ## Enemies
 - Guillarme de Mountonfou
