@@ -34,6 +34,10 @@
 ║   add (attr being rolled + ability chosen) dice to all rolls using the Ability.                  ║
 ║ · Available abilities: All marked as Key.                                                        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Night Realm Charm: Mocking Murmurs Retort (♠)                                                    ║
+║ · Spend 2 Ess & roll Manipulation + Subterfuge, diff of target's WP.                             ║
+║ · All who hear target view their words as suspicious, untrustworthy, unpleasant.                 ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Night Realm Charm: Naked Wicked Souls (♠)                                                        ║
 ║ · Spend a turn examining target, spend 1 Ess & roll Perception + Empathy vs diff of target's     ║
 ║   (Wits + Subterfuge). Success reveals deed in all target's history they're most ashamed of.     ║
@@ -71,4 +75,10 @@
 ║ · Permanently triple base movement speed.                                                        ║
 ║ · Permanently double all initiative results.                                                     ║
 ║ · Each minute of flat-out movement adds 1 to speed multiplier, max x10 after 7 minutes.          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Seven Burning Seas Charm: Law-As-Tool Realization (♠)                                            ║
+║ · Gain intuition of common societal/religious laws of any people I walk among.                   ║
+║ · No discrete information, but no penalty for being unaccustomed to local practices.             ║
+║ · 1/session, if use/manipulate/apply knowledge of the law for significant steps towards a goal,  ║
+║   regain WP as if affirm intimacy.                                                               ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

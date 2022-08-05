@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Nature - Artist                ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent  ║
 ║ Demeanor - Director            ║   Current  │ ♠  ♠  ♠  ♠  ♠  ♠  ♠              ├─────────────────╢
-║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠♠                        │  30/ 37         ║
+║ Caste - Infernal               ║ Willpower  │ ♠♠♠♠♠ ♠♠∙                        │  40/ 40         ║
 ║ Urge - The Conqueror           ║ LimitTrack │ ▓▓░░░ ░░░░░                      ├─────────────────╢
 ║ Crown - Eyes                   ║ Ess Rating │ ♠♠∙∙∙                            │ Movement Speed  ║
-║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠♠♠ ♠∙                   │ 24w/51j/105r yd ║
+║ Circle - The Displaced?        ║ Ess Pool   │ ♠♠♠♠♠ ♠♠♠∙∙ ∙∙                   │ 24w/51j/105r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
@@ -22,7 +22,7 @@
 ║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Cmptr/Enigma │ ♠∙∙∙∙ │         ║
 ║ Awareness  │ ♠∙∙∙∙ │           ║ Drive/Ride │ ∙∙∙∙∙ │           ║ Finance/Sncl │ ♠∙∙∙∙ │         ║
 ║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │K♠♠∙∙∙ │           ║ Investigatn  │K♠♠♠♠∙ │ Deductn ║
-║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ∙∙∙∙∙ │         ║
+║ Empathy    │K♠♠♠∙∙ │           ║ Firearms   │K♠♠♠∙∙ │           ║ Law          │ ♠∙∙∙∙ │         ║
 ║ Expression │ ♠♠∙∙∙ │           ║ Larceny    │ ♠∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │         ║
 ║ Intimidatn │K♠♠♠∙∙ │           ║ Melee      │ ♠∙∙∙∙ │           ║ Occult       │ ♠∙∙∙∙ │ DemonQn ║
 ║ Leadership │K♠∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ♠∙∙∙∙ │         ║
@@ -48,11 +48,14 @@
 ║ Charms - Key: NR & DC                               │ Notes                                      ║
 ╟─────────────────────────────────────────────────────┼────────────────────────────────────────────╢
 ║ · G: Key to the Kingdom (♠)                         │ All key abilities                          ║
+║ · NR: Mocking Murmurs Retort (♠)                    │                                            ║
 ║ · NR: Naked Wicked Souls (♠)                        │                                            ║
 ║ · NR: Witness to Darkness (♠)                       │                                            ║
 ║ · DC: Nightmare Fugue Vigilance (♠)                 │                                            ║
 ║ · DC: By Rage Recast (♠♠) x2                        │ Flight, Transcendent Anathema              ║
 ║ · BM: Anonymity Through Propriety (♠♠)              │                                            ║
+║ · SA: Wind-Born Stride (♠♠)                         │                                            ║
+║ · 7S: Law-as-Tool Realization (♠)                   │                                            ║
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
 
 Collected Modifiers:

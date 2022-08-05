@@ -16,13 +16,25 @@
 ║ · Questions from Julia for next session
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 12 - 2022/07/27?future                                                                   ║
+║ Session 13 - 2022/08/03?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · Fortune teller's tent at festival (Monday, 13 days PA, late afternoon)
-║   · Getting fortune read
-║   · ABOUT TO USE NAKED WICKED SOULS ON FORTUNE TELLER
 ║ · 
 ║   · 
+║     · 
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 12 - 2022/07/27                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · Fortune teller's tent at festival (Monday, 13 days PA, late afternoon)
+║   · Getting fortune read, result: Ruin, Ruin, Ruin, Ruin, Ruin
+║   · NWS: Has been glossing over upcoming misfortune in very large number of recent readings
+║     · Eventually she went to a militia member, who thought she was a charlatan
+║     · She doesn't know: Nearby group of bandits will attack the town during festival
+║     · They are refugees from greater Larn-Ferro, over the mountains
+║     · Extremely anti-demon; partly chose this town bc some disciples of Redona settled here
+║ · Puppet show about Redona
+║   · Redona is the Demon Queen, has walked this Vort
+║   · "Redona still has a physical incarnation"
+║ · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 11 - 2022/07/20                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -188,12 +200,15 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ XP Log                                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ ·  8: Non-Key Charm: Wind-Born Stride (♠♠)
 ║ ·  8: Essence 1 -> 2
-║ ·  6: Key Charm: By Rage Recast (♠♠)
 ║ ·  3: Melee 0 -> 1
-║ ·  2: Academics 1 -> 2
+║ ·  6: Key Charm: By Rage Recast (♠♠)
+║ ·  8: Non-Key Charm: Wind-Born Stride (♠♠)
 ║ ·  3: Language (♠)         
+║ ·  2: Academics 1 -> 2
+║ ·  3: Law 0 -> 1
+║ ·  3: Mocking Murmurs Retort (♠)
+║ ·  4: Law-as-Tool Realization (♠)
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -212,7 +227,6 @@
 ║   ·  1: Leadership 1 -> 2
 ║ · Non-Key Abilities
 ║   ·  3: Athletics 0 -> 1
-║   ·  3: Law 0 -> 1
 ║   ·  2: Alertness 1 -> 2
 ║   ·  2: Awareness 1 -> 2
 ║   ·  2: Finance 1 -> 2
@@ -234,7 +248,6 @@
 ║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
 ║   ·  3: By Pain Reforged - counter low pain tolerance, don't get KO'd
 ║   ·  3: Cracked Cell Circumvention - escape all types of confinement
-║  *·  3: Mocking Murmurs Retort - make ppl distrust speaker's words
 ║   ·  3: Ox-Body Technique - cheap extra health levels
 ║   ·  3: Prince of Ruin Attitude - make broken things just work
 ║   ·  3: Without Honor, Without Hope - you are good in the cold
@@ -265,7 +278,6 @@
 ║   ·  8: Heat Dismisses Heat - force targets to drop weapons
 ║   ·  4: Error Recognizing Scrutiny - identify possibility for crime, structural weaknesses
 ║   ·  4: Fire on the Water - ignore heat/flame, don't need oxygen
-║  *·  4: Law-as-Tool Realization - innately understand social/religious laws/customs
 ║   ·  4: Weighing Oil and Wine - idenfity material compositions and object functions
 ║ · Other
 ║  *· 16: Essence 2 -> 3
