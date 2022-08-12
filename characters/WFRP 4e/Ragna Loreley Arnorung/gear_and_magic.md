@@ -71,7 +71,7 @@
 |--------------------------|-----|-----|--------------------------------
 | Throwing Axe             |   1 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 16GC 3/2 
+| **Coins**                |     |     | 38GC 3/2 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |  12 |
 
@@ -93,17 +93,18 @@
 - +1 SL all tests to support or defend them
 - Immune to Fear and Intimidation while defending them
 
-## Inventory of The Svettbukk
-- 272 GC
-- Trade Tools (Navigator)
-- Meat Smoker (Trade Tools for preserving game)
-
+## Inventory of Alicia's Cart
 - Backpack for Ragna's Stuff
     - Crowbar
     - Bedroll
     - Clothing (Fine x2)
     - Hat (Fine x3)
     - Throwing Axe
+
+## Inventory of The Svettbukk
+- 200 GC
+- Trade Tools (Navigator)
+- Meat Smoker (Trade Tools for preserving game)
 
 - Loot from the signal tower's cellar
     - 11 Old but readable books

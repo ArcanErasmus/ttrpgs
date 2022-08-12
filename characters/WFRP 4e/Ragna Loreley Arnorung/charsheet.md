@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Wild out
 
-- Personal short-term ambition: Concoct a scheme to take down Etelka
+- Personal short-term ambition: ?
 - Personal long-term ambition: Be respected and/or feared by a large populace
 - Party short-term ambition: Get out of Kemperbad
-- Party long-term ambition: Find Etelka Herzen
+- Party long-term ambition: Solve the problem that is Etelka Herzen
 
-## Total/Spent XP: 2960/2995
+## Total/Spent XP: 3055/3075
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -35,7 +35,8 @@
 |   40 |  13 |  15 | Consume Alcohol
 |   80 |  11 |  15 | Cool
 |   50 |   0 |   5 | Dodge
-|   50 |   0 |   5 | Endurance
+|  125 |   0 |  10 | Endurance
+|   50 |   0 |   5 | Gossip
 |   50 |   0 |   5 | Intimidate
 |   50 |   0 |   5 | Outdoor Survival
 |------|-----|-----|------
@@ -315,13 +316,10 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 275
+### Rank 2->3: 75
 - Attributes: 0
-- Skills: 275
+- Skills: 75
     - Athletics          |  5->10 |  75
-    - Endurance          |  5->10 |  75
-    - Gossip             |   -> 5 |  50
-    - Sail (Barge)       |  5->10 |  75
 - Talents: 0
 
 ### Rank 3->Exit: 1645

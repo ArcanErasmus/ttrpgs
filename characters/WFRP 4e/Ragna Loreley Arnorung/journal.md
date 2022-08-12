@@ -167,8 +167,6 @@ To seek glory, and see the world.
     - They had a crazy experience taking down a branch of the Tree of Life cult in Bogenhafen.
     - They split apart??? (Cythara doesn't want to talk about this part)
 
-Remember: I have not asked specifically about chaos. I am asking about the group in general, in order to question my assumptions.
-
 ### Secret goal: Make Cythara grow a spine
 Force Cythara to spend an Endeavor on Training, for Strength and Toughness, and spend at least 100xp
 DO NOT EXPLAIN YOUR SECRET PLANS
