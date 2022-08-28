@@ -8,241 +8,35 @@ https://www.fantasynamegenerators.com/personality-descriptions.php
 https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-generators-creating-npcs-in-60
 
 # Iona Tsopanakis, she/her
-- [alignment?] Skeleton (Medium) Investigator 1
+- [alignment?] Automoton [skeleton-flavored] (Medium) Investigator 1
 - height, weight, age
 - appearance
 - personality shorthand
+detective background
+dhampir heritage
+    voice of the night heritage feat
+underworld investigator class feat
+methodology empiricism
 
+## Stats
+|------|------|------
+| AC   |      | -
+| Init |      | -
+| Spd  | 25   | -
+| Prof |      | -
+| PWis |      | -
+|------|------|------
+| HP   | 16   | 16
 
-
-
-
-
-
-
-## Heritages and Ancestries
-### Aphorite (plane of law)
-- Upgrades llv to darkvision
-
-- Axiomatic Lore
-    - Trained in Diplomacy, Society, Axis Lore
-- Internal Cohesion
-    - Your wounds can be treated without healer's tools
-    - 1/day, Treat Wounds on yourself, crit fail -> fail, fail -> success
-- Intuitive Crafting
-    - Trained in Crafting
-    - Specialty Crafting skill feat (specialty your choice)
-
-### Changeling (mother was hag)
-- Upgrades llv to darkvision
-
-- Brine May
-    - Athletics to Swim, success -> crit success
-    - If end turn in water w/o Swim that round, don't sink
-- Callow May
-    - Charming Liar skill feat
-    - If roll Deception for Initiative, foes that haven't acted yet are ff
-- Changeling Lore
-    - Trained in Deception, Occultism, Hag Lore
-- Dream May
-    - +2 save vs sleep effects or cause/alter dreams
-    - Regain double HP from sleep, reduce drained/doomed conds by 2 instead of 1
-- Moon May
-    - Cast guidance as occult innate cantrip
-- Snow May
-    - Automatic Cover Tracks on ice/snow in arctic terrain, no half speed
-    - Icy terrain not uneven ground (still difficult terrain), ignore snow-caused difficult terrain
-    - Cold precipitation and environmental cold don't alter time to become fatigued
-- Veil May
-    - Lie to Me skill feat
-    - Changing disguise used to Impersonate back to true appearance is 3-action activity, 2 if expert in Deception, 1 if legendary
-- Virga May
-    - Cast electric arc as occult innate cantrip
-
-### Dhampir (vampire)
-- Upgrades llv to darkvision
-
-- Adhyabhau
-    - +1 Will save vs [emotion] effects, success -> crit success
-- Cel Rau
-    - +1 save vs [darkness], [light], [shadow] effects
-    - When blinded/dazzled for >1 rd, -1 rd duration
-- Nocturnal Charm
-    - Vs skeletons, +1 Deception to Lie, +1 Diplomacy to Gather Information or Make an Impression
-- Old Soul
-    - (must be 100+ yrs old)
-    - Trained in 2 skills your choice
-- Ru-Shi
-    - Trained in Society
-    - Eye for Numbers skill feat
-- Straveika
-    - +1 Perception to Sense Motive and to Perception DCs vs attempts to Lie to you
-- Svetocher
-    - When drained, penalty to Fort save and HP reduction as though condition 1 lower
-    - Trained in Diplomacy
-- Vampire Lore
-    - Trained in Religion, Society, Vampire Lore
-- Voice of the Night
-    - Can ask questions of, get answers from, use Diplomacy with bats/rats/wolves
-    - +1 Make an Impression with said animals
-
-### Duskwalker (psychopomp)
-- Upgrades llv to darkvision
-- Can't further become undead (lol)
-
-- Chance Death
-    - 1/day, if would die from failed save or recovery check, can reroll
-- Duskwalker Lore
-    - Trained in Medicine, Religion, Boneyard Lore
-- Ghost Hunter
-    - Weapon/unarmed Strikes vs incorporeal creatures become magical, or if magical gain ghost touch
-- Nosoi's Mask
-    - prereq: trained in crafting
-    - Trained in Intimidation
-    - Intimidating Glare skill feat
-    - Can make masks worn by psychopomps, 1sp for a basic one, 50gp for one that gives +1 to Intimidation
-
-### Ganzi (primal chaos)
-- Resistance to single damage type, each day choose acid/electricity/sonic, of half lvl
-- +1 save vs Controlled condition
-
-- Creative Prodigy
-    - Trained in Deception, Performance, Art Lore
-- Impressible (Ganzi)
-    - Save vs [emotion], [fear] success -> crit success
-- Vestigal Wings
-    - Steady Balance skill feat
-    - Cat Fall skill feat
-
-### Ifrit (plane of fire)
-- Resistance to fire of half lvl
-- Environmental heat effects 1 step less severe
-
-- Brightsoul
-    - Body glows as light cantrip, returns in 1d4 rds if disrupted
-    - -2 Stealth to Hide or Sneak
-    - +1 save vs [light] effects or effects that inflict blinded/dazzled
-- Cindersoul
-    - DC to recover from persistent acid/bleed/poison is 10 (5 with assistance)
-- Elemental Lore
-    - Trained in Survival, Plane of Fire Lore
-    - Trained in Arcana or Nature
-- Inner Fire
-    - Cast produce flame as innate primal or arcane cantrip
-- Sinister Appearance
-    - Trained in Intimidation
-    - Intimidating Glare skill feat
-    - +2 Deception to Impersonate version of yourself who is a tiefling
-
-### Oread (plane of earth)
-- Upgrades llv to darkvision
-
-- Dustsoul
-    - Trained in Survival
-    - Can sustain yourself on dirt/ash instead of normal food/water (aka normal bones?)
-- Elemental Lore
-    - Trained in Survival, Plane of Earth Lore
-    - Trained in Arcana or Nature
-- Elemental Trade
-    - Trained in Crafting
-    - Specialty Crafting skill feat for both Sonemasonry and Blacksmithing
-- Gemsoul
-    - Trained in Performance
-    - Impressive Performance skill feat
-- Miresoul
-    - Trained in Acrobatics
-    - Quick Squeeze feat
-- Steady on Stone
-    - Ignore difficult terrain from rubble, and uneven ground made of stone/earth
-    - When use Acrobatics to Balance on narrow/uneven surfaces of stone/earth, not ff, success -> crit success
-
-### Suli (opposing elemental forces)
-- Upgrades llv to darkvision
-
-- Dualborn
-    - Choose 2 elements from air/earth/fire/water, resistance of half lvl to damaging effects with chosen traits
-    - Upgrades with Elemental Assault or Elemental Bulwark
-- Elemental Assault
-    - 1/day, 1d6 bonus damage for 1 turn for Strikes
-- Elemental Embellish
-    - Summon harmless but impressive elemental display
-    - Trained in Intimidation
-    - When Demoralize foe, if use display it loses [auditory] and gains [visual], no penalty for not understanding language
-- Elemental Lore
-    - Trained in Survival, Plane of (origin)? Lore
-    - Trained in Arcana or Nature
-- Scholar's Influence
-    - Trained in Crafting
-    - Alchemical Crafting skill feat
-- Suli-Jann
-    - Trained in Survival
-    - Forager skill feat
-
-### Sylph (plane of air)
-- Upgrades llv to darkvision
-
-- Elemental Lore
-    - Trained in Survival, Plane of Air Lore
-    - Trained in Arcana or Nature
-- Fumesoul
-    - Resistance to poison of half lvl
-- Smokesoul
-    - Reaction: Flat check to target you through concealment/hidden is at +2 DC
-- Stormsoul
-    - Resistance to electricity of half lvl
-- Swift
-    - +5 ft speed
-- Wind Tempered
-    - +1 save vs [air] and [electricity], save vs [air] success -> crit success
-
-### Tiefling (fiendish)
-- Upgrades llv to darkvision
-
-- Beastbrood
-    - Trained in Society
-    - Courtly Graces skill feat
-- Fiendish Lore
-    - Trained in Intimidation, Religion, (Fiendish plane)? Lore
-- Grimspawn
-    - Diehard feat
-- Hellspawn
-    - Trained in Deception, Legal Lore
-    - Lie to Me skill feat
-- Nimble Hooves
-    - +5 ft speed
-- Pitborn
-    - Trained in Athletics
-    - Any common 1st-lvl skill feat with prereq of Trained in Athletics
-- Riftmarked
-    - Trained in Occultism
-    - Oddity Identification skill feat
-- Shackleborn
-    - Fast Recovery feat
-
-### Undine (plane of water)
-- Swim speed 10 ft, amphibious trait
-
-- Elemental Lore
-    - Trained in Survival, Plane of Water Lore
-    - Trained in Arcana or Nature
-- Mistsoul
-    - Reaction: Flat check to target you through concealment/hidden is at +2 DC
-- Rimesoul
-    - Resistance to cold of half lvl
-    - Treat environmental cold effects as one step less severe
-- Tide-Hardened
-    - +1 saves vs [cold] and [water], success -> crit success
-
-
-
-
-
-
-
-
-
-
-
+## Ability Scores
+| Sta | #  | Mod
+|-----|----|-----
+| STR | 12 | +1
+| DEX | 12 | +1
+| CON | 10 | +0
+| INT | 18 | +4
+| WIS | 12 | +1
+| CHA | 14 | +2
 
 
 
@@ -251,29 +45,12 @@ https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-genera
 
 --
 
-## Stats
-|------|------|------
-| AC   | 16   | -
-| Init | +2   | -
-| Spd  | 25   | -
-| Prof | +2   | -
-| PWis | 13   | -
-|------|------|------
-| HP   | 30   | 30
-| HD   | 6d8  | OOOOO O
-| Insp | x
-| DSav | 0/0
-HP: [8] + 8 + 5
 
-## Ability Scores
-| Sta | #  | Mod | P | Sav | Temp
-|-----|----|-----|---|-----|------
-| STR | 10 |     |   |     | -
-| DEX | 14 | +2  |   |     | -
-| CON | 16 | +3  |   |     | -
-| INT | 10 |     | P | +2  | -
-| WIS | 16 | +3  | P | +5  | -
-| CHA |  8 | -1  |   |     | -
+
+
+
+
+
 
 ## Skills
 | P | Skill              | Sta | Mod | Temp
