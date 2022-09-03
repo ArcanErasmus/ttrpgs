@@ -10,10 +10,10 @@
 
 - Personal short-term ambition: ?
 - Personal long-term ambition: Be respected and/or feared by a large populace
-- Party short-term ambition: Get out of Kemperbad
-- Party long-term ambition: Solve the problem that is Etelka Herzen
+- Party short-term ambition: ?
+- Party long-term ambition: ?
 
-## Total/Spent XP: 3055/3075
+## Total/Spent XP: 3130/3775
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -31,7 +31,7 @@
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
-|   50 |   0 |   5 | Athletics
+|  125 |   0 |  10 | Athletics
 |   40 |  13 |  15 | Consume Alcohol
 |   80 |  11 |  15 | Cool
 |   50 |   0 |   5 | Dodge
@@ -79,7 +79,7 @@
 ## Skills
 | C | Basic              | Ad | Att | Tt | Temp
 |---|--------------------|----|-----|----|------
-| C | Athletics          |  5 | Ag  | 35 |
+|!C | Athletics          | 10 | Ag  | 40 |
 |   | Bribery            |    | Fel |    |
 |   | Charm              |    | Fel |    |
 |   | Charm Animal       |    | WP  |    |
@@ -88,7 +88,7 @@
 |!C | Cool               | 15 | WP  | 65 |
 | C | Dodge              |  5 | Ag  | 35 |
 |   | Drive              |    | Ag  |    |
-| C | Endurance          |  5 | T   | 75 |
+|!C | Endurance          | 10 | T   | 80 |
 |   | Gamble             |    | Int |    |
 | C | Gossip             |    | Fel |    |
 |   | Haggle             |    | Fel |    |
@@ -316,12 +316,6 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 2->3: 75
-- Attributes: 0
-- Skills: 75
-    - Athletics          |  5->10 |  75
-- Talents: 0
-
 ### Rank 3->Exit: 1645
 - Attributes: 345
     - I                  |  2->12 | 345
