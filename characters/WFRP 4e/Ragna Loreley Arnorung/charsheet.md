@@ -1,19 +1,19 @@
 # Ragna Loreley Arnorung, She/Her
-## Human, Freeholder (Warrior) + Initiate of Rhya, Freeholder - Silver 1
+## Human, Freeholder (Warrior) + Initiate of Rhya, Huskarl - Silver 5
 - 6'2", 250lbs, 18 yo, red hair, light blue eyes
     - Distinguishing Mark: Ruddy face, utter unit
 - Nationality: Imperial; Skaeling tribe, Arnorung clan
 - Birthplace: Schlaghügel, Barony of Hargendorf, Grand Barony of Nordland, The Reik
 - Religion: Rhya, and just a smidge of the Northern Gods
 - Star Sign: Dragomas the Drake, born 18/3/2504
-- Motivation: Wild out
+- Motivation: Protect my friends
 
 - Personal short-term ambition: ?
-- Personal long-term ambition: Be respected and/or feared by a large populace
-- Party short-term ambition: ?
-- Party long-term ambition: ?
+- Personal long-term ambition: Free Peronelle from captivity
+- Party short-term ambition: Repay debt to Unterbaum
+- Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 3130/3775
+## Total/Spent XP: 3835/3660
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -24,10 +24,15 @@
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
 |  300 |   0 |   2 | Ambidextrous
+|  100 |   0 |   1 | Battle Rage
 |  100 |   0 |   1 | Berserk Charge
-|  100 |   0 |   1 | Frenzy
+|  100 |   0 |   1 | Fearless (Everything)
 |  100 |   0 |   1 | Furious Assault
+|  100 |   0 |   1 | Gregarious
+|  100 |   0 |   1 | Juggernaut Frenzy
 |  100 |   0 |   1 | Mark of the Gods
+|  100 |   0 |   1 | Resistance (Mutation)
+|  100 |   0 |   1 | Robust
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
@@ -42,12 +47,15 @@
 |------|-----|-----|------
 |   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
+|   10 |   0 |   1 | Lore (Chaos)
 |   50 |   0 |   5 | Lore (Norsca)
+|   10 |   0 |   1 | Lore (The Old Faith)
 |  125 |   0 |  10 | Lore (Trees)
 |   50 |   0 |   5 | Sail (Barge)
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
+|   10 |   0 |   1 | Melee (Flail)     
 |   50 |   0 |   5 | Melee (Two-Handed)
 |  125 |   0 |  10 | Ranged (Throwing)
 |------|-----|-----|------
@@ -56,15 +64,15 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|!WS  | 41 |  5 | 10 |    | 56 |
+|^WS  | 41 |  5 | 10 |    | 56 |
 | BS  | 32 |    |    |    | 32 |
-|!S   | 50 |    | 10 |    | 60 |
-|!T   | 55 |  5 | 10 |    | 70 |
-| I   | 28 |    |  2 |    | 30 |
+|^S   | 50 |    | 10 |    | 60 |
+|^T   | 55 |  5 | 10 |    | 70 |
+|^I   | 28 |    |  2 |    | 30 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
-|!WP  | 40 |    | 10 |    | 50 |
+|^WP  | 40 |    | 10 |    | 50 |
 | Fel | 28 |    |    |    | 28 |
 
 ## Secondary Attributes
@@ -77,52 +85,55 @@
 | Cor | 12 |  3
 
 ## Skills
-| C | Basic              | Ad | Att | Tt | Temp
-|---|--------------------|----|-----|----|------
-|!C | Athletics          | 10 | Ag  | 40 |
-|   | Bribery            |    | Fel |    |
-|   | Charm              |    | Fel |    |
-|   | Charm Animal       |    | WP  |    |
-|   | Climb              |    | S   |    |
-|!C | Consume Alcohol    | 15 | T   | 85 |
-|!C | Cool               | 15 | WP  | 65 |
-| C | Dodge              |  5 | Ag  | 35 |
-|   | Drive              |    | Ag  |    |
-|!C | Endurance          | 10 | T   | 80 |
-|   | Gamble             |    | Int |    |
-| C | Gossip             |    | Fel |    |
-|   | Haggle             |    | Fel |    |
-| C | Intimidate         |  5 | S   | 65 |
-|   | Intuition          |    | I   |    |
-|   | Leadership         |    | Fel |    |
-|   | Navigation         |    | I   |    |
-| C | Outdoor Survival   |  5 | Int | 37 |
-|   | Perception         |    | I   |    |
-| C | Row                |    | S   |    |
-|---|--------------------|----|-----|----|------
-| C | Advanced/Grouped   | Ad | Att | Tt | Temp
-|---|--------------------|----|-----|----|------
-|   | Art                |    | Dex |    |
-|   | Entertain          |    | Fel |    |
-| C | Heal               |  5 | Int | 37 |
-| C | Language (Battle)  |  5 | Int | 37 |
-|   | Language (Norse)   |  5 | Int | 37 |
-|   | Lore (Nordland)    |  3 | Int | 35 |
-| C | Lore (Norsca)      |  5 | Int | 37 |
-|!C | Lore (Trees)       | 10 | Int | 42 |
-|   | Ride               |    | Ag  |    |
-|   | Sail (Wolfship)    |  3 | Ag  | 33 |
-| C | Sail (Barge)       |  5 | Ag  | 35 |
-| C | SecSign (TaalRhya) |  5 | Int | 37 |
-|   | Stealth            |    | Ag  |    |
-|!C | Swim               | 15 | S   | 75 |
-| C | Trade (Feller)     |  1 | S   | 61 |
-|---|--------------------|----|-----|----|------
-| C | Weapon Specs       | Ad | Att | Tt | Temp
-|---|--------------------|----|-----|----|------
-|!C$| Melee (Basic)      | 15 | WS  | 71 |
-| C | Melee (Two-Handed) |  5 | WS  | 61 |
-|!C | Ranged (Throwing)  | 10 | BS  | 42 |
+| C | Basic                 | Ad | Att | Tt | Temp
+|---|-----------------------|----|-----|----|------
+| C | Athletics             | 10 | Ag  | 40 |
+|   | Bribery               |    | Fel |    |
+|   | Charm                 |    | Fel |    |
+|   | Charm Animal          |    | WP  |    |
+|   | Climb                 |    | S   |    |
+|!C | Consume Alcohol       | 15 | T   | 85 |
+|!C | Cool                  | 15 | WP  | 65 |
+| C | Dodge                 |  5 | Ag  | 35 |
+|   | Drive                 |    | Ag  |    |
+| C | Endurance             | 10 | T   | 80 |
+|   | Gamble                |    | Int |    |
+| C | Gossip                |    | Fel |    |
+|   | Haggle                |    | Fel |    |
+| C | Intimidate            |  5 | S   | 65 |
+|   | Intuition             |    | I   |    |
+| C | Leadership            |    | Fel |    |
+|   | Navigation            |    | I   |    |
+| C | Outdoor Survival      |  5 | Int | 37 |
+| C | Perception            |    | I   |    |
+| C | Row                   |    | S   |    |
+|---|-----------------------|----|-----|----|------
+| C | Advanced/Grouped      | Ad | Att | Tt | Temp
+|---|-----------------------|----|-----|----|------
+|   | Art                   |    | Dex |    |
+|   | Entertain             |    | Fel |    |
+| C | Heal                  |  5 | Int | 37 |
+| C | Language (Battle)     |  5 | Int | 37 |
+|   | Language (Norse)      |  5 | Int | 37 |
+| C | Lore (Chaos)          |  1 | Int | 33 |
+|   | Lore (Nordland)       |  3 | Int | 35 |
+| C | Lore (Norsca)         |  5 | Int | 37 |
+| C | Lore (The Old Faith)  |  1 | Int | 33 |
+| C | Lore (Trees)          | 10 | Int | 42 |
+|   | Ride                  |    | Ag  |    |
+| C | Sail (Barge)          |  5 | Ag  | 35 |
+|   | Sail (Wolfship)       |  3 | Ag  | 33 |
+| C | SecSigns (TaalRhya)   |  5 | Int | 37 |
+|   | Stealth               |    | Ag  |    |
+|!C | Swim                  | 15 | S   | 75 |
+| C | Trade (Feller)        |  1 | S   | 61 |
+|---|-----------------------|----|-----|----|------
+| C | Weapon Specs          | Ad | Att | Tt | Temp
+|---|-----------------------|----|-----|----|------
+|!C$| Melee (Basic)         | 15 | WS  | 71 |
+| C | Melee (Flail)         |  1 | WS  | 57 |
+| C | Melee (Two-Handed)    |  5 | WS  | 61 |
+| C | Ranged (Throwing)     | 10 | BS  | 42 |
 
 ## Injuries
 
@@ -137,10 +148,14 @@
 ## Talents
 ### Acute Sense (Hearing) [1/IB]
 - Tests: Perception (Hearing)
-- May make Perception tests, at GM discretion, to detect normally imperceptible details
+- May make Perception Tests, at GM discretion, to detect normally imperceptible details
 
 ### Ambidextrous [2/2]
 - No penalties to Tests relying solely on secondary hand
+
+### Battle Rage [1/WPB]
+- Tests: Melee when Frenzied
+- May end frenzy with successful Cool at end of round
 
 ### Berserk Charge [1/SB]
 - Tests: Melee on a Turn when you Charge
@@ -155,6 +170,22 @@
 - If primary crit, use crit roll instead for secondary attack, don't reverse
 - Advantage gained only if both attacks hit
 - If dual attack, all defending rolls at -10 until start of turn
+
+### Fearless (Everything) [1/WPB]
+- Tests: Cool to oppose enemy Intimidate, Fear, Terror
+- Single Average (+20) Cool Test to ignore Intimidate, Fear, or Terror effects when encountered
+
+### Furious Assault [1/AgB]
+- Tests: Melee when making extra attacks
+- 1/rd if hit opponent in close combat
+- May immediately spend Move (if remaining), or 1 Adv, to make an extra attack
+
+### Gregarious [1/FelB]
+- Tests: Gossip with travelers
+- May reverse failed Gossip Test if it allows it to succeed
+
+### Hardy [1/TB]
+- Add TB to wounds again for each level in talent
 
 ### Juggernaut Frenzy [1/1]
 - WP Test to enter Juggernaut Frenzy:
@@ -174,23 +205,22 @@
 - May reflexively make WP Test to enter Juggernaut Frenzy when taking damage from an attack
     - Do not count triggering attack for stored damage
 
-### Furious Assault [1/AgB]
-- Tests: Melee when making extra attacks
-- 1/rd if hit opponent in close combat
-- May immediately spend Move (if remaining), or 1 Adv, to make an extra attack
-
-### Hardy [1/TB]
-- Add TB to wounds again for each level in talent
-
 ### Mark of the Gods [1/1]
 - Must spend half hour worshipping Ruinous Powers each day
-- May Frenzy immediately without testing, but must test Challenging Cool vs corrupting influence
+- May Frenzy immediately without testing, but must Test Challenging Cool vs corrupting influence
     - Minor exposure 1st time, Moderate 2nd, Major every after, resets each session
 - While Frenzying like this, turns my eyes red!
 
 ### Noble Blood [1/1]
 - Tests: Any influenced by your Status
 - If dressed appropriately, you are always higher status unless others also have Noble Blood
+
+### Resistance (Mutation) [1/TB]
+- Tests: All to resist Mutation
+- May automatically pass first Test to resist Mutation each session, using TB as SL if important
+
+### Robust [1/TB]
+- Reduce all incoming damage by +1 per rank in talent, even if it can't normally be reduced
 
 ### Savvy [1/1]
 - +5 Int
@@ -293,21 +323,22 @@
 - Track
 
 ### Talents
-- Animal Affinity
-- Attractive
-- Combat Reflexes
-- Disarm
-- Fleet Footed
-- In-fighter
-- Iron Jaw
-- Luck
-- Magic Resistance
-- Resistance ([Corruption, ?])
-- Reversal
+- Artistic
+- Careful Strike
+- Carouser
+- Combat Aware
+- Commanding Presence
+- Frightening
+- Hatred (Cultists)
+- Implacable
+- Old Salt
+- Relentless
+- Resistance (Poison)
+- Resolute
 - Scale Sheer Surface
 - Sea Legs
+- Shieldsman
 - Sprinter
-- Strike Mighty Blow
 - Wealthy
 
 ### Items
@@ -316,20 +347,18 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 3->Exit: 1645
+### Rank 3->Exit: 1340
 - Attributes: 345
     - I                  |  2->12 | 345
-- Skills: 300
+- Skills: 495
     - Leadership         |   ->10 | 125
-    - Lo(Chaos)          |   -> 5 |  50
-    - Lo(The Old Faith)  |   -> 5 |  50
+    - Lo(Chaos)          | 1 -> 5 |  40
+    - Lo(The Old Faith)  | 1 -> 5 |  40
+    - M(Flail)           | 1 ->15 | 215
     - Perception         |   ->10 | 125
-- Talents: 900
-    - Battle Rage        |   -> 2 | 300
-    - Gregarious         |   -> 1 | 100
-    - Fearless (All)     |   -> 1 | 100
-    - Resistance (Mut)   |   -> 1 | 100
-    - Robust             |   -> 2 | 300
+- Talents: 400
+    - Battle Rage        | 1 -> 2 | 200
+    - Robust             | 1 -> 2 | 200
 - Exit Career Early: 100
 
 ### Witch Hunter
