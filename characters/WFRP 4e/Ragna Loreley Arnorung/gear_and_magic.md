@@ -13,24 +13,26 @@
 | Plate Helm            | xxxx |      |      |      |      |      |      |  2 | Impenetrable, Weakpoints
 | Shield (Large)        |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary               |    5 |    3 |    3 |    5 |    3 |    3 |    3 |
+| Summary               |    5 |    3 |    3 |    5 |    3 |    3 |    3 | +1 damage reduction from Robust
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
 |----------------|------------|---------|-------|-----------------
-| Battle Axe     | M Basic    | Average | +SB+4 | Hack
+| Dagger         | M Basic    | V Short | +SB+2 |
+| Grain Flail    | M Flail    | Average | +SB+3 | Distract, Imprecise, Wrap
 | Shield (Large) | M Basic    | V Short | +SB+3 | Shield 3, Defensive, Undamaging
 |----------------|------------|---------|-------|-----------------
 | Ranged Weapon  | Group      | Range   | Dam   | Qualities/Flaws
 |----------------|------------|---------|-------|-----------------
-| Throwing Axe   | R Throwing | SBx2    | +SB+3 | Hack
+| Javelin        | R Throwing | SBx3    | +SB+3 | Impale
 
 ### Trappings
 | Name                     | Enc | Wrn | Notes
 |--------------------------|-----|-----|--------------------------------
 | **Weapons**              |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Battle Axe               |   2 |     |
+| Dagger                   |     |     |
+| Grain Flail              |   1 |     |
 | Shield (Large)           |   3 |     |
 |--------------------------|-----|-----|--------------------------------
 | **Armor**                |     |     |
@@ -47,7 +49,7 @@
 | **Clothing/Accessories** |     |     |
 |--------------------------|-----|-----|--------------------------------
 | Animal Hide Cloak        |   1 |   W |
-| Clothing (Fine)          |   1 |   W | Long sleeves and overalls
+| Clothing                 |   1 |   W | Long sleeves and overalls
 | Gold Ring                |     |   W | 10 GC value
 | Kill Trophies            |   1 |   W | Large squid beak, minotaur head, shark full jaw + teeth, Gibberbeast horns & teeth
 | Signet Ring              |     |   W | Clan Arnorung
@@ -55,25 +57,25 @@
 |--------------------------|-----|-----|--------------------------------
 | **Tools/Kits**           |     |     |
 |--------------------------|-----|-----|--------------------------------
-| Blessed Torch            |   1 |     | Illuminates 20yds, lasts twice as long
 | Knife                    |     |     |
-| Pitch (7)                |     |     | Treats one torch to burn for an hour
 |--------------------------|-----|-----|--------------------------------
 | **Miscellaneous**        |     |     |
 |--------------------------|-----|-----|--------------------------------
 |--------------------------|-----|-----|--------------------------------
 | *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
 |--------------------------|-----|-----|--------------------------------
-| Throwing Axe             |   1 |     |
-| Grappling Hook           |   1 |     |
+| Javelin                  |   2 |     |
 |--------------------------|-----|-----|--------------------------------
 | *Container: Pouch*       |     |   W | Carries: 1 Enc
 |--------------------------|-----|-----|--------------------------------
-| Throwing Axe             |   1 |     |
+| Torch                    |   1 |     |
 |--------------------------|-----|-----|--------------------------------
 | **Coins**                |     |     | 38GC 3/2 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |  12 |
+
+
+
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
