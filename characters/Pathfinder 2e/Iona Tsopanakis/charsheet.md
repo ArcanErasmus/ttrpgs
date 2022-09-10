@@ -1,12 +1,17 @@
 # Iona Tsopanakis, she/her
 - Automoton, skeleton-flavored (Medium)
 - Investigator 1
-- [alignment?], [deity?]
-- height, weight, age
-- appearance
+{progressive} - traditional
+       lawful - {anarchic}
+      selfish - selfless
+   idealistic - pragmatic
+   {tolerant} - intolerant
+
+- height, weight, created/reborn 9 years ago
+- Wiry humanoid shape of pinkish crystals and dull gray metal, with ivory bone underneath, more exposed at the extremities
 - Languages: 
     - Common??, Necril, ?
-- personality shorthand
+- Voracious study of history, and fascinated about how society shifts in these tumultuous times
 
 ## Stats
 |------|------|------
@@ -30,37 +35,37 @@
 | CHA | 14 | +2
 
 ## Saves
-| P | Save | Sta | Mod | Temp
-|---|------|-----|-----|------
-| T | Fort | Con | +3  | -
-| E | Ref  | Dex | +6  | -
-| E | Will | Wis | +6  | -
+| TEML | Save | Sta | Mod | Temp
+|------|------|-----|-----|------
+| +    | Fort | Con | +3  | -
+| ++   | Ref  | Dex | +6  | -
+| ++   | Will | Wis | +6  | -
 
 ## Skills
-| P | Skill              | Sta | Mod | Temp
-|---|--------------------|-----|-----|------
-|   | Acrobatics         | Dex | +1  | -
-| T | Arcana             | Int | +7  | -
-|   | Athletics          | Str | +1  | -
-| T | Crafting           | Int | +7  | -
-| T | Deception          | Cha | +5  | -
-| T | Diplomacy          | Cha | +5  | -
-|   | Intimidation       | Cha | +2  | -
-|   | Lore               |     |     | -
-| T |  Cryptography      | Int | +7  | -
-| T |  Spirit            | Int | +7  | -
-| T |  Undead            | Int | +7  | -
-| T |  Underworld        | Int | +7  | -
-| T |  Vampire           | Int | +7  | -
-|   | Medicine           | Wis | +1  | -
-|   | Nature             | Wis | +1  | -
-| T | Occultism          | Wis | +7  | -
-|   | Performance        | Cha | +2  | -
-|   | Religion           | Wis | +1  | -
-| T | Society            | Int | +7  | -
-| T | Stealth            | Dex | +4  | -
-|   | Survival           | Wis | +1  | -
-|   | Thievery           | Dex | +1  | -
+| TEML | Skill              | Sta | Mod | Temp
+|------|--------------------|-----|-----|------
+|      | Acrobatics         | Dex | +1  | -
+| +    | Arcana             | Int | +7  | -
+|      | Athletics          | Str | +1  | -
+| +    | Crafting           | Int | +7  | -
+| +    | Deception          | Cha | +5  | -
+| +    | Diplomacy          | Cha | +5  | -
+|      | Intimidation       | Cha | +2  | -
+|      | Lore               |     |     | -
+| +    |  Cryptography      | Int | +7  | -
+| +    |  Spirit            | Int | +7  | -
+| +    |  Undead            | Int | +7  | -
+| +    |  Underworld        | Int | +7  | -
+| +    |  Vampire           | Int | +7  | -
+|      | Medicine           | Wis | +1  | -
+|      | Nature             | Wis | +1  | -
+| +    | Occultism          | Wis | +7  | -
+|      | Performance        | Cha | +2  | -
+|      | Religion           | Wis | +1  | -
+| +    | Society            | Int | +7  | -
+| +    | Stealth            | Dex | +4  | -
+|      | Survival           | Wis | +1  | -
+|      | Thievery           | Dex | +1  | -
 
 ## Other Proficiencies
 - Weapons:
