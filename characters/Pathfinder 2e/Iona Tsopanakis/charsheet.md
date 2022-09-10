@@ -1,5 +1,5 @@
 # Iona Tsopanakis, she/her
-- Automoton, skeleton-flavored (Medium)
+- Automaton, skeleton-flavored (Medium)
 - Investigator 1
 - [alignment?], [deity?]
 - height, weight, age
