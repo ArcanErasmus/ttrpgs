@@ -1,5 +1,31 @@
 # Iona's Journal
+## Other Selves (http://autorolltables.github.io/# /NPCs/Random NPC Traits I - Motivations)
+### Aiden, he - Left scapula (shoulder blade) and clavicle
+- Cheerful but quiet elf
+- Assertive, gets brave
+- Fussy explorer, dislikes soldiers
 
+### Haley, she - Left palm, metacarpal bone set
+- Casually bratty cynical human
+- Impulsive, gets manipulative
+- 'Bootstraps' fisherman
+
+### Xenil, they - Right wrist, carpal bone set
+- Easily stressed and critical orc
+- Eager, gets belligerent quickly
+- Unfriendly farmer, teetotaler
+
+### Colthan, he/they - Right ribs, fifth through eigth
+- Carefree and open-minded ratfolk
+- Honest, compulsively blabbers when cornered
+- Gullible wanderer, dislikes children
+
+### Zoru, he - Right leg, tibia and fibia
+- Gloomy and skittish lizardfolk
+- Fun-loving when opens up, stress eats
+- Weaponsmith, dislikes farmers
+
+## Event Log
 start approaching inquisitor's cabin
 shira: there bc looking for inquisitor
 jay: traveling with inquisitor???
@@ -10,28 +36,9 @@ talia: the "inquisitor" (totally)
 - digging around found smth abt girl from belameer, ppl claim had prophetic dreams abt moon
 
 
-
-
-
-
-
-
-detective background
-dhampir heritage
-    voice of the night heritage feat
-underworld investigator class feat
-methodology empiricism
-npc gens
-http://autorolltables.github.io/# /NPCs/Random NPC Traits I - Motivations
-http://chaoticshiny.com/chargen.php
-
-personality gen
-https://www.fantasynamegenerators.com/personality-descriptions.php
-
-https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-generators-creating-npcs-in-60
-
-
-
+- dude ran into woods
+- too many animated bullshit objects D:<
+- 
 
 ## Backstory
 - TODO
@@ -72,6 +79,8 @@ https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-genera
     - goal: figure out how i fit into society
 - leave the abode and venture into town
     - "into town" turned out to be quite a distance away
+    - i start hearing voices, not visible
+    - i realize they are coming from my body parts
 
 ## Quest Log
 - Task: ?
@@ -79,9 +88,8 @@ https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-genera
 
 ## TODO List
 - Backstory
-- Alignment
 - Character art
-- Age, height, weight
+- Height, weight
 - Personality shorthand
 - Personality of component parts
 - Fill out feats
@@ -90,3 +98,64 @@ https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-genera
 - Gear, weapons, defense
 - Plan for advancement
 - Combat plan
+
+# Bones list (177)
+In the shoulder girdle (4):
+    scapula or shoulder blade (2)
+    clavicle or collarbone (2)
+In the thorax (25):
+    sternum
+    ribs (2 x 12)
+In the vertebral column (24):
+    cervical vertebrae (7) incl. atlas & axis
+    thoracic vertebrae (12)
+    lumbar vertebrae (5)
+In the arms (6):
+    humerus (2)
+    radius (2)
+    ulna (2)
+In the hands (54):
+    Wrist (carpal) bones:
+        scaphoid bone (2)
+        lunate bone (2)
+        triquetral bone (2)
+        pisiform bone (2)
+        trapezium (2)
+        trapezoid bone (2)
+        capitate bone (2)
+        hamate bone (2)
+    Palm or metacarpal bones:
+        metacarpal bones (5 × 2)
+    Finger bones or phalanges:
+        proximal phalanges (5 × 2)
+        intermediate phalanges (4 × 2)
+        distal phalanges (5 × 2)
+In the pelvis (4):
+    coccyx
+    sacrum
+    ossa coxae (hip bones or innominate bones) (2)
+In the legs (8):
+    femur (2)
+    patella (2)
+    tibia (2)
+    fibula (2)
+In the feet (52):
+    Ankle (tarsal) bones:
+        calcaneus (heel bone) (2)
+        talus (2)
+        navicular bone (2)
+        medial cuneiform bone (2)
+        intermediate cuneiform bone (2)
+        lateral cuneiform bone (2)
+        cuboid bone (2)
+    Instep bones:
+        metatarsal bone (5 × 2)
+    Toe bones:
+        proximal phalanges (5 × 2)
+        intermediate phalanges (4 × 2)
+        distal phalanges (5 × 2)
+
+## Other NPC Gen Options
+http://chaoticshiny.com/chargen.php
+https://www.fantasynamegenerators.com/personality-descriptions.php
+https://creativerogues.tumblr.com/post/635965159321550848/the-coolest-npc-generators-creating-npcs-in-60
