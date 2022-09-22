@@ -3,27 +3,61 @@
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Worldbuilding Drabbles                                                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · Bestiary
-║   · Honey comes from fist-sized aphid-like bugs, large and docile from many generations domestication. They barely resist being held and massaged to release honey stores, before returning to their passive grazing.
-║   · Silk comes from viciously venomous, dog-sized arachnids. Individual bloodlines are highly prized for silk quantity, durability, texture, and even hue.
-║   · There is a type of locust-like insect, who emerges on a many-year cycle, that after tearing through crops and other plants, leaves behind lots of droppings, eggs, or corpses, that act as a powerful fertilizer. This leads to a cycle of renewal, and an odd sort of "mandatory crop rotation"
+║ · Bestiary                                                                                       ║
+║   · Honey comes from fist-sized aphid-like bugs, large and docile from many generations          ║
+║     domestication. They barely resist being held and massaged to release honey stores, before    ║
+║     returning to their passive grazing.                                                          ║
+║   · Silk comes from viciously venomous, dog-sized arachnids. Individual bloodlines are highly    ║
+║     prized for silk quantity, durability, texture, and even hue.                                 ║
+║   · There is a type of locust-like insect, who emerges on a many-year cycle, that after tearing  ║
+║     through crops and other plants, leaves behind lots of droppings, eggs, or corpses, that act  ║
+║     as a powerful fertilizer. This leads to a cycle of renewal, and an odd sort of "mandatory    ║
+║     crop rotation"                                                                               ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ To Remember For Next Session                                                                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · Between session stuff
-║   · Read /WoD/Werewolf/W20 - Riot of the Flesh.pdf for info on fomori creation
-║   · Plan for Smithy to snap when she gets angry. *Make* her angry and direct her at hostiles.
 ║ · Questions from Julia for next session
 ║   · 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 14 - 2022/09/14?future                                                                   ║
+║ Session 15 - 2022/09/28?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · We're probably going into town
-║   · You need to prep to be in a good position to respond to an attack
-║     · A good position is one where you can command a large audience, and be seen as a savior
 ║ · 
 ║   · 
 ║     · 
+║ · We are following tracks of possibly-bandits away to the east
+║   · Note that we could choose to follow Sha'ana's tracks to the south (to the festival grounds)
+║ · CHARSHEETS ON FOUNDRY NOT UPDATING (except for XP), TRUST OFFLINE SHEET
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 14 - 2022/09/21                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · We're probably going into town                                                                 ║
+║   · You need to prep to be in a good position to respond to an attack                            ║
+║     · A good position is one where you can command a large audience, and be seen as a savior     ║
+║ · (Monday, 13 days PA, late evening)                                                             ║
+║   · Find my way to The Laughing Tankard inn, where rest of party is                              ║
+║     · Discuss the impending threat of attack                                                     ║
+║     · Discuss Smithy's deal with Victor (the ghost)                                              ║
+║       · The traveling troupe of actor-mages have focus on entertaining illusions, worship Redona ║
+║ · Facts abt Redona:                                                                              ║
+║   · Goddess of rapid/violent change & tech/progress/war, siezed divinity with own hands          ║
+║   · Patron of demons, magic, inventors, capitalists, industrialists, futurists, anyone who looks ║
+║     to future with bright eyes/keen heart                                                        ║
+║   · Large group of her faithful, over mtns to north, are at war with city of Espinade            ║
+║ · Investigating the scene of the murder (Monday, 13 days PA, nighttime)                          ║
+║   · The body                                                                                     ║
+║     · Clearly stabbed by dagger, victim never saw weapon, hair left that matches Sha'ana         ║
+║   · Tracks left by attacker                                                                      ║
+║     · Tracks to body indicate hesistation on attacker's part                                     ║
+║     · Tracks from body indicate attacker stopped at some point, before leaving with great haste  ║
+║   · Additional sets of tracks                                                                    ║
+║     · Do not lead back to festival grounds                                                       ║
+║     · Moved without haste or special care                                                        ║
+║   · Info from Smithy conversing with tree-spirit                                                 ║
+║     · There were 2 other ppl here, men with swords bows & rough armor                            ║
+║     · They saw body & Sha'ana, saw the crime, allowed her to leave, kicked the body lightly      ║
+║     · Victor was tiefline, Sha'ana was not, possibly these were bandits & anti-tiefling motives  ║
+║     · Possible-bandits took pouch from body                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 13 - 2022/08/24                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢

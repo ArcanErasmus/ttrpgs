@@ -57,6 +57,7 @@
 ║ Demon City Charm: Nightmare Fugue Vigilance (♠)                                                  ║
 ║ · Never need to sleep, nor suffer sleep deprivation.                                             ║
 ║ · If sleep, suffer nightmares, and roll WP diff 7 upon waking to regain WP.                      ║
+║ · Reminder: Recovering WP comes from sleeping (or intimacities).                                 ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Demon City Charm: By Rage Recast (♠♠) x2                                                         ║
 ║ · Select a Demonic Aspect (not Hardened Devil Body). Chosen: Flight, Transcendent Anathema.      ║
