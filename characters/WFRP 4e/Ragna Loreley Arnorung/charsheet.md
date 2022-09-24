@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: ?
-- Personal long-term ambition: Free Peronelle from captivity
+- Personal short-term ambition: Present Sister Weir with her lost fingerbones as a memento
+- Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
 - Party short-term ambition: Repay debt to Unterbaum
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 3835/3660
+## Total/Spent XP: 3915/3825
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -44,6 +44,7 @@
 |   50 |   0 |   5 | Gossip
 |   50 |   0 |   5 | Intimidate
 |   50 |   0 |   5 | Outdoor Survival
+|  125 |   0 |  10 | Perception
 |------|-----|-----|------
 |   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
@@ -55,7 +56,7 @@
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
-|   10 |   0 |   1 | Melee (Flail)     
+|   50 |   0 |   5 | Melee (Flail)     
 |   50 |   0 |   5 | Melee (Two-Handed)
 |  125 |   0 |  10 | Ranged (Throwing)
 |------|-----|-----|------
@@ -82,7 +83,7 @@
 | F/F |  4 |  4
 | R/R |  1 |  2
 | M   |  4 |  4
-| Cor | 12 |  3
+| Cor | 12 |  5
 
 ## Skills
 | C | Basic                 | Ad | Att | Tt | Temp
@@ -131,7 +132,7 @@
 | C | Weapon Specs          | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
 |!C$| Melee (Basic)         | 15 | WS  | 71 |
-| C | Melee (Flail)         |  1 | WS  | 57 |
+| C | Melee (Flail)         |  5 | WS  | 61 |
 | C | Melee (Two-Handed)    |  5 | WS  | 61 |
 | C | Ranged (Throwing)     | 10 | BS  | 42 |
 
@@ -347,15 +348,14 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 3->Exit: 1340
+### Rank 3->Exit: 1175
 - Attributes: 345
     - I                  |  2->12 | 345
-- Skills: 495
+- Skills: 330
     - Leadership         |   ->10 | 125
     - Lo(Chaos)          | 1 -> 5 |  40
     - Lo(The Old Faith)  | 1 -> 5 |  40
-    - M(Flail)           | 1 ->15 | 215
-    - Perception         |   ->10 | 125
+    - M(Flail)           | 5 ->15 | 175
 - Talents: 400
     - Battle Rage        | 1 -> 2 | 200
     - Robust             | 1 -> 2 | 200
