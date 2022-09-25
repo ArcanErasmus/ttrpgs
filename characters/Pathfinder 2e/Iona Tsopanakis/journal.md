@@ -26,6 +26,7 @@
 - Weaponsmith, dislikes farmers
 
 ## Event Log
+### Session 1
 start approaching inquisitor's cabin
 shira: there bc looking for inquisitor
 jay: traveling with inquisitor???
@@ -35,10 +36,16 @@ talia: the "inquisitor" (totally)
 - paladin (shira's char) asked abt moon cults
 - digging around found smth abt girl from belameer, ppl claim had prophetic dreams abt moon
 
-
 - dude ran into woods
 - too many animated bullshit objects D:<
-- 
+
+### Session 2
+- I was not present
+
+### Session 3
+- Start piecing together burnt notes (2 successes so far)
+- Take lockbox; Has magical trap (summons something), triggered by damaging box
+- Break open medicine cabinet in kitchen, take minor elixir of life
 
 ## Backstory
 - TODO
