@@ -294,7 +294,7 @@
 ║   ·  9: Night Swallows Secrets - prevent discussion of event or evidence
 ║   ·  9: Ultimate Darkness Internalization - cross shroud, can take others
 ║   ·  6: A Cold and Lonely World - isolate someone, ruins mundane life
-║  *·  6: By Rage Recast (#3) - another shintai/apoc aspect
+║  *·  6: By Rage Recast (#3) - another shintai/apoc aspect (NEED ESSENCE 3)
 ║   ·  6: Golden Years Tarnished Black - crush joy out of a memory
 ║   ·  3: By Pain Reforged - counter low pain tolerance, don't get KO'd
 ║   ·  3: Cracked Cell Circumvention - escape all types of confinement

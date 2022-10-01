@@ -28,10 +28,10 @@
 ## Event Log
 ### Session 1
 start approaching inquisitor's cabin
-shira: there bc looking for inquisitor
-jay: traveling with inquisitor???
-violet: hired detective/guide on the trail of the inquisitor
-talia: the "inquisitor" (totally)
+shira: there bc looking for inquisitor (Surya)
+jay: traveling with inquisitor??? (Granz)
+violet: hired detective/guide on the trail of the inquisitor (me!)
+talia: the "inquisitor" (totally) (Sinta)
 
 - paladin (shira's char) asked abt moon cults
 - digging around found smth abt girl from belameer, ppl claim had prophetic dreams abt moon
