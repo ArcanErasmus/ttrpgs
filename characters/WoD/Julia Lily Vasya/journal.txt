@@ -16,18 +16,34 @@
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ To Remember For Next Session                                                                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · Between session stuff
-║ · Questions from Julia for next session
-║   · 
-╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 15 - 2022/09/28?future                                                                   ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
 ║   · 
 ║     · 
-║ · We are following tracks of possibly-bandits away to the east
-║   · Note that we could choose to follow Sha'ana's tracks to the south (to the festival grounds)
-║ · CHARSHEETS ON FOUNDRY NOT UPDATING (except for XP), TRUST OFFLINE SHEET
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ The Burden of Lives Regretfully Taken - In Memory Of:                                            ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · Unnamed Cultist (Session 1) - The man who summoned us here
+║ · Unnamed Paladin #1 (Session 1) - Attacked both cultist and us
+║ · Unnamed Paladin #2 (Session 1) - Attacked both cultist and us
+║ · Unnamed Bandit (Session 15) - Part of anti-Redona group, accomplice to murder of Victor
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 16 - 2022/10/12?future                                                                   ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · We return to the festival grounds (Monday, 13 days PA, late night)
+║   · (Intending to interrogate Sha'ana about Victor)
+║     · 
+║ · 
+║   · 
+║     · 
+║ · CHARSHEETS ON FOUNDRY NOT UPDATING (except for text fields), TRUST OFFLINE SHEET
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 15 - 2022/10/05                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · Following tracks of possibly-bandits away to the east (Monday, 13 days PA, nighttime)          ║
+║   · Note that we could choose to follow Sha'ana's tracks to the south (to the festival grounds)  ║
+║   · The Initiate does tracking, we find a cave the bandits are hiding in                         ║
+║     · Julia kills the one that's off fishing, frame's the body as a Redonan retaliation          ║
+║ · We begin returning to the festival grounds                                                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 14 - 2022/09/21                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
