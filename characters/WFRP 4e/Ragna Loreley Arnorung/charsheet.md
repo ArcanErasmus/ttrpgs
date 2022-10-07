@@ -10,10 +10,10 @@
 
 - Personal short-term ambition: Present Sister Weir with her lost fingerbones as a memento
 - Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
-- Party short-term ambition: Repay debt to Unterbaum
+- Party short-term ambition: -
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 3915/3825
+## Total/Spent XP: 3995/3950
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -46,6 +46,7 @@
 |   50 |   0 |   5 | Outdoor Survival
 |  125 |   0 |  10 | Perception
 |------|-----|-----|------
+|  125 |   0 |  10 | Art (Reliquary)
 |   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
 |   10 |   0 |   1 | Lore (Chaos)
@@ -79,7 +80,7 @@
 ## Secondary Attributes
 | Att | #  | ?  |
 |-----|----|----|
-| W   | 32 | 
+| W   | 32 | 32
 | F/F |  4 |  4
 | R/R |  1 |  2
 | M   |  4 |  4
@@ -111,7 +112,7 @@
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-|   | Art                   |    | Dex |    |
+|   | Art                   | 10 | Dex | 30 |
 |   | Entertain             |    | Fel |    |
 | C | Heal                  |  5 | Int | 37 |
 | C | Language (Battle)     |  5 | Int | 37 |

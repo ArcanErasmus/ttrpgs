@@ -70,12 +70,9 @@
 |--------------------------|-----|-----|--------------------------------
 | Javelin                  |   2 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 38GC 3/2 
+| **Coins**                |     |     | 0GC -/- 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |  11 |
-
-
-
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
@@ -105,22 +102,17 @@
 
 ## Inventory of The Svettbukk
 - 200 GC
+
 - Trade Tools (Navigator)
 - Meat Smoker (Trade Tools for preserving game)
 
 - Loot from the signal tower's cellar
-    - 11 Old but readable books
-        - Some poetry, some salacious, some written in arcane text
-    - Assorted glassware (value: 2GC, worth more if selling to alchemist)
+    - Some (3?) old but readable books, written in arcane text
     - Portraits of Wittgensteins (value: ?)
-    - Five 6-pointed metal keys, to be melted down (one on Peronelle's person)
-
-- Quality dwarven-craft breastplate and shield
-    - Stolen back from Grizzlespit
-    - Produced by a the Black Peaks Clan
+    - Four 6-pointed metal keys (plus one with Peronelle), plus a five-pointed metal key
 
 ### Trade Goods
-- 0 units of Metal (10 enc/unit)
-    - Purchased at 6.4 GC/unit in Fielbach
-        - Includes 20% discount from 8 GC/unit
-    - Trade Rumor: 2x price & always buyer in Kemperbad
+- 30 units of Top-Shelf Brandy (10 enc/unit)
+    - Purchased at 8.4 GC/unit in Fielbach
+        - Includes 30% discount from 12 GC/unit
+    - Trade Rumor: 2x price & always buyer at Castle Wittgenstein
