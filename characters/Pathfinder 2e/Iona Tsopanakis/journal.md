@@ -47,6 +47,15 @@ talia: the "inquisitor" (totally) (Sinta)
 - Take lockbox; Has magical trap (summons something), triggered by damaging box
 - Break open medicine cabinet in kitchen, take minor elixir of life
 
+### Session 4
+- Get lockpicker to open lockbox
+- Take Sinta on tour of city
+- Piece together burnt notes
+    - Annotated ritual instruction
+    - Ritual was supposed to re-incarnate (re-body?) Sakari into a healthy version of her own body
+    - Ritual altered to make it appear to be a ritual that Sinta could cast
+    - Notable absence where ritual would kill the caster, presumably got someone else to cast or found a way around???
+
 ## Backstory
 - TODO
 

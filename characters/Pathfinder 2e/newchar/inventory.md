@@ -21,17 +21,10 @@
 | **Total**                | 4   | Unencumbered (Enc: 6, Max: 11)
 
 ### Cash
-$0.3.6.4
+$0.2.5.4
 
 ## Social Capital & Other Resources
 - none
 
 ## Loot Pile
 - none
-
-13gp / 4 = 3 r1
-17sp / 4 = 4 r1
-16cp / 4 = 4
-loose flask of lesser alchemist's fire
-
-0.14.8.0
