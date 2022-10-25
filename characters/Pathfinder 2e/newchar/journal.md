@@ -1,4 +1,4 @@
-# Iona's Journal
+# Yuriso's Journal
 ## Event Log
 ### Session 4
     - 
@@ -8,7 +8,16 @@
 - Child of the Twin Village?
     - Twin is my summon?
 
-- 
+- Deckhand or Sailor
+- Eidolon Contact
+- Feral Child
+- Hunter
+- Magical Misfit
+- Musical Prodigy
+- Nomad
+- Reborn Soul
+- Wished Alive
+
 
 ## Backstory
 - From a small fishing village in the Age of Magic
