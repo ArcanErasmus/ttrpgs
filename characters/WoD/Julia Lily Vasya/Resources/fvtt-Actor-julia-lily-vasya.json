@@ -1,0 +1,2289 @@
+{
+  "name": "Julia Lily Vasya",
+  "type": "exalt",
+  "img": "worlds/through-the-portal/player%20art/Julia%20Token.png",
+  "items": [
+    {
+      "_id": "4rUtpYNn9ZZnIXhn",
+      "name": "Angelic Aura",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>-1 diff to Charisma, Appearance rolls when interacting with mortals.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 1
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "0uUgvzyHihQzpuSZ",
+      "name": "Angelic Gaze",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>-1 diff to Leadership, Intimidation, Empathy rolls.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 1
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "rjJE57LI4z5zvU3z",
+      "name": "Smooth",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>-2 diff to Manipulation rolls.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 1
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "f71cqPRUQ40Cz9YR",
+      "name": "Arcane Eye",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Can see magic, see auras of intelligent beings, recognize bounds of persistent spells, etc.</li>\n<li>Lose normal sight, can only see areas illuminated by beings' auras, including own aura.</li>\n<li>Auras come from all animals/insects/magically-sentient-constructs, people aura avg as torch.</li>\n<li>Exalts aura as bonfire, demons stronger than avg human, humans can be as dim as candle.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "sH77NS4XxITgV3ch",
+      "name": "Crack Shot",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>With gun, arrow, or dart, no penalty to specific targeting, -1 diff if general targeting.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "9o2yNrpPByo5ev06",
+      "name": "Poker Face",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>-2 diff to intimidation, subterfuge, &amp; resistance to intimidation rolls.</li>\n<li>+2 diff to others' attempts to get under your skin or read your responses.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "zpBSJDfjxw5fE1cw",
+      "name": "Sanctity",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>People trust you even if not trustworthy, &amp; tend to think of you as some sort of paragon.</li>\n<li>When you get in trouble, authorities will go easy &amp; even strangers will come to your defense.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "P1fltS4K3u44fKLH",
+      "name": "Dark Triad",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>+3 dice to all rolls involving Etiquette, Manipulation, Leadership, Subterfuge.</li>\n<li>If your true intentions eventually become clear, nobody will trust you.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 3
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "lPyNpNQgE0qOZWmn",
+      "name": "Anima Control",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Banner flares when and only when you want it to. Can flare as torch or bonfire brightness.</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 5
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "3yPUAudb8inP8B9p",
+      "name": "Impractical Dresser",
+      "type": "feature",
+      "img": "icons/svg/falling.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Unless specifically say I'm dressing for mobility/combat, +2 diff to Athletics.</li>\n</ul>",
+        "featuretype": "flaw",
+        "points": 1
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "KIATgFElyOlb3IJC",
+      "name": "Low Pain Tolerance",
+      "type": "feature",
+      "img": "icons/svg/falling.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Increase wound penalties by 1 when injured.</li>\n</ul>",
+        "featuretype": "flaw",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "z4R9AgTJG6ZMt89b",
+      "name": "Mark of the Predator",
+      "type": "feature",
+      "img": "icons/svg/falling.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Herbivores shy away, carnivores see you as potential threat. May not possess Animal Ken.</li>\n</ul>",
+        "featuretype": "flaw",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "qut1g8kxhWmFTigo",
+      "name": "Winged",
+      "type": "feature",
+      "img": "icons/svg/falling.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Vestigal wings, +1 diff Dexterity when not free.</li>\n</ul>",
+        "featuretype": "flaw",
+        "points": 2
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Y5MP1LJjJk4PwXcR",
+      "name": "Key to the Kingdom (♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Reflexively spend 1 Ess &amp; choose an ability, for (Ess+1) turns in combat, or mins out of it, add (attr being rolled + ability chosen) dice to all rolls using the Ability.</li>\n<li>Available abilities: All marked as Key.</li>\n</ul>",
+        "boontype": "Charm - General"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "5W9wNjAlkLvnKxy5",
+      "name": "Naked Wicked Souls (♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Spend a turn examining target, spend 1 Ess &amp; roll Perception + Empathy vs diff of target's (Wits + Subterfuge). Success reveals deed in all target's history they're most ashamed of.</li>\n<li>With 3+ successes, learn some specific details (names, dates, things might have seen if were present). With 5+, learn more than target knows, such as long-term consequences.</li>\n</ul>",
+        "boontype": "Charm - Night Realm"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "EtgGjCsLdq5nRcXs",
+      "name": "Witness to Darkness (♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>-1 diff to Manipulation rolls. +1 diff all rolls in dense crowds (80% stadium capacity, have to speak loud to be heard, no elbow room, etc. Proximity matters, addressing crowd from a point with elbow room doesn't count).</li>\n<li>Can see in the dark. With Arcane Eye, Auras shine twice as far in the dark.</li>\n</ul>\n<p><em>You are set apart from others - it is your place to speak in private confidence to those worthy of your time, and it is your place to command the rabble, but you should not sully yourself by acting as a member of that very rabble - first among equals will never apply to you because you have no equals.</em></p>",
+        "boontype": "Charm - Night Realm"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Ey9uvYMA0cdEFGix",
+      "name": "Nightmare Fugue Vigilance (♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Never need to sleep, nor suffer sleep deprivation.</li>\n<li>If sleep, suffer nightmares, and roll WP diff 7 upon waking to regain WP.</li>\n</ul>",
+        "boontype": "Charm - Demon City"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "IBF7nQQqYNr1JSkt",
+      "name": "By Rage Recast (♠♠) x2",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Select a Demonic Aspect (not Hardened Devil Body). Chosen: Flight, Transcendent Anathema.</li>\n<li>Concentrate for action &amp; roll Ess diff 7, or reflexively spend 1 Ess, to manifest Aspect(s).</li>\n<li>Can manifest any/all chosen Aspects this way, all auto-manifest when banner flares.</li>\n<li>To not manifest with banner, must roll WP diff 7.</li>\n<li>Can purchase Ess Rating times. Aspects don't have to match ones in Shintai form.</li>\n</ul>",
+        "boontype": "Charm - Demon City"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "55n2drvdSxGZbYXl",
+      "name": "Anonymity Through Propriety (♠♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Spend 1 Ess &amp; roll Charisma + Etiquette, diff 4, effect lasts for rest of scene.</li>\n<li>Anyone without WP &gt; successes can't notice you unless directly interact with them.</li>\n<li>If take indirect action that would cause distress, and char has 5+ WP, they can spend 1 WP &amp;&nbsp;roll WP diff 7 to be able to acknowledge/confront you.</li>\n</ul>",
+        "boontype": "Charm - Burning Maggots"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "11dMV3DQwUenKtap",
+      "name": "Naked Wicked Souls - Examine",
+      "type": "customRoll",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<p>Diff = target's (Wits + Subterfuge) rating.</p>",
+        "dice1": "perception",
+        "dice2": "empathy"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "AzycNfT4b2JPeKnh",
+      "name": "Anonymity Through Propriety - Camoflauge",
+      "type": "customRoll",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<p>Diff 4.</p>",
+        "dice1": "charisma",
+        "dice2": "etiquette"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "tFj8EwM34gmLFwsW",
+      "name": "Urge of the Conqueror",
+      "type": "boon",
+      "img": "icons/svg/fire.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>1/scene, regain 2 Essence when forcing enemy or powerful figure to submit to my will.</li>\n<li>Regain (3 + Essence Rating) Essence when the sun rises.</li>\n<li>If beginning a scene at 0 Essence, gain 1 Essence.</li>\n<li>Regain 1 Essence every 15 mins in a Node, &amp; every 3 hours in the Spirit World.</li>\n</ul>",
+        "boontype": "Infernal Urge"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "FZ85fuAvtX1i7lPN",
+      "name": "The Crown of Eyes",
+      "type": "boon",
+      "img": "icons/svg/tower.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>When intensely studying object, individual, or situation, spend 1 Esssence to ask a question.</li>\n<li>GM must answer honestly, but can only ask question ever once per obj/indiv/situ.</li>\n<li>When anima flaring, great eyes open within golden smoke of bannner, and become impossible to ambush or strike unexpectedly, including verbally, even if foe is invisible.</li>\n</ul>",
+        "boontype": "Infernal Crown"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "pXfmYwDpqB4OFjya",
+      "name": "Demonic Guide",
+      "type": "feature",
+      "img": "icons/svg/house.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Permanent manifestation of one demonic Aspect: Camoflauge.</li>\n<li>Guide grants advice, free Occult specialty in single Hell-like domain of Vort.</li>\n<li>+2 dice to social interactions with Banes or denizens of Hell-like realms.</li>\n<li>-2 diff to Awareness.</li>\n<li>+2 to Initiative results.</li>\n</ul>",
+        "featuretype": "background",
+        "points": 5
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "jE0Qj8HVugtOSiX3",
+      "name": "Strength: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "5JbRjrgxgH7EVAJs",
+      "name": "Dexterity: Coordinated",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "8yUcVVBLlf0iNIpz",
+      "name": "Stamina: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "646NFc3RxLV52JAX",
+      "name": "Charisma: Regal",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ILqtEbcklz7AfFqU",
+      "name": "Manipulation: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fBt6IyDqxTHpsjHL",
+      "name": "Appearance: Captivating",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "QUpMKvy3BIBvsCJi",
+      "name": "Perception: Insightful",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "1CJxtc7FMwks9ZdT",
+      "name": "Intelligence: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "gHX2F0ZKBxu31mkj",
+      "name": "Wits: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "leAISK3a0fE5oTKO",
+      "name": "----------------------------------------",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "jE2oht7C8h8azZL0",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "alertness"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "QLwNuRgozWI1FbE9",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "athletics"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "KtbXw0t6p148ONoy",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "awareness"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "7oD0vcOEF8MFqwjb",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "brawl"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "fvW8ThsEDtKBOmqn",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "empathy"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "wIbHsb42b7KlEWIO",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "expression"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "owmy1A5oJmVJTMF7",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "intimidation"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "dvvpHgntPEGOptzf",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "leadership"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "oUKOov18S7S85zav",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "streetwise"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "ebAdQ4wQcIAeBSsN",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "subterfuge"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "G9XSEvSOcJNYcefN",
+      "name": "----------------------------------------",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "AhnCGxq9WcMr1kM8",
+      "name": "x",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "animal ken"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Py3HPsVJe2cmuOFe",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "craft"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "193GpvW6ORMfVxi0",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "drive"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "CdZVNwuiugDc3tei",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "etiquette"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "SIscJWbaWufNF6LM",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "firearms"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "NJO52lHn460ReRlR",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "larceny"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "pSMh3tTi2nzkKOyF",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "melee"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "7dx3EEW7g81qONm6",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "performance"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "XV4VJNJDvjhW7APx",
+      "name": "K: _",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "stealth"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "CSDOmAUZLfOQI6bU",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "survival"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Fb2rIZh58cqjAh9V",
+      "name": "----------------------------------------",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "UsEvI9QTvhbdFxYH",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "academics"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "8i6hwDBmcfqSEsAs",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "computer"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "G8fKfQcteEFt75s5",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "finance"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "B74ts92nU582G7HS",
+      "name": "K: Deduction",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "investigation"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "6VNpCPKFNC5jGV1x",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "law"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "gUWavXSVLtwYQd5y",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "medicine"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "5SWIM7G9xnqlx4Ti",
+      "name": "The Demon Queen",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "occult"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "7FdCUEQHeW5iUPD3",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "politics"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "BBzegdDgtYqEBhds",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "science"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "g7n5MMJIjXPyBfC7",
+      "name": "_",
+      "type": "specialty",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "",
+        "skill": "technology"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "xld5LoOBAMvzgExf",
+      "name": "Thrall of the Wyrm",
+      "type": "feature",
+      "img": "icons/svg/falling.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Limit Track runs 0 to 10, +1 Limit when you: Botch a roll, act to undermine/betray Nature or Intimacies, or whenever someone tries to exercise power/authority over you.</li>\n<li>At 10, enter Torment and reset Limit. When in Torment, Nature changes to new Archetype, lasts from few hours to 2-3 days, burns out faster by committing regrettable acts.</li>\n<li>Archetypes:\n<ul>\n<li>Destroyer: Regain WP when destroy something precious/useful, like artifact or relationshp.</li>\n<li>Enslaver: Regain WP when subvert another's will to your own.</li>\n<li>Sadist: Regain WP when deliberately cause great pain (physical/emotional/spiritual).</li>\n<li>Tyrant: Regain WP when utterly destroy/ruin someone who opposes you.</li>\n<li>Vivisectionist: Regain WP when your twisted experiments yield useful information.</li>\n</ul>\n</li>\n</ul>",
+        "featuretype": "flaw",
+        "points": 3
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "Bv6hghFOGkO8ZNPM",
+      "name": "Devil-Tyrant Avatar",
+      "type": "boon",
+      "img": "icons/svg/eye.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>First time in story you transform, one turn, 2 Ess &amp; 2 WP. Future attempts require roll Ess at diff 6, +1 diff each afterwards. If already diff 9, instead +1 Ess &amp; +1 WP. Cost resets each story, or if spend 28 days without use.</li>\n<li>Normal health track, damage does not carry between normal and Shintai forms. No KO, if Incap by lethal/agg, form shatters and you take 5 unsoakable bashing.</li>\n<li>Lasts 1 scene. Cannot resume Shintai from in same scene it was destroyed or dismissed.</li>\n<li>Houserule: 1 shintai aspect = 2 apocalypse form points</li>\n<li>Shintai Form:\n<ul>\n<li>+1 Strength, +4 Dexterity, +1 Stamina</li>\n<li>+3 Charisma, +3 Manipulation, +3 Appearance</li>\n<li>+1 Perception, +1 Intelligence, +2 Wits</li>\n<li>-2 diff Leadership</li>\n<li>-2 diff Subterfuge</li>\n<li>(Final movement speed: 8w/21j/47r)</li>\n</ul>\n</li>\n</ul>",
+        "boontype": "Infernal Shintai Form"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "YFBqxXo1b5J2182n",
+      "name": "Wind-Born Stride (♠♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Permanently triple base movement speed.</li>\n<li>Permanently double all initiative results.</li>\n<li>Each minute of flat-out movement adds 1 to speed multiplier, max x10 after 7 minutes.</li>\n</ul>",
+        "boontype": "Charm - Skinned Alive"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "x4OS2xiY8GaD7uVF",
+      "name": "Language",
+      "type": "feature",
+      "img": "icons/svg/angel.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Mol-Garathi</li>\n</ul>",
+        "featuretype": "merit",
+        "points": 1
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "YWjk1JTaBPYsKUeX",
+      "name": "Mocking Murmurs Retort (♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Spend 2 Ess &amp; roll Manipulation + Subterfuge, diff of target's WP.</li>\n<li>All who hear target view their words as suspicious, untrustworthy, unpleasant.</li>\n</ul>",
+        "boontype": "Charm - Night Realm"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "_id": "bc8eWdodbhso1pkp",
+      "name": "Law-As-Tool Realization (♠)",
+      "type": "boon",
+      "img": "icons/svg/daze.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "description": "<ul>\n<li>Gain intuition of common societal/religious laws of any people I walk among.</li>\n<li>No discrete information, but no penalty for being unaccustomed to local practices.</li>\n<li>1/session, if use/manipulate/apply knowledge of the law for significant steps towards a goal, regain WP as if affirm intimacy.</li>\n</ul>",
+        "boontype": "Charm - Seven Burning Seas"
+      },
+      "ownership": {
+        "default": 0,
+        "tfy6mH72W2JoE53E": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "token-variants": {
+      "variants": [
+        {
+          "imgSrc": "worlds/through-the-portal/player%20art/Julia%20Token%20II.png",
+          "names": [
+            "Julia Token II"
+          ]
+        },
+        {
+          "imgSrc": "worlds/through-the-portal/player%20art/Julia%20Token.png",
+          "names": [
+            "Julia Token"
+          ]
+        }
+      ]
+    },
+    "exportSource": {
+      "world": "through-the-portal",
+      "system": "evwod",
+      "coreVersion": "10.288",
+      "systemVersion": "1.1"
+    }
+  },
+  "system": {
+    "biography": "",
+    "equipment": "",
+    "notes": "",
+    "headers": {
+      "concept": "The worst of Coil/TT/Luliana",
+      "chronicle": "The Isekai",
+      "ambition": "Artist",
+      "desire": "Director",
+      "touchstones": "Intimacies:\n· Principle: I have no equals.\n· Tie: Dr. Woebegone (presence reminds me of my own weakness).\n· Tie: Rahmiel (desire to rip him away from Smithy and subjugate him).\n· [Fake] Tie: Sarah Smith, \"Smithy\" (comfort, cameraderie).",
+      "tenets": "",
+      "exalttype": "Infernal",
+      "caste": "Conqueror/Eyes"
+    },
+    "exp": {
+      "value": 40,
+      "max": 52
+    },
+    "health": {
+      "aggravated": 0,
+      "superficial": 0,
+      "lethal": 0,
+      "max": 7
+    },
+    "limit": {
+      "full": 2,
+      "max": 10
+    },
+    "essence": {
+      "full": 9,
+      "max": 12
+    },
+    "willpower": {
+      "aggravated": 0,
+      "superficial": 7,
+      "max": 8
+    },
+    "woundPenalties": {
+      "healthy": {
+        "value": "healthy",
+        "name": "VTM5E.Healthy"
+      },
+      "bruised": {
+        "value": "bruised",
+        "name": "VTM5E.Bruised"
+      },
+      "hurt": {
+        "value": "hurt",
+        "name": "VTM5E.Hurt"
+      },
+      "injured": {
+        "value": "injured",
+        "name": "VTM5E.Injured"
+      },
+      "wounded": {
+        "value": "wounded",
+        "name": "VTM5E.Wounded"
+      },
+      "mauled": {
+        "value": "mauled",
+        "name": "VTM5E.Mauled"
+      },
+      "crippled": {
+        "value": "crippled",
+        "name": "VTM5E.Crippled"
+      },
+      "incapacitated": {
+        "value": "incapacitated",
+        "name": "VTM5E.Incapacitated"
+      }
+    },
+    "abilities": {
+      "strength": {
+        "value": 1,
+        "name": "VTM5E.Strength"
+      },
+      "charisma": {
+        "value": 5,
+        "name": "VTM5E.Charisma"
+      },
+      "perception": {
+        "value": 4,
+        "name": "VTM5E.Perception"
+      },
+      "dexterity": {
+        "value": 5,
+        "name": "VTM5E.Dexterity"
+      },
+      "manipulation": {
+        "value": 2,
+        "name": "VTM5E.Manipulation"
+      },
+      "wits": {
+        "value": 3,
+        "name": "VTM5E.Wits"
+      },
+      "stamina": {
+        "value": 1,
+        "name": "VTM5E.Stamina"
+      },
+      "Appearance": {
+        "value": 4,
+        "name": "VTM5E.Appearance"
+      },
+      "intelligence": {
+        "value": 2,
+        "name": "VTM5E.Intelligence"
+      },
+      "null": {
+        "value": 0,
+        "name": "VTM5E.Null"
+      }
+    },
+    "armor": {
+      "class": "Kevlar Undershirt",
+      "rating": "1",
+      "penalty": "0",
+      "description": "(\"Reinforced Clothes\" by another name)"
+    },
+    "weapons": {
+      "0": {
+        "attack": "Stiletto",
+        "diff": "6",
+        "damage": "S+1/L",
+        "range": "-",
+        "rate": "-",
+        "clip": "-",
+        "conceal": "Pocket"
+      },
+      "1": {
+        "attack": "Glock 17",
+        "diff": "-",
+        "damage": "4/L",
+        "range": "20",
+        "rate": "4",
+        "clip": "17+1",
+        "conceal": "Pocket"
+      },
+      "2": {
+        "attack": "Glock 17 Suppressed",
+        "diff": "-",
+        "damage": "3/L",
+        "range": "16",
+        "rate": "4",
+        "clip": "17+1",
+        "conceal": "Trenchcoat"
+      },
+      "3": {
+        "attack": "MP5",
+        "diff": "-",
+        "damage": "4/L",
+        "range": "50",
+        "rate": "3",
+        "clip": "30+1",
+        "conceal": "Trenchcoat"
+      },
+      "4": {
+        "attack": "MP5SD",
+        "diff": "-",
+        "damage": "3/L",
+        "range": "40",
+        "rate": "3",
+        "clip": "30+1",
+        "conceal": "Trenchcoat"
+      }
+    },
+    "virtues": {
+      "Essence Rating": {
+        "value": 2,
+        "name": "EVWOD.EssenceRating"
+      }
+    },
+    "skills": {
+      "alertness": {
+        "value": 1,
+        "name": "VTM5E.Alertness"
+      },
+      "animal ken": {
+        "value": 0,
+        "name": "VTM5E.AnimalKen"
+      },
+      "academics": {
+        "value": 2,
+        "name": "VTM5E.Academics"
+      },
+      "athletics": {
+        "value": 0,
+        "name": "VTM5E.Athletics"
+      },
+      "craft": {
+        "value": 0,
+        "name": "VTM5E.Craft"
+      },
+      "computer": {
+        "value": 1,
+        "name": "VTM5E.Computer"
+      },
+      "awareness": {
+        "value": 1,
+        "name": "VTM5E.Awareness"
+      },
+      "drive": {
+        "value": 0,
+        "name": "VTM5E.Drive"
+      },
+      "finance": {
+        "value": 1,
+        "name": "VTM5E.Finance"
+      },
+      "brawl": {
+        "value": 0,
+        "name": "VTM5E.Brawl"
+      },
+      "etiquette": {
+        "value": 2,
+        "name": "VTM5E.Etiquette"
+      },
+      "investigation": {
+        "value": 4,
+        "name": "VTM5E.Investigation"
+      },
+      "empathy": {
+        "value": 3,
+        "name": "VTM5E.Empathy"
+      },
+      "firearms": {
+        "value": 3,
+        "name": "VTM5E.Firearms"
+      },
+      "law": {
+        "value": 1,
+        "name": "VTM5E.Law"
+      },
+      "expression": {
+        "value": 2,
+        "name": "VTM5E.Expression"
+      },
+      "larceny": {
+        "value": 1,
+        "name": "VTM5E.Larceny"
+      },
+      "medicine": {
+        "value": 0,
+        "name": "VTM5E.Medicine"
+      },
+      "intimidation": {
+        "value": 3,
+        "name": "VTM5E.Intimidation"
+      },
+      "melee": {
+        "value": 1,
+        "name": "VTM5E.Melee"
+      },
+      "occult": {
+        "value": 1,
+        "name": "VTM5E.Occult"
+      },
+      "leadership": {
+        "value": 1,
+        "name": "VTM5E.Leadership"
+      },
+      "performance": {
+        "value": 0,
+        "name": "VTM5E.Performance"
+      },
+      "politics": {
+        "value": 1,
+        "name": "VTM5E.Politics"
+      },
+      "streetwise": {
+        "value": 1,
+        "name": "VTM5E.Streetwise"
+      },
+      "stealth": {
+        "value": 2,
+        "name": "VTM5E.Stealth"
+      },
+      "Science": {
+        "value": 0,
+        "name": "VTM5E.Science"
+      },
+      "subterfuge": {
+        "value": 3,
+        "name": "VTM5E.Subterfuge"
+      },
+      "survival": {
+        "value": 0,
+        "name": "VTM5E.Survival"
+      },
+      "technology": {
+        "value": 0,
+        "name": "VTM5E.Technology"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Julia Lily Vasya",
+    "displayName": 0,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false,
+        "type": null
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5
+    },
+    "disposition": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "texture": {
+      "src": "worlds/through-the-portal/player%20art/Julia%20Token.png",
+      "tint": null,
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 100000,
+      "brightness": 0,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": []
+  },
+  "_stats": {
+    "systemId": "evwod",
+    "systemVersion": "1.1",
+    "coreVersion": "10.288",
+    "createdTime": null,
+    "modifiedTime": 1666836706959,
+    "lastModifiedBy": "tfy6mH72W2JoE53E"
+  }
+}

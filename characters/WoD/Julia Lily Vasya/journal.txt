@@ -27,15 +27,27 @@
 ║ · Unnamed Paladin #2 (Session 1) - Attacked both cultist and us
 ║ · Unnamed Bandit (Session 15) - Part of anti-Redona group, accomplice to murder of Victor
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 16 - 2022/10/12?future                                                                   ║
+║ Session 17 - 2022/11/02?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ · We return to the festival grounds (Monday, 13 days PA, late night)
-║   · (Intending to interrogate Sha'ana about Victor)
-║     · 
 ║ · 
 ║   · 
 ║     · 
 ║ · CHARSHEETS ON FOUNDRY NOT UPDATING (except for text fields), TRUST OFFLINE SHEET
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 16 - 2022/10/26                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · We return to the festival grounds (Monday, 13 days PA, late night)
+║   · Smithy sneaks into Sha'ana's cart, reads her journal, and then transforms into Victor
+║     · Smithy utterly terrifies Sha'ana using Victor's likeness, vanishes into Shadowlands
+║     · Sha'ana screams, attracting the other caravan members, then babbles incoherently to them
+║     · Julia uses MMR on Sha'ana's words from stealth, then stages a robbery of the other wagons
+║   · Julia returns to the bandit camp
+║     · Julia plants one of the caravaner's knives where a bandit can find it naturally
+║     · Smithy and eventually Julia return to the inn, folks sleep
+║ · The inn come morning (Tuesday, 14 days PA, midmorning)
+║   · The group discusses the morals of Smithy's deal with Victor - does Sha'ana deserve death?
+║     · The decision is made to oppose Victor's ghost with any means necessary
+║     · The Dr heals Smithy for the light stabbing she took from Sha'ana
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 15 - 2022/10/05                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
