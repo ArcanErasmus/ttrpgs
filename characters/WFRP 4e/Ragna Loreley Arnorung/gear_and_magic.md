@@ -101,7 +101,7 @@
     - Throwing Axe
 
 ## Inventory of The Svettbukk
-- 200 GC
+- 55 GC
 
 - Trade Tools (Navigator)
 - Meat Smoker (Trade Tools for preserving game)
