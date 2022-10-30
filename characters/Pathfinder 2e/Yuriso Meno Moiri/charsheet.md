@@ -1,4 +1,4 @@
-# Yuriso Meno Moiri, she/her
+# Yuriso-Meno Moiri, she/her
 - Anadi
 - Summoner 2
 progressive - traditional
@@ -8,126 +8,73 @@ idealistic - pragmatic
 tolerant - intolerant
 
 - 5'1, 140lbs, reborn 6 years ago (at the rough age of 10)
-- Lanky and kinda malnourished girl, very dirty but 
+- Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: 
-    - Common??, Necril, ?
-- Voracious study of history, and fascinated about how society shifts in these tumultuous times
+    <!-- - Common??, Necril, ? -->
+- Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit partner)
 
 ## Stats
 |------|------|------
-| AC   | 14   | -
-| Init | +0   | -
-| Spd  | 25   | -
-| DC   | 17 [T| -
-| Per  | +6 [E| -
+<!-- | AC   | 14   | - -->
+<!-- | Init | +0   | - -->
+<!-- | Spd  | 25   | - -->
+<!-- | DC   | 17 [T| - -->
+<!-- | Per  | +6 [E| - -->
 |------|------|------
-| HP   | 16   | 16
+| HP   | 30   | 30
 | Hero |  1   |
 
 ## Ability Scores
 | Sta | #  | Mod
 |-----|----|-----
-| STR | 12 | +1
-| DEX | 12 | +1
-| CON | 10 | +0
-| INT | 18 | +4
-| WIS | 12 | +1
-| CHA | 14 | +2
+| STR | 10 |  0
+| DEX | 14 | +2
+| CON | 12 | +1
+| INT | 10 |  0
+| WIS | 14 | +2
+| CHA | 18 | +4
 
 ## Saves
 | TEML | Save | Sta | Mod | Temp
 |------|------|-----|-----|------
-| +    | Fort | Con | +3  | -
-| ++   | Ref  | Dex | +6  | -
-| ++   | Will | Wis | +6  | -
+<!-- | ++   | Fort | Con | +3  | - -->
+<!-- | +    | Ref  | Dex | +6  | - -->
+<!-- | ++   | Will | Wis | +6  | - -->
 
 ## Skills
 | TEML | Skill              | Sta | Mod | Temp
 |------|--------------------|-----|-----|------
-|      | Acrobatics         | Dex | +1  | -
-| +    | Arcana             | Int | +7  | -
-|      | Athletics          | Str | +1  | -
-| +    | Crafting           | Int | +7  | -
-| +    | Deception          | Cha | +5  | -
-| +    | Diplomacy          | Cha | +5  | -
-|      | Intimidation       | Cha | +2  | -
-|      | Lore               |     |     | -
-| +    |  Cryptography      | Int | +7  | -
-| +    |  Spirit            | Int | +7  | -
-| +    |  Undead            | Int | +7  | -
-| +    |  Underworld        | Int | +7  | -
-| +    |  Vampire           | Int | +7  | -
-|      | Medicine           | Wis | +1  | -
-|      | Nature             | Wis | +1  | -
-| +    | Occultism          | Wis | +7  | -
-|      | Performance        | Cha | +2  | -
-|      | Religion           | Wis | +1  | -
-| +    | Society            | Int | +7  | -
-| +    | Stealth            | Dex | +4  | -
-|      | Survival           | Wis | +1  | -
-|      | Thievery           | Dex | +1  | -
+<!-- |      | Acrobatics         | Dex | +1  | - -->
+<!-- |      | Arcana             | Int | +7  | - -->
+<!-- |      | Athletics          | Str | +1  | - -->
+<!-- |      | Crafting           | Int | +7  | - -->
+<!-- |      | Deception          | Cha | +5  | - -->
+<!-- |      | Diplomacy          | Cha | +5  | - -->
+<!-- |      | Intimidation       | Cha | +2  | - -->
+<!-- |      | Lore               |     |     | - -->
+<!-- | +    |  Jungle            | Int | +7  | - -->
+<!-- |      | Medicine           | Wis | +1  | - -->
+<!-- |      | Nature             | Wis | +1  | - -->
+<!-- |      | Occultism          | Wis | +7  | - -->
+<!-- |      | Performance        | Cha | +2  | - -->
+<!-- |      | Religion           | Wis | +1  | - -->
+<!-- |      | Society            | Int | +7  | - -->
+<!-- |      | Stealth            | Dex | +4  | - -->
+<!-- |      | Survival           | Wis | +1  | - -->
+<!-- |      | Thievery           | Dex | +1  | - -->
 
 ## Other Proficiencies
 - Weapons:
     T Simple
-    T Martial
+    U Martial
     U Advanced
     T Unarmed
 - Armor:
-    T Light
+    U Light
     U Medium
     U Heavy
     T Unarmored
 
 ## Feats
-### Streetwise
-- ?
-
-### That's Odd
-- ?
-
-### Underworld Investigator
-- ?
-
-### Voice of the Night
-- ?
 
 ## Specials
-### Automaton Core
-- ?
-
-### Clue In (R?)
-- ?
-
-### Constructed Body
-- ?
-
-### Darkvision
-- ?
-
-### Devise a Strategem (?)
-- ?
-
-### Dhampir
-- ?
-
-### Empiricism
-- ?
-
-### Expeditious Inspection (?)
-- ?
-
-### Low-Light Vision
-- ?
-
-### Medium
-- ?
-
-### On the Case
-- ?
-
-### Pursue a Lead
-- ?
-
-### Strategic Strike
-- ?
