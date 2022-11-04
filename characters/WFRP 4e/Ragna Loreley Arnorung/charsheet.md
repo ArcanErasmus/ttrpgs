@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: Present Sister Weir with her lost fingerbones as a memento
+- Personal short-term ambition: Get revenge on the petty thug who tried to lead us into a trap
 - Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
-- Party short-term ambition: -
+- Party short-term ambition: Find entrance to the castle
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4045/3950
+## Total/Spent XP: 4095/3950
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
