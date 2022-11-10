@@ -74,7 +74,7 @@
 ║ - Spend +1 Essence & +1 roll diff (max diff 9) per person to take willing others with.           ║
 ║ - While installed, can comprehend & speak language of spirits.                                   ║
 ║ - Must activate again to travel back to material world.                                          ║
-║--------------------------------------------------------------------------------------------------║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Sorcerous Path: Enchantment (♦♦∙∙∙ ∙) [p. 72]                                                    ║
 ║ - Roll: Intelligence + [Occult] (diff 4 + lvl of Enchantment).                                   ║
 ║ - Cost: 1 WP.                                                                                    ║

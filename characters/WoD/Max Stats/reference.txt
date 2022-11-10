@@ -1,22 +1,14 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
+║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Rules for Intimacies:                                                                            ║
 ║ · When pressured to betray an Intimacy (incl. supernatural), roll WP diff 8 to resist.           ║
 ║ · 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Special Exalted Rule: Caste/Aspect/Key Abilities                                                 ║
-║ · When rolling a pool that involves a caste/aspect/key ability, 1s do not subtract successes.    ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: Anima Banner                                                               ║
 ║ · After spending 3 Essence in a scene, Banner flares visible to naked eye, as bright as bonfire. ║
 ║ · Banner fades after (3 x Essence Rating) minutes.                                               ║
-║ · Banner appearance: Dark purple core, smears into green in the middle, lightens to black at the ║
-║   edges. Filled with clouds of pure-white outlines of eyes and feathers. The eyes cluster into   ║
-║   wing-shapes which beat and shift the air. The feathers form a halo, which observe and cast     ║
-║   judgement in all directions.                                                                   ║
-║ · Caste Mark: Ultra-black circle, which sharply transitions to a white bleed at the edges, as if ║
-║   looking at the back of some entity which could, at any moment, notice you and turn around.     ║
+║ · Unique color & texture: Yellow static with blue edges, green inner core, hints of purple.      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: "Larger Than Life" - Parrying, Soak, Supernatural Resilience, Stunting     ║
 ║ · May parry ranged atks, including bullets.                                                      ║
@@ -43,25 +35,21 @@
 ║ │ Crippled   │ 1 hour  │ 3 days     │                                                            ║
 ║ │ Incap      │ 1 hour  │ 5 days     │                                                            ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Special Infernal Rules: Shintai                                                                  ║
-║ · First time in story you transform, one turn, 2 Ess & 2 WP. Future attempts require roll Ess at ║
-║   diff 6, +1 diff each afterwards. If already diff 9, instead +1 Ess & +1 WP. Cost resets each   ║
-║   story, or if spend 28 days without use.                                                        ║
-║ · Normal health track, damage does not carry between normal and Shintai forms. No KO, if Incap   ║
-║   by lethal/agg, form shatters and you take 5 unsoakable bashing.                                ║
-║ · Lasts 1 scene. Cannot resume Shintai from in same scene it was destroyed or dismissed.         ║
-║ · Houserule: 1 shintai aspect = 2 apocalypse form points                                         ║
-║ · Signature Charm: Wait for Essence 3!                                                           ║
+║ Special Alchemical Rules: Charm Array                                                            ║
+║ - Can only have certain number of dots of Charms active at once, based on Essence Rating.        ║
+║ - Can change active charms during Dormancy.                                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Special Infernal Rules: Urge of The Conqueror                                                    ║
-║ · 1/scene, regain 2 Essence when forcing enemy or powerful figure to submit to my will.          ║
-║ · Regain (3 + Essence Rating) Essence when the sun rises.                                        ║
-║ · If beginning a scene at 0 Essence, gain 1 Essence.                                             ║
-║ · Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ║
+║ Special Alchemical Rules: Dormancy                                                               ║
+║ - Non-Dormant Alchemical immediately recognizable as something weird.                            ║
+║ - On engaging Dormancy, all Charms disappear into cloud of Essence which swirls into Core.       ║
+║ - To enter, turn of concentration and WP roll diff 8. In Dormancy, no access to Charms/Essence.  ║
+║ - Lasts 6 hrs, can reflexively roll WP diff 5 to extend, costs 1 WP to end prematurely.          ║
+║ - Can reconfigure Charms if Dormancy lasts full 6 hrs. If end early, only 1-dot Charms manifest. ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Special Infernal Rules: The Crown of Eyes                                                        ║
-║ · When intensely studying object, individual, or situation, spend 1 Esssence to ask a question.  ║
-║ · GM must answer honestly, but can only ask question ever once per obj/indiv/situ.               ║
-║ · When anima flaring, great eyes open within golden smoke of bannner, and become impossible to   ║
-║   ambush or strike unexpectedly, including verbally, even if foe is invisible.                   ║
+║ Caste: Jade                                                                                      ║
+║ - While anima is flaring, add Essence Rating to soak rolls.                                      ║
+║ - Regain Essence when defending or advanceing an Intimacy through persistence or endurance.      ║
+║ - Regain (3 + Essence Rating) Essence when the sun rises.                                        ║
+║ - If beginning a scene at 0 Essence, gain 1 Essence.                                             ║
+║ - Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

@@ -14,7 +14,7 @@
 ║ - At the Blockbuster                                                                             ║
 ║     - Fought The Abomination, Summer just deleted it                                             ║
 ║     - Blockbuster Samantha was hurt, lower half of all limbs turned to stone                     ║
-║ - At Ms. Doris's House                                                                           ║
+║ - At Ms. Doris's House                            
 ║     - Learned that Scott's dad has been kidnapped? by some govt-looking man-in-black             ║
 ║     - Summer's senses say we should go to Germany, specifically Munich                           ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
@@ -153,4 +153,33 @@
 ║     - We are freed from spooky zone, suddenly feeling like we are actually back at the D&D grove ║
 ║ - Sheriff is gonna tell our parents about this                                                   ║
 ║     -                                                                                            ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ XP Log                                                                                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║  *· ??: ?
+║   · ??: ?
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Shopping List                                                                                    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · Attributes
+║  *· ??: ?
+║   · ??: ?
+║ · Key Abilities
+║  *· ??: ?
+║   · ??: ?
+║ · Non-Key Abilities
+║  *· ??: ?
+║   · ??: ?
+║ · Key Charms
+║  *· ??: ?
+║   · ??: ?
+║ · Non-Key Charms
+║  *· ??: ?
+║   · ??: ?
+║ · Homebrew Charms: ?
+║  *· ??: ?
+║   · ??: ?
+║ · Other
+║  *· ??: ?
+║   · ??: ?
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
