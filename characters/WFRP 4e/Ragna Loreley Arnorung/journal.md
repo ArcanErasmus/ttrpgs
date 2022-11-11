@@ -13,6 +13,7 @@
     - 1x Goblin With Big Hat
     - 1x Giant Spider Matriarch
     - 1x Ghoul
+    - 4x Emaciated Cannibal
 
 - Trophies:
     - Large squid beak

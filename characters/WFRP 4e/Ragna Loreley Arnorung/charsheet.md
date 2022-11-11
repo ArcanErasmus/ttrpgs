@@ -13,14 +13,14 @@
 - Party short-term ambition: Find entrance to the castle
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4095/3950
+## Total/Spent XP: 4215/4195
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
 |  275 |   0 |  10 | WS
 |  275 |   0 |  10 | S
 |  275 |   0 |  10 | T
-|   50 |   0 |   2 | I
+|  215 |   0 |   8 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
 |  300 |   0 |   2 | Ambidextrous
@@ -49,9 +49,9 @@
 |  125 |   0 |  10 | Art (Reliquary)
 |   50 |   0 |   5 | Heal
 |   50 |   0 |   5 | Language (Battle)
-|   10 |   0 |   1 | Lore (Chaos)
+|   50 |   0 |   5 | Lore (Chaos)
 |   50 |   0 |   5 | Lore (Norsca)
-|   10 |   0 |   1 | Lore (The Old Faith)
+|   50 |   0 |   5 | Lore (The Old Faith)
 |  125 |   0 |  10 | Lore (Trees)
 |   50 |   0 |   5 | Sail (Barge)
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
@@ -70,7 +70,7 @@
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    | 10 |    | 60 |
 |^T   | 55 |  5 | 10 |    | 70 |
-|^I   | 28 |    |  2 |    | 30 |
+|^I   | 28 |    |  8 |    | 36 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
@@ -107,7 +107,7 @@
 | C | Leadership            |    | Fel |    |
 |   | Navigation            |    | I   |    |
 | C | Outdoor Survival      |  5 | Int | 37 |
-| C | Perception            |    | I   |    |
+| C | Perception            | 10 | I   | 46 |
 | C | Row                   |    | S   |    |
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
@@ -117,10 +117,10 @@
 | C | Heal                  |  5 | Int | 37 |
 | C | Language (Battle)     |  5 | Int | 37 |
 |   | Language (Norse)      |  5 | Int | 37 |
-| C | Lore (Chaos)          |  1 | Int | 33 |
+| C | Lore (Chaos)          |  5 | Int | 37 |
 |   | Lore (Nordland)       |  3 | Int | 35 |
 | C | Lore (Norsca)         |  5 | Int | 37 |
-| C | Lore (The Old Faith)  |  1 | Int | 33 |
+| C | Lore (The Old Faith)  |  5 | Int | 37 |
 | C | Lore (Trees)          | 10 | Int | 42 |
 |   | Ride                  |    | Ag  |    |
 | C | Sail (Barge)          |  5 | Ag  | 35 |
@@ -349,13 +349,11 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 3->Exit: 1175
-- Attributes: 345
-    - I                  |  2->12 | 345
-- Skills: 330
+### Rank 3->Exit: 880
+- Attributes: 180
+    - I                  |  8->12 | 180
+- Skills: 300
     - Leadership         |   ->10 | 125
-    - Lo(Chaos)          | 1 -> 5 |  40
-    - Lo(The Old Faith)  | 1 -> 5 |  40
     - M(Flail)           | 5 ->15 | 175
 - Talents: 400
     - Battle Rage        | 1 -> 2 | 200
