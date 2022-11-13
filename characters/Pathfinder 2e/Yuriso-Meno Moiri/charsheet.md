@@ -24,11 +24,8 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  28/28       |  +2/Rest
-| *Focus*      |  [x]         |  +1/Refocus
+| *HP*         |  25/28       |  +2/Rest
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
-| *Spells*     |--------------|  +All/Rest
-|  1st         |  [x] [x]     |
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
@@ -57,7 +54,7 @@
 |-----------------|-----|------|------|---------|------|------|
 | *Acrobatics*    | +2  |      | +0   | +2 Dex  | -    | -
 | *Arcana*        | +4  | +    | +2+2 | +0 Int  | -    | -
-| *Athletics*     | +0  |      | +0   | +0 Str  | -    | -
+| *Athletics*     | +4  | +    | +2+2 | +0 Str  | -    | -
 | *Crafting*      | +0  |      | +0   | +0 Int  | -    | -
 | *Deception*     | +4  |      | +0   | +4 Cha  | -    | -
 | *Diplomacy*     | +4  |      | +0   | +4 Cha  | -    | -
@@ -77,39 +74,54 @@
 ### Skill & General Feats
 #### Assurance (Survival) (1st)
 `[Fortune]` `[General]` `[Skill]`
-Even in the worst circumstances, you can perform basic tasks. Choose a skill you’re trained in. You can forgo rolling a skill check for that skill to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).
+- Can forego a skill roll to receive result of 10 + proficiency (add no other modifiers)
+
+#### Illiteracy (ANTI-FEAT) (1st)
+`[General]` `[Homebrew]` `[Skill]`
+- You can't read any written language
+- Gain an additional skill training
+- This does not cost a feat to take, but does require spending a Skill Feat to remove
 
 #### Read Psychometric Resonance (2nd)
 `[Uncommon]` `[Concentrate]` `[Divination]` `[Emotion]` `[Exploration]` `[General]` `[Mental]` `[Occult]` `[Skill]`
-With a touch, you can read the psychic impressions left on objects by their previous owners. This exploration activity functions similarly to Detect Magic in that you move at half your travel speed or slower while looking for psychometric resonance. You must brush your bare hands over any objects you pass while you do this. This detects objects with significant emotional resonance attached to them, such as the joy from a child's beloved teddy bear, the sorrow from a widower's wedding ring, or the fear from a victim's murder weapon. If you're looking for a particular type of emotional resonance, you can choose to ignore other emotions. If you find an item with that resonance, you can explore that resonance with the following action.
-
-Psychometric Assessment (concentrate, divination, emotion, exploration, mental, occult) Requirements Your bare hands are touching an object in which you detected psychometric resonance; Effect You spend 1 minute concentrating on the object to get a vision of the face of the person who imbued the item with such emotion in the first place. If the associated emotion is painfully negative, you might take 1d6 psychic damage, as determined by the GM.
+- With touch, read psychic impressions on objects left by previous owners
+- As exploration activity, move at half speed (similar to Detect Magic) to brush all objects in path
+- Detects objects with significant emotional resonance (joy on child's teddy bear, sorrow on widower's ring, fear on victim's murder weapon)
+- Can choose to filter for only specific emotions
+- When focusing on specific item, can assess resonance:
+##### Psychometric Assessment
+`[Concentrate]` `[Divination]` `[Emotion]` `[Exploration]` `[Mental]` `[Occult]`
+- *Requirements*: Touching object with previously-detected resonance with bare hands
+- Spend 1 min concentrating to get a vision of the face of the person who imbued item with such emotion
+- If associated emotion is painfully negative, may take 1d6 psychic dmg at GM discretion
 
 ## Ancestry & Background
 ### Ancestry - Kobold
 `[Uncommon]` `[Humanoid]`
-- Size: Small
-- Senses: Darkvision
-- Speed: 25 ft
+- *Size*: Small
+- *Senses*: Darkvision
+- *Speed*: 25 ft
 
 #### Draconic Exemplar
-- Draconic Exemplar: Brass
-- Scale color: Brass (with emerald patches/streaks)
-- Details: Line, Fire, Reflex
+- *Draconic Exemplar*: Brass
+- *Scale color*: Brass (with emerald patches/streaks)
+- *Details*: Line, Fire, Reflex
 
 ### Ancestry Feats
 #### Kobold Breath (1st)
-`[Arcane]` `[Evocation]` `[Kobold]` `[>>]`
-- Type: Fire, Line, Reflex
-You channel your draconic exemplar's power into a gout of energy that manifests as a 30-foot line or a 15-foot cone, dealing 1d4 damage. Each creature in the area must attempt a basic saving throw against the higher of your class DC or spell DC. You can't use this ability again for 1d4 rounds.
-
-At 3rd level and every 2 levels thereafter, the damage increases by 1d4. The shape of the breath, the damage type, and the saving throw match those of your draconic exemplar (see Table 1-1). This ability has the trait associated with the type of damage it deals.
+`[Arcane]` `[Evocation]` `[Fire]` `[Kobold]` `[>>]`
+- Breath weapon: 30-ft line, Basic Reflex save vs higher of Class or Spell DC, cooldown 1d4 rds
+- Damage 1d4 Fire, +1d4 at every further odd lvl
 
 ### Background - Nomad (Jungle)
-Traveling far and wide, you picked up basic tactics for surviving on the road and in unknown lands, getting by with few supplies and even fewer comforts. As an adventurer, you travel still, often into even more dangerous places. Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost. You're trained in the Survival skill and Jungle Lore. You gain the Assurance skill feat with Survival.
+- Con/Wis boost, free ability boost
+- Trained in Survival skill, Jungle Lore
+- Gain Assurance (Survival) skill feat
 
 ## Class - Summoner
 ### Eidolon
+
+
 You have a connection with a powerful and usually otherworldly entity called an eidolon, and you can use your life force as a conduit to manifest this ephemeral entity into the mortal world. Magic also flows through this conduit from your eidolon into you, so your eidolon determines the type of spells you cast and the spell list you choose from (as described in Summoner Spellcasting below). Choose a type of eidolon from the options starting on page 59 and other eidolons you have access to. When you choose your eidolon, you also determine its appearance and general form, within the parameters for that particular type of eidolon. Once you establish your eidolon's type and general appearance, these features can't be changed later, except by selecting special evolution feats that can cause your eidolon to develop new features. Your magical connection with your eidolon takes the form of a sigil on each of your bodies. As long as your eidolon is manifested, the sigil glows with light and can't be covered or disguised via any means; it will shine through clothing, appear over cloaks, and remain unaffected by obfuscating magic. This, combined with the way that the two of you clearly act in tandem, makes it readily apparent to an intelligent observer that the two of you are connected in some way, even if the person has never encountered a summoner before. You bring your eidolon into reality with the Manifest Eidolon action.
 
 #### Manifest Eidolon
@@ -211,132 +223,3 @@ You cast spells like a bard and gain the Cast a Spell activity. You gain a spell
 Choose a muse as you would if you were a bard. You have that muse for all purposes, allowing you to take that muse’s feats, but you don’t gain any of the other abilities it grants.
 
 Special: You cannot select another dedication feat until you have gained two other feats from the bard archetype. 
-
-## Spells
-### Summoner (Arcane)
-#### Electric Arc
-`[Cantrip]` `[Evocation]` `[>>]`
-- Cast: Somatic, Verbal
-- Range: 30 ft
-- Targets: 1 or 2 creatures
-- Saving Throw: Basic Reflex
-An arc of lightning leaps from one target to another. You deal electricity damage equal to 1d4 plus your spellcasting ability modifier.
-- Heightened (+1): The damage increases by 1d4.
-
-#### Bullhorn
-`[Cantrip]` `[Illusion]` `[>>]`
-- Cast: Somatic, Verbal
-- Duration: 10 minutes
-You amplify your voice, loud enough for you to be heard easily at a great distance. For the duration, your voice can be heard loudly and clearly by all listeners within 500 feet, even if other ambient noise would otherwise block the sound. Despite the volume, this doesn't make your voice jarring or distracting. This doesn't increase the range or area of other auditory or linguistic effects, and physical barriers such as walls and doors still block or muffle your voice as normal.
-
-Your loud voice makes it easier to Coerce others, and the acoustics assist in Performing at a large venue. You gain a +1 status bonus to checks to Coerce and auditory Performance checks to Perform at a large venue.
-
-You can Dismiss the spell.
-- Heightened (5th) Your voice can be heard clearly up to 1,200 feet away.
-- Heightened (7th) Your voice can be heard clearly up to 1 mile away.
-
-#### Gale Blast
-`[Cantrip]` `[Evocation]` `[>>]`
-- Cast: Somatic, Verbal
-- Saving Throw: Fortitude
-Wind flows from your outstretched hands and whirls around you in a 5-foot emanation. Each creature in the area takes bludgeoning damage equal to your spellcasting ability modifier (+4), with a Fortitude save.
-
-Critical Success: The creature is unaffected.
-Success: The creature takes half damage.
-Failure: The creature takes full damage and is pushed 5 feet away from you.
-Critical Failure: The creature takes double damage and is pushed 10 feet away from you.
-- Heightened (+2) The damage increases by 1d6.
-
-#### Protect Companion
-`[Abjuration]` `[Cantrip]` `[>]`
-- Cast: Verbal
-- Range: 30 ft
-- Targets: Your eidolon, or a creature with the minion trait under your control
-- Duration: Until the start of your next turn
-You extend your aura, as a magical shield that protects your eidolon or minion. The target gains a +1 circumstance bonus to AC until the start of your next turn. You gain the following reaction; after using the reaction, the spell ends and you can't cast protect companion again for 10 minutes.
-
-- Heightened (+2) The reaction reduces the damage by another 10, and you lose 5 more Hit Points. If you want to lose fewer Hit Points, you can choose to lower the damage reduction and HP lost to what any lower-level version of the spell could do without lowering the spell's actual level.
-##### Life Block [<]
-- Trigger: The spell's target would take damage
-Reduce the triggering damage by 10, but you lose 5 Hit Points. Even if this reduces the damage to 0, the target still takes any effects that would come with the damage, such as the poison on a viper's fangs Strike.
-
-#### Prestidigitation
-`[Cantrip]` `[Evocation]` `[>>]`
-- Cast: Somatic, Verbal
-- Range: 10 ft
-- Targets: 1 object (cook, lift, or tidy only)
-- Duration: Sustained
-The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the Spell. Each time you Sustain the Spell, you can choose one of four options.
-Cook: Cool, warm, or flavor 1 pound of nonliving material.
-Lift Slowly: lift an unattended object of light Bulk or less 1 foot off the ground.
-Make: Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile - it can't be used as a tool, weapon, or spell component.
-Tidy: Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
-
-### Alarm (Spell I)
-- Cast: 10 mins (material, somatic, verbal)
-- Requirements: 3gp silver bell focus
-### Floating Disk (Spell I)
-- Cast: Somatic, verbal
-### Mage Armor (Spell I)
-- Cast: Somatic, verbal
-
-
-#### Color Spray (Spell I)
-`[Illusion]` `[Incapacitation]` `[Visual]` `[Verbal]` `[Somatic]` `[>>]`
-*Area* 15-foot cone
-*Saving Throw* Will; *Duration* 1 or more rounds (see below)
-Swirling colors affect viewers based on their Will saves.
-- *Critical Success* The creature is unaffected.
-- *Success* The creature is dazzled for 1 round.
-- *Failure* The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.
-- *Critical Failure* The creature is stunned for 1 round and blinded for 1 minute.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Belongings
-Coinage: 00.95
-Bulk 1.3
-### Armor
-- [x] Winter Clothing (.4, L)
-### Weapons
-- [ ] Dagger (.2, L)
-### Gear
-- Silver Religious Symbol of the Sunlord (2, L)
-- Wooden Religious Symbol of the Moon (.1, L)
-- Backpack (.1, L, stores 4 at 2 discount)
-  - Assorted Spices (-, -)
-  - Basic Crafter's Book (.1, L)
-  - Bedroll (.02, L)
-  - Cookware (1, 2)
-  - Ephemera Malefica (?, ?)
-  - Flint & Steel (.05, -)
-  - Hand Mirror (1, -)
-  - Religious Text (1, L)
-  - Rope (.5, L)
-  - Soap (.02, -)
-  - Tent (.8, L)
-  - Waterskin (.05, L)
-  - Writing Kit (1, L)
-- Backpack, Consumables (-, -)
-  - 2x Lesser Antidote (?, ?)
-  - 3x Lesser Antiplague (?, ?)
-  - 2x Week's Rations (.4/, L/)
-  - 5x Candles (.01/, -)
-  - 5x Chalk (.01/, -)
-  - 1x Scroll of Summon Lesser Servitor (?, ?)
