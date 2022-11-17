@@ -100,7 +100,7 @@
 |   | Drive                 |    | Ag  |    |
 | C | Endurance             | 10 | T   | 80 |
 |   | Gamble                |    | Int |    |
-| C | Gossip                |    | Fel |    |
+| C | Gossip                |  5 | Fel | 33 |
 |   | Haggle                |    | Fel |    |
 | C | Intimidate            |  5 | S   | 65 |
 |   | Intuition             |    | I   |    |
