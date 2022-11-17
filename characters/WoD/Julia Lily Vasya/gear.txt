@@ -10,15 +10,16 @@
 ║ · White suit, kevlar undershirt, flats          │ 05 MP5 mag: 9mm 27/30                          ║
 ║ · Duffel with toiletries & extra clothes        │ 06                                             ║
 ║ · Glock 17 + suppressor                         │ 07                                             ║
-║ · MP5                                           │ 08                                             ║
+║ · MP5 + brass catcher                           │ 08                                             ║
 ║ · Shooter's earplugs                            │ 09                                             ║
-║ · Bag of brass casings (3)                      │ x  MP5 mag: 9mm sub 29/30                      ║
+║ · Bag of brass casings (4)                      │ x  MP5 mag: 9mm sub 29/30                      ║
 ║ · Mysterious journal found in camp, is ledger   │ x                                              ║
 ║ · Many vials of perfume                         │ x                                              ║
 ║ · Spirit-reflection of "coinage"?               │ x                                              ║
 ║ · Robe of "The Cult of the Thousand Voices"     │ x                                              ║
 ║ · Tac webbing for ammo/gun storage              │ x                                              ║
 ║ · Knockout potion, flavorless (5)               │ x                                              ║
+║ · Large coil of rope                            │ x                                              ║
 ║ ·                                               │ x                                              ║
 ║ · Coinage worth [Resources ♠♠♠]                 │ x                                              ║
 ╠════════════════════════╤══════╤════════╤═══╤════╧════════════════════════════════════════════════╣
@@ -28,8 +29,8 @@
 ╠═══════════════════╤════╧═══╤══╧════╤═══╧══╤╧═══════════╤═══╤═════════════════════════════════════╣
 ║ Ranged Weapons    │ Damage │ Range │ Rate │ Loaded     │ C │ Notes                               ║
 ╟───────────────────┼────────┼───────┼──────┼────────────┼───┼─────────────────────────────────────╢
-║*Glock 17          │ 4/L    │ 20    │ 4    │ 03, +1     │ P │                                     ║
-║*  +Suppressor     │ 3/L    │ 16    │      │            │ T │ Suppressed                          ║
+║*Glock 17          │ 4/L    │ 20    │ 4    │ 02, +1     │ P │                                     ║
+║   +Suppressor     │ 3/L    │ 16    │      │            │ T │ Suppressed                          ║
 ║*MP5               │ 4/L    │ 50    │ 3    │ 04, +1     │ T │ Burst, Auto, Strafing               ║
 ║ MP5SD             │ 3/L    │ 40    │ 3    │            │ T │ Burst, Auto, Strafing, Suppressed   ║
 ╠═══════════════════╧════════╪══════╤╧════╤═╧════════════╧═══╧═════════════════════════════════════╣

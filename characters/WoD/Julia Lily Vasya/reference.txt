@@ -12,9 +12,9 @@
 ║ · After spending 3 Essence in a scene, Banner flares visible to naked eye, as bright as bonfire. ║
 ║ · Banner fades after (3 x Essence Rating) minutes.                                               ║
 ║ · Banner appearance: Dark purple core, smears into green in the middle, lightens to black at the ║
-║   edges. Filled with clouds of pure-white outlines of eyes and feathers. The eyes cluster into   ║
-║   wing-shapes which beat and shift the air. The feathers form a halo, which observe and cast     ║
-║   judgement in all directions.                                                                   ║
+║   edges. Filled with clouds of pure-white outlines of eyes and feathers over a golden haze. The  ║
+║   eyes cluster into wing-shapes which beat and shift the air. The feathers form a halo, which    ║
+║   observe and cast judgement in all directions.                                                  ║
 ║ · Caste Mark: Ultra-black circle, which sharply transitions to a white bleed at the edges, as if ║
 ║   looking at the back of some entity which could, at any moment, notice you and turn around.     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
