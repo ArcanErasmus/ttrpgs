@@ -13,7 +13,7 @@
 - Party short-term ambition: Find entrance to the castle
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4215/4195
+## Total/Spent XP: 4255/4195
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP

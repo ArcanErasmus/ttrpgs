@@ -3,23 +3,23 @@
 ╠════════════════════════════════╩════════════════╤════════════════════════════════════════════════╣
 ║ Gear                                            │ Ammo                                           ║
 ╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
-║ · Stiletto & sheath                             │ 01 Glock mag: 9mm 17/17                        ║
-║ · Phone, wallet, keys                           │ 02 Glock mag: 9mm 17/17                        ║
+║ · Bag of brass casings (4)                      │ 01 Glock mag: 9mm 17/17                        ║
+║ · Duffel with toiletries & extra clothes        │ 02 Glock mag: 9mm 17/17                        ║
 ║ · Fencing tournament trophy                     │ 03 Glock mag: 9mm sub 17/17                    ║
-║ · Traveler's outfit                             │ 04 MP5 mag: 9mm 30/30                          ║
-║ · White suit, kevlar undershirt, flats          │ 05 MP5 mag: 9mm 27/30                          ║
-║ · Duffel with toiletries & extra clothes        │ 06                                             ║
-║ · Glock 17 + suppressor                         │ 07                                             ║
+║ · Glock 17 + suppressor                         │ 04 MP5 mag: 9mm 30/30                          ║
+║ · Knockout potion, flavorless (5)               │ 05 MP5 mag: 9mm 27/30                          ║
+║ · Large coil of rope                            │ 06                                             ║
+║ · Many vials of perfume                         │ 07                                             ║
 ║ · MP5 + brass catcher                           │ 08                                             ║
-║ · Shooter's earplugs                            │ 09                                             ║
-║ · Bag of brass casings (4)                      │ x  MP5 mag: 9mm sub 29/30                      ║
-║ · Mysterious journal found in camp, is ledger   │ x                                              ║
-║ · Many vials of perfume                         │ x                                              ║
-║ · Spirit-reflection of "coinage"?               │ x                                              ║
+║ · Mysterious journal found in camp, is ledger   │ 09                                             ║
+║ · Phone, wallet, keys                           │ x  MP5 mag: 9mm sub 29/30                      ║
 ║ · Robe of "The Cult of the Thousand Voices"     │ x                                              ║
+║ · Shooter's earplugs                            │ x                                              ║
+║ · Spirit-reflection of "coinage"?               │ x                                              ║
+║ · Stiletto & sheath                             │ x                                              ║
 ║ · Tac webbing for ammo/gun storage              │ x                                              ║
-║ · Knockout potion, flavorless (5)               │ x                                              ║
-║ · Large coil of rope                            │ x                                              ║
+║ · Traveler's outfit                             │ x                                              ║
+║ · White suit, kevlar undershirt, flats          │ x                                              ║
 ║ ·                                               │ x                                              ║
 ║ · Coinage worth [Resources ♠♠♠]                 │ x                                              ║
 ╠════════════════════════╤══════╤════════╤═══╤════╧════════════════════════════════════════════════╣
