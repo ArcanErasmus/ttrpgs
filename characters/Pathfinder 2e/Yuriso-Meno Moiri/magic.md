@@ -1,8 +1,27 @@
 # Yuriso-Meno's Magic
+## Magic Summary
+### Resources
 | **Spells** |  Value       | Notes
 |------------|--------------|-----------
 | *Focus*    |  [x]         | +1/Refocus
 |  1st       |  [x] [ ]     |
+
+### Quick List
+Summoner - Arcane
+- `[>>]` Electric Arc (C) - 30ft, 2 target, 1d4 electricity
+- `[>>]` Bullhorn (C) - 10 min, carry voice min 500 ft, +1 Perform at large venue
+- `[>>]` Gale Blast (C) - 5-ft emanation, CAM dmg, can knockback
+- `[>]` Protect Companion (C) - +1 AC to eidolon; block 5 dmg & force 10 min CD
+- `[>>]` Prestidigitation (C) - 10 min, cook/lift/make/tidy
+- `10 mins` Alarm (S1) - 20 ft burst, 8 hrs, mental or audible alarm w/o password
+- `[>>]` Floating Disk (S1) - 8rs, 2ft disk carries 5 Blk, can't be ridden
+- `[>>]` Mage Armor (S1) - Until re-prep, +1 item to AC
+Bard - Occult
+- `[>]` Join Pasts (C) - 1 rd, share memories, can Aid RecKnow w/ any Lore
+- `[>]` Message (C) - 120 ft, talk silently to target, can briefly respond
+Link Spells - Focus
+- `[>]` Boost Eidolon (FC) - 100 ft, 1 rd, +2 status to eidolon's unarmed dmg/die
+- `[>>]` Evolution Surge (F1) - 100 ft, 1 min, eidolon adds limited sense/ability
 
 ## Summoner (Arcane)
 ### Cantrips
@@ -99,7 +118,7 @@ You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC 
 `[Uncommon]` `[Cantrip]` `[Divination]` `[Mental]` `[>]`
 - *Cast*: Somatic
 - *Range*: Touch
-- *Targets*: 2 willing creatures
+- *Targets*: 2 willing creatures, or 1 and yourself
 - *Duration*: 1 round
 With touches to the targets’ foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to Recall Knowledge, the other can Aid the first target’s skill check, using any Lore skill (even if that Lore wouldn’t normally apply) without having made any preparations to Aid.
 - *Heightened (+1)*: You can touch one additional target to include them in the spell’s effects. Multiple targets can attempt checks to Aid the target who is attempting to Recall Knowledge.

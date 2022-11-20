@@ -31,10 +31,33 @@
 | **Total**                |         | 1.7 | Unencumbered (Enc: 5, Max: 10)
 
 ### Cash
-$0.23.4.0
+$25.80
 
 ## Social Capital & Other Resources
 - none
 
-## Loot Pile
-- none
+## Party Loot Pile
+- Coins: $0.0.0.0
+### Consumables
+- 2x *Lesser Antidote* (Sinta)
+- 3x *Lesser Antiplague* (Sinta)
+- 1x *Minor Health Potion* (Surya)
+- 1x *Scroll of Summon Lesser Servitor* (Sinta)
+- 1x *Infiltrator's Elixir* (Rasa)
+### Quest Items
+- Ephemera Malefica (Surya)
+- Sakari's Diary (Surya)
+- Sakari's Belongings (Sinta)
+- Warlock's Lockbox (Surya)
+### Trade Goods
+- 7sp value of hides (MYM)
+### Magic Items
+- Crossbow bolt, with blue downy fletching, enchanted to instantly kill a single target (target unknown) (Rasa)
+### Misc
+- (U) Bottle of silvery metallic liquid (Surya)
+
+## Items
+### *Bronze Bull Pendant*
+- Affixed to my outfit
+- Single use, activate as free action when attempt Athletics to Shove
+- Gives +2 on check, crit fail -> fail

@@ -3,10 +3,10 @@
 - Ancestry: Kobold (half-kobold/half-human in appearance)
 - Background: Nomad (Jungle)
 - Class: Summoner 2
-- 5'1, 90lbs, reborn 6 years ago (at the rough age of 10)
+- 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
-- Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit partner)
+- Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit-partner)
 
 `[Small]` `[Humanoid]` `[Anarchic]` `[Pragmatic]` `[Tolerant]`
 
@@ -24,17 +24,20 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  25/28       |  +2/Rest
+| *HP*         |  23/28       |  +2/Rest
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
-| *Unarmored AC*  | 16  | +    | +2+2 | +2 Dex  | -    |  +1 w/ Mage Armor
+| *Unarmored AC*  | 16  | +    | +2+2 | +2 Dex  | -    |  -
+| *Mage Armor*    | 17  | +    | +2+2 | +2 Dex  | +1   |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fortitude*     | +7  | ++   | +2+4 | +1 Con  | -    |  -
 | *Reflex*        | +6  | +    | +2+2 | +2 Dex  | -    |  -
 | *Will*          | +8  | ++   | +2+4 | +2 Wis  | -    |  -
+|-----------------|-----|------|------|---------|------|-------|
+| *Fire*          |  1  |                              |  -
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -132,7 +135,7 @@
 - If already manifested, un-manifest instead
 - Eidolon must remain within 100 ft, can't willingly go beyond limit
 - Eidolon unmanifests if forced beyond range limit or you are reduced to 0hp, to re-manifest must use this action
-- Share actions and MAP with eidolon, you can use any of your actions/reactions thru eidolon
+- Share actions and MAP with eidolon
 
 #### Act Together
 `[Summoner]` `[Tandem]` `[> - >>>]`

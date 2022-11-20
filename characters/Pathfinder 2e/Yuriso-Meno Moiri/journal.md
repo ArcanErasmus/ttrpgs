@@ -1,5 +1,30 @@
 # Yuriso-Meno's Journal
 ## Event Log
+### Session 9 - 2022-12-03?
+
+### 2022-11-26, No Session
+
+### Session 8 - 2022-11-19
+- North side of town, an owlbear has shown up
+    - Townsfolk and Rasa loose a volley
+    - After a quick melee, Surya carves it apart
+    - However, a fire was started (and I heard Granz cast Wildfire)
+    - Also, the owlbear was previously treated for burns
+- A fire was started (AGAIN!)
+    - Quick action and a dedicated bucket train put the fire out
+    - Neither Hallod or Phinick showed up...
+    - Granz straight up admits to starting the fire!
+        - AND THE FIRE IN THE FOREST!!!!!
+    - Owlbear corpse was skinned and butchered, contained some stuff
+- The group argues WAY TOO MUCH before making any useful progress
+    - Not even about how to get to Phinick/Hallod/Trin
+- Rasa and I head to Trin's house
+    - There was a terrifying fire-breathing boar
+    - It hurt us but we put it to sleep and hid from it
+    - Trin thinks Phinick either ran out of town or is staying in an abandoned house
+    - If Phinick did run, he would have to come back soon, he can't hunt
+    - Trin confused why people in town don't like folk from north of The Teeth, something about the witches there, Phinick is from there
+
 ### Session 7 - 2022-11-12
 - Sherif Rolth interrogates other members of the caravan
     - His suspicions and questions lean towards "Who would want to inherit Bort's business/wealth?"
@@ -31,6 +56,7 @@
         - Delma Fulst, bartender at and possible owner of The Feedmill, gives the name Phinick
         - Delma doesn't believe he would be possibly connected
         - Phinick doesn't have a permanent residence, but often stays around the barn
+        - Other employee, Trin, knows Phinick more
         - Phinick was specifically scared of Hallod, who Delma says is known as the town bully
         - Hallod has apparently claimed one of the abandoned houses on the north side of town (not sure which)
         - Delma's father, Mayor Targen Fulst, is very old and somewhat senile, likely not helpful
