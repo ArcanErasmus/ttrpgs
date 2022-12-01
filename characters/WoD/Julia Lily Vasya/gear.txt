@@ -3,17 +3,17 @@
 ╠════════════════════════════════╩════════════════╤════════════════════════════════════════════════╣
 ║ Gear                                            │ Ammo                                           ║
 ╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
-║ · Bag of brass casings (4)                      │ 01 Glock mag: 9mm 17/17                        ║
-║ · Duffel with toiletries & extra clothes        │ 02 Glock mag: 9mm 17/17                        ║
+║ · Bag of brass casings (039)                    │ 01 Glock mag: 9mm 17/17                        ║
+║ · Duffel with toiletries & extra clothes        │ 02                                             ║
 ║ · Fencing tournament trophy                     │ 03 Glock mag: 9mm sub 17/17                    ║
-║ · Glock 17 + suppressor                         │ 04 MP5 mag: 9mm 30/30                          ║
-║ · Knockout potion, flavorless (5)               │ 05 MP5 mag: 9mm 27/30                          ║
-║ · Large coil of rope                            │ 06                                             ║
+║ · Glock 17 + suppressor                         │ 04 MP5 mag: 9mm 00/30                          ║
+║ · Knockout potion, flavorless (5)               │ 05 MP5 mag: 9mm 26/30                          ║
+║ · Large coil of rope                            │ 06 MP5 mag: 9mm 30/30                          ║
 ║ · Many vials of perfume                         │ 07                                             ║
 ║ · MP5 + brass catcher                           │ 08                                             ║
 ║ · Mysterious journal found in camp, is ledger   │ 09                                             ║
 ║ · Phone, wallet, keys                           │ x  MP5 mag: 9mm sub 29/30                      ║
-║ · Robe of "The Cult of the Thousand Voices"     │ x                                              ║
+║ · Robe of "The Cult of the Thousand Voices"     │ x  Glock mag: 9mm 14/17                        ║
 ║ · Shooter's earplugs                            │ x                                              ║
 ║ · Spirit-reflection of "coinage"?               │ x                                              ║
 ║ · Stiletto & sheath                             │ x                                              ║
@@ -31,7 +31,7 @@
 ╟───────────────────┼────────┼───────┼──────┼────────────┼───┼─────────────────────────────────────╢
 ║*Glock 17          │ 4/L    │ 20    │ 4    │ 02, +1     │ P │                                     ║
 ║   +Suppressor     │ 3/L    │ 16    │      │            │ T │ Suppressed                          ║
-║*MP5               │ 4/L    │ 50    │ 3    │ 04, +1     │ T │ Burst, Auto, Strafing               ║
+║*MP5               │ 4/L    │ 50    │ 3    │ 05         │ T │ Burst, Auto, Strafing               ║
 ║ MP5SD             │ 3/L    │ 40    │ 3    │            │ T │ Burst, Auto, Strafing, Suppressed   ║
 ╠═══════════════════╧════════╪══════╤╧════╤═╧════════════╧═══╧═════════════════════════════════════╣
 ║ Armor                      │ Prot │ Dex │ Notes                                                  ║

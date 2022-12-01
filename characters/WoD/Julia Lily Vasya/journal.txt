@@ -26,12 +26,36 @@
 ║ · Unnamed Paladin #1 (Session 1) - Attacked both cultist and us
 ║ · Unnamed Paladin #2 (Session 1) - Attacked both cultist and us
 ║ · Unnamed Bandit (Session 15) - Part of anti-Redona group, accomplice to murder of Victor
+║ · Unnamed Bandit (Session 18) - Part of anti-Redona group, attacking town
+║ · Unnamed Bandit (Session 18) - Part of anti-Redona group, attacking town
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 18 - 2022/11/30?future                                                                   ║
+║ Session 18 - 2022/12/07?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
 ║   · 
 ║     · 
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 18 - 2022/11/30                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ · Night before the bandit attack (Tuesday, 14 days PA, evening)
+║   · Smithy goes to fortune teller, having sent Rahmiel away on a do-nothing mission
+║     · (Reminder, cards were: Long Winter, Arsonist, Ends and Beginnings, Firebrand, Return)
+║     · Reading likely refers not to Smithy, but to Rahmiel
+║ · Last day of the festival (Wednesday, 15 days PA, morning)
+║   · Group prepares for bandit fight
+║     · Smithy on the edges, to catch stragglers and guide evacuees
+║     · Dr at a fallback point set up to triage
+║     · Ruth is the wildcard, because she's been busy observing a holiday
+║     · Initiate hiding at the entrance for a surprise rear assault
+║     · Julia in the crowds, to meet the spearhead
+║ · The bandits attack (Wednesday, 15 days PA, dusk)
+║   · Opening moves
+║     · With Smithy's distraction, melee line splits
+║     · Ruth's sudden "war"horn from behind their group confuses them and alerts the guard
+║     · Julia implies surrender=death, inspiring hostile panic
+║   · In the fray
+║     · Melee line breaks first, ranged line causes numerous civilian casualties
+║     · Ranged line suffers complete casualties, a handful of wounded survive
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 17 - 2022/11/16                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -48,9 +72,10 @@
 ║   · Late evening, The Initiate and I scout the bandit camp for their plans
 ║     · Immediately apparent is that they basically have to go through the festival grounds
 ║ · Smithy's day
-║   · Transformed into a wild cat and "reassured" Sha'ana about Victor's ghost
+║   · Transformed into a wild eling (fox-cat-dog) and "reassured" Sha'ana about Victor's ghost
 ║   · Blessed the Dr's organ fridge, turning it into an ice elemental
 ║   · Followed Ruth around in the afternoon
+║   · Distracted Rahmiel and had surruptitious convo with fortune teller
 ║ · Ruth's day
 ║   · Holiday prepwork (found prayer spot, cooked, did laundry)
 ║   · Had weird convo with The Initiate where they talked past each other
@@ -313,11 +338,14 @@
 ║ ·  3: Melee 0 -> 1
 ║ ·  6: Key Charm: By Rage Recast (♠♠)
 ║ ·  8: Non-Key Charm: Wind-Born Stride (♠♠)
-║ ·  3: Language (♠)         
+║ ·  3: Language (♠)
 ║ ·  2: Academics 1 -> 2
 ║ ·  3: Law 0 -> 1
 ║ ·  3: Mocking Murmurs Retort (♠)
 ║ ·  4: Law-as-Tool Realization (♠)
+║ ·  3: Firearms 3 -> 4
+║ ·  4: Firearms 4 -> 5
+║ ·  1: Leadership 1 -> 2
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -329,7 +357,6 @@
 ║   ·  4: Stamina 1 -> 2
 ║ · Key Abilities
 ║   ·  3: Empathy 3 -> 4 (+Specialty)
-║   ·  3: Firearms 3 -> 4 (Unlocks 1-to-1 with Archery!)
 ║   ·  3: Intimidation 3 -> 4 (+Specialty)
 ║   ·  3: Subterfuge 3 -> 4 (+Specialty)
 ║   ·  2: Etiquette 2 -> 3
