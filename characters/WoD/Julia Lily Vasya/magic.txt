@@ -1,5 +1,5 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Chronicle - The Isekai         ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
+║ Chronicle - Through The Portal ║ Julia Lily Vasya, She/Her (Born 10/15/1993)                     ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Shintai Form: Devil-Tyrant Avatar Shintai                                                        ║
 ║ · Statline Chosen: +1 Strength, +4 Dexterity, +1 Stamina, 7 aspects.                             ║
@@ -57,7 +57,7 @@
 ║ Demon City Charm: Nightmare Fugue Vigilance (♠)                                                  ║
 ║ · Never need to sleep, nor suffer sleep deprivation.                                             ║
 ║ · If sleep, suffer nightmares, and roll WP diff 7 upon waking to regain WP.                      ║
-║ · Reminder: Recovering WP comes from sleeping (or intimacities).                                 ║
+║ · Reminder: Recovering WP normally comes from sleeping (or intimacities).                        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Demon City Charm: By Rage Recast (♠♠) x2                                                         ║
 ║ · Select a Demonic Aspect (not Hardened Devil Body). Chosen: Flight, Transcendent Anathema.      ║
