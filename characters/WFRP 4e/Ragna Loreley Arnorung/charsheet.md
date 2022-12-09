@@ -10,10 +10,10 @@
 
 - Personal short-term ambition: Get revenge on the petty thug who tried to lead us into a trap
 - Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
-- Party short-term ambition: Find entrance to the castle
+- Party short-term ambition: ?
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4255/4195
+## Total/Spent XP: 4365/4255
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -43,6 +43,7 @@
 |  125 |   0 |  10 | Endurance
 |   50 |   0 |   5 | Gossip
 |   50 |   0 |   5 | Intimidate
+|   50 |   0 |   5 | Leadership
 |   50 |   0 |   5 | Outdoor Survival
 |  125 |   0 |  10 | Perception
 |------|-----|-----|------
@@ -104,7 +105,7 @@
 |   | Haggle                |    | Fel |    |
 | C | Intimidate            |  5 | S   | 65 |
 |   | Intuition             |    | I   |    |
-| C | Leadership            |    | Fel |    |
+| C | Leadership            |  5 | Fel | 33 |
 |   | Navigation            |    | I   |    |
 | C | Outdoor Survival      |  5 | Int | 37 |
 | C | Perception            | 10 | I   | 46 |
@@ -349,11 +350,11 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 3->Exit: 880
+### Rank 3->Exit: 830
 - Attributes: 180
     - I                  |  8->12 | 180
-- Skills: 300
-    - Leadership         |   ->10 | 125
+- Skills: 250
+    - Leadership         | 5 ->10 |  75
     - M(Flail)           | 5 ->15 | 175
 - Talents: 400
     - Battle Rage        | 1 -> 2 | 200
