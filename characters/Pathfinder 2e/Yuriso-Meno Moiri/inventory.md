@@ -57,7 +57,3 @@ $25.80
 - (U) Bottle of silvery metallic liquid (Surya)
 
 ## Items
-### *Bronze Bull Pendant*
-- Affixed to my outfit
-- Single use, activate as free action when attempt Athletics to Shove
-- Gives +2 on check, crit fail -> fail

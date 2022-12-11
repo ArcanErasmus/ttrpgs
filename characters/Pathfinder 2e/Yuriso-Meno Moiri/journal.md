@@ -1,7 +1,27 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 9 - 2022-12-03?
+### Session 9 - 2022-12-10
+- Rasa and I with Trin
+    - Trin leads us to abandoned houses where Phinick might be
+    - There was one that looks like it was abandoned only yesterday
+    - Looks like Phinick is trying to hop houses daily
+    - We chase down Phinick (who is TOO CRAFTY!)
+- Interrogating Phinick
+    - Finally get him to agree to share memories with me
+    - I see Hallod convincing Phinick to "prank" Bort with a "bittering agent" in his food
+    - Also see lots of Phinick getting bullied around town
+    - Phinick wants to skip town, I argue that we're leaving soon too
+- Granz, Sinta, and Surya go shopping, then head out to find Hallod
+    - Surya accosted by some drunk guy rambling about a ghost
+    - The guy, Lauren Krent, once sobered up really tries to dodge the ghost problem
+    - Lauren leads them to Hallod's house, and the group attempts to sneak in
+    - The whole house is full of garbage, couple of traps too
+    - Group dredges their way to the basement, works to keep guard dogs at bay
+- Rasa and I track the group and meet up with them in the basement
+    - We unlock the metal-banded door leading to Hallod's personal room
+    - Heading down a back passage, we get up to speed on investigations
 
+### 2022-12-03, No Session
 ### 2022-11-26, No Session
 
 ### Session 8 - 2022-11-19
