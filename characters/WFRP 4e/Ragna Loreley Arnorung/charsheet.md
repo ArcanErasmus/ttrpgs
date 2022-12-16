@@ -13,7 +13,7 @@
 - Party short-term ambition: ?
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4365/4255
+## Total/Spent XP: 4395/4255
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
