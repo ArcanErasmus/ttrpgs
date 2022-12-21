@@ -24,7 +24,7 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  21/28       |  +2/Rest
+| *HP*         |  28/28       |  +2/Rest
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Defenses
@@ -38,6 +38,11 @@
 | *Will*          | +8  | ++   | +2+4 | +2 Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fire*          |  1  |                              |  -
+Situational & Temporary Effects:
+- [x] +1 Item AC with Mage Armor
+
+### Conditions
+- Wounded 1
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -51,6 +56,18 @@
 | *Occult Attack* | +8  | +    | +2+2 | +4 Cha  | -    | -
 | *Dex Attack*    | +7  | +    | +2+2 | +2 Dex  | +1   | -
 | *Str Attack*    | +5  | +    | +2+2 | +0 Str  | +1   | -
+Situational & Temporary Effects:
+- [ ] 
+
+### Attacks
+| **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
+|-----------------|-------------|------|-----------|--------|
+| *Javelin*       | +7          | +    | 1d6 P     | Thrown (30 ft)
+| *Poi*           | +7          | +    | 1d4 B     | Agile, Backswing, Finesse, Nonlethal
+| *Sickle*        | +7          | +    | 1d4 S     | Agile, Finesse, Trip
+| *Breath*        | 18 B Ref    | -    | 1d4 Fire  | 30-ft line, 1d4 rd CD
+Situational & Temporary Effects:
+- [ ] 
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |

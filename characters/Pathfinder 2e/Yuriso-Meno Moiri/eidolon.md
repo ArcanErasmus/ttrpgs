@@ -29,6 +29,8 @@
 | *Will*          | +6  | ++   | +2+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Cold*          |  1  |                              |  -
+Situational & Temporary Effects:
+- [ ] +1 Circumstance AC with Protect Companion
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -36,6 +38,8 @@
 | *Perception*    | +4  | +    | +2+2 | -- Wis  | -    | -
 | *Dex Attack*    | +7  | +    | +2+2 | +2 Dex  | +1   | -
 | *Str Attack*    | +9  | +    | +2+2 | +4 Str  | +1   | -
+Situational & Temporary Effects:
+- [ ] 
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
@@ -43,6 +47,8 @@
 | *Claw*          | +9          | +    | 1d8+4 S   | Trip
 | *Tail*          | +9          | +    | 1d6+4 B   | Agile, Finesse
 | *Breath*        | 18 B Ref    | -    | 1d6 Sonic | 30-ft cone, 1d4 rd CD
+Situational & Temporary Effects:
+- [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
