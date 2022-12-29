@@ -350,15 +350,43 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 3->Exit: 830
-- Attributes: 180
-    - I                  |  8->12 | 180
+### Rank 3->Exit: 790
+- Attributes: 140
+    - I                  |  8->12 | 140
 - Skills: 250
-    - Leadership         | 5 ->10 |  75
-    - M(Flail)           | 5 ->15 | 175
+    - Leadership         |  5->10 |  75
+    - M(Flail)           |  5->15 | 175
 - Talents: 400
-    - Battle Rage        | 1 -> 2 | 200
-    - Robust             | 1 -> 2 | 200
+    - Battle Rage        |  1-> 2 | 200
+    - Robust             |  1-> 2 | 200
+- Exit Career Early: 100
+
+### Rank 3->4: 1860
+- Attributes: 860
+    - WS                 | 10->15 | 200
+    - S                  | 10->15 | 200
+    - T                  | 10->15 | 200
+    - I                  |  8->15 | 260
+- Skills: 600
+    - Leadership         |  5->10 |  75
+    - M(Flail)           |  5->15 | 175
+    - R(Throwing)        |  5->15 | 175
+    - ?                  |  5->15 | 175
+- Talents: 400
+    - Battle Rage        |  1-> 2 | 200
+    - Robust             |  1-> 2 | 200
+
+### Rank 4->Exit: 1470
+- Attr: - Attributes: 320
+    - Ag                 |  3->13 | 320
+- Skills: 250
+    - Lo(?)              |   ->10 | 125
+    - R(Horse)           |   ->10 | 125
+- Talents: 800
+    - Combat Master      |   -> 2 | 300
+    - Frightening        |   -> 1 | 100
+    - Relentless         |   -> 1 | 100
+    - Strike Mighty Blow |   -> 2 | 300
 - Exit Career Early: 100
 
 ### Witch Hunter
@@ -367,7 +395,7 @@
 - Skills: 250
     - Charm              |   -> 5 |  50
     - Intuition          |   -> 5 |  50
-    - Lore (Torture/?)   |   -> 5 |  50
+    - Lore (Not Torture) |   -> 5 |  50
     - Melee (Brawling)   |   -> 5 |  50
     - Perception         |   -> 5 |  50
 - Talents: 100
