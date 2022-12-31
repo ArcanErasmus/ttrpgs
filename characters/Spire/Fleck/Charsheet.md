@@ -162,7 +162,7 @@ We have a very strained relationship, because I once attempted to gamble my fath
 - Later, they meet in the Ministry, and their prior history (among other reasons) is why are chosen and placed in the same cell. Santiago never reveals that when she saved him, he was undertaking the Rite of Fury.
 
 ### Nancy - Individual
-You lead this sacred hyena to safety after Kether was grabbed by the Hive guards during the legendary slaughter-heist. After being tainted yourself, you shared your diseased blood with her, empowering her intelligence. Suddenly understanding what happened to Kether, she wept for him, and black tears stained fractal streaks across her cheeks. As a memento, she wears a chest-wrap made from his old cape.
+You lead this sacred hyena to safety after Kether Maline was grabbed by the Hive guards during the legendary slaughter-heist. After being tainted yourself, you shared your diseased blood with her, empowering her intelligence. Suddenly understanding what happened to Kether, she wept for him, and black tears stained fractal streaks across her cheeks. As a memento, she wears a chest-wrap made from his old cape.
 Her only request is that you `help her find Kether's body, assuming he's dead, and feed it to her`.
 
 ### Phalqa - PC
