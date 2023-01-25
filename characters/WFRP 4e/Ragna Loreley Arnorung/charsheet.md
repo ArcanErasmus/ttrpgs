@@ -10,10 +10,10 @@
 
 - Personal short-term ambition: Get revenge on the petty thug who tried to lead us into a trap
 - Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
-- Party short-term ambition: ?
+- Party short-term ambition: Acquire the warpstone
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4395/4255
+## Total/Spent XP: 4420/4255
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
