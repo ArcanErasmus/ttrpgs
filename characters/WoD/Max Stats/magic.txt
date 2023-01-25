@@ -29,8 +29,8 @@
 ║ - Can broadcast sound, and interface with machines possessing speakers to use those.             ║
 ║ Submodule: Hearing                                                                               ║
 ║ - Can pick up audio data as well as visual.                                                      ║
-║ Submodule: Extra Drones x3                                                                       ║
-║ - Can remove second eye, and has 2 extra rivet-like drones stored on body. Can only control one. ║
+║ Submodule: Extra Drones x2                                                                       ║
+║ - Can remove second eye, and has 1 extra rivet-like drone stored on body. Can only control one.  ║
 ║ Submodule: Hover Mode                                                                            ║
 ║ - Can spin legs to fly like tiny helicopter.                                                     ║
 ║ Submodule: Autonomous                                                                            ║
@@ -47,7 +47,7 @@
 ║     - Can zoom in on details to microscopic level.                                               ║
 ║     - Can see thru walls/surfaces when concentrating & rolling Perception + Alertness diff 6.    ║
 ║ Submodule: Optical Optimization                                                                  ║
-║ - Can activate any (except Perception diff) mode with 1 turn concentration, no Essence.          ║
+║ - Can activate any (except Perception diff) mode with 1 turn concentration, no cost.             ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Utility Charm: Metaneural Uplink Node (♦)                                                        ║
 ║ - Aesthetic: Circuitry on visual cortex, metal disk at base of skull.                            ║

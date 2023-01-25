@@ -5,15 +5,16 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬────────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent     ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦              ├────────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦♦                        │  71/ 70            ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦♦                        │  75/ 69            ║
 ║ Affiliation - None             ║ LimitTrack │ ▓▓▓▓▓ ▓▓░░░                      ├────────────────────╢
-║ Sect - Tweens With Toad        ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦♦                   │ 3.5w/6.5j/11.5r yd ║
+║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤════════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec       ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
 ║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦# │ Bold      ║ Perception   │ ♦♦♦♦∙ │ Sensory    ║
 ║ Dexterity  │ ♦∙∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦ │ BookLrning ║
+║            │       │           ║            │       │           ║              │       │ Creative   ║
 ║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦♦♦♦ │ Scrappy   ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪════════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec       ║
@@ -26,9 +27,9 @@
 ║ Empathy    │ ♦∙∙∙∙ │           ║ Meditation │ ∙∙∙∙∙ │           ║ Investigatn  │ ∙∙∙∙∙ │            ║
 ║ Expression │ ∙∙∙∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Law          │ ∙∙∙∙∙ │            ║
 ║ Intimidate │ ∙∙∙∙∙ │           ║ Research   │ ∙∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │            ║
-║ Leadership │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Occult       │ ♦♦♦♦∙ │ Witch-Code ║
+║ Leadership │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Occult       │ ♦∙∙∙∙ │            ║
 ║ Streetwise │ ∙∙∙∙∙ │           ║ Survival   │ ♦∙∙∙∙ │ Prepared  ║ Politics     │ ∙∙∙∙∙ │            ║
-║ Subterfuge │ ∙∙∙∙∙ │           ║ Technology │ ♦♦♦♦∙ │ A/V       ║ Science      │ ∙∙∙∙∙ │ Paraphyscs ║
+║ Subterfuge │ ∙∙∙∙∙ │           ║ Technology │ ♦♦♦♦∙ │ A/V       ║ Science      │ ♦♦♦♦∙ │ Paraphyscs ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
 ║            │ ∙∙∙∙∙ │           ║ Security   │ ♦∙∙∙∙ │           ║ Conspiracies │ ♦♦♦∙∙ │            ║
 ║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ CovertCultre │ ♦♦∙∙∙ │            ║
@@ -37,7 +38,7 @@
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼────────────╢
 ║ Hedge Magic        │ ♦♦♦♦♦     ║ Acute Senses       │ ♦∙∙       ║ Child                │ ♦♦∙        ║
 ║ Hideaway           │ ♦♦∙∙∙ ∙   ║ Computer Aptitude  │ ♦         ║ Curiosity            │ ♦♦         ║
-║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Glass Heart          │ ♦♦         ║
+║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Heart of Glass       │ ♦♦         ║
 ║ Supernat Status    │ ♦∙∙∙∙     ║ Family Support     │ ♦∙∙       ║ Nightmares           │ ♦∙∙        ║
 ║                    │           ║ Hyperfocus         │ ♦♦♦       ║ Short                │ ♦♦♦        ║
 ║                    │           ║ Lightning Calc     │ ♦         ║                      │            ║
@@ -53,10 +54,10 @@
 ║ - AC: Mobile Sensory Drone (♦)                      │                                               ║
 ║ - AC: Optical Enhancement (♦♦)                      │                                               ║
 ║ - U: Metaneural Uplink Node (♦)                     │                                               ║
+║ - S: Transphase Engine (♦♦♦)                        │                                               ║
+╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
+║ Inactive Charms                                     │                                               ║
 ║ - U: Omnitool Implant (♦)                           │                                               ║
 ║ - U: Synaptic Acceleration Node (♦)                 │                                               ║
 ║ - S: Cross-Phase Scanner (♦)                        │                                               ║
-╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
-║ Inactive Charms                                     │                                               ║
-║ - S: Transphase Engine (♦♦♦)                        │                                               ║
 ╚═════════════════════════════════════════════════════╧═══════════════════════════════════════════════╝
