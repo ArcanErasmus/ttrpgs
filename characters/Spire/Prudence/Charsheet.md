@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════╦════════════════════════════════════════════╗
-║ Chronicle - ?                              ║ ?, She/Her                                 ║
+║ Chronicle - ?                              ║ Prudence, She/Her                          ║
 ╠════════════════════════════════════════════╬═══════╤════════════╤═══════════════════════╣
 ║ Core                                       ║ Slots │ Resistance │ Description           ║
 ╟────────────────────────────────────────────╫───────┼────────────┼───────────────────────╢
@@ -63,3 +63,42 @@
 *You have access to the vast informational resources of the sages.* While inside the Vault, whether you accessed it through a Back Door or by normal means, you have access to equipment that will allow you to perform an Investigate check on any subject. It won’t confer mastery, but it will allow you to perform the check.
 
 *You spend every quiet moment filling your brain with knowledge – knowledge which is often fleeting.* At the start of each session, gain a knack of your choosing in any skill or domain, even if you don’t normally have access to the skill or domain. At the end of the session, you lose that knack. You can’t have the same knack two sessions in a row; you get bored, and must expand your mind in different ways.
+
+
+-      New Heaven: -1
+-        Amaranth: -2
+-  Solar Basilica: -1
+-  Silver Quarter: +0
+-       Ivory Row: +2
+-           Perch: +1
+-     Middle city: -2
+-     The Gardens: +2
+-       The Works: +0
+-   Pilgrims Walk: +1
+-           Docks: +1
+-         Red Row: +0
+-      Derelictus: +2
+
+
+Core personality quirks:
+- Chronic help vampire, owes money to just about everyone, can switch from cold intimidation to hangdog face & puppy eyes depending on target
+- Worryingly blase about having to murder someone (externally, internally fucking terrified of it and has not)
+- 
+
+Prudence's Cell ("Face"):
+- "Ear" (she/her), blood witch, kept tabs on Galene, killed by aelfir
+- "Nose" (she/her), vermissian, Prudence (this is me!), fled the backup
+- "Lip" (he/him), bound, sacrificed himself fighting the guards
+- "Tooth" (they/them), thug, started the fight with the aelfir, killed by guards
+- "Brain" (he/him), revolutionary, recruited us and knew what we were looking for, killed by guards
+
+Prudence's cell dares to journey to Endline, to dig through it for some unnamed valuables. On the way, the group, posing as **(???)**, is intercepted in the Docks by an aelfir and their bodyguards, who demand unspeakable things of a group member. 
+
+Mission in docks
+    goes awry, have to bail
+    find shelter with a kind stranger (Galene)
+    authorities hone in on me anyways
+    have to bail, Galene would be a loose end
+    frame Galene, "join or die", she follows me
+    leverage over parents (must disavow galene)
+
