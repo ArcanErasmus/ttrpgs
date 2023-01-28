@@ -14,6 +14,7 @@
     - 1x Giant Spider Matriarch
     - 1x Ghoul
     - 4x Emaciated Cannibal
+    - 1x The Thing In The Pit
 
 - Trophies:
     - Large squid beak

@@ -8,12 +8,12 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: Get revenge on the petty thug who tried to lead us into a trap
+- Personal short-term ambition: Show Ulfhednar *real* strength
 - Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
 - Party short-term ambition: Acquire the warpstone
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4420/4255
+## Total/Spent XP: 4520/4420
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -58,7 +58,7 @@
 |   50 |   0 |   5 | Secret Signa (Taalrhya)
 |   10 |   0 |   1 | Trade (Feller)
 |------|-----|-----|------
-|   50 |   0 |   5 | Melee (Flail)     
+|  225 |   0 |  15 | Melee (Flail)     
 |   50 |   0 |   5 | Melee (Two-Handed)
 |  125 |   0 |  10 | Ranged (Throwing)
 |------|-----|-----|------
@@ -96,7 +96,7 @@
 |   | Charm Animal          |    | WP  |    |
 |   | Climb                 |    | S   |    |
 |!C | Consume Alcohol       | 15 | T   | 85 |
-|!C | Cool                  | 15 | WP  | 65 |
+|!C | Cool                  | 15 | WP  | 66 | +1
 | C | Dodge                 |  5 | Ag  | 35 |
 |   | Drive                 |    | Ag  |    |
 | C | Endurance             | 10 | T   | 80 |
@@ -134,7 +134,7 @@
 | C | Weapon Specs          | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
 |!C$| Melee (Basic)         | 15 | WS  | 71 |
-| C | Melee (Flail)         |  5 | WS  | 61 |
+|!C | Melee (Flail)         | 15 | WS  | 71 |
 | C | Melee (Two-Handed)    |  5 | WS  | 61 |
 | C | Ranged (Throwing)     | 10 | BS  | 42 |
 
@@ -350,26 +350,24 @@
 - Something given to me by priestess of Rhya
 
 ## Exp Planning
-### Rank 3->Exit: 790
+### Rank 3->Exit: 615
 - Attributes: 140
     - I                  |  8->12 | 140
-- Skills: 250
+- Skills:  75
     - Leadership         |  5->10 |  75
-    - M(Flail)           |  5->15 | 175
 - Talents: 400
     - Battle Rage        |  1-> 2 | 200
     - Robust             |  1-> 2 | 200
 - Exit Career Early: 100
 
-### Rank 3->4: 1860
+### Rank 3->4: 1685
 - Attributes: 860
     - WS                 | 10->15 | 200
     - S                  | 10->15 | 200
     - T                  | 10->15 | 200
     - I                  |  8->15 | 260
-- Skills: 600
+- Skills: 425
     - Leadership         |  5->10 |  75
-    - M(Flail)           |  5->15 | 175
     - R(Throwing)        |  5->15 | 175
     - ?                  |  5->15 | 175
 - Talents: 400

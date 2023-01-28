@@ -70,7 +70,7 @@
 |--------------------------|-----|-----|--------------------------------
 | Javelin                  |   2 |     |
 |--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 19/12 
+| **Coins**                |     |     | 0GC 19/08 
 |--------------------------|-----|-----|--------------------------------
 | **Total**                |     |  11 |
 
@@ -101,7 +101,7 @@
     - Throwing Axe
 
 ## Inventory of The Svettbukk
-- 55 GC
+- 714 GC
 
 - Trade Tools (Navigator)
 - Meat Smoker (Trade Tools for preserving game)
@@ -112,7 +112,8 @@
     - Four 6-pointed metal keys (plus one with Peronelle), plus a five-pointed metal key
 
 ### Trade Goods
-- 30 units of Top-Shelf Brandy (10 enc/unit)
+<!-- - 30 units of Top-Shelf Brandy (10 enc/unit)
     - Purchased at 8.4 GC/unit in Fielbach
         - Includes 30% discount from 12 GC/unit
     - Trade Rumor: 2x price & always buyer at Castle Wittgenstein
+ -->
