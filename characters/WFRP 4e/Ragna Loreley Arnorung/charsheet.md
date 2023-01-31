@@ -327,13 +327,9 @@
 
 ### Talents
 - Artistic
-- Careful Strike
 - Carouser
-- Combat Aware
-- Commanding Presence
 - Frightening
 - Hatred (Cultists)
-- Implacable
 - Old Salt
 - Relentless
 - Resistance (Poison)
@@ -342,12 +338,18 @@
 - Sea Legs
 - Shieldsman
 - Sprinter
-- Wealthy
 
 ### Items
 - Something that proves noble heritage
 - Something given to me by Norse family
 - Something given to me by priestess of Rhya
+
+## Nations of Mankind - Veteran Talents (need Consult an Expert)
+- Armor-Monger
+- Guardian
+- Thunderous Charge
+- Tireless
+- True Grit
 
 ## Exp Planning
 ### Rank 3->Exit: 615
