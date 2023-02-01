@@ -5,17 +5,17 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬────────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent     ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦              ├────────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦♦                        │  75/ 69            ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦∙                        │  79/ 72            ║
 ║ Affiliation - None             ║ LimitTrack │ ▓▓▓▓▓ ▓▓░░░                      ├────────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦∙∙∙ ∙∙∙∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤════════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec       ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
-║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦# │ Bold      ║ Perception   │ ♦♦♦♦∙ │ Sensory    ║
+║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Perception   │ ♦♦♦♦∙ │ Sensory    ║
 ║ Dexterity  │ ♦∙∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦ │ BookLrning ║
 ║            │       │           ║            │       │           ║              │       │ Creative   ║
-║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦♦♦♦ │ Scrappy   ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
+║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦♦♦∙ │ Scrappy   ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪════════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec       ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
@@ -33,6 +33,7 @@
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
 ║            │ ∙∙∙∙∙ │           ║ Security   │ ♦∙∙∙∙ │           ║ Conspiracies │ ♦♦♦∙∙ │            ║
 ║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ CovertCultre │ ♦♦∙∙∙ │            ║
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ L:DarkKingms │ ♦∙∙∙∙ │            ║
 ╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪════════════╣
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value      ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼────────────╢

@@ -21,7 +21,7 @@
 ║ - Stocked with tools and several days' worth of food/water.                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background: Primium Countermeasures ♦♦♦♦♦                                                        ║
-║ - 5 innate dice of countermagick (reflexively roll pool ♦ diff 7, remove successes from magick). ║
+║ - 5 innate dice of countermagick (reflexively roll pool, diff 7, remove successes from magick).  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background: Supernatural Status ♦∙∙∙∙                                                            ║
 ║ - Peers recognize name, as member in good standing (of our little band of misfits).              ║

@@ -56,6 +56,9 @@
 ║ Utility Charm: Omnitool Implant (♦)                                                              ║
 ║ - Aesthetic: Hands replaced with complex reconfigurable machinery.                               ║
 ║ - Always assumed to have any manner of work tool while installed.                                ║
+║ Submodule: Data Access Implant                                                                   ║
+║ - 1 Ess, produce electronic key, unlock any maglock and bypass security lockout of any computer  ║
+║   or electronic device that have physical access to.                                             ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Utility Charm: Synaptic Acceleration Node (♦)                                                    ║
 ║ - Aesthetic: Relay crystals implanted throughout body.                                           ║
