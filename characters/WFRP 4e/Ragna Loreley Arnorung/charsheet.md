@@ -8,19 +8,19 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: Show Ulfhednar *real* strength
+- Personal short-term ambition: ?
 - Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
 - Party short-term ambition: Acquire the warpstone
 - Party long-term ambition: Deal with the warpstone
 
-## Total/Spent XP: 4520/4420
+## Total/Spent XP: 5195/4835
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
 |  275 |   0 |  10 | WS
 |  275 |   0 |  10 | S
 |  275 |   0 |  10 | T
-|  215 |   0 |   8 | I
+|  355 |   0 |  12 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
 |  300 |   0 |   2 | Ambidextrous
@@ -32,20 +32,20 @@
 |  100 |   0 |   1 | Juggernaut Frenzy
 |  100 |   0 |   1 | Mark of the Gods
 |  100 |   0 |   1 | Resistance (Mutation)
-|  100 |   0 |   1 | Robust
+|  300 |   0 |   2 | Robust
 |  100 |   0 |   1 | Savvy
 |  100 |   0 |   1 | Warrior Born
 |------|-----|-----|------
-|  125 |   0 |  10 | Athletics
+|  225 |   0 |  15 | Athletics
 |   40 |  13 |  15 | Consume Alcohol
 |   80 |  11 |  15 | Cool
 |   50 |   0 |   5 | Dodge
 |  125 |   0 |  10 | Endurance
 |   50 |   0 |   5 | Gossip
 |   50 |   0 |   5 | Intimidate
-|   50 |   0 |   5 | Leadership
+|  125 |   0 |  10 | Leadership
 |   50 |   0 |   5 | Outdoor Survival
-|  125 |   0 |  10 | Perception
+|  225 |   0 |  15 | Perception
 |------|-----|-----|------
 |  125 |   0 |  10 | Art (Reliquary)
 |   50 |   0 |   5 | Heal
@@ -60,7 +60,7 @@
 |------|-----|-----|------
 |  225 |   0 |  15 | Melee (Flail)     
 |   50 |   0 |   5 | Melee (Two-Handed)
-|  125 |   0 |  10 | Ranged (Throwing)
+|  225 |   0 |  15 | Ranged (Throwing)
 |------|-----|-----|------
 |    0 |   0 |   0 | Leave Completed Career Rank
 
@@ -71,7 +71,7 @@
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    | 10 |    | 60 |
 |^T   | 55 |  5 | 10 |    | 70 |
-|^I   | 28 |    |  8 |    | 36 |
+|^I   | 28 |    | 12 |    | 40 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
@@ -86,11 +86,12 @@
 | R/R |  1 |  2
 | M   |  4 |  4
 | Cor | 12 |  6
+| JgF | 16 |  x
 
 ## Skills
 | C | Basic                 | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-| C | Athletics             | 10 | Ag  | 40 |
+|!C | Athletics             | 15 | Ag  | 45 |
 |   | Bribery               |    | Fel |    |
 |   | Charm                 |    | Fel |    |
 |   | Charm Animal          |    | WP  |    |
@@ -105,10 +106,10 @@
 |   | Haggle                |    | Fel |    |
 | C | Intimidate            |  5 | S   | 65 |
 |   | Intuition             |    | I   |    |
-| C | Leadership            |  5 | Fel | 33 |
+| C | Leadership            | 10 | Fel | 38 |
 |   | Navigation            |    | I   |    |
 | C | Outdoor Survival      |  5 | Int | 37 |
-| C | Perception            | 10 | I   | 46 |
+|!C | Perception            | 15 | I   | 55 |
 | C | Row                   |    | S   |    |
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
@@ -136,7 +137,7 @@
 |!C$| Melee (Basic)         | 15 | WS  | 71 |
 |!C | Melee (Flail)         | 15 | WS  | 71 |
 | C | Melee (Two-Handed)    |  5 | WS  | 61 |
-| C | Ranged (Throwing)     | 10 | BS  | 42 |
+|!C | Ranged (Throwing)     | 15 | BS  | 47 |
 
 ## Injuries
 
@@ -222,7 +223,7 @@
 - Tests: All to resist Mutation
 - May automatically pass first Test to resist Mutation each session, using TB as SL if important
 
-### Robust [1/TB]
+### Robust [2/TB]
 - Reduce all incoming damage by +1 per rank in talent, even if it can't normally be reduced
 
 ### Savvy [1/1]
@@ -352,29 +353,23 @@
 - True Grit
 
 ## Exp Planning
-### Rank 3->Exit: 615
-- Attributes: 140
-    - I                  |  8->12 | 140
-- Skills:  75
-    - Leadership         |  5->10 |  75
-- Talents: 400
+### Rank 3->Exit: 300
+- Attributes: 0
+- Skills:  0
+- Talents: 200
     - Battle Rage        |  1-> 2 | 200
-    - Robust             |  1-> 2 | 200
 - Exit Career Early: 100
 
-### Rank 3->4: 1685
-- Attributes: 860
+### Rank 3->4: 1470
+- Attributes: 920
     - WS                 | 10->15 | 200
     - S                  | 10->15 | 200
     - T                  | 10->15 | 200
-    - I                  |  8->15 | 260
-- Skills: 425
-    - Leadership         |  5->10 |  75
-    - R(Throwing)        |  5->15 | 175
-    - ?                  |  5->15 | 175
-- Talents: 400
+    - I                  | 12->15 | 120
+    - WP                 | 10->15 | 200
+- Skills: 0
+- Talents: 200
     - Battle Rage        |  1-> 2 | 200
-    - Robust             |  1-> 2 | 200
 
 ### Rank 4->Exit: 1470
 - Attr: - Attributes: 320
