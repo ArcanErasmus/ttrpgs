@@ -52,7 +52,6 @@ $25.50
 ### Trade Goods
 - 7sp value of hides (MYM)
 ### Magic Items
-- Crossbow bolt, with blue downy fletching, enchanted to instantly kill a single target (target unknown) (Rasa)
 ### Misc
 - (U) Bottle of silvery metallic liquid (Surya)
 
