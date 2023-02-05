@@ -52,7 +52,11 @@ $25.50
 ### Trade Goods
 - 7sp value of hides (MYM)
 ### Magic Items
+- Kukri with *Crushing Rune*
 ### Misc
-- (U) Bottle of silvery metallic liquid (Surya)
+- (U) Bottle of viscous silvery metallic liquid (Surya)
+- (U) Bottle of silvery metallic liquid (known to be beneficial) (?)
+- (U) Bottle of viscous green liquid (known to spawn mephit) (?)
+- (U) Bottle of green liquid (?)
 
 ## Items

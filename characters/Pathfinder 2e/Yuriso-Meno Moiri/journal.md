@@ -1,8 +1,23 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 11 - 2023-01-14
+### Session 11 - 2023-02-04
+- Group at Hallod's boss fight room
+    - We panic and make a mess of this
+    - Eventually we beat up Hallod, he surrenders with a smug grin
+    - Sinta and Rasa leave when YMM starts talking about ritual cannibalism
+- Sinta and Rasa with Sherrif Rolf
+    - Bumble through an explanation of most of Hallod's activities
+- Granz, Surya, and YMM arrive with Hallod
+    - Sherrif finds damning evidence on note Hallod was carrying
+    - I share evidence-memories with Sherrif, receive memory of lots of people in this town dead in the streets, people vomiting, distant woman proclaiming her innocence
+    - Sinta sneakily shares memory of the text on the note Hallod had (meaningless to me, except for the feeling of shock and disgust from Sinta), I share daydreaming about eating Hallod (comes with feeling of anger and anxiety)
+    - We get some upfront payment in the form of Hallod's possessions, are told there will be more soon
+- We debrief with the townsfolk
 
-### 2022-01-07, No Session
+### 2023-01-28, No Session
+### 2023-01-21, No Session
+### 2023-01-14, No Session
+### 2023-01-07, No Session
 ### 2022-12-31, No Session
 ### 2022-12-24, No Session
 

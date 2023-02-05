@@ -24,8 +24,8 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  28/28       |  +2/Rest
-| *Fortune*    |  [x] [ ] [ ] |  =1/Session
+| *HP*         |  17/28       |  +2/Rest
+| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
