@@ -51,7 +51,7 @@
 ╟─────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · ?                                                                                     ║
 ╠═════════════════════════════════════════════════════════════════════════════════════════╣
-║ Journal - Session 01 - 2023/02/01?future                                                ║
+║ Journal - Session 01 - 2023/02/21?future                                                ║
 ╟─────────────────────────────────────────────────────────────────────────────────────────╢
 ║ · 
 ║   · 
@@ -64,25 +64,11 @@
 
 *You spend every quiet moment filling your brain with knowledge – knowledge which is often fleeting.* At the start of each session, gain a knack of your choosing in any skill or domain, even if you don’t normally have access to the skill or domain. At the end of the session, you lose that knack. You can’t have the same knack two sessions in a row; you get bored, and must expand your mind in different ways.
 
-
--      New Heaven: -1
--        Amaranth: -2
--  Solar Basilica: -1
--  Silver Quarter: +0
--       Ivory Row: +2
--           Perch: +1
--     Middle city: -2
--     The Gardens: +2
--       The Works: +0
--   Pilgrims Walk: +1
--           Docks: +1
--         Red Row: +0
--      Derelictus: +2
-
+--
 
 Core personality quirks:
 - Chronic help vampire, owes money to just about everyone, can switch from cold intimidation to hangdog face & puppy eyes depending on target
-- Worryingly blase about having to murder someone (externally, internally fucking terrified of it and has not)
+- Worryingly blase about having to murder someone (externally; internally fucking terrified of it and has not)
 - 
 
 Prudence's Cell ("Face"):

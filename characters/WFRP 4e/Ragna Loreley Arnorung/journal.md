@@ -15,7 +15,7 @@
     - 1x Ghoul
     - 4x Emaciated Cannibal
     - 1x The Thing In The Pit
-    - 1x pink tzeentch-y demon
+    - 1x Very Pink Demon
     - 1x Lady Magritte
 
 - Trophies:

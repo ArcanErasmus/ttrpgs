@@ -4,75 +4,75 @@
 | Name                  | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
 | Bear-Pelt Coat        |      | xxxx | xxxx | xxxx |      |      |      |  1 | Fine
-| Boiled L. Breastplate |      |      |      | xxxx |      |      |      |  2 | Weakpoints
+| Plate Breastplate     |      |      |      | xxxx |      |      |      |  2 | Impenetrable, Weakpoints
 | Leather Leggings      |      |      |      |      | xxxx | xxxx |      |  1 |
 | Leather Skullcap      | xxxx |      |      |      |      |      |      |  1 | Partial
 | Mail Chausses         |      |      |      |      | xxxx | xxxx |      |  2 | Flexible
 | Mail Coat             |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
 | Mail Coif             | xxxx |      |      |      |      |      |      |  2 | Flexible, Partial
 | Plate Helm            | xxxx |      |      |      |      |      |      |  2 | Impenetrable, Weakpoints
-| Shield (Large)        |      |      |      |      |      |      | xxxx |  3 | Shield 3, Defensive, Undamaging
+| Shield (Large)        |      |      |      |      |      |      | xxxx |  3 | Defensive, Shield 3
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary               |    5 |    3 |    3 |    5 |    3 |    3 |    3 | +1 damage reduction from Robust
+| Summary               |    5 |    3 |    3 |    5 |    3 |    3 |    3 | +2 damage reduction from Robust
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
 |----------------|------------|---------|-------|-----------------
 | Dagger         | M Basic    | V Short | +SB+2 |
-| Grain Flail    | M Flail    | Average | +SB+3 | Distract, Imprecise, Wrap
-| Shield (Large) | M Basic    | V Short | +SB+3 | Shield 3, Defensive, Undamaging
+| Flail          | M Flail    | Average | +SB+5 | Distract, Wrap
+| Shield (Large) | M Basic    | V Short | +SB+3 | Defensive, Shield 3
 |----------------|------------|---------|-------|-----------------
 | Ranged Weapon  | Group      | Range   | Dam   | Qualities/Flaws
 |----------------|------------|---------|-------|-----------------
 | Javelin        | R Throwing | SBx3    | +SB+3 | Impale
 
 ### Trappings
-| Name                     | Enc | Wrn | Notes
-|--------------------------|-----|-----|--------------------------------
-| **Weapons**              |     |     |
-|--------------------------|-----|-----|--------------------------------
-| Dagger                   |     |     |
-| Grain Flail              |   1 |     |
-| Shield (Large)           |   3 |     |
-|--------------------------|-----|-----|--------------------------------
-| **Armor**                |     |     |
-|--------------------------|-----|-----|--------------------------------
-| Bear-Pelt Coat           |   1 |   W | [Leather Jack (Fine)]
-| Boiled Lthr Breastplate  |   2 |   W | Weakpoints
-| Leather Leggings         |   1 |   W |
-| Leather Skullcap         |     |   W | Partial
-| Mail Chausses            |   3 |   W | Flexible
-| Mail Coat                |   3 |   W | Flexible
-| Mail Coif                |   2 |   W | Flexible, Partial, -10 Perception
-| Plate Helm               |   2 |   W | Impenetrable, Weakpoints, -20 Perception
-|--------------------------|-----|-----|--------------------------------
-| **Clothing/Accessories** |     |     |
-|--------------------------|-----|-----|--------------------------------
-| Animal Hide Cloak        |   1 |   W |
-| Clothing                 |   1 |   W | Long sleeves and overalls
-| Gold Ring                |     |   W | 10 GC value
-| Kill Trophies            |   1 |   W | Large squid beak, minotaur head, shark full jaw + teeth, Gibberbeast horns & teeth
-| Signet Ring              |     |   W | Clan Arnorung
-| Tattoos                  |     |   W | Mix of: Skaeling, Arnorung Clan Crest, Taalrhyan, Imperial Skulls/Crosses
-|--------------------------|-----|-----|--------------------------------
-| **Tools/Kits**           |     |     |
-|--------------------------|-----|-----|--------------------------------
-| Knife                    |     |     |
-|--------------------------|-----|-----|--------------------------------
-| **Miscellaneous**        |     |     |
-|--------------------------|-----|-----|--------------------------------
-|--------------------------|-----|-----|--------------------------------
-| *Container: Pouch*       |     |   W | Carries: 1 Enc
-|--------------------------|-----|-----|--------------------------------
-| Torch                    |   1 |     |
-|--------------------------|-----|-----|--------------------------------
-| *Container: Sling Bag*   |   1 |   W | Carries: 2 Enc
-|--------------------------|-----|-----|--------------------------------
-| Javelin                  |   2 |     |
-|--------------------------|-----|-----|--------------------------------
-| **Coins**                |     |     | 0GC 19/08 
-|--------------------------|-----|-----|--------------------------------
-| **Total**                |     |  11 |
+| Name                        | Enc | Wrn | Notes
+|-----------------------------|-----|-----|--------------------------------
+| **Weapons**                 |     |     |
+|-----------------------------|-----|-----|--------------------------------
+| Dagger                      |     |     |
+| Flail                       |   1 |     |
+| Sharpened Shield (Large)    |   3 |     | Defensive, Shield 3
+|-----------------------------|-----|-----|--------------------------------
+| **Armor**                   |     |     |
+|-----------------------------|-----|-----|--------------------------------
+| Bear-Pelt Coat              |   1 |   W | [Leather Jack (Fine)]
+| Plate Breastplate           |   3 |   W | Impenetrable, Weakpoints
+| Leather Leggings            |   1 |   W |
+| Leather Skullcap            |     |   W | Partial
+| Mail Chausses               |   3 |   W | Flexible
+| Mail Coat                   |   3 |   W | Flexible
+| Mail Coif                   |   2 |   W | Flexible, Partial, -10 Perception
+| Plate Helm                  |   2 |   W | Impenetrable, Weakpoints, -20 Perception
+|-----------------------------|-----|-----|--------------------------------
+| **Clothing/Accessories**    |     |     |
+|-----------------------------|-----|-----|--------------------------------
+| Animal Hide Cloak           |   1 |   W |
+| Clothing                    |   1 |   W | Long sleeves and overalls
+| Gold Ring                   |     |   W | 10 GC value
+| Kill Trophies               |   1 |   W | Large squid beak, minotaur head, shark full jaw + teeth, Gibberbeast horns & teeth
+| Signet Ring                 |     |   W | Clan Arnorung
+| Best Quality Body Tattoos   |     |   W | (Fine 2, Practical) Mix of: Skaeling, Arnorung Clan Crest, Taalrhyan, Imperial Skulls/Crosses
+|-----------------------------|-----|-----|--------------------------------
+| **Tools/Kits**              |     |     |
+|-----------------------------|-----|-----|--------------------------------
+| Knife                       |     |     |
+|-----------------------------|-----|-----|--------------------------------
+| **Miscellaneous**           |     |     |
+|-----------------------------|-----|-----|--------------------------------
+|-----------------------------|-----|-----|--------------------------------
+| *Container: Pouch*          |     |   W | Carries: 1 Enc
+|-----------------------------|-----|-----|--------------------------------
+| Torch                       |   1 |     |
+|-----------------------------|-----|-----|--------------------------------
+| *Container: Sling Bag*      |   1 |   W | Carries: 2 Enc
+|-----------------------------|-----|-----|--------------------------------
+| Javelin                     |   2 |     |
+|-----------------------------|-----|-----|--------------------------------
+| **Coins**                   |     |     | 0GC 09/00 
+|-----------------------------|-----|-----|--------------------------------
+| **Total**                   |     |  12 |
 
 ### Encumbrance (SB+TB)
 | Load      | Enc | Penalties
@@ -96,12 +96,13 @@
 - Backpack for Ragna's Stuff
     - Crowbar
     - Bedroll
-    - Clothing (Fine x2)
-    - Hat (Fine x3)
+    - Best Quality Clothing (Fine 2)
+    - Best Quality Hat (Fine 3)
+    - Best Quality Shoes (Fine 2)
     - Throwing Axe
 
 ## Inventory of The Svettbukk
-- 714 GC
+- 691 GC
 
 - Trade Tools (Navigator)
 - Meat Smoker (Trade Tools for preserving game)
