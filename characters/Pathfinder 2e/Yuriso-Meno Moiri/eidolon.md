@@ -22,11 +22,11 @@
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
-| *Unarmored AC*  | 18  | +    | +2+2 | +2 Dex  | +2   |  -
+| *Unarmored AC*  | 19  | +    | +3+2 | +2 Dex  | +2   |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Fortitude*     | +9  | ++   | +2+4 | +3 Con  | -    |  -
-| *Reflex*        | +6  | +    | +2+2 | +2 Dex  | -    |  -
-| *Will*          | +6  | ++   | +2+4 | -- Wis  | -    |  -
+| *Fortitude*     | +10 | ++   | +3+4 | +3 Con  | -    |  -
+| *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
+| *Will*          | +7  | ++   | +3+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Cold*          |  1  |                              |  -
 Situational & Temporary Effects:
@@ -35,18 +35,18 @@ Situational & Temporary Effects:
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
-| *Perception*    | +4  | +    | +2+2 | -- Wis  | -    | -
-| *Dex Attack*    | +7  | +    | +2+2 | +2 Dex  | +1   | -
-| *Str Attack*    | +9  | +    | +2+2 | +4 Str  | +1   | -
+| *Perception*    | +7  | ++   | +3+4 | -- Wis  | -    | -
+| *Dex Attack*    | +8  | +    | +3+2 | +2 Dex  | +1   | -
+| *Str Attack*    | +10 | +    | +3+2 | +4 Str  | +1   | -
 Situational & Temporary Effects:
 - [ ] 
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
 |-----------------|-------------|------|-----------|--------|
-| *Claw*          | +9          | +    | 1d8+4 S   | Trip
-| *Tail*          | +9          | +    | 1d6+4 B   | Agile, Finesse
-| *Breath*        | 18 B Ref    | -    | 1d6 Sonic | 30-ft cone, 1d4 rd CD
+| *Claw*          | +10         | +    | 1d8+4 S   | Trip
+| *Tail*          | +10         | +    | 1d6+4 B   | Agile, Finesse
+| *Breath*        | 19 B Ref    | -    | 2d6 Sonic | 30-ft cone, 1d4 rd CD
 Situational & Temporary Effects:
 - [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
 
@@ -54,22 +54,22 @@ Situational & Temporary Effects:
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
 | *Acrobatics*    | +2  |      | +0   | +2 Dex  | -    | -
-| *Arcana*        | +4  | +    | +2+2 | -- Int  | -    | -
-| *Athletics*     | +8  | +    | +2+2 | +4 Str  | -    | -
+| *Arcana*        | +5  | +    | +3+2 | -- Int  | -    | -
+| *Athletics*     | +9  | +    | +3+2 | +4 Str  | -    | -
 | *Crafting*      | +0  |      | +0   | -- Int  | -    | -
 | *Deception*     | +0  |      | +0   | -- Cha  | -    | -
 | *Diplomacy*     | +0  |      | +0   | -- Cha  | -    | -
-| *Intimidation*  | +4  | +    | +2+2 | -- Cha  | -    | -
-| *L: Jungle*     | +4  | +    | +2+2 | -- Int  | -    | -
+| *Intimidation*  | +8  | ++   | +3+4 | -- Cha  | +1   | -
+| *L: Jungle*     | +5  | +    | +3+2 | -- Int  | -    | -
 | *Medicine*      | +0  |      | +0   | -- Wis  | -    | -
-| *Nature*        | +4  | +    | +2+2 | -- Wis  | -    | -
-| *Occultism*     | +4  | +    | +2+2 | -- Int  | -    | -
-| *Performance*   | +4  | +    | +2+2 | -- Cha  | -    | -
+| *Nature*        | +5  | +    | +3+2 | -- Wis  | -    | -
+| *Occultism*     | +5  | +    | +3+2 | -- Int  | -    | -
+| *Performance*   | +5  | +    | +3+2 | -- Cha  | -    | -
 | *Religion*      | +0  |      | +0   | -- Wis  | -    | -
 | *Society*       | +0  |      | +0   | -- Int  | -    | -
-| *Stealth*       | +6  | +    | +2+2 | +2 Dex  | -    | -
-| *Survival*      | +4  | +    | +2+2 | -- Wis  | -    | -
-| *Thievery*      | +6  | +    | +2+2 | +2 Dex  | -    | -
+| *Stealth*       | +7  | +    | +3+2 | +2 Dex  | -    | -
+| *Survival*      | +5  | +    | +3+2 | -- Wis  | -    | -
+| *Thievery*      | +7  | +    | +3+2 | +2 Dex  | -    | -
 |-----------------|-----|------|------|---------|------|------|
 
 ## Abilities
@@ -81,7 +81,9 @@ Situational & Temporary Effects:
 #### Breath Weapon
 `[Arcane]` `[Eidolon]` `[Evocation]` `[Sonic]` `[>>]`
 - Breath weapon: 30-ft cone, Basic Reflex save vs Spell DC, cooldown 1d4 rds
-- Damage 1d6 Sonic, +1d6 at every further odd lvl
+- Damage 3d6 Sonic, +1d6 at every further odd lvl
+- (This ability has been auto-heightened from Level 1 (+2))
+
 
 #### Energy Heart (1st)
 `[Evolution]` `[Summoner]`

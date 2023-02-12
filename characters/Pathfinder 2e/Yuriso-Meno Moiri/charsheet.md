@@ -2,7 +2,7 @@
 ## Bio
 - Ancestry: Kobold (half-kobold/half-human in appearance)
 - Background: Nomad (Jungle)
-- Class: Summoner 2
+- Class: Summoner 3
 - 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
@@ -24,48 +24,48 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  17/28       |  +2/Rest
-| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
+| *HP*         |  39/39       |  +2/Rest
+| *Fortune*    |  [X] [ ] [ ] |  =1/Session
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
-| *Unarmored AC*  | 16  | +    | +2+2 | +2 Dex  | -    |  -
-| *Mage Armor*    | 17  | +    | +2+2 | +2 Dex  | +1   |  -
+| *Unarmored AC*  | 17  | +    | +3+2 | +2 Dex  | -    |  -
+| *Mage Armor*    | 18  | +    | +3+2 | +2 Dex  | +1   |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Fortitude*     | +7  | ++   | +2+4 | +1 Con  | -    |  -
-| *Reflex*        | +6  | +    | +2+2 | +2 Dex  | -    |  -
-| *Will*          | +8  | ++   | +2+4 | +2 Wis  | -    |  -
+| *Fortitude*     | +8  | ++   | +3+4 | +1 Con  | -    |  -
+| *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
+| *Will*          | +9  | ++   | +3+4 | +2 Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fire*          |  1  |                              |  -
 Situational & Temporary Effects:
-- [x] +1 Item AC with Mage Armor
+- [ ] +1 Item AC with Mage Armor
 
 ### Conditions
-- Wounded 1
+- Curse of Nightmares
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
-| *Class DC*      | 18  | +    | +2+2 | +4 Cha  | -    | -
-| *Arcane DC*     | 18  | +    | +2+2 | +4 Cha  | -    | -
-| *Occult DC*     | 18  | +    | +2+2 | +4 Cha  | -    | -
+| *Class DC*      | 19  | +    | +3+2 | +4 Cha  | -    | -
+| *Arcane DC*     | 19  | +    | +3+2 | +4 Cha  | -    | -
+| *Occult DC*     | 19  | +    | +3+2 | +4 Cha  | -    | -
 |-----------------|-----|------|------|---------|------|------|
-| *Perception*    | +6  | +    | +2+2 | +2 Wis  | -    | -
-| *Arcane Attack* | +8  | +    | +2+2 | +4 Cha  | -    | -
-| *Occult Attack* | +8  | +    | +2+2 | +4 Cha  | -    | -
-| *Dex Attack*    | +7  | +    | +2+2 | +2 Dex  | +1   | -
-| *Str Attack*    | +5  | +    | +2+2 | +0 Str  | +1   | -
+| *Perception*    | +9  | ++   | +3+4 | +2 Wis  | -    | -
+| *Arcane Attack* | +9  | +    | +3+2 | +4 Cha  | -    | -
+| *Occult Attack* | +9  | +    | +3+2 | +4 Cha  | -    | -
+| *Dex Attack*    | +8  | +    | +3+2 | +2 Dex  | +1   | -
+| *Str Attack*    | +6  | +    | +3+2 | +0 Str  | +1   | -
 Situational & Temporary Effects:
 - [ ] 
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
 |-----------------|-------------|------|-----------|--------|
-| *Javelin*       | +7          | +    | 1d6 P     | Thrown (30 ft)
-| *Poi*           | +7          | +    | 1d4 B     | Agile, Backswing, Finesse, Nonlethal
-| *Sickle*        | +7          | +    | 1d4 S     | Agile, Finesse, Trip
-| *Breath*        | 18 B Ref    | -    | 1d4 Fire  | 30-ft line, 1d4 rd CD
+| *Javelin*       | +8          | +    | 1d6 P     | Thrown (30 ft)
+| *Poi*           | +8          | +    | 1d4 B     | Agile, Backswing, Finesse, Nonlethal
+| *Sickle*        | +8          | +    | 1d4 S     | Agile, Finesse, Trip
+| *Breath*        | 19 B Ref    | -    | 1d4 Fire  | 30-ft line, 1d4 rd CD
 Situational & Temporary Effects:
 - [ ] 
 
@@ -73,23 +73,37 @@ Situational & Temporary Effects:
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
 | *Acrobatics*    | +2  |      | +0   | +2 Dex  | -    | -
-| *Arcana*        | +4  | +    | +2+2 | +0 Int  | -    | -
-| *Athletics*     | +4  | +    | +2+2 | +0 Str  | -    | -
+| *Arcana*        | +5  | +    | +3+2 | +0 Int  | -    | -
+| *Athletics*     | +5  | +    | +3+2 | +0 Str  | -    | -
 | *Crafting*      | +0  |      | +0   | +0 Int  | -    | -
 | *Deception*     | +4  |      | +0   | +4 Cha  | -    | -
 | *Diplomacy*     | +4  |      | +0   | +4 Cha  | -    | -
-| *Intimidation*  | +8  | +    | +2+2 | +4 Cha  | -    | -
-| *L: Jungle*     | +4  | +    | +2+2 | +0 Int  | -    | -
+| *Intimidation*  | +12 | ++   | +3+4 | +4 Cha  | +1   | -
+| *L: Desert*     | +5  | +    | +3+2 | +0 Int  | -    | -
 | *Medicine*      | +2  |      | +0   | +2 Wis  | -    | -
-| *Nature*        | +6  | +    | +2+2 | +2 Wis  | -    | -
-| *Occultism*     | +4  | +    | +2+2 | +0 Int  | -    | -
-| *Performance*   | +8  | +    | +2+2 | +4 Cha  | -    | -
+| *Nature*        | +7  | +    | +3+2 | +2 Wis  | -    | -
+| *Occultism*     | +5  | +    | +3+2 | +0 Int  | -    | -
+| *Performance*   | +9  | +    | +3+2 | +4 Cha  | -    | -
 | *Religion*      | +2  |      | +0   | +2 Wis  | -    | -
 | *Society*       | +0  |      | +0   | +0 Int  | -    | -
-| *Stealth*       | +6  | +    | +2+2 | +2 Dex  | -    | -
-| *Survival*      | +6  | +    | +2+2 | +2 Wis  | -    | -
-| *Thievery*      | +6  | +    | +2+2 | +2 Dex  | -    | -
+| *Stealth*       | +7  | +    | +3+2 | +2 Dex  | -    | -
+| *Survival*      | +7  | +    | +3+2 | +2 Wis  | -    | -
+| *Thievery*      | +7  | +    | +3+2 | +2 Dex  | -    | -
 |-----------------|-----|------|------|---------|------|------|
+
+### Automatic Bonus Progression
+#### Attack Potency +1
+- Starting at 2nd level, you gain a +1 potency bonus to attack rolls with all weapons and unarmed attacks. This increases to +2 at 10th level, and +3 at 16th level
+
+#### Skill Potency
+- Lvl 3, choose skill, gain +1 potency bonus
+- Lvl 6, choose new skill for +1
+- Lvl 9, upgrade skill to +2
+- Lvl 13, upgrade +1 skill to +2, then choose new skill for +1
+- Lvl 15, upgrade +1 skill to +2, then choose new skill for +1
+- Lvl 17, upgrade +2 skill to +3, then choose new skill for +1
+- Lvl 17, upgrade +2 skill to +3, then upgrade +1 skill to +2, then choose new skill for +1
+- You can spend 1 week to retrain one of these assignments at any time
 
 ### Skill & General Feats
 #### Assurance (Survival) (1st)
@@ -115,6 +129,11 @@ Situational & Temporary Effects:
 - Spend 1 min concentrating to get a vision of the face of the person who imbued item with such emotion
 - If associated emotion is painfully negative, may take 1d6 psychic dmg at GM discretion
 
+#### Intimidating Glare (3rd)
+`[General]` `[Skill]`
+- Can Demoralize with `[Visual]` instead of `[Auditory]`
+- When you do, no penalty for not sharing a language
+
 ## Ancestry & Background
 ### Ancestry - Kobold
 `[Uncommon]` `[Humanoid]`
@@ -131,7 +150,8 @@ Situational & Temporary Effects:
 #### Kobold Breath (1st)
 `[Arcane]` `[Evocation]` `[Fire]` `[Kobold]` `[>>]`
 - Breath weapon: 30-ft line, Basic Reflex save vs higher of Class or Spell DC, cooldown 1d4 rds
-- Damage 1d4 Fire, +1d4 at every further odd lvl
+- Damage 2d4 Fire, +1d4 at every further odd lvl
+- (This ability has been auto-heightened from Level 1 (+2))
 
 ### Background - Nomad (Jungle)
 - Con/Wis boost, free ability boost
@@ -230,6 +250,9 @@ Situational & Temporary Effects:
 - Link cantrips are link spells, but don't cost focus points
 - Separate from regular cantrips, can't swap them out if you gain more from feats
 - Gain *Boost Eidolon* link cantrip
+
+### Unlimited Signature Spells
+- All spells are signature spells, can heighten
 
 ### Class & Archetype Feats
 #### Energy Heart (1st)

@@ -1,5 +1,29 @@
 # Yuriso-Meno's Journal
 ## Event Log
+### Session 13?future - 2023-02-18
+- 
+
+### Session 12 - 2023-02-11
+- Return to Hallod's cave after a rest
+    - Search the large cave room
+        - Discover the cave was an old sanctum, reactivate it
+        - Sinta & Surya get into argument over moon vs sun religious stuff?
+    - Search the snake pool area
+        - Corpse of orc man, concentrate on to see face
+    - Search living quarters
+        - Trapped strongbox with goodies
+        - `NOTE: ALWAYS CHECK FOR TRAPS`
+    - Surya and Granz (those bastards!) release and tame the dogs
+- Return to town
+    - Sinta goes to ask Hallod some questions, Rasa and I come with
+        - He didn't answer whatever she asked (secretly, she kills him and doesn't tell us)
+    - Surya and Granz explain the sanctum to the sherrif
+        - They hand over dogs
+- We meet back up and head to the "drop point"
+    - Some lady in a cloak stops us
+        - She has a cart with burned wolf corpses, asks if "this was our doing"
+        - Pile includes the weird alchemical wolf
+
 ### Session 11 - 2023-02-04
 - Group at Hallod's boss fight room
     - We panic and make a mess of this
@@ -12,7 +36,8 @@
     - I share evidence-memories with Sherrif, receive memory of lots of people in this town dead in the streets, people vomiting, distant woman proclaiming her innocence
     - Sinta sneakily shares memory of the text on the note Hallod had (meaningless to me, except for the feeling of shock and disgust from Sinta), I share daydreaming about eating Hallod (comes with feeling of anger and anxiety)
     - We get some upfront payment in the form of Hallod's possessions, are told there will be more soon
-- We debrief with the townsfolk
+- We debrief with the townsfolk, then hit the hay
+- *Level up to 3*
 
 ### 2023-01-28, No Session
 ### 2023-01-21, No Session
@@ -138,6 +163,7 @@
     - One of the carts got completely blasted by acid from the tanishwolf, other (NPC) riders died
     - A forest fire was started (likely the tanishwolf?), destroyed the cart
 - We continue on after 
+- *Level up to 2*
 
 ### Session 4 (Playing Iona Tsopanakis) - 2022-10-22
 - Get lockpicker to open lockbox
@@ -190,12 +216,11 @@ talia: the "inquisitor" (totally) (Sinta)
 - Worldbuilding #1
 
 ## Backstory
-- From a small fishing village in the Age of Magic
-    - Village was visited by a frenzied mystic named Ao Shetep, performed rituals to "protect our souls"
+- From a small desert hunting-gathering clan in the Age of Magic
+    - Clan was visited by a frenzied mystic named Ao Shetep, performed rituals to "protect our souls" in a sanctum
     - Soul-uploaded into some sort of warded charm by the ritual
     - Charm survived, eventually was recovered in the modern day by a plucky adventuring wizard
-    - Wizard tried to make a familiar, oops ressurrection was attempted, killed wizard and made giant-spider-familiar into person
-    - It me! I can still turn into spider form
+    - Wizard tried to make a familiar, used my charm in the attempt, but the process was overtaken by the charm's ancient magics, and instead consumed the charm and re-embodied me. The confused wizard let me go in order to not raise ethical concerns and retried their familiar binding later
 
 ## Party Bios
 - Jay
