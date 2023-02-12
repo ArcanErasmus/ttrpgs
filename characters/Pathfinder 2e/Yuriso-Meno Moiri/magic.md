@@ -4,35 +4,45 @@
 | **Spells** |  Value       | Notes
 |------------|--------------|-----------
 | *Focus*    |  [x]         | +1/Refocus
-|  1st       |  [x] [ ]     |
+|  1st       |  [x] [x]     |
+|  2st       |  [x]         |
 
 ### Quick List
 Summoner - Arcane
-- `[>>]` Electric Arc (C) - 30ft, 2 target, 1d4 electricity
-- `[>>]` Bullhorn (C) - 10 min, carry voice min 500 ft, +1 Perform at large venue
-- `[>>]` Gale Blast (C) - 5-ft emanation, CAM dmg, can knockback
-- `[>]` Protect Companion (C) - +1 AC to eidolon; block 5 dmg & force 10 min CD
-- `[>>]` Prestidigitation (C) - 10 min, cook/lift/make/tidy
-- `10 mins` Alarm (S1) - 20 ft burst, 8 hrs, mental or audible alarm w/o password
-- `[>>]` Floating Disk (S1) - 8rs, 2ft disk carries 5 Blk, can't be ridden
-- `[>>]` Mage Armor (S1) - Until re-prep, +1 item to AC
+- Cantrip
+    - `[>>]` Electric Arc - 30ft, 2 target, 2d4 electricity
+    - `[>>]` Bullhorn - 10 min, carry voice min 500 ft, +1 Perform at large venue
+    - `[>>]` Gouging Claw - Melee, 2d6 slash/pierce, crit 2d4 persistent bleed
+    - `[>]` Protect Companion - +1 AC to eidolon; block 5 dmg & force 10 min CD
+    - `[>>]` Prestidigitation - 10 min, cook/lift/make/tidy
+- Lvl 1
+    - `[>>]` Burning Hands - 15ft cone, 2d6 fire, basic Reflex
+    - `[>>]` Mage Armor - Until re-prep, +1 item to AC
+    - `[>>]` Shattering Gem - Touch, 1 min, gem intercepts Strikes & explodes
+- Lvl 2
+    - `[> - >>>]` Scorching Ray - 60ft, 1 target/action, 2d6 per for 1 action, 4d6 for 2-3
+
 Bard - Occult
-- `[>]` Join Pasts (C) - 1 rd, share memories, can Aid RecKnow w/ any Lore
-- `[>]` Message (C) - 120 ft, talk silently to target, can briefly respond
+- Cantrip
+    - `[>]` Join Pasts - 1 rd, share memories, can Aid RecKnow w/ any Lore
+    - `[>]` Message - 120 ft, talk silently to target, can briefly respond
 Link Spells - Focus
-- `[>]` Boost Eidolon (FC) - 100 ft, 1 rd, +2 status to eidolon's unarmed dmg/die
-- `[>>]` Evolution Surge (F1) - 100 ft, 1 min, eidolon adds limited sense/ability
+- Cantrip
+    - `[>]` Boost Eidolon - 100 ft, 1 rd, +2 status to eidolon's unarmed dmg/die
+- Lvl 1
+    - `[>>]` Evolution Surge - 100 ft, 1 min, eidolon adds limited sense/ability
 
 ## Summoner (Arcane)
 ### Cantrips
 #### Electric Arc
-`[Cantrip]` `[Evocation]` `[>>]`
+`[Cantrip]` `[Electricity]` `[Evocation]` `[>>]`
 - *Cast*: Somatic, Verbal
 - *Range*: 30 ft
 - *Targets*: 1 or 2 creatures
 - *Saving Throw*: Basic Reflex
-An arc of lightning leaps from one target to another. You deal electricity damage equal to 1d4 plus your spellcasting ability modifier.
+An arc of lightning leaps from one target to another. You deal electricity damage equal to 2d4 plus your spellcasting ability modifier.
 - *Heightened (+1)*: The damage increases by 1d4.
+- (This spell has been auto-heightened from Spell Level 1 (+1))
 
 #### Bullhorn
 `[Cantrip]` `[Illusion]` `[>>]`
@@ -46,17 +56,14 @@ You can Dismiss the spell.
 - *Heightened (5th)*: Your voice can be heard clearly up to 1,200 feet away.
 - *Heightened (7th)*: Your voice can be heard clearly up to 1 mile away.
 
-#### Gale Blast
-`[Cantrip]` `[Evocation]` `[>>]`
+#### Gouging Claw
+`[Attack]` `[Cantrip]` `[Morph]` `[Transmutation]` `[>>]`
 - *Cast*: Somatic, Verbal
-- *Saving Throw*: Fortitude
-Wind flows from your outstretched hands and whirls around you in a 5-foot emanation. Each creature in the area takes bludgeoning damage equal to your spellcasting ability modifier (+4), with a Fortitude save.
-
-Critical Success: The creature is unaffected.
-Success: The creature takes half damage.
-Failure: The creature takes full damage and is pushed 5 feet away from you.
-Critical Failure: The creature takes double damage and is pushed 10 feet away from you.
-- *Heightened (+2)*: The damage increases by 1d6.
+- *Range*: Touch
+- *Targets*: 1 creature
+You temporarily morph your limb into a clawed appendage. Make a melee spell attack roll against your target's AC. If you hit, you deal your choice of slashing or piercing damage equal to 2d6 plus your spellcasting ability modifier. On a critical success, you deal double damage plus 2d4 persistent bleed damage.
+- *Heightened (+1)* The damage increases by 1d6 and the persistent bleed damage on a critical increases by 1d4.
+- (This spell has been auto-heightened from Spell Level 1 (+1))
 
 #### Protect Companion
 `[Abjuration]` `[Cantrip]` `[>]`
@@ -84,23 +91,13 @@ Make: Create a temporary object of negligible Bulk, made of congealed magical su
 Tidy: Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
 
 ### Level 1
-#### Alarm
-`[Abjuration]`
-- *Cast*: 10 mins (material, somatic, verbal)
-- *Requirements*: 3gp silver bell focus
-- *Range*: Touch
-- *Area*: 20-ft burst
-- *Duration*: 8 hrs
-You ward an area to alert you when creatures enter without your permission. When you cast alarm, select a password. Whenever a Small or larger corporeal creature enters the spell's area without speaking the password, alarm sends your choice of a mental alert (in which case the spell gains the mental trait) or an audible alarm with the sound and volume of a hand bell (in which case the spell gains the auditory trait). Either option automatically awakens you, and the bell allows each creature in the area to attempt a DC 15 Perception check to wake up. A creature aware of the alarm must succeed at a Stealth check against the spell's DC or trigger the spell when moving into the area.
-- *Heightened (3rd)*: You can specify criteria for which creatures sound the alarm spell - for instance, orcs or masked people.
-
-#### Floating Disk
-`[Conjuration]` `[Force]` `[>>]`
+#### Burning Hands
+`[Evocation]` `[Fire]` `[>>]`
 - *Cast*: Somatic, verbal
-- *Duration*: 8 hours
-A disk of magical force materializes adjacent to you. This disk is 2 feet in diameter and follows 5 feet behind you, floating just above the ground. It holds up to 5 Bulk of objects (though they must be able to fit and balance on its surface). Any objects atop the disk fall to the ground when the spell ends.
-
-The spell ends if a creature tries to ride atop the disk, if the disk is overloaded, if anyone tries to lift or force the disk higher above the ground, or if you move more than 30 feet away from the disk.
+- *Area*: 15-ft cone
+- *Saving Throw*: Basic Reflex
+Gouts of flame rush from your hands. You deal 2d6 fire damage to creatures in the area.
+- *Heightened (+1)*: The damage increases by 2d6.
 
 #### Mage Armor
 `[Abjuration]` `[>>]`
@@ -112,16 +109,36 @@ You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC 
 - *Heightened (8th)*: The item bonus to AC increases to +2, and you gain a +2 item bonus to saving throws.
 - *Heightened (10th)*: The item bonus to AC increases to +3, and you gain a +3 item bonus to saving throws.
 
+#### Shattering Gem
+`[Abjuration]` `[Earth]` `[>>]`
+- *Cast*: Somatic, verbal
+- *Range*: Touch
+- *Targets*: 1 creature
+- *Duration*: 1 minute
+A large gem floats around the target in an erratic pattern. The gem has 5 Hit Points. Each time a creature Strikes the target, the target attempts a DC 11 flat check. On a success, the gem blocks the attack, so the attack first damages the gem and then applies any remaining damage to the target. If the gem is reduced to 0 Hit Points, it shatters, immediately dealing the creature that destroyed it 1d8 slashing damage (basic Reflex save), as long as that creature is within 10 feet of the target.
+- *Heightened (+1)* The gem has 5 additional HP, and the damage dealt by its detonation increases by 1d8.
+
+### Level 2
+#### Scorching Ray
+`[Attack]` `[Evocation]` `[Fire]` `[> - >>>]`
+- *Cast*: Somatic, verbal
+- *Range*: 60ft
+You fire a ray of heat and flame. Make a spell attack roll against a single creature. On a hit, the target takes 2d6 fire damage, and on a critical hit, the target takes double damage.
+
+For each additional action you use when Casting the Spell, you can fire an additional ray at a different target, to a maximum of three rays targeting three different targets for 3 actions. These attacks each increase your multiple attack penalty, but you don't increase your multiple attack penalty until after you make all the spell attack rolls for scorching ray. If you spend 2 or more actions Casting the Spell, the damage increases to 4d6 fire damage on a hit, and it still deals double damage on a critical hit.
+- *Heightened (+1)* The damage to each target increases by 1d6 for the 1-action version, or by 2d6 for the 2-action and 3-action versions.
+
 ## Bard Archetype (Occult)
 ### Cantrips
 #### Join Pasts
 `[Uncommon]` `[Cantrip]` `[Divination]` `[Mental]` `[>]`
 - *Cast*: Somatic
 - *Range*: Touch
-- *Targets*: 2 willing creatures, or 1 and yourself
+- *Targets*: 3 willing creatures, or 2 and yourself
 - *Duration*: 1 round
 With touches to the targets’ foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to Recall Knowledge, the other can Aid the first target’s skill check, using any Lore skill (even if that Lore wouldn’t normally apply) without having made any preparations to Aid.
 - *Heightened (+1)*: You can touch one additional target to include them in the spell’s effects. Multiple targets can attempt checks to Aid the target who is attempting to Recall Knowledge.
+- (This spell has been auto-heightened from Spell Level 1 (+1))
 
 #### Message
 `[Auditory]` `[Cantrip]` `[Illusion]` `[Linguistic]` `[Mental]` `[>]`
