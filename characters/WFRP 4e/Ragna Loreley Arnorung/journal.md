@@ -223,3 +223,13 @@ Research for how to acquire wards against magic. Consider charms, but especially
     - Common Holy Symbols: ?
     - Strictures
         #. ?
+
+## Custom Weapon - Spiked Chain
+- Name: ?
+- Base: Flail (Scarce)
+    - Added quality: Fast
+    - Added quality: Pummel
+    - Added quality: Practical
+    - Added quality: Durable 1
+    - Added quality: Fine 1
+- Price: 10/- x2 x2 x2 x2 x2 = 16 GC

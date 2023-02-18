@@ -113,8 +113,10 @@
     - Four 6-pointed metal keys (plus one with Peronelle), plus a five-pointed metal key
 
 ### Trade Goods
-<!-- - 30 units of Top-Shelf Brandy (10 enc/unit)
-    - Purchased at 8.4 GC/unit in Fielbach
-        - Includes 30% discount from 12 GC/unit
-    - Trade Rumor: 2x price & always buyer at Castle Wittgenstein
- -->
+- 28 units of Armaments (10 enc/unit)
+    - Purchased at 7.2 GC/unit in Kemperbad
+        - Includes 10% discount from 12 GC/unit (201.6 GC total)
+    - Trade Rumor: (2x price & always buyer) at Castle Reiksguard
+
+- Other Trade Rumor: (2x price & always buyer) for Metal at Grünberg
+    - Prieze production rolled: Metal

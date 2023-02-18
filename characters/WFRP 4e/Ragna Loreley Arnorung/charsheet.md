@@ -8,19 +8,21 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: ?
-- Personal long-term ambition: Hunt down the bastard who maimed Sister Weir, Next: Free Peronelle from captivity
-- Party short-term ambition: ?
-- Party long-term ambition: ?
+- Personal short-term ambition: Buy a bigger boat
+- Personal long-term ambition: Commission a signature weapon
+    - Future option: Hunt down the bastard who maimed Sister Weir
+    - Future option: Free Peronelle from captivity
+- Party short-term ambition: Safely deliver the cargo to the destination
+- Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5225/5135
+## Total/Spent XP: 5255/5255
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
 |  275 |   0 |  10 | WS
 |  275 |   0 |  10 | S
 |  275 |   0 |  10 | T
-|  355 |   0 |  12 | I
+|  475 |   0 |  15 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
 |  300 |   0 |   2 | Ambidextrous
@@ -71,7 +73,7 @@
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    | 10 |    | 60 |
 |^T   | 55 |  5 | 10 |    | 70 |
-|^I   | 28 |    | 12 |    | 40 |
+|^I   | 28 |    | 15 |    | 43 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 20 |    |    |    | 20 |
 | Int | 27 |  5 |    |    | 32 |
@@ -109,7 +111,7 @@
 | C | Leadership            | 10 | Fel | 38 |
 |   | Navigation            |    | I   |    |
 | C | Outdoor Survival      |  5 | Int | 37 |
-|!C | Perception            | 15 | I   | 55 |
+|!C | Perception            | 15 | I   | 58 |
 | C | Row                   |    | S   |    |
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
@@ -360,7 +362,7 @@
     - Battle Rage        |  1-> 2 | 200
 - Exit Career Early: 100
 
-### Rank 3->4: 1470
+### Rank 3->4: 1120
 - Attributes: 920
     - WS                 | 10->15 | 200
     - S                  | 10->15 | 200
