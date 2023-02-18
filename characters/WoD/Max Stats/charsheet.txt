@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬────────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent     ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦              ├────────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦∙                        │  79/ 72            ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦∙                        │  82/ 72            ║
 ║ Affiliation - None             ║ LimitTrack │ ▓▓▓▓▓ ▓▓░░░                      ├────────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
 ║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦∙∙∙ ∙∙∙∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║

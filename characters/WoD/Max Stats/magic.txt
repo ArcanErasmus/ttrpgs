@@ -78,8 +78,10 @@
 ║ - While installed, can comprehend & speak language of spirits.                                   ║
 ║ - Must activate again to travel back to material world.                                          ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Sorcerous Path: Enchantment (♦♦∙∙∙ ∙) [p. 72]                                                    ║
-║ - Roll: Intelligence + [Occult] (diff 4 + lvl of Enchantment).                                   ║
+║ Sorcerous Path: Enchantment (♦♦∙∙∙) [p. 72]                                                      ║
+║ - Assigned Practice: Witch-Coding                                                                ║
+║ - Assigned Ability: Science                                                                      ║
+║ - Roll: Intelligence + Science (diff 4 + lvl of Enchantment).                                    ║
 ║ - Cost: 1 WP.                                                                                    ║
 ║ - Modifiers: -1 diff if 5+ successes on Crafting roll.                                           ║
 ║ - Time: 1-3 days per lvl of Enchantment, plus crafting time.                                     ║

@@ -30,7 +30,14 @@
 ╠════════════════════════════╧══════╧═════╧════════════════════════════════════════════════════════╣
 ║ Specific Items                                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ The Screamcatcher (♦♦♦♦∙)                                                                        ║
+║ The Tell-A-Reader, Artifact (♦♦∙∙∙) UNCRAFTED                                                    ║
+║ - A battery-powered reading light, that when shined on a book while reading it, provides the     ║
+║   reader [+2 dice/-2 diff?] to a task performed within [24hrs?] where the knowledge contained    ║
+║   within the book would be helpful. To get the bonus a second time, the relevant passage(s) in   ║
+║   the book must be reread. If the reader is someone who hears text in their head while reading,  ║
+║   their internal monologue subtly shifts in voice to be more similar to the author's.            ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ The Screamcatcher, Wonder (♦♦♦♦∙)                                                                ║
 ║ - Aesthetics:                                                                                    ║
 ║     - Copper wires arranged like a collection of dreamcatchers                                   ║
 ║     - Taps into latent energies ebbing through from other dimensions                             ║
@@ -43,7 +50,7 @@
 ║         - Is there any drawback for repeating the process in the same area in a short time span? ║
 ║     - Each thermos holds 12 Tass                                                                 ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Vesuvius (♦♦♦♦∙)                                                                                 ║
+║ Vesuvius, Wonder (♦♦♦♦∙)                                                                         ║
 ║ - Aesthetics:                                                                                    ║
 ║     - Boom mic pole as roman candle                                                              ║
 ║         - Tubes filled with quintessence running the length of it                                ║
