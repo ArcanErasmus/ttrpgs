@@ -19,18 +19,22 @@
 | *Wis* | 10 (--) |
 | *Cha* | 10 (--) |
 
+### Conditions and Temporary Effects
+- Curse of Nightmares
+- [ ] +1 Circumstance AC with Protect Companion
+- [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
+- +2 Status to AC until end of Surya's next turn
+
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
-| *Unarmored AC*  | 19  | +    | +3+2 | +2 Dex  | +2   |  -
+| *Natural AC*    | 19  | +    | +3+2 | +2 Dex  | +2   |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fortitude*     | +10 | ++   | +3+4 | +3 Con  | -    |  -
 | *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
 | *Will*          | +7  | ++   | +3+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Cold*          |  1  |                              |  -
-Situational & Temporary Effects:
-- [ ] +1 Circumstance AC with Protect Companion
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -38,17 +42,13 @@ Situational & Temporary Effects:
 | *Perception*    | +7  | ++   | +3+4 | -- Wis  | -    | -
 | *Dex Attack*    | +8  | +    | +3+2 | +2 Dex  | +1   | -
 | *Str Attack*    | +10 | +    | +3+2 | +4 Str  | +1   | -
-Situational & Temporary Effects:
-- [ ] 
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
 |-----------------|-------------|------|-----------|--------|
 | *Claw*          | +10         | +    | 1d8+4 S   | Trip
 | *Tail*          | +10         | +    | 1d6+4 B   | Agile, Finesse
-| *Breath*        | 19 B Ref    | -    | 2d6 Sonic | 30-ft cone, 1d4 rd CD
-Situational & Temporary Effects:
-- [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
+| *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic | 30-ft cone, 1d4 rd CD
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |

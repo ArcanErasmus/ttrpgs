@@ -4,8 +4,8 @@
 | **Spells** |  Value       | Notes
 |------------|--------------|-----------
 | *Focus*    |  [x]         | +1/Refocus
-|  1st       |  [x] [x]     |
-|  2st       |  [x]         |
+|  1st       |  [ ] [ ]     |
+|  2st       |  [ ]         |
 
 ### Quick List
 Summoner - Arcane

@@ -40,7 +40,7 @@ $25.80
 ### Consumables
 - 2x *Lesser Antidote* (Sinta)
 - 3x *Lesser Antiplague* (Sinta)
-- 1x *Minor Health Potion* (Surya)
+- 1x *Minor Health Potion* (Sinta)
 - 1x *Scroll of Summon Lesser Servitor* (Sinta)
 - 1x *Infiltrator's Elixir* (Rasa)
 - 1x *Lesser Juggernaut Mutagen* (?)
@@ -71,4 +71,13 @@ $25.80
 
 ## Specific Items
 - 2x *Drakeheart Mutagen*
-    - ?
+### Drakeheart Mutagen
+`[Alchemical]` `[Consumable]` `[Elixir]` `[Mutagen]` `[Polymorph]` `[>]`
+- *Usage*: Held in 1 hand
+- *Bulk*: L
+- *Activate*: Interact
+- Gain +4 item bonus to AC (Dex cap +2), and +1 item bonus to Perception
+- If wearing armor, still calc proficiency based on armor 
+- Take -1 to Will, Reflex, and Recall Knowledge
+- Gain the Final Surge action
+    - *Final Surge* `[>]`: Stride twice, then the duration ends.

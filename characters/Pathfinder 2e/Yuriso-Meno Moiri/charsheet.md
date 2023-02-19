@@ -24,25 +24,29 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  39/39       |  +2/Rest
-| *Fortune*    |  [X] [ ] [ ] |  =1/Session
+| *HP*         |   0/39       |  +2/Rest (not with Curse of Nightmares!)
+| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
+
+### Conditions and Temporary Effects
+- Curse of Nightmares
+- [ ] +1 Item AC with Mage Armor
+- [X] Drakeheart Mutagen, 1 min
+    - +4 Item AC, +1 Item Perception
+    - -1 Will, Reflex, Recall Knowledge
+    - *Final Surge* action
+- Wounded 3
+- Prone
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
 | *Unarmored AC*  | 17  | +    | +3+2 | +2 Dex  | -    |  -
-| *Mage Armor*    | 18  | +    | +3+2 | +2 Dex  | +1   |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fortitude*     | +8  | ++   | +3+4 | +1 Con  | -    |  -
 | *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
 | *Will*          | +9  | ++   | +3+4 | +2 Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fire*          |  1  |                              |  -
-Situational & Temporary Effects:
-- [ ] +1 Item AC with Mage Armor
-
-### Conditions
-- Curse of Nightmares
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -56,8 +60,6 @@ Situational & Temporary Effects:
 | *Occult Attack* | +9  | +    | +3+2 | +4 Cha  | -    | -
 | *Dex Attack*    | +8  | +    | +3+2 | +2 Dex  | +1   | -
 | *Str Attack*    | +6  | +    | +3+2 | +0 Str  | +1   | -
-Situational & Temporary Effects:
-- [ ] 
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
@@ -65,9 +67,7 @@ Situational & Temporary Effects:
 | *Javelin*       | +8          | +    | 1d6 P     | Thrown (30 ft)
 | *Poi*           | +8          | +    | 1d4 B     | Agile, Backswing, Finesse, Nonlethal
 | *Sickle*        | +8          | +    | 1d4 S     | Agile, Finesse, Trip
-| *Breath*        | 19 B Ref    | -    | 1d4 Fire  | 30-ft line, 1d4 rd CD
-Situational & Temporary Effects:
-- [ ] 
+| *Breath*     >> | 19 B Ref    | -    | 2d4 Fire  | 30-ft line, 1d4 rd CD
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |

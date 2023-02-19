@@ -1,7 +1,36 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 13?future - 2023-02-18
-- 
+### Session 14?future - 2023-02-25
+- Remember: THE FOREST IS ON FIRE, AGAIN
+
+### Session 13 - 2023-02-18
+- Talking to cloaked lady with the burned wolf corpses
+    - Wants to find the source of the altered animals, which aligns with our goals
+    - We offer that we believe Hallod's mysterious contact is involved
+- Continuing to the drop point, a specific tree stump
+    - Lady offers that an irregular blight has been occuring, always starts at a grove of old growth trees and spreads from there
+        - Likely means groundwater is contaminated, perhaps relates to a depth that roots reach
+        - Perhaps an underground lab that leaks chemicals
+- At the tree stump
+    - Rasa sneaks into the grove, finds something concealed within it, a box/trunk
+    - Box is empty except for a dried bit of "corpse blood" (an alchemical ingredient)
+    - Re-examining the text on the note that was in Hallod's possession, we conclude he was hired by this outside contact to murder Bort
+    - Emotional resonance on box: Infatuation, from Hallod
+    - Lady's name is Noala, informs us she knows where den of unnatural wolves is
+- Headed to the wolf den
+    - Discuss my past with Sinta and Surya, share memories of the ritual and of my family/home
+        - They conclude I might have been frozen in time
+            - Great! My entire family is probably dead! Haha EVERYTHING IS FINE
+            - "Maybe they also went forward in time" But they only did this for the children, and the others didn't have anything weird happen...
+    - Everytime Surya says something religion-y, Noala tries to hide a reaction
+    - Sinta lets slip her knowledge of occult ritual, very poorly tries to hide it
+        - My prodding about Rasa's teacher causes Sinta's lies to rapidly crumble
+        - Sinta's pitiful self-confidence falls apart entirely, Surya demands they "have a talk" later
+- Approach the den
+    - Plants get more sickly the closer we get, leaves then limbs then bark, eventually rot smell and leaking plant-pus
+        - We get ambushed by vine-bushes
+        - The fight is ROUGH, I teeter on the verge of death about a dozen times
+        - Oh no, oh no, ANOTHER FOREST FIRE STARTS
 
 ### Session 12 - 2023-02-11
 - Return to Hallod's cave after a rest
