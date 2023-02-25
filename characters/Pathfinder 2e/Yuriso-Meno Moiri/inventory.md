@@ -67,10 +67,10 @@ $25.80
 - 15ft rope
 - Opened trapped strongbox (YMM)
 - Map labeled with "hideout" and "drop point" (Sinta)
-- Receipt papers matching Bort's legers, adjusted with slightly higher prices (Sinta)
+- Receipt papers matching Bort's legers, with slightly raised prices (Sinta)
 
 ## Specific Items
-- 2x *Drakeheart Mutagen*
+- 1x *Drakeheart Mutagen*
 ### Drakeheart Mutagen
 `[Alchemical]` `[Consumable]` `[Elixir]` `[Mutagen]` `[Polymorph]` `[>]`
 - *Usage*: Held in 1 hand
