@@ -8,7 +8,7 @@
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
 - Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit-partner)
 
-`[Small]` `[Humanoid]` `[Anarchic]` `[Pragmatic]` `[Tolerant]`
+`[Small]` `[Humanoid]` `[Anarchic]` `[Tolerant]` `[Traditional]`
 
 ## Stats
 ### Ability Scores
@@ -261,7 +261,7 @@
 - One eidolon unarmed attack changes damage type to that chosen
 - Eidolon gains resistance to chosen type of half lvl (min 1)
 
-#### Bard Dedication (2nd)
+#### Bard Dedication (2nd) (FREE)
 `[Archetype]` `[Dedication]` `[Multiclass]`
 - *Muse*: Maestro
 - Can use Cast a Spell like a bard
@@ -273,3 +273,9 @@
     - Can use for muse's feats
     - Do not gain any other abilities from the muse
 - Can't take another dedication feat until taking 2+ other bard archetype feats
+
+#### Steed Form (2nd)
+`[Evolution]` `[Summoner]`
+- Eidolon rideable by smaller creatures
+- When I ride it, do not reduce my own action pool (unlike usual riding of sapient creatures)
+- Eidolon's move actions when mounted gain `[Tandem]`

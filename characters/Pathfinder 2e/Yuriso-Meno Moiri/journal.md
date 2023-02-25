@@ -1,7 +1,7 @@
 # Yuriso-Meno's Journal
 ## Event Log
 ### Session 14?future - 2023-02-25
-- Remember: THE FOREST IS ON FIRE, AGAIN
+- Remember: THE FOREST IS ON FIRE, YO
 
 ### Session 13 - 2023-02-18
 - Talking to cloaked lady with the burned wolf corpses
