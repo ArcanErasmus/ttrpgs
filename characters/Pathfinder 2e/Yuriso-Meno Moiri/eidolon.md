@@ -34,7 +34,7 @@
 | *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
 | *Will*          | +7  | ++   | +3+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Cold*          |  1  |                              |  -
+| *Fire*          |  1  |                              |  -
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -44,11 +44,11 @@
 | *Str Attack*    | +10 | +    | +3+2 | +4 Str  | +1   | -
 
 ### Attacks
-| **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
-|-----------------|-------------|------|-----------|--------|
-| *Claw*          | +10         | +    | 1d8+4 S   | Trip
-| *Tail*          | +10         | +    | 1d6+4 B   | Agile, Finesse
-| *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic | 30-ft cone, 1d4 rd CD
+| **Offense**     | Sum/DC&Save | TEML | Damage     | Traits |
+|-----------------|-------------|------|------------|--------|
+| *Claw*          | +10         | +    | 1d8+4 Fire | Trip
+| *Tail*          | +10         | +    | 1d6+4 B    | Agile, Finesse
+| *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic  | 30-ft cone, 1d4 rd CD
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
@@ -87,7 +87,7 @@
 
 #### Energy Heart (1st)
 `[Evolution]` `[Summoner]`
-- *Energy Damage Type*: Cold
+- *Energy Damage Type*: Fire
 - One eidolon unarmed attack changes damage type to that chosen
 - Eidolon gains resistance to chosen type of half lvl (min 1)
 

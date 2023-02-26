@@ -1,7 +1,43 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 14?future - 2023-02-25
+### Session 15?future - 2023-03-04
+
+### Session 14 - 2023-02-25
 - Remember: THE FOREST IS ON FIRE, YO
+    - Ok but it's not spreading that fast, and the trees are rotten, it's a swamp
+- Group splits away from the "wolf den"
+    - Granz & I go hunt for water contamination
+        - No suitable spring outside town
+        - Barn trough is okay (therefore river is ok?)
+        - Do a lot of treating of my wounds
+    - Rasa & Noala go warn homesteaders abt forest fire
+        - It's a long trip
+        - Homesteaders dead on arrival, have been for a while, likely plague
+    - Surya stays with Sinta
+        - Heals self up first, then Sinta (waking her)
+        - They have a *Talk*, Surya is mega sads
+        - Surya feels sympathy for Sakari (name comes out), but wants her to differentiate herself from Sinta to reduce anguish
+    - Groups 1 & 3 meet back up in town
+        - Surya steps out with haste, and heads for sheriff to fill him in
+        - Sakari explains some things, debate/discuss with Granz over mists, nature, and society
+        - Group 2 returns, shares info, Noala seems quite shaken
+        - We decide to go back to clear out the rest of the swamp
+- Return to the wolf den
+    - We deleted a large crab to save nature from evil carcinization
+- Continue to location first blight arrived
+    - Unnatural grabby yellow grass
+    - Weird chitinous gobliny creatures, Granz speaks with them (they are speaking Sylvan)
+        - They are anathema to our goals, they want pure destruction. Die die die!
+    - We enact scorched earth on the bushes (mobile or otherwise) in the area
+    - Regroup in front of the "thorny iris"/briarwall
+
+Group Ideology Reference
+ +/-  | ymm | sak | grn | ras | sur |
+ps/tr |  -  |  -  |  -  |  +  |  -  |
+lw/an |  -  |     |  -  |     |  +  |
+sl/sf |     |  +  |     |     |  +  |
+id/pc |     |     |  +  |  -  |     |
+to/in |  +  |  +  |     |  +  |     |
 
 ### Session 13 - 2023-02-18
 - Talking to cloaked lady with the burned wolf corpses

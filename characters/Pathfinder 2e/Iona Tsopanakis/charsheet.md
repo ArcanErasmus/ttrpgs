@@ -1,27 +1,27 @@
 # Iona Tsopanakis, she/her
 - Automaton, skeleton-flavored (Medium)
-- Investigator 1
+- Investigator 3
 {progressive} - traditional
        lawful - {anarchic}
       selfish - selfless
-   idealistic - pragmatic
+   idealistic - practical
    {tolerant} - intolerant
 
 - height, weight, created/reborn 9 years ago
 - Wiry humanoid shape of pinkish crystals and dull gray metal, with ivory bone underneath, more exposed at the extremities
 - Languages: 
-    - Common??, Necril, ?
+    - Celestial, Draconic, Necril, Omnarki Sign (Common), Gorst, Padder-Whistle, Shan'di, Low Song
 - Voracious study of history, and fascinated about how society shifts in these tumultuous times
 
 ## Stats
 |------|------|------
-| AC   | 14   | -
+| AC   | 18   | -
 | Init | +0   | -
 | Spd  | 25   | -
-| DC   | 17 [T| -
-| Per  | +6 [E| -
+| DC   | 19 [T| -
+| Per  | +8 [E| -
 |------|------|------
-| HP   | 16   | 16
+| HP   | 32   | 32
 | Hero |  1   |
 
 ## Ability Scores
@@ -37,33 +37,33 @@
 ## Saves
 | TEML | Save | Sta | Mod | Temp
 |------|------|-----|-----|------
-| +    | Fort | Con | +3  | -
-| ++   | Ref  | Dex | +6  | -
-| ++   | Will | Wis | +6  | -
+| +    | Fort | Con | +5  | -
+| ++   | Ref  | Dex | +8  | -
+| ++   | Will | Wis | +8  | -
 
 ## Skills
 | TEML | Skill              | Sta | Mod | Temp
 |------|--------------------|-----|-----|------
 |      | Acrobatics         | Dex | +1  | -
-| +    | Arcana             | Int | +7  | -
+| +    | Arcana             | Int | +9  | -
 |      | Athletics          | Str | +1  | -
-| +    | Crafting           | Int | +7  | -
-| +    | Deception          | Cha | +5  | -
-| +    | Diplomacy          | Cha | +5  | -
+| +    | Crafting           | Int | +9  | -
+| +    | Deception          | Cha | +7  | -
+| +    | Diplomacy          | Cha | +7  | -
 |      | Intimidation       | Cha | +2  | -
 |      | Lore               |     |     | -
-| +    |  Cryptography      | Int | +7  | -
-| +    |  Spirit            | Int | +7  | -
-| +    |  Undead            | Int | +7  | -
-| +    |  Underworld        | Int | +7  | -
-| +    |  Vampire           | Int | +7  | -
+| ++   |  Cryptography      | Int | +11 | -
+| +    |  Spirit            | Int | +9  | -
+| ++   |  Undead            | Int | +11 | -
+| +    |  Underworld        | Int | +9  | -
+| +    |  Vampire           | Int | +9  | -
 |      | Medicine           | Wis | +1  | -
 |      | Nature             | Wis | +1  | -
-| +    | Occultism          | Wis | +7  | -
+| +    | Occultism          | Wis | +9  | -
 |      | Performance        | Cha | +2  | -
 |      | Religion           | Wis | +1  | -
-| +    | Society            | Int | +7  | -
-| +    | Stealth            | Dex | +4  | -
+| +    | Society            | Int | +9  | -
+| +    | Stealth            | Dex | +6  | -
 |      | Survival           | Wis | +1  | -
 |      | Thievery           | Dex | +1  | -
 
@@ -90,6 +90,9 @@
 - ?
 
 ### Voice of the Night
+- ?
+
+### Thorough Search
 - ?
 
 ## Specials
@@ -130,4 +133,10 @@
 - ?
 
 ### Strategic Strike
+- ?
+
+### Skillful Lesson
+- ?
+
+### Keen Recollection
 - ?
