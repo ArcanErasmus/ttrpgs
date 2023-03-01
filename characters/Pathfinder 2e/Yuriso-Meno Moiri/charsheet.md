@@ -8,7 +8,7 @@
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
 - Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit-partner)
 
-`[Small]` `[Humanoid]` `[Anarchic]` `[Tolerant]` `[Traditional]`
+`[Small]` `[Humanoid]` `[Traditional]` `[Anarchic]` `[Tolerant]`
 
 ## Stats
 ### Ability Scores
@@ -24,18 +24,16 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |   0/39       |  +2/Rest (not with Curse of Nightmares!)
+| *HP*         |  39/39       |  +3/Rest (not with Curse of Nightmares!)
 | *Fortune*    |  [ ] [ ] [ ] |  =1/Session
 
 ### Conditions and Temporary Effects
 - Curse of Nightmares
 - [ ] +1 Item AC with Mage Armor
-- [X] Drakeheart Mutagen, 1 min
+- [ ] Drakeheart Mutagen, 1 min
     - +4 Item AC, +1 Item Perception
     - -1 Will, Reflex, Recall Knowledge
     - *Final Surge* action
-- Wounded 3
-- Prone
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |

@@ -35,15 +35,26 @@ $25.80
 ## Social Capital & Other Resources
 - none
 
+## My Consumables
+
 ## Party Loot Pile
 - Coins: $0.23.45.14
 ### Consumables
-- 2x *Lesser Antidote* (Sinta)
-- 3x *Lesser Antiplague* (Sinta)
-- 1x *Minor Health Potion* (Sinta)
-- 1x *Scroll of Summon Lesser Servitor* (Sinta)
-- 1x *Infiltrator's Elixir* (Rasa)
-- 1x *Lesser Juggernaut Mutagen* (?)
+- Me
+    - 1x *Minor Health Potion*
+- Granz
+    - 1x *Barkskin Potion*
+- Rasa
+    - 1x *Infiltrator's Elixir*
+- Sakari
+    - 1x *Minor Health Potion*
+    - 1x *Barkskin Potion*
+    - 2x *Lesser Antidote*
+    - 3x *Lesser Antiplague*
+    - 1x *Scroll of Summon Lesser Servitor*
+- Surya
+    - 1x *Minor Health Potion*
+    - 1x *Lesser Juggernaut Mutagen*
 ### Quest Items
 - Ephemera Malefica (Surya)
 - Sakari's Diary (Surya)
@@ -67,10 +78,10 @@ $25.80
 - 15ft rope
 - Opened trapped strongbox (YMM)
 - Map labeled with "hideout" and "drop point" (Sinta)
-- Receipt papers matching Bort's legers, adjusted with slightly higher prices (Sinta)
+- Receipt papers matching Bort's legers, with slightly raised prices (Sinta)
 
 ## Specific Items
-- 2x *Drakeheart Mutagen*
+- 1x *Drakeheart Mutagen*
 ### Drakeheart Mutagen
 `[Alchemical]` `[Consumable]` `[Elixir]` `[Mutagen]` `[Polymorph]` `[>]`
 - *Usage*: Held in 1 hand
