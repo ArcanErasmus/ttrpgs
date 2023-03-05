@@ -55,6 +55,17 @@ $25.80
 - Surya
     - 1x *Minor Health Potion*
     - 1x *Lesser Juggernaut Mutagen*
+- Unsorted
+    - 3x *Alchemist's Fire, Lesser*
+    - 3x *Acid Flask, Lesser*
+    - 3x ?
+    - 3x *Thunderstone, Lesser*
+    - 3x ?
+    - 3x ?
+    Guesses
+        -Blight Bomb
+        -Bottled Lightning
+        -Frost Vial
 ### Quest Items
 - Ephemera Malefica (Surya)
 - Sakari's Diary (Surya)

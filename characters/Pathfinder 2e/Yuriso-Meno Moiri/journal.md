@@ -1,6 +1,32 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 15?future - 2023-03-04
+### Session 16?future - 2023-03-11
+- Reminder: Identify remaining alchemical flasks
+- Reminder: Lockpicks broken
+- Async: Remaining actions in the lab
+    - firecat?
+    - final door?
+- Approaching the keep
+    - ?
+
+### Session 15 - 2023-03-04
+- Grouped up by the thorny iris
+    - Spiral of CCW-oriented branches that angle back and inwards
+    - Investigation reveals a single branch going the opposite way, pulling on it causes the iris to pull back into a doorway
+    - Inside, we see an open-air yard, pool of bubbling sludge, bunch of empty cages, another cave entrance near one of the pens, tunnel that leads deeper in
+- Hostiles in the entranceway!
+    - We move slowly, burning out chokepoints, and the enemies retreat rather than give fight
+    - Bantering through a barred door reveals they make these creatures to sell them, and they aren't careful with their waste
+    - After we realize they have snuck out a back entrance, we trash the lab and bail
+- Leaving the cave
+    - Following their tracks leads to a critically wounded Noala, medical treatment stabilizes but does not wake her
+    - Information in total: Exploding ice rats, stone horse, orcs and lizardfolk, and they made off with a bunch of their completed projects and valuable notes
+        - Also, they had enough explosives to be willing to dump 18 of them making traps
+    - We return Noala to the town
+    - Following the tracks of the group leads to a keep built into a valley, surrounded by a wooden palisade and guard tower
+- Set up for the next session (asynchronous events, jump back to before following tracks)
+    - Deal with the left-behind firecat
+    - Break through the final door and explore what's behind it
 
 ### Session 14 - 2023-02-25
 - Remember: THE FOREST IS ON FIRE, YO
