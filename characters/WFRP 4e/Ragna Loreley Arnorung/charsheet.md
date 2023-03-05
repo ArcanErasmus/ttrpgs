@@ -15,7 +15,7 @@
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5255/5255
+## Total/Spent XP: 5255/5295
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP
@@ -362,12 +362,11 @@
     - Battle Rage        |  1-> 2 | 200
 - Exit Career Early: 100
 
-### Rank 3->4: 1120
-- Attributes: 920
+### Rank 3->4: 1000
+- Attributes: 800
     - WS                 | 10->15 | 200
     - S                  | 10->15 | 200
     - T                  | 10->15 | 200
-    - I                  | 12->15 | 120
     - WP                 | 10->15 | 200
 - Skills: 0
 - Talents: 200

@@ -120,3 +120,8 @@
 
 - Other Trade Rumor: (2x price & always buyer) for Metal at Grünberg
     - Prieze production rolled: Metal
+
+middenland sons of ulric
+    super religious group
+    stir up trouble with sigmarites
+    attacking and looting villages on border btw midnlnd and reiklnd
