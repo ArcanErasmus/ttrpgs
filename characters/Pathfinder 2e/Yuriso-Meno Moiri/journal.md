@@ -1,13 +1,36 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 16?future - 2023-03-11
-- Reminder: Identify remaining alchemical flasks
+### Session 17?future - 2023-03-18
+
+### Session 16 - 2023-03-11
 - Reminder: Lockpicks broken
 - Async: Remaining actions in the lab
-    - firecat?
     - final door?
-- Approaching the keep
-    - ?
+- Surya & Sakari in the cave
+    - Acid-melt thru door to firecat, Surya rescues and befriends it
+    - Acid-melt thru door to final redoubt
+        - Secret door to garbage-room discovered
+        - One more door, behind it is a restrained man, target of experiments, dies as a blood ooze thing bursts out of him
+        - Blood ooze is dispatched by kiting and ranged magic
+        - (other stuff/loot in the room?)
+- Surya & Sakari return to town with firecat
+    - Do a poor job at deflecting forest fire blame
+    - Meet Father Karchanek, a long time friend of Surya's, mentor to the late Sinta
+- Granz goes ratmode to sneak into the compound while Rasa and I wait outside
+    - After scouting a bunch, she gets somewhat caught and thrown out
+    - Someone notices that magic was cast as she exits, she bails back to us
+    - Rasa heads back to town to share intel, Granz and I head to dead orc homestead to lead a trail somewhere else
+    - Granz notes:
+        https://cdn.discordapp.com/attachments/653792127754698753/1084325329222508656/IMG_8754.jpg
+        https://cdn.discordapp.com/attachments/653792127754698753/1084325328694030346/IMG_8755.jpg
+        https://cdn.discordapp.com/attachments/653792127754698753/1084325328350093442/IMG_8756.jpg
+- Rasa returns to town
+    - Explain the spore-spread artificial disease, Viridian Vapor
+    - Discuss info revealed to Rasa by memories shared from Granz
+- Granz and I arrive at orc homestead
+    - It has become an overgrown fungal field
+    - Seems to not be spreading any more, there are new animals that are safe
+- Cliffhanger: Heavy clatter of hooves as a singular orc rides toward town on the stone horse
 
 ### Session 15 - 2023-03-04
 - Grouped up by the thorny iris
