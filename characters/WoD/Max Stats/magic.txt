@@ -16,6 +16,10 @@
 ║ - If spend 1 WP, only deployed Charms visible for rest of scene.                                 ║
 ║ - Permanently-active charms keep effects while hidden.                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Analytic & Cognitive Charm: Interpolative Syntax Emulator (♦)                                    ║
+║ - Aesthetic: Artificial synapse webs across the brain.                                           ║
+║ - 1 Ess, understand any heard language for scene. After 1 min hearing a lang, can speak as well. ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Analytic & Cognitive Charm: Imprinted Data Cluster (♦)                                           ║
 ║ - Aesthetic: Memory crystals implanted in frontal lobe.                                          ║
 ║ - Each time Charm loaded into array, define a specialty which applies to ALL Attrs/Abilities.    ║
@@ -64,12 +68,6 @@
 ║ - Aesthetic: Relay crystals implanted throughout body.                                           ║
 ║ - Can work at 5x rate when doing any mundane task/job, including crafting & medical care.        ║
 ║ - Does not apply to combat or travel. Movements are optimized, not sped up.                      ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Spiritual Charm: Cross-Phase Scanner (♦)                                                         ║
-║ - Aesthetic: Receptor nodes in face.                                                             ║
-║ - Perception + Occult diff 7 to see aura of power from places of supernatural energy.            ║
-║ - Places appear as rising auras of Essence, visible from Essence Rating miles.                   ║
-║ - Spend 1 WP to see other plane for a scene, such as Penumbra or Shadowlands.                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Spiritual Charm: Transphase Engine (♦♦♦)                                                         ║
 ║ - Aesthetic: Silver-and-iron sphere embedded in spine.                                           ║

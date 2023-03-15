@@ -16,19 +16,12 @@
 ║ - Counterspelling: Wits + [Occult] diff 8, subtract succcesses from caster's.                    ║
 ║ - Unweaving: Like Counterspelling, but must meet num original successes to undo active effect.   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Background: Hideaway ♦♦∙∙∙∙                                                                      ║
-║ - The empty office room next to the Radio Shack, that I converted into my workshop.              ║
-║ - Stocked with tools and several days' worth of food/water.                                      ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background: Primium Countermeasures ♦♦♦♦♦                                                        ║
 ║ - 5 innate dice of countermagick (reflexively roll pool, diff 7, remove successes from magick).  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background: Supernatural Status ♦∙∙∙∙                                                            ║
 ║ - Peers recognize name, as member in good standing (of our little band of misfits).              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Merit: Acute Senses ♦∙∙                                                                          ║
-║ - Sight-based Perception rolls at -2 diff.                                                       ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Computer Aptitude ♦                                                                       ║
 ║ - Computer-based rolls at -2 diff.                                                               ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -36,9 +29,13 @@
 ║ - Ignore penalties for distracting scenarios (gunfire, storms, etc).                             ║
 ║ - Might require WP roll to ignore extreme distractions (middle of tornado).                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Family Support ♦∙∙                                                                        ║
-║ - Typical family, support is mostly emotional but can get occasional favor/allowance.            ║
+║ Merit: Family Support ♦♦∙                                                                        ║
+║ - Family has status/wealth/influence, can get help if you need some.                             ║
 ║ - Family aware and supportive of supernatural life.                                              ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: Hideaway ♦♦∙∙∙ ∙                                                                          ║
+║ - The empty office room next to the Radio Shack, that I converted into my workshop.              ║
+║ - Stocked with tools and several days' worth of food/water.                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Hyperfocus ♦♦♦                                                                            ║
 ║ - For every hr focusing without distractions on task, add 1 die to pool.                         ║
@@ -54,6 +51,20 @@
 ║ - Perception + Awareness to sense the presence of ghosts.                                        ║
 ║ - Aura shines faintly like spirit-beacon in Shadowlands, causing the dead to view favorably.     ║
 ║ - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: True Faith ♦♦                                                                             ║
+║ - Unshakable Belief: All stories can, and should, have happy endings.                            ║
+║ - +2 dice on WP and countermagick rolls, and to Awareness rolls to sense magick.                 ║
+║ - Can drive away powerful enemies of your faith with a TF roll, diff of target's WP.             ║
+║ - Your prayers can cause physical pain to powerful enemies of your faith.                        ║
+║ - Opt: Spend Faith like WP.                                                                      ║
+║ - Opt: Lay on hands to heal, roll TF diff 6, 1 succ per bash/leth, 2 succ per agg.               ║
+║ - Opt: Pray to stabilize a sick or dying character.                                              ║
+║ - Opt: Roll TF diff target's WP to convince target to break belief and express remorse.          ║
+║ - Opt: Try to soak with TF, add successes to soak roll for turn.                                 ║
+║ - Opt: Perform small miracles as if Matter or Forces spheres.                                    ║
+║ - Opt: Storyteller can create miracles that suit character and chosen faith.                     ║
+║ - Special: Can buy up during play for xp, cost = current rating x3.5 (round up).                 ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Flaw: Child ♦♦∙                                                                                  ║
 ║ - I am 13 years old.                                                                             ║

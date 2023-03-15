@@ -5,17 +5,17 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬────────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent     ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦              ├────────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦∙∙                        │  86/ 72            ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦♦                         │  90/ 88            ║
 ║ Affiliation - None             ║ LimitTrack │ ▓▓▓▓▓ ▓▓░░░                      ├────────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦∙∙∙ ∙∙∙∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤════════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec       ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
 ║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Perception   │ ♦♦♦♦∙ │ Sensory    ║
 ║ Dexterity  │ ♦∙∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦ │ BookLrning ║
 ║            │       │           ║            │       │           ║              │       │ Creative   ║
-║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦♦♦∙ │ Scrappy   ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
+║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦∙∙∙ │           ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪════════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec       ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
@@ -26,7 +26,7 @@
 ║ Brawl      │ ∙∙∙∙∙ │           ║ MartialArt │ ∙∙∙∙∙ │           ║ Esoterica    │ ∙∙∙∙∙ │            ║
 ║ Empathy    │ ♦∙∙∙∙ │           ║ Meditation │ ∙∙∙∙∙ │           ║ Investigatn  │ ∙∙∙∙∙ │            ║
 ║ Expression │ ∙∙∙∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Law          │ ∙∙∙∙∙ │            ║
-║ Intimidate │ ∙∙∙∙∙ │           ║ Research   │ ∙∙∙∙∙ │           ║ Medicine     │ ∙∙∙∙∙ │            ║
+║ Intimidate │ ∙∙∙∙∙ │           ║ Research   │ ♦♦♦♦∙ │ NetSearch ║ Medicine     │ ∙∙∙∙∙ │            ║
 ║ Leadership │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Occult       │ ♦∙∙∙∙ │            ║
 ║ Streetwise │ ∙∙∙∙∙ │           ║ Survival   │ ♦∙∙∙∙ │ Prepared  ║ Politics     │ ∙∙∙∙∙ │            ║
 ║ Subterfuge │ ∙∙∙∙∙ │           ║ Technology │ ♦♦♦♦∙ │ A/V       ║ Science      │ ♦♦♦♦∙ │ Paraphyscs ║
@@ -37,14 +37,15 @@
 ╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪════════════╣
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value      ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼────────────╢
-║ Hedge Magic        │ ♦♦♦♦♦     ║ Acute Senses       │ ♦∙∙       ║ Child                │ ♦♦∙        ║
-║ Hideaway           │ ♦♦∙∙∙ ∙   ║ Computer Aptitude  │ ♦         ║ Curiosity            │ ♦♦         ║
-║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Heart of Glass       │ ♦♦         ║
-║ Supernat Status    │ ♦∙∙∙∙     ║ Family Support     │ ♦∙∙       ║ Nightmares           │ ♦∙∙        ║
+║ Hedge Magic        │ ♦♦♦♦♦     ║ Computer Aptitude  │ ♦         ║ Child                │ ♦♦∙        ║
+║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Curiosity            │ ♦♦         ║
+║ Supernat Status    │ ♦∙∙∙∙     ║ Family Support     │ ♦♦∙       ║ Heart of Glass       │ ♦♦         ║
+║                    │           ║ Hideaway           │ ♦♦∙∙∙ ∙   ║ Nightmares           │ ♦∙∙        ║
 ║                    │           ║ Hyperfocus         │ ♦♦♦       ║ Short                │ ♦♦♦        ║
 ║                    │           ║ Lightning Calc     │ ♦         ║                      │            ║
 ║                    │           ║ Mechanical Aptit   │ ♦         ║                      │            ║
 ║                    │           ║ Medium             │ ♦♦        ║                      │            ║
+║                    │           ║ True Faith         │ ♦♦...     ║                      │            ║
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧════════════╣
 ║ Charm Array: Active Charms (♦♦♦♦♦ ♦♦♦♦♦ ♦)          │ Notes                                         ║
 ╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
@@ -52,13 +53,13 @@
 ║ - G: Sustained Augmentation of Jade (♦)             │                                               ║
 ║ - SD: Integrated Artifact Transmogrifier (♦)        │                                               ║
 ║ - AC: Imprinted Data Cluster (♦)                    │ Spec: Determined                              ║
+║ - AC: Interpolative Syntax Emulator (♦)             │                                               ║
 ║ - AC: Mobile Sensory Drone (♦)                      │                                               ║
 ║ - AC: Optical Enhancement (♦♦)                      │                                               ║
 ║ - U: Metaneural Uplink Node (♦)                     │                                               ║
-║ - S: Transphase Engine (♦♦♦)                        │                                               ║
-╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
-║ Inactive Charms                                     │                                               ║
 ║ - U: Omnitool Implant (♦)                           │                                               ║
 ║ - U: Synaptic Acceleration Node (♦)                 │                                               ║
-║ - S: Cross-Phase Scanner (♦)                        │                                               ║
+╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
+║ Inactive Charms                                     │                                               ║
+║ - S: Transphase Engine (♦♦♦)                        │                                               ║
 ╚═════════════════════════════════════════════════════╧═══════════════════════════════════════════════╝
