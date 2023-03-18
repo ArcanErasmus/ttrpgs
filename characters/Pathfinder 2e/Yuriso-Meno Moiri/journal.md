@@ -1,5 +1,15 @@
 # Yuriso-Meno's Journal
 ## Event Log
+### Lvl 4 Planning
+- +11 hp (10+Con)
+- [skill feat]
+- [summoner class feat]
+- [archetype feat]
+- +1 lvl 2 spell, +1 lvl 2 spell slot
+- +1 proficiency bonus
+- YMM & MYM fire resist +1
+- devastating attacks (two dice)
+
 ### Session 17?future - 2023-03-18
 
 ### Session 16 - 2023-03-11
