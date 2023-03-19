@@ -3,17 +3,15 @@
 ### Armor
 | Name                  | Head | RArm | LArm | Body | RLeg | LLeg | Shld | AP | Qualities/Flaws
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
-| Bear-Pelt Coat        |      | xxxx | xxxx | xxxx |      |      |      |  1 | Fine
-| Plate Breastplate     |      |      |      | xxxx |      |      |      |  2 | Impenetrable, Weakpoints
-| Leather Leggings      |      |      |      |      | xxxx | xxxx |      |  1 |
-| Leather Skullcap      | xxxx |      |      |      |      |      |      |  1 | Partial
+<!-- | Bear-Pelt Coat        |      | xxxx | xxxx | xxxx |      |      |      |  1 | Fine -->
+| Reinforced Soft Kit   |      | xxxx | xxxx | xxxx | xxxx | xxxx |      |  1 | Partial, Reinforced
 | Mail Chausses         |      |      |      |      | xxxx | xxxx |      |  2 | Flexible
 | Mail Coat             |      | xxxx | xxxx | xxxx |      |      |      |  2 | Flexible
-| Mail Coif             | xxxx |      |      |      |      |      |      |  2 | Flexible, Partial
-| Plate Helm            | xxxx |      |      |      |      |      |      |  2 | Impenetrable, Weakpoints
+| Plate Breastplate     |      |      |      | xxxx |      |      |      |  3 | Impenetrable, Overcoat, Weakpoints
+| Armet                 | xxxx |      |      |      |      |      |      |  3 | Impenetrable, Visor, Weakpoints
 | Shield (Large)        |      |      |      |      |      |      | xxxx |  3 | Defensive, Shield 3
 |-----------------------|------|------|------|------|------|------|------|----|-----------------
-| Summary               |    5 |    3 |    3 |    5 |    3 |    3 |    3 | +2 damage reduction from Robust
+| Summary               |    3 |    3 |    3 |    6 |    3 |    3 |    3 | +2 damage reduction from Robust
 
 ### Weapons
 | Melee Weapon   | Group      | Reach   | Dam   | Qualities/Flaws
@@ -37,10 +35,9 @@
 |-----------------------------|-----|-----|--------------------------------
 | **Armor**                   |     |     |
 |-----------------------------|-----|-----|--------------------------------
-| Bear-Pelt Coat              |   1 |   W | [Leather Jack (Fine)]
+<!-- | Bear-Pelt Coat              |   1 |   W | [Leather Jack (Fine)] -->
 | Plate Breastplate           |   3 |   W | Impenetrable, Weakpoints
-| Leather Leggings            |   1 |   W |
-| Leather Skullcap            |     |   W | Partial
+| Reinforced Soft Kit         |   1 |   W | Partial, Reinforced
 | Mail Chausses               |   3 |   W | Flexible
 | Mail Coat                   |   3 |   W | Flexible
 | Mail Coif                   |   2 |   W | Flexible, Partial, -10 Perception
@@ -132,3 +129,51 @@ middenland sons of ulric
     super religious group
     stir up trouble with sigmarites
     attacking and looting villages on border btw midnlnd and reiklnd
+
+
+
+soft kits worn under armor
+boiled leather cannot be worn under mail, or under non-breastplate plate pieces
+brigandine armor and plate breastplate can be worn over leather or chain
+
+armor layering
+- soft kit
+- leather or chain or plate
+- brigandine or plate breastplate
+
+soft kit
+bracers, plate leggings, some form of helm
+chainmail shirt
+plate breastplate or brigandine jack
+
+
+reinforced soft kit, 2GC, 1(0) enc
+chainmail shirt, 2GC, 3(2) enc
+bracers, 8GC, 3(2) enc
+plate leggings, 10GC, 3(2) enc
+armet, 3GC, 2(1) enc
+breastplate, 10GC, 3(2) enc
+
+head xxx
+arms xxxx
+body xxxxx x
+legs xxxx
+
+enc  xxxxx xxxx
+gc   xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
+
+leather jack
+leather leggings
+leather skullcap
+1GC 14/-
+6/- -> reinforced soft kit
+
+breastplate
+
+mail coif
+plate helm
+3GC
+-> armet
+
+mail chausses
+mail coat

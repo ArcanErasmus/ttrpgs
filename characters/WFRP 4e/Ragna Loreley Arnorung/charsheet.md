@@ -75,10 +75,10 @@
 |^T   | 55 |  5 | 10 |    | 70 |
 |^I   | 28 |    | 15 |    | 43 |
 | Ag  | 27 |    |  3 |    | 30 |
-| Dex | 20 |    |    |    | 20 |
+| Dex | 17 |    |    |    | 17 |
 | Int | 27 |  5 |    |    | 32 |
-|^WP  | 40 |    | 10 |    | 50 |
-| Fel | 28 |    |    |    | 28 |
+|^WP  | 42 |    | 10 |    | 52 |
+| Fel | 30 |    |    |    | 30 |
 
 ## Secondary Attributes
 | Att | #  | ?  |
@@ -99,16 +99,16 @@
 |   | Charm Animal          |    | WP  |    |
 |   | Climb                 |    | S   |    |
 |!C | Consume Alcohol       | 15 | T   | 85 |
-|!C | Cool                  | 15 | WP  | 66 | +1
+|!C | Cool                  | 15 | WP  | 67 |
 | C | Dodge                 |  5 | Ag  | 35 |
 |   | Drive                 |    | Ag  |    |
 | C | Endurance             | 10 | T   | 80 |
 |   | Gamble                |    | Int |    |
-| C | Gossip                |  5 | Fel | 33 |
+| C | Gossip                |  5 | Fel | 35 |
 |   | Haggle                |    | Fel |    |
 | C | Intimidate            |  5 | S   | 65 |
 |   | Intuition             |    | I   |    |
-| C | Leadership            | 10 | Fel | 38 |
+| C | Leadership            | 10 | Fel | 40 |
 |   | Navigation            |    | I   |    |
 | C | Outdoor Survival      |  5 | Int | 37 |
 |!C | Perception            | 15 | I   | 58 |
@@ -116,7 +116,8 @@
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-|   | Art                   | 10 | Dex | 30 |
+|   | Art                   |    | Dex |    |
+|   | Art (Reliquary)       | 10 | Dex | 27 |
 |   | Entertain             |    | Fel |    |
 | C | Heal                  |  5 | Int | 37 |
 | C | Language (Battle)     |  5 | Int | 37 |
@@ -148,6 +149,7 @@
 - +10 S, +10 T, -5 Ag
 
 ### Background Features
+- Star Sign, Dragomas the Drake: +2 WP, +2 Fel, -3 Dex
 - Barrel-Chested: +5 S, +5 T, -5 Ag
 - Brawny Build: +5 T, -5 Dex
 
