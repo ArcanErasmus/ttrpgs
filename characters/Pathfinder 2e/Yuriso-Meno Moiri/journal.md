@@ -10,19 +10,27 @@
 - YMM & MYM fire resist +1
 - devastating attacks (two dice)
 
-### Session 17?future - 2023-03-18
+### Session 18?future - 2023-03-26
+- 
 
+### Session 17 - 2023-03-18
+- Oh no it's the orc rider on the stone horse oh dear they are riding into town
+    - Armed with crossbow, wrappings on face, likely has plague somehow
+    - Tried desperately to reach the plaguestone with a magic ring, failed
+    - Loot: Scale mail, crossbow w/ 20 bolts, shortsword, 2 vials of energy mutagen (fire)
+    - Iron ring, engraved with the phases of the moon
+- The town's titular plaguestone is discovered to be filled with green goop
+    - The hollow in it is filled with sawdust, to drastically slow potential for spillage or evaporation, and sealed over with plaster
+- Granz goes to the sanctuary to rest, wakes up and has meeting with Vilree, the elf lady behind the viridian vapors
+    - Granz agrees to stay out of the fight, in exchange for Vilree putting a stop to alchemical waste spillage
+    - Granz and Vilry hatch a plan to fake a loss at the fort assault
 ### Session 16 - 2023-03-11
-- Reminder: Lockpicks broken
-- Async: Remaining actions in the lab
-    - final door?
 - Surya & Sakari in the cave
     - Acid-melt thru door to firecat, Surya rescues and befriends it
     - Acid-melt thru door to final redoubt
         - Secret door to garbage-room discovered
         - One more door, behind it is a restrained man, target of experiments, dies as a blood ooze thing bursts out of him
         - Blood ooze is dispatched by kiting and ranged magic
-        - (other stuff/loot in the room?)
 - Surya & Sakari return to town with firecat
     - Do a poor job at deflecting forest fire blame
     - Meet Father Karchanek, a long time friend of Surya's, mentor to the late Sinta
@@ -34,6 +42,60 @@
         https://cdn.discordapp.com/attachments/653792127754698753/1084325329222508656/IMG_8754.jpg
         https://cdn.discordapp.com/attachments/653792127754698753/1084325328694030346/IMG_8755.jpg
         https://cdn.discordapp.com/attachments/653792127754698753/1084325328350093442/IMG_8756.jpg
+- Granz explanation thru memory dumps
+    - Flying over fort, top-down view
+        - 2 simple palisades at either end of the valley, and a gate (which side?)
+        - straw hut
+        - an elevated guard tower with poor visibility attached to a building that has a semicircular raised half
+        - Partially forested (interior clearing, or surroundings?)
+    - Sneaking thru grass while inside the palisade walls
+        - Guards move past, Granz avoids them
+    - Within the straw hut
+        - Big-for-Medium ogre on screaming skull throne in hut
+        - Tapestry with images of alchemy-related things and The Elf
+        - Door flap that goes deeper in
+    - Through the doorflap at the back of the straw hut
+        - Underground (man-made?) pair of chambers, visible together
+        - 15 lizardfolk and orcs hanging around
+        - Dozen sleeping mats and some belongings and campfires (underground??), barracks-style, behind them
+    - Through large iron double-doors of building connected to guard tower
+        - Picture on wall of burning village
+        - Map on wall with riding distances, labeled "ruins of plaguestone" instead of town name
+        - Attacked by some wind elemental, flees into second room
+        - Second room contained nothing notable
+    - Hallway past second room
+        - Bookshelf
+        - Leads to curved stairs heading "south", "north" is another double door
+    - Thru second set of double doors
+        - Large room with a fountain that has statue of elven woman (same as The Elf?)
+        - Single door on "east", to large storage closet/small room with boxes and barrels at back of room
+        - Door on "north" side led to active alchemical workshop, too occupied to investigate
+    - Conversing with rats in storage room
+        - "Big creatures" (people?) enter room with some frequency, mostly mess around with stuff at front
+        - The Icy Rats were brought in recently
+        - Not much movement of stuff, especially stuff at back of room
+        - Room is a comfortable place to live, nearby kitchen
+        - Structure older than 4 years (lifetime of the rat)
+        - One of the big folk with long hair is nice, sometimes leaves out food (likely is the elf lady)
+    - Backtracking to workshop and taking door to "east"
+        - Stairs down (50ft long) to a hallway
+        - Off side of hallway was second set of stairs down to double door (did not go to yet, return later)
+        - At end of hallway, wooden double door
+    - Thru wooden doors, private workshop
+        - Bookshelf
+        - Vat containing blackened corpse with swirling green mist
+        - Small doll constructs with rag clothing
+        - Bunch of elementals, including fire rat under table
+        - Congealed-ooze-and-animal-part homunculi, other basic construct assistants
+    - Notes on table in workshop
+        - Flaystone is green, used for Viridian Vapor, a lethal disease causing severe wounds in which a fungus grows, destroying the body to spread infectious spores
+        - (Time period for contraction incorrectly remembered to be several hours)
+    - ???Cave???
+        - Flaystone is being mined in the cave
+        - Hole to outside, vulnerability
+    - The guard tower
+        - Looking up at tower, then going up stairs, then beds and a ladder
+        - Worryingly perceptive guy running down the stairs, blowing a horn
 - Rasa returns to town
     - Explain the spore-spread artificial disease, Viridian Vapor
     - Discuss info revealed to Rasa by memories shared from Granz
