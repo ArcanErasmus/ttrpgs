@@ -57,11 +57,14 @@ $25.80
     - 1x *Lesser Juggernaut Mutagen*
 - Unsorted
     - 3x *Alchemist's Fire, Lesser*
-    - 3x *Acid Flask, Lesser*
-    - 3x ?
+    - 3x (U) alchemical thing from trap
     - 3x *Thunderstone, Lesser*
-    - 3x ?
-    - 3x ?
+    - 3x (U) alchemical thing from trap
+    - 3x (U) alchemical thing from trap
+    - 2x *Energy Mutagen, Lesser (Fire)*
+    - (U) Bottle of viscous silvery metallic liquid (Surya)
+    - (U) Bottle of viscous green liquid (known to spawn mephit) (?)
+    - (U) Bottle of green liquid (?)
     Guesses
         -Blight Bomb
         -Bottled Lightning
@@ -78,9 +81,6 @@ $25.80
 - Kukri with *Crushing Rune*
 - Silver-plated rapier, low-grade
 ### Misc
-- (U) Bottle of viscous silvery metallic liquid (Surya)
-- (U) Bottle of viscous green liquid (known to spawn mephit) (?)
-- (U) Bottle of green liquid (?)
 - Alchemical reagents worth $50
 - Floating runestone with *???* rune
 - Hammer
@@ -90,6 +90,9 @@ $25.80
 - Opened trapped strongbox (YMM)
 - Map labeled with "hideout" and "drop point" (Sinta)
 - Receipt papers matching Bort's legers, with slightly raised prices (Sinta)
+- Shortsword
+- Scale mail
+- Crossbow w/ 20 bolts
 
 ## Specific Items
 - 1x *Drakeheart Mutagen*
