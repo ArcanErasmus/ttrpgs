@@ -8,14 +8,14 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: Buy a bigger boat
+- Personal short-term ambition: Complete our humanitarian mission
 - Personal long-term ambition: Commission a signature weapon
     - Future option: Hunt down the bastard who maimed Sister Weir
     - Future option: Free Peronelle from captivity
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5255/5295
+## Total/Spent XP: 5255/5375
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  150 |   5 |  10 | WP

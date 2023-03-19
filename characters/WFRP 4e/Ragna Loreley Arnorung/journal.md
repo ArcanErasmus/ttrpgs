@@ -1,4 +1,10 @@
 # Ragna's Journal
+## Svettbukk
+- Medium Barge
+- Crew:
+    - Renate Hausier, First Mate
+    - Arthur Schwarzenbach, Porter
+    - Casper Neumann, Porter
 
 ## Adventure Log
 - Kills:

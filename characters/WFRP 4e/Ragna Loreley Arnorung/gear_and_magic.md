@@ -70,7 +70,7 @@
 |-----------------------------|-----|-----|--------------------------------
 | Javelin                     |   2 |     |
 |-----------------------------|-----|-----|--------------------------------
-| **Coins**                   |     |     | 0GC 09/00 
+| **Coins**                   |     |     | 1 GC 6/-
 |-----------------------------|-----|-----|--------------------------------
 | **Total**                   |     |  12 |
 
@@ -101,23 +101,30 @@
     - Best Quality Shoes (Fine 2)
     - Throwing Axe
 
-## Inventory of The Svettbukk
-- 691 GC
-
+## Inventory/Crew of The Elgolmeiss (Large Barge)
+- Modifications: Smoothed Hull, Raised Gunwales
+- Crew: Us
+- 215 GC
 - Trade Tools (Navigator)
 - Meat Smoker (Trade Tools for preserving game)
-
 - Loot from the signal tower's cellar
     - Some (3?) old but readable books, written in arcane text
     - Portraits of Wittgensteins (value: ?)
     - Four 6-pointed metal keys (plus one with Peronelle), plus a five-pointed metal key
+- gonna buy grain to give out at grunberg
 
 ### Trade Goods
-- 28 units of Armaments (10 enc/unit)
-    - Purchased at 7.2 GC/unit in Kemperbad
-        - Includes 10% discount from 12 GC/unit (201.6 GC total)
-    - Trade Rumor: (2x price & always buyer) at Castle Reiksguard
+- 0 units of ? (10 enc/unit)
+    - Purchased at ? GC/unit in ?
+        - Includes ?% discount from ? GC/unit (? GC total purchase price)
+    - Trade Rumor: (2x price & always buyer) at ?
 
+## Inventory/Crew of The Svettbukk (Barge)
+- Crew: Renate, Arthur, Casper
+- 15 GC
+- gonna buy grain to give out at grunberg
+
+## Rumors
 - Other Trade Rumor: (2x price & always buyer) for Metal at Grünberg
     - Prieze production rolled: Metal
 

@@ -139,10 +139,13 @@
 - *Senses*: Darkvision
 - *Speed*: 25 ft
 
+#### Heritage - Dragonscaled Kobold
+- Gain energy resistance of half lvl (min 1) based on exemplar: Fire
+
 #### Draconic Exemplar
-- *Draconic Exemplar*: Brass
+- *Draconic exemplar*: Brass
 - *Scale color*: Brass (with emerald patches/streaks)
-- *Details*: Line, Fire, Reflex
+- *Breath Weapon Details*: Line shape, Fire damage, Reflex save
 
 ### Ancestry Feats
 #### Kobold Breath (1st)
@@ -255,7 +258,7 @@
 ### Class & Archetype Feats
 #### Energy Heart (1st)
 `[Evolution]` `[Summoner]`
-- *Energy Damage Type*: Cold
+- *Energy Damage Type*: Fire
 - One eidolon unarmed attack changes damage type to that chosen
 - Eidolon gains resistance to chosen type of half lvl (min 1)
 

@@ -46,8 +46,8 @@
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage     | Traits |
 |-----------------|-------------|------|------------|--------|
-| *Claw*          | +10         | +    | 1d8+4 Fire | Trip
-| *Tail*          | +10         | +    | 1d6+4 B    | Agile, Finesse
+| *Claw*          | +10         | +    | 1d8+4 S    | Trip
+| *Tail*          | +10         | +    | 1d6+4 Fire | Agile, Finesse
 | *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic  | 30-ft cone, 1d4 rd CD
 
 ## Skills

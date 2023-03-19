@@ -1,6 +1,18 @@
 # Yuriso-Meno's Journal
 ## Event Log
+### Lvl 4 Planning
+- +11 hp (10+Con)
+- [skill feat]
+- [summoner class feat]
+- [archetype feat]
+- +1 lvl 2 spell, +1 lvl 2 spell slot
+- +1 proficiency bonus
+- YMM & MYM fire resist +1
+- devastating attacks (two dice)
+
 ### Session 18?future - 2023-03-26
+- 
+
 ### Session 17 - 2023-03-18
 - Oh no it's the orc rider on the stone horse oh dear they are riding into town
     - Armed with crossbow, wrappings on face, likely has plague somehow
@@ -12,7 +24,6 @@
 - Granz goes to the sanctuary to rest, wakes up and has meeting with Vilree, the elf lady behind the viridian vapors
     - Granz agrees to stay out of the fight, in exchange for Vilree putting a stop to alchemical waste spillage
     - Granz and Vilry hatch a plan to fake a loss at the fort assault
-
 ### Session 16 - 2023-03-11
 - Surya & Sakari in the cave
     - Acid-melt thru door to firecat, Surya rescues and befriends it
