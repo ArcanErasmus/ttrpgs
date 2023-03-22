@@ -8,7 +8,7 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: Complete our humanitarian mission
+- Personal short-term ambition: Complete our humanitarian mission (and give away the Svettbukk to a worthy soul)
 - Personal long-term ambition: Commission a signature weapon
     - Future option: Hunt down the bastard who maimed Sister Weir
     - Future option: Free Peronelle from captivity
