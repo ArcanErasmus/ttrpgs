@@ -62,9 +62,9 @@ $25.80
     - 3x (U) alchemical thing from trap
     - 3x (U) alchemical thing from trap
     - 2x *Energy Mutagen, Lesser (Fire)*
-    - (U) Bottle of viscous silvery metallic liquid (Surya)
-    - (U) Bottle of viscous green liquid (known to spawn mephit) (?)
-    - (U) Bottle of green liquid (?)
+    - 1x (U) Bottle of viscous silvery metallic liquid (Surya)
+    - 1x (U) Bottle of viscous green liquid (known to spawn mephit) (?)
+    - 1x (U) Bottle of green liquid (?)
     Guesses
         -Blight Bomb
         -Bottled Lightning
