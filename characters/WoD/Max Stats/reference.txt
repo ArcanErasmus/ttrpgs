@@ -36,8 +36,9 @@
 ║ │ Incap      │ 1 hour  │ 5 days     │                                                            ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Alchemical Rules: Charm Array                                                            ║
-║ - Can only have certain number of dots of Charms active at once, based on Essence Rating.        ║
-║ - Can change active charms during Dormancy.                                                      ║
+║ - Can only have certain number of slots of Charms active at once.                                ║
+║ - Can only put Charms in slots of their respective caste(s).                                     ║
+║ - Can change active charms after full 6-hour Dormancy.                                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Alchemical Rules: Dormancy                                                               ║
 ║ - Non-Dormant Alchemical immediately recognizable as something weird.                            ║
@@ -52,4 +53,5 @@
 ║ - Regain (3 + Essence Rating) Essence when the sun rises.                                        ║
 ║ - If beginning a scene at 0 Essence, gain 1 Essence.                                             ║
 ║ - Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ║
+║ - Caste Attributes: Stamina, Charisma, Wits.                                                     ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

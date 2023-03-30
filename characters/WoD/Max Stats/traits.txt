@@ -1,26 +1,13 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
-║ Background: Hedge Magic                                                                          ║
-║ - May buy Paths & Rituals from [Sorcerer: Paths of Power].                                       ║
-║ - Paths cost 4xp, then [new rating x4]xp, Rituals cost 2xp.                                      ║
-║ - Effects have base diff 4 + [lvl of path used or highest desired aspect].                       ║
-║ - Effects take 1 turn per [lvl of effect or highest aspect of effect]. Rituals take min 10 mins. ║
-║ - For extended rolls, each roll doubles the total time spent.                                    ║
-║ - Botches cause misfires/backlash, but not as bad as Paradox.                                    ║
-║ - Fast casting is +1 diff (max 9) per turn reduced, and +1 WP cost.                              ║
-║ - Can prep spell at +1 diff and 1 WP, release later for normal cost & 1 turn. Add +1 diff to all ║
-║   mental and social tasks while hanging a spell, +1 for each additional 2 spells held.           ║
-║ - If have 2 more dots in Path than min for effect, can cast at +1 diff for -1 WP cost.           ║
-║ - Speical Exalted Rule: Can spend Essence as if Quintessence for casting diff.                   ║
-║ - Counterspelling: Wits + [Occult] diff 8, subtract succcesses from caster's.                    ║
-║ - Unweaving: Like Counterspelling, but must meet num original successes to undo active effect.   ║
+║ Background: Enhancements ♦♦♦··                                                                   ║
+║ - Cybernetics: [9 points for Devices]                                                            ║
+║ - Life-based damaging magick causes +2 levels of agg if it gets past countermagick.              ║
+║ - Homebrew: Instead of +3 permanent Paradox, add +3 permanent Limit points.                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background: Primium Countermeasures ♦♦♦♦♦                                                        ║
 ║ - 5 innate dice of countermagick (reflexively roll pool, diff 7, remove successes from magick).  ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Background: Supernatural Status ♦∙∙∙∙                                                            ║
-║ - Peers recognize name, as member in good standing (of our little band of misfits).              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Merit: Computer Aptitude ♦                                                                       ║
 ║ - Computer-based rolls at -2 diff.                                                               ║
@@ -41,9 +28,6 @@
 ║ - For every hr focusing without distractions on task, add 1 die to pool.                         ║
 ║ - Max 3 bonus dice.                                                                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Lightning Calculator ♦                                                                    ║
-║ - Math- and calculation-based rolls at -2 diff.                                                  ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Mechanical Aptitude ♦                                                                     ║
 ║ - Rolls to work with mechanical technologies at -2 diff.                                         ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -52,11 +36,13 @@
 ║ - Aura shines faintly like spirit-beacon in Shadowlands, causing the dead to view favorably.     ║
 ║ - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: True Faith ♦♦                                                                             ║
+║ Merit: True Faith ♦♦♦··                                                                          ║
 ║ - Unshakable Belief: All stories can, and should, have happy endings.                            ║
-║ - +2 dice on WP and countermagick rolls, and to Awareness rolls to sense magick.                 ║
+║ - +3 dice on WP and countermagick rolls, and to Awareness rolls to sense magick.                 ║
 ║ - Can drive away powerful enemies of your faith with a TF roll, diff of target's WP.             ║
 ║ - Your prayers can cause physical pain to powerful enemies of your faith.                        ║
+║ - Can detect supernatural beings whose essence is opposed to your creed. Imprecise sense.        ║
+║ - Such beings feel distinctly uncomfortable around you.                                          ║
 ║ - Opt: Spend Faith like WP.                                                                      ║
 ║ - Opt: Lay on hands to heal, roll TF diff 6, 1 succ per bash/leth, 2 succ per agg.               ║
 ║ - Opt: Pray to stabilize a sick or dying character.                                              ║
