@@ -2,9 +2,14 @@
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Background: Enhancements ♦♦♦··                                                                   ║
-║ - Cybernetics: [9 points for Devices]                                                            ║
+║ - Cybernetics: [9 points for Devices] (2/9 used)                                                 ║
 ║ - Life-based damaging magick causes +2 levels of agg if it gets past countermagick.              ║
 ║ - Homebrew: Instead of +3 permanent Paradox, add +3 permanent Limit points.                      ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Enhancement: Skeletal Enhancement (♦)                                                            ║
+║ - 2 points background cost.                                                                      ║
+║ - Required for any 3 or more dot cybernetics, else take 1 agg damage per use.                    ║
+║ - Also gives 2 Bruised (-0) health levels.                                                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Background: Primium Countermeasures ♦♦♦♦♦                                                        ║
 ║ - 5 innate dice of countermagick (reflexively roll pool, diff 7, remove successes from magick).  ║

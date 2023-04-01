@@ -3,17 +3,17 @@
 ╠════════════════════════════════╬════════════╤═══════════════════════════════════════════════════════╣
 ║ Core                           ║ Stat       │ Value                                                 ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬────────────────────╢
-║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1 -0              │ XP Total/Spent     ║
-║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦              ├────────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │  94/ 87            ║
+║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent     ║
+║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├────────────────────╢
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │  94/ 91            ║
 ║ Affiliation - None             ║ LimitTrack │ ███▓▓ ▓▓▓▓░                      ├────────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/6.5j/11.5r yd ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/  7j/  13r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤════════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec       ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
 ║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Perception   │ ♦♦♦♦∙ │ Sensory    ║
-║ Dexterity  │ ♦∙∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦#│ BookLrning ║
+║ Dexterity  │ ♦♦∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦#│ BookLrning ║
 ║            │       │           ║            │       │           ║              │       │ Creative   ║
 ║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦∙∙∙ │           ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪════════════╣
@@ -48,18 +48,18 @@
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧════════════╣
 ║ Charm Array: Active Charms (O JJJJ SS LL)           │ Notes                                         ║
 ╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
-║ - +: Transitory Augmentation of Industry (∙)        │                                               ║
-║ - O: Interpolative Syntax Emulator (♦)              │                                               ║
-║ - +: Integrated Artifact Transmogrifier (∙)         │                                               ║
-║ - J: Imprinted Data Cluster (♦)                     │ Spec: Determined                              ║
-║ - J: Motivational Vocoder (♦)                       │                                               ║
-║ - J: Sustained Augmentation of Jade (♦)             │                                               ║
-║ - J: Synaptic Acceleration Node (♦)                 │                                               ║
-║ - S: Metaneural Uplink Node (♦)                     │                                               ║
-║ - S: Omnitool Implant (♦)                           │                                               ║
-║ - L: Mobile Sensory Drone (♦)                       │                                               ║
-║ - L: Optical Enhancement (♦)                        │                                               ║
+║ - ++: Transitory Augmentation of Industry (∙)       │                                               ║
+║ - Or: Interpolative Syntax Emulator (♦)             │                                               ║
+║ - ++: Integrated Artifact Transmogrifier (∙)        │                                               ║
+║ - Ja: Imprinted Data Cluster (♦)                    │ Spec: Determined                              ║
+║ - Ja: Motivational Vocoder (♦)                      │                                               ║
+║ - Ja: Sustained Augmentation of Jade (♦)            │                                               ║
+║ - Ja: Synaptic Acceleration Node (♦)                │                                               ║
+║ - St: Metaneural Uplink Node (♦)                    │                                               ║
+║ - St: Omnitool Implant (♦)                          │                                               ║
+║ - So: Mobile Sensory Drone (♦)                      │                                               ║
+║ - So: Optical Enhancement (♦)                       │                                               ║
 ╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
 ║ Inactive Charms                                     │                                               ║
-║ - S: Transphase Engine (♦)                          │                                               ║
+║ - So: Transphase Engine (♦)                         │                                               ║
 ╚═════════════════════════════════════════════════════╧═══════════════════════════════════════════════╝

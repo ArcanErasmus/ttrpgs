@@ -368,6 +368,7 @@
 ║  3: Submodule, Automated Suppression Routines (Integrated Artifact Transmogrifier)               ║
 ║  3: Submodule, Jade Efficacy Upgrade (Sustained Augmentation of Jade)                            ║
 ║  2: Ability, Expression 0->1                                                                     ║
+║  4: Attribute, Dexterity 1->2                                                                    ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -387,10 +388,3 @@
 ║  *· ??: ?
 ║   · ??: ?
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
-Spark of Life (5)
-Inner Knight (5)
-Natural Channel (3)
-Lucky (3)
-Hands of Daedalus (3)
-Self-Confident (5)
-Natural Linguist (2)
