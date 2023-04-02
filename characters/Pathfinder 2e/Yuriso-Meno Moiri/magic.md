@@ -5,7 +5,7 @@
 |------------|--------------|-----------
 | *Focus*    |  [x]         | +1/Refocus
 |  1st       |  [x] [x]     |
-|  2st       |  [x]         |
+|  2st       |  [x] [x]     |
 
 ### Quick List
 Summoner - Arcane
@@ -21,11 +21,13 @@ Summoner - Arcane
     - `[>>]` Shattering Gem - Touch, 1 min, gem intercepts Strikes & explodes
 - Lvl 2
     - `[> - >>>]` Scorching Ray - 60ft, 1 target/action, 2d6 per for 1 action, 4d6 for 2-3
+    - [PICK ONE]
 
 Bard - Occult
 - Cantrip
-    - `[>]` Join Pasts - 1 rd, share memories, can Aid RecKnow w/ any Lore
+    - `[>]` Join Pasts - 1 rd, share memories, can Aid RecallKn using any Lore
     - `[>]` Message - 120 ft, talk silently to target, can briefly respond
+
 Link Spells - Focus
 - Cantrip
     - `[>]` Boost Eidolon - 100 ft, 1 rd, +2 status to eidolon's unarmed dmg/die

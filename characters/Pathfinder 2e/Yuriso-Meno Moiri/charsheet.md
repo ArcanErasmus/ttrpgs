@@ -24,8 +24,8 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  39/39       |  +3/Rest (not with Curse of Nightmares!)
-| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
+| *HP*         |  50/50       |  +3/Rest (not with Curse of Nightmares!)
+| *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Conditions and Temporary Effects
 - Curse of Nightmares
@@ -38,55 +38,56 @@
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
-| *Unarmored AC*  | 17  | +    | +3+2 | +2 Dex  | -    |  -
+| *Unarmored AC*  | 18  | +    | +4+2 | +2 Dex  | -    |  -
+| *Mage Armor AC* | 19  | +    | +4+2 | +2 Dex  | +1   |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Fortitude*     | +8  | ++   | +3+4 | +1 Con  | -    |  -
-| *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
-| *Will*          | +9  | ++   | +3+4 | +2 Wis  | -    |  -
+| *Fortitude*     | +9  | ++   | +4+4 | +1 Con  | -    |  -
+| *Reflex*        | +8  | +    | +4+2 | +2 Dex  | -    |  -
+| *Will*          | +10 | ++   | +4+4 | +2 Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Fire*          |  1  |                              |  -
+| *Fire*          |  2  |                              |  -
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
-| *Class DC*      | 19  | +    | +3+2 | +4 Cha  | -    | -
-| *Arcane DC*     | 19  | +    | +3+2 | +4 Cha  | -    | -
-| *Occult DC*     | 19  | +    | +3+2 | +4 Cha  | -    | -
+| *Class DC*      | 20  | +    | +4+2 | +4 Cha  | -    | -
+| *Arcane DC*     | 20  | +    | +4+2 | +4 Cha  | -    | -
+| *Occult DC*     | 20  | +    | +4+2 | +4 Cha  | -    | -
 |-----------------|-----|------|------|---------|------|------|
-| *Perception*    | +9  | ++   | +3+4 | +2 Wis  | -    | -
-| *Arcane Attack* | +9  | +    | +3+2 | +4 Cha  | -    | -
-| *Occult Attack* | +9  | +    | +3+2 | +4 Cha  | -    | -
-| *Dex Attack*    | +8  | +    | +3+2 | +2 Dex  | +1   | -
-| *Str Attack*    | +6  | +    | +3+2 | +0 Str  | +1   | -
+| *Perception*    | +10 | ++   | +4+4 | +2 Wis  | -    | -
+| *Arcane Attack* | +10 | +    | +4+2 | +4 Cha  | -    | -
+| *Occult Attack* | +10 | +    | +4+2 | +4 Cha  | -    | -
+| *Dex Attack*    | +9  | +    | +4+2 | +2 Dex  | +1   | -
+| *Str Attack*    | +7  | +    | +4+2 | +0 Str  | +1   | -
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
 |-----------------|-------------|------|-----------|--------|
-| *Javelin*       | +8          | +    | 1d6 P     | Thrown (30 ft)
-| *Poi*           | +8          | +    | 1d4 B     | Agile, Backswing, Finesse, Nonlethal
-| *Sickle*        | +8          | +    | 1d4 S     | Agile, Finesse, Trip
-| *Breath*     >> | 19 B Ref    | -    | 2d4 Fire  | 30-ft line, 1d4 rd CD
+| *Javelin*       | +9          | +    | 2d6 P     | Thrown (30 ft)
+| *Poi*           | +9          | +    | 2d4 B     | Agile, Backswing, Finesse, Nonlethal
+| *Sickle*        | +9          | +    | 2d4 S     | Agile, Finesse, Trip
+| *Breath*     >> | 20 B Ref    | -    | 2d4 Fire  | 30-ft line, 1d4 rd CD
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
 | *Acrobatics*    | +2  |      | +0   | +2 Dex  | -    | -
-| *Arcana*        | +5  | +    | +3+2 | +0 Int  | -    | -
-| *Athletics*     | +5  | +    | +3+2 | +0 Str  | -    | -
+| *Arcana*        | +6  | +    | +4+2 | +0 Int  | -    | -
+| *Athletics*     | +6  | +    | +4+2 | +0 Str  | -    | -
 | *Crafting*      | +0  |      | +0   | +0 Int  | -    | -
-| *Deception*     | +4  |      | +0   | +4 Cha  | -    | -
-| *Diplomacy*     | +4  |      | +0   | +4 Cha  | -    | -
-| *Intimidation*  | +12 | ++   | +3+4 | +4 Cha  | +1   | -
-| *L: Desert*     | +5  | +    | +3+2 | +0 Int  | -    | -
+| *Deception*     | +5  |      | +0   | +4 Cha  | -    | -
+| *Diplomacy*     | +5  |      | +0   | +4 Cha  | -    | -
+| *Intimidation*  | +13 | ++   | +4+4 | +4 Cha  | +1   | -
+| *L: Desert*     | +6  | +    | +4+2 | +0 Int  | -    | -
 | *Medicine*      | +2  |      | +0   | +2 Wis  | -    | -
-| *Nature*        | +7  | +    | +3+2 | +2 Wis  | -    | -
-| *Occultism*     | +5  | +    | +3+2 | +0 Int  | -    | -
-| *Performance*   | +9  | +    | +3+2 | +4 Cha  | -    | -
+| *Nature*        | +8  | +    | +4+2 | +2 Wis  | -    | -
+| *Occultism*     | +6  | +    | +4+2 | +0 Int  | -    | -
+| *Performance*   | +10 | +    | +4+2 | +4 Cha  | -    | -
 | *Religion*      | +2  |      | +0   | +2 Wis  | -    | -
 | *Society*       | +0  |      | +0   | +0 Int  | -    | -
-| *Stealth*       | +7  | +    | +3+2 | +2 Dex  | -    | -
-| *Survival*      | +7  | +    | +3+2 | +2 Wis  | -    | -
-| *Thievery*      | +7  | +    | +3+2 | +2 Dex  | -    | -
+| *Stealth*       | +8  | +    | +4+2 | +2 Dex  | -    | -
+| *Survival*      | +8  | +    | +4+2 | +2 Wis  | -    | -
+| *Thievery*      | +8  | +    | +4+2 | +2 Dex  | -    | -
 |-----------------|-----|------|------|---------|------|------|
 
 ### Automatic Bonus Progression
@@ -102,6 +103,11 @@
 - Lvl 17, upgrade +2 skill to +3, then choose new skill for +1
 - Lvl 17, upgrade +2 skill to +3, then upgrade +1 skill to +2, then choose new skill for +1
 - You can spend 1 week to retrain one of these assignments at any time
+
+#### Devastating Attacks
+- Lvl 4, weapon/unarmed Strikes deal 2 dice instead of 1
+- Lvl 12, increase to 3
+- Lvl 19, increase to 4
 
 ### Skill & General Feats
 #### Assurance (Survival) (1st)
@@ -280,3 +286,8 @@
 - Eidolon rideable by smaller creatures
 - When I ride it, do not reduce my own action pool (unlike usual riding of sapient creatures)
 - Eidolon's move actions when mounted gain `[Tandem]`
+
+
+1.5 oz Rye Whisky
+3/4 oz BBotE
+3/4 oz Vanilla Syrup

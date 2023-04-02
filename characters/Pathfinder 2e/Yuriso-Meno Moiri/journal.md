@@ -1,17 +1,39 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Lvl 4 Planning
+### Session 21?future - 2023-04-23
+### Session 20?future - 2023-04-16
+### Session 19?future - 2023-04-09
+#### Lvl 4 Planning
 - +11 hp (10+Con)
+- +1 proficiency bonus
+- devastating attacks (two dice)
+- YMM & MYM fire resist +1
+
 - [skill feat]
 - [summoner class feat]
 - [archetype feat]
-- +1 lvl 2 spell, +1 lvl 2 spell slot
-- +1 proficiency bonus
-- YMM & MYM fire resist +1
-- devastating attacks (two dice)
+- +1 lvl 2 spell
 
-### Session 18?future - 2023-03-26
-- 
+### Session 18 - 2023-04-01
+- Tamli gives the group Bort's collection of rings
+    - We divide and organize belongings
+- Granz makes to leave on her own to the alchemist's fort
+    - Argument erupts over motivations and best course of action
+    - Granz mind-shares Vilree convo and original plan to burn fort, only with YMM
+- Mists start to appear, interrupting our argument
+    - Granz bolts into the mists, we are all left behind
+- [Meta decision, Granz is leaving the party, may return as BBEG]
+    - Party direction: New Belameer, gather info from Iona and fight the vampiric leadership
+- Rasa and firecat split off to sneak towards the fort to keep an eye on it
+- Sakari, Surya, Karchanek, and Yuriso-Meno drag the plaguestone to the orc homestead
+    - Encounter mysterious note on the wall of the homestead, in mud, with a small hand
+        - Further notes explain Granz' willing cooperation with Vilree
+        - All but YMM have harsh reaction to both the note and the fungal effects' aftermath
+    - Surya realizes there is an age bracket missing from the homestead, confirms the theory that the majority of the mercenaries are from here
+        - Funeral pyre is held, whole homestead contents eventually catch and burn
+*Level up to 4*
+
+### 2023-03-26, No Session
 
 ### Session 17 - 2023-03-18
 - Oh no it's the orc rider on the stone horse oh dear they are riding into town
@@ -19,11 +41,13 @@
     - Tried desperately to reach the plaguestone with a magic ring, failed
     - Loot: Scale mail, crossbow w/ 20 bolts, shortsword, 2 vials of energy mutagen (fire)
     - Iron ring, engraved with the phases of the moon
-- The town's titular plaguestone is discovered to be filled with green goop
+- Rasa and YMM conked out after the fight to rest
+- The town's titular plaguestone is discovered by the rest of the group to be filled with green goop
     - The hollow in it is filled with sawdust, to drastically slow potential for spillage or evaporation, and sealed over with plaster
 - Granz goes to the sanctuary to rest, wakes up and has meeting with Vilree, the elf lady behind the viridian vapors
     - Granz agrees to stay out of the fight, in exchange for Vilree putting a stop to alchemical waste spillage
     - Granz and Vilry hatch a plan to fake a loss at the fort assault
+
 ### Session 16 - 2023-03-11
 - Surya & Sakari in the cave
     - Acid-melt thru door to firecat, Surya rescues and befriends it
@@ -350,6 +374,7 @@ to/in |  +  |  +  |     |  +  |     |
     - A forest fire was started (likely the tanishwolf?), destroyed the cart
 - We continue on after 
 - *Level up to 2*
+- We are headed to the town of Plaguestone, more properly known as Etran's Folly
 
 ### Session 4 (Playing Iona Tsopanakis) - 2022-10-22
 - Get lockpicker to open lockbox

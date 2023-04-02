@@ -28,48 +28,48 @@
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
 |-----------------|-----|------|------|---------|------|-------|
-| *Natural AC*    | 19  | +    | +3+2 | +2 Dex  | +2   |  -
+| *Natural AC*    | 20  | +    | +4+2 | +2 Dex  | +2   |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Fortitude*     | +10 | ++   | +3+4 | +3 Con  | -    |  -
-| *Reflex*        | +7  | +    | +3+2 | +2 Dex  | -    |  -
-| *Will*          | +7  | ++   | +3+4 | -- Wis  | -    |  -
+| *Fortitude*     | +11 | ++   | +4+4 | +3 Con  | -    |  -
+| *Reflex*        | +8  | +    | +4+2 | +2 Dex  | -    |  -
+| *Will*          | +8  | ++   | +4+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
-| *Fire*          |  1  |                              |  -
+| *Fire*          |  2  |                              |  -
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
-| *Perception*    | +7  | ++   | +3+4 | -- Wis  | -    | -
-| *Dex Attack*    | +8  | +    | +3+2 | +2 Dex  | +1   | -
-| *Str Attack*    | +10 | +    | +3+2 | +4 Str  | +1   | -
+| *Perception*    | +8  | ++   | +4+4 | -- Wis  | -    | -
+| *Dex Attack*    | +9  | +    | +4+2 | +2 Dex  | +1   | -
+| *Str Attack*    | +10 | +    | +4+2 | +4 Str  | +1   | -
 
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage     | Traits |
 |-----------------|-------------|------|------------|--------|
-| *Claw*          | +10         | +    | 1d8+4 S    | Trip
-| *Tail*          | +10         | +    | 1d6+4 Fire | Agile, Finesse
+| *Claw*          | +10         | +    | 2d8+4 S    | Trip
+| *Tail*          | +10         | +    | 2d6+4 Fire | Agile, Finesse
 | *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic  | 30-ft cone, 1d4 rd CD
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
 |-----------------|-----|------|------|---------|------|------|
 | *Acrobatics*    | +2  |      | +0   | +2 Dex  | -    | -
-| *Arcana*        | +5  | +    | +3+2 | -- Int  | -    | -
-| *Athletics*     | +9  | +    | +3+2 | +4 Str  | -    | -
+| *Arcana*        | +6  | +    | +4+2 | -- Int  | -    | -
+| *Athletics*     | +10 | +    | +4+2 | +4 Str  | -    | -
 | *Crafting*      | +0  |      | +0   | -- Int  | -    | -
 | *Deception*     | +0  |      | +0   | -- Cha  | -    | -
 | *Diplomacy*     | +0  |      | +0   | -- Cha  | -    | -
-| *Intimidation*  | +8  | ++   | +3+4 | -- Cha  | +1   | -
-| *L: Jungle*     | +5  | +    | +3+2 | -- Int  | -    | -
+| *Intimidation*  | +9  | ++   | +4+4 | -- Cha  | +1   | -
+| *L: Jungle*     | +6  | +    | +4+2 | -- Int  | -    | -
 | *Medicine*      | +0  |      | +0   | -- Wis  | -    | -
-| *Nature*        | +5  | +    | +3+2 | -- Wis  | -    | -
-| *Occultism*     | +5  | +    | +3+2 | -- Int  | -    | -
-| *Performance*   | +5  | +    | +3+2 | -- Cha  | -    | -
+| *Nature*        | +6  | +    | +4+2 | -- Wis  | -    | -
+| *Occultism*     | +6  | +    | +4+2 | -- Int  | -    | -
+| *Performance*   | +6  | +    | +4+2 | -- Cha  | -    | -
 | *Religion*      | +0  |      | +0   | -- Wis  | -    | -
 | *Society*       | +0  |      | +0   | -- Int  | -    | -
-| *Stealth*       | +7  | +    | +3+2 | +2 Dex  | -    | -
-| *Survival*      | +5  | +    | +3+2 | -- Wis  | -    | -
-| *Thievery*      | +7  | +    | +3+2 | +2 Dex  | -    | -
+| *Stealth*       | +8  | +    | +4+2 | +2 Dex  | -    | -
+| *Survival*      | +6  | +    | +4+2 | -- Wis  | -    | -
+| *Thievery*      | +8  | +    | +4+2 | +2 Dex  | -    | -
 |-----------------|-----|------|------|---------|------|------|
 
 ## Abilities
@@ -92,21 +92,31 @@
 - Eidolon gains resistance to chosen type of half lvl (min 1)
 
 ## Inventory
-| **Main Inventory**       | Cost    | Blk | Notes
-|--------------------------|---------|-----|--------------------------
-|--------------------------|---------|-----|--------------------------
-| *Backpack*               |     .1  |   L | Stores 4 Blk at 2 Blk discount
-|--------------------------|---------|-----|--------------------------
-| Bedroll                  |     .02 |   L |
-| Fishing Tackle           |     .8  |   1 |
-| Rope                     |     .5  |   L |
-| Soap                     |     .02 |     |
-| Waterskin                |     .05 |   L |
-| 10x Chalk                |     .01/|     |
-| 2x Rations, Week's       |     .4/ |   L/|
-| 5x Torch                 |     .01/|   L/|
-|--------------------------|---------|-----|--------------------------
-| **Total**                |         | 0.1 | Unencumbered (Enc: 9, Max: 14)
+| **Main Inventory**                   | Cost    | Blk | Notes
+|--------------------------------------|---------|-----|--------------------------
+| [h] *Juggernaut Mutagen*             |         |   L |
+|--------------------------------------|---------|-----|--------------------------
+| *Saddle Bag*                         |     .1  |   L | Stores 3 Blk at 1 Blk discount
+|--------------------------------------|---------|-----|--------------------------
+| 2x Bedroll                           |     .02 |   L/|
+| Fishing Tackle                       |     .8  |   1 |
+| 2x Rope                              |     .5  |   L/|
+| 2x Soap                              |     .02 |     |
+| 2x Waterskin                         |     .05 |   L/|
+| 10x Chalk                            |     .01/|     |
+| Poi                                  |     .2  |   L |
+|--------------------------------------|---------|-----|--------------------------
+| *Saddle Bag*                         |     .1  |   L | Stores 3 Blk at 1 Blk discount
+|--------------------------------------|---------|-----|--------------------------
+| 4x Rations, Week's                   |     .4/ |   L/|
+| Fishing Tackle                       |     .8  |   1 |
+| Healer's Tools                       |    5    |   L |
+| *Juggernaut Mutagen*                 |         |   L |
+| *Healing Potion, Minor*              |    ?    |   L |
+|--------------------------------------|---------|-----|--------------------------
+| **Total**                            |         | 1.5 | Unencumbered (Enc: 9, Max: 14)
 
 ### Cash
 $0.0.0.0
+
+## Specific Items
