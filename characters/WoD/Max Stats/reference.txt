@@ -6,9 +6,16 @@
 ║ · 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: Anima Banner                                                               ║
-║ · After spending 3 Essence in a scene, Banner flares visible to naked eye, as bright as bonfire. ║
-║ · Banner fades after (3 x Essence Rating) minutes.                                               ║
+║ · Can only flare when spending Essence, increases maximum Essence/Turn (EPT).                    ║
+║ │ Rating │ Muted │ Flaring │                                                                     ║
+║ ├────────┼───────┼─────────┤                                                                     ║
+║ │      1 │     1 │       2 │                                                                     ║
+║ │      2 │     1 │       3 │                                                                     ║
+║ │      3 │     2 │       3 │                                                                     ║
+║ │      4 │     2 │       4 │                                                                     ║
+║ │      5 │     2 │       5 │                                                                     ║
 ║ · Unique color & texture: Yellow static with blue edges, green inner core, hints of purple.      ║
+║ · Banner fades after (3 x Essence Rating) minutes.                                               ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: "Larger Than Life" - Parrying, Soak, Supernatural Resilience, Stunting     ║
 ║ · May parry ranged atks, including bullets.                                                      ║
