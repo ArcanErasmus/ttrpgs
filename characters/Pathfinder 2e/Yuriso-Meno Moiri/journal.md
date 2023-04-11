@@ -13,6 +13,12 @@
 - [summoner class feat]
 - [archetype feat]
 - +1 lvl 2 spell
+    damage
+        acid arrow
+        flaming sphere
+    utility
+        dispel magic
+        empathic link
 
 ### Session 18 - 2023-04-01
 - Tamli gives the group Bort's collection of rings
