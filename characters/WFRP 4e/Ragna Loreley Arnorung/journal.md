@@ -17,6 +17,7 @@
     - 5x Giant Spider
     - 3x Baby Giant Spider
     - 1x Goblin With Big Hat
+    - 1x Goblin on Round Toothy Frog
     - 1x Giant Spider Matriarch
     - 1x Ghoul
     - 4x Emaciated Cannibal

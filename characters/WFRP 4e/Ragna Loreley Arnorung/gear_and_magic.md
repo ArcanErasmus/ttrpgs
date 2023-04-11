@@ -35,7 +35,7 @@
 |-----------------------------|-----|-----|--------------------------------
 | **Armor**                   |     |     |
 |-----------------------------|-----|-----|--------------------------------
-<!-- | Bear-Pelt Coat              |   1 |   W | [Leather Jack (Fine)] -->
+| Bear-Pelt Coat              |   1 |     | [Leather Jack (Fine)]
 | Plate Breastplate           |   3 |   W | Impenetrable, Weakpoints
 | Reinforced Soft Kit         |   1 |   W | Partial, Reinforced
 | Mail Chausses               |   3 |   W | Flexible
