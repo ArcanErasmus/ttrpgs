@@ -1,8 +1,8 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 21?future - 2023-04-23
-### Session 20?future - 2023-04-16
-### Session 19?future - 2023-04-09
+### Session 21?future - 2023-04-29
+### Session 20?future - 2023-04-22
+### Session 19?future - 2023-04-15
 #### Lvl 4 Planning
 - +11 hp (10+Con)
 - +1 proficiency bonus

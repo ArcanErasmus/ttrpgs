@@ -92,29 +92,29 @@
 - Eidolon gains resistance to chosen type of half lvl (min 1)
 
 ## Inventory
-| **Main Inventory**                   | Cost    | Blk | Notes
-|--------------------------------------|---------|-----|--------------------------
-| [h] *Juggernaut Mutagen*             |         |   L |
-|--------------------------------------|---------|-----|--------------------------
-| *Saddle Bag*                         |     .1  |   L | Stores 3 Blk at 1 Blk discount
-|--------------------------------------|---------|-----|--------------------------
-| 2x Bedroll                           |     .02 |   L/|
-| Fishing Tackle                       |     .8  |   1 |
-| 2x Rope                              |     .5  |   L/|
-| 2x Soap                              |     .02 |     |
-| 2x Waterskin                         |     .05 |   L/|
-| 10x Chalk                            |     .01/|     |
-| Poi                                  |     .2  |   L |
-|--------------------------------------|---------|-----|--------------------------
-| *Saddle Bag*                         |     .1  |   L | Stores 3 Blk at 1 Blk discount
-|--------------------------------------|---------|-----|--------------------------
-| 4x Rations, Week's                   |     .4/ |   L/|
-| Fishing Tackle                       |     .8  |   1 |
-| Healer's Tools                       |    5    |   L |
-| *Juggernaut Mutagen*                 |         |   L |
-| *Healing Potion, Minor*              |    ?    |   L |
-|--------------------------------------|---------|-----|--------------------------
-| **Total**                            |         | 1.5 | Unencumbered (Enc: 9, Max: 14)
+| **Main Inventory**       | Cost    | Blk | Notes
+|--------------------------|---------|-----|--------------------------
+| [h] *Juggernaut Mutagen* |         |   L |
+|--------------------------|---------|-----|--------------------------
+| *Saddle Bag*             |     .1  |   L | Stores 3 Blk at -1 Blk
+|--------------------------|---------|-----|--------------------------
+| 2x Bedroll               |     .02 |   L/|
+| Fishing Tackle           |     .8  |   1 |
+| 2x Rope                  |     .5  |   L/|
+| 2x Soap                  |     .02 |     |
+| 2x Waterskin             |     .05 |   L/|
+| 10x Chalk                |     .01/|     |
+| Poi                      |     .2  |   L |
+|--------------------------|---------|-----|--------------------------
+| *Saddle Bag*             |     .1  |   L | Stores 3 Blk at -1 Blk
+|--------------------------|---------|-----|--------------------------
+| 4x Rations, Week's       |     .4/ |   L/|
+| Fishing Tackle           |     .8  |   1 |
+| Healer's Tools           |    5    |   L |
+| *Juggernaut Mutagen*     |         |   L |
+| *Healing Potion, Minor*  |    ?    |   L |
+|--------------------------|---------|-----|--------------------------
+| **Total**                |         | 1.5 | Unencumbered (Enc: 9, Max: 14)
 
 ### Cash
 $0.0.0.0
