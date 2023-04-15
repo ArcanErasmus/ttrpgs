@@ -15,10 +15,10 @@
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5465/5255
+## Total/Spent XP: 5525/5455
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|  150 |   5 |  10 | WP
+|  350 |   5 |  15 | WP
 |  275 |   0 |  10 | WS
 |  275 |   0 |  10 | S
 |  275 |   0 |  10 | T
@@ -73,11 +73,11 @@
 | BS  | 32 |    |    |    | 32 |
 |^S   | 50 |    | 10 |    | 60 |
 |^T   | 55 |  5 | 10 |    | 70 |
-|^I   | 28 |    | 15 |    | 43 |
+|!I   | 28 |    | 15 |    | 43 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 17 |    |    |    | 17 |
 | Int | 27 |  5 |    |    | 32 |
-|^WP  | 42 |    | 10 |    | 52 |
+|!WP  | 42 |    | 15 |    | 56 |
 | Fel | 30 |    |    |    | 30 |
 
 ## Secondary Attributes
@@ -99,7 +99,7 @@
 |   | Charm Animal          |    | WP  |    |
 |   | Climb                 |    | S   |    |
 |!C | Consume Alcohol       | 15 | T   | 85 |
-|!C | Cool                  | 15 | WP  | 67 |
+|!C | Cool                  | 15 | WP  | 72 |
 | C | Dodge                 |  5 | Ag  | 35 |
 |   | Drive                 |    | Ag  |    |
 | C | Endurance             | 10 | T   | 80 |
@@ -350,27 +350,66 @@
 - Something given to me by priestess of Rhya
 
 ## Nations of Mankind - Veteran Talents (need Consult an Expert)
-- Armor-Monger
 - Guardian
-- Thunderous Charge
 - Tireless
 - True Grit
 
 ## Exp Planning
-### Rank 3->Exit: 300
-- Attributes: 0
-- Skills:  0
-- Talents: 200
-    - Battle Rage        |  1-> 2 | 200
-- Exit Career Early: 100
-
-### Rank 3->4: 1000
-- Attributes: 800
+### Rank 3->4, Minimum: 600
+- Attributes: 600
     - WS                 | 10->15 | 200
     - S                  | 10->15 | 200
     - T                  | 10->15 | 200
-    - WP                 | 10->15 | 200
 - Skills: 0
+- Talents: 0
+
+### Rank 3->4, Moderate skillbot: 2050
+- Attributes: 600
+    - WS                 | 10->15 | 200
+    - S                  | 10->15 | 200
+    - T                  | 10->15 | 200
+- Skills: 1250
+    - Dodge              |  5->10 |  75
+    - Endurance          | 10->15 | 100
+    - Gossip             |  5->10 |  75
+    - Heal               |  5->10 |  75
+    - Intimidate         |  5->10 |  75
+    - Language (Battle)  |  5->10 |  75
+    - Leadership         | 10->15 | 100
+    - Lo (Chaos)         |  5->10 |  75
+    - Lo (Norsca)        |  5->10 |  75
+    - Lo (The Old Faith) |  5->10 |  75
+    - Melee (Two-Handed) |  5->10 |  75
+    - Outdoor Survival   |  5->10 |  75
+    - Row                |   -> 5 |  50
+    - Sail (Barge)       |  5->15 | 175
+    - SecSigns (TaalRhya)|  5->10 |  75
+- Talents: 200
+    - Battle Rage        |  1-> 2 | 200
+
+### Rank 3->4, Maximum skillbot: 3640
+- Attributes: 600
+    - WS                 | 10->15 | 200
+    - S                  | 10->15 | 200
+    - T                  | 10->15 | 200
+- Skills: 2840
+    - Dodge              |  5->15 | 175
+    - Endurance          | 10->15 | 100
+    - Gossip             |  5->15 | 175
+    - Heal               |  5->15 | 175
+    - Intimidate         |  5->15 | 175
+    - Language (Battle)  |  5->15 | 175
+    - Leadership         | 10->15 | 100
+    - Lo (Chaos)         |  5->15 | 175
+    - Lo (Norsca)        |  5->15 | 175
+    - Lo (The Old Faith) |  5->15 | 175
+    - Lo (Trees)         | 10->15 | 100
+    - Melee (Two-Handed) |  5->15 | 175
+    - Outdoor Survival   |  5->15 | 175
+    - Row                |   ->15 | 225
+    - Sail (Barge)       |  5->15 | 175
+    - SecSigns (TaalRhya)|  5->15 | 175
+    - Trade (Feller)     |  1->15 | 215
 - Talents: 200
     - Battle Rage        |  1-> 2 | 200
 
@@ -426,3 +465,21 @@ As normal Frenzy, except instead of +1 SB & free attack, get:
 - You store up any damage that your TB reduces (after armor or similar effects, but before things like the Sturdy talent) up to a maximum of twice your TB.
 - The stored energy is lost when the Frenzy ends.
 - When you make a Melee attack, you may unleash your stored energy. Treat the attack as a Charge (giving an Advantage as normal), and on hit, convert all stored energy to bonus damage.
+
+## Custom Commissioned Weapon - Spiked Chain
+- 2 Flail base price, in GC
+- 4 +Long (reach) + Slash (2A)
+- 8 +Practical
+- 16 +Fine
+- 32 +Durable
+- 64 +Damaging
+- 128 +Fine (2)
+
+### Bonus, Bladed Tower Shield
+- 3 Large Shield base price, in GC
+- 6 +Durable
+- 12 +Not-Undamaging
+- 24 +Fine
+- 48 +Practical
+- 96 +Leightweight
+- 192 +Fine (2)

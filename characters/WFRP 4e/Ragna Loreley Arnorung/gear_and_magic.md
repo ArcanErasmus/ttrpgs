@@ -67,7 +67,7 @@
 |-----------------------------|-----|-----|--------------------------------
 | Javelin                     |   2 |     |
 |-----------------------------|-----|-----|--------------------------------
-| **Coins**                   |     |     | 1 GC 6/-
+| **Coins**                   |     |     | 1 GC 14/6
 |-----------------------------|-----|-----|--------------------------------
 | **Total**                   |     |  12 |
 
@@ -108,7 +108,7 @@
     - Some (3?) old but readable books, written in arcane text
     - Portraits of Wittgensteins (value: ?)
     - Four 6-pointed metal keys (plus one with Peronelle), plus a five-pointed metal key
-- gonna buy grain to give out at grunberg
+- got grain to give out at grunberg!
 
 ### Trade Goods
 - 0 units of ? (10 enc/unit)
@@ -119,7 +119,7 @@
 ## Inventory/Crew of The Svettbukk (Barge)
 - Crew: Renate, Arthur, Casper
 - 15 GC
-- gonna buy grain to give out at grunberg
+- got grain to give out at grunberg!
 
 ## Rumors
 - Other Trade Rumor: (2x price & always buyer) for Metal at Grünberg
