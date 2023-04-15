@@ -1,65 +1,82 @@
-╔════════════════════════════════╦════════════════════════════════════════════════════════════════════╗
-║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)            ║
-╠════════════════════════════════╬════════════╤═══════════════════════════════════════════════════════╣
-║ Core                           ║ Stat       │ Value                                                 ║
-╟────────────────────────────────╫────────────┼──────────────────────────────────┬────────────────────╢
-║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent     ║
-║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├────────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │  94/ 91            ║
-║ Affiliation - None             ║ LimitTrack │ ███▓▓ ▓▓▓▓░                      ├────────────────────╢
-║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed     ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/  7j/  13r yd ║
-╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤════════════╣
-║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec       ║
-╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
-║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Perception   │ ♦♦♦♦∙ │ Sensory    ║
-║ Dexterity  │ ♦♦∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦#│ BookLrning ║
-║            │       │           ║            │       │           ║              │       │ Creative   ║
-║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦∙∙∙ │           ║ Wits        C│ ♦♦♦#∙ │ Supernatrl ║
-╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪════════════╣
-║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec       ║
-╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
-║ Alertness  │ ♦♦♦∙∙ │           ║ Crafts     │ ♦♦♦∙∙ │ Invention ║ Academics    │ ♦∙∙∙∙ │ Math       ║
-║ Art        │ ∙∙∙∙∙ │           ║ Drive      │ ∙∙∙∙∙ │           ║ Computer     │ ♦∙∙∙∙ │            ║
-║ Athletics  │ ♦∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Cosmology    │ ♦∙∙∙∙ │            ║
-║ Awareness  │ ♦♦∙∙∙ │           ║ Firearms   │ ∙∙∙∙∙ │           ║ Enigmas      │ ∙∙∙∙∙ │            ║
-║ Brawl      │ ∙∙∙∙∙ │           ║ MartialArt │ ∙∙∙∙∙ │           ║ Esoterica    │ ∙∙∙∙∙ │            ║
-║ Empathy    │ ♦∙∙∙∙ │           ║ Meditation │ ∙∙∙∙∙ │           ║ Investigatn  │ ∙∙∙∙∙ │            ║
-║ Expression │ ♦∙∙∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Law          │ ∙∙∙∙∙ │            ║
-║ Intimidate │ ∙∙∙∙∙ │           ║ Research   │ ♦♦♦♦∙ │ NetSearch ║ Medicine     │ ♦∙∙∙∙ │            ║
-║ Leadership │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Occult       │ ♦∙∙∙∙ │            ║
-║ Streetwise │ ∙∙∙∙∙ │           ║ Survival   │ ♦∙∙∙∙ │ Prepared  ║ Politics     │ ∙∙∙∙∙ │            ║
-║ Subterfuge │ ∙∙∙∙∙ │           ║ Technology │ ♦♦♦♦∙ │ A/V       ║ Science      │ ♦♦♦♦∙ │ Paraphyscs ║
-╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼────────────╢
-║            │ ∙∙∙∙∙ │           ║ Security   │ ♦∙∙∙∙ │           ║ Conspiracies │ ♦♦♦∙∙ │            ║
-║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ CovertCultre │ ♦♦∙∙∙ │            ║
-║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ L:DarkKingms │ ♦∙∙∙∙ │            ║
-╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪════════════╣
-║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value      ║
-╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼────────────╢
-║ Enhancements       │ ♦♦♦··     ║ Computer Aptitude  │ ♦         ║ Child                │ ♦♦∙        ║
-║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Curiosity            │ ♦♦         ║
-║                    │           ║ Family Support     │ ♦♦∙       ║ Heart of Glass       │ ♦♦         ║
-║                    │           ║ Hideaway           │ ♦♦∙∙∙ ∙   ║ Nightmares           │ ♦∙∙        ║
-║                    │           ║ Hyperfocus         │ ♦♦♦       ║ Short                │ ♦♦♦        ║
-║                    │           ║ Lightning Calc     │ ♦         ║                      │            ║
-║                    │           ║ Medium             │ ♦♦        ║                      │            ║
-║                    │           ║ True Faith         │ ♦♦♦∙∙     ║                      │            ║
-╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧════════════╣
-║ Charm Array: Active Charms (O JJJJ SS LL)           │ Notes                                         ║
-╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
-║ - ++: Transitory Augmentation of Industry (∙)       │                                               ║
-║ - Or: Interpolative Syntax Emulator (♦)             │                                               ║
-║ - ++: Integrated Artifact Transmogrifier (∙)        │                                               ║
-║ - Ja: Imprinted Data Cluster (♦)                    │ Spec: Determined                              ║
-║ - Ja: Motivational Vocoder (♦)                      │                                               ║
-║ - Ja: Sustained Augmentation of Jade (♦)            │                                               ║
-║ - Ja: Synaptic Acceleration Node (♦)                │                                               ║
-║ - St: Metaneural Uplink Node (♦)                    │                                               ║
-║ - St: Omnitool Implant (♦)                          │                                               ║
-║ - So: Mobile Sensory Drone (♦)                      │                                               ║
-║ - So: Optical Enhancement (♦)                       │                                               ║
-╟─────────────────────────────────────────────────────┼───────────────────────────────────────────────╢
-║ Inactive Charms                                     │                                               ║
-║ - So: Transphase Engine (♦)                         │                                               ║
-╚═════════════════════════════════════════════════════╧═══════════════════════════════════════════════╝
+╔════════════════════════════════╦═══════════════════════════════════════════════════════════════════╗
+║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)           ║
+╠════════════════════════════════╬════════════╤══════════════════════════════════════════════════════╣
+║ Core                           ║ Stat       │ Value                                                ║
+╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
+║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
+║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │  97/ 93           ║
+║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███ !!!CLARITY!!!        ├───────────────────╢
+║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/  7j/ 13r yd ║
+╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═══════════╣
+║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec      ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
+║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Perception   │ ♦♦♦♦∙ │ ShrpSense ║
+║ Dexterity  │ ♦♦∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦#│ BookLearn ║
+║            │       │           ║            │       │           ║              │       │ Creative  ║
+║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦∙∙∙ │           ║ Wits        C│ ♦♦♦#∙ │ Supernat  ║
+╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═══════════╣
+║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec      ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
+║ Alertness  │ ♦♦♦∙∙ │           ║ Crafts     │ ♦♦♦∙∙ │ Invention ║ Academics    │ ♦∙∙∙∙ │ Math      ║
+║ Art        │ ∙∙∙∙∙ │           ║ Drive      │ ∙∙∙∙∙ │           ║ Computer     │ ♦∙∙∙∙ │           ║
+║ Athletics  │ ♦∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Cosmology    │ ♦∙∙∙∙ │           ║
+║ Awareness  │ ♦♦∙∙∙ │           ║ Firearms   │ ∙∙∙∙∙ │           ║ Enigmas      │ ∙∙∙∙∙ │           ║
+║ Brawl      │ ∙∙∙∙∙ │           ║ MartialArt │ ∙∙∙∙∙ │           ║ Esoterica    │ ∙∙∙∙∙ │           ║
+║ Empathy    │ ♦∙∙∙∙ │           ║ Meditation │ ∙∙∙∙∙ │           ║ Investigatn  │ ∙∙∙∙∙ │           ║
+║ Expression │ ♦∙∙∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Law          │ ♦∙∙∙∙ │           ║
+║ Intimidate │ ∙∙∙∙∙ │           ║ Research   │ ♦♦♦♦∙ │ NetSearch ║ Medicine     │ ♦∙∙∙∙ │           ║
+║ Leadership │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Occult       │ ♦∙∙∙∙ │           ║
+║ Streetwise │ ∙∙∙∙∙ │           ║ Survival   │ ♦∙∙∙∙ │ Prepared  ║ Politics     │ ∙∙∙∙∙ │           ║
+║ Subterfuge │ ∙∙∙∙∙ │           ║ Technology │ ♦♦♦♦∙ │ A/V       ║ Science      │ ♦♦♦♦∙ │ Paraphys  ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
+║            │ ∙∙∙∙∙ │           ║ Security   │ ♦∙∙∙∙ │           ║ Conspiracies │ ♦♦♦∙∙ │           ║
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ CovertCultre │ ♦♦∙∙∙ │           ║
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║ L:DarkKingms │ ♦∙∙∙∙ │           ║
+╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═══════════╣
+║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value     ║
+╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼───────────╢
+║ Enhancements       │ ♦♦♦··     ║ Computer Aptitude  │ ♦         ║ Child                │ ♦♦∙       ║
+║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Curiosity            │ ♦♦        ║
+║                    │           ║ Family Support     │ ♦♦∙       ║ Heart of Glass       │ ♦♦        ║
+║                    │           ║ Hideaway           │ ♦♦∙∙∙ ∙   ║ Nightmares           │ ♦∙∙       ║
+║                    │           ║ Hyperfocus         │ ♦♦♦       ║ Short                │ ♦♦♦       ║
+║                    │           ║ Lightning Calc     │ ♦         ║                      │           ║
+║                    │           ║ Mechanical Apt     │ ♦         ║                      │           ║
+║                    │           ║ Medium             │ ♦♦        ║                      │           ║
+║                    │           ║ True Faith         │ ♦♦♦∙∙     ║                      │           ║
+╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═══════════╣
+║ Charm Array: Active Charms                          │ Notes (Slots: O JJJJ SS LL)                  ║
+╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
+║ - ++: Transitory Augmentation of Industry (∙)       │                                              ║
+║ - Or: Interpolative Syntax Emulator (♦)             │                                              ║
+║ - ++: Integrated Artifact Transmogrifier (∙)        │                                              ║
+║ - Ja: Imprinted Data Cluster (♦)                    │ Spec: Determined                             ║
+║ - Ja: Motivational Vocoder (♦)                      │                                              ║
+║ - Ja: Sustained Augmentation of Jade (♦)            │                                              ║
+║ - Ja: Synaptic Acceleration Node (♦)                │                                              ║
+║ - St: Metaneural Uplink Node (♦)                    │                                              ║
+║ - St: Omnitool Implant (♦)                          │                                              ║
+║ - So: Mobile Sensory Drone (♦)                      │                                              ║
+║ - So: Optical Enhancement (♦)                       │                                              ║
+╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
+║ Inactive Charms                                     │                                              ║
+║ - So: Transphase Engine (♦)                         │                                              ║
+╚═════════════════════════════════════════════════════╧══════════════════════════════════════════════╝
+
+Collected Modifiers:
+· Global
+    · x1/2 to base movement speed (Flaw, Short)
+    · +5 dice innate countermagick (Background, Primium Countermeasures)
+    · +3 dice innate countermagick (Merit, True Faith)
+· Situational
+    · -2 diff for computer-based (Merit, Computer Aptitude)
+    · -2 diff to work with mechanical technologies (Merit, Mechanical Aptitude)
+    · Ignore penalties for distracting scenarios (Merit, Concentration)
+    · +1 die/hr, max 3, when focusing without distractions on a task (Merit, Hyperfocus)
+    · -2 diff to social rolls when dealing with ghosts (Merit, Medium)
+    · +2 agg damage received for Life-based damaging magick (Background, Enhancements)
+· Talents
+    · Awareness
+        · -2 diff to sense magick (Merit, True Faith)

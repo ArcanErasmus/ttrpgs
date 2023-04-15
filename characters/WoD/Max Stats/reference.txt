@@ -2,11 +2,11 @@
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Rules for Intimacies:                                                                            ║
-║ · When pressured to betray an Intimacy (incl. supernatural), roll WP diff 8 to resist.           ║
-║ · 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
+║ - When pressured to betray an Intimacy (incl. supernatural), roll WP diff 8 to resist.           ║
+║ - 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: Anima Banner                                                               ║
-║ · Can only flare when spending Essence, increases maximum Essence/Turn (EPT).                    ║
+║ - Can only flare when spending Essence, increases maximum Essence/Turn (EPT).                    ║
 ║ │ Rating │ Muted │ Flaring │                                                                     ║
 ║ ├────────┼───────┼─────────┤                                                                     ║
 ║ │      1 │     1 │       2 │                                                                     ║
@@ -14,24 +14,24 @@
 ║ │      3 │     2 │       3 │                                                                     ║
 ║ │      4 │     2 │       4 │                                                                     ║
 ║ │      5 │     2 │       5 │                                                                     ║
-║ · Unique color & texture: Yellow static with blue edges, green inner core, hints of purple.      ║
-║ · Banner fades after (3 x Essence Rating) minutes.                                               ║
+║ - Unique color & texture: Yellow static with blue edges, green inner core, hints of purple.      ║
+║ - Banner fades after (3 x Essence Rating) minutes.                                               ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: "Larger Than Life" - Parrying, Soak, Supernatural Resilience, Stunting     ║
-║ · May parry ranged atks, including bullets.                                                      ║
-║ · May soak agg damage.                                                                           ║
-║ · Considered more-than-human for powers which have lessened effect vs supernaturals.             ║
-║ · No penalties/diff for doing actions in ridiculous and flashy way.                              ║
+║ - May parry ranged atks, including bullets.                                                      ║
+║ - May soak agg damage.                                                                           ║
+║ - Considered more-than-human for powers which have lessened effect vs supernaturals.             ║
+║ - No penalties/diff for doing actions in ridiculous and flashy way.                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: Poison & Disease                                                           ║
-║ · Resisting/soaking/recovering from poisons at -2 diff.                                          ║
-║ · Mundane diseases can weaken but not kill.                                                      ║
-║ · Each successive roll to recover from a disease at cumulative -1 diff.                          ║
-║ · Incurable diseases purged from system in (8 - Stamina) weeks.                                  ║
+║ - Resisting/soaking/recovering from poisons at -2 diff.                                          ║
+║ - Mundane diseases can weaken but not kill.                                                      ║
+║ - Each successive roll to recover from a disease at cumulative -1 diff.                          ║
+║ - Incurable diseases purged from system in (8 - Stamina) weeks.                                  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Special Exalted Rule: Healing                                                                    ║
-║ · Fast healing, more like slow regeneration, never scars, but doesn't regen lost limbs.          ║
-║ · Heal supernatural disfigurement as if Incapacitated-level lethal dmg.                          ║
+║ - Fast healing, more like slow regeneration, never scars, but doesn't regen lost limbs.          ║
+║ - Heal supernatural disfigurement as if Incapacitated-level lethal dmg.                          ║
 ║ │ Health Lvl │ Bashing │ Lethal/Agg │                                                            ║
 ║ ├────────────┼─────────┼────────────┤                                                            ║
 ║ │ Bruised    │ 30 mins │ 1 hour     │                                                            ║
@@ -56,7 +56,7 @@
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Caste: Jade                                                                                      ║
 ║ - While anima is flaring, add Essence Rating to soak rolls.                                      ║
-║ - Regain Essence when defending or advanceing an Intimacy through persistence or endurance.      ║
+║ - Regain Essence when defending or advancing an Intimacy through persistence or endurance.       ║
 ║ - Regain (3 + Essence Rating) Essence when the sun rises.                                        ║
 ║ - If beginning a scene at 0 Essence, gain 1 Essence.                                             ║
 ║ - Regain 1 Essence every 15 mins in a Node, & every 3 hours in the Spirit World.                 ║
