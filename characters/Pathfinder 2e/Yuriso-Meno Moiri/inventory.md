@@ -13,13 +13,12 @@
 |-----------------------------------|---------|-----|--------------------------
 | **Main Inventory**                | Cost    | Blk | Notes
 |-----------------------------------|---------|-----|--------------------------
-| [i] *Warrior's Training Ring*     |  160    |     | Add lvl to 
+| [i] *Warrior's Training Ring*     |  160    |     | Add lvl to untrained wpns
 |-----------------------------------|---------|-----|--------------------------
 | *Backpack*                        |     .1  |   L | Stores 4 Blk at -2 Blk
 |-----------------------------------|---------|-----|--------------------------
 | Thieves' Tools                    |    3    |   1 |
 |   3x Replacement picks            |     .3/ |     |
-| 3x *Alchemist's Fire, Lesser*     |    ?    |   L/|
 | 3x *Thunderstone, Lesser*         |    ?    |   L/|
 | 3x (U) alchemical thing from trap |    ?    |   L/|
 | 3x (U) alchemical thing from trap |    ?    |   L/|
@@ -92,11 +91,11 @@ $25.80
 
 ## Specific Items
 - 1x *Minor Healing Potion*
-    - ?
+    - restore 1d8
 - 3x *Alchemist's Fire, Lesser*
-    - ?
+    - 1d8 fire, 1 persistent fire, 1 sonic splash
 - 3x *Thunderstone, Lesser*
-    - ?
+    - 1d8 sonic, 1 sonic splash, DC 17 fortitude within 10ft or deafened until end of their next turn
 - 3x (U) alchemical thing from trap #5
     - ?
 - 3x (U) alchemical thing from trap #6

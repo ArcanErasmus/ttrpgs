@@ -2,23 +2,20 @@
 ## Event Log
 ### Session 21?future - 2023-04-29
 ### Session 20?future - 2023-04-22
-### Session 19?future - 2023-04-15
-#### Lvl 4 Planning
-- +11 hp (10+Con)
-- +1 proficiency bonus
-- devastating attacks (two dice)
-- YMM & MYM fire resist +1
+- NOTES FOR FIGHT IN PROGRESS
+    - I have Shattering Gem active, 9 rds remaining
+    - Meno-Yuriso breath weapon on CD, 2 rds remaining
+    - Meno-Yuriso holding Mystery Alchemical Weapon #5
+    - Yuriso-Meno holding kukri
 
-- [skill feat]
-- [summoner class feat]
-- [archetype feat]
-- +1 lvl 2 spell
-    damage
-        acid arrow
-        flaming sphere
-    utility
-        dispel magic
-        empathic link
+### Session 19 - 2023-04-15
+- Group heads towards the fort, meets up nearby with Rasa and Hansa
+    - A messenger, Vendari the Lesser, arrives with the tragic news that the temple of V'kandis in New Belameer was razed, occupants were taken captive
+    - We plan how to assault the fort
+- Group dives in, rapelling over the hillside piecemeal while firing on the defenders
+    - Yuriso-Meno lights the straw hut's roof ablaze
+    - After taking light casualties, defenders retreat inside to coordinate a response
+    - After the group has mostly rapelled, defenders rush out of the straw hut
 
 ### Session 18 - 2023-04-01
 - Tamli gives the group Bort's collection of rings

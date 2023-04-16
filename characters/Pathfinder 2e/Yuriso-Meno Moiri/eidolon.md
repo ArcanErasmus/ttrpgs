@@ -46,9 +46,11 @@
 ### Attacks
 | **Offense**     | Sum/DC&Save | TEML | Damage     | Traits |
 |-----------------|-------------|------|------------|--------|
-| *Claw*          | +10         | +    | 2d8+4 S    | Trip
+| *Claw*          | +10         | +    | 2d8+4 S^   | Trip
 | *Tail*          | +10         | +    | 2d6+4 Fire | Agile, Finesse
 | *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic  | 30-ft cone, 1d4 rd CD
+^ +1d6+1 persistent bleed on crit
+- [x] *Crushing*: On crit, target gets Clumsy 1 & Enfeebled 1 until start of your next turn
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
@@ -59,12 +61,12 @@
 | *Crafting*      | +0  |      | +0   | -- Int  | -    | -
 | *Deception*     | +0  |      | +0   | -- Cha  | -    | -
 | *Diplomacy*     | +0  |      | +0   | -- Cha  | -    | -
-| *Intimidation*  | +9  | ++   | +4+4 | -- Cha  | +1   | -
+| *Intimidation*  | +6  | +    | +4+2 | -- Cha  |      | -
 | *L: Jungle*     | +6  | +    | +4+2 | -- Int  | -    | -
 | *Medicine*      | +0  |      | +0   | -- Wis  | -    | -
 | *Nature*        | +6  | +    | +4+2 | -- Wis  | -    | -
 | *Occultism*     | +6  | +    | +4+2 | -- Int  | -    | -
-| *Performance*   | +6  | +    | +4+2 | -- Cha  | -    | -
+| *Performance*   | +9  | ++   | +4+4 | -- Cha  | -    | -
 | *Religion*      | +0  |      | +0   | -- Wis  | -    | -
 | *Society*       | +0  |      | +0   | -- Int  | -    | -
 | *Stealth*       | +8  | +    | +4+2 | +2 Dex  | -    | -

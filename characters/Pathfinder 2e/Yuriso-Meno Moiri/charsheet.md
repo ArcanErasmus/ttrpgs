@@ -77,12 +77,12 @@
 | *Crafting*      | +0  |      | +0   | +0 Int  | -    | -
 | *Deception*     | +5  |      | +0   | +4 Cha  | -    | -
 | *Diplomacy*     | +5  |      | +0   | +4 Cha  | -    | -
-| *Intimidation*  | +13 | ++   | +4+4 | +4 Cha  | +1   | -
+| *Intimidation*  | +10 | +    | +4+2 | +4 Cha  | -    | -
 | *L: Desert*     | +6  | +    | +4+2 | +0 Int  | -    | -
 | *Medicine*      | +2  |      | +0   | +2 Wis  | -    | -
 | *Nature*        | +8  | +    | +4+2 | +2 Wis  | -    | -
 | *Occultism*     | +6  | +    | +4+2 | +0 Int  | -    | -
-| *Performance*   | +10 | +    | +4+2 | +4 Cha  | -    | -
+| *Performance*   | +13 | ++   | +4+4 | +4 Cha  | +1   | -
 | *Religion*      | +2  |      | +0   | +2 Wis  | -    | -
 | *Society*       | +0  |      | +0   | +0 Int  | -    | -
 | *Stealth*       | +8  | +    | +4+2 | +2 Dex  | -    | -
@@ -109,35 +109,6 @@
 - Lvl 12, increase to 3
 - Lvl 19, increase to 4
 
-### Skill & General Feats
-#### Assurance (Survival) (1st)
-`[Fortune]` `[General]` `[Skill]`
-- Can forego a skill roll to receive result of 10 + proficiency (add no other modifiers)
-
-#### Illiteracy (ANTI-FEAT) (1st)
-`[General]` `[Homebrew]` `[Skill]`
-- You can't read any written language
-- Gain an additional skill training
-- This does not cost a feat to take, but does require spending a Skill Feat to remove
-
-#### Read Psychometric Resonance (2nd)
-`[Uncommon]` `[Concentrate]` `[Divination]` `[Emotion]` `[Exploration]` `[General]` `[Mental]` `[Occult]` `[Skill]`
-- With touch, read psychic impressions on objects left by previous owners
-- As exploration activity, move at half speed (similar to Detect Magic) to brush all objects in path
-- Detects objects with significant emotional resonance (joy on child's teddy bear, sorrow on widower's ring, fear on victim's murder weapon)
-- Can choose to filter for only specific emotions
-- When focusing on specific item, can assess resonance:
-##### Psychometric Assessment
-`[Concentrate]` `[Divination]` `[Emotion]` `[Exploration]` `[Mental]` `[Occult]`
-- *Requirements*: Touching object with previously-detected resonance with bare hands
-- Spend 1 min concentrating to get a vision of the face of the person who imbued item with such emotion
-- If associated emotion is painfully negative, may take 1d6 psychic dmg at GM discretion
-
-#### Intimidating Glare (3rd)
-`[General]` `[Skill]`
-- Can Demoralize with `[Visual]` instead of `[Auditory]`
-- When you do, no penalty for not sharing a language
-
 ## Ancestry & Background
 ### Ancestry - Kobold
 `[Uncommon]` `[Humanoid]`
@@ -152,13 +123,6 @@
 - *Draconic exemplar*: Brass
 - *Scale color*: Brass (with emerald patches/streaks)
 - *Breath Weapon Details*: Line shape, Fire damage, Reflex save
-
-### Ancestry Feats
-#### Kobold Breath (1st)
-`[Arcane]` `[Evocation]` `[Fire]` `[Kobold]` `[>>]`
-- Breath weapon: 30-ft line, Basic Reflex save vs higher of Class or Spell DC, cooldown 1d4 rds
-- Damage 2d4 Fire, +1d4 at every further odd lvl
-- (This ability has been auto-heightened from Level 1 (+2))
 
 ### Background - Nomad (Jungle)
 - Con/Wis boost, free ability boost
@@ -261,16 +225,33 @@
 ### Unlimited Signature Spells
 - All spells are signature spells, can heighten
 
-### Class & Archetype Feats
-#### Energy Heart (1st)
+### Feats
+#### Kobold Breath [Ancestry] (1st)
+`[Arcane]` `[Evocation]` `[Fire]` `[Kobold]` `[>>]`
+- Breath weapon: 30-ft line, Basic Reflex save vs higher of Class or Spell DC, cooldown 1d4 rds
+- Damage 2d4 Fire, +1d4 at every further odd lvl
+- (This ability has been auto-heightened from Level 1 (+2))
+
+#### Energy Heart [Class] (1st)
 `[Evolution]` `[Summoner]`
 - *Energy Damage Type*: Fire
 - One eidolon unarmed attack changes damage type to that chosen
 - Eidolon gains resistance to chosen type of half lvl (min 1)
 
-#### Bard Dedication (2nd) (FREE)
+#### Assurance [Skill] (1st) (FREE)
+`[Fortune]` `[General]` `[Skill]`
+- Chosen skill: Survival
+- Can forego a skill roll to receive result of 10 + proficiency (add no other modifiers)
+
+#### Illiteracy [Skill] (ANTI-FEAT) (1st)
+`[General]` `[Homebrew]` `[Skill]`
+- You can't read any written language
+- Gain an additional skill training
+- This does not cost a feat to take, but does require spending a Skill Feat to remove
+
+#### Bard Dedication [Archetype] (2nd) (FREE)
 `[Archetype]` `[Dedication]` `[Multiclass]`
-- *Muse*: Maestro
+- *Muse*: Polymath
 - Can use Cast a Spell like a bard
 - Gain two common cantrips from occult list or any other list you have access to
 - Trained in spell attack rolls and DCs for occult spells
@@ -281,13 +262,47 @@
     - Do not gain any other abilities from the muse
 - Can't take another dedication feat until taking 2+ other bard archetype feats
 
-#### Steed Form (2nd)
+#### Steed Form [Class] (2nd)
 `[Evolution]` `[Summoner]`
 - Eidolon rideable by smaller creatures
 - When I ride it, do not reduce my own action pool (unlike usual riding of sapient creatures)
 - Eidolon's move actions when mounted gain `[Tandem]`
 
+#### Read Psychometric Resonance [Skill] (2nd)
+`[Uncommon]` `[Concentrate]` `[Divination]` `[Emotion]` `[Exploration]` `[General]` `[Mental]` `[Occult]` `[Skill]`
+- With touch, read psychic impressions on objects left by previous owners
+- As exploration activity, move at half speed (similar to Detect Magic) to brush all objects in path
+- Detects objects with significant emotional resonance (joy on child's teddy bear, sorrow on widower's ring, fear on victim's murder weapon)
+- Can choose to filter for only specific emotions
+- When focusing on specific item, can assess resonance:
+##### Psychometric Assessment
+`[Concentrate]` `[Divination]` `[Emotion]` `[Exploration]` `[Mental]` `[Occult]`
+- *Requirements*: Touching object with previously-detected resonance with bare hands
+- Spend 1 min concentrating to get a vision of the face of the person who imbued item with such emotion
+- If associated emotion is painfully negative, may take 1d6 psychic dmg at GM discretion
 
-1.5 oz Rye Whisky
-3/4 oz BBotE
-3/4 oz Vanilla Syrup
+#### Virtuostic Performer [General] (3rd)
+`[General]` `[Skill]`
+- +1 circumstance bonus with certain type of performance
+- Increases to +2 at Master in Performance
+- Type: Acting (Ex: Drama, pantomime, puppetry)
+
+#### Bloodletting Claws [Class] (4th)
+`[Evolution]` `[Summoner]`
+- When eidolon crits with melee unarmed Strike that deals slashing or piercing, add 1d6 persistent bleed
+- Gain item bonus to this damage equal to the item bonus to the attack roll
+- This is a critical specialization effect
+
+#### Basic Muse's Whispers [Archetype] (4th) (FREE)
+`[Archetype]`
+- Gain a 1st- or 2nd-lvl Bard feat
+##### Versatile Performance (FREE)
+`[Bard]`
+- Can use Performance instead of Diplomacy to Make an Impression
+- Can use Performance instead of Intimidation to Demoralize
+- Can use an acting Performance instead of Deception to Impersonate
+- Can use proficiency in Performance to meet requirements of skill feats relying on a specific rank in Deception, Diplomacy, or Intimidation
+
+#### Distracting Performance [Skill] (4th)
+`[General]` `[Skill]`
+- When Aid an ally to Create a Diversion, instead can roll Performance and use that result to determine outcome (ally does not roll)

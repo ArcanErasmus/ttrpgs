@@ -4,8 +4,8 @@
 | **Spells** |  Value       | Notes
 |------------|--------------|-----------
 | *Focus*    |  [x]         | +1/Refocus
-|  1st       |  [x] [x]     |
-|  2st       |  [x] [x]     |
+|  1st       |  [x] [ ]     |
+|  2st       |  [x] [ ]     |
 
 ### Quick List
 Summoner - Arcane
@@ -21,7 +21,7 @@ Summoner - Arcane
     - `[>>]` Shattering Gem - Touch, 1 min, gem intercepts Strikes & explodes
 - Lvl 2
     - `[> - >>>]` Scorching Ray - 60ft, 1 target/action, 2d6 per for 1 action, 4d6 for 2-3
-    - [PICK ONE]
+    - `[>>]` Flaming Sphere - 30ft, create orb 3d6 fire, basic Reflex, 
 
 Bard - Occult
 - Cantrip
@@ -129,6 +129,16 @@ You fire a ray of heat and flame. Make a spell attack roll against a single crea
 
 For each additional action you use when Casting the Spell, you can fire an additional ray at a different target, to a maximum of three rays targeting three different targets for 3 actions. These attacks each increase your multiple attack penalty, but you don't increase your multiple attack penalty until after you make all the spell attack rolls for scorching ray. If you spend 2 or more actions Casting the Spell, the damage increases to 4d6 fire damage on a hit, and it still deals double damage on a critical hit.
 - *Heightened (+1)* The damage to each target increases by 1d6 for the 1-action version, or by 2d6 for the 2-action and 3-action versions.
+
+#### Flaming Sphere
+`[Evocation]` `[Fire]` `[>>]`
+- *Cast*: Somatic, verbal
+- *Range*: 30ft
+- *Area*: 1 5ft square
+- *Saving Throw*: Reflex
+- *Duration*: Sustained up to 1 minute
+You create a sphere of flame in a square within range. The sphere must be supported by a solid surface, such as a stone floor. The sphere deals 3d6 fire damage to each creature in the square where it first appears; each creature must attempt a basic Reflex save. On subsequent rounds, the first time you Sustain this Spell, you can leave the sphere in its square or roll it to another square within range and dealing 3d6 fire damage; each creature in its square must attempt a basic Reflex save. Creatures that succeed at their save take no damage (instead of half).
+- *Heightened (+1)* The damage increases by 1d6.
 
 ## Bard Archetype (Occult)
 ### Cantrips
