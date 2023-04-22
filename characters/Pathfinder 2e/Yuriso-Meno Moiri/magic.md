@@ -9,23 +9,25 @@
 
 ### Quick List
 Summoner - Arcane
-- Cantrip
-    - `[>>]` Electric Arc - 30ft, 2 target, 2d4 electricity
+- Cantrip (+1)
+    - `[>>]` Electric Arc +1 - 30ft, 2 target, 2d4+SAM electricity
     - `[>>]` Bullhorn - 10 min, carry voice min 500 ft, +1 Perform at large venue
-    - `[>>]` Gouging Claw - Melee, 2d6 slash/pierce, crit 2d4 persistent bleed
+    - `[>>]` Gouging Claw +1 - Melee, 2d6+SAM slash/pierce, crit 2d4 persistent bleed
     - `[>]` Protect Companion - +1 AC to eidolon; block 5 dmg & force 10 min CD
     - `[>>]` Prestidigitation - 10 min, cook/lift/make/tidy
 - Lvl 1
     - `[>>]` Burning Hands - 15ft cone, 2d6 fire, basic Reflex
     - `[>>]` Mage Armor - Until re-prep, +1 item to AC
-    - `[>>]` Shattering Gem - Touch, 1 min, gem intercepts Strikes & explodes
+    - `[>>]` Shattering Gem - Touch, 1 min, absorb Strikes 5hp then explode 1d8
 - Lvl 2
     - `[> - >>>]` Scorching Ray - 60ft, 1 target/action, 2d6 per for 1 action, 4d6 for 2-3
-    - `[>>]` Flaming Sphere - 30ft, create orb 3d6 fire, basic Reflex, 
+    - `[>>]` Flaming Sphere - 30ft, create orb 3d6 fire, basic Reflex, can move, no dmg on save
+    - `[>>]` Burning Hands +1 - 15ft cone, 4d6 fire, basic Reflex
+    - `[>>]` Shattering Gem +1 - Touch, 1 min, absorb Strikes 10hp & explodes 2d8
 
 Bard - Occult
 - Cantrip
-    - `[>]` Join Pasts - 1 rd, share memories, can Aid RecallKn using any Lore
+    - `[>]` Join Pasts +1 - 1 rd, share memories, can Aid RecallKn using any Lore
     - `[>]` Message - 120 ft, talk silently to target, can briefly respond
 
 Link Spells - Focus
