@@ -3,7 +3,7 @@
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
 ║ Archetype - Benefactor Nature, Innovator Demeanor:                                               ║
 ║ - Benefactor: Strength in altruism, weakness in obligation                                       ║
-║     - Regain Willpower when you provide help that someone else *desperately* needs.              ║
+║  - Regain Willpower when you provide help that someone else *desperately* needs.                 ║
 ║ - Innovator: Strength in creativity, weakness in unorthodoxy                                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Intimacies:                                                                                      ║
@@ -36,20 +36,23 @@
 ║ - Turn mostly-abandoned listening post into personal lab/hideout/pirate radio.                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Group Relations                                                                                  ║
-║ - Summer Moore                                                                                   ║
-║     - Thought she was a ghost, asked Autumn about this, then invited them to the D&D club.       ║
-║     - Summer showed up to D&D with a 7-page backstory dripping with edge and angst, Max read it  ║
-║       cover to cover several times.                                                              ║
-║ - Autumn Moore                                                                                   ║
-║     - Shoved me out the door when I interrogated Autumn about ghost-ness.                        ║
-║     - Showed up to D&D with Summer, made the most obnoxious Mary Sue murderhobo.                 ║
+║ - Summer Moore (she)                                                                             ║
+║  - Thought she was a ghost, asked Autumn about this, then invited them to the D&D club.          ║
+║  - Summer showed up to D&D with a 7-page backstory dripping with edge and angst, Max read it     ║
+║    cover to cover several times.                                                                 ║
+║ - Autumn Moore (she)                                                                             ║
+║  - Shoved me out the door when I interrogated Autumn about ghost-ness.                           ║
+║  - Showed up to D&D with Summer, made the most obnoxious Mary Sue murderhobo.                    ║
+║ - Ellen Pérez-Northway (she)                                                                     ║
+║  -                                                                                               ║
+║ - Spider (she/they)                                                                              ║
+║  -                                                                                               ║
+║ Former Group Relations                                                                           ║
 ║ - Klaus Statler (No Relation)                                                                    ║
-║     - The best DM                                                                                ║
-║     - TODO: Ask for cool magic SFX                                                               ║
+║  - The best DM                                                                                   ║
 ║  - Helter (The Black Goat)                                                                       ║
-║     - Looking at him through the Detectificator awakened my superpowers                          ║
-║ - Ellen Pérez-Northway                                                                           ║
-║     -                                                                                            ║
+║  - Looking at him through the Detectificator awakened my superpowers                             ║
+║ - Scott Waldorf                                                                                  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Contacts                                                                                         ║
 ║ - Samantha ??? | Blockbuster Samantha                                                            ║

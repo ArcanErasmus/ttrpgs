@@ -79,11 +79,11 @@
 ║ Soulsteel Charm: Optical Enhancement (♦)                                                         ║
 ║ - Aesthetic: Lenses fixed over eyes.                                                             ║
 ║ - Reflexively spend 1 Essense or 1 WP to activate an ability for rest of scene:                  ║
-║     - Sight-based Perception at -2 diff (min 4).                                                 ║
-║     - Can see perfectly in dark.                                                                 ║
-║     - Can magnify as high-power binoculars.                                                      ║
-║     - Can zoom in on details to microscopic level.                                               ║
-║     - Can see thru walls/surfaces when concentrating & rolling Perception + Alertness diff 6.    ║
+║  - Sight-based Perception at -2 diff (min 4).                                                    ║
+║  - Can see perfectly in dark.                                                                    ║
+║  - Can magnify as high-power binoculars.                                                         ║
+║  - Can zoom in on details to microscopic level.                                                  ║
+║  - Can see thru walls/surfaces when concentrating & rolling Perception + Alertness diff 6.       ║
 ║ Submodule: Optical Optimization                                                                  ║
 ║ - Can activate any (except Perception diff) mode with 1 turn concentration, no cost.             ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

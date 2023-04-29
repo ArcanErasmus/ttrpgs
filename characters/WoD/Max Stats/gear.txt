@@ -39,39 +39,39 @@
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ The Screamcatcher, Wonder (♦♦♦♦∙)                                                                ║
 ║ - Aesthetics:                                                                                    ║
-║     - Copper wires arranged like a collection of dreamcatchers                                   ║
-║     - Taps into latent energies ebbing through from other dimensions                             ║
-║     - Tass coalesces on wires, running down to the boiler of a coffeemaker                       ║
-║     - Tass drip-feeds through special filter material into prepared thermos-batteries            ║
+║  - Copper wires arranged like a collection of dreamcatchers                                      ║
+║  - Taps into latent energies ebbing through from other dimensions                                ║
+║  - Tass coalesces on wires, running down to the boiler of a coffeemaker                          ║
+║  - Tass drip-feeds through special filter material into prepared thermos-batteries               ║
 ║ - Stats:                                                                                         ║
-║     - Usage: Int+Technology, diff ?, ? successes required                                        ║
-║     - Charge effort/time: ?                                                                      ║
-║         - How long does it take to charge a thermos?                                             ║
-║         - Is there any drawback for repeating the process in the same area in a short time span? ║
-║     - Each thermos holds 12 Tass                                                                 ║
+║  - Usage: Int+Technology, diff ?, ? successes required                                           ║
+║  - Charge effort/time: ?                                                                         ║
+║   - How long does it take to charge a thermos?                                                   ║
+║   - Is there any drawback for repeating the process in the same area in a short time span?       ║
+║  - Each thermos holds 12 Tass                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Vesuvius, Wonder (♦♦♦♦∙)                                                                         ║
 ║ - Aesthetics:                                                                                    ║
-║     - Boom mic pole as roman candle                                                              ║
-║         - Tubes filled with quintessence running the length of it                                ║
-║         - Speaker at the end projects "sound" over a spiral of wiring                            ║
-║     - Electronics & audio gear pack, strap to chest/back                                         ║
-║         - Records and re-emits "grounding" frequencies                                           ║
-║         - Based off the core of a SONY CFS-904 Sports boombox                                    ║
-║     - Thermoses full of quintessence                                                             ║
-║         - Wire leads run into the port on the body, uses rc car battery charger connections      ║
-║     - Emission                                                                                   ║
-║         - Imagine a heavy rain, that only is visible within the beam of a flashlight. In fact,   ║
-║           it doesn't interact with the world at all outside this cone of light. Now, imagine     ║
-║           that rain burns like thermite on contact with organic matter.                          ║
-║     - Pseudonyms: Ves, The SuperMelter, Banemother/Baneminer, Carcinizator                       ║
+║  - Boom mic pole as roman candle                                                                 ║
+║   - Tubes filled with quintessence running the length of it                                      ║
+║   - Speaker at the end projects "sound" over a spiral of wiring                                  ║
+║  - Electronics & audio gear pack, strap to chest/back                                            ║
+║   - Records and re-emits "grounding" frequencies                                                 ║
+║   - Based off the core of a SONY CFS-904 Sports boombox                                          ║
+║  - Thermoses full of quintessence                                                                ║
+║   - Wire leads run into the port on the body, uses rc car battery charger connections            ║
+║  - Emission                                                                                      ║
+║   - Imagine a heavy rain, that only is visible within the beam of a flashlight. In fact,         ║
+║     it doesn't interact with the world at all outside this cone of light. Now, imagine           ║
+║     that rain burns like thermite on contact with organic matter.                                ║
+║  - Pseudonyms: Ves, The SuperMelter, Banemother/Baneminer, Carcinizator                          ║
 ║ - Stats:                                                                                         ║
-║     - Attack: Dex+EnergyWpns, diff 8, optimal range 10 yd                                        ║
-║     - Base Damage is 5 Ag, at diff 6                                                             ║
-║         - If feeding with Entropic Resonance, -2 diff                                            ║
-║         - Every time you hit the same target consecutively, +2 dice Ag dmg                       ║
-║     - Consumes 2 Quintessence per attack, compatible with Spirit Batteries                       ║
-║     - When it kills a creature, it creates a number of Banes equal to the target's Willpower     ║
-║         - Most likely baby Drattosi, who are quite benevolent towards the wielder, assuming      ║
-║           both stick around long enough as they stabilize.                                       ║
+║  - Attack: Dex+EnergyWpns, diff 8, optimal range 10 yd                                           ║
+║  - Base Damage is 5 Ag, at diff 6                                                                ║
+║   - If feeding with Entropic Resonance, -2 diff                                                  ║
+║   - Every time you hit the same target consecutively, +2 dice Ag dmg                             ║
+║  - Consumes 2 Quintessence per attack, compatible with Spirit Batteries                          ║
+║  - When it kills a creature, it creates a number of Banes equal to the target's Willpower        ║
+║   - Most likely baby Drattosi, who are quite benevolent towards the wielder, assuming            ║
+║     both stick around long enough as they stabilize.                                             ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
