@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │  97/ 93           ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 101/ 93           ║
 ║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███ !!!CLARITY!!!        ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
 ║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/  7j/ 13r yd ║
@@ -66,17 +66,17 @@
 ╚═════════════════════════════════════════════════════╧══════════════════════════════════════════════╝
 
 Collected Modifiers:
-· Global
-    · x1/2 to base movement speed (Flaw, Short)
-    · +5 dice innate countermagick (Background, Primium Countermeasures)
-    · +3 dice innate countermagick (Merit, True Faith)
-· Situational
-    · -2 diff for computer-based (Merit, Computer Aptitude)
-    · -2 diff to work with mechanical technologies (Merit, Mechanical Aptitude)
-    · Ignore penalties for distracting scenarios (Merit, Concentration)
-    · +1 die/hr, max 3, when focusing without distractions on a task (Merit, Hyperfocus)
-    · -2 diff to social rolls when dealing with ghosts (Merit, Medium)
-    · +2 agg damage received for Life-based damaging magick (Background, Enhancements)
-· Talents
-    · Awareness
-        · -2 diff to sense magick (Merit, True Faith)
+- Global
+ - x1/2 to base movement speed (Flaw, Short)
+ - +5 dice innate countermagick (Background, Primium Countermeasures)
+ - +3 dice innate countermagick (Merit, True Faith)
+- Situational
+ - -2 diff for computer-based (Merit, Computer Aptitude)
+ - -2 diff to work with mechanical technologies (Merit, Mechanical Aptitude)
+ - Ignore penalties for distracting scenarios (Merit, Concentration)
+ - +1 die/hr, max 3, when focusing without distractions on a task (Merit, Hyperfocus)
+ - -2 diff to social rolls when dealing with ghosts (Merit, Medium)
+ - +2 agg damage received for Life-based damaging magick (Background, Enhancements)
+- Talents
+ - Awareness
+  - -2 diff to sense magick (Merit, True Faith)
