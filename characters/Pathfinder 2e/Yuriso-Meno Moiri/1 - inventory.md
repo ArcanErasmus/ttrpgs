@@ -92,12 +92,10 @@ $25.80
 ## Specific Items
 - 1x *Minor Healing Potion*
     - restore 1d8
-- 3x *Alchemist's Fire, Lesser*
+- 5x *Alchemist's Fire, Lesser*
     - 1d8 fire, 1 persistent fire, 1 sonic splash
 - 3x *Thunderstone, Lesser*
     - 1d8 sonic, 1 sonic splash, DC 17 fortitude within 10ft or deafened until end of their next turn
-- 3x (U) alchemical thing from trap #5
-    - ?
 - 3x (U) alchemical thing from trap #6
     - ?
 

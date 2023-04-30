@@ -24,7 +24,7 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  50/50       |  +3/Rest (not with Curse of Nightmares!)
+| *HP*         |  31/50+4     |  +3/Rest (not with Curse of Nightmares!)
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Conditions and Temporary Effects

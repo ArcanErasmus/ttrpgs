@@ -1,12 +1,9 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 21?future - 2023-04-29
-### Session 20?future - 2023-04-22
-- NOTES FOR FIGHT IN PROGRESS
-    - I have Shattering Gem active, 9 rds remaining
-    - Meno-Yuriso breath weapon on CD, 2 rds remaining
-    - Meno-Yuriso holding Mystery Alchemical Weapon #5
-    - Yuriso-Meno holding kukri
+### Session 22?future - 2023-05-06
+### Session 21 - 2023-04-22
+- Fight continued, we killed all remaining combatants
+    - Person in the tower is still unconscious and alive
 
 ### Session 19 - 2023-04-15
 - Group heads towards the fort, meets up nearby with Rasa and Hansa
