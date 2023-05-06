@@ -15,13 +15,13 @@
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5585/5455
+## Total/Spent XP: 5585/5575
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  350 |   5 |  15 | WP
-|  275 |   0 |  10 | WS
-|  275 |   0 |  10 | S
-|  275 |   0 |  10 | T
+|  315 |   0 |  11 | WS
+|  315 |   0 |  11 | S
+|  315 |   0 |  11 | T
 |  475 |   0 |  15 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
@@ -69,10 +69,10 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |  5 | 10 |    | 56 |
+|^WS  | 41 |  5 | 11 |    | 57 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 50 |    | 10 |    | 60 |
-|^T   | 55 |  5 | 10 |    | 70 |
+|^S   | 50 |    | 11 |    | 61 |
+|^T   | 55 |  5 | 11 |    | 71 |
 |!I   | 28 |    | 15 |    | 43 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 17 |    |    |    | 17 |
@@ -98,15 +98,15 @@
 |   | Charm                 |    | Fel |    |
 |   | Charm Animal          |    | WP  |    |
 |   | Climb                 |    | S   |    |
-|!C | Consume Alcohol       | 15 | T   | 85 |
+|!C | Consume Alcohol       | 15 | T   | 86 |
 |!C | Cool                  | 15 | WP  | 72 |
 | C | Dodge                 |  5 | Ag  | 35 |
 |   | Drive                 |    | Ag  |    |
-| C | Endurance             | 10 | T   | 80 |
+| C | Endurance             | 10 | T   | 81 |
 |   | Gamble                |    | Int |    |
 | C | Gossip                |  5 | Fel | 35 |
 |   | Haggle                |    | Fel |    |
-| C | Intimidate            |  5 | S   | 65 |
+| C | Intimidate            |  5 | S   | 66 |
 |   | Intuition             |    | I   |    |
 | C | Leadership            | 10 | Fel | 40 |
 |   | Navigation            |    | I   |    |
@@ -137,9 +137,9 @@
 |---|-----------------------|----|-----|----|------
 | C | Weapon Specs          | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-|!C$| Melee (Basic)         | 15 | WS  | 71 |
-|!C | Melee (Flail)         | 15 | WS  | 71 |
-| C | Melee (Two-Handed)    |  5 | WS  | 61 |
+|!C |*Melee (Basic)*        | 15 | WS  | 72 |
+|!C | Melee (Flail)         | 15 | WS  | 72 |
+| C | Melee (Two-Handed)    |  5 | WS  | 62 |
 |!C | Ranged (Throwing)     | 15 | BS  | 47 |
 
 ## Injuries
@@ -355,19 +355,20 @@
 - True Grit
 
 ## Exp Planning
-### Rank 3->4, Minimum: 600
-- Attributes: 600
-    - WS                 | 10->15 | 200
-    - S                  | 10->15 | 200
-    - T                  | 10->15 | 200
+### Freeholder (Current Career)
+#### Rank 3->4, Minimum: 480
+- Attributes: 480
+    - WS                 | 11->15 | 160
+    - S                  | 11->15 | 160
+    - T                  | 11->15 | 160
 - Skills: 0
 - Talents: 0
 
-### Rank 3->4, Moderate skillbot: 2050
-- Attributes: 600
-    - WS                 | 10->15 | 200
-    - S                  | 10->15 | 200
-    - T                  | 10->15 | 200
+#### Rank 3->4, Moderate skillbot: 1930
+- Attributes: 480
+    - WS                 | 11->15 | 160
+    - S                  | 11->15 | 160
+    - T                  | 11->15 | 160
 - Skills: 1250
     - Dodge              |  5->10 |  75
     - Endurance          | 10->15 | 100
@@ -387,11 +388,11 @@
 - Talents: 200
     - Battle Rage        |  1-> 2 | 200
 
-### Rank 3->4, Maximum skillbot: 3640
-- Attributes: 600
-    - WS                 | 10->15 | 200
-    - S                  | 10->15 | 200
-    - T                  | 10->15 | 200
+#### Rank 3->4, Maximum skillbot: 3520
+- Attributes: 480
+    - WS                 | 11->15 | 160
+    - S                  | 11->15 | 160
+    - T                  | 11->15 | 160
 - Skills: 2840
     - Dodge              |  5->15 | 175
     - Endurance          | 10->15 | 100
@@ -413,7 +414,7 @@
 - Talents: 200
     - Battle Rage        |  1-> 2 | 200
 
-### Rank 4->Exit: 1470
+#### Rank 4->Exit: 1470
 - Attr: - Attributes: 320
     - Ag                 |  3->13 | 320
 - Skills: 250
