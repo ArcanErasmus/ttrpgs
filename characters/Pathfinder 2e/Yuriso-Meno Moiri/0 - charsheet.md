@@ -24,7 +24,7 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  31/50+4     |  +3/Rest (not with Curse of Nightmares!)
+| *HP*         |  29/50       |  +3/Rest (not with Curse of Nightmares!)
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Conditions and Temporary Effects
@@ -34,6 +34,11 @@
     - +4 Item AC, +1 Item Perception
     - -1 Will, Reflex, Recall Knowledge
     - *Final Surge* action
+- [x] *Energy Mutagen, Moderate (Fire)*
+    - Resistance 10 to Fire
+    - Weakness 5 to Acid, Cold, Electricity
+    - +1d4 Fire damage on melee hit
+    - (10 mins duration)
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
@@ -46,6 +51,7 @@
 | *Will*          | +10 | ++   | +4+4 | +2 Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fire*          |  2  |                              |  -
+- [x] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -67,6 +73,7 @@
 | *Poi*           | +9          | +    | 2d4 B     | Agile, Backswing, Finesse, Nonlethal
 | *Sickle*        | +9          | +    | 2d4 S     | Agile, Finesse, Trip
 | *Breath*     >> | 20 B Ref    | -    | 2d4 Fire  | 30-ft line, 1d4 rd CD
+- [x] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |

@@ -1,6 +1,15 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 22?future - 2023-05-06
+### Session 23?future - 2023-05-13
+### Session 22 - 2023-05-06
+- The survivor from the first round, Graytusk, defected to us
+- Fight continued, we broke open the door and dealt some damage
+    - They re-closed the door and moved inwards to heal
+    - We barricaded the doors
+- Rasa, Sakari, and Yuriso-Meno wandered into the lounge
+    - A homunculus threw a pot of soup at Rasa and retreated up the stairs into the attached kitchen
+    - We leave off on the three of us chasing after
+
 ### Session 21 - 2023-04-22
 - Fight continued, we killed all remaining combatants
     - Person in the tower is still unconscious and alive

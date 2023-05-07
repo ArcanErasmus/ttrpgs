@@ -23,7 +23,11 @@
 - Curse of Nightmares
 - [ ] +1 Circumstance AC with Protect Companion
 - [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
-- +2 Status to AC until end of Surya's next turn
+- [x] *Energy Mutagen, Moderate (Fire)*
+    - Resistance 10 to Fire
+    - Weakness 5 to Acid, Cold, Electricity
+    - +1d4 Fire damage on melee hit
+    - (10 mins duration)
 
 ### Defenses
 | **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
@@ -35,6 +39,7 @@
 | *Will*          | +8  | ++   | +4+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fire*          |  2  |                              |  -
+- [x] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -51,6 +56,7 @@
 | *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic  | 30-ft cone, 1d4 rd CD
 ^ +1d6+1 persistent bleed on crit
 - [x] *Crushing*: On crit, target gets Clumsy 1 & Enfeebled 1 until start of your next turn
+- [x] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
@@ -96,7 +102,7 @@
 ## Inventory
 | **Main Inventory**       | Cost    | Blk | Notes
 |--------------------------|---------|-----|--------------------------
-| [h] *Juggernaut Mutagen* |         |   L |
+| [h] *Drakeheart Mutagen* |         |   L |
 |--------------------------|---------|-----|--------------------------
 | *Saddle Bag*             |     .1  |   L | Stores 3 Blk at -1 Blk
 |--------------------------|---------|-----|--------------------------
@@ -113,7 +119,7 @@
 | 4x Rations, Week's       |     .4/ |   L/|
 | Fishing Tackle           |     .8  |   1 |
 | Healer's Tools           |    5    |   L |
-| *Juggernaut Mutagen*     |         |   L |
+| *Drakeheart Mutagen*     |         |   L |
 | *Healing Potion, Minor*  |    ?    |   L |
 |--------------------------|---------|-----|--------------------------
 | **Total**                |         | 1.5 | Unencumbered (Enc: 9, Max: 14)

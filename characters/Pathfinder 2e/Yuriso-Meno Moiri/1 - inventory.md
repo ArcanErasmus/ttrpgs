@@ -17,10 +17,12 @@
 |-----------------------------------|---------|-----|--------------------------
 | *Backpack*                        |     .1  |   L | Stores 4 Blk at -2 Blk
 |-----------------------------------|---------|-----|--------------------------
+|   3x Replacement picks            |     .3/ |     |
 | Thieves' Tools                    |    3    |   1 |
 |   3x Replacement picks            |     .3/ |     |
 | 3x *Thunderstone, Lesser*         |    ?    |   L/|
-| 3x (U) alchemical thing from trap |    ?    |   L/|
+| 3x *Alchemist's Fire, Lesser*     |    ?    |   L/|
+| 3x *Energy Mutagen, Mod. (Fire)*  |    ?    |   L/|
 | 3x (U) alchemical thing from trap |    ?    |   L/|
 |-----------------------------------|---------|-----|--------------------------
 | **Total**                         |         |  .9 | Unencumbered (Enc: 5, Max: 10)
@@ -37,27 +39,26 @@ $25.80
 - Coins: $0.23.45.14
 ### Consumables
 - Me
-- Granz
-    - 1x *Barkskin Potion*
+    - 3x *Thunderstone, Lesser*
+    - 2x *Alchemist's Fire, Lesser*
+    - 3x *Energy Mutagen, Moderate (Fire)*
+- Vendari
+    - 1x *potion of expeditious retreat*
+    - 3x *holy water*
+    - 2x *feather token (bird)*
 - Rasa
     - 1x *Infiltrator's Elixir*
 - Sakari
-    - 1x *Healing Potion, Minor*
     - 1x *Barkskin Potion*
     - 2x *Antidote, Lesser*
     - 3x *Antiplague, Lesser*
-    - 1x *Scroll of Summon Lesser Servitor*
     - 2x *Energy Mutagen, Lesser (Fire)*
 - Surya
-    - 1x *Healing Potion, Minor*
     - 1x *Juggernaut Mutagen, Lesser*
     - 1x Mephit in a bottle
 - Karchanek
+    - 1x *Scroll of Summon Lesser Servitor*
 - Unsorted
-    Guesses
-        -Blight Bomb
-        -Bottled Lightning
-        -Frost Vial
 ### Quest Items
 - Ephemera Malefica (Surya)
 - Sakari's Diary (Surya)
@@ -76,6 +77,8 @@ $25.80
 - *Stalwart's Ring*: 5 temp hp/day (Karchanek)
 - *Warrior's Training Ring*: Compensate for lack of training in a weapon (Yuriso-Meno)
 ### Misc
+- Club with *Fearsome*
+- Warped key
 - Alchemical reagents worth $50
 - Floating runestone with *???* rune
 - Hammer
