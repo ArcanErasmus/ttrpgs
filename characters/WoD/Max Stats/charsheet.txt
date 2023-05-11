@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 101/ 93           ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 106/ 96           ║
 ║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███ !!!CLARITY!!!        ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
 ║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/  7j/ 13r yd ║
@@ -63,6 +63,9 @@
 ╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
 ║ Inactive Charms                                     │                                              ║
 ║ - So: Transphase Engine (♦)                         │                                              ║
+╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
+║ Sidereal Secret Arts                                │                                              ║
+║ - KB: Birth of the Perfect Ego Juggernaut Form (♦)  │                                              ║
 ╚═════════════════════════════════════════════════════╧══════════════════════════════════════════════╝
 
 Collected Modifiers:

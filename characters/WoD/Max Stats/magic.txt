@@ -86,4 +86,10 @@
 ║  - Can see thru walls/surfaces when concentrating & rolling Perception + Alertness diff 6.       ║
 ║ Submodule: Optical Optimization                                                                  ║
 ║ - Can activate any (except Perception diff) mode with 1 turn concentration, no cost.             ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Kaleidoscopic Border: Birth of the Perfect Ego Juggernaut Form (♦)                               ║
+║ - 1 Ess, activate for scene.                                                                     ║
+║ - Add Ess Rating to all WP & Attr+Abil, max 10 dice in pool.                                     ║
+║ - All Mind & Life Sphere effects on you at +diff and +Paradox generated equal to Ess Rating.     ║
+║ - Form-type Secret Art, may not be active with another Form-type.                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

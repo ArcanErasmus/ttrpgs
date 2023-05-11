@@ -1,7 +1,7 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
-║ Session 24 - 2023/05/09?future                                                                   ║
+║ Session 30 - 2023/05/16?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Reminder: We have 1 dots in Resources (need to go to moneychanger tho)
 ║ - 
@@ -11,7 +11,28 @@
 ║  - 
 ║   - 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 23 - 2023/04/25                                                                          ║
+║ Session 29 - 2023/05/09                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ - Rowan explains Certámen to us
+║  - Certámen conducted in special enchanted arena. Conjure magic orbs and fence with them
+║   - Have to defend a "heart", attack opponent's "heart"
+║   - We nominate Ellen as the first choice of champion
+║ - We head to the Certámen arena, it looks sort of like a gym with bleachers
+║  - There are pairs of people fighting in three arenas
+║   - Scouting the field shows us that one of the duels looks very beginner, and has a tutor
+║  - Ellen decides to hop in against someone here, gets dunked instantly
+║   - The opponent offers some important advice: Life is good on defense, Spirit on offense, and
+║     Correspondence is a flexible bonus when in reserve
+║   - Ellen needs to train, does a montage of practicing
+║  - Max tries to step in, it doesn't recognize her
+║  - Summer steps in and it gets very weird very fast. The arena tries to manifest spheres from her, 
+║    but they explode into pattern spiders
+║   - We get portaled back to our room, the adults are NOT happy
+║ - Back in our room, we try to debrief what happened
+║  - Max gives summer a screamcatcher battery (full of Tass with entropic resonance)
+║   - Unbeknownst to them all, this fucks up Summer's soul in a very bad way
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 28 - 2023/04/25                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Autumn and Scott argue with Jebediah over future plans (trial, the mountain)
 ║  - (what was said?)
@@ -41,9 +62,9 @@
 ║  - How do we protect Jebediah from death?
 ║ - Rowan and Alys return with a large stack of books
 ║  - Turns out trial by combat exists! It's a non-dangerous duel of magical prowess
-║   - We can void the trial by using the loophole 
+║   - We can void the trial by using the loophole
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 22 - 2023/04/11                                                                          ║
+║ Session 27 - 2023/04/11                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Discussing the pact Mr. Waldorf made with the Mountain                                         ║
 ║  - Autumn and Ellen actively commune with Salmon-Bear via the power rangers theme song           ║
@@ -78,7 +99,7 @@
 ║  - They go to the cells again to talk to Jebediah, Autumn memorizes password to cells            ║
 ║   - Conversation to happen next time!                                                            ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 21 - 2023/03/28                                                                          ║
+║ Session 26 - 2023/03/28                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Autumn and Summer at infirmary                                                                 ║
 ║  - How do you even diagnose from the symptom "my soul is spiders"? That's just rough             ║
@@ -104,7 +125,7 @@
 ║ - None of us are getting out of here without trauma and depression                               ║
 ║  - Max herself is gonna end up just a little bit worse in general                                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 20 - 2023/03/14                                                                          ║
+║ Session 25 - 2023/03/14                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - We sleepin                                                                                     ║
 ║  - A pair of people enter the room quietly, head to the two claimed beds                         ║
@@ -136,7 +157,7 @@
 ║   - Ellen, Summer, Autumn, and book argue morality                                               ║
 ║ - Autumn took Summer to infirmary to find someone who can help with Summer's soul                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 19 - 2023/02/28                                                                          ║
+║ Session 24 - 2023/02/28                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Inside the Chantry's receiving hall                                                            ║
 ║  - Windows show a projection of the astral plane ("astral reaches"), the furthest reaches of the ║
@@ -174,7 +195,7 @@
 ║   - Max has nightmares about us getting poisoned, being made an example out of, Scott's dad      ║
 ║     getting poisoned, spiders eating Summer alive from the inside and then us                    ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 18 - 2023/02/14                                                                          ║
+║ Session 23 - 2023/02/14                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Reminder: Use eyebot to loop camera feed so we can crash here, watch for physical patrols      ║
 ║ - Reading magic book in the library, it's in Latin                                               ║
@@ -187,7 +208,7 @@
 ║   - Translating and reading the Code of Hermes from the book opened a secret passage             ║
 ║   - We left off inside a room that splits off to five hallways, one has trail to Scott's dad     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 17 - 2023/01/31                                                                          ║
+║ Session 22 - 2023/01/31                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Reminder: We have 2 dots in Resources (need to go to moneychanger tho)                         ║
 ║ - We're on a weird train (Tuesday, 10/28/93)                                                     ║
@@ -238,7 +259,7 @@
 ║   Islands of Flint, the Mesoamerican Flayed Lands, and the South American Lands of Gold          ║
 ║ - The Dark Kingdom of Sand, Amenti. Home of the Gods and Undying of Ancient Egypt                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 16 - 2023/01/10                                                                          ║
+║ Session 21 - 2023/01/10                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - Max's Alchemical Exaltation (Monday, 10/27/93)                                                 ║
 ║  - Max had set up an experiment to view Summer's Pattern more clearly                            ║
@@ -267,7 +288,7 @@
 ║  - This attracted and energized a mysterious rock Max had, which she thought was Tannenite       ║
 ║  - Touching the rock while in the experiment circle triggered the Exaltation                     ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 15? - 2022/01/04 - END OF SEASON 2                                                       ║
+║ Session 20? - 2022/01/04 - END OF SEASON 2                                                       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - At the Blockbuster                                                                             ║
 ║  - Fought The Abomination, Summer just deleted it                                                ║
@@ -276,7 +297,7 @@
 ║  - Learned that Scott's dad has been kidnapped? by some govt-looking man-in-black                ║
 ║  - Summer's senses say we should go to Germany, specifically Munich                              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Session 10? - 2021/11/02                                                                         ║
+║ Session 15? - 2021/11/02                                                                         ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ - At the mines                                                                                   ║
 ║  - Mines are spirit realm, can hear lullaby keeping thing-under-mtn asleep                       ║
@@ -425,7 +446,7 @@
 ║  8: Caste attribute, Wits 1->3                                                                   ║
 ║ 10: Submodules, Mobile Sensory Drone (Communication, Hearing, Extra Drones 2, Hover Mode,        ║
 ║     Autonomous, Playback)                                                                        ║
-║  2: Specialty: Creative                                                                          ║
+║  2: Specialty, Creative                                                                          ║
 ║  2: Submodule, Optical Enhancement (Optical Optimization)                                        ║
 ║  1: Submodule, Omnitool Implant (Data Access Implant)                                            ║
 ║ 11: Ability, Research 0->4                                                                       ║
@@ -437,7 +458,8 @@
 ║  3: Submodule, Sustained Augmentation of Jade (Jade Efficacy Upgrade)                            ║
 ║  2: Ability, Expression 0->1                                                                     ║
 ║  4: Attribute, Dexterity 1->2                                                                    ║
-║  2: Knowledge, Law 1->2                                                                       ║
+║  2: Knowledge, Law 1->2                                                                          ║
+║  3: Sidereal Secret Art, Birth of the Perfect Ego Juggernaut Form                                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Shopping List                                                                                    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
