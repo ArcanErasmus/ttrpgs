@@ -1,4 +1,4 @@
-# ??, She/They
+# Codra Alpetrei, She/They
 ## Human, Magister Vigilant (Academic), Vigilant's Apprentice - Brass 4
 - 5'7", `weight`, 24, red blond hair, green eyes
     - Distinguishing Marks: unibrow, single arm, birthmark
@@ -16,9 +16,9 @@
 ## Total/Spent XP: 410/300
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|  100 |   0 |   1 | Blather
+|  100 |   0 |   1 | Magical Sense
 |  100 |   0 |   1 | Petty Magic
-|  100 |   0 |   1 | Savvy
+|  100 |   0 |   1 | Second Sight
 
 
 ## Attributes/Characteristics
@@ -26,12 +26,12 @@
 |-----|----|----|----|----|----|
 |^WS  | 33 |    |  1 |    | 34 |
 | BS  | 22 |    |    |    |    |
-| S   | 32 |    |    |    |    |
+| S   | 30 |    |    |    |    |
 | T   | 29 |    |    |    |    |
-| I   | 30 |    |    |    |    |
+| I   | 32 |    |    |    |    |
 | Ag  | 33 | -3 |    |    | 30 |
 | Dex | 28 |    |    |    |    |
-|^Int | 37 | +5 |    |    | 42 |
+|^Int | 37 |    |    |    | 37 |
 |^WP  | 36 |    |  4 |    | 40 |
 | Fel | 40 | +5 |    |    | 45 |
 
@@ -43,8 +43,6 @@
 | R/R |  3 |  3
 | M   |  4 |  4
 | Cor |    |  0
-
-```NEED UPDATED "Winds of Magic" PDF FROM CAOIMHE```
 
 ## Skills
 | C | Basic                 | Ad | Att | Tt | Temp
@@ -63,11 +61,11 @@
 |   | Gossip                |    | Fel |    |
 |   | Haggle                |    | Fel |    |
 |   | Intimidate            |    | S   |    |
-|!C | Intuition             | 10 | I   | 40 |
+|!C | Intuition             | 10 | I   | 42 |
 |   | Leadership            |  5 | Fel | 50 |
 |   | Navigation            |    | I   |    |
 |   | Outdoor Survival      |    | Int |    |
-|!C |*Perception*           | 10 | I   | 40 |
+|!C |*Perception*           | 10 | I   | 42 |
 |   | Row                   |    | S   |    |
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
@@ -134,12 +132,6 @@
 - If already in-career, may purchase Skill at -5xp/advance
 - May have spot benefits as determined by GM
 
-### Blather [1/FelB]
-- Tests: Charm to Blather
-- May roll opposed Charm/Int Test to ramble incoherently at your target
-- On success, apply 1 Stunned condition per rank in talent
-- Generally can only target a character once/scene, perhaps longer (GM call)
-
 ### Doomed [1/1]
 - Doom: "Lack of breath fills thy last moments"
 - If die in accordance with Dooming, carry half xp to next char
@@ -147,6 +139,12 @@
 ### Iron Will [1/WPB]
 - Tests: Cool to oppose Intimidate
 - Intimidate does not cause Fear in you, will not stop you speaking out
+
+### Magical Sense [1/IB]
+- Tests: Intuition to detect Wizards
+- May attempt Average (+20) Intuition Test when encounter spellcaster
+- On success, sense target is a Witch
+- On Astounding Success (+6), determine highest Channelling Specialization
 
 ### Perfect Pitch [1/IB]
 - Tests: Entertain (Sing), Langauge (Tonal Languages, such as Elthárin, Cathayan, and Magick)
@@ -167,8 +165,10 @@
 ### Read/Write [1/1]
 - Assumed to be literate in all known languages
 
-### Savvy [1/1]
-- +5 to starting Intelligence
+### Second Sight [1/IB]
+- Tests: Any to detect the Winds of Magic
+- May use appropriate skills with aethyric senses, such as Intuition, Perception, Track
+- Does not switch off
 
 ### Suave [1/1]
 - +5 to starting Fellowship
@@ -181,20 +181,26 @@
 ### Vigilant's Apprentice - Brass 4
 - Attr: WS, Int, WP
 - Skills: Channelling (Any Colour), Charm, Cool, Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), Melee (Polearm), *Perception*
-- Talents: Blather, Petty Magic, Read/Write, Savvy
+- Talents: Magical Sense, Petty Magic, Read/Write, Second Sight
 - Trappings: Disguise, Grimoire
 - (Academic Trappings: Clothing, Dagger, Pouch, Sling Bag containing Writing Kit and 1d10 sheets of Parchment)
 
 ### Magister Apprentice - Silver 4
 - Attr: Agi
-- Skills: Charm, Gossip, Intimidate, Language (Battle), Pick Lock, Research
-- Talents: Arcane Magic (Any Arcane Lore), Fast Hands, Menacing, Shadow
+- Skills: Gossip, Intimidate, Language (Battle), Pick Lock, Research, `Track [Replacing duplicate Charm]`
+- Talents: Arcane Magic (Any Arcane Lore), Blather, Fast Hands, Menacing
 - Trappings: Magical License
+
+<!-- ### Blather [1/FelB]
+- Tests: Charm to Blather
+- May roll opposed Charm/Int Test to ramble incoherently at your target
+- On success, apply 1 Stunned condition per rank in talent
+- Generally can only target a character once/scene, perhaps longer (GM call) -->
 
 ### Master Inquisitor - Gold 1
 - Attr: I
 - Skills: Navigation, Secret Signs (Any), Sleight of Hand, Stealth (Urban)
-- Talents: Break and Enter, Magical Sense, Second Sight, Sixth Sense
+- Talents: Break and Enter, Savvy, Shadow, Sixth Sense
 - Trappings: Magical Item
 
 ### Lord Vigilant - Gold 2
@@ -238,10 +244,7 @@ bonus xp 205x2=410
 - Talents: 0
 
 #### Rank 1->2, Maximum skillbot: 650
-- Attributes: 250
-    - WS                 |  1-> 5 | 100
-    - Int                |   -> 5 | 125
-    - WP                 |  4-> 5 |  25
+As minimum, plus: 400
 - Skills: 400
     - Charm              |   -> 5 |  50
     - Cool               |   -> 5 |  50
@@ -251,7 +254,6 @@ bonus xp 205x2=410
     - Lore (Magick)      |   -> 5 |  50
     - Melee (Basic)      |   -> 5 |  50
     - Melee (Polearm)    |   -> 5 |  50
-- Talents: 0
 
 #### Rank 2->3, Minimum: 1325
 - Attributes: 725
@@ -271,26 +273,14 @@ bonus xp 205x2=410
 - Talents: 0
 
 #### Rank 2->3, Maximum skillbot: 2475
-- Attributes: 725
-    - WS                 |  5->10 | 150
-    - Agi                |   ->10 | 275
-    - Int                |  5->10 | 150
-    - WP                 |  5->10 | 150
+As minimum, plus: 1750
 - Skills: 1350
-    - ???????            |   ->10 | 125
-    - Art (?)            |  5->10 |  75
-    - Charm              |  5->10 |  75
-    - Cool               |  5->10 |  75
-    - Dodge              |  5->10 |  75
-    - Entertain (Sing)   |  5->10 |  75
     - Gossip             |   ->10 | 125
     - Intimidate         |   ->10 | 125
     - Lang (Battle)      |   ->10 | 125
-    - Lore (Magick)      |  5->10 |  75
-    - Melee (Basic)      |  5->10 |  75
-    - Melee (Polearm)    |  5->10 |  75
     - Pick Lock          |   ->10 | 125
     - Research           |   ->10 | 125
+    - Track              |   ->10 | 125
 - Talents: 400
     - Arcane Magic       |   -> 1 | 100
     - Fast Hands         |   -> 1 | 100

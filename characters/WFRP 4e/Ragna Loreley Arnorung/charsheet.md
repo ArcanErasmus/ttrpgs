@@ -8,14 +8,14 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: Complete our humanitarian mission (and give away the Svettbukk to a worthy soul)
+- Personal short-term ambition: ?
 - Personal long-term ambition: Commission a signature weapon
     - Future option: Hunt down the bastard who maimed Sister Weir
     - Future option: Free Peronelle from captivity
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5585/5575
+## Total/Spent XP: 5675/5575
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  350 |   5 |  15 | WP
@@ -88,7 +88,7 @@
 | R/R |  1 |  2
 | M   |  4 |  4
 | Cor | 12 |  8
-| JgF | 16 |  x
+| JgF | 16 |  0
 
 ## Skills
 | C | Basic                 | Ad | Att | Tt | Temp
@@ -365,10 +365,7 @@
 - Talents: 0
 
 #### Rank 3->4, Moderate skillbot: 1930
-- Attributes: 480
-    - WS                 | 11->15 | 160
-    - S                  | 11->15 | 160
-    - T                  | 11->15 | 160
+As minimum, plus: 1450
 - Skills: 1250
     - Dodge              |  5->10 |  75
     - Endurance          | 10->15 | 100
@@ -389,30 +386,22 @@
     - Battle Rage        |  1-> 2 | 200
 
 #### Rank 3->4, Maximum skillbot: 3520
-- Attributes: 480
-    - WS                 | 11->15 | 160
-    - S                  | 11->15 | 160
-    - T                  | 11->15 | 160
-- Skills: 2840
-    - Dodge              |  5->15 | 175
-    - Endurance          | 10->15 | 100
-    - Gossip             |  5->15 | 175
-    - Heal               |  5->15 | 175
-    - Intimidate         |  5->15 | 175
-    - Language (Battle)  |  5->15 | 175
-    - Leadership         | 10->15 | 100
-    - Lo (Chaos)         |  5->15 | 175
-    - Lo (Norsca)        |  5->15 | 175
-    - Lo (The Old Faith) |  5->15 | 175
+As moderate, plus: 1590
+- Skills: 1590
+    - Dodge              | 10->15 | 100
+    - Gossip             | 10->15 | 100
+    - Heal               | 10->15 | 100
+    - Intimidate         | 10->15 | 100
+    - Language (Battle)  | 10->15 | 100
+    - Lo (Chaos)         | 10->15 | 100
+    - Lo (Norsca)        | 10->15 | 100
+    - Lo (The Old Faith) | 10->15 | 100
     - Lo (Trees)         | 10->15 | 100
-    - Melee (Two-Handed) |  5->15 | 175
-    - Outdoor Survival   |  5->15 | 175
-    - Row                |   ->15 | 225
-    - Sail (Barge)       |  5->15 | 175
-    - SecSigns (TaalRhya)|  5->15 | 175
+    - Melee (Two-Handed) | 10->15 | 100
+    - Outdoor Survival   | 10->15 | 100
+    - Row                |  5->15 | 175
+    - SecSigns (TaalRhya)| 10->15 | 100
     - Trade (Feller)     |  1->15 | 215
-- Talents: 200
-    - Battle Rage        |  1-> 2 | 200
 
 #### Rank 4->Exit: 1470
 - Attr: - Attributes: 320

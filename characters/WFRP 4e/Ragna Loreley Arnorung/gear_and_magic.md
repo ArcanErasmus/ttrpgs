@@ -108,7 +108,6 @@
     - Some (3?) old but readable books, written in arcane text
     - Portraits of Wittgensteins (value: ?)
     - Four 6-pointed metal keys (plus one with Peronelle), plus a five-pointed metal key
-- got grain to give out at grunberg!
 
 ### Trade Goods
 - 0 units of ? (10 enc/unit)

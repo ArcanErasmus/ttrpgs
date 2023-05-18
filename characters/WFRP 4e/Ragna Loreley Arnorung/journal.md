@@ -24,6 +24,7 @@
     - 1x The Thing In The Pit
     - 1x Very Pink Demon
     - 1x Lady Magritte
+    - 1x Large Undead Bird
 
 - Trophies:
     - Large squid beak
