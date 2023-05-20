@@ -3,7 +3,7 @@
 - 5'7", `weight`, 24, red blond hair, green eyes
     - Distinguishing Marks: unibrow, single arm, birthmark
 - Nationality: Imperial
-- Birthplace: Ubersreik, Reikland, Empire
+- Birthplace: Flensburg, Stirland, Empire
 - Religion: `religion`
 - Star Sign: Rhya's Cauldron, born `dd/mm/yyyy`
 - Motivation: `motiv`
@@ -13,27 +13,31 @@
 - Party short-term ambition: `?`
 - Party long-term ambition: `?`
 
-## Total/Spent XP: 410/300
+## Spent/Total XP: 350/410
 | Cost | Bef | Aft | Name
+|------|-----|-----|------
+<!-- |   25 |   2 |   3 | Int -->
 |------|-----|-----|------
 |  100 |   0 |   1 | Magical Sense
 |  100 |   0 |   1 | Petty Magic
 |  100 |   0 |   1 | Second Sight
+|------|-----|-----|------
+|   50 |   0 |   5 | Lore (Magick)
 
 
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 33 |    |  1 |    | 34 |
+|^WS  | 29 |    |    |    | 29 |
 | BS  | 22 |    |    |    |    |
-| S   | 30 |    |    |    |    |
-| T   | 29 |    |    |    |    |
+| S   | 28 |    |    |    |    |
+| T   | 30 |    |    |    |    |
 | I   | 32 |    |    |    |    |
 | Ag  | 33 | -3 |    |    | 30 |
-| Dex | 28 |    |    |    |    |
-|^Int | 37 |    |    |    | 37 |
-|^WP  | 36 |    |  4 |    | 40 |
-| Fel | 40 | +5 |    |    | 45 |
+| Dex | 33 | +5 |    |    | 38 |
+|^Int | 37 |    |  3 |    | 40 |
+|^WP  | 38 |    |  2 |    | 40 |
+| Fel | 40 |    |    |    | 40 |
 
 ## Secondary Attributes
 | Att | #  | ?  |
@@ -62,7 +66,7 @@
 |   | Haggle                |    | Fel |    |
 |   | Intimidate            |    | S   |    |
 |!C | Intuition             | 10 | I   | 42 |
-|   | Leadership            |  5 | Fel | 50 |
+|   | Leadership            |  3 | Fel | 43 |
 |   | Navigation            |    | I   |    |
 |   | Outdoor Survival      |    | Int |    |
 |!C |*Perception*           | 10 | I   | 42 |
@@ -70,71 +74,44 @@
 |---|-----------------------|----|-----|----|------
 | C | Advanced/Grouped      | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-|   | Animal Care           |  3 | Int | 45 |
 | T | Art (?)               |    | Dex |    |
 |!C | Channelling (Ulgu)    | 10 | WP  | 50 |
 | T | Entertain (Sing)      |    | Fel |    |
-|   | Lang (Bretonnian)     |  3 | Int | 45 |
-|!C | Lang (Magick)         | 10 | Int | 52 |
-|   | Lang (Wastelander)    |  3 | Int | 45 |
-| C | Lore (Magick)         |    | Int |    |
-|   | Lore (Reikland)       |  5 | Int | 47 |
+|   | Evaluate              |  3 | Int | 43 |
+|!C | Lang (Magick)         | 10 | Int | 50 |
+|   | Lang (Mootish)        |  3 | Int | 43 |
+|!C | Lore (Magick)         |  5 | Int | 45 |
+|   | Lore (Stirland)       |  5 | Int | 45 |
+|   | Sleight of Hand       |  5 | Dex | 43 |
+|   | Stealth (Rural)       |  5 | Ag  | 35 |
 |---|-----------------------|----|-----|----|------
 | C | Weapon Specs          | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
 | C | Melee (Basic)         |    | WS  |    |
 | C | Melee (Polearm)       |    | WS  |    |
-|   | Ranged (Bow)          |  5 | BS  | 27 |
 
 ## Injuries
 
 ## Traits
 ### Background Features
-#### Star Sign, Rhya's Cauldron:
--3 Ag, gain Iron Will talent
-    - Info, Rhya's Cauldron
-        - revered by astromancer (azyr/blue), druid (ghyran/jade), spiriter (shyish/amethyst) colleges
-        - righteous in ideals, merciful to innocent. relentless in pursuit of justice, can become careless and callous to lives/well-being of others
-    - Ascendant sign, The Drummer (surface level appearance)
-        - nothing in moderation, expansive and generous spirit, never fails to give alms or care for family. can turn to excess/hedonism if unchecked
-    - Celestial mansions
-        - Sense (how a person expresses their emotions) The Limner's Line
-            only expresses genuine emotions when certain of the impact they will have, tends to pick apart own faults
-        - Trials (how someone responds to adversity, what they tend to struggle with) The Piper
-            struggles with trust, tends to use deception and cunning as a first response
-        - Thought (thought processes, how someone communicates) Dragomas the Drake
-            defaults to a leadership role, operates better when managing and delegating than when taking orders
-        - Love (attitude towards interpersonal relationships, including familial and romantic) Wymund the Anchorite
-            analytical and patient, commits slowly to a relationship. once someone is "in", will overlook a lot of shortcomings
-        - Coin (a person's relationship with money and material goods) The Drummer
-            spends freely, investing in trappings and giving charity in equal measure
-    - Personality summary
-        - Leads with advice and cunning, positioning themself as a wise and mysterious mentor. Free with money, they give and purchase with the surety of someone who knows either boundless wealth or expects to never reach retirement. Quick to turn conversations away from themself, it's rare that they offer meaningful information about themself, and rarer still when it's truthful. Only after long cooperation or closeness will they begin to open up, as they struggle not to leave the door open for a quick and silent cutting of ties. Getting close reveals they are righteous and merciful almost to a fault, and level true criticism at themself first and foremost.
-
-#### Medium Build
-- No effects
-
-#### Monobrow
-- No effects
-
-#### Single Arm
-- Amputated Arm
-- +2 starting Fate points
+- Star Sign, Rhya's Cauldron
+    -3 Ag, gain Iron Will talent
+- Medium Build
+- Monobrow
+- Single Arm
+    - Amputated Arm
+    - +2 starting Fate points
 
 ## Talents
 ### Attractive [1/FelB]
 - Tests: Charm to influence those attracted to you
 - When successfully use Charm to influence those attracted to you, can use units die for SL
 
-### Art (?) [1/DexB]
-- Tests: Art (?)
-- Add associated Art Skill to any Career you enter
+### Artistic [1/DexB]
+- Tests: Art (Any)
+- Add Art (Any) to any Career you enter
 - If already in-career, may purchase Skill at -5xp/advance
 - May have spot benefits as determined by GM
-
-### Doomed [1/1]
-- Doom: "Lack of breath fills thy last moments"
-- If die in accordance with Dooming, carry half xp to next char
 
 ### Iron Will [1/WPB]
 - Tests: Cool to oppose Intimidate
@@ -145,6 +122,20 @@
 - May attempt Average (+20) Intuition Test when encounter spellcaster
 - On success, sense target is a Witch
 - On Astounding Success (+6), determine highest Channelling Specialization
+
+### Mimic [1/IB]
+- Tests: Entertain (Acting) where accent matters
+- Can replicate any accent exposed to for a day with Initiative Test, attempted 1/day
+- Once passed, always mimic accent, locals believe you to be one of their own
+- Accents acquired:
+    - Sylvanian ("Stirland")
+    - Wurtbad (Stirland)
+    - Ubersreik (Reikland)
+    - Altdorf (Reikland)
+    - Mootish (Moot)
+
+### Nimble Fingered [1/1]
+- +5 to starting Dexterity
 
 ### Perfect Pitch [1/IB]
 - Tests: Entertain (Sing), Langauge (Tonal Languages, such as Elthárin, Cathayan, and Magick)
@@ -170,22 +161,19 @@
 - May use appropriate skills with aethyric senses, such as Intuition, Perception, Track
 - Does not switch off
 
-### Suave [1/1]
-- +5 to starting Fellowship
-
 ## Background Info
 ### Homeland Skills
-- Animal Care, Charm, Cool, Evaluate, Gossip, Haggle, Language (Bretonnian), Language (Wastelander), Leadership, Lore (Reikland), Melee (Basic), Ranged (Bow)
+- Bribery, Cool, Evaluate, Gossip, Haggle, Language (Mootish), Leadership, Lore (Stirland), Melee (Basic), Ranged (Bow), Sleight of Hand, Stealth (Rural or Urban)
 
 ## Master Vigilant Info (Academic)
 ### Vigilant's Apprentice - Brass 4
 - Attr: WS, Int, WP
-- Skills: Channelling (Any Colour), Charm, Cool, Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), Melee (Polearm), *Perception*
+- Skills: Channelling (Any Colour), Charm, Cool, Dodge, Intuition, Language (Magick), Lore (Magic), Melee (Basic), `Melee (Brawl [Replacing unusable Polearm])`, *Perception*
 - Talents: Magical Sense, Petty Magic, Read/Write, Second Sight
 - Trappings: Disguise, Grimoire
 - (Academic Trappings: Clothing, Dagger, Pouch, Sling Bag containing Writing Kit and 1d10 sheets of Parchment)
 
-### Magister Apprentice - Silver 4
+### Magister Vigilant - Silver 4
 - Attr: Agi
 - Skills: Gossip, Intimidate, Language (Battle), Pick Lock, Research, `Track [Replacing duplicate Charm]`
 - Talents: Arcane Magic (Any Arcane Lore), Blather, Fast Hands, Menacing
@@ -209,23 +197,6 @@
 - Talents: Alley Cat, Frightening, Iron Will, Nose for Trouble
 - Trappings: Standard Robes
 
-## Rolls
-species +20
-unofficial tables +110
-    build +10
-    3 features +75
-    only child +25
-        parent A is dead
-            killed by guards, ruffians, authority figures in some sort of senseless violence or brutal "justice"
-        parent B is alive
-            career?
-        no spouse, no children
-    (ubersreik, reikland, empire)
-career backup choice +25
-stats reshuffle +25
-starsign +25
-bonus xp 205x2=410
-
 ## BG Skill/Talent/Item Options
 ### Skills
 
@@ -237,23 +208,22 @@ bonus xp 205x2=410
 ### Magister Vigilant (Current Career)
 #### Rank 1->2, Minimum: 250
 - Attributes: 250
-    - WS                 |  1-> 5 | 100
-    - Int                |   -> 5 | 125
-    - WP                 |  4-> 5 |  25
+    - WS                 |  0-> 5 | 125
+    - Int                |  3-> 5 |  50
+    - WP                 |  2-> 5 |  75
 - Skills: 0
 - Talents: 0
 
-#### Rank 1->2, Maximum skillbot: 650
-As minimum, plus: 400
-- Skills: 400
+#### Rank 1->2, Maximum skillbot: 600
+As minimum, plus:
+- Skills: 350
     - Charm              |   -> 5 |  50
     - Cool               |   -> 5 |  50
     - Dodge              |   -> 5 |  50
     - Art (?)            |   -> 5 |  50
     - Entertain (Sing)   |   -> 5 |  50
-    - Lore (Magick)      |   -> 5 |  50
     - Melee (Basic)      |   -> 5 |  50
-    - Melee (Polearm)    |   -> 5 |  50
+    - Melee (Brawling)   |   -> 5 |  50
 
 #### Rank 2->3, Minimum: 1325
 - Attributes: 725
@@ -269,11 +239,11 @@ As minimum, plus: 400
     - Entertain (Sing)   |  5->10 |  75
     - Lore (Magick)      |  5->10 |  75
     - Melee (Basic)      |  5->10 |  75
-    - Melee (Polearm)    |  5->10 |  75
+    - Melee (Brawling)   |  5->10 |  75
 - Talents: 0
 
 #### Rank 2->3, Maximum skillbot: 2475
-As minimum, plus: 1750
+As minimum, plus:
 - Skills: 1350
     - Gossip             |   ->10 | 125
     - Intimidate         |   ->10 | 125
@@ -283,6 +253,6 @@ As minimum, plus: 1750
     - Track              |   ->10 | 125
 - Talents: 400
     - Arcane Magic       |   -> 1 | 100
+    - Blather            |   -> 1 | 100
     - Fast Hands         |   -> 1 | 100
     - Menacing           |   -> 1 | 100
-    - Shadow             |   -> 1 | 100
