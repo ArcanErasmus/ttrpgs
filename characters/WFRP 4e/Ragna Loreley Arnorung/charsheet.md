@@ -8,14 +8,14 @@
 - Star Sign: Dragomas the Drake, born 18/3/2504
 - Motivation: Protect my friends
 
-- Personal short-term ambition: ?
+- Personal short-term ambition: Find a weaponsmith
 - Personal long-term ambition: Commission a signature weapon
     - Future option: Hunt down the bastard who maimed Sister Weir
     - Future option: Free Peronelle from captivity
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Total/Spent XP: 5675/5575
+## Spent/Total XP: 5675/5725
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  350 |   5 |  15 | WP
@@ -33,6 +33,7 @@
 |  100 |   0 |   1 | Gregarious
 |  100 |   0 |   1 | Juggernaut Frenzy
 |  100 |   0 |   1 | Mark of the Gods
+|  100 |   0 |   1 | Read/Write
 |  100 |   0 |   1 | Resistance (Mutation)
 |  300 |   0 |   2 | Robust
 |  100 |   0 |   1 | Savvy
@@ -223,6 +224,9 @@
 - Tests: Any influenced by your Status
 - If dressed appropriately, you are always higher status unless others also have Noble Blood
 
+### Read/Write [1/1]
+- Assumed to be literate in all known languages
+
 ### Resistance (Mutation) [1/TB]
 - Tests: All to resist Mutation
 - May automatically pass first Test to resist Mutation each session, using TB as SL if important
@@ -365,7 +369,7 @@
 - Talents: 0
 
 #### Rank 3->4, Moderate skillbot: 1930
-As minimum, plus: 1450
+As minimum, plus:
 - Skills: 1250
     - Dodge              |  5->10 |  75
     - Endurance          | 10->15 | 100
@@ -386,7 +390,7 @@ As minimum, plus: 1450
     - Battle Rage        |  1-> 2 | 200
 
 #### Rank 3->4, Maximum skillbot: 3520
-As moderate, plus: 1590
+As moderate, plus:
 - Skills: 1590
     - Dodge              | 10->15 | 100
     - Gossip             | 10->15 | 100
