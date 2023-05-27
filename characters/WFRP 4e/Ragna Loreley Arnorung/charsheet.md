@@ -15,7 +15,7 @@
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Spent/Total XP: 5675/5725
+## Spent/Total XP: 5675/5775
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  350 |   5 |  15 | WP
