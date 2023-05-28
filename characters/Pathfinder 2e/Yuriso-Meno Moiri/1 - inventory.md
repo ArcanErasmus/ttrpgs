@@ -13,7 +13,7 @@
 |-----------------------------------|---------|-----|--------------------------
 | **Main Inventory**                | Cost    | Blk | Notes
 |-----------------------------------|---------|-----|--------------------------
-| [i] *Warrior's Training Ring*     |  160    |     | Add lvl to untrained wpns
+| [i] *Warrior's Training Ring* [ ] |  160    |     | Add lvl to untrained wpns
 |-----------------------------------|---------|-----|--------------------------
 | *Backpack*                        |     .1  |   L | Stores 4 Blk at -2 Blk
 |-----------------------------------|---------|-----|--------------------------
@@ -23,7 +23,7 @@
 | 3x *Thunderstone, Lesser*         |    ?    |   L/|
 | 3x *Alchemist's Fire, Lesser*     |    ?    |   L/|
 | 3x *Energy Mutagen, Mod. (Fire)*  |    ?    |   L/|
-| 3x (U) alchemical thing from trap |    ?    |   L/|
+| 2x *Acid Flask, Lesser*           |    ?    |   L/|
 |-----------------------------------|---------|-----|--------------------------
 | **Total**                         |         |  .9 | Unencumbered (Enc: 5, Max: 10)
 

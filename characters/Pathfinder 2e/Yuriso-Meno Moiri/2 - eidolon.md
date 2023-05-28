@@ -20,10 +20,10 @@
 | *Cha* | 10 (--) |
 
 ### Conditions and Temporary Effects
-- Curse of Nightmares
+- [x] Curse of Nightmares
 - [ ] +1 Circumstance AC with Protect Companion
 - [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
-- [x] *Energy Mutagen, Moderate (Fire)*
+- [ ] *Energy Mutagen, Moderate (Fire)*
     - Resistance 10 to Fire
     - Weakness 5 to Acid, Cold, Electricity
     - +1d4 Fire damage on melee hit
@@ -39,7 +39,7 @@
 | *Will*          | +8  | ++   | +4+4 | -- Wis  | -    |  -
 |-----------------|-----|------|------|---------|------|-------|
 | *Fire*          |  2  |                              |  -
-- [x] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
+- [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
 | **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
@@ -56,7 +56,7 @@
 | *Breath*     >> | 19 B Ref    | -    | 2d6 Sonic  | 30-ft cone, 1d4 rd CD
 ^ +1d6+1 persistent bleed on crit
 - [x] *Crushing*: On crit, target gets Clumsy 1 & Enfeebled 1 until start of your next turn
-- [x] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
+- [ ] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
 | **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
