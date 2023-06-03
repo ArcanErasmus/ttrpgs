@@ -1,13 +1,29 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 23?future - 2023-05-13
+### Session 24?future - 2023-06-03
+### Session 23 - 2023-05-27
+- Rasa, Sakari, and Yuriso-Meno run after homunculus up stairs into hall
+    - Hall has paintings of elf lady that is probably Vilry's dead mom
+    - Grabbed homunculus, pet them to calm them down
+    - Learn their name is Pergy
+- Chatting with Pergy
+    - Make some progress on convincing him that Vilry isn't the best person
+    - YMM gets some snacks, then shares memory of the night sky with Graytusk
+        - Receives memory of Vilry's brutal takeover
+- YMM picks lock on Vilry's bedroom
+    - We find deliberately misleading diary entries where Vilry tries to claim that she's abandoning the camp
+- Watch rotation time
+    - Surya chats with Graytusk, she agrees to come with us
+    - YMM has lovely dreams of the calming desert sun (receives healing during sleep from Surya)
+- Defenders blow up the door into the lounge, fight happens
+
 ### Session 22 - 2023-05-06
 - The survivor from the first round, Graytusk, defected to us
 - Fight continued, we broke open the door and dealt some damage
     - They re-closed the door and moved inwards to heal
     - We barricaded the doors
 - Rasa, Sakari, and Yuriso-Meno wandered into the lounge
-    - A homunculus threw a pot of soup at Rasa and retreated up the stairs into the attached kitchen
+    - A homunculus threw a pot of soup at Rasa and retreated up the stairs out of the attached kitchen
     - We leave off on the three of us chasing after
 
 ### Session 21 - 2023-04-22
