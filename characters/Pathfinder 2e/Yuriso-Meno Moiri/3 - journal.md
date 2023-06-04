@@ -1,6 +1,28 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 24?future - 2023-06-03
+### Session 25?future - 2023-06-10
+Lvl up planning
+- Spell Repertoire
+    - +1 lvl3 spell
+    - +1 lvl3 spell
+    - -1 any spell
+    <!-- - -1 any spell (complete) -->
+<!-- - Spell slots (complete) -->
+<!-- - Ability boosts (complete)
+    - eidolon (complete) -->
+- Ancestry feat
+- Eidolon unarmed expertise
+- Skill increase
+<!-- - ABP Defense Potency +1 (complete) -->
+<!-- - +1 proficiency bonus (complete) -->
+
+### Session 24 - 2023-06-03
+- The fight continues
+    - We clear out the orcs, and catch and kill the necromancer
+- Pergy is sad about the fighting, but helps us open a secret door
+    - We are about to fight a bunch of homunculi
+- *Level up to 5*
+
 ### Session 23 - 2023-05-27
 - Rasa, Sakari, and Yuriso-Meno run after homunculus up stairs into hall
     - Hall has paintings of elf lady that is probably Vilry's dead mom
@@ -16,6 +38,7 @@
     - Surya chats with Graytusk, she agrees to come with us
     - YMM has lovely dreams of the calming desert sun (receives healing during sleep from Surya)
 - Defenders blow up the door into the lounge, fight happens
+    - Enemies blow up the tower that most of the group is in, burying them in rubble
 
 ### Session 22 - 2023-05-06
 - The survivor from the first round, Graytusk, defected to us
@@ -56,7 +79,7 @@
         - All but YMM have harsh reaction to both the note and the fungal effects' aftermath
     - Surya realizes there is an age bracket missing from the homestead, confirms the theory that the majority of the mercenaries are from here
         - Funeral pyre is held, whole homestead contents eventually catch and burn
-*Level up to 4*
+- *Level up to 4*
 
 ### 2023-03-26, No Session
 

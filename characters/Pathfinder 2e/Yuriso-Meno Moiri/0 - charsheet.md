@@ -2,7 +2,7 @@
 ## Bio
 - Ancestry: Kobold (half-kobold/half-human in appearance)
 - Background: Nomad (Jungle)
-- Class: Summoner 3
+- Class: Summoner 5
 - 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
@@ -15,25 +15,20 @@
 | Stats | Base    |
 |-------|---------|
 | *Str* | 10 (--) |
-| *Dex* | 14 (+2) |
-| *Con* | 12 (+1) |
+| *Dex* | 16 (+3) |
+| *Con* | 14 (+2) |
 | *Int* | 10 (--) |
-| *Wis* | 14 (+2) |
-| *Cha* | 18 (+4) |
+| *Wis* | 16 (+3) |
+| *Cha* | 19 (+4) |
 
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  50/50       |  +4/Rest (not with Curse of Nightmares!)
+| *HP*         |  66/66       |  +5/Rest (not with Curse of Nightmares!)
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
-- [ ] +1 Item AC with Mage Armor
-- [ ] Drakeheart Mutagen, 1 min
-    - +4 Item AC, +1 Item Perception
-    - -1 Will, Reflex, Recall Knowledge
-    - *Final Surge* action
 - [ ] *Energy Mutagen, Moderate (Fire)*
     - Resistance 10 to Fire
     - Weakness 5 to Acid, Cold, Electricity
@@ -41,65 +36,64 @@
     - (10 mins duration)
 
 ### Defenses
-| **Defense**     | Sum | TEML | Prof | Ability | Item |  Temp |
-|-----------------|-----|------|------|---------|------|-------|
-| *Unarmored AC*  | 18  | +    | +4+2 | +2 Dex  | -    |  -
-| *Mage Armor AC* | 19  | +    | +4+2 | +2 Dex  | +1   |  -
-|-----------------|-----|------|------|---------|------|-------|
-| *Fortitude*     | +9  | ++   | +4+4 | +1 Con  | -    |  -
-| *Reflex*        | +8  | +    | +4+2 | +2 Dex  | -    |  -
-| *Will*          | +10 | ++   | +4+4 | +2 Wis  | -    |  -
-|-----------------|-----|------|------|---------|------|-------|
-| *Fire*          |  2  |                              |  -
+| **Defense**     | Sum | TEML | Prof | Ability | Bns |  Temp |
+|-----------------|-----|------|------|---------|-----|-------|
+| *Unarmored AC*  | 21  | +    | +5+2 | +3 Dex  | +1  |  -
+|-----------------|-----|------|------|---------|-----|-------|
+| *Fortitude*     | +11 | ++   | +5+4 | +2 Con  | -   |  -
+| *Reflex*        | +10 | +    | +5+2 | +3 Dex  | -   |  -
+| *Will*          | +12 | ++   | +5+4 | +3 Wis  | -   |  -
+|-----------------|-----|------|------|---------|-----|-------|
+| *Fire*          |  2  |                             |  -
 - [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
-| **Offense**     | Sum | TEML | Prof | Ability | Item | Temp |
-|-----------------|-----|------|------|---------|------|------|
-| *Class DC*      | 20  | +    | +4+2 | +4 Cha  | -    | -
-| *Arcane DC*     | 20  | +    | +4+2 | +4 Cha  | -    | -
-| *Occult DC*     | 20  | +    | +4+2 | +4 Cha  | -    | -
-|-----------------|-----|------|------|---------|------|------|
-| *Perception*    | +10 | ++   | +4+4 | +2 Wis  | -    | -
-| *Arcane Attack* | +10 | +    | +4+2 | +4 Cha  | -    | -
-| *Occult Attack* | +10 | +    | +4+2 | +4 Cha  | -    | -
-| *Dex Attack*    | +9  | +    | +4+2 | +2 Dex  | +1   | -
-| *Str Attack*    | +7  | +    | +4+2 | +0 Str  | +1   | -
+| **Offense**     | Sum | TEML | Prof | Ability | Bns | Temp |
+|-----------------|-----|------|------|---------|-----|------|
+| *Class DC*      | 21  | +    | +5+2 | +4 Cha  | -   | -
+| *Arcane DC*     | 21  | +    | +5+2 | +4 Cha  | -   | -
+| *Occult DC*     | 21  | +    | +5+2 | +4 Cha  | -   | -
+|-----------------|-----|------|------|---------|-----|------|
+| *Perception*    | +12 | ++   | +5+4 | +3 Wis  | -   | -
+| *Arcane Attack* | +11 | +    | +5+2 | +4 Cha  | -   | -
+| *Occult Attack* | +11 | +    | +5+2 | +4 Cha  | -   | -
+| *Dex Attack*    | +11 | +    | +5+2 | +3 Dex  | +1  | -
+| *Str Attack*    | +8  | +    | +5+2 | +0 Str  | +1  | -
 
 ### Attacks
-| **Offense**     | Sum/DC&Save | TEML | Damage    | Traits |
-|-----------------|-------------|------|-----------|--------|
-| *Javelin*       | +9          | +    | 2d6 P     | Thrown (30 ft)
-| *Poi*           | +9          | +    | 2d4 B     | Agile, Backswing, Finesse, Nonlethal
-| *Sickle*        | +9          | +    | 2d4 S     | Agile, Finesse, Trip
-| *Breath*     >> | 20 B Ref    | -    | 2d4 Fire  | 30-ft line, 1d4 rd CD
+| **Offense**     | Sum/DC&Save   | TEML | Damage    | Traits |
+|-----------------|---------------|------|-----------|--------|
+| *Javelin*       | Dex Atk       | +    | 2d6 P     | Thrown (30 ft)
+| *Poi*           | Dex Atk       | +    | 2d4 B     | Agile, Backswing, Finesse, Nonlethal
+| *Sickle*        | Dex Atk       | +    | 2d4 S     | Agile, Finesse, Trip
+| *Breath*     >> | Class DC BRef | -    | 3d4 Fire  | 30-ft line, 1d4 rd CD
 - [ ] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
-| **Skill**       | Sum | TEML | Prof | Ability | Item | Temp |
-|-----------------|-----|------|------|---------|------|------|
-| *Acrobatics*    | +2  |      | +0   | +2 Dex  | -    | -
-| *Arcana*        | +6  | +    | +4+2 | +0 Int  | -    | -
-| *Athletics*     | +6  | +    | +4+2 | +0 Str  | -    | -
-| *Crafting*      | +0  |      | +0   | +0 Int  | -    | -
-| *Deception*     | +5  |      | +0   | +4 Cha  | -    | -
-| *Diplomacy*     | +5  |      | +0   | +4 Cha  | -    | -
-| *Intimidation*  | +10 | +    | +4+2 | +4 Cha  | -    | -
-| *L: Desert*     | +6  | +    | +4+2 | +0 Int  | -    | -
-| *Medicine*      | +2  |      | +0   | +2 Wis  | -    | -
-| *Nature*        | +8  | +    | +4+2 | +2 Wis  | -    | -
-| *Occultism*     | +6  | +    | +4+2 | +0 Int  | -    | -
-| *Performance*   | +13 | ++   | +4+4 | +4 Cha  | +1   | -
-| *Religion*      | +2  |      | +0   | +2 Wis  | -    | -
-| *Society*       | +0  |      | +0   | +0 Int  | -    | -
-| *Stealth*       | +8  | +    | +4+2 | +2 Dex  | -    | -
-| *Survival*      | +8  | +    | +4+2 | +2 Wis  | -    | -
-| *Thievery*      | +8  | +    | +4+2 | +2 Dex  | -    | -
-|-----------------|-----|------|------|---------|------|------|
+| **Skill**       | Sum | TEML | Prof | Ability | Bns | Temp |
+|-----------------|-----|------|------|---------|-----|------|
+| *Acrobatics*    | +3  |      | +0   | +3 Dex  | -   | -
+| *Arcana*        | +7  | +    | +5+2 | +0 Int  | -   | -
+| *Athletics*     | +7  | +    | +5+2 | +0 Str  | -   | -
+| *Crafting*      | +0  |      | +0   | +0 Int  | -   | -
+| *Deception*     | +5  |      | +0   | +4 Cha  | -   | -
+| *Diplomacy*     | +5  |      | +0   | +4 Cha  | -   | -
+| *Intimidation*  | +11 | +    | +5+2 | +4 Cha  | -   | -
+| *L: Desert*     | +7  | +    | +5+2 | +0 Int  | -   | -
+| *Medicine*      | +3  |      | +0   | +3 Wis  | -   | -
+| *Nature*        | +10 | +    | +5+2 | +3 Wis  | -   | -
+| *Occultism*     | +7  | +    | +5+2 | +0 Int  | -   | -
+| *Performance*   | +14 | ++   | +5+4 | +4 Cha  | +1  | -
+| *Religion*      | +3  |      | +0   | +3 Wis  | -   | -
+| *Society*       | +0  |      | +0   | +0 Int  | -   | -
+| *Stealth*       | +10 | +    | +5+2 | +3 Dex  | -   | -
+| *Survival*      | +10 | +    | +5+2 | +3 Wis  | -   | -
+| *Thievery*      | +10 | +    | +5+2 | +3 Dex  | -   | -
+|-----------------|-----|------|------|---------|-----|------|
 
 ### Automatic Bonus Progression
-#### Attack Potency +1
-- Starting at 2nd level, you gain a +1 potency bonus to attack rolls with all weapons and unarmed attacks. This increases to +2 at 10th level, and +3 at 16th level
+#### Attack Potency
+- Lvl 2/10/16, +1/+2/+3 potency bonus to attack rolls with all weapons and unarmed attacks
 
 #### Skill Potency
 - Lvl 3, choose skill, gain +1 potency bonus
@@ -112,9 +106,19 @@
 - You can spend 1 week to retrain one of these assignments at any time
 
 #### Devastating Attacks
-- Lvl 4, weapon/unarmed Strikes deal 2 dice instead of 1
-- Lvl 12, increase to 3
-- Lvl 19, increase to 4
+- Lvl 4/12/19, weapon/unarmed Strikes deal 2/3/4 dice instead of 1
+
+#### Defence Potency
+- Lvl 5/11/18, +1/+2/+3 potency bonus to AC
+
+#### Perception Potency
+- Lvl 7/13/19, +1/+2/+3 potency bonus to Perception
+
+#### Saving Throw Potency
+- Lvl 8/14/20, +1/+2/+3 potency bonus to all saves
+
+#### Ability Apex
+- Lvl 17, choose one ability score, add +2 or increase to 18 (whichever is higher)
 
 ## Ancestry & Background
 ### Ancestry - Kobold
@@ -236,7 +240,7 @@
 #### Kobold Breath [Ancestry] (1st)
 `[Arcane]` `[Evocation]` `[Fire]` `[Kobold]` `[>>]`
 - Breath weapon: 30-ft line, Basic Reflex save vs higher of Class or Spell DC, cooldown 1d4 rds
-- Damage 2d4 Fire, +1d4 at every further odd lvl
+- Damage 3d4 Fire, +1d4 at every further odd lvl
 - (This ability has been auto-heightened from Level 1 (+2))
 
 #### Energy Heart [Class] (1st)
@@ -313,3 +317,5 @@
 #### Distracting Performance [Skill] (4th)
 `[General]` `[Skill]`
 - When Aid an ally to Create a Diversion, instead can roll Performance and use that result to determine outcome (ally does not roll)
+
+ANCESTRY FEAT
