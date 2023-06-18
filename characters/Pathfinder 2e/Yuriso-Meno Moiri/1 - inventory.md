@@ -17,13 +17,13 @@
 |-----------------------------------|---------|-----|--------------------------
 | *Backpack*                        |     .1  |   L | Stores 4 Blk at -2 Blk
 |-----------------------------------|---------|-----|--------------------------
-|   3x Replacement picks            |     .3/ |     |
 | Thieves' Tools                    |    3    |   1 |
-|   3x Replacement picks            |     .3/ |     |
-| 3x *Thunderstone, Lesser*         |    ?    |   L/|
-| 3x *Alchemist's Fire, Lesser*     |    ?    |   L/|
+|   6x Replacement picks            |     .3/ |     |
+| 5x *Acid Flask, Lesser*           |    ?    |   L/|
+| 4x *Alchemist's Fire, Lesser*     |    ?    |   L/|
 | 3x *Energy Mutagen, Mod. (Fire)*  |    ?    |   L/|
-| 2x *Acid Flask, Lesser*           |    ?    |   L/|
+| 5x *Frost Vial, Lesser*           |    ?    |   L/|
+| 3x *Thunderstone, Lesser*         |    ?    |   L/|
 |-----------------------------------|---------|-----|--------------------------
 | **Total**                         |         |  .9 | Unencumbered (Enc: 5, Max: 10)
 
@@ -36,12 +36,10 @@ $25.80
 ## My Consumables
 
 ## Party Loot Pile
-- Coins: $0.23.45.14
+- Coins: $2.61.49.14
 ### Consumables
 - Me
-    - 3x *Thunderstone, Lesser*
-    - 2x *Alchemist's Fire, Lesser*
-    - 3x *Energy Mutagen, Moderate (Fire)*
+    - SEE BACKPACK
 - Vendari
     - 1x *potion of expeditious retreat*
     - 3x *holy water*
@@ -62,53 +60,86 @@ $25.80
 ### Quest Items
 - Ephemera Malefica (Surya)
 - Sakari's Diary (Surya)
-- Sakari's Belongings (Sinta)
 - Warlock's Lockbox (Surya)
-### Trade Goods
-- 7sp value of hides (MYM)
+- Map labeled with "hideout" and "drop point" (Sakari)
+- Receipt papers matching Bort's legers, with slightly raised prices (Sakari)
 ### Magic Items
-- 2x *Everburning Torches* (burns in sanctum only, effectively detects sanctum)
-- Kukri with *Crushing Rune* (Yuriso-Meno Moiri)
-- Silver-plated rapier, low-grade
-- *Bort's Blessing*: Know/read extra language, +1 to Make an Impression (Granz)
-- *Merchant's Guile*: +2 Diplomacy/Deception for haggling, detect magic on item by handling (Surya)
-- *Ring of Minor Arcana*: Detect magic, mage hand, and prestidigitation, at will  (Sakari)
-- *Ring of the Weary Traveler*: +10ft speed for travel only, ignore fatigue for 10 mins (Rasa)
-- *Stalwart's Ring*: 5 temp hp/day (Karchanek)
-- *Warrior's Training Ring*: Compensate for lack of training in a weapon (Yuriso-Meno)
+- 2x *Everburning Torches* (burns in sanctuary only, effectively detects sanctuary)
+- Kukri with *Crushing Rune* (YMM)
+- Silver-plated rapier, low-grade (for melting)
 ### Misc
-- Club with *Fearsome*
 - Warped key
-- Alchemical reagents worth $50
-- Floating runestone with *???* rune
 - Hammer
 - Whetstone
-- Dagger
-- 15ft rope
 - Opened trapped strongbox (YMM)
-- Map labeled with "hideout" and "drop point" (Sinta)
-- Receipt papers matching Bort's legers, with slightly raised prices (Sinta)
+- 15ft rope
+- 7sp value of hides (MYM)
+- Pendant (denotes New Belameer govt employed mage)
+- Pendant (denotes New Belameer non-govt affiliated licensed necromancer)
+- Key (from Vilree)
+- Set of alchemist's tools
+- Pouch
+### Weapons
+- 4 daggers
 - Shortsword
-- Scale mail
 - Crossbow w/ 20 bolts
+### Armor/Clothes
+- Scale mail
+- Wizard robes
+- Studded leather
+- Leather armor
+### Unidentified Magic Items
+- Alchemical reagents worth 130gp
+- Floating runestone with *???* rune
+- Wooden staff, intricately carved, warm to the touch *M*
+- Shield with glyphs inlaid in metal *M*
+- Longsword *M*
+- Small rolled-up leather tool pouch
+    - Wooden dowel with carvings (wand maybe unfinished)
+    - Green metal rod (wand maybe unfinished) *M*
+    - Carving tools
+    - Sheafs of notes
+- *Ring of V'kandis*: 1/rd reduce anti-persistent DC to 10, 1/day res 5 fire & +1 ac/save vs fire effect (technically *Ring of Torag*) (Surya)
+- modified crossbow with acid flasks slotted in *M*
+- bracers of silvery metal *M*
+- silvery potion *M*
+- red vial of milky sludge *M*
+- vilree's formula book
+- 3x *Elixir of Life, Minor*
+- 2x *Elixir of Life, Lesser*
+- 2x *Tanglefoot Bag, Lesser*
+- 1x *Cognitive Mutagen, Lesser*
+- 1x *Stone Body Mutagen, Lesser*
+- 1x *Energy Mutagen, Moderate (Electricity)*
 
 ## Specific Items
-- 1x *Minor Healing Potion*
-    - restore 1d8
-- 5x *Alchemist's Fire, Lesser*
-    - 1d8 fire, 1 persistent fire, 1 sonic splash
-- 3x *Thunderstone, Lesser*
-    - 1d8 sonic, 1 sonic splash, DC 17 fortitude within 10ft or deafened until end of their next turn
-- 3x (U) alchemical thing from trap #6
-    - ?
+### 3x *Alchemist's Fire, Lesser*
+`[Alchemical]` `[Bomb]` `[Consumable]` `[Fire]` `[Splash]` `[>]`
+- *Usage*: Held in 1 hand
+- *Bulk*: L
+- *Activate*: Strike
+- 1d8 fire, 1 persistent fire, 1 sonic splash
 
-### Drakeheart Mutagen
+### 3x *Thunderstone, Lesser*
+`[Alchemical]` `[Bomb]` `[Consumable]` `[Sonic]` `[Splash]` `[>]`
+- *Usage*: Held in 1 hand
+- *Bulk*: L
+- *Activate*: Strike
+- 1d8 sonic, 1 sonic splash, DC 17 fortitude within 10ft or deafened until end of their next turn
+
+### 1x *Acid Flask, Lesser*
+`[Acid]` `[Alchemical]` `[Bomb]` `[Consumable]` `[Splash]` `[>]`
+- *Usage*: Held in 1 hand
+- *Bulk*: L
+- *Activate*: Strike
+- 1d6 persistent acid, 1 acid splash
+
+### 3x *Energy Mutagen, Moderate (Fire)*
 `[Alchemical]` `[Consumable]` `[Elixir]` `[Mutagen]` `[Polymorph]` `[>]`
 - *Usage*: Held in 1 hand
 - *Bulk*: L
 - *Activate*: Interact
-- Gain +4 item bonus to AC (Dex cap +2), and +1 item bonus to Perception
-- If wearing armor, still calc proficiency based on armor 
-- Take -1 to Will, Reflex, and Recall Knowledge
-- Gain the Final Surge action
-    - *Final Surge* `[>]`: Stride twice, then the duration ends.
+- *Duration*: 10 mins
+- Gain resistance 10 to element (fire)
+- When score hit with melee weapon/unarmed, +1d4 damage (fire)
+- Take weakness 5 to other three elements (acid, cold, electricity)

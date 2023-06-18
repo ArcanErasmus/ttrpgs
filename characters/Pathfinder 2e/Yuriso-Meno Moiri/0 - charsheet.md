@@ -12,20 +12,20 @@
 
 ## Stats
 ### Ability Scores
-| Stats | Base    |
-|-------|---------|
-| *Str* | 10 (--) |
-| *Dex* | 16 (+3) |
-| *Con* | 14 (+2) |
-| *Int* | 10 (--) |
-| *Wis* | 16 (+3) |
-| *Cha* | 19 (+4) |
+| Stats | Base
+|-------|--------
+| *Str* | 10 (--)
+| *Dex* | 16 (+3)
+| *Con* | 14 (+2)
+| *Int* | 10 (--)
+| *Wis* | 16 (+3)
+| *Cha* | 19 (+4)
 
 ### Resources
-| **Resource** |  Value       |  Refill   |
-|--------------|--------------|-----------|
-| *HP*         |  66/66       |  +5/Rest (not with Curse of Nightmares!)
-| *Fortune*    |  [x] [ ] [ ] |  =1/Session
+| **Resource** | Value       | Refill
+|--------------|-------------|-------
+| *HP*         | 66/66       | +5/Rest (not with Curse of Nightmares!)
+| *Fortune*    | [ ] [ ] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
@@ -36,60 +36,69 @@
     - (10 mins duration)
 
 ### Defenses
-| **Defense**     | Sum | TEML | Prof | Ability | Bns |  Temp |
-|-----------------|-----|------|------|---------|-----|-------|
-| *Unarmored AC*  | 21  | +    | +5+2 | +3 Dex  | +1  |  -
-|-----------------|-----|------|------|---------|-----|-------|
-| *Fortitude*     | +11 | ++   | +5+4 | +2 Con  | -   |  -
-| *Reflex*        | +10 | +    | +5+2 | +3 Dex  | -   |  -
-| *Will*          | +12 | ++   | +5+4 | +3 Wis  | -   |  -
-|-----------------|-----|------|------|---------|-----|-------|
-| *Fire*          |  2  |                             |  -
+| **Defense**     | Sum | TEML | Prof | Ability | Bns | Temp
+|-----------------|-----|------|------|---------|-----|-----
+| *Unarmored AC*  | 21  | +    | +5+2 | +3 Dex  | +1  | -
+|-----------------|-----|------|------|---------|-----|-----
+| *Fortitude*     | +11 | ++   | +5+4 | +2 Con  | -   | -
+| *Reflex*        | +10 | +    | +5+2 | +3 Dex  | -   | -
+| *Will*          | +12 | ++   | +5+4 | +3 Wis  | -   | -
+|-----------------|-----|------|------|---------|-----|-----
+| *Fire*          |  2  |                             | -
 - [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
-| **Offense**     | Sum | TEML | Prof | Ability | Bns | Temp |
-|-----------------|-----|------|------|---------|-----|------|
-| *Class DC*      | 21  | +    | +5+2 | +4 Cha  | -   | -
-| *Arcane DC*     | 21  | +    | +5+2 | +4 Cha  | -   | -
-| *Occult DC*     | 21  | +    | +5+2 | +4 Cha  | -   | -
-|-----------------|-----|------|------|---------|-----|------|
-| *Perception*    | +12 | ++   | +5+4 | +3 Wis  | -   | -
-| *Arcane Attack* | +11 | +    | +5+2 | +4 Cha  | -   | -
-| *Occult Attack* | +11 | +    | +5+2 | +4 Cha  | -   | -
-| *Dex Attack*    | +11 | +    | +5+2 | +3 Dex  | +1  | -
-| *Str Attack*    | +8  | +    | +5+2 | +0 Str  | +1  | -
+| **Offense**     | Sum | TEML | Abil | Bns | Temp
+|-----------------|-----|------|------|-----|-----
+| *Class DC*      | 21  | +    | Cha  | -   | -
+| *Arcane DC*     | 21  | +    | Cha  | -   | -
+| *Occult DC*     | 21  | +    | Cha  | -   | -
+|-----------------|-----|------|------|-----|-----
+| *Perception*    | +12 | ++   | Wis  | -   | -
+| *Arcane Attack* | +11 | +    | Cha  | -   | -
+| *Occult Attack* | +11 | +    | Cha  | -   | -
+| *Dex Attack*    | +11 | +    | Dex  | +1  | -
+| *Str Attack*    | +8  | +    | Str  | +1  | -
 
 ### Attacks
-| **Offense**     | Sum/DC&Save   | TEML | Damage    | Traits |
-|-----------------|---------------|------|-----------|--------|
-| *Javelin*       | Dex Atk       | +    | 2d6 P     | Thrown (30 ft)
-| *Poi*           | Dex Atk       | +    | 2d4 B     | Agile, Backswing, Finesse, Nonlethal
-| *Sickle*        | Dex Atk       | +    | 2d4 S     | Agile, Finesse, Trip
-| *Breath*     >> | Class DC BRef | -    | 3d4 Fire  | 30-ft line, 1d4 rd CD
+| **Offense**     | Sum/DC&Save   | TEML | Damage    | Traits
+|-----------------|---------------|------|-----------|-------
+| *Javelin*       | dexAtk        | +    | 2d6 P     | Thrown (30 ft)
+| *Poi*           | dexAtk        | +    | 2d4 B     | Agile, Backswing, Finesse, Nonlethal
+| *Sickle*        | dexAtk        | +    | 2d4 S     | Agile, Finesse, Trip
+| *Breath*     >> | Class DC bRef | -    | 3d4 Fire  | 30-ft line, 1d4 rd CD
+| *Bomb*          | Prof          | -    | special   | Thrown (20 ft)
 - [ ] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
-| **Skill**       | Sum | TEML | Prof | Ability | Bns | Temp |
-|-----------------|-----|------|------|---------|-----|------|
-| *Acrobatics*    | +3  |      | +0   | +3 Dex  | -   | -
-| *Arcana*        | +7  | +    | +5+2 | +0 Int  | -   | -
-| *Athletics*     | +7  | +    | +5+2 | +0 Str  | -   | -
-| *Crafting*      | +0  |      | +0   | +0 Int  | -   | -
-| *Deception*     | +5  |      | +0   | +4 Cha  | -   | -
-| *Diplomacy*     | +5  |      | +0   | +4 Cha  | -   | -
-| *Intimidation*  | +11 | +    | +5+2 | +4 Cha  | -   | -
-| *L: Desert*     | +7  | +    | +5+2 | +0 Int  | -   | -
-| *Medicine*      | +3  |      | +0   | +3 Wis  | -   | -
-| *Nature*        | +10 | +    | +5+2 | +3 Wis  | -   | -
-| *Occultism*     | +7  | +    | +5+2 | +0 Int  | -   | -
-| *Performance*   | +14 | ++   | +5+4 | +4 Cha  | +1  | -
-| *Religion*      | +3  |      | +0   | +3 Wis  | -   | -
-| *Society*       | +0  |      | +0   | +0 Int  | -   | -
-| *Stealth*       | +10 | +    | +5+2 | +3 Dex  | -   | -
-| *Survival*      | +10 | +    | +5+2 | +3 Wis  | -   | -
-| *Thievery*      | +10 | +    | +5+2 | +3 Dex  | -   | -
-|-----------------|-----|------|------|---------|-----|------|
+| **Skill**       | Sum | TEML | Abil | Bns | Temp
+|-----------------|-----|------|------|-----|-----
+| *Acrobatics*    | +10 | +    | Dex  | -   | -
+| *Arcana*        | +7  | +    | Int  | -   | -
+| *Athletics*     | +7  | +    | Str  | -   | -
+| *Intimidation*  | +11 | +    | Cha  | -   | -
+| *L: Desert*     | +7  | +    | Int  | -   | -
+| *L: Kobold*     | +7  | +    | Int  | -   | -
+| *L: ?*     | +7  | +    | Int  | -   | -
+| *Nature*        | +10 | +    | Wis  | -   | -
+| *Occultism*     | +7  | +    | Int  | -   | -
+| *Performance*   | +14 | ++   | Cha  | +1  | -
+| *Stealth*       | +10 | +    | Dex  | -   | -
+| *Survival*      | +10 | +    | Wis  | -   | -
+| *Thievery*      | +12 | ++   | Dex  | -   | -
+|-----------------|-----|------|------|-----|-----
+| *Crafting*      | +0  |      | Int  | -   | -
+| *Deception*     | +4  |      | Cha  | -   | -
+| *Diplomacy*     | +4  |      | Cha  | -   | -
+| *Medicine*      | +3  |      | Wis  | -   | -
+| *Religion*      | +3  |      | Wis  | -   | -
+| *Society*       | +0  |      | Int  | -   | -
+|-----------------|-----|------|------|-----|-----
+- +1 circumstance to Intimidation to Demoralize
+- +1 circumstance to acting-based Performance
+- Performance instead of Intimidation to Demoralize
+- Performance instead of Diplomacy to Make an Impression
+- Acting Performance instead of Deception to Impersonate
 
 ### Automatic Bonus Progression
 #### Attack Potency
@@ -318,4 +327,8 @@
 `[General]` `[Skill]`
 - When Aid an ally to Create a Diversion, instead can roll Performance and use that result to determine outcome (ally does not roll)
 
-ANCESTRY FEAT
+#### Kobold Lore
+`[Kobold]`
+- +1 circumstance to Demoralize
+- Gain Trained in Thievery and Stealth (or 2 skills of your choice if wasted)
+- Gain Trained in Kobold Lore

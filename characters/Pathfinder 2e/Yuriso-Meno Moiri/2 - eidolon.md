@@ -10,14 +10,14 @@
 
 ## Stats
 ### Ability Scores
-| Stats | Base    |
-|-------|---------|
-| *Str* | 19 (+4) |
-| *Dex* | 16 (+3) |
-| *Con* | 18 (+4) |
-| *Int* | 10 (--) |
-| *Wis* | 12 (+1) |
-| *Cha* | 10 (--) |
+| Stats | Base
+|-------|---------
+| *Str* | 19 (+4) 
+| *Dex* | 16 (+3) 
+| *Con* | 18 (+4) 
+| *Int* | 10 (--) 
+| *Wis* | 12 (+1) 
+| *Cha* | 10 (--) 
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
@@ -30,55 +30,58 @@
     - (10 mins duration)
 
 ### Defenses
-| **Defense**     | Sum | TEML | Prof | Ability | Bns |  Temp |
-|-----------------|-----|------|------|---------|-----|-------|
-| *Natural AC*    | 23  | +    | +5+2 | +3 Dex  | +3  |  -
-|-----------------|-----|------|------|---------|-----|-------|
-| *Fortitude*     | +13 | ++   | +5+4 | +4 Con  | -   |  -
-| *Reflex*        | +10 | +    | +5+2 | +3 Dex  | -   |  -
-| *Will*          | +10 | ++   | +5+4 | +1 Wis  | -   |  -
-|-----------------|-----|------|------|---------|-----|-------|
-| *Fire*          |  2  |                             |  -
+| **Defense**     | Sum | TEML | Abil | Bns | Temp
+|-----------------|-----|------|------|-----|-----
+| *Natural AC*    | 23  | +    | Dex  | +3  | -
+|-----------------|-----|------|------|-----|-----
+| *Fortitude*     | +13 | ++   | Con  | -   | -
+| *Reflex*        | +10 | +    | Dex  | -   | -
+| *Will*          | +10 | ++   | Wis  | -   | -
+|-----------------|-----|------|------|-----|-----
+| *Fire*          |  2  |                   | -
 - [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
-| **Offense**     | Sum | TEML | Prof | Ability | Bns | Temp |
-|-----------------|-----|------|------|---------|-----|------|
-| *Perception*    | +10 | ++   | +5+4 | +1 Wis  | -   | -
-| *Dex Attack*    | +12 | +    | +5+2 | +3 Dex  | +1  | -
-| *Str Attack*    | +12 | +    | +5+2 | +4 Str  | +1  | -
+| **Offense**     | Sum | TEML | Abil | Bns | Temp
+|-----------------|-----|------|------|-----|-----
+| *Perception*    | +10 | ++   | Wis  | -   | -
+| *Dex Attack*    | +12 | +    | Dex  | +1  | -
+| *Str Attack*    | +12 | +    | Str  | +1  | -
 
 ### Attacks
-| **Offense**     | Sum/DC&Save   | TEML | Damage     | Traits |
-|-----------------|---------------|------|------------|--------|
-| *Claw*          | Str Atk +2    | ++   | 2d8+4 S^   | Trip
-| *Tail*          | Str Atk +2    | ++   | 2d6+4 Fire | Agile, Finesse
-| *Breath*     >> | Spell DC BRef | -    | 3d6 Sonic  | 30-ft cone, 1d4 rd CD
+| **Offense**     | Sum/DC&Save   | TEML | Damage     | Traits
+|-----------------|---------------|------|------------|-------
+| *Claw*          | strAtk +2     | ++   | 2d8+4 S^   | Trip
+| *Tail*          | strAtk +2     | ++   | 2d6+4 Fire | Agile, Finesse
+| *Breath*     >> | Spell DC bRef | -    | 3d6 Sonic  | 30-ft cone, 1d4 rd CD
 ^ +1d6+1 persistent bleed on crit
 - [x] *Crushing*: On crit, target gets Clumsy 1 & Enfeebled 1 until start of your next turn
 - [ ] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
-| **Skill**       | Sum | TEML | Prof | Ability | Bns | Temp |
-|-----------------|-----|------|------|---------|-----|------|
-| *Acrobatics*    | +3  |      | +0   | +3 Dex  | -   | -
-| *Arcana*        | +7  | +    | +5+2 | -- Int  | -   | -
-| *Athletics*     | +11 | +    | +5+2 | +4 Str  | -   | -
-| *Crafting*      | +0  |      | +0   | -- Int  | -   | -
-| *Deception*     | +0  |      | +0   | -- Cha  | -   | -
-| *Diplomacy*     | +0  |      | +0   | -- Cha  | -   | -
-| *Intimidation*  | +7  | +    | +5+2 | -- Cha  |     | -
-| *L: Jungle*     | +7  | +    | +5+2 | -- Int  | -   | -
-| *Medicine*      | +1  |      | +0   | +1 Wis  | -   | -
-| *Nature*        | +8  | +    | +5+2 | +1 Wis  | -   | -
-| *Occultism*     | +7  | +    | +5+2 | -- Int  | -   | -
-| *Performance*   | +10 | ++   | +5+4 | -- Cha  | -   | -
-| *Religion*      | +1  |      | +0   | +1 Wis  | -   | -
-| *Society*       | +0  |      | +0   | -- Int  | -   | -
-| *Stealth*       | +10 | +    | +5+2 | +3 Dex  | -   | -
-| *Survival*      | +8  | +    | +5+2 | +1 Wis  | -   | -
-| *Thievery*      | +10 | +    | +5+2 | +3 Dex  | -   | -
-|-----------------|-----|------|------|---------|-----|------|
+| **Skill**       | Sum | TEML | Abil | Bns | Temp
+|-----------------|-----|------|------|-----|-----
+| *Acrobatics*    | +10 | +    | Dex  | -   | -
+| *Arcana*        | +7  | +    | Int  | -   | -
+| *Athletics*     | +11 | +    | Str  | -   | -
+| *Intimidation*  | +7  | +    | Cha  |     | -
+| *L: Desert*     | +7  | +    | Int  | -   | -
+| *L: Kobold*     | +7  | +    | Int  | -   | -
+| *L: ?*     | +7  | +    | Int  | -   | -
+| *Nature*        | +8  | +    | Wis  | -   | -
+| *Occultism*     | +7  | +    | Int  | -   | -
+| *Performance*   | +10 | ++   | Cha  | +1  | -
+| *Stealth*       | +10 | +    | Dex  | -   | -
+| *Survival*      | +8  | +    | Wis  | -   | -
+| *Thievery*      | +12 | ++   | Dex  | -   | -
+|-----------------|-----|------|------|-----|-----
+| *Crafting*      | +0  |      | Int  | -   | -
+| *Deception*     | +0  |      | Cha  | -   | -
+| *Diplomacy*     | +0  |      | Cha  | -   | -
+| *Medicine*      | +1  |      | Wis  | -   | -
+| *Religion*      | +1  |      | Wis  | -   | -
+| *Society*       | +0  |      | Int  | -   | -
+|-----------------|-----|------|------|-----|-----
 
 ## Abilities
 ### Dragon Eidolon
