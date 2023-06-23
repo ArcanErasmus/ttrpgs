@@ -1,20 +1,36 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 25?future - 2023-06-10
-Lvl up planning
-- Spell Repertoire
-    - +1 lvl3 spell
-    - +1 lvl3 spell
-    - -1 any spell
-    <!-- - -1 any spell (complete) -->
-<!-- - Spell slots (complete) -->
-<!-- - Ability boosts (complete)
-    - eidolon (complete) -->
-- Ancestry feat
-- Eidolon unarmed expertise
-- Skill increase
-<!-- - ABP Defense Potency +1 (complete) -->
-<!-- - +1 proficiency bonus (complete) -->
+### Session 26?future - 2023-06-24
+Appropriate Lores
+- Fishing
+- Herbalism
+- Hunting
+- Scouting
+- Lore about a deity
+- Lore about a creature
+- Lore about a non-material plane
+- Lore about a terrain
+- Lore about a type of food/drink (butchering, baking, alcohol, cooking, tea, etc.)
+
+`END OF SEASON 1`
+### Session 25 - 2023-06-17
+- We move further into the building
+    - Pergy is convinced to take his "sisters" and head to the sanctuary
+    - Karchanek stays to guard a pair of orcs who surrender on sight
+    - Greytusk mourns a friend who was turned into an alchemical monster, we bypass it for now
+- Continuing into an unworked cavern
+    - We spook some vampire bats, they flee through us causing damage
+    - We continue through the only exit
+- Arriving at a final chamber, Vilree gives us a monologue
+    - Rasa fires first, up rises a zombie-thing, a skeleton-mage, and Pergy's "baby brother"
+    - We fight, we kill them all
+- Pergy is convinced to give up the fight
+    - Given a new mission to remember Vilree
+    - Will be sent with the caravan to the V'kandis monastery along the way
+- Tamli invites the PCs to the funeral for Bort
+- We pack and leave
+
+### 2023-06-10, No Session
 
 ### Session 24 - 2023-06-03
 - The fight continues
