@@ -4,11 +4,11 @@
 ║ Core                           ║ Stat       │ Value                                                ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
-║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 106/ 96           ║
-║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███ !!!CLARITY!!!        ├───────────────────╢
+║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦/            ├───────────────────╢
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 109/ 96           ║
+║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███                      ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦∙∙∙ ∙∙                   │ 3.5w/  7j/ 13r yd ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                   │ 3.5w/  7j/ 13r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═══════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec      ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
