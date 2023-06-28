@@ -15,13 +15,13 @@
 - Party short-term ambition: Safely deliver the cargo to the destination
 - Party long-term ambition: Root out the Middenheim cult
 
-## Spent/Total XP: 5675/5835
+## Spent/Total XP: 5795/5885
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
 |  350 |   5 |  15 | WP
-|  315 |   0 |  11 | WS
-|  315 |   0 |  11 | S
-|  315 |   0 |  11 | T
+|  355 |   0 |  12 | WS
+|  355 |   0 |  12 | S
+|  355 |   0 |  12 | T
 |  475 |   0 |  15 | I
 |   75 |   0 |   3 | Ag
 |------|-----|-----|------
@@ -70,10 +70,10 @@
 ## Attributes/Characteristics
 | Att | In | Tl | Ad | Md | Cr |
 |-----|----|----|----|----|----|
-|^WS  | 41 |  5 | 11 |    | 57 |
+|^WS  | 41 |  5 | 12 |    | 58 |
 | BS  | 32 |    |    |    | 32 |
-|^S   | 50 |    | 11 |    | 61 |
-|^T   | 55 |  5 | 11 |    | 71 |
+|^S   | 50 |    | 12 |    | 62 |
+|^T   | 55 |  5 | 12 |    | 72 |
 |!I   | 28 |    | 15 |    | 43 |
 | Ag  | 27 |    |  3 |    | 30 |
 | Dex | 17 |    |    |    | 17 |
@@ -360,15 +360,15 @@
 
 ## Exp Planning
 ### Freeholder (Current Career)
-#### Rank 3->4, Minimum: 480
-- Attributes: 480
-    - WS                 | 11->15 | 160
-    - S                  | 11->15 | 160
-    - T                  | 11->15 | 160
+#### Rank 3->4, Minimum: 360
+- Attributes: 360
+    - WS                 | 12->15 | 120
+    - S                  | 12->15 | 120
+    - T                  | 12->15 | 120
 - Skills: 0
 - Talents: 0
 
-#### Rank 3->4, Moderate skillbot: 1930
+#### Rank 3->4, Moderate skillbot: 1810
 As minimum, plus:
 - Skills: 1250
     - Dodge              |  5->10 |  75
@@ -389,7 +389,7 @@ As minimum, plus:
 - Talents: 200
     - Battle Rage        |  1-> 2 | 200
 
-#### Rank 3->4, Maximum skillbot: 3520
+#### Rank 3->4, Maximum skillbot: 3400
 As moderate, plus:
 - Skills: 1590
     - Dodge              | 10->15 | 100
