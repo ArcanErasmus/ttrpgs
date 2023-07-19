@@ -4,8 +4,8 @@
 ║ Core                           ║ Stat       │ Value                                                ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
-║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦/            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 109/ 96           ║
+║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 113/106           ║
 ║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███                      ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
 ║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                   │ 3.5w/  7j/ 13r yd ║
@@ -56,23 +56,23 @@
 ║ - Ja: Motivational Vocoder (♦)                      │                                              ║
 ║ - Ja: Sustained Augmentation of Jade (♦)            │                                              ║
 ║ - Ja: Synaptic Acceleration Node (♦)                │                                              ║
-║ - St: Metaneural Uplink Node (♦)                    │                                              ║
 ║ - St: Omnitool Implant (♦)                          │                                              ║
+║ - St: Transphase Engine (♦)                         │                                              ║
 ║ - So: Mobile Sensory Drone (♦)                      │                                              ║
 ║ - So: Optical Enhancement (♦)                       │                                              ║
 ╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
 ║ Inactive Charms                                     │                                              ║
-║ - So: Transphase Engine (♦)                         │                                              ║
-╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
-║ Sidereal Secret Arts                                │                                              ║
-║ - KB: Birth of the Perfect Ego Juggernaut Form (♦)  │                                              ║
-╚═════════════════════════════════════════════════════╧══════════════════════════════════════════════╝
+╟─────────────────────────────────────────────────────┴──────────────────────────────────────────────╢
+║ Sidereal Secret Arts                                                                               ║
+║ - KB: Birth of the Perfect Ego Juggernaut Form (♦)                                                 ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 Collected Modifiers:
 - Global
  - x1/2 to base movement speed (Flaw, Short)
  - +5 dice innate countermagick (Background, Primium Countermeasures)
  - +3 dice innate countermagick (Merit, True Faith)
+ - +3 dice to willpower (Merit, True Faith)
 - Situational
  - -2 diff for computer-based (Merit, Computer Aptitude)
  - -2 diff to work with mechanical technologies (Merit, Mechanical Aptitude)
@@ -83,3 +83,20 @@ Collected Modifiers:
 - Talents
  - Awareness
   - -2 diff to sense magick (Merit, True Faith)
+
+Shopping List
+- Caste Attributes
+ *- ??: ?
+  - ??: ?
+- Non-Caste Attributes
+ *- ??: ?
+  - ??: ?
+- Abilities
+ *- ??: ?
+  - ??: ?
+- Charm Submodules
+ *- ??: ?
+  - ??: ?
+- Other
+ *- ??: ?
+  - ??: ?

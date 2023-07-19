@@ -40,10 +40,6 @@
 ║ - Can work at 5x rate when doing any mundane task/job, including crafting & medical care.        ║
 ║ - Does not apply to combat or travel. Movements are optimized, not sped up.                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Starmetal Charm: Metaneural Uplink Node (♦)                                                      ║
-║ - Aesthetic: Circuitry on visual cortex, metal disk at base of skull.                            ║
-║ - Can view & interact with internet mentally, no action, vision unimpeded, can't be hacked.      ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Starmetal Charm: Omnitool Implant (♦)                                                            ║
 ║ - Aesthetic: Hands replaced with complex reconfigurable machinery.                               ║
 ║ - Always assumed to have any manner of work tool while installed.                                ║

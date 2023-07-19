@@ -1,8 +1,8 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
-╠════════════════════════════════╩════════════════╤════════════════════════════════════════════════╣
-║ Gear                                            │ Gear                                           ║
-╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
+╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
+║ Gear                                                                                             ║
+╟─────────────────────────────────────────────────┬────────────────────────────────────────────────╢
 ║ - Camcorder                                     │ - Peppermints from "the ferrymen"              ║
 ║ - Tape deck                                     │ - Big fat flashlight                           ║
 ║ - Walkie talkies                                │ - Leatherman                                   ║
@@ -11,10 +11,17 @@
 ║ - Too many batteries                            │ - Apple Newton MessagePad                      ║
 ║ - Chalk                                         │ - Digital watch                                ║
 ║ - Various handmade charms                       │ - TI-81                                        ║
+║ - $195, DM450                                   │ -                                              ║
+╟─────────────────────────────────────────────────┴────────────────────────────────────────────────╢
+║ Software                                                                                         ║
+╟─────────────────────────────────────────────────┬────────────────────────────────────────────────╢
+║ - Windows 3.1 (Max's primary internal OS)       │ - Slackware 1.00                               ║
 ╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
-║ Software                                        │ Software                                       ║
-╟─────────────────────────────────────────────────┼────────────────────────────────────────────────╢
-║ - English-German text translator                │ -                                              ║
+║ - Myst                                          │ - Microsoft Excel                              ║
+║ -                                               │ - Microtac Software German Assistant           ║
+║ -                                               │ -                                              ║
+║ -                                               │ -                                              ║
+║ -                                               │ -                                              ║
 ╠════════════════════════╤══════╤════════╤═══╤════╧════════════════════════════════════════════════╣
 ║ Melee Weapons          │ Diff │ Damage │ C │ Notes                                               ║
 ╟────────────────────────┼──────┼────────┼───┼─────────────────────────────────────────────────────╢
@@ -74,4 +81,27 @@
 ║  - When it kills a creature, it creates a number of Banes equal to the target's Willpower        ║
 ║   - Most likely baby Drattosi, who are quite benevolent towards the wielder, assuming            ║
 ║     both stick around long enough as they stabilize.                                             ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Zealous Artifact Prohibition, Enhancement (♦♦) [See traits.txt]                                  ║
+║ - Aesthetics:                                                                                    ║
+║  - Toroidal coil of wires in a toroid shape, implanted in upper torso                            ║
+║   - Mounted behind left shoulder socket, next to the left lung                                   ║
+║    - Cabling runs down the left arm to the left hand's middle metacarpophalangeal joint          ║
+║    - Cabling runs up the neck and through the skull, to the forehead                             ║
+║   - Central toroid is made of rings of primium and a multitude of insulative materials           ║
+║    - Cradles a core of metal oxides and globs of a myriad of adhesives                           ║
+║    - Fused to a thick membrane which can rapidly channel Essence into it                         ║
+║ - Stats:                                                                                         ║
+║  - 4 dice pool, 1 Ess to activate, roll at diff 5                                                ║
+║   - Sends an instantaneous pulse of energy in an Entropy 2/Forces 2/Matter 2 effect              ║
+║   - Activation is silent and invisible to mundane senses, and instantaneous                      ║
+║   - A Forces 1 perceptive effect can view the energy pulse it sends                              ║
+║  - Target any mechanical or electronic object in line of sight                                   ║
+║   - Higher diff at GM discretion for extremely tiny, far, or fast-moving targets                 ║
+║   - Higher diff or more successes required for targets larger than a small plane                 ║
+║   - Can target Wonders, but only if they have electronic or moving components                    ║
+║    - Wonders may roll Arete/Enlightenment to soak, subtracting successes from the attack         ║
+║  - Disables targets for duration based on the Base Damage or Duration chart (M20 pp. 504)        ║
+║   - Chart by # successes: One turn, one scene, one day, one story, six months, GM's option       ║
+║   - 3+ may permanently destroy a simple non-magickal device                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

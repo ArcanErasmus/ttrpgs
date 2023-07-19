@@ -1,35 +1,53 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
-║ Session 31 - 2023/07/04?future                                                                   ║
+║ Session 32 - 2023/08/01?future                                                                   ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ - Reminder: We have 1 dots in Resources (need to go to moneychanger tho)
-║ - 
-║  - 
-║   - 
+║ - Goal: Prevent the Mountain from awakening, turning back into the End, and ending the world
+║  - Next Mission: Infiltrate the military base and find out what they know about The Mountain
 ║ - 
 ║  - 
 ║   - 
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Session 31 - 2023/07/18                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ - Klaus leads us to a pastry shop                                                                ║
+║  - We get food and hot drinks (cost abt DM50)                                                    ║
+║  - We head into an alley and Ellen makes bird noises at a local pigeon                           ║
+║   - The pigeon, when asked about Raven (the Tanana figure) says that he is "in the stories"      ║
+║  - We head to a nearby park (the Englischer Garten) to talk with some privacy                    ║
+║   - Ellen tells the story of Raven making the world and all the people                           ║
+║   - Autumn and Scott focus on awakening Raven inside the story                                   ║
+║    - It takes some real thinking! We give a big offering and tell a story                        ║
+║    - Scott coughs up a bunch of feathers, as he is possessed by Raven! Raven then explains:      ║
+║     - The Mountain is an embodiment of the concept of The End                                    ║
+║     - The End got assistance to perform some ritual to turn itself into The Mountain to slumber  ║
+║     - Tannenite is the concept of life and renewal                                               ║
+║     - Mining Tannenite is suffocating The Mountain, and it is rapidly approaching awakening      ║
+║     - If The Mountain awakens, the world ends                                                    ║
+║     - Mr. Waldorf was attempting to pacify The Mountain by sacrificing life to it                ║
+║ - The Union, and The Council of Mystic Traditions                                                ║
+║  - The Union wants to get rid of magick??                                                        ║
+║  - The Order of Hermes focuses on demon binding and 'proper magick' and is very inequal          ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 30 - 2023/06/20                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ - We go the heck to sleep after all that, it's now Saturday (10/30/1993)
-║  - We awaken to a knocking at the door, it's the doctor, they want to do more tests
-║   - Summer and Max go to be observed
-║   - Max looks thru the walls with her eye charm, sees the Chantry folded in upon itself, with
-║     higher dimensional superposition used to hold all the rooms and presumably guide the
-║     intent-based room rearrangement
-║   - Max and Summer explain somewhat when and how Max's magic shifted
-║   - Ellen and Klaus burst in to drag us away
-║ - Back in the bedroom
-║  - We have a dumb and very emotional argument about Summer's condition and what to do about it
-║   - It escalates into a pathetic slapfight between Max and Autumn, Summer cries
-║    - Max exits clarity and just kinda slumps
-║  - We all have a decompress about it, Max and Summer are cool, Autumn is still mad at Max
-║   - Alys helps mediate, we decide to go out for lunch 
-║ - 
-║  - 
-║   - 
+║ - We go the heck to sleep after all that, it's now Saturday (10/30/1993)                         ║
+║  - We awaken to a knocking at the door, it's the doctor, they want to do more tests              ║
+║   - Summer and Max go to be observed                                                             ║
+║   - Max looks thru the walls with her eye charm, sees the Chantry folded in upon itself, with    ║
+║     higher dimensional superposition used to hold all the rooms and presumably guide the         ║
+║     intent-based room rearrangement                                                              ║
+║   - Max and Summer explain somewhat when and how Max's magic shifted                             ║
+║   - Ellen and Klaus burst in to drag us away                                                     ║
+║ - Back in the bedroom                                                                            ║
+║  - We have a dumb and very emotional argument about Summer's condition and what to do about it   ║
+║   - It escalates into a pathetic slapfight between Max and Autumn, Summer cries                  ║
+║    - Max exits clarity and just kinda slumps                                                     ║
+║  - We all have a decompress about it, Max and Summer are cool, Autumn is still mad at Max        ║
+║   - Alys helps mediate                                                                           ║
+║ - We decide to go out for lunch                                                                  ║
+║  - Autumn transmogrifies US Dollars into Deutschmarks ($5 to DM500)                              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Session 29 - 2023/05/09                                                                          ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -472,7 +490,7 @@
 ║  1: Submodule, Omnitool Implant (Data Access Implant)                                            ║
 ║ 11: Ability, Research 0->4                                                                       ║
 ║  2: Ability, Lore: Dark Kingdoms 0->1                                                            ║
-║ 11: Special Merit, True Faith 1->3                                                               ║
+║  7: Special Merit, True Faith 1->2                                                               ║
 ║  2: Ability, Medicine 0->1                                                                       ║
 ║  6: Submodule, Transpuissant Industrial Miracle Upgrade (Integrated Artifact Transmogrifier)     ║
 ║  3: Submodule, Integrated Artifact Transmogrifier (Automated Suppression Routines)               ║
@@ -481,22 +499,5 @@
 ║  4: Attribute, Dexterity 1->2                                                                    ║
 ║  2: Knowledge, Law 1->2                                                                          ║
 ║  3: Sidereal Secret Art, Birth of the Perfect Ego Juggernaut Form                                ║
-╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Shopping List                                                                                    ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ - Caste Attributes
-║  *- ??: ?
-║   - ??: ?
-║ - Non-Caste Attributes
-║  *- ??: ?
-║   - ??: ?
-║ - Abilities
-║  *- ??: ?
-║   - ??: ?
-║ - Charm Submodules
-║  *- ??: ?
-║   - ??: ?
-║ - Other
-║  *- ??: ?
-║   - ??: ?
+║ 14: Special Merit, True Faith 2->3                                                               ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
