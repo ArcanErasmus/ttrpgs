@@ -1,7 +1,7 @@
-# ?, she
+# Meat, She/They
 ## Biographical Info
-- Lunar Exalted, ? Caste
-- height, lbs, yo, hair, eyes, skin
+- Lunar Exalted, Full Moon Caste
+- 9'6", 440lbs, yo, hair, eyes, skin
 - notable features
 
 ## Attributes

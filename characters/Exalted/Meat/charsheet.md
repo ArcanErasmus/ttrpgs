@@ -1,14 +1,14 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Big Trouble in Little Creation ║                             , She/Her (Born ??/??/????)         ║
+║ Big Trouble in Little Creation ║ Meat, She/They (Born ??/??/????)                                ║
 ╠════════════════════════════════╬════════════╤════════════════════════════════════════════════════╣
 ║ Core                           ║ Stat       │ Value                                              ║
 ╟────────────────────────────────╫────────────┼────────────────────────────────┬───────────────────╢
 ║ Anima - ?                      ║ Health     │ x -5 -2 -2 -1 -1   -0          │  XP Total/Spent   ║
 ║ Tell - ?                       ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦/          ├───────────────────╢
-║ Caste - Casteless              ║ Willpower  │ ♦♦♦♦· ∙                        │    0/  0          ║
+║ Caste - Full Moon              ║ Willpower  │ ♦♦♦♦· ∙                        │    0/  0          ║
 ║ Spirit Shape - ?               ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                    ├───────────────────╢
 ║                                ║ Ess Rating │ ♦∙∙∙∙                          │  Movement Speed   ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                 │  3.5w/  7j/ 13r yd║
+║ Concept - Lunar!Bitch          ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                 │  3.5w/  7j/ 13r yd║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦════════════╪═══════╤═══════════╣
 ║ Physical  P│ Level │ Spec      ║ Abilities  │ Level │ Spec      ║ Intimiacies                    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╢──────────────────────┼─────────╢
