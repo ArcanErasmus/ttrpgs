@@ -3,42 +3,55 @@
 ╠════════════════════════════════╬════════════╤════════════════════════════════════════════════════╣
 ║ Core                           ║ Stat       │ Value                                              ║
 ╟────────────────────────────────╫────────────┼────────────────────────────────┬───────────────────╢
-║ Anima - ?                      ║ Health     │ x -5 -2 -2 -1 -1   -0          │  XP Total/Spent   ║
-║ Tell - ?                       ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦/          ├───────────────────╢
+║ Anima - ?                      ║ Health     │ x -4 -2 -2 -1 -1   -0          │  XP Total/Spent   ║
+║ Tell - Croc tail               ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦          ├───────────────────╢
 ║ Caste - Full Moon              ║ Willpower  │ ♦♦♦♦· ∙                        │    0/  0          ║
-║ Spirit Shape - ?               ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                    ├───────────────────╢
+║ Spirit Shape - Boar-Tusk Croc  ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                    ├───────────────────╢
 ║                                ║ Ess Rating │ ♦∙∙∙∙                          │  Movement Speed   ║
 ║ Concept - Lunar!Bitch          ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                 │  3.5w/  7j/ 13r yd║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦════════════╪═══════╤═══════════╣
-║ Physical  P│ Level │ Spec      ║ Abilities  │ Level │ Spec      ║ Intimiacies                    ║
-╟────────────┼───────┼───────────╫────────────┼───────┼───────────╢──────────────────────┼─────────╢
-║ Strength   │ ♦♦∙∙∙ │           ║ Archery    │ ♦♦♦∙∙ │           ║
-║ Dexterity  │ ♦♦∙∙∙ │           ║ Athletics  │ ♦∙∙∙∙ │           ║
-║            │       │           ║ Awareness  │ ♦♦∙∙∙ │           ║
-║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Brawl      │ ∙∙∙∙∙ │           ║
-╠════════════╪═══════╪═══════════╬ Bureaucracy│ ♦♦♦∙∙ │           ║══════════════════════╪═════════╣
-║ Social    T│ Level │ Spec      ║ Craft      │ ♦♦♦∙∙ │           ║Merit               │ Value     ║
-╟────────────┼───────┼───────────╫ Dodge      │ ♦♦♦∙∙ │           ║────────────────────┼───────────╫
-║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Integrity  │ ♦♦♦∙∙ │           ║
-║ Manipulatn │ ♦∙∙∙∙ │           ║ Investigation♦♦♦∙∙ │           ║
-║            │       │           ║ Larceny    │ ♦♦♦∙∙ │           ║
-║ Appearance │ ♦♦∙∙∙ │           ║ Linguistics│ ♦♦♦∙∙ │           ║
-╠════════════╪═══════╪═══════════╬ Lore       │ ♦♦♦∙∙ │           ║
-║ Mental    S│ Level │ Spec      ║ Martial Arts ♦♦♦∙∙ │           ║
-╟────────────┼───────┼───────────╢ Medicine   │ ♦♦♦∙∙ │           ║
-║ Perception │ ♦♦♦♦∙ │ ShrpSense ║ Melee      │ ∙∙∙∙∙ │           ║
-║ Intelligence ♦♦♦♦♦#│ BookLearn ║ Occult     │ ♦∙∙∙∙ │           ║══════════════════════╪═════════╣
-║            │       │ Creative  ║ Performance│ ♦∙∙∙∙ │           ║ Flaw                 │ Value   ║
-║ Wits       │ ♦♦♦#∙ │ Supernat  ║ Presence   │ ∙∙∙∙∙ │           ║──────────────────────┼─────────╢
-╠════════════╧═══════╧═══════════╣ Resistance │ ∙∙∙∙∙ │           ║
-║ Abilities  │ Level │ Spec      ║ Ride       │ ∙∙∙∙∙ │           ║
-║────────────┼───────┼───────────║ Sail       │ ∙∙∙∙∙ │           ║
+║ Physical  P│ Level │ Spec      ║ Abilities  │ Level │ Spec      ║Merit               │ Value     ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╢────────────────────┼───────────╫
+║ Strength  C│ ◘◘◘◘◘             ║ Archery    │ ∙∙∙∙∙ │           ║ Exalted Healing FREE
+╠ Dexterity  │ ◘◘∙∙∙ │           ╬ Athletics  │ ◘◘◘∙∙ │           ║ Pheremones 1 fear humans
+║ Stamina   C│ ◘◘◘◘◘ │           ║ Awareness  │ ◘◘◘∙∙ │           ║ Giant 4
+╟════════════╪═══════╪═══════════╫ Brawl      │ ◘◘◘∙∙ │           ║ Danger Sense 3
+║ Social    T│ Level │ Spec      ║ Bureaucracy│ ···∙∙ │           ║ Tail 2
+║────────────┼───────┼───────────║ Craft      │ ◘··∙∙ │           ║══════════════════════╪═════════╣
+║ Charisma   │ ◘◘··· │           ║ Dodge      │ ◘◘◘∙∙ │           ║ Flaw                           ║
+║ Manipulatn │ ◘∙∙∙∙ │           ║ Integrity  │ ◘◘◘∙∙ │           ║──────────────────────┼─────────╢
+╠            │       │           ╬ Investigation···∙∙ │           ║ social-emotional agnosia humans
+║ AppearanceC│ ◘◘◘◘◘ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Wyld Mutant
+╟════════════╪═══════╪═══════════╢ Linguistics│ ···∙∙ │           ║══════════════════════╪═════════╣
+║ Mental    S│ Level │ Spec      ║ Lore       │ ···∙∙ │           ║ Something???                   ║
+║────────────┼───────┼───────────║ Martial Arts ···∙∙ │           ║──────────────────────┼─────────╢
+║ PerceptionC│ ◘◘◘◘◘ │           ║ Medicine   │ ◘◘◘∙∙ │           ║
+║ Intelligence ◘···· │           ║ Melee      │ ·∙∙∙∙ │           ║
+╠            │       │           ╣ Occult     │ ·∙∙∙∙ │           ║
+║ Wits       │ ◘◘◘◘· │           ║ Performance│ ·∙∙∙∙ │           ║
+║════════════╧═══════╧═══════════║ Presence   │ ∙∙∙∙∙ │           ║
+║ Abilities  │ Level │ Spec      ║ Resistance │ ◘◘◘∙∙ │           ║
+║────────────┼───────┼───────────║ Ride       │ ∙∙∙∙∙ │           ║
+║            │ ∙∙∙∙∙ │           ║ Sail       │ ∙∙∙∙∙ │           ║
 ║            │ ∙∙∙∙∙ │           ║ Socialize  │ ∙∙∙∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Survival   │ ∙∙∙∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Thrown     │ ∙∙∙∙∙ │           ║
+║            │ ∙∙∙∙∙ │           ║ Stealth    │ ···∙∙ │           ║
+║            │ ∙∙∙∙∙ │           ║ Survival   │ ◘◘◘∙∙ │           ║
+║            │ ∙∙∙∙∙ │           ║ Thrown     │ ◘◘◘∙∙ │           ║
 ║            │ ∙∙∙∙∙ │           ║ War        │ ∙∙∙∙∙ │           ║
 ╠════════════╧═══════╪═══════════╬════════════════════╪═══════════╬══════════════════════╪═════════╣
+╠ Intimiacies                                ║ Charms                                              ║
+║──────────────────────┼─────────            ╟─────────────────────────────────────────────────────║
+║ theres a lot of them chief                 ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
+║                                            ║ Str: Some Flowery Bullshit Name                     ║
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
 
@@ -57,94 +70,3 @@ Collected Modifiers:
 - Talents
  - Awareness
   - -2 diff to sense magick (Merit, True Faith)
-
-Concept notes:
-- Bitch but Lunar
-- Illiterate??
-
-no resources
-no allies?
-heart's blood
-
-Doggirl Concept
-bounding legs
-unusual hide?
-extra limbs
-deadly weaponry
-
-frightening voice
-inhuman visage
-
-natural shield
-night vision
-
-boundless endurance
-Canid eyes; Larger cornea and iris, shimmers at night
-flaw: colorblind, grayscale only
-
-Fishgirl
-carapace
-constrictor
-deadly weaponry
-echolocation?
-enhanced toxin
-
-
-boundless endurance
-danger sense
-giant
-hideous
-pain tolerance
-chameleon
-fangs
-enhanced sense (smell?)
-extra limbs
-
-direction sense
-fast reflexes
-iron stomach
-mighty thew
-natural immunity
-
-strong lungs (water breathing?)
-
-
-core Exalted Healing FREE
-
-p core Mighty Thew 1-2
-p core Fast Reflexes 3
-p core Fleet of Foot 4
-p core Iron Stomach 1
-
-lunar Pheremones 1 fear humans
-core Giant 4
-core Danger Sense 3
-core Tail 2
-
-bonus pts
-core Ambidextrous 1
-core Unusual Hide 3
-core claws/fangs/hooves/horns 1 or 4 teeth
-lunar Night Vision 2
-p core Pain Tolerance 4
-
-flaw social-emotional agnosia
-flaw Wyld Mutant
-
-Hybrid Body Transformation
-+2 Unusual Hide
-+2 Carapace
-+0 Hideous
-+2 Natural Shield
-
-- charms
-Ox-Body
-Hybrid Body Transformation
-Feral Smile Tactic
-Terrifying Bestial Visage
-Deadly Claw Blow
-
-Shifting Beast Nature
-Boulders-as-Pebbles
-Deadly Beastman Transformation
-Terrifying Ogre Alteration

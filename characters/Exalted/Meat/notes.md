@@ -204,7 +204,8 @@ Anima
 Excellencies
 - x motes for +x dice
 - 2x motes for +x static defenses
-- can use an excellency for any ability you have at least one charm in, or any caste/favored ability you have a dot in (THIS IS FOR SOLARS/ABYSSALS)
+- can use an excellency for any caste you have at least one charm in, or any caste attribute you have 3+ dots in
+- caps at Attr number of motes, or Attr1+Attr2 if you describe how you use another stat to help
 
 "Charm Dice"
 - dice added thru excellencies or most charms, caps at matching your base pool
