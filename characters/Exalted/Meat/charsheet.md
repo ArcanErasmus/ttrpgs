@@ -1,72 +1,84 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Big Trouble in Little Creation ║ Meat, She/They (Born ??/??/????)                                ║
+║ Big Trouble in Little Creation ║ Meat, She/They                                                  ║
 ╠════════════════════════════════╬════════════╤════════════════════════════════════════════════════╣
 ║ Core                           ║ Stat       │ Value                                              ║
 ╟────────────────────────────────╫────────────┼────────────────────────────────┬───────────────────╢
-║ Anima - ?                      ║ Health     │ x -4 -2 -2 -1 -1   -0          │  XP Total/Spent   ║
-║ Tell - Croc tail               ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦          ├───────────────────╢
-║ Caste - Full Moon              ║ Willpower  │ ♦♦♦♦· ∙                        │    0/  0          ║
+║                                ║ Health     │ x   -4    -2 -1 -0             │  XP Total/Spent   ║
+║ Tell - Croc tail or skin       ║   Current  │ ♦  ♦♦♦  ♦♦♦♦ ♦♦ ♦♦             ├───────────────────╢
+║ Caste - Casteless              ║ Willpower  │ ♦♦♦♦♦ ·····                    │    0/  0          ║
 ║ Spirit Shape - Boar-Tusk Croc  ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                    ├───────────────────╢
-║                                ║ Ess Rating │ ♦∙∙∙∙                          │  Movement Speed   ║
-║ Concept - Lunar!Bitch          ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                 │  3.5w/  7j/ 13r yd║
-╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦════════════╪═══════╤═══════════╣
-║ Physical  P│ Level │ Spec      ║ Abilities  │ Level │ Spec      ║Merit               │ Value     ║
-╟────────────┼───────┼───────────╫────────────┼───────┼───────────╢────────────────────┼───────────╫
-║ Strength  C│ ◘◘◘◘◘             ║ Archery    │ ∙∙∙∙∙ │           ║ Exalted Healing FREE
-╠ Dexterity  │ ◘◘∙∙∙ │           ╬ Athletics  │ ◘◘◘∙∙ │           ║ Pheremones 1 fear humans
-║ Stamina   C│ ◘◘◘◘◘ │           ║ Awareness  │ ◘◘◘∙∙ │           ║ Giant 4
-╟════════════╪═══════╪═══════════╫ Brawl      │ ◘◘◘∙∙ │           ║ Danger Sense 3
-║ Social    T│ Level │ Spec      ║ Bureaucracy│ ···∙∙ │           ║ Tail 2
-║────────────┼───────┼───────────║ Craft      │ ◘··∙∙ │           ║══════════════════════╪═════════╣
-║ Charisma   │ ◘◘··· │           ║ Dodge      │ ◘◘◘∙∙ │           ║ Flaw                           ║
-║ Manipulatn │ ◘∙∙∙∙ │           ║ Integrity  │ ◘◘◘∙∙ │           ║──────────────────────┼─────────╢
-╠            │       │           ╬ Investigation···∙∙ │           ║ social-emotional agnosia humans
-║ AppearanceC│ ◘◘◘◘◘ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Wyld Mutant
-╟════════════╪═══════╪═══════════╢ Linguistics│ ···∙∙ │           ║══════════════════════╪═════════╣
-║ Mental    S│ Level │ Spec      ║ Lore       │ ···∙∙ │           ║ Something???                   ║
-║────────────┼───────┼───────────║ Martial Arts ···∙∙ │           ║──────────────────────┼─────────╢
-║ PerceptionC│ ◘◘◘◘◘ │           ║ Medicine   │ ◘◘◘∙∙ │           ║
-║ Intelligence ◘···· │           ║ Melee      │ ·∙∙∙∙ │           ║
-╠            │       │           ╣ Occult     │ ·∙∙∙∙ │           ║
-║ Wits       │ ◘◘◘◘· │           ║ Performance│ ·∙∙∙∙ │           ║
-║════════════╧═══════╧═══════════║ Presence   │ ∙∙∙∙∙ │           ║
-║ Abilities  │ Level │ Spec      ║ Resistance │ ◘◘◘∙∙ │           ║
-║────────────┼───────┼───────────║ Ride       │ ∙∙∙∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Sail       │ ∙∙∙∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Socialize  │ ∙∙∙∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Stealth    │ ···∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Survival   │ ◘◘◘∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ Thrown     │ ◘◘◘∙∙ │           ║
-║            │ ∙∙∙∙∙ │           ║ War        │ ∙∙∙∙∙ │           ║
-╠════════════╧═══════╪═══════════╬════════════════════╪═══════════╬══════════════════════╪═════════╣
-╠ Intimiacies                                ║ Charms                                              ║
-║──────────────────────┼─────────            ╟─────────────────────────────────────────────────────║
-║ theres a lot of them chief                 ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-║                                            ║ Str: Some Flowery Bullshit Name                     ║
-╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
-╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
+║                                ║ Ess Rating │ ♦∙∙∙∙                                              ║
+║ Concept - Lunar!Bitch          ║ Motes P/P  │ 16/16 │ 38/38                                      ║
+╠══════════════╤══════════════╦══╩════════════╪═══════╪═══════════╦════════════════════╤═══════════╣
+║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
+╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
+║ Strength     │ C ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
+║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘∙∙ │           ║ Giant              │ 4         ║
+║ Stamina      │ C ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘∙∙ │           ║ Heart's Blood      │ 3         ║
+╠══════════════╪══════════════╣ Brawl         │ ◘◘◘◘◘ │           ║ Frightening Voice  │ 2         ║
+║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ Natural Shield     │ 2         ║
+╟──────────────┼──────────────╢ Craft         │ ◘··∙∙ │           ║ Night Vision       │ 2         ║
+║ Charisma     │   ◘◘···∙∙∙∙∙ ║ Dodge         │ ◘◘◘∙∙ │           ║ Tail               │ 2         ║
+║ Manipulation │   ◘∙∙∙∙∙∙∙∙∙ ║ Integrity     │ ◘◘◘∙∙ │           ║ Ambidextrous       │ 1         ║
+║ Appearance   │   ◘◘◘◘◘∙∙∙∙∙ ║ Investigation │ ···∙∙ │           ║ Deadly Weaponry    │ 1         ║
+╠══════════════╪══════════════╣ Larceny       │ ∙∙∙∙∙ │           ║ Direction Sense    │ 1         ║
+║ Mental       │ 2 Level      ║ Linguistics   │ ◘··∙∙ │           ║ Fangs              │ 1         ║
+╟──────────────┼──────────────╢ Lore          │ ···∙∙ │           ║ Pheremones         │ 1         ║
+║ Perception   │   ◘◘◘◘◘∙∙∙∙∙ ║ Martial Arts  │ ···∙∙ │           ║ Unusual Hide       │ 1         ║
+║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘◘∙∙ │           ║                    │           ║
+║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ╠════════════════════╪═══════════╣
+╠══════════════╧══════════════╣ Occult        │ ·∙∙∙∙ │           ║ Hybrid Body Merits │ Value     ║
+║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ╟────────────────────┼───────────╢
+╟─────────────────────────────╢ Presence      │ ∙∙∙∙∙ │           ║ Unusual Hide       │+4         ║
+║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Carapace           │ 2         ║
+║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Fangs              │+3         ║
+║ Wyld mutant                 ║ Sail          │ ∙∙∙∙∙ │           ║ Entangling Limbs   │ 3         ║
+║                             ║ Socialize     │ ∙∙∙∙∙ │           ║ Hideous            │ 0         ║
+║                             ║ Stealth       │ ◘◘·∙∙ │           ║                    │           ║
+║                             ║ Survival      │ ◘◘◘∙∙ │           ║                    │           ║
+║                             ║ Thrown        │ ···∙∙ │           ║                    │           ║
+║                             ║ War           │ ∙∙∙∙∙ │           ║                    │           ║
+╠═════════════════════════════╩═══════════════╧═══════╧═════╦═════╩════════════════════╧═══════════╣
+║ Intimiacies                                               ║ Charms                               ║
+╟───────────────────────────────────────────────────────────╫──────────────────────────────────────╢
+║ DfT: ?? (Pack Leader)                                     ║ Uni: Hybrid Body Transformation      ║
+║ DfT: Strangers (Distrust)                                 ║ Uni: Beast-Form Empowerment          ║
+║ DfP: The pack comes first                                 ║ Sta: Steel Paw Style                 ║
+║ DfP: Betrayal is the highest sin                          ║ Sta: Den Warden Method               ║
+║ DfP: Exploiting animals is disgusting                     ║ Sta: Ox-Body                         ║
+║ MjP: Cowardice is deplorable                              ║ Sta: Bear-Sleep Technique            ║
+║ MjP: Words are weak                                       ║ Sta: Relentless Lunar Fury           ║
+║ MjT: River (Packmember, Solar Mate)                       ║ Sta: Mother Grizzly Attitude         ║
+║ MjT: House ??? Hatred                                     ║ Str: Grizzly Bear Embrace            ║
+║ MnT: Grace (Jealous of her closeness with River)          ║ Str: Deadly Beastman Transformation  ║
+║ MnT: Grace (Disdain)                                      ║ Str: Deadly Claw Blow                ║
+║ MnT: Grace (Envy of her effortless social competency)     ║ Str: Ferocious Biting Tooth          ║
+║ MnT: Grace (Lust)                                         ║ Str: Angry Rhino Charge              ║
+║ MnT: Mongrel (Fight-horny)                                ║ Wit: Grudge-Nursing Resentment       ║
+║ MnT: River (Fight-horny)                                  ║ Wit: Pack Instinct Affirmation       ║
+║ MnT: Scrimshaw (??)                                       ║                                      ║
+║                                                           ║                                      ║
+║                                                           ║                                      ║
+║                                                           ║                                      ║
+║                                                           ║                                      ║
+╚═══════════════════════════════════════════════════════════╩══════════════════════════════════════╝
 
-Collected Modifiers:
-- Global
- - x1/2 to base movement speed (Flaw, Short)
- - +5 dice innate countermagick (Background, Primium Countermeasures)
- - +3 dice innate countermagick (Merit, True Faith)
-- Situational
- - -2 diff for computer-based (Merit, Computer Aptitude)
- - -2 diff to work with mechanical technologies (Merit, Mechanical Aptitude)
- - Ignore penalties for distracting scenarios (Merit, Concentration)
- - +1 die/hr, max 3, when focusing without distractions on a task (Merit, Hyperfocus)
- - -2 diff to social rolls when dealing with ghosts (Merit, Medium)
- - +2 agg damage received for Life-based damaging magick (Background, Enhancements)
-- Talents
- - Awareness
-  - -2 diff to sense magick (Merit, True Faith)
+TODO
+- Gear
+- Background
+- Limit Trigger
+- Scene
+- PFP
+
+BP 15
+Brawl (+2) 4
+Merits 11
+
+Lanaugages
+- Low Realm
+
+Heart's Blood animals
+- 12-24 one-dot-familiar animals
+- 6 two-dot-familiar animals
+- 1-2 three-dot-familiar animals
+- 2-3 two-or-three-dot-familiar animals
