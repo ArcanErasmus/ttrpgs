@@ -5,11 +5,11 @@
 ╟────────────────────────────────╫────────────┼───────────────────────────────┼────────────┴───────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0              │ XP/LXP Total/Spent ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦              ├─────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                         │ 005/000 │ 004/000  ║
-║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·····                   └─────────┴──────────╢
-║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                                        ║
-║                                ║ Motes P/P  │ 16/16 │ 38/38                                      ║
-╠══════════════╤══════════════╦══╩════════════╪═══════╪═══════════╦════════════════════╤═══════════╣
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                         │ 015/000 │ 006/000  ║
+║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·····                   ├─────────┼──────────╢
+║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                   │ Anima   │ Bonfire  ║
+║                                ║ Motes P/P  │ 12/04/16 │ 08/01/38           └─────────┴──────────╢
+╠══════════════╤══════════════╦══╩════════════╪═══════╤══╧════════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
 ║ Strength     │ C ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
@@ -19,17 +19,17 @@
 ║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ Natural Shield     │ 2         ║
 ╟──────────────┼──────────────╢ Craft         │ ◘··∙∙ │           ║ Night Vision       │ 2         ║
 ║ Charisma     │   ◘◘···∙∙∙∙∙ ║ Dodge         │ ◘◘◘∙∙ │           ║ Tail               │ 2         ║
-║ Manipulation │   ◘∙∙∙∙∙∙∙∙∙ ║ Integrity     │ ◘◘◘∙∙ │           ║ Ambidextrous       │ 1         ║
+║ Manipulation │   ◘∙∙∙∙∙∙∙∙∙ ║ Integrity     │ ◘◘·∙∙ │           ║ Ambidextrous       │ 1         ║
 ║ Appearance   │   ◘◘◘◘◘∙∙∙∙∙ ║ Investigation │ ···∙∙ │           ║ Cult               │ 1         ║
 ╠══════════════╪══════════════╣ Larceny       │ ∙∙∙∙∙ │           ║ Deadly Weaponry    │ 1         ║
 ║ Mental       │ 2 Level      ║ Linguistics   │ ◘··∙∙ │           ║ Fangs              │ 1         ║
 ╟──────────────┼──────────────╢ Lore          │ ···∙∙ │           ║ Pheremones         │ 1         ║
 ║ Perception   │   ◘◘◘◘◘∙∙∙∙∙ ║ Martial Arts  │ ···∙∙ │           ║ Unusual Hide       │ 1         ║
-║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘◘∙∙ │           ║                    │           ║
+║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘·∙∙ │           ║                    │           ║
 ║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ╠════════════════════╪═══════════╣
 ╠══════════════╧══════════════╣ Occult        │ ·∙∙∙∙ │           ║ Hybrid Body Merits │ Value     ║
 ║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ╟────────────────────┼───────────╢
-╟─────────────────────────────╢ Presence      │ ∙∙∙∙∙ │           ║ Unusual Hide       │+4         ║
+╟─────────────────────────────╢ Presence      │ ◘◘∙∙∙ │           ║ Unusual Hide       │+4         ║
 ║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Carapace           │ 2         ║
 ║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Fangs              │+3         ║
 ║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Entangling Limbs   │ 3         ║
@@ -58,6 +58,7 @@
 ║ Rope                                                      ║ Wit: Pack Instinct Affirmation       ║
 ║ Towel                                                     ║                                      ║
 ║                                                           ║                                      ║
+║                                                           ║                                      ║
 ╠═══════════════════════════════════════════════════════════╩══════════════════════════════════════╣
 ║ Intimiacies                                                                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -81,6 +82,23 @@
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 
+Combat Shortlist
+- Offense
+    - Frightening Voice (merit): can flurry threaten and atk at no penalties
+        - Hideous (merit): appearance bonus to threaten
+    - Entangling Limbs (merit): can flurry while grappling, gambit while savaging initiative DC -1
+    - Deadly Claw Blow (charm): passive, Str to melee
+    - Angry Rhino Charge (charm): passive, +1i when successfully rush or oppose disengage, Str to those rolls
+    - Ferocious Biting Tooth (charm): 2m, +1 overwhelming on withering or +1 extra success on decisive as damage, can do lethal bare-handed
+    - Grizzly Bear Embrace (charm): 2m, 
+- Defense
+    - Steel Paw Style (charm): passive, Stm to parry
+    - Den Warden Method (charm): 3m, when Defend Other, they use your soak/hardness
+    - Mother Grizzly Attitude (charm): passive, can use Relentless Lunar Fury when pack member takes decisive, +1 parry vs attacks on allies being Defend Other'd
+    - Relentless Lunar Fury (charm): 5m, when take decisive, half all wound/crippling penalties round down, +1i when taking decisive, can't withdraw/non-combat-social/stop fighting
+- Utility
+    - Deadly Beastman Transformation (charm): 1m 1wp, +Str to raw withering dmg, dice to feats of str and movement actions, to natural soak, +1 Str to feats of str, -1 Def, no artifact resonance
+
 TODO
 - First Age incarnation, relation to Heaven's Love Threefold
 
@@ -89,37 +107,39 @@ Lanaugages
 
 Heart's Blood animals
 - Weak animals
-    - Greater roadrunner
-    - Prarie falcon
-    - Pygmy owl
-    - Seagull
-    - Raiton
-    - Trout 
-    - Crab
-    - Hedgehog
-    - Rat
-    - Coyote
-    - Otter
-    - Horned lizard
-    - Sulcata tortoise
-    - Squid
-    - Sugar glider
-    - Spiny bush viper
-    - Talysh toad
     - Badger (American Badger)
     - Bat
+    - Coyote
+    - Crab
     - Eel
+    - Fly
     - Giant centipede
+    - Grasshopper
+    - Greater roadrunner
+    - Hedgehog
+    - Horned lizard
     - Impala
+    - Otter
+    - Prarie falcon
+    - Pygmy owl
+    - Raiton
+    - Rat
+    - Seagull
     - Skunk
+    - Spiny bush viper
+    - Squid
+    - Sugar glider
+    - Sulcata tortoise
+    - Talysh toad
+    - Trout 
 - Moderate animals
-    * Boar-tusk crocodile
-    - Strix
     - Aurochs
     - Austrech
-    - Eight-tailed mole hound
+    - Boar-tusk crocodile
     - Bunyip
+    - Eight-tailed mole hound
     - Giant constrictor
+    - Strix
 - Powerful animals
     - Pestletail
     - Siege lizard (L)
