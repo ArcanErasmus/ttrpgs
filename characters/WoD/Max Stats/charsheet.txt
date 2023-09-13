@@ -5,17 +5,19 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦· ∙                          │ 120/106           ║
-║ Affiliation - None             ║ LimitTrack │ ▒▒▒▒▒ ▒▒███                      ├───────────────────╢
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ·                          │ 123/117           ║
+║ Affiliation - None             ║ LimitTrack │ ▓▒▒▒▒ ▒▒███                      ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦∙                   │ 3.5w/  7j/ 13r yd ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦♦                   │ 3.5w/  7j/ 13r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═══════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec      ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
-║ Strength   │ ♦♦∙∙∙ │           ║ Charisma  C│ ♦♦♦♦♦#│ Genuine   ║ Perception   │ ♦♦♦♦∙ │ ShrpSense ║
-║ Dexterity  │ ♦♦∙∙∙ │           ║ Manipulatn │ ♦∙∙∙∙ │           ║ Intelligence │ ♦♦♦♦♦#│ BookLearn ║
-║            │       │           ║            │       │           ║              │       │ Creative  ║
-║ Stamina   C│ ♦♦♦♦♦#│ Tireless  ║ Appearance │ ♦♦∙∙∙ │           ║ Wits        C│ ♦♦♦#∙ │ Supernat  ║
+║ Strength   │ ♦♦#∙∙ │           ║ Charisma  C│ ♦♦♦♦♦ │ Genuine   ║ Perception   │ ♦♦♦♦# │ ShrpSense ║
+║            │ ····· │           ║            │ ##··· │           ║              │ ····· │           ║
+║ Dexterity  │ ♦♦#∙∙ │           ║ Manipulatn │ ♦##∙∙ │           ║ Intelligence │ ♦♦♦♦♦ │ BookLearn ║
+║            │ ····· │           ║            │ ····· │           ║              │ ###·· │ Creative  ║
+║ Stamina   C│ ♦♦♦♦♦ │ Tireless  ║ Appearance │ ♦♦∙∙∙ │           ║ Wits        C│ ♦♦♦## │ Supernat  ║
+║            │ ##··· │           ║            │ ····· │           ║              │ ····· │           ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═══════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec      ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
@@ -49,19 +51,26 @@
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═══════════╣
 ║ Charm Array: Active Charms                          │ Notes (Slots: O JJJJ SS LL)                  ║
 ╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
-║ - ++: Transitory Augmentation of Industry (∙)       │                                              ║
-║ - Or: Interpolative Syntax Emulator (♦)             │                                              ║
+║ - ++: Transitory Augmentation of Industry (∙)       │ Attrs: Sta/Cha/Per/Int/Wit                   ║
 ║ - ++: Integrated Artifact Transmogrifier (∙)        │                                              ║
+║ - Or: Sustained Augmentation of Orichalcum (♦)      │                                              ║
 ║ - Ja: Imprinted Data Cluster (♦)                    │ Spec: Determined                             ║
 ║ - Ja: Motivational Vocoder (♦)                      │                                              ║
-║ - Ja: Sustained Augmentation of Jade (♦)            │                                              ║
+║ - Ja: Sustained Augmentation of Jade (♦)            │ +S: Jade Efficacy Upgrade (Int)              ║
+║ - Ja: Universal Appeal Facilitation (♦)             │ +S: Expectation-Adjusting Recovery           ║
+║ - St: Sustained Augmentation of Starmetal (♦)       │                                              ║
+║ - St: Empathy Simulation Engine (♦)                 │ +S: Thought-Attuning Calculation             ║
+║ - Sl: Sustained Augmentation of Soulsteel (♦)       │                                              ║
+║ - Sl: Deception-Recognition Module (♦)              │                                              ║
+╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
+║ Inactive Charms                                     │                                              ║
+╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
+║ - Or: Interpolative Syntax Emulator (♦)             │                                              ║
 ║ - Ja: Synaptic Acceleration Node (♦)                │                                              ║
 ║ - St: Omnitool Implant (♦)                          │                                              ║
 ║ - St: Transphase Engine (♦)                         │                                              ║
-║ - So: Mobile Sensory Drone (♦)                      │                                              ║
-║ - So: Optical Enhancement (♦)                       │                                              ║
-╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
-║ Inactive Charms                                     │                                              ║
+║ - Sl: Mobile Sensory Drone (♦)                      │                                              ║
+║ - Sl: Optical Enhancement (♦)                       │                                              ║
 ╟─────────────────────────────────────────────────────┴──────────────────────────────────────────────╢
 ║ Sidereal Secret Arts                                                                               ║
 ║ - KB: Birth of the Perfect Ego Juggernaut Form (♦)                                                 ║

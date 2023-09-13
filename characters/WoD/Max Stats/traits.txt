@@ -1,8 +1,8 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Chronicle - In The Pines       ║ Margaret "Max Stats" Statler, She/Her (Born 10/27/1980)         ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
-║ Background: Enhancements ♦♦♦··                                                                   ║
-║ - Cybernetics: [9 points for Devices] (6/9 used)                                                 ║
+║ Background: Enhancements (♦♦♦··)                                                                 ║
+║ - Cybernetics: [9 points for Devices] (9/9 used)                                                 ║
 ║ - Life-based damaging magick causes +2 levels of agg if it gets past countermagick.              ║
 ║ - Homebrew: Instead of +3 permanent Paradox, add +3 permanent Limit points.                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -23,37 +23,37 @@
 ║ - Can operate internal computer mentally, vision unimpeded, tapping into local internet/GPS.     ║
 ║ - 1 Ess, can access internet for rest of scene even in other dimensions, outer space, etc.       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Background: Primium Countermeasures ♦♦♦♦♦                                                        ║
+║ Background: Primium Countermeasures (♦♦♦♦♦)                                                      ║
 ║ - 5 innate dice of countermagick (reflexively roll pool, diff 7, remove successes from magick).  ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Merit: Computer Aptitude ♦                                                                       ║
+║ Merit: Computer Aptitude (♦)                                                                     ║
 ║ - Computer-based rolls at -2 diff.                                                               ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Concentration ♦                                                                           ║
+║ Merit: Concentration (♦)                                                                         ║
 ║ - Ignore penalties for distracting scenarios (gunfire, storms, etc).                             ║
 ║ - Might require WP roll to ignore extreme distractions (middle of tornado).                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Family Support ♦♦∙                                                                        ║
+║ Merit: Family Support (♦♦∙)                                                                      ║
 ║ - Family has status/wealth/influence, can get help if you need some.                             ║
 ║ - Family aware and supportive of supernatural life.                                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Hideaway ♦♦∙∙∙ ∙                                                                          ║
+║ Merit: Hideaway (♦♦∙∙∙ ∙)                                                                        ║
 ║ - The empty office room next to the Radio Shack, that I converted into my workshop.              ║
 ║ - Stocked with tools and several days' worth of food/water.                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Hyperfocus ♦♦♦                                                                            ║
+║ Merit: Hyperfocus (♦♦♦)                                                                          ║
 ║ - For every hr focusing without distractions on task, add 1 die to pool.                         ║
 ║ - Max 3 bonus dice.                                                                              ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Mechanical Aptitude ♦                                                                     ║
+║ Merit: Mechanical Aptitude (♦)                                                                   ║
 ║ - Rolls to work with mechanical technologies at -2 diff.                                         ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: Medium ♦♦                                                                                 ║
+║ Merit: Medium (♦♦)                                                                               ║
 ║ - Perception + Awareness to sense the presence of ghosts.                                        ║
 ║ - Aura shines faintly like spirit-beacon in Shadowlands, causing the dead to view favorably.     ║
 ║ - Social rolls at -2 diff when dealing with ghosts, may perceive things the living can't.        ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Merit: True Faith ♦♦♦··                                                                          ║
+║ Merit: True Faith (♦♦♦··)                                                                        ║
 ║ - Unshakable Belief: All stories can, and should, have satisfying endings.                       ║
 ║ - +3 dice on WP and countermagick rolls, and to Awareness rolls to sense magick.                 ║
 ║ - Can drive away powerful enemies of your faith with a TF roll, diff of target's WP.             ║
@@ -69,21 +69,21 @@
 ║ - Opt: Storyteller can create miracles that suit character and chosen faith.                     ║
 ║ - Special: Can buy up during play for xp, cost = current rating x7.                              ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ Flaw: Child ♦♦∙                                                                                  ║
+║ Flaw: Child (♦♦∙)                                                                                ║
 ║ - I am 13 years old.                                                                             ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Curiosity ♦♦                                                                               ║
+║ Flaw: Curiosity (♦♦)                                                                             ║
 ║ - When confronted with an enticing clue or enigma, Wits roll to avoid chasing the mystery.       ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Heart of Glass ♦♦                                                                          ║
+║ Flaw: Heart of Glass (♦♦)                                                                        ║
 ║ - Limit Track runs 0 to 10, +1 Limit when: Botch a roll, go a week without nonviolent human      ║
 ║   contact, or act to undermine/betray Nature or Intimacies.                                      ║
 ║ - At 10, enter Clarity and reset Limit. When in Clarity, all Empathy rolls at diff 9, can no     ║
 ║   longer use Intimacies, and can't enter Dormancy. Lasts 6 to 36 hrs.                            ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Short ♦♦♦                                                                                  ║
+║ Flaw: Short (♦♦♦)                                                                                ║
 ║ - Run at half speed, has problems reaching tops of shelves, and is often not taken seriously.    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Flaw: Nightmares ♦∙∙                                                                             ║
+║ Flaw: Nightmares (♦∙∙)                                                                           ║
 ║ - Nightmares play havoc on mood, sleep, and long-term sanity.                                    ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

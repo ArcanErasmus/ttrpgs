@@ -6,12 +6,12 @@
 ║ - Reflexively spend 1 Essence to pick a Caste Attribute & add its rating to all rolls using it.  ║
 ║ - Lasts (Essence + 1) turns in combat, or minutes out of combat.                                 ║
 ║ - Always available, even during Dormancy.                                                        ║
+║ Submodule: Intrinsic Adaptability Upgrade                                                        ║
+║ - Can use also with Perception.                                                                  ║
+║ Submodule: Intrinsic Adaptability Upgrade                                                        ║
+║ - Can use also with Intelligence.                                                                ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Orichalcum Charm: Interpolative Syntax Emulator (♦)                                              ║
-║ - Aesthetic: Artificial synapse webs across the brain.                                           ║
-║ - 1 Ess, understand any heard language for scene. After 1 min hearing a lang, can speak as well. ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Moonsilver Charm: Integrated Artifact Transmogrifier (·)                                         ║
+║ (FREE) Moonsilver Charm: Integrated Artifact Transmogrifier (·)                                  ║
 ║ - Aesthetic: Complex series of flesh patches and retracting mechanisms.                          ║
 ║ - Concentrate 1 turn & roll WP diff 8, hides all evidence of Charms, until any Charm used.       ║
 ║ - If spend 0 WP, only deployed Charms visible for rest of scene.                                 ║
@@ -20,6 +20,10 @@
 ║ - Permanently reduces slot size by 1. If reduced to 0, takes up no slot.                         ║
 ║ Submodule: Automated Suppression Routines                                                        ║
 ║ - No WP cost to keep Charm activation from disabling the hiding effect.                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Orichalcum Charm: Sustained Augmentation of Orichalcum (♦)                                       ║
+║ - Aesthetic: Physical/mental implants or body sculpting.                                         ║
+║ - While installed, permanent +1 to all Str/Cha/Int, can raise above 5.                           ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Jade Charm: Imprinted Data Cluster (♦)                                                           ║
 ║ - Aesthetic: Memory crystals implanted in frontal lobe.                                          ║
@@ -31,9 +35,40 @@
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Jade Charm: Sustained Augmentation of Jade (♦)                                                   ║
 ║ - Aesthetic: Physical/mental implants or body sculpting.                                         ║
-║ - While installed, permanent +1 to all Caste Attributes, can raise above 5.                      ║
+║ - While installed, permanent +1 to Sta/Cha/Wit, can raise above 5.                               ║
 ║ Submodule: Jade Efficacy Upgrade                                                                 ║
-║ - Aesthetic: Also gain permanent +1 to Intelligence.                                             ║
+║ - Also gain permanent +1 to Intelligence.                                                        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Jade Charm: Universal Appeal Facilitation (♦)                                                    ║
+║ - Aesthetic: Fully hidden.                                                                       ║
+║ - During the scene when someone first meets you, social vs them at -2 diff.                      ║
+║ Submodule: Expectation-Adjusting Recovery                                                        ║
+║ - Reflexively 1 ess to re-roll failed social action.                                             ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Starmetal Charm: Sustained Augmentation of Starmetal (♦)                                         ║
+║ - Aesthetic: Physical/mental implants or body sculpting.                                         ║
+║ - While installed, permanent +1 to all Dex/Mnp/Int, can raise above 5.                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Starmetal Charm: Empathy Simulation Engine (♦)                                                   ║
+║ - Aesthetic: Gears adorn head, rotate when think hard.                                           ║
+║ - After reading or hearing only a few words, can roll Int+Empathy diff (2+target's Mnp). On      ║
+║   success, reveal agenda or motivation behind the statement/writing.                             ║
+║ Submodule: Thought-Attuning Calculation                                                          ║
+║ - After successfully reading intentions, may model their surface thoughts for about a minute.    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Soulsteel Charm: Sustained Augmentation of Soulsteel (♦)                                         ║
+║ - Aesthetic: Physical/mental implants or body sculpting.                                         ║
+║ - While installed, permanent +1 to all Sta/Mnp/Per, can raise above 5.                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Soulsteel Charm: Deception-Recognition Module (♦)                                                ║
+║ - Aesthetic: Metal nodes in front of ears.                                                       ║
+║ - Reflexively 1 ess, I hear discordant shriek if speaker made intentional attempt at falsehood.  ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ INACTIVE CHARMS                                                                                  ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Orichalcum Charm: Interpolative Syntax Emulator (♦)                                              ║
+║ - Aesthetic: Artificial synapse webs across the brain.                                           ║
+║ - 1 Ess, understand any heard language for scene. After 1 min hearing a lang, can speak as well. ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Jade Charm: Synaptic Acceleration Node (♦)                                                       ║
 ║ - Aesthetic: Relay crystals implanted throughout body.                                           ║
