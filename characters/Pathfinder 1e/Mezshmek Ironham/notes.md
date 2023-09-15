@@ -213,7 +213,7 @@
 - Mind Link (16500gp)
 - Self-Repair (1500gp), up to 4 times
 
-### Maximim Improvement Cost
+### Maximum Improvement Cost
 - Movement: 4000 * 3 + 6000 + 3000 * 1.5 + 4000 + 2000 * 1.5 = 29500
 - Resistances: 4000 * 5 + 6000 * 5 * 2 = 80000
 - Senses: 2500 * 2 + 4000 * 2 = 13000
