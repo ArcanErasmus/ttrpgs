@@ -56,13 +56,17 @@
 ║ Submodule: Thought-Attuning Calculation                                                          ║
 ║ - After successfully reading intentions, may model their surface thoughts for about a minute.    ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Soulsteel Charm: Conceptual Entropy Module (♦)                                                   ║
+║ - Aesthetic: Steel wires in brain, stubby antennae emerge from skull.                            ║
+║ - 1 Ess OR WP, roll Mnp+Subterfuge diff 8, convince target one of their beliefs is false. Lasts  ║
+║   1 hr/success.                                                                                  ║
+║ Submodule: Entropic Reinforcement Protocols                                                      ║
+║ - If targeted belief clashes with one of my Intimacies, duration is 1 day/success and duration   ║
+║   resets if target meets me again before it ends, even if I have removed this charm.             ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Soulsteel Charm: Sustained Augmentation of Soulsteel (♦)                                         ║
 ║ - Aesthetic: Physical/mental implants or body sculpting.                                         ║
 ║ - While installed, permanent +1 to all Sta/Mnp/Per, can raise above 5.                           ║
-╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Soulsteel Charm: Deception-Recognition Module (♦)                                                ║
-║ - Aesthetic: Metal nodes in front of ears.                                                       ║
-║ - Reflexively 1 ess, I hear discordant shriek if speaker made intentional attempt at falsehood.  ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ INACTIVE CHARMS                                                                                  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
@@ -88,6 +92,10 @@
 ║ - Spend +1 Essence & +1 roll diff (max diff 9) per person to take willing others with.           ║
 ║ - While installed, can comprehend & speak language of spirits.                                   ║
 ║ - Must activate again to travel back to material world.                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Soulsteel Charm: Deception-Recognition Module (♦)                                                ║
+║ - Aesthetic: Metal nodes in front of ears.                                                       ║
+║ - Reflexively 1 ess, I hear discordant shriek if speaker made intentional attempt at falsehood.  ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Soulsteel Charm: Mobile Sensory Drone (♦)                                                        ║
 ║ - Aesthetic: May remove an eyeball, it skitters on legs.                                         ║

@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ·                          │ 123/117           ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦                          │ 127/118           ║
 ║ Affiliation - None             ║ LimitTrack │ ▓▒▒▒▒ ▒▒███                      ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
-║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦♦                   │ 3.5w/  7j/ 13r yd ║
+║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦·                   │ 3.5w/  7j/ 13r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═══════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec      ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼───────────╢
@@ -60,8 +60,8 @@
 ║ - Ja: Universal Appeal Facilitation (♦)             │ +S: Expectation-Adjusting Recovery           ║
 ║ - St: Sustained Augmentation of Starmetal (♦)       │                                              ║
 ║ - St: Empathy Simulation Engine (♦)                 │ +S: Thought-Attuning Calculation             ║
+║ - Sl: Conceptual Entropy Module (♦)                 │                                              ║
 ║ - Sl: Sustained Augmentation of Soulsteel (♦)       │                                              ║
-║ - Sl: Deception-Recognition Module (♦)              │                                              ║
 ╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
 ║ Inactive Charms                                     │                                              ║
 ╟─────────────────────────────────────────────────────┼──────────────────────────────────────────────╢
@@ -69,6 +69,7 @@
 ║ - Ja: Synaptic Acceleration Node (♦)                │                                              ║
 ║ - St: Omnitool Implant (♦)                          │                                              ║
 ║ - St: Transphase Engine (♦)                         │                                              ║
+║ - Sl: Deception-Recognition Module (♦)              │                                              ║
 ║ - Sl: Mobile Sensory Drone (♦)                      │                                              ║
 ║ - Sl: Optical Enhancement (♦)                       │                                              ║
 ╟─────────────────────────────────────────────────────┴──────────────────────────────────────────────╢
