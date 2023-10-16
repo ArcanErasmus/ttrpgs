@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬───────────────────╢
 ║ Nature - Benefactor            ║ Health     │ x -5 -2 -2 -1 -1   -0            │ XP Total/Spent    ║
 ║ Demeanor - Innovator           ║   Current  │ ♦  ♦  ♦  ♦  ♦  ♦  ♦♦♦            ├───────────────────╢
-║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦                          │ 127/118           ║
+║ Alchemical Caste - Jade        ║ Willpower  │ ♦♦♦♦♦ ♦                          │ 139/118           ║
 ║ Affiliation - None             ║ LimitTrack │ ▓▒▒▒▒ ▒▒███                      ├───────────────────╢
 ║ Sect - Teens With Toad         ║ Ess Rating │ ♦♦♦∙∙                            │ Movement Speed    ║
 ║ Concept - Ghostbuster A/V Kid  ║ Ess Pool   │ ♦♦♦♦♦ ♦♦♦♦♦ ♦·                   │ 3.5w/  7j/ 13r yd ║
@@ -39,9 +39,9 @@
 ╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═══════════╣
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value     ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼───────────╢
-║ Enhancements       │ ♦♦♦··     ║ Computer Aptitude  │ ♦         ║ Child                │ ♦♦∙       ║
-║ Primium Countermsr │ ♦♦♦♦♦     ║ Concentration      │ ♦         ║ Curiosity            │ ♦♦        ║
-║                    │           ║ Family Support     │ ♦♦∙       ║ Heart of Glass       │ ♦♦        ║
+║ Allies             │ ♦♦♦··     ║ Computer Aptitude  │ ♦         ║ Child                │ ♦♦∙       ║
+║ Enhancements       │ ♦♦♦··     ║ Concentration      │ ♦         ║ Curiosity            │ ♦♦        ║
+║ Primium Countermsr │ ♦♦♦♦♦     ║ Family Support     │ ♦♦∙       ║ Heart of Glass       │ ♦♦        ║
 ║                    │           ║ Hideaway           │ ♦♦∙∙∙ ∙   ║ Nightmares           │ ♦∙∙       ║
 ║                    │           ║ Hyperfocus         │ ♦♦♦       ║ Short                │ ♦♦♦       ║
 ║                    │           ║ Lightning Calc     │ ♦         ║                      │           ║
