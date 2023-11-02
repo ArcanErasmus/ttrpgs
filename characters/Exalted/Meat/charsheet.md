@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼───────────────────────────────┼────────────┴───────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0              │ XP/LXP Total/Spent ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦              ├─────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                         │ 025/000 │ 014/000  ║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                         │ 035/018 │ 022/012  ║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·····                   ├─────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                   │ Anima   │ Bonfire  ║
 ║                                ║ Motes P/P  │ 12/04/16 │ 08/01/38           └─────────┴──────────╢
@@ -62,25 +62,38 @@
 ╠═══════════════════════════════════════════════════════════╩══════════════════════════════════════╣
 ║ Intimiacies                                                                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Def Tie: ?? (Pack Leader)                                                                        ║
-║ Def Tie: Strangers (Distrust)                                                                    ║
-║ Def Tie: Nellens Ugan (Hatred)                                                                   ║
-║ Def Pri: The pack comes first                                                                    ║
 ║ Def Pri: Betrayal is the highest sin                                                             ║
 ║ Def Pri: Exploiting animals is disgusting                                                        ║
+║ Def Pri: The pack comes first                                                                    ║
+║ Def Tie: ?? (Pack Leader)                                                                        ║
+║ Def Tie: Nellens Ugan (Hatred)                                                                   ║
+║ Def Tie: Strangers (Distrust)                                                                    ║
 ║ Maj Pri: Cowardice is deplorable                                                                 ║
 ║ Maj Pri: Words are weak                                                                          ║
-║ Maj Tie: River (Packmember, Solar Mate)                                                          ║
+║ Maj Tie: Cities and towns (Hatred)                                                               ║
+║ Maj Tie: Grace (Jealous of her closeness with River)                                             ║
 ║ Maj Tie: House Nellens (Hatred)                                                                  ║
-║ Mnr Tie: Grace (Jealous of her closeness with River)                                             ║
+║ Maj Tie: Mongrel (Makes sense)                                                                   ║
+║ Maj Tie: Mongrel (Packmember)                                                                    ║
+║ Maj Tie: River (Discomfort at soul bond)                                                         ║
+║ Maj Tie: River (Soul bond)                                                                       ║
+║ Maj Tie: Schemers (Disgust)                                                                      ║
 ║ Mnr Tie: Grace (Disdain)                                                                         ║
 ║ Mnr Tie: Grace (Envy of her effortless social competency)                                        ║
 ║ Mnr Tie: Grace (Lust)                                                                            ║
 ║ Mnr Tie: Mongrel (Fight-horny)                                                                   ║
+║ Mnr Tie: Mongrel (Respect for feral nature)                                                      ║
 ║ Mnr Tie: River (Fight-horny)                                                                     ║
-║ Mnr Tie: Scrimshaw (??)                                                                          ║
+║ Mnr Tie: Scrimshaw (Disdain)                                                                     ║
+║ Mnr Tie: That butch blue-garbed lady (Hostility)                                                 ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+Training Notes (Currently Ascending Water 13, RY768)
+- Many-Faced Moon Transformation [pp144] (1 day remaining)
+- Boundary-Marking Meditation [pp176] (3 days remaining)
+- Resistance 4 (28 days remaining)
+    - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
+- Awareness 4 (28 days remaining)
 
 Combat Shortlist
 - Offense
