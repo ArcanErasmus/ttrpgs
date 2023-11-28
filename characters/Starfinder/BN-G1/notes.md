@@ -3,6 +3,36 @@
 ### Background
 - 
 
+### Session 2 - 2023-11-14
+- Time to loot the bodies before security arrives!
+    - Acquired longer-range blaster from gang member
+    - Acquired gold ring from Duravor
+    - Acquired Duravor's datapad
+        - Digging into it reveals Duravor was messaging his contact, Chiskisk
+- We get questioned by station security
+    - Coyote gets us out of being held for further debriefing
+- We head to the Lorespire Complex, the headquarters of the local SFS
+    - We meet Chiskisk, inform them of Duravor's death, receive payment for the delivery
+    - Chiskisk is interested in the gang activity, offers payment and ship repair for us to look into the gangs
+- Searching the SFS Archives on the relevant gangs
+    - The Downside Kings outright control several lower levels through gang violence
+        - They do the usual gang crimes, including trafficking of sapients and weapons, drug trade, etc
+    - The Level 21 Crew claim level 21
+        - Do lighter gang crimes: racketeering, control sex work, control gambling, etc
+    - No history of targeted clashes between the gangs
+        - Territory close but with a separation of 1-2 levels
+    - No territory anywhere near our docking bay
+        - Likely hired for or lured into targeting there?
+- NU-R4 searching the SFS Archives for info about Duravor
+    - mid ranking member
+    - did mineral prospecting
+    - mentored
+    - asteroid mining native
+    - labor rights activists
+    - local union man
+    - sister killed in a mining accident
+
+
 ### Session 1 - 2023-10-17
 - We come to hangar bay 94 of Adarlon Station
     - We are here to deliver a supply of Bacta fluid to the Starfinder Society, a wide-spanning mercenary organization
