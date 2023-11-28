@@ -1,15 +1,15 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Big Trouble in Little Creation ║ Meat, She/They                                                  ║
-╠════════════════════════════════╬════════════╤═══════════════════════════════╤════════════╤═══════╣
-║ Core                           ║ Stat       │ Value                         │ Ess Rating │ ♦∙∙∙∙ ║
-╟────────────────────────────────╫────────────┼───────────────────────────────┼────────────┴───────╢
-║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0              │ XP/LXP Total/Spent ║
-║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦              ├─────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                         │ 035/018 │ 022/012  ║
-║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·····                   ├─────────┼──────────╢
-║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                   │ Anima   │ Bonfire  ║
-║                                ║ Motes P/P  │ 12/04/16 │ 08/01/38           └─────────┴──────────╢
-╠══════════════╤══════════════╦══╩════════════╪═══════╤══╧════════╦════════════════════╤═══════════╣
+╠════════════════════════════════╬════════════╤══════════════════════════════╤════════════╤════════╣
+║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦∙∙∙∙  ║
+╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
+║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
+║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                        │ 045/042 P│ 028/019 E║
+║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·····                  ├──────────┼──────────╢
+║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
+║                                ║ Motes Ps/Ph│ 12[04]/16 │ 08[00]/38 Perip  └──────────┴──────────╢
+╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
 ║ Strength     │ C ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
@@ -57,7 +57,7 @@
 ║ Dried salted meats and fruits                             ║ Wit: Grudge-Nursing Resentment       ║
 ║ Rope                                                      ║ Wit: Pack Instinct Affirmation       ║
 ║ Towel                                                     ║                                      ║
-║                                                           ║                                      ║
+║ Kitty                                                     ║                                      ║
 ║                                                           ║                                      ║
 ╠═══════════════════════════════════════════════════════════╩══════════════════════════════════════╣
 ║ Intimiacies                                                                                      ║
@@ -90,7 +90,13 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 Training Notes (Currently Ascending Water 13, RY768)
 - Many-Faced Moon Transformation [pp144] (1 day remaining)
+- Surging Thew Technique [pp276] (2 days remaining)
 - Boundary-Marking Meditation [pp176] (3 days remaining)
+- Hero's Heart Challenge [pp251] (3 days remaining)
+- Occult 1 (3 days remaining)
+    - is prereq for Language [Old Realm] (21 days, 3xp)
+- Terrifying Ogre Alteration [pp269] (5 days remaining)
+- Presence 3 (21 days remaining)
 - Resistance 4 (28 days remaining)
     - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
 - Awareness 4 (28 days remaining)
@@ -169,3 +175,4 @@ FULL MOON: Once per day, when she lands a decisive attack that resets her Initia
 CHANGING MOON: Once per day, she can pay three motes, one Willpower when she makes an influence roll to ignore negative Ties her targets have towards her (or her current shape). These Ties can’t be used to bolster Resolve or in Decision Points.
 
 NO MOON: Once per day, while her anima is at bonfire, she can reflexively expend it completely to either gain one Willpower, add (Essence + [highest mental Attribute]) sorcerous motes to a spell she’s shaping, or add a free full Excellency (which counts as Charm dice) on a mental Attribute-based roll other than Join Battle.
+
