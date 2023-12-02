@@ -1,7 +1,27 @@
 # BN-G1's Notes
 ## Logfile
-### Background
-- 
+### Session 3 - 2023-11-28
+- NU-R4 searching the SFS Archives for info about Hardscrabble Collective
+    - Small, tight-knit group of asteroid miners with ships in the dozens
+    - Operates primarily in local cluster
+    - No offices, but gather in the general armada of ships around Adarlon Station
+        - Avoid docking fees, only have minimal taxes and laws/oversight
+    - Hire our their ships to other businesses
+    - Astral Extractions recently employed their ship Acreon
+    - Contracted Level 21 Crew to protect members/interests on the station until dispute around Acreon can be resolved
+- Searching the SFS Archives on Astral Extractions
+    - Powerful mining congolmerate, stretch along the outer rim
+    - Most mining operations center in rocky moons, recently prospecting/scouting further out
+    - Typical corpo, friendly public face but heavy use of shady and underworld dealings
+    - Sources claim they have hired the Downside Kings to specifically target Kreel due to his anticorporate activism, also to prevent people intervening in the Acreon matter
+- Bothering internet contacts for info on Downside Kings
+    - High turnover in leadership
+    - Supposedly current leader is a 'barbarous' human woman named Ferani Nadaz
+- Sleep
+- We head to level 21 to talk to the gang
+    - The Level 21 Crew is popular with the people of said level
+    - We talk to a grocer to arrange a meeting with someone named Jabaxa
+- We get distracted arguing about whether Shimani's ableism and droid racism
 
 ### Session 2 - 2023-11-14
 - Time to loot the bodies before security arrives!
@@ -23,15 +43,15 @@
         - Territory close but with a separation of 1-2 levels
     - No territory anywhere near our docking bay
         - Likely hired for or lured into targeting there?
-- NU-R4 searching the SFS Archives for info about Duravor
+- NU-R4 searching the SFS Archives for info about Duravor Kreel
     - mid ranking member
     - did mineral prospecting
     - mentored
     - asteroid mining native
     - labor rights activists
     - local union man
-    - sister killed in a mining accident
-
+    - investor in Hardscrabble
+    - cousin (member of Hardscrabble Collective) killed in a mining accident (caused by employer Astral Extractions)
 
 ### Session 1 - 2023-10-17
 - We come to hangar bay 94 of Adarlon Station
