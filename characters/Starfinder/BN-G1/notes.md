@@ -1,5 +1,30 @@
 # BN-G1's Notes
 ## Logfile
+### Session 5 - 2024-01-09
+- FIGHT!!!
+    - We save Shimani from getting laserforated!
+    - Shimani and NU-R4 get regular-gun perforated
+    - Coyote gets sledgehammered
+    - We take down a pile of 
+
+### Session 4 - 2023-12-12
+- We approach the meeting area, and after much fussing, are led to Jabaxa
+    - Inquire about info on the Downside Kings, told "don't bother"
+    - Jabaxa claims he sent a group to tail the DKs due to suspicious behavior, they opened fire when DKs started pulling weapons on crowd
+    - Survivor was not one of Jabaxa's
+    - Jabaxa is not very pleased to hear we are poking around and making heat
+- We head down to Downside Kings territory
+    - Gather Information leads us to a nightclub, The Fusion Queen
+- At The Fusion Queen
+    - We bumble around gathering info
+    - Shimani gets into the backroom for a discussion
+    - She fails to bluff them about joining the DKs, gets shot
+    - Combat to start next session
+
+- NOTE FOR NEXT SESH:
+    - Agon is going first bc he was preparing
+    - (I was in-progress hacking, might try opening the door)
+
 ### Session 3 - 2023-11-28
 - NU-R4 searching the SFS Archives for info about Hardscrabble Collective
     - Small, tight-knit group of asteroid miners with ships in the dozens
