@@ -1,36 +1,286 @@
-# V3 adds
-Universal
-* Many-Faced Moon Transformation 144
 
-Appearance
+# New charms v4
+## Cause Fear
+Appearance - Influence
 * Glance-Oration Technique 145
     * Perfect Symmetry 146
+* Feral Smile Technique 146
+    * Terrifying Bestial Visage 147
+// Cause fear
 
-Perception
+Charisma - Influence
+* Argent Songbird Voice 163
+* Beast-King Dictates 163
+// Cause fear
+
+## Combat
+Dexterity - Offense
+* Finding the Needle's Eye 180
+// Atk roll buff
+
+Strength - Heart's Blood
+* Towering Beast Form 264
+// Become big, prereq for some very good stuff
+
+Strength - Offense
+* Divine Predator Strike 266
+    * Unstoppable Beast-Force Blow 267
+// Damage
+
+## Senses
+Perception - Senses
 * Ever-Wary Fox Technique 235
+// Detect things better
 
-Stamina
-* Impenetrable Beast-Armor 251
+# New charms v3
+Appearance - Influence
+* Glance-Oration Technique 145
+    * Perfect Symmetry 146
+* Feral Smile Technique 146
+    * Terrifying Bestial Visage 147
+// Cause fear
+
+Charisma - Influence
+* Argent Songbird Voice 163
+* Beast-King Dictates 163
+// Cause fear
+
+Dexterity - Offense
+* Finding the Needle's Eye 180
+// Atk roll buff
+
+Perception - Senses
+* Ever-Wary Fox Technique 235
+// Detect things better
+
+Perception - Scrutiny
+* Understanding the Prey 242
+// Read intentions
+
+Perception - Mysticism
+* Perceiving the Hidden World 247
+// See spirits
+    * Spirit-Rending Fury 247
+        * Demon-Drinking Fang 247
+            * Shed Divinity's Nectar 248
+    // Fight spirits
+
+Stamina - Endurance
+- Rugged Beast Endurance 256
+// Environment adaptation
+
+Strength - Heart's Blood
+* Towering Beast Form 264
+// Become big, prereq for some very good stuff
+
+Strength - Offense
+* Divine Predator Strike 266
+    * Unstoppable Beast-Force Blow 267
+// Damage
+
+Wits - Cache
+* Desert Basilic Diadem 289
+    * Radiant Basilisc Jewel 289
+// Slot hearthstone
+
+# New charms v2
+Appearance - Influence
+* Glance-Oration Technique 145
+    * Perfect Symmetry 146
+* Feral Smile Technique 146
+    * Terrifying Bestial Visage 147
+// Cause fear
+
+Charisma - Influence
+* Argent Songbird Voice 163
+* Beast-King Dictates 163
+// Cause fear
+
+Dexterity - Offense
+* Finding the Needle's Eye 180
+// Atk roll buff
+
+Dexterity - Defense
+- Agile Beast Defense 185
+// +Defense, gain init on defend
+
+Perception - Senses
+* Ever-Wary Fox Technique 235
+// Detect things better
+
+Perception - Scrutiny
+* Understanding the Prey 242
+    * Serpent-Revealing Savvy 242
+        * Forked Tongue Discernment 242
+// Read intentions
+
+Perception - Mysticism
+* Perceiving the Hidden World 247
+// See spirits
+    * Spirit-Rending Fury 247
+        * Demon-Drinking Fang 247
+            * Shed Divinity's Nectar 248
+    // Fight spirits
+
+Stamina - Defense
+- Impenetrable Beast-Armor 251
     * Durant Quicksilver Adaptation 251
+// More soak
 
-Strength
-    * Terrifying Ogre Alteration 269
+Stamina - Endurance
+* Halting the Scarlet Flow 256
+// Fast Healing
 
-Wits
-* Lodestone Reckoning Manner 287
-* Boundary-Marking Meditation (as wits) 176
+- Rugged Beast Endurance 256
+// Environment adaptation
 
-# V2 adds
+Strength - Heart's Blood
+* Towering Beast Form 264
+// Become big, prereq for some very good stuff
 
-Appearance
-? Feral Smile Tactic 146
-    - Terrifying Bestial Visage 147
+Strength - Offense
+* Divine Predator Strike 266
+    * Unstoppable Beast-Force Blow 267
+// Damage
 
-Strength
-? Boulders-as-Pebbles Technique 266
-- Divine Predator Strike 266
+- Mangling Grasp Might 268
+    * Kraken-Arm Lash 268
+* Throat-Baring Hold 269
+// Grapple
 
-Wits
-- Moon-Follows-Sun Assurance 279
-- True-to-the-Pack Dedication 279
-* Lodestone Reckoning Manner (repurchase) 287
+Wits - Resolve
+* Moon-Follows-Sun Assurance 279
+// WP for solar bond
+
+Wits - Cache
+* Desert Basilic Diadem 289
+    * Radiant Basilisc Jewel 289
+// Slot hearthstone
+
+# New charms?
+Appearance - Influence
+* Glance-Oration Technique 145
+    * Perfect Symmetry 146
+* Feral Smile Technique 146
+    * Terrifying Bestial Visage 147
+// Cause fear
+
+Appearance - Subterfuge
+- Subtle Silver Declaration 155
+    - Shifting Penumbra Stance 156
+    - Moon's Hidden Face 156
+- Changing Plumage Mastery 156
+// Hide own weirdness
+
+Appearance - Warfare
+- Glorious Battle Presence 161
+    - Wolf Devours Shepherd 161
+        * Panicked Herd Incitement 161
+// Win at battle group fights
+
+Charisma - Influence
+* Argent Songbird Voice 163
+* Beast-King Dictates 163
+// Cause fear
+
+Charisma - Territory
+- Charisma 4
+    * Moon-and-Earth Blessing 177
+// !!! Completely fix the lack of nature in the area
+
+Dexterity - Offense
+* Finding the Needle's Eye 180
+// Atk roll buff
+
+- Sinuous Striking Grace 181
+// Act sooner in round
+
+Dexterity - Defense
+- Agile Beast Defense 185
+// +Defense, gain init on defend
+
+Perception - Senses
+* Ever-Wary Fox Technique 235
+- Sense-Sharpening Change 236
+    - Heightened Sense Method 237
+// Detect things better
+    * Stricken Calf Sense 236
+    // Track better and diagnose better
+
+- Unwavering Predator's Eye 238
+// Better Join Battle
+
+Perception - Scrutiny
+* Understanding the Prey 242
+    * Serpent-Revealing Savvy 242
+        * Forked Tongue Discernment 242
+// Read intentions
+
+Perception - Mysticism
+* Perceiving the Hidden World 247
+// See spirits
+    * Spirit-Rending Fury 247
+        * Demon-Drinking Fang 247
+            * Shed Divinity's Nectar 248
+    // Fight spirits
+
+Stamina - Defense
+- Impenetrable Beast-Armor 251
+    * Durant Quicksilver Adaptation 251
+// More soak
+
+- Unmoving Aurochs Defense 251
+// Anti-push
+
+Stamina - Endurance
+- Ox-Body Technique 255
+// More hp
+
+* Halting the Scarlet Flow 256
+// Fast Healing
+
+- Maimed but Unbroken 256
+// Anti-crippling, worth stunting
+
+- Rugged Beast Endurance 256
+// Environment adaptation
+
+Strength - Heart's Blood
+* Towering Beast Form 264
+// Become big, prereq for some very good stuff
+    (* Mountainous Spirit Expression [Ess2] 265)
+        (* Undaunted Behemoth Avatar [Ess4] 266)
+
+Strength - Offense
+- Boulders-as-Pebbles Attitude 266
+// Ranged option
+
+* Divine Predator Strike 266
+    * Unstoppable Beast-Force Blow 267
+// Damage
+    (* Claws of the Silver Moon [Ess2] 269)
+    // Artifact natural weapon, repurchase for evocations
+
+* Prey-Hobbling Bite 267
+// Cripple enemies
+
+- Mangling Grasp Might 268
+    * Kraken-Arm Lash 268
+* Throat-Baring Hold 269
+// Grapple
+
+- Fortress-Smashing Charge 276
+// Plow through obstacles
+
+Wits - Resolve
+* Moon-Follows-Sun Assurance 279
+// WP for solar bond
+
+Wits - Navigation
+- Lodestone Reckoning Manner 287
+// Forage and find shelter
+
+Wits - Cache
+* Desert Basilic Diadem 289
+    * Radiant Basilisc Jewel 289
+// Slot hearthstone
