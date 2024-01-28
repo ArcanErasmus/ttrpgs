@@ -1,3 +1,23 @@
+# Ess 2 charms
+Wits - Resolve
+- Chain-Breaking Fury 280
+- Nightmare Beast Soul 281
+// Resist influence
+
+Strength - Offense
+- Horrifying Beast-God Might 270
+// Bonus from initiative breaks
+
+- (Divine Predator Strike 266)
+    - Ox-Dragon Smash 270
+    // Stack penalties to enemy action
+    - Claws of the Silver Moon 269
+    // Teeth gain +1 acc +3 dmg +3 ovrwh, repurchase for evocations
+
+- (Prey-Hobbling Bite 267)
+    - Limb-Maiming Flourish 270
+// Deal crippling penalties
+
 # V3 adds
 Universal
 * Many-Faced Moon Transformation 144
