@@ -1,3 +1,15 @@
+# New charms v5 (Ess 2)
+Appearance - Influence
+- Devil-Queen Rapture 149
+// gain motes for appearance bonus
+
+Wasp-and-Termite Dance
+Perfect Fear Scent
+    Incohate Horror Embodiment
+
+Charisma - Influence
+(Beast-King Dictates)
+    Silver Thunder Roar
 
 # New charms v4
 ## Cause Fear
