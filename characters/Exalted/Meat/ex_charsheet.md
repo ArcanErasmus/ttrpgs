@@ -10,6 +10,47 @@ Perfect Fear Scent
 Charisma - Influence
 (Beast-King Dictates)
     Silver Thunder Roar
+ 
+Wits - Resolve
+- Chain-Breaking Fury 280
+- Nightmare Beast Soul 281
+// Resist influence
+
+Strength - Offense
+- Horrifying Beast-God Might 270
+// Bonus from initiative breaks
+
+- (Divine Predator Strike 266)
+    - Ox-Dragon Smash 270
+    // Stack penalties to enemy action
+    * Claws of the Silver Moon 269
+    // Teeth gain +1 acc +3 dmg +3 ovrwh, repurchase for evocations
+
+- (Prey-Hobbling Bite 267)
+    - Limb-Maiming Flourish 270
+// Deal crippling penalties
+
+Strength - Feats of Strength
+- Yeddim's-Back Method 276
+    - Many-Beasts Might 276
+// Feats of Strength
+
+Stamina - Defense
+- (Durant Quicksilver Adaptation 251)
+// Save motes on soak excellencies
+    * Invulnerable Moonsilver Carapace 253
+    // Artifact armor
+    - Stone Rhino's Skin 253
+    // Reduce damage rolls when hit
+
+## Claws of the Silver Moon, evocations
+
+### Shut Up
+- Cost: 2i 1wp; Mins: Essence 2
+- Type: Reflexive
+- Keywords: Withering only, Perilous
+- Duration: Instant
+I hate when people complicate the truth with words. Shut up and fight me! When someone tries to speak, I can reflexively make a withering attack against them. If it hits, their words choke off after the first sound, and they cannot speak until the next round. If it crashes them, they cannot speak until they exit Initiative Crash. I can only use this evocation once per round.
 
 # New charms v4
 ## Cause Fear
