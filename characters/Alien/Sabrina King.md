@@ -54,7 +54,7 @@ Where is your character from? Are they Weyland-Yutani? American? Space Drifter?
 .
 
 How many doses of Ether, if any, has your character taken before? Choose any number from 0-2
-.
+None.
 
 What role(s) does your character fulfill on the crew? Crew Roles that your characters might fit into:  Chief, Number Two, Mechanic, Pilot, Merchant, Muscle, Medical
 Your character might be one or two of these roles at the same time. Many crews have overlap between them.
