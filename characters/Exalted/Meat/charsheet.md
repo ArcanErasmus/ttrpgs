@@ -1,15 +1,15 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Big Trouble in Little Creation ║ Meat, She/They                                                  ║
-╠════════════════════════════════╬════════════╤═══════════════════════════════╤════════════╤═══════╣
-║ Core                           ║ Stat       │ Value                         │ Ess Rating │ ♦∙∙∙∙ ║
-╟────────────────────────────────╫────────────┼───────────────────────────────┼────────────┴───────╢
-║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0              │ XP/LXP Total/Spent ║
-║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦              ├─────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘                         │ 035/018 │ 022/012  ║
-║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·····                   ├─────────┼──────────╢
-║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                   │ Anima   │ Bonfire  ║
-║                                ║ Motes P/P  │ 12/04/16 │ 08/01/38           └─────────┴──────────╢
-╠══════════════╤══════════════╦══╩════════════╪═══════╤══╧════════╦════════════════════╤═══════════╣
+╠════════════════════════════════╬════════════╤══════════════════════════════╤════════════╤════════╣
+║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦∙∙∙∙  ║
+╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
+║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
+║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 060/051 P│ 038/032 E║
+║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
+║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
+║                                ║ Motes Ps/Ph│ 12[04]/16 │ 38[00]/38 Perip  └──────────┴──────────╢
+╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
 ║ Strength     │ C ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
@@ -25,39 +25,42 @@
 ║ Mental       │ 2 Level      ║ Linguistics   │ ◘··∙∙ │           ║ Fangs              │ 1         ║
 ╟──────────────┼──────────────╢ Lore          │ ···∙∙ │           ║ Pheremones         │ 1         ║
 ║ Perception   │   ◘◘◘◘◘∙∙∙∙∙ ║ Martial Arts  │ ···∙∙ │           ║ Unusual Hide       │ 1         ║
-║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘·∙∙ │           ║                    │           ║
-║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ╠════════════════════╪═══════════╣
-╠══════════════╧══════════════╣ Occult        │ ·∙∙∙∙ │           ║ Hybrid Body Merits │ Value     ║
-║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ╟────────────────────┼───────────╢
-╟─────────────────────────────╢ Presence      │ ◘◘∙∙∙ │           ║ Unusual Hide       │+4         ║
-║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Carapace           │ 2         ║
-║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Fangs              │+3         ║
-║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Entangling Limbs   │ 3         ║
-║                             ║ Socialize     │ ∙∙∙∙∙ │           ║ Hideous            │ 0         ║
-║                             ║ Stealth       │ ◘◘·∙∙ │           ║                    │           ║
-║                             ║ Survival      │ ◘◘◘∙∙ │           ║                    │           ║
-║                             ║ Thrown        │ ···∙∙ │           ║                    │           ║
-║                             ║ War           │ ∙∙∙∙∙ │           ║                    │           ║
+║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘·∙∙ │           ╠════════════════════╪═══════════╣
+║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ║ Hybrid Body Merits │ Value     ║
+╠══════════════╧══════════════╣ Occult        │ ◘∙∙∙∙ │           ╟────────────────────┼───────────╢
+║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ║ Unusual Hide       │+4         ║
+╟─────────────────────────────╢ Presence      │ ◘◘∙∙∙ │           ║ Carapace           │ 2         ║
+║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Fangs              │+3         ║
+║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Entangling Limbs   │ 3         ║
+║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Hideous            │ 0         ║
+║                             ║ Socialize     │ ∙∙∙∙∙ │           ╠════════════════════╪═══════════╣
+║                             ║ Stealth       │ ◘◘·∙∙ │           ║ Beastman Merits    │ Value     ║
+║                             ║ Survival      │ ◘◘◘∙∙ │           ╟────────────────────┼───────────╢
+║                             ║ Thrown        │ ···∙∙ │           ║ Venomous           │ 3         ║
+║                             ║ War           │ ∙∙∙∙∙ │           ║ Mighty Thew        │ 1         ║
 ╠═════════════════════════════╩═══════════════╧═══════╧═════╦═════╩════════════════════╧═══════════╣
 ║ Specialties                                               ║ Charms                               ║
 ╟───────────────────────────────────────────────────────────╫──────────────────────────────────────╢
-║ Athletics: Feats of Strength                              ║ Uni: Hybrid Body Transformation      ║
-║ Awareness: Motion                                         ║ Uni: Beast-Form Empowerment          ║
-║ Brawl: Natural Weapons                                    ║ Sta: Steel Paw Style                 ║
-║ Survival: Navigation                                      ║ Sta: Den Warden Method               ║
-║                                                           ║ Sta: Ox-Body                         ║
-║                                                           ║ Sta: Bear-Sleep Technique            ║
-╠═══════════════════════════════════════════════════════════╣ Sta: Relentless Lunar Fury           ║
-║ Inventory                                                 ║ Sta: Mother Grizzly Attitude         ║
-╟───────────────────────────────────────────────────────────╢ Str: Grizzly Bear Embrace            ║
-║ Tunic of patchwork fabrics                                ║ Str: Deadly Beastman Transformation  ║
-║ Heavy coat of animal furs                                 ║ Str: Deadly Claw Blow                ║
-║ Large waterskin                                           ║ Str: Ferocious Biting Tooth          ║
-║ Heavily repaired satchel                                  ║ Str: Angry Rhino Charge              ║
-║ Dried salted meats and fruits                             ║ Wit: Grudge-Nursing Resentment       ║
-║ Rope                                                      ║ Wit: Pack Instinct Affirmation       ║
-║ Towel                                                     ║                                      ║
-║                                                           ║                                      ║
+║ Athletics: Feats of Strength                              ║ Uni: Beast-Form Empowerment          ║
+║ Awareness: Motion                                         ║ Uni: Hybrid Body Transformation      ║
+║ Brawl: Natural Weapons                                    ║ Uni: Many-Faced Moon Transformation  ║
+║ Survival: Navigation                                      ║ Sta: Bear-Sleep Technique            ║
+║                                                           ║ Sta: Den Warden Method               ║
+║                                                           ║ Sta: Hero’s Heart Challenge          ║
+╠═══════════════════════════════════════════════════════════╣ Sta: Mother Grizzly Attitude         ║
+║ Inventory                                                 ║ Sta: Ox-Body                         ║
+╟───────────────────────────────────────────────────────────╢ Sta: Relentless Lunar Fury           ║
+║ Tunic of patchwork fabrics                                ║ Sta: Steel Paw Style                 ║
+║ Heavy coat of animal furs                                 ║ Str: Angry Rhino Charge              ║
+║ Large waterskin                                           ║ Str: Deadly Beastman Transformation  ║
+║ Heavily repaired satchel                                  ║ Str: Deadly Claw Blow                ║
+║ Dried salted meats and fruits                             ║ Str: Ferocious Biting Tooth          ║
+║ Rope                                                      ║ Str: Grizzly Bear Embrace            ║
+║ Towel                                                     ║ Str: Surging Thew Technique          ║
+║ Kitty, "Cat"                                              ║ Str: Terrifying Ogre Alteration      ║
+║                                                           ║ Wit: Boundary-Marking Meditation     ║
+║                                                           ║ Wit: Grudge-Nursing Resentment       ║
+║                                                           ║ Wit: Pack Instinct Affirmation       ║
 ║                                                           ║                                      ║
 ╠═══════════════════════════════════════════════════════════╩══════════════════════════════════════╣
 ║ Intimiacies                                                                                      ║
@@ -78,6 +81,7 @@
 ║ Maj Tie: River (Discomfort at soul bond)                                                         ║
 ║ Maj Tie: River (Soul bond)                                                                       ║
 ║ Maj Tie: Schemers (Disgust)                                                                      ║
+║ Maj Tie: Scrimshaw (Rage, I will not be chained)                                                 ║
 ║ Mnr Tie: Grace (Disdain)                                                                         ║
 ║ Mnr Tie: Grace (Envy of her effortless social competency)                                        ║
 ║ Mnr Tie: Grace (Lust)                                                                            ║
@@ -88,12 +92,17 @@
 ║ Mnr Tie: That butch blue-garbed lady (Hostility)                                                 ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
-Training Notes (Currently Ascending Water 13, RY768)
-- Many-Faced Moon Transformation [pp144] (1 day remaining)
-- Boundary-Marking Meditation [pp176] (3 days remaining)
-- Resistance 4 (28 days remaining)
+Training Notes (Currently Ascending Water 21, RY768)
+- Glance Oration Technique (2 days remaining)
+- Language [Old Realm] (16 days remaining)
+- Presence III (13 days remaining)
+- Resistance IV (20 days remaining)
     - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
-- Awareness 4 (28 days remaining)
+- Awareness IV (20 days remaining)
+- Intelligence II (56 days remaining)
+- Charisma III (84 days remaining)
+    - is prereq for Charisma IV (112 days, 9 xp) (consider stunting)
+        - is prereq for Moon-and-Earth Blessing (5 days, 9 xp) (pp177)
 
 Combat Shortlist
 - Offense
@@ -103,7 +112,7 @@ Combat Shortlist
     - Deadly Claw Blow (charm): passive, Str to melee
     - Angry Rhino Charge (charm): passive, +1i when successfully rush or oppose disengage, Str to those rolls
     - Ferocious Biting Tooth (charm): 2m, +1 overwhelming on withering or +1 extra success on decisive as damage, can do lethal bare-handed
-    - Grizzly Bear Embrace (charm): 2m, 
+    - Grizzly Bear Embrace (charm): 2m, add grapple atk ex success on init roll, vs lower-init enemies (before cost) also add to control roll
 - Defense
     - Steel Paw Style (charm): passive, Stm to parry
     - Den Warden Method (charm): 3m, when Defend Other, they use your soak/hardness
