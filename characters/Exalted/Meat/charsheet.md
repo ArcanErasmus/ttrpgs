@@ -5,16 +5,16 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 075/051 P│ 046/040 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 080/075 P│ 050/040 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
-║ Strength     │ C ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
+║ Strength     │ F ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
 ║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘∙∙ │           ║ Giant              │ 4         ║
-║ Stamina      │ C ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘∙∙ │           ║ Heart's Blood      │ 3         ║
+║ Stamina      │ F ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘∙∙ │           ║ Heart's Blood      │ 3         ║
 ╠══════════════╪══════════════╣ Brawl         │ ◘◘◘◘◘ │           ║ Frightening Voice  │ 2         ║
 ║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ Natural Shield     │ 2         ║
 ╟──────────────┼──────────────╢ Craft         │ ◘··∙∙ │           ║ Night Vision       │ 2         ║
@@ -65,42 +65,50 @@
 ╠═══════════════════════════════════════════════════════════╩══════════════════════════════════════╣
 ║ Intimiacies                                                                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Def Pri: Abusing animals is disgusting                                                           ║
 ║ Def Pri: Betrayal is the highest sin                                                             ║
-║ Def Pri: Exploiting animals is disgusting                                                        ║
+║ Def Pri: Large groups are stressful                                                              ║
 ║ Def Pri: The pack comes first                                                                    ║
-║ Def Tie: ?? (Pack Leader)                                                                        ║
-║ Def Tie: Nellens Ugan (Hatred)                                                                   ║
-║ Def Tie: Strangers (Distrust)                                                                    ║
+║ Def+Tie: ?? (Pack Leader)                                                                        ║
+║ Def-Tie: Nellens Ugan (Hatred)                                                                   ║
+║ Def-Tie: Strangers (Distrust)                                                                    ║
 ║ Maj Pri: Cowardice is deplorable                                                                 ║
 ║ Maj Pri: Words are weak                                                                          ║
-║ Maj Tie: Cities and towns (Hatred)                                                               ║
-║ Maj Tie: Grace (Jealous of her closeness with River)                                             ║
-║ Maj Tie: House Nellens (Hatred)                                                                  ║
-║ Maj Tie: Mongrel (Makes sense)                                                                   ║
-║ Maj Tie: Mongrel (Packmember)                                                                    ║
-║ Maj Tie: River (Discomfort at soul bond)                                                         ║
-║ Maj Tie: River (Soul bond)                                                                       ║
-║ Maj Tie: Schemers (Disgust)                                                                      ║
-║ Maj Tie: Scrimshaw (Rage, I will not be chained)                                                 ║
-║ Mnr Tie: Grace (Disdain)                                                                         ║
-║ Mnr Tie: Grace (Envy of her effortless social competency)                                        ║
-║ Mnr Tie: Grace (Lust)                                                                            ║
-║ Mnr Tie: Mongrel (Fight-horny)                                                                   ║
-║ Mnr Tie: Mongrel (Respect for feral nature)                                                      ║
-║ Mnr Tie: River (Fight-horny)                                                                     ║
+║ Maj+Tie: Mongrel (Makes sense)                                                                   ║
+║ Maj+Tie: Mongrel (Packmember)                                                                    ║
+║ Maj+Tie: River (Soul bond)                                                                       ║
+║ Maj+Tie: Scrimshaw (Pity sympathy)                                                               ║
+║ Maj-Tie: Cities and towns (Hatred)                                                               ║
+║ Maj-Tie: Grace (Soul bond)                                                                       ║
+║ Maj-Tie: House Nellens (Hatred)                                                                  ║
+║ Maj-Tie: River (Discomfort at soul bond)                                                         ║
+║ Maj-Tie: Schemers (Disgust)                                                                      ║
+║ Mnr+Tie: Grace (Lust)                                                                            ║
+║ Mnr+Tie: Hate-Evil Lotus (Maternal Comfort)                                                      ║
+║ Mnr+Tie: Mongrel (Fight-horny)                                                                   ║
+║ Mnr+Tie: Mongrel (Respect)                                                                       ║
+║ Mnr+Tie: River (Fight-horny)                                                                     ║
+║ Mnr+Tie: Robot things (Respect for duty)                                                         ║
+║ Mnr+Tie: The Cathedral Folk (Familiar)                                                           ║
+║ Mnr-Tie: Grace (Disdain)                                                                         ║
+║ Mnr-Tie: Grace (Envy of her effortless social competency)                                        ║
 ║ Mnr Tie: Scrimshaw (Disdain)                                                                     ║
-║ Mnr Tie: That butch blue-garbed lady (Hostility)                                                 ║
+║ Mnr Tie: Siaka (Hostility)                                                                       ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
-### Training Notes (Currently Ascending Water 22, RY768)
-- Presence III (12 days remaining)
-- Language [Old Realm] (15 days remaining)
-- Resistance IV (19 days remaining)
+
+### Training Notes (Currently Ascending Water 23, RY768)
+- Divine Predator Strike (2 days remaining)
+- Impenetrable Beast Armor (1 days remaining)
+    - Durant Quicksilver Adaptation (+3 days remaining, xp already spent)
+- Presence III (11 days remaining)
+- Language [Old Realm] (14 days remaining)
+- Resistance IV (18 days remaining)
     - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
-- Awareness IV (19 days remaining)
-- Willpower VI (28 days remaining)
-- Intelligence II (55 days remaining)
-- Charisma III (83 days remaining)
+- Awareness IV (18 days remaining)
+- Willpower VI (27 days remaining)
+- Intelligence II (54 days remaining)
+- Charisma III (82 days remaining)
     - is prereq for Charisma IV (112 days, 9 xp) (consider stunting)
         - is prereq for Moon-and-Earth Blessing (5 days, 9 xp) (pp177)
 
@@ -167,8 +175,8 @@
     - Siege lizard (L)
 
 ### Territories (0/3)
-0. (in exploration phase) A blob of nature outside the walls
-    - Qualities: Untamed, bountiful, [3]
+1. A blob of nature outside the walls, 20 sq mi
+    - Qualities: Untamed, bountiful, exotic
 
 ### BANNER EFFECTS
 At dim anima, the cost of shifting into human shapes is discounted by two motes.
