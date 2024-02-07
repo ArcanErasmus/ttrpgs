@@ -1,11 +1,28 @@
 # BN-G1's Notes
 ## Logfile
+### Session 6 - 2024-02-06
+- Loot bodies
+    - Lotta $$$ and guns
+    - Shimani fails to interrogate the local leader(?), kills her carelessly instead
+    - Leader(?) has a datapad that explains the details we need
+        - DSK was hired by AE to protect their interests surrounding the Acreon Affair
+        - DSK told to kill Duravor Kreel bc he was getting too close in his investigations
+- Return to SFS
+    - Hand over datapad of info, get reward
+- New job opportunity
+    - Request from Gevalarsk Nor, Eox's Ambassador to the station
+- Eox lore
+    - Planet in Minos Cluster
+    - Isolationist, wear fully covering suits around outsiders
+    - Historical friction with Republic, surprising amount of recent cooperation and geniality
+- We do some shopping and deposit loot in the hotel
+
 ### Session 5 - 2024-01-09
 - FIGHT!!!
     - We save Shimani from getting laserforated!
     - Shimani and NU-R4 get regular-gun perforated
     - Coyote gets sledgehammered
-    - We take down a pile of 
+    - We take down a pile of gang members and barricade ourselves in the office
 
 ### Session 4 - 2023-12-12
 - We approach the meeting area, and after much fussing, are led to Jabaxa
