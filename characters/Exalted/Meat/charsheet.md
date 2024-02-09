@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 080/075 P│ 050/040 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 085/075 P│ 054/052 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
@@ -98,17 +98,20 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 ### Training Notes (Currently Ascending Water 23, RY768)
-- Divine Predator Strike (2 days remaining)
-- Impenetrable Beast Armor (1 days remaining)
-    - Durant Quicksilver Adaptation (+3 days remaining, xp already spent)
-- Presence III (11 days remaining)
-- Language [Old Realm] (14 days remaining)
-- Resistance IV (18 days remaining)
+- Ascending Water 24, RY768 - Impenetrable Beast Armor
+- Ascending Water 25, RY768 - Divine Predator Strike
+- Ascending Water 27, RY768 - Durant Quicksilver Adaptation
+- Resplendent Water 06, RY768 - Presence III
+- Resplendent Water 09, RY768 - Language [Old Realm]
+- Resplendent Water 09, RY768 - Specialty [Intimidation (Presence)]
+- Resplendent Water 13, RY768 - Resistance IV
     - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
-- Awareness IV (18 days remaining)
-- Willpower VI (27 days remaining)
-- Intelligence II (54 days remaining)
-- Charisma III (82 days remaining)
+- Resplendent Water 13, RY768 - Awareness IV
+- Resplendent Water 22, RY768 - Willpower VI
+- Resplendent Water 23, RY768 - Athletics IV
+- Descending Water 21, RY768 - Intelligence II
+- Descending Water 23, RY768 - Manipulation II
+- Ascending Wood 21, RY768 - Charisma III
     - is prereq for Charisma IV (112 days, 9 xp) (consider stunting)
         - is prereq for Moon-and-Earth Blessing (5 days, 9 xp) (pp177)
 

@@ -47,7 +47,34 @@ Stamina - Defense
 - Type: Reflexive
 - Keywords: Withering only, Perilous
 - Duration: Instant
+- Prerequisites: None
 I hate when people complicate the truth with words. Shut up and fight me! When someone tries to speak, I can reflexively make a withering attack against them. If it hits, their words choke off after the first sound, and they cannot speak until the next round. If it crashes them, they cannot speak until they exit Initiative Crash. I can only use this evocation once per round.
+
+# Custom Charms
+## Universal
+### Moon's Reflection Recast
+- Cost —(+1wp); Mins: Essence 3
+- Type: Permanent
+- Keywords: None
+- Duration: Permanent
+- Prerequisites: Many-Faced Moon Transformation
+The Lunar aches to unbind others from their static forms. When in physical contact with a willing recipient that the Lunar has a Major or Defining positive tie towards, or is her Solar Bond, she can pay a 1-Willpower surcharge when activating Many-Faced Moon Transformation. Doing so makes no changes to the Lunar's appearance, but instead lets the recipient choose to alter their shape as if they had used the Charm themselves. If they decide to conceal their identity with the transformation, either the recipient or the Lunar may make the disguise roll. The Willpower surcharge is waived if this is used to undo previous such changes.
+
+### Share/grant mutations?
+
+## Stamina - Defense
+### Guardian's Final Duty
+- Cost 1m, 2i; Mins: Stamina 4, Essence 2
+- Type: Reflexive
+- Keywords: Dual, Perilous
+- Duration: Instant
+- Prerequisites: Den Warden Method or Mother Grizzly Attitude
+Grimly determined to avoid the costs of failure, the Lunar will go any length to insulate her charge from harm. When an ally the Lunar is protecting with a defend other action is hit by an attack, the Lunar may choose to take (her positive intimacy towards her ward) damage for them. The damage transferred may not be reduced by magic.
+
+## Wits - Animal Ken
+### Summon battlegroup of animals
+
+### Think of more non-familiar animal charms
 
 # New charms v4
 ## Cause Fear
