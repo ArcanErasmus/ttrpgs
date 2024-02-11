@@ -24,6 +24,20 @@ Core bits:
 - eat opponent's flesh?
 - stealth in spite of penalties?
 
+http://exalted.xi.co.nz/wiki/MartialArts/CrocodileStyle
+- Crocodile tail slap intimidation 
+- Move speed
+- See through illusion, or fight while blinded
+- Form: Resist fear,
+- Look at other forms
+- Soak environmental effects or heat/cold damage
+- Sunbathing for vigor
+- Wide application of demoralizing action penalty from gutteral growl
+- "Grappling is something you do with your teeth"
+- Disarm through attacking weapons
+
+*The Book of Dread Blades - Tyrant Lizard Style (pp. 12)*
+
 Here's my idea for Meat buying the MA merit:
 River: Religious angle, your connection to purpose
 Grace: Emotional angle, your connection to your opponent
