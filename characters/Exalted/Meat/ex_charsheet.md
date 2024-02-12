@@ -23,6 +23,10 @@ Core bits:
 - rip off limbs?
 - eat opponent's flesh?
 - stealth in spite of penalties?
+- Crush through armored soak
+- bonus vs prone
+- sharp sight
+- auto-damage in grapple
 
 http://exalted.xi.co.nz/wiki/MartialArts/CrocodileStyle
 - Crocodile tail slap intimidation 
@@ -37,6 +41,14 @@ http://exalted.xi.co.nz/wiki/MartialArts/CrocodileStyle
 - Disarm through attacking weapons
 
 *The Book of Dread Blades - Tyrant Lizard Style (pp. 12)*
+- bonus dmg against low init enemies
+- free fear on hit
+- bonus vs enemies with fear
+    - considered to have lower init for charms
+    - double 10s on dmg
+    - their 1s subtract on dmg
+- if moved towards target this turn, bonus
+    - ess threshold successes to decisive dmg, or double (strength) 9s on atk
 
 Here's my idea for Meat buying the MA merit:
 River: Religious angle, your connection to purpose
