@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 085/075 P│ 054/052 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 090/086 P│ 058/052 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
@@ -100,6 +100,7 @@
 ### Training Notes (Currently Ascending Water 23, RY768)
 - Ascending Water 24, RY768 - Impenetrable Beast Armor
 - Ascending Water 25, RY768 - Divine Predator Strike
+- Ascending Water 25, RY768 - Gifts of Protean Vigor +1
 - Ascending Water 27, RY768 - Durant Quicksilver Adaptation
 - Resplendent Water 06, RY768 - Presence III
 - Resplendent Water 09, RY768 - Language [Old Realm]
