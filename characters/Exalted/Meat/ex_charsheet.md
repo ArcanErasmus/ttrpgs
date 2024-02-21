@@ -8,54 +8,11 @@
 - Prerequisites: None
 I hate when people complicate the truth with words. Shut up and fight me! When someone tries to speak, I can reflexively make a withering attack against them. If it hits, their words choke off after the first sound, and they cannot speak until the next round. If it crashes them, they cannot speak until they exit Initiative Crash. I can only use this evocation once per round.
 
+### Apex Predator's Unshakable Ego
+?
+
 ## Invulnerable Moonsilver Carapace, evocations
 ### ?
-
-## New MA - Crocodile Style
-Gonna need like 10 charms, including a form
-- Weapons: Natural weapon strikes like teeth, claws, tail strikes, lots of throws and wrestling
-- Armor: All
-Core bits:
-- grapple with your teeth
-- flip and roll with your opponent; disorient and trip
-- tail slap
-- ignore punishment
-- rip off limbs?
-- eat opponent's flesh?
-- stealth in spite of penalties?
-- Crush through armored soak
-- bonus vs prone
-- sharp sight
-- auto-damage in grapple
-
-http://exalted.xi.co.nz/wiki/MartialArts/CrocodileStyle
-- Crocodile tail slap intimidation 
-- Move speed
-- See through illusion, or fight while blinded
-- Form: Resist fear,
-- Look at other forms
-- Soak environmental effects or heat/cold damage
-- Sunbathing for vigor
-- Wide application of demoralizing action penalty from gutteral growl
-- "Grappling is something you do with your teeth"
-- Disarm through attacking weapons
-
-*The Book of Dread Blades - Tyrant Lizard Style (pp. 12)*
-- bonus dmg against low init enemies
-- free fear on hit
-- bonus vs enemies with fear
-    - considered to have lower init for charms
-    - double 10s on dmg
-    - their 1s subtract on dmg
-- if moved towards target this turn, bonus
-    - ess threshold successes to decisive dmg, or double (strength) 9s on atk
-
-Here's my idea for Meat buying the MA merit:
-River: Religious angle, your connection to purpose
-Grace: Emotional angle, your connection to your opponent
-Scrimshaw: Strategic angle, your connection to plans and executing them
-Mongrel: Bloodshed is its own reward, don't overthink it
-Meat: Bloodshed is it's own reward, don't overthink it, got it
 
 ## Universal
 ### Moon's Reflection Recast
