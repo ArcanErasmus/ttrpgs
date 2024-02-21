@@ -1,5 +1,27 @@
 # BN-G1's Notes
 ## Logfile
+### Session 8 - 2024-03-05?future
+- FIGHT! with surprise ship attacking us on our way to the Acreon
+
+### Session 7 - 2024-02-20
+- Meeting with Gevalarsk Nor
+    - Imperial checkpoint (to get into the Eye) gives us perfunctory hassle for having non-humans
+    - Nor asks us to go to the Acreon on a chartered shuttle, bring a provided recording droid, find some info about what happened
+    - As soon as we leave, we get invitations from both parties to discuss this privately before we move on the job
+        - Hardscrabble, thru Captain Otal Serissi and his ship the Dust Runner
+        - Astral Extractions, to their headquarters
+- Meet with Otal Serissi
+    - Ask that we find out the fates of the crew
+    - If HSC wins legal battle, they can pay the families of the crew
+- Meet with unnamed corporate drone (of the fleshy variety)
+    - Receive nonsense marketing slideshow
+    - If AE wins legal battle, they might have job offers for us
+- We board the shuttle (chartered by Nor from the station), Hippocampus
+    - Shuttle has upgraded combat capabilities
+    - As we head towards the Acreon, some mystery ship intercepts us with violence!
+- Prepare for FIGHT!
+    - Ship intercepting us appears to be of Eoxian make
+
 ### Session 6 - 2024-02-06
 - Loot bodies
     - Lotta $$$ and guns
