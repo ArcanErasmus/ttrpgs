@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 090/086 P│ 058/052 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 090/086 P│ 052/046 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
