@@ -1,7 +1,13 @@
 # BN-G1's Notes
 ## Logfile
-### Session 8 - 2024-03-05?future
+### Session 9 - 2024-03-26?future
+- We are finishing our approach to the Acreon
+
+### Session 8 - 2024-03-12
 - FIGHT! with surprise ship attacking us on our way to the Acreon
+    - It is a "Necroglider", and seemingly somewhat autonomous
+    - We blasted it up, and didn't even scratch our ship!
+    - It drifted into the large rock towed behind the Acreon and blew up
 
 ### Session 7 - 2024-02-20
 - Meeting with Gevalarsk Nor
