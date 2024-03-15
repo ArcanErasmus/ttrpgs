@@ -1,12 +1,48 @@
+# Combat planning
+attacking
+5+5+3 = 13 dice
+excellency +10
+stunt +2
+
+damaging withering
+12+5 = 17 dice
+divine predator strike (1+[atk 10s], max 5)
+dbt +5
+chopping +3
+
+overwhelming
+1 = 1 dice
+ferocious biting tooth +2
+silver claw +3
+
+
+in total, the ultra attack
+
+pay once, 14m 2wp:
+- 13m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
+- 1m 1wp: +5 dice damage, deadly beastman transformation
+pay per attack, 14m 1wp 1i -1def:
+- 1wp: +1 success attack, willpower
+- 10m: +10 dice attack, excellency
+- 2m: +(1-5) post soak damage, divine predator strike
+- 2m: +2 overwhelming, ferocious biting tooth
+- 1i -1def: +3 dice damage, chopping
+
+effects
+attack 25 dice +1 success
+damage 25 dice
+overwhelm 6 dice
+post-soak damage +1-5 (avg 3.3) dice
+
 # Custom Charms
 ## Claws of the Silver Moon, evocations
 ### Shut Up
-- Cost: 2i 1wp; Mins: Essence 2
+- Cost: 2m 1wp; Mins: Essence 2
 - Type: Reflexive
 - Keywords: Withering only, Perilous
 - Duration: Instant
 - Prerequisites: None
-I hate when people complicate the truth with words. Shut up and fight me! When someone tries to speak, I can reflexively make a withering attack against them. If it hits, their words choke off after the first sound, and they cannot speak until the next round. If it crashes them, they cannot speak until they exit Initiative Crash. I can only use this evocation once per round.
+I hate when people complicate the truth with words. Shut up and fight me! When someone within close range tries to verbally speak, and has less initiative than me, I can reflexively make a withering attack against them. This attack does not reward me any initiative. If it hits, their words choke off after the first sound, and they cannot speak until the next round. If it crashes them, they cannot speak until they exit Initiative Crash. I can only use this evocation once per round.
 
 ### Apex Predator's Unshakable Ego
 ?
@@ -21,7 +57,7 @@ I hate when people complicate the truth with words. Shut up and fight me! When s
 - Keywords: None
 - Duration: Permanent
 - Prerequisites: Many-Faced Moon Transformation
-The Lunar aches to unbind others from their static forms. When in physical contact with a willing recipient that the Lunar has a Major or Defining positive tie towards, or is her Solar Bond, she can pay a 1-Willpower surcharge when activating Many-Faced Moon Transformation. Doing so makes no changes to the Lunar's appearance, but instead lets the recipient choose to alter their shape as if they had used the Charm themselves. If they decide to conceal their identity with the transformation, either the recipient or the Lunar may make the disguise roll.
+The Lunar aches to unbind others from their static forms. When in physical contact with a willing recipient that the Lunar has a Major or Defining positive tie towards, or is her Solar Bond, she can pay a 2-Mote surcharge when activating Many-Faced Moon Transformation. Doing so makes no changes to the Lunar's appearance, but instead lets the recipient choose to alter their shape as if they had used the Charm themselves. If they decide to conceal their identity with the transformation, either the recipient or the Lunar may make the disguise roll.
 
 ### Share/grant mutations?
 
@@ -77,16 +113,11 @@ Stamina - Defense
     // Fast-use prereqs, instead gain initiative if used with DBT (all 3 = 16m 3wp, gain 2i)
 
 Stamina - Endurance
-* Gifts of Protean Vigor MFS 56
-// Cheap physical merits, less sleep
-    + Boundless Endurance II 159
-    + Iron Stomach I 162
+- Gifts of Protean Vigor (more) MFS 56
     = Natural Immunity II 164
     - Selective Conception I 165
     = Strong Lungs I 165
-    + Toxin Resistance III 165
-    +6, =3, -1
-    Total: less sleep plus +3 for 8xp, add +3 and =3 for +3xp
+    Total: Add =3 for +3xp, or +1 buff
 
 Stamina - Berserker
 - Ravening Beast Excitement MFS 57

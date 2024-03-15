@@ -3,108 +3,124 @@
 ╠════════════════════════════════╬════════════╤══════════════════════════════╤════════════╤════════╣
 ║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦♦∙∙∙  ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
-║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP/LXP Total/Spent  ║
+║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Total/Spent      ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 090/086 P│ 052/046 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 100/094 P│ 056/046 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
-║ Strength     │ F ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ Exalted Healing    │ FREE      ║
-║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘∙∙ │           ║ Giant              │ 4         ║
-║ Stamina      │ F ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘∙∙ │           ║ Heart's Blood      │ 3         ║
-╠══════════════╪══════════════╣ Brawl         │ ◘◘◘◘◘ │           ║ Frightening Voice  │ 2         ║
-║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ Natural Shield     │ 2         ║
-╟──────────────┼──────────────╢ Craft         │ ◘··∙∙ │           ║ Night Vision       │ 2         ║
-║ Charisma     │   ◘◘···∙∙∙∙∙ ║ Dodge         │ ◘◘◘∙∙ │           ║ Tail               │ 2         ║
-║ Manipulation │   ◘∙∙∙∙∙∙∙∙∙ ║ Integrity     │ ◘◘·∙∙ │           ║ Ambidextrous       │ 1         ║
-║ Appearance   │   ◘◘◘◘◘∙∙∙∙∙ ║ Investigation │ ···∙∙ │           ║ Cult               │ 1         ║
-╠══════════════╪══════════════╣ Larceny       │ ∙∙∙∙∙ │           ║ Deadly Weaponry    │ 1         ║
-║ Mental       │ 2 Level      ║ Linguistics   │ ◘··∙∙ │           ║ Fangs              │ 1         ║
-╟──────────────┼──────────────╢ Lore          │ ···∙∙ │           ║ Pheremones         │ 1         ║
-║ Perception   │   ◘◘◘◘◘∙∙∙∙∙ ║ Martial Arts  │ ···∙∙ │           ║ Unusual Hide       │ 1         ║
-║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘·∙∙ │           ╠════════════════════╪═══════════╣
-║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ║ Hybrid Body Merits │ Value     ║
-╠══════════════╧══════════════╣ Occult        │ ◘∙∙∙∙ │           ╟────────────────────┼───────────╢
-║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ║ Unusual Hide       │+4         ║
-╟─────────────────────────────╢ Presence      │ ◘◘∙∙∙ │           ║ Carapace           │ 2         ║
-║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Fangs              │+3         ║
-║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Entangling Limbs   │ 3         ║
-║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Hideous            │ 0         ║
-║                             ║ Socialize     │ ∙∙∙∙∙ │           ╠════════════════════╪═══════════╣
-║                             ║ Stealth       │ ◘◘·∙∙ │           ║ Beastman Merits    │ Value     ║
-║                             ║ Survival      │ ◘◘◘∙∙ │           ╟────────────────────┼───────────╢
-║                             ║ Thrown        │ ···∙∙ │           ║ Venomous           │ 3         ║
-║                             ║ War           │ ∙∙∙∙∙ │           ║ Mighty Thew        │ 1         ║
-╠═════════════════════════════╩═══════════════╧═══════╧═════╦═════╩════════════════════╧═══════════╣
-║ Specialties                                               ║ Charms                               ║
-╟───────────────────────────────────────────────────────────╫──────────────────────────────────────╢
-║ Athletics: Feats of Strength                              ║ Uni: Beast-Form Empowerment          ║
-║ Awareness: Motion                                         ║ Uni: Hybrid Body Transformation      ║
-║ Brawl: Natural Weapons                                    ║ Uni: Many-Faced Moon Transformation  ║
-║ Survival: Navigation                                      ║ Sta: Bear-Sleep Technique            ║
-║                                                           ║ Sta: Den Warden Method               ║
-║                                                           ║ Sta: Hero’s Heart Challenge          ║
-╠═══════════════════════════════════════════════════════════╣ Sta: Mother Grizzly Attitude         ║
-║ Inventory                                                 ║ Sta: Ox-Body                         ║
-╟───────────────────────────────────────────────────────────╢ Sta: Relentless Lunar Fury           ║
-║ Tunic of patchwork fabrics                                ║ Sta: Steel Paw Style                 ║
-║ Heavy coat of animal furs                                 ║ Str: Angry Rhino Charge              ║
-║ Large waterskin                                           ║ Str: Deadly Beastman Transformation  ║
-║ Heavily repaired satchel                                  ║ Str: Deadly Claw Blow                ║
-║ Dried salted meats and fruits                             ║ Str: Ferocious Biting Tooth          ║
-║ Rope                                                      ║ Str: Grizzly Bear Embrace            ║
-║ Towel                                                     ║ Str: Surging Thew Technique          ║
-║ Kitty, "Cat"                                              ║ Str: Terrifying Ogre Alteration      ║
-║                                                           ║ Wit: Boundary-Marking Meditation     ║
-║                                                           ║ Wit: Grudge-Nursing Resentment       ║
-║                                                           ║ Wit: Pack Instinct Affirmation       ║
-║                                                           ║                                      ║
-╠═══════════════════════════════════════════════════════════╩══════════════════════════════════════╣
+║ Strength     │ F ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ -Deadly Beastman-  │           ║
+║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘∙∙ │           ║ Venomous           │ 3         ║
+║ Stamina      │ F ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘∙∙ │           ║ Mighty Thew        │ 1         ║
+╠══════════════╪══════════════╣ Brawl         │ ◘◘◘◘◘ │           ║                    │           ║
+║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ -Hybrid Body-      │           ║
+╟──────────────┼──────────────╢ Craft         │ ◘··∙∙ │           ║ Unusual Hide       │+4         ║
+║ Charisma     │   ◘◘···∙∙∙∙∙ ║ Dodge         │ ◘◘◘∙∙ │           ║ Carapace           │ 2         ║
+║ Manipulation │   ◘∙∙∙∙∙∙∙∙∙ ║ Integrity     │ ◘◘·∙∙ │           ║ Fangs              │+3         ║
+║ Appearance   │   ◘◘◘◘◘∙∙∙∙∙ ║ Investigation │ ···∙∙ │           ║ Entangling Limbs   │ 3         ║
+╠══════════════╪══════════════╣ Larceny       │ ∙∙∙∙∙ │           ║ Hideous            │ 0         ║
+║ Mental       │ 2 Level      ║ Linguistics   │ ◘··∙∙ │           ║                    │           ║
+╟──────────────┼──────────────╢ Lore          │ ···∙∙ │           ║ -Base-             │           ║
+║ Perception   │   ◘◘◘◘◘∙∙∙∙∙ ║ Martial Arts  │ ···∙∙ │           ║ Exalted Healing    │ FREE      ║
+║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘·∙∙ │           ║ Giant              │ 4         ║
+║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ║ Heart's Blood      │ 3         ║
+╠══════════════╧══════════════╣ Occult        │ ◘∙∙∙∙ │           ║ Toxin Resistance   │ 3         ║
+║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ║ Winter W/o Hibern  │ 3*        ║
+╟─────────────────────────────╢ Presence      │ ◘◘◘∙∙ │           ║ Boundless Endurnce │ 2         ║
+║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Frightening Voice  │ 2         ║
+║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Natural Shield     │ 2         ║
+║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Night Vision       │ 2         ║
+║                             ║ Socialize     │ ∙∙∙∙∙ │           ║ Tail               │ 2         ║
+║                             ║ Stealth       │ ◘◘·∙∙ │           ║ Ambidextrous       │ 1         ║
+║                             ║ Survival      │ ◘◘◘∙∙ │           ║ Cult               │ 1         ║
+║                             ║ Thrown        │ ···∙∙ │           ║ Deadly Weaponry    │ 1         ║
+║                             ║ War           │ ∙∙∙∙∙ │           ║ Fangs              │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Iron Stomach       │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Pheremones         │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Unusual Hide       │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║                    │           ║
+╠═════════════════════════════╩═══════════════╧═══╦═══╧═══════════╩════════════════════╧═══════════╣
+║ Languages                                       ║ Inventory                                      ║
+╟─────────────────────────────────────────────────╫────────────────────────────────────────────────╢
+║ High Realm                                      ║ Tunic of patchwork fabrics                     ║
+║ Old Realm                                       ║ Heavy coat of animal furs                      ║
+╠═════════════════════════════════════════════════╣ Large waterskin                                ║
+║ Specialties                                     ║ Heavily repaired satchel                       ║
+╟─────────────────────────────────────────────────╢ Dried salted meats and fruits                  ║
+║ Athletics: Feats of Strength                    ║ Rope                                           ║
+║ Awareness: Motion                               ║ Towel                                          ║
+║ Brawl: Natural Weapons                          ║ Kitty, "Cat"                                   ║
+║ Presence: Intimidation                          ║                                                ║
+║ Survival: Navigation                            ║                                                ║
+║                                                 ║                                                ║
+╠═════════════════════════════════════════════════╬════════════════════════════════════════════════╣
+║ Charms                                          ║ Charms (cont'd.)                               ║
+╟─────────────────────────────────────────────────╫────────────────────────────────────────────────╢
+║ -Universal-                                     ║ -Strength-                                     ║
+║ Beast-Form Empowerment                          ║ Angry Rhino Charge                             ║
+║ Hybrid Body Transformation                      ║ Deadly Beastman Transformation                 ║
+║ Many-Faced Moon Transformation                  ║ Deadly Claw Blow                               ║
+║                                                 ║ Ferocious Biting Tooth                         ║
+║ -Appearance-                                    ║ Grizzly Bear Embrace                           ║
+║ Glance-Oration Technique                        ║ Surging Thew Technique                         ║
+║                                                 ║ Terrifying Ogre Alteration                     ║
+║ -Stamina-                                       ║ Divine Predator Strike                         ║
+║ Bear-Sleep Technique                            ║                                                ║
+║ Den Warden Method                               ║ -Wits-                                         ║
+║ Durant Quicksilver Adaptation                   ║ Boundary-Marking Meditation                    ║
+║ Gifts of Protean Vigor                          ║ Grudge-Nursing Resentment                      ║
+║ Hero’s Heart Challenge                          ║ Pack Instinct Affirmation                      ║
+║ Impenetrable Beast Armor                        ║                                                ║
+║ Mother Grizzly Attitude                         ║                                                ║
+║ Ox-Body                                         ║                                                ║
+║ Relentless Lunar Fury                           ║                                                ║
+║ Steel Paw Style                                 ║                                                ║
+║                                                 ║                                                ║
+╠═════════════════════════════════════════════════╩════════════════════════════════════════════════╣
 ║ Intimiacies                                                                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
-║ Def Pri: Abusing animals is disgusting                                                           ║
-║ Def Pri: Betrayal is the highest sin                                                             ║
-║ Def Pri: Large groups are stressful                                                              ║
-║ Def Pri: The pack comes first                                                                    ║
-║ Def+Tie: ?? (Pack Leader)                                                                        ║
-║ Def-Tie: Nellens Ugan (Hatred)                                                                   ║
-║ Def-Tie: Strangers (Distrust)                                                                    ║
-║ Maj Pri: Cowardice is deplorable                                                                 ║
-║ Maj Pri: Words are weak                                                                          ║
-║ Maj+Tie: Mongrel (Makes sense)                                                                   ║
-║ Maj+Tie: Mongrel (Packmember)                                                                    ║
-║ Maj+Tie: River (Soul bond)                                                                       ║
-║ Maj+Tie: Scrimshaw (Pity sympathy)                                                               ║
-║ Maj-Tie: Cities and towns (Hatred)                                                               ║
-║ Maj-Tie: Grace (Soul bond)                                                                       ║
-║ Maj-Tie: House Nellens (Hatred)                                                                  ║
-║ Maj-Tie: River (Discomfort at soul bond)                                                         ║
-║ Maj-Tie: Schemers (Disgust)                                                                      ║
-║ Mnr+Tie: Grace (Lust)                                                                            ║
-║ Mnr+Tie: Hate-Evil Lotus (Maternal Comfort)                                                      ║
-║ Mnr+Tie: Mongrel (Fight-horny)                                                                   ║
-║ Mnr+Tie: Mongrel (Respect)                                                                       ║
-║ Mnr+Tie: River (Fight-horny)                                                                     ║
-║ Mnr+Tie: Robot things (Respect for duty)                                                         ║
-║ Mnr+Tie: The Cathedral Folk (Familiar)                                                           ║
-║ Mnr-Tie: Grace (Disdain)                                                                         ║
-║ Mnr-Tie: Grace (Envy of her effortless social competency)                                        ║
-║ Mnr Tie: Scrimshaw (Disdain)                                                                     ║
-║ Mnr Tie: Siaka (Hostility)                                                                       ║
+║ -Defining-                                                                                       ║
+║ P Abusing animals is disgusting                                                                  ║
+║ P Betrayal is the highest sin                                                                    ║
+║ P Groups are stressful                                                                           ║
+║ P The pack comes first                                                                           ║
+║ + ?? (Pack Leader)                                                                               ║
+║ - Nellens Ugan (Hatred)                                                                          ║
+║ - Strangers (Distrust)                                                                           ║
+║                                                                                                  ║
+║ -Major-                                                                                          ║
+║ P Cowardice is deplorable                                                                        ║
+║ P Words are weak                                                                                 ║
+║ + Mongrel (Fight-horny)                                                                          ║
+║ + Mongrel (Makes sense)                                                                          ║
+║ + Mongrel (Packmember)                                                                           ║
+║ + River (Soul bond)                                                                              ║
+║ + Scrimshaw (Pity sympathy)                                                                      ║
+║ - Cities and towns (Hatred)                                                                      ║
+║ - Grace (Soul bond)                                                                              ║
+║ - House Nellens (Hatred)                                                                         ║
+║ - River (Discomfort at soul bond)                                                                ║
+║ - Schemers (Disgust)                                                                             ║
+║                                                                                                  ║
+║ -Minor-                                                                                          ║
+║ + Grace (Lust)                                                                                   ║
+║ + Hate-Evil Lotus (Maternal Comfort)                                                             ║
+║ + Mongrel (Respect)                                                                              ║
+║ + River (Fight-horny)                                                                            ║
+║ + Robot things (Respect for duty)                                                                ║
+║ + The Cathedral Folk (Familiar)                                                                  ║
+║ - Grace (Disdain)                                                                                ║
+║ - Grace (Envy of her effortless social competency)                                               ║
+║ - Scrimshaw (Disdain)                                                                            ║
+║ - Siaka (Hostility)                                                                              ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 
-### Training Notes (Currently Ascending Water 23, RY768)
-- Ascending Water 24, RY768 - Impenetrable Beast Armor
-- Ascending Water 25, RY768 - Divine Predator Strike
-- Ascending Water 25, RY768 - Gifts of Protean Vigor +1
-- Ascending Water 27, RY768 - Durant Quicksilver Adaptation
-- Resplendent Water 06, RY768 - Presence III
-- Resplendent Water 09, RY768 - Language [Old Realm]
-- Resplendent Water 09, RY768 - Specialty [Intimidation (Presence)]
+### Training Notes (Currently Resplendent Water 9, RY768)
+- Resplendent Water 13, RY768 - Claws of the Silver Moon
 - Resplendent Water 13, RY768 - Resistance IV
     - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
 - Resplendent Water 13, RY768 - Awareness IV
