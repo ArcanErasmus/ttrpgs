@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Total/Spent      ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 100/094 P│ 056/046 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 105/094 P│ 060/058 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
@@ -30,7 +30,7 @@
 ╠══════════════╧══════════════╣ Occult        │ ◘∙∙∙∙ │           ║ Toxin Resistance   │ 3         ║
 ║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ║ Winter W/o Hibern  │ 3*        ║
 ╟─────────────────────────────╢ Presence      │ ◘◘◘∙∙ │           ║ Boundless Endurnce │ 2         ║
-║ Human body lang confusing   ║ Resistance    │ ◘◘◘∙∙ │           ║ Frightening Voice  │ 2         ║
+║ Human body lang confusing   ║ Resistance    │ ◘◘◘◘∙ │           ║ Frightening Voice  │ 2         ║
 ║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Natural Shield     │ 2         ║
 ║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Night Vision       │ 2         ║
 ║                             ║ Socialize     │ ∙∙∙∙∙ │           ║ Tail               │ 2         ║
@@ -61,19 +61,19 @@
 ╟─────────────────────────────────────────────────╫────────────────────────────────────────────────╢
 ║ -Universal-                                     ║ -Strength-                                     ║
 ║ Beast-Form Empowerment                          ║ Angry Rhino Charge                             ║
-║ Hybrid Body Transformation                      ║ Deadly Beastman Transformation                 ║
-║ Many-Faced Moon Transformation                  ║ Deadly Claw Blow                               ║
-║                                                 ║ Ferocious Biting Tooth                         ║
-║ -Appearance-                                    ║ Grizzly Bear Embrace                           ║
-║ Glance-Oration Technique                        ║ Surging Thew Technique                         ║
-║                                                 ║ Terrifying Ogre Alteration                     ║
-║ -Stamina-                                       ║ Divine Predator Strike                         ║
-║ Bear-Sleep Technique                            ║                                                ║
-║ Den Warden Method                               ║ -Wits-                                         ║
-║ Durant Quicksilver Adaptation                   ║ Boundary-Marking Meditation                    ║
-║ Gifts of Protean Vigor                          ║ Grudge-Nursing Resentment                      ║
-║ Hero’s Heart Challenge                          ║ Pack Instinct Affirmation                      ║
-║ Impenetrable Beast Armor                        ║                                                ║
+║ Hybrid Body Transformation                      ║ Claws of the Silver Moon                       ║
+║ Many-Faced Moon Transformation                  ║ Deadly Beastman Transformation                 ║
+║                                                 ║ Deadly Claw Blow                               ║
+║ -Appearance-                                    ║ Divine Predator Strike                         ║
+║ Glance-Oration Technique                        ║ Ferocious Biting Tooth                         ║
+║                                                 ║ Grizzly Bear Embrace                           ║
+║ -Stamina-                                       ║ Surging Thew Technique                         ║
+║ Bear-Sleep Technique                            ║ Terrifying Ogre Alteration                     ║
+║ Den Warden Method                               ║                                                ║
+║ Durant Quicksilver Adaptation                   ║ -Wits-                                         ║
+║ Gifts of Protean Vigor                          ║ Boundary-Marking Meditation                    ║
+║ Hero’s Heart Challenge                          ║ Grudge-Nursing Resentment                      ║
+║ Impenetrable Beast Armor                        ║ Pack Instinct Affirmation                      ║
 ║ Mother Grizzly Attitude                         ║                                                ║
 ║ Ox-Body                                         ║                                                ║
 ║ Relentless Lunar Fury                           ║                                                ║
@@ -120,40 +120,41 @@
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 
 ### Training Notes (Currently Resplendent Water 9, RY768)
-- Resplendent Water 13, RY768 - Claws of the Silver Moon
-- Resplendent Water 13, RY768 - Resistance IV
-    - is prereq for Pain Tolerance (28 days, 12 xp) (pp164)
 - Resplendent Water 13, RY768 - Awareness IV
+    *Flashback Advance: Acclimation to an urban environment from a new angle. Predator, where she used to be prey. Hunting for angles of attack, as opposed to escape.*
 - Resplendent Water 22, RY768 - Willpower VI
+    *Flashback Advance: No longer is she able to cut and run when outmatched. She has people, places, and things she needs to protect. She must stand, fight, and endure.*
 - Resplendent Water 23, RY768 - Athletics IV
+    *Flashback Advance: As a lone wanderer, it was fine to take the long route, to avoid obstacles. But as a pack leader, a teammate, and a petty baron, there is often little time to waste. Meat has had to go right through, and with haste, many a barrier in her path.*
+- Descending Water 2, RY768 - Pain Tolerance (pp164)
+    *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the pangs that hollow you out and sap your strength.*
 - Descending Water 21, RY768 - Intelligence II
 - Descending Water 23, RY768 - Manipulation II
 - Ascending Wood 21, RY768 - Charisma III
+    *Flashback Advance: Meat has finally met an obstacle she can't punch: self-expression. Replaying her argument with Scrimshaw over and over and over again in her head, she hunted for the words to make him understand her. That moment has long passed, but this time, she's more prepared to speak what she means, how she means it.*
     - is prereq for Charisma IV (112 days, 9 xp) (consider stunting)
         - is prereq for Moon-and-Earth Blessing (5 days, 9 xp) (pp177)
 
-### Combat Shortlist
-- Offense
-    - Frightening Voice (merit): can flurry threaten and atk at no penalties
-        - Hideous (merit): appearance bonus to threaten
-    - Entangling Limbs (merit): can flurry while grappling, gambit while savaging initiative DC -1
-    - Deadly Claw Blow (charm): passive, Str to melee
-    - Angry Rhino Charge (charm): passive, +1i when successfully rush or oppose disengage, Str to those rolls
-    - Ferocious Biting Tooth (charm): 2m, +2 overwhelming on withering or +2 extra success on decisive as damage, can do lethal bare-handed
-    - Grizzly Bear Embrace (charm): 2m, add grapple atk ex success on init roll, vs lower-init enemies (before cost) also add to control roll
-- Defense
-    - Steel Paw Style (charm): passive, Stm to parry
-    - Den Warden Method (charm): 3m, when Defend Other, they use your soak/hardness
-    - Mother Grizzly Attitude (charm): passive, can use Relentless Lunar Fury when pack member takes decisive, +1 parry vs attacks on allies being Defend Other'd
-    - Relentless Lunar Fury (charm): 5m, when take decisive, half all wound/crippling penalties round down, +1i when taking decisive, can't withdraw/non-combat-social/stop fighting
-- Utility
-    - Deadly Beastman Transformation (charm): 1m 1wp, +Str to raw withering dmg, dice to feats of str and movement actions, to natural soak, +1 Str to feats of str, -1 Def, no artifact resonance
+### Flashback Advancement Cooldowns
+.  Attributes                1/story
+.. Caste/Favored Attributes  2/story
+.  Abilities                 1/session
+.  Specialties               1/session
+.. Merit rating 1-3          2/story
+.  Merit rating 4-5          1/story
+.  Willpower                 1/story
+.  Charms                    1/session
+.  Favored charms            1/scene
+.  Evocations                1/session
+.  Spells                    1/session
+.  Spells (Occult Favored)   1/scene
 
 ### TODO
 - First Age incarnation, relation to Heaven's Love Threefold
 
 ### Lanaugages
 - High Realm
+- Old Realm
 
 ### Heart's Blood animals
 - Weak animals

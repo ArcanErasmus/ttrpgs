@@ -1,17 +1,19 @@
 # Combat planning
 attacking
-5+5+3 = 13 dice
-excellency +10
-stunt +2
+5 str
+5 brawl
+2 acc
+lvl 1 stunt +2
+=14 base
 
 damaging withering
-12+5 = 17 dice
-divine predator strike (1+[atk 10s], max 5)
-dbt +5
-chopping +3
+9 dmg
+5 str
+=14 base
 
 overwhelming
-1 = 1 dice
+1 wpn
+=1 base
 ferocious biting tooth +2
 silver claw +3
 
@@ -33,6 +35,32 @@ attack 25 dice +1 success
 damage 25 dice
 overwhelm 6 dice
 post-soak damage +1-5 (avg 3.3) dice
+
+the cheap attack, big fight
+
+**pay once, 14m 2wp:**
+- 13m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
+- 1m 1wp: +5 dice damage, deadly beastman transformation
+
+*Pay per attack (vs high defense), 4m:*
+- 2m: +(1-5) post soak damage, divine predator strike
+- 2m: +2 overwhelming, ferocious biting tooth
+
+atk 14+1=15
+dmg 14+3+5=22
+ovr 1+3+2=6
+psd 1+[0,4]=avg 2.5
+
+or
+
+*Pay per attack (vs low defense), 2m 1i -1def:*
+- 2m: +(1-5) post soak damage, divine predator strike
+- 1i -1def: +3 dice damage, chopping
+
+atk 14+1=15
+dmg 14+3+5+3=25
+ovr 1+3=4
+psd 1+[0,4]=avg 2.5
 
 # Custom Charms
 ## Claws of the Silver Moon, evocations
