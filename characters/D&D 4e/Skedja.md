@@ -41,26 +41,20 @@
 Inspiration: Kobeni Chainsawman
 - crybaby failgirl who gets unhinged as fuck when pushed too far
 
-Class
-- Artificer
-- "lazylord"
+Artificer/Warlord hybrid
+Genasi, voidsoul
 
-## Artificer style
-Race (+con and +int)
-* Genasi (good elemental choices)
-* Githyanki (teleport)
-- Hobgoblin (too tanky, bad)
-- Tinker Gnome (I don't like gnomes)
-- Warforged (too unfeeling)
+## BG
+Vilhon Wilds
+Early Life - Child Prodigy
+Martial - Guild Orphan
+Burglar
+Saved from the Noose
+Camp Follower
 
-- Genasi
-    - Voidsoul
-
-- Staff Expertise
-or
-- Rod Expertise
-
-
-obsidian
-onyx
-tourmaline
+### Forgotten Realms options
+Akanul
+Cormyr (General)
+Luruar
+Netheril
+Vilhon Wilds
