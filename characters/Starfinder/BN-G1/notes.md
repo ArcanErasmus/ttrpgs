@@ -1,15 +1,33 @@
 # BN-G1's Notes
 ## Logfile
-### Session 9 - 2024-03-26?future
+### Session 10 - 2024-04-09?future
+### Session 09 - 2024-03-26
 - We are finishing our approach to the Acreon
+    - It's an old ship
+    - Aft airlock is open to the void
+- Entering the aft airlock
+    - We are forced to fight our way through some weird void beasties!
+        - They are gross tentacley bitey things that carry diseases
+        - Also they can handle vacuum and zero grav easily
+- We have killed 4 of them and closed off the door to regroup
+    - Short rest, and level up to 2
+#### Level up!
+- Operative Exploit options
+    - Armor Optimizer (free armor upgrade slot)
+    - Combat Trick (combat feat)
+    - Field Treatment (1min spend resolve to 3hp/lvl)
+    - Holographic Clone (standard action 1/day summon 1d4 mirror images)
+    - Trap Spotter (bonus to detect traps, automatic check)
+    - Uncanny Mobility (if target trick atk before move, don't provoke from target, also std action moves don't provoke from one target)
+    - Without a Trace (any check opposed by a foe's perception check is at +2)
 
-### Session 8 - 2024-03-12
+### Session 08 - 2024-03-12
 - FIGHT! with surprise ship attacking us on our way to the Acreon
     - It is a "Necroglider", and seemingly somewhat autonomous
     - We blasted it up, and didn't even scratch our ship!
     - It drifted into the large rock towed behind the Acreon and blew up
 
-### Session 7 - 2024-02-20
+### Session 07 - 2024-02-20
 - Meeting with Gevalarsk Nor
     - Imperial checkpoint (to get into the Eye) gives us perfunctory hassle for having non-humans
     - Nor asks us to go to the Acreon on a chartered shuttle, bring a provided recording droid, find some info about what happened
@@ -28,7 +46,7 @@
 - Prepare for FIGHT!
     - Ship intercepting us appears to be of Eoxian make
 
-### Session 6 - 2024-02-06
+### Session 06 - 2024-02-06
 - Loot bodies
     - Lotta $$$ and guns
     - Shimani fails to interrogate the local leader(?), kills her carelessly instead
@@ -45,14 +63,14 @@
     - Historical friction with Republic, surprising amount of recent cooperation and geniality
 - We do some shopping and deposit loot in the hotel
 
-### Session 5 - 2024-01-09
+### Session 05 - 2024-01-09
 - FIGHT!!!
     - We save Shimani from getting laserforated!
     - Shimani and NU-R4 get regular-gun perforated
     - Coyote gets sledgehammered
     - We take down a pile of gang members and barricade ourselves in the office
 
-### Session 4 - 2023-12-12
+### Session 04 - 2023-12-12
 - We approach the meeting area, and after much fussing, are led to Jabaxa
     - Inquire about info on the Downside Kings, told "don't bother"
     - Jabaxa claims he sent a group to tail the DKs due to suspicious behavior, they opened fire when DKs started pulling weapons on crowd
@@ -70,7 +88,7 @@
     - Agon is going first bc he was preparing
     - (I was in-progress hacking, might try opening the door)
 
-### Session 3 - 2023-11-28
+### Session 03 - 2023-11-28
 - NU-R4 searching the SFS Archives for info about Hardscrabble Collective
     - Small, tight-knit group of asteroid miners with ships in the dozens
     - Operates primarily in local cluster
@@ -93,7 +111,7 @@
     - We talk to a grocer to arrange a meeting with someone named Jabaxa
 - We get distracted arguing about whether Shimani's ableism and droid racism
 
-### Session 2 - 2023-11-14
+### Session 02 - 2023-11-14
 - Time to loot the bodies before security arrives!
     - Acquired longer-range blaster from gang member
     - Acquired gold ring from Duravor
@@ -123,18 +141,13 @@
     - investor in Hardscrabble
     - cousin (member of Hardscrabble Collective) killed in a mining accident (caused by employer Astral Extractions)
 
-### Session 1 - 2023-10-17
+### Session 01 - 2023-10-17
 - We come to hangar bay 94 of Adarlon Station
     - We are here to deliver a supply of Bacta fluid to the Starfinder Society, a wide-spanning mercenary organization
     - A pair of gangs get into a fight with our contact, Duravor Kreel, in the middle
     - We wipe both sides of the gangs, only one escapes
         - Notable moments: Shimani is feral about killing, NU-R4 accessed the info terminal and called security
     - Our contact is dead
-
-### Session 2 - 2023-10-31?future
-- Looting the bodies will commence with limited time
-- Our contact is dead
-* NOTE: Listen to GLaDOS voice lines for inspiration
 
 ## Build notes
 ### Weapon upgrade ideas
