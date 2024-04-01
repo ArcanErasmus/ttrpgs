@@ -20,8 +20,8 @@ silver claw +3
 
 in total, the ultra attack
 
-pay once, 14m 2wp:
-- 13m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
+pay once, 6m 2wp:
+- 5m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
 - 1m 1wp: +5 dice damage, deadly beastman transformation
 pay per attack, 14m 1wp 1i -1def:
 - 1wp: +1 success attack, willpower
@@ -38,8 +38,8 @@ post-soak damage +1-5 (avg 3.3) dice
 
 the cheap attack, big fight
 
-**pay once, 14m 2wp:**
-- 13m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
+**pay once, 6m 2wp:**
+- 5m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
 - 1m 1wp: +5 dice damage, deadly beastman transformation
 
 *Pay per attack (vs high defense), 4m:*
@@ -157,6 +157,7 @@ Strength - Offense
 
 - Illimitable Beast Self MFS 59
 // 2 dots mutations on DBT use, choose which each time (also same buff to Perfected Hybrid Interaction)
+// TODO determine what the charm *actually* means
 
 Wits - Territory
 * Lair-Sculpting Beast MFS 65

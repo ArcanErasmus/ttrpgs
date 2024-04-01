@@ -3,12 +3,12 @@
 ╠════════════════════════════════╬════════════╤══════════════════════════════╤════════════╤════════╣
 ║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦♦∙∙∙  ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
-║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Total/Spent      ║
+║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 105/094 P│ 060/058 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 094/110 P│ 058/066 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
+║                                ║ Motes Ps/Ph│ 17[00]/17 │ 21[10]/42 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
@@ -87,12 +87,12 @@
 ║ P Betrayal is the highest sin                                                                    ║
 ║ P Groups are stressful                                                                           ║
 ║ P The pack comes first                                                                           ║
-║ + ?? (Pack Leader)                                                                               ║
 ║ - Nellens Ugan (Hatred)                                                                          ║
 ║ - Strangers (Distrust)                                                                           ║
 ║                                                                                                  ║
 ║ -Major-                                                                                          ║
 ║ P Cowardice is deplorable                                                                        ║
+║ P To fight is to live                                                                            ║
 ║ P Words are weak                                                                                 ║
 ║ + Mongrel (Fight-horny)                                                                          ║
 ║ + Mongrel (Makes sense)                                                                          ║
@@ -104,6 +104,7 @@
 ║ - House Nellens (Hatred)                                                                         ║
 ║ - River (Discomfort at soul bond)                                                                ║
 ║ - Schemers (Disgust)                                                                             ║
+║ - Scrimshaw (Disgust)                                                                            ║
 ║                                                                                                  ║
 ║ -Minor-                                                                                          ║
 ║ + Grace (Lust)                                                                                   ║
@@ -113,8 +114,8 @@
 ║ + Robot things (Respect for duty)                                                                ║
 ║ + The Cathedral Folk (Familiar)                                                                  ║
 ║ - Grace (Disdain)                                                                                ║
-║ - Grace (Envy of her effortless social competency)                                               ║
-║ - Scrimshaw (Disdain)                                                                            ║
+║ - River (Disdain)                                                                                ║
+║ - Scrimshaw (Frustration)                                                                        ║
 ║ - Siaka (Hostility)                                                                              ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
