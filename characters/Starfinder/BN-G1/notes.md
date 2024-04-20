@@ -1,6 +1,23 @@
 # BN-G1's Notes
 ## Logfile
-### Session 10 - 2024-04-09?future
+### Session 11 - 2024-04-23?future
+### Session 10 - 2024-04-09
+- (Temporarily picked Combat Trick -> Fleet as operative exploit)
+- Moving forward, we re-open the door
+    - Hall is empty but for corpses
+    - One corpse of a Lannic
+        - Looks to be torn apart by the weird monsters
+        - Has a shitty crude laser pistol
+        - Notably, not a member of Hardscrabble
+    - Checking the rooms, they look ransacked
+    - There is a trap on one of the boxes(?)
+- More void doggos
+    - We kill them
+
+- Good feats
+    - Diehard (stabilize and regain consciousness in same action)
+    - Diligent (+2 on take 10, +4 on take 20)
+
 ### Session 09 - 2024-03-26
 - We are finishing our approach to the Acreon
     - It's an old ship
@@ -15,6 +32,10 @@
 - Operative Exploit options
     - Armor Optimizer (free armor upgrade slot)
     - Combat Trick (combat feat)
+        - Fleet (+10ft speed, +5ft when encumbered)
+        - Improved Initiative (+4 init)
+        - Shield Proficiency
+        - Weapon Focus (+1 to hit with one type)
     - Field Treatment (1min spend resolve to 3hp/lvl)
     - Holographic Clone (standard action 1/day summon 1d4 mirror images)
     - Trap Spotter (bonus to detect traps, automatic check)
