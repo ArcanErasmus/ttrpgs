@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 094/115 P│ 058/070 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 103/120 P│ 071/074 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 17[00]/17 │ 21[10]/42 Perip  └──────────┴──────────╢
@@ -85,7 +85,8 @@
 ║ -Defining-                                                                                       ║
 ║ P Abusing animals is disgusting                                                                  ║
 ║ P Betrayal is the highest sin                                                                    ║
-║ P Groups are stressful                                                                           ║
+║ P Groups of strangers are stressful                                                              ║
+║ P I cannot trust that which I do not understand                                                  ║
 ║ P The pack comes first                                                                           ║
 ║ - Nellens Ugan (Hatred)                                                                          ║
 ║ - Strangers (Distrust)                                                                           ║
@@ -97,8 +98,9 @@
 ║ + Mongrel (Fight-horny)                                                                          ║
 ║ + Mongrel (Makes sense)                                                                          ║
 ║ + Mongrel (Packmember)                                                                           ║
-║ + River (Soul bond)                                                                              ║
-║ + Scrimshaw (Pity sympathy)                                                                      ║
+║ + Scrimshaw (Makes sense)                                                                        ║
+║ + Scrimshaw (Packmember)                                                                         ║
+║ + Scrimshaw (Sympathy)                                                                           ║
 ║ - Cities and towns (Hatred)                                                                      ║
 ║ - Grace (Soul bond)                                                                              ║
 ║ - House Nellens (Hatred)                                                                         ║
@@ -124,6 +126,8 @@
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
 ### Training Notes (Currently Resplendent Water 9, RY768)
+- Resplendent Water 12, RY768 - Appearance Charm (II/I), Smile Hides Everything
+    *Flashback Advance: ?*
 - Resplendent Water 13, RY768 - Awareness IV
     *Flashback Advance: Acclimation to an urban environment from a new angle. Predator, where she used to be prey. Hunting for angles of attack, as opposed to escape.*
 - Resplendent Water 22, RY768 - Willpower VI
@@ -132,12 +136,14 @@
     *Flashback Advance: As a lone wanderer, it was fine to take the long route, to avoid obstacles. But as a pack leader, a teammate, and a petty baron, there is often little time to waste. Meat has had to go right through, and with haste, many a barrier in her path.*
 - Descending Water 2, RY768 - Pain Tolerance (pp164)
     *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the pangs that hollow you out and sap your strength.*
+- Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
 - Descending Water 23, RY768 - Manipulation II
 - Ascending Wood 21, RY768 - Charisma III
     *Flashback Advance: Meat has finally met an obstacle she can't punch: self-expression. Replaying her argument with Scrimshaw over and over and over again in her head, she hunted for the words to make him understand her. That moment has long passed, but this time, she's more prepared to speak what she means, how she means it.*
     - is prereq for Charisma IV (112 days, 9 xp) (consider stunting)
         - is prereq for Moon-and-Earth Blessing (5 days, 9 xp) (pp177)
+- Resplendent Wood 9, RY768 - Dexterity III
 
 ### Flashback Advancement Cooldowns
 .  Attributes                1/story
@@ -175,7 +181,7 @@
     - Horned lizard
     - Impala
     - Otter
-    - Prarie falcon
+    - Prairie falcon
     - Pygmy owl
     - Raiton
     - Rat
@@ -199,7 +205,7 @@
     - Pestletail
     - Siege lizard (L)
 
-### Territories (0/3)
+### Territories (1/3)
 1. A blob of nature outside the walls, 20 sq mi
     - Qualities: Untamed, bountiful, exotic
 

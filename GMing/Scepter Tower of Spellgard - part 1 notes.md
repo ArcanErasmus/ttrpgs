@@ -81,3 +81,19 @@
 - Almost 40 years ago a wanderer named Kuryon came through searching for treasures. Found Saharel by accident, she told him something, and then he built the Monastery of the Precipice
 - Kuryon and his initiates have written down lore and philosophy in the slim book *The Analects of Kuryon* which speaks of the Lady's prophecies
 - The Analects was read by Thoran, a shadar-kai who was once an apprentice to a Shadowfell sage cabal. Thoran was exiled for stealing forbidden tomes from them, and decided to seek out the Lady and bind her for unlimited prophecy.
+
+# Campaign notes
+## Players
+- Caoimhe - Tara, Pixie Bard, LEADER/Controller (slave of Donny)
+- Chas - K'Kello, Human Invoker, CONTROLLER/Striker (worshiopper of ancient sun god)
+- Jay - Granz, Pixie Druid, CONTROLLER/? (looking for a way to save her home realm)
+- Sean - Thotham, Goliath Warden, DEFENDER/? (family are immigrants from near-thay, actually sensible people)
+- Talia - Glory, Warforged Warlock, STRIKER/Controller (thayan, patron is creator)
+
+## Session 1 - 2024-04-20
+- Players introduced to Donny, hooked on adventure with promise of loot and time pressure
+- Players interacted with Thurr Gargengrim
+- They ran around the yard, tried and failed the front door
+- Encounter with kobolds, wiped the floor with them (encounter 3, 4 partymembers, decisive victory where positioning choices led to a single member being bloodied, and that's it)
+
+## Session 2 - 2024-04-27

@@ -1,6 +1,24 @@
 # BN-G1's Notes
 ## Logfile
-### Session 11 - 2024-04-23?future
+### Session 12 - 2024-05-07?future
+### Session 11 - 2024-04-23 - SWITCH TO EotE SYSTEM
+- In the cockpit
+    - Open logfiles
+        - Asteroid contains low quality cortosis
+            - Cortosis has good heat transfer properties
+        - Crew found geodes on the asteroid rock
+        - Evil dogs came from geodes, hatched on their own once inside ship
+        - Crew also noted "something else" came from the rock
+        - Crew forced to abandon ship, possibly to towed rock
+    - BN-G1 unlocks functions
+        - Camera
+        - Life support
+        - Door control
+- Find two 'crewmembers', Dreb and Glen
+    - Interrogate them, determine they are scavs
+    - They draw guns when uncovered, we shoot them dead
+    - Body had evidence of their crimes, they attempted to scavenge the Acreon and failed
+
 ### Session 10 - 2024-04-09
 - (Temporarily picked Combat Trick -> Fleet as operative exploit)
 - Moving forward, we re-open the door

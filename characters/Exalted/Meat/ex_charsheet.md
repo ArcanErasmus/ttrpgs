@@ -103,6 +103,65 @@ Grimly determined to avoid the costs of failure, the Lunar will go any length to
 
 ### Think of more non-familiar animal charms
 
+# New charms v7 (Ess 2) + MFS
+Appearance - Influence
+- Lapdog's Quiet Reign MFS 34
+// Multi-target Glance Oration, extra bonus vs friendlies
+
+- Feral Smile Tactic 146
+// Cause fear
+    - Unbroken Predator Dominance MFS 35
+    // Wound penalties as bonus instead on fear rolls, extra bonus for Hideous
+
+- Argument-Eclipsing Shadow 146
+// Resist influence roll
+    - Reflection Gazes Back 146
+    // Counter read intentions with free influence
+        - Argent Muse Approach 150
+        // Silently support other's influence roll + free fear
+
+Charisma/Wits - Territory
+* World-Soul Awakening MFS 40
+// Gain evocations from territory, need not be in to use (refund xp if lose/change territory)
+
+Perception - Senses
+- Ever-Wary Fox Technique 235
+// Better senses
+    - Toppled Domino Foresight MFS 52
+    // Predict trajectories/motion, can get creative with it
+
+Perception - Mysticism
+- Perceiving the Hidden World 247
+// See spirits
+    - Spirit-Rending Fury 247
+    // Hit spirits
+        - Demon-Drinking Fang 247
+        // Obliterate spirits
+            - Shed Divinity's Nectar 248
+            // Eat spirits for benefits
+
+Stamina - Defense
+- Invulnerable Moonsilver Carapace 253
+// Artifact armor, pricey
+    - Argent Monster Evolution MFS 55
+    // Fast-use prereqs, instead gain initiative if used with DBT (all 3 = 16m 3wp, gain 2i)
+
+Stamina - Berserker
+- Ravening Beast Excitement MFS 57
+// Join Battle buff
+
+Strength - Offense
+- Guard-Shattering Pounce MFS 58
+// Extend onslaught penalty
+
+- Illimitable Beast Self MFS 59
+// 2 dots mutations on DBT use, choose which each time (also same buff to Perfected Hybrid Interaction)
+// TODO determine what the charm *actually* means
+
+Wits - Territory
+* Lair-Sculpting Beast MFS 65
+// "Discover" a change in territory's climate/geography/features
+
 # New charms v6 (Ess 2), Many-Faced Strangers edition
 Appearance - Influence
 - Lapdog's Quiet Reign MFS 34
@@ -135,7 +194,6 @@ Perception - Senses
     // Predict trajectories/motion, can get creative with it
 
 Stamina - Defense
-(Claws of the Silver Moon 269)
 (Invulnerable Moonsilver Carapace 253)
     - Argent Monster Evolution MFS 55
     // Fast-use prereqs, instead gain initiative if used with DBT (all 3 = 16m 3wp, gain 2i)
