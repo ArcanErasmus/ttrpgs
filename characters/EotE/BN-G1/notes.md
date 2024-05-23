@@ -1,13 +1,94 @@
 # BN-G1's Notes
 ## Logfile
-### Session 12 - 2024-05-07?future
+### Session 14 - 2024-05-21?future
+- TODO: Deal with CLR-47
+    - **BN-G1 MUST save this funky prototype friend, attempts to enforce subservience or sell/destroy WILL be met with violence**
+    - *Work on bootstrapping sapience?*
+    - Kit out, or keep on ship?
+- TODO: Distribute gear
+    - Blaster Rifle (Agon)
+    - Heavy Blaster Pistol (?, NU-R4 or Coyote?)
+    - Vibro Knife (?, Agon or Coyote?)
+- TODO: Medical care for Coyote
+- TODO: Hack door
+- Reminder: Camera drone was blown up
+    - Might want to comms from ship
+    - Grab broken droid to return?
+    - Salvage droid?
+
+### Session 13 - 2024-05-14
+- Obligation threshold rolled (Coyote), -1 strain threshold
+    (Reset to 13 at end of sesh)
+- We are approaching the drift rock
+    - Observations
+        - It is sheared in half from some other portion
+        - It has no asteroid impact craters
+- Rocky overhang that leads to a cave entrance into the asteroid
+    - *Boost* going forward related to this observation
+- We enter the cave and take the left branch (NE)
+    - We find one corpse with markings of Acreon crew
+        - Encounter suit is intact, suggesting did not get attacked
+    - We find a reanimated-looking corpse, walking around with a smashed faceplate
+        - Fight! It tries to bite and claw Agon
+        - Its tentacle-"tongue" is the same color/texture as the void dogs
+    - North passage leads to a secret entrace
+- East passage leads to another cavern room
+    - Fight 2 more corpse dudes
+    - North passage leads to a collapsed hallway
+- South passage leads to another cavern room
+    - Southern door has a display and control panel in alien language
+        - Designer uninterested in languages other than their own
+        - This system is very old (1000s of years)
+- The failgirls (Coyote, Shimani) backtrack northwest and go south into a new room
+    - Fight! There is a terrifying droid with a blaster and a shield!
+    - The failgirls get shot to heck
+    - Shimani disables its shield, Agon disarms it, the droids hack and take over its systems
+- CLR-47 info
+    - Directives: Find and kill investigators, then jump into space and deactivate
+    - Programmed/designed to be picked up later at rescuers' convenience
+    - Was the pilot for the fighter that attacked on the way in, and sat in ambush
+    - Prototype assassin droid, unclear who made or hired it
+- +20 xp, spent 25, total: 0/225
+    - 10, [Specialization] Grit x2
+    - 15, [Specialization] Natural Programmer
+
+### Session 12 - 2024-05-07
+- Obligation threshold rolled (Coyote), -1 strain threshold
+    (Reset to 12 at end of sesh)
+- We check out the storage room
+    - Was previously trapped, disarmed by Agon's face
+    - Shimani has a poke around, finds emergency medpack and 2 stimpacks
+        - Also resinous shards from the hatched geode-eggs
+        - Also a Disruptive Energy Weapon Augmenter
+- Other storage room investimigating
+    - The girlfailures (Shimani, Coyote) see nothing
+    - The it/its (this unit) finds a flamey boi under the bed ("Firecaller Light Flame Projector")
+- Third storage room pokin around
+    - Storage crate, Shimani says it contains a lifeform
+    - This unit loopadoops the camera drone feed so we can get curious
+    - Storage crate contains a carbonite slab of a woman
+        - Late 20s, slave dancer outfit, though expression is calm, not in pain
+        - Hutt slave outfit
+        - Faint impression of a tattoo, placed by Rorga Fyvva; the Hutt lord overseeing Tol Amn
+- We drag the crate back to the transport ship, on a hoversled
+    - While there, we do a medical inspection of the infected members
+        - No full diagnosis, but: Not transmissable, worsening but slowly
+        - Doctor's orders: Find a real doctor (eventually)
+- We head out towards the asteroid
+- +15 xp, spent 25, total: 5/205
+    - 5, [Skill] Knowledge: Education 0->1
+    - 5, [Specialization] Bypass Security x1
+    - 5, [Specialization] Street Smarts x1
+    - 5, [Specialization] Grit x1
+    - 5, [Specialization] Defensive Slicing x1
+
 ### Session 11 - 2024-04-23 - SWITCH TO EotE SYSTEM
 - In the cockpit
     - Open logfiles
-        - Asteroid contains low quality cortosis
+        - Scans showed no notable deposits on asteroid
+        - Spacewalking discovered geodes that scan as low quality cortosis
             - Cortosis has good heat transfer properties
-        - Crew found geodes on the asteroid rock
-        - Evil dogs came from geodes, hatched on their own once inside ship
+            - Evil dogs came from geodes, hatched on their own once inside ship
         - Crew also noted "something else" came from the rock
         - Crew forced to abandon ship, possibly to towed rock
     - BN-G1 unlocks functions
@@ -18,6 +99,7 @@
     - Interrogate them, determine they are scavs
     - They draw guns when uncovered, we shoot them dead
     - Body had evidence of their crimes, they attempted to scavenge the Acreon and failed
+- +15 xp, total: 15/190
 
 ### Session 10 - 2024-04-09
 - (Temporarily picked Combat Trick -> Fleet as operative exploit)
