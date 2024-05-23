@@ -97,3 +97,10 @@
 - Encounter with kobolds, wiped the floor with them (encounter 3, 4 partymembers, decisive victory where positioning choices led to a single member being bloodied, and that's it)
 
 ## Session 2 - 2024-04-27
+- Talk to Malcolm, convince to let past (R1 bypassed, full xp)
+- Alert Franco but don't fight (he's confused abt where his backup went)
+    - will fight on return, has killed one of the initial 5
+    - Kalmo has joined Franco and his beetles
+    - Surrendered guards are too beat up to help unless fight gets super dire
+- Crossed R3 into R4, cleared out Borlem, drakes, and Kalmo's dogs
+    - Borlem unconscious (can be remanded to Malcom's care)
