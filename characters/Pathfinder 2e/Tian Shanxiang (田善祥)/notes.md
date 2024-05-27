@@ -14,6 +14,38 @@
     - Description or art?
     - 
 
+## The party
+### Lin Xiuhua
+- Dhampir human, 18ish
+- Metal kineticist
+- Lives in the abandoned estate with me
+- Extreme people pleaser and rules follower
+- Worships Tsukiyo
+    - His quiet contemplative nature resonates with her
+    - He stands up for the ostracized and demonized
+
+### Bulan
+- Aasimar human, 18ish
+- Cleric of Pharasma
+    - ?
+- Lives in the temple to Pharasma
+- Was raised by the priestess, very cloistered and quite sheltered
+
+### Miho
+- Kitsune, 20-something
+- Armor inventor
+- Lives in a house somewhere?
+- does x with her time?
+- Worships ???
+- What's her deal?
+
+### Mikazuki
+- Catfolk, 30ish
+- Cosmos oracle
+- Local delinquent and gamer
+- What she up to
+- Worship?
+
 ## BG
 ### Birth and early life
 - Birth name: Mahethadra, early name: Tian Sanniang (田三娘, "Third Sister")
@@ -148,7 +180,7 @@
 ## Townsfolk
 - Yong Wu-Xiu, female kitsune blacksmith
     - Ironworks inherited from father about a decade ago
-    - `talia's char` apprentices under her
+    - `talia's char` helps her out around the forge
 - Kum Soon-shong, male human veterinarian
     - Affable attitude, compassion for animals
     - Father of Meng-sung

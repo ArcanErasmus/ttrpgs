@@ -121,6 +121,10 @@
 ║ - Siaka (Hostility)                                                                              ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+### Plan for Caste
+- Charisma and Intelligence
+- This represents the areas where she recognizes the greatest need for growth. It would take a very long time for them to increase, but if she wants to pursue that journey the fastest, this is how. And even a small increase opens up new doors.
+- Manually fudge the in-progress training times for Intelligence II and Charisma III, and refund 1 xp for Charisma III.
 
 ### New Role Bonus
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
@@ -138,10 +142,11 @@
     *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the pangs that hollow you out and sap your strength.*
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
+    - is prereq for Intelligence III (12 weeks, 7 xp) (if caste: 4 weeks, 6 xp)
 - Descending Water 23, RY768 - Manipulation II
 - Ascending Wood 21, RY768 - Charisma III
     *Flashback Advance: Meat has finally met an obstacle she can't punch: self-expression. Replaying her argument with Scrimshaw over and over and over again in her head, she hunted for the words to make him understand her. That moment has long passed, but this time, she's more prepared to speak what she means, how she means it.*
-    - is prereq for Charisma IV (112 days, 9 xp) (consider stunting)
+    - is prereq for Charisma IV (16 weeks, 11 xp) (consider stunting) (if caste: 5 weeks, 9 xp)
         - is prereq for Moon-and-Earth Blessing (5 days, 9 xp) (pp177)
 - Resplendent Wood 9, RY768 - Dexterity III
 
