@@ -52,197 +52,6 @@
 - Wants her ex-wife (Elizeth Candora) back so bad
 *Heirloom Boon: One predictable silver piece and a dose of oil of potency*
 
-## BG
-### Birth and early life
-Born Tian Sanniang (田三娘, "Third Sister") in 6950 IC (4450 AR) to peasant farmers, she grew up with a busy mother and a father who had passed just after her birth. With her older sister having already moved out (and the first didn't survive infancy), Sanniang was often left to her own devices. She got into lots of trouble.
-
-Sanniang spent time getting into fights on the street, and poorly attempting to snatch purses. She was picked up by some toughs to act as hired muscle, but her scrawny and unintimidating nature did not lend itself to preventing fights from breaking out.
-
-Deciding she needed to leave town, where she was increasingly disliked and useless, Sanniang and her sparse few non-enemies (calling them "friends" would be a stretch) formed a bandit group in 6981 IC. They trekked between towns, attacking and slaughtering traveling wagons for money and valuables.
-
-After jumping a wagon that included a young child, Sanniang's buried moral qualms resurfaced with a vengance. No longer were her targets merely faceless wealthy travelers best parted from their money. One of her companions killed the child without hesitation, and Sanniang quietly split from the group in the night, in 6989 IC.
-
-After struggling through various unskilled labor jobs, Sanniang found herself in a similar line of work to before. An adventuring group, with the key difference being that they accepted only honest and law-abiding jobs. Sanniang would stay with this group for several years, from 7001 to 7006 IC, until her dissatisfaction with the career grew too much to bear. Their regular tasks were monster hunting and ruin scavenging, neither of which made any lasting impact on the world. And further, injuries were mounting. She had seen multiple deaths and many retired from lingering damage. It came to a head when she realized that she would be likely to reach the end of her first century at the current rate. After bringing up her concerns to the group, they parted ways amicably.
-
-Feeling disheartened, Sanniang returned home to see her mother. There, she found that her mother had been flourishing, having discovered a knack for plant magic. With her farming mostly taking care of itself, Sanniang's mother had become a popular social figure around town. She had immersed herself in multiple hobbies and social circles, and was a minor political figure. Their reunion was heartfelt, with her mother very happy to see that Sanniang was still alive. However, though her mother tried to dote on her, there was a large disconnect between them. Sanniang immersed herself in her studies, but struggled to connect to the different person her mother now was, and couldn't make meaningful inroads with her social life. With her feet back on the ground and a growing ennui, Sanniang departed from home in 7026 IC. She would remain on much closer terms with her mother, and send letters regularly from towns she passed through.
-
-Sanniang bounced between towns across Shenmen for a few decades, looking for her dream job. Something that would last longer than a scant handful of years, and let her make a permanent change for the better. Most gigs were too short, and the potential opportunities for better than that were hard to track down. Those that she could find tended to be out of date, or fell apart shortly after trying to get her foot in the door. But hope was not lost for Sanniang.
-
-One day in 7048 IC, she heard about a monastery that had been erected some seasons past, deep in the Specterwood. It was a couple decades old at this point, and Sanniang further dithered on whether to uproot what stability she had achieved in order to strike out again. When Sanniang did finally make the journey in 7055 IC, she feared that her worries had come to pass. The founding monk had passed the previous year, and the monks that had joined the monastery because of her were drifting away. However, there was still a small settlement nearby, which had been founded to support the monastery. Despite the monks leaving, the settlement showed no signs of breaking apart. So it was that Sanniang decided to stay and work there for some years, to think on her future and rebuild her travel fund.
-
-A fresh start in a new town, able to make a difference from its early days, felt like the time to redefine herself. So she took on a new given name, Tian Shanxiang (田善祥, "humane and auspicious"). Although it took many years to shake the feeling of being an outsider, the townsfolk welcomed her warmly. Shanxiang saw many pass through town over the years, but remained a single subsistence farmer. Contenting herself to follow in her mother's footsteps, she didn't see much significance when overworked parents started asking her for the occasional day of babysitting their child. Shanxiang took to the task with surprising ease, and it strongly resonated with her. That she could overcome her bloody past by giving back. That she could balance the terrible memory of being an accomplice to child murder, but putting her all into caring for others' children.
-
-It was around this point that Shanxiang found her faith. She had wanted, for some years now, to pray to Abadar. But his hard taboo against banditry scared her, as she feared she would be struck down for the blood on her hands. Finally ready to face her misdeeds head on, she begged Abadar for forgiveness. His response was spread out over the rest of the year, as more and more parents would ask her to take care of their children for a day, to take a burden off them. The message was clear: if Shanxiang wanted atonement, she could work for it.
-
-And work, she did. Over time, her daycare services would be expanded and formalized, and she would receive a stipend from the governor to make it official. For decades, "Momma Xiang" taught the children of Willowshore their letters and numbers. She showed them around town, and guided them through gardening, cooking, and cleaning. They would do crafts, go fishing, or simply spend the day playing together. A sign would be eventually hoisted, proclaiming in messy child-scrawled strokes "Momma Xiang's", and a crude drawing of a dog's head and some flowers.
-
-Shanxiang has amassed a large collection of artwork made by the children, letters written to her from them (or their parents), and especially drawings of the various pets that have been kept over the years. The current dog is a large pondering fluffy thing named Atou. As the class size slowly increased, the house would feel more cramped, the garden inadequate, and storage space very strained. So when Xiuhua offered Shanxiang to move in to her now-empty estate, in 7106 IC, Xiang could only bring herself to mutter flimsy polite refusals before accepting the new space.
-
-"Momma Xiang's" now proudly hangs over the estate's gates. The gates themselves have been left open for so long that the plants would need to be cleared away to close them. The large bedrooms and dining room have been converted to bunkhouses, crafts rooms, and storage. There is a fish pond on the grounds, besides the vegetable patches and herb garden. The old posh furniture and decorations have been mostly traded away for more practical pieces. There is a rowboat in the yard, sitting by the short footpath down to the creek. A plot has been set aside for a small greenhouse, but the materials have yet to be gathered. The structure of the stable remains, now used for mushroom farming. The library remains intact, full of as many books as Xiuhua could hide away before the family's exodus, plus Shanxiang's own collection.
-
-## Town places, W#
-1. Eternal Blaze Ironworks
-    - General purpose toolmaker
-    - Yong Wu-Xiu
-2. Willowshore Stables
-    - Veterinary facility
-    - Kum Soon-chong, Meng-sung
-3. Abadar Shrine
-    - 3ft limestone statue of Abadar holding a shovel and trowel
-    - Reportedly taken to Goka to invite Abadar's blessings before being ferried back here
-4. Graveside Manners
-    - Tombs hold urns of many early settlers, others buried here
-    - Herbalist shop is primary attraction
-    - You So-Jin
-5. Silvermist Lodges
-    - Two hunting lodge compounds in southern woods
-    - Elven-style organic architecture
-6. Matsuki Estate
-    - Tian-shu/Minkaian style estate built for two dozen
-    - Reportedly, outer walls were whitewashed with blessed limestone
-    - Matsuki Shou
-7. Thrice-Blessed Inn
-    - Former brothel, founded by three clerics of Kofusachi, Calistra, Shelyn
-    - Survived politics-forced shutdown by operating as an inn
-    - Mother Otis
-8. Milling Houses
-    - Two by water, three by wind, ten by people or draft animals
-    - Enough redundancy to survive shutdowns without food scarcity
-    - Operate at irregular hours
-    - Choe Chung-hu
-9. Nine Ear Shrine
-    - Mud-wall hut that looks like a grain storage
-    - 10ft deep basement containing a 15ft tall marble statue of a nine-tailed fox
-    - Basement walls have painted carvings depicting stories of Daikitsu
-    - Ba-Ming Ouh
-10. Lady of Souls
-    - Cathedral to Pharasma, built to reduce likelihood of undead uprising
-    - Graveyard
-    - Elizeth Candora
-11. Dawnstep Bridge
-    - It's a bridge
-    - Culturally in Shenmen, once a populace is considered town-sized, a lantern must always be lit at bridges, major crossroads, and entrances
-    - The Eternal Lantern
-        - Minor artifact, immovable object, everburning lantern
-        - Gifted to the town by Zhi Hui
-        - Stands at southern steps to the bridge
-    - There is one other mundane always-lit lantern in town somewhere
-12. Industrial District
-    - Businesses relating to materials extracted from the woods, set up by the lumber lords
-    - Workers ordered to continue by Governor Heh after lumber bosses left
-    - Only businesses still operating are:
-        - Cloud Paper House, paper mill
-        - Jadeite Essentials, distillery
-        - Rebel's Leatherworks, tannery
-    - Kwaka
-13. Woodraft Lake
-    - Created by the nearby dam, part of an effort by the first Governor to tame the river
-    - Provided more stable water flow, as well as wet storage for wood
-    - Construction submerged multiple homes and farmlands, as well as the shrine to Lady Nanbyo
-    - Lake itself is now treated as replacement shrine
-14. Willowshore Dam
-    - Constructed from marble, using precise engineering
-    - The wheel that operates it has a bell to alert people downriver
-15. Downtown Willowshore
-    - Hub of activity
-    - To the northeast is governor's home, which is also the bank/treasury
-    - South of the manor is the imperial barracks
-    - North is the stage for the weekly Shu Opera performance, part of the Seven-Colored Songbird theater
-    - Nearby is Treesparrow's Rest, one of the busiest businesses in town, grocery store
-    - Opposite the store is the Happy Kappa, the only public bathhouse in town
-    - Zheng Peng
-    - Kazuma Oono
-    - Nadoya Sanmi
-    - De-Ge Hua
-16. Luo and Laws
-    - Lung Wa's laws are full of contradictions after many revisions
-    - The lawyer's house has a vast library for legal documentation
-    - Luo Xi Yang
-17. Mercantile Street
-    - Newer businesses mostly found in two-storied red-brick buildings here
-    - Woodcarvers present in large numbers, and formed a guild to prevent lumber lords from playing them against each other
-    - Yun Mong-Un
-18. Second Best
-    - Store for gadgets and machinery
-    - Makes toys, farm tools, alchemical creations
-    - Huo Tian-Zhe
-19. The Hand of Spring
-    - Doctor provides more 'modern' treatments: acupincture, purified chemicals, surgery
-    - Townsfolk unused to this style of healing, but has gained a good reputation
-    - Damihansig Mababangloob
-20. Mother's Coil
-    - Tower of dark basalt erected literally overnight by Anjal of Thulsadus, an old nagaji wizard
-    - Anjal settled in Willowshore bc of the gentle weather
-    - They introduced the villagers to the concept of magic as something to be studied, though it's still formidable and unapproachable
-    - Anjal had only one apprentice, Jubei, a child left behind by unscrupulous merchants
-    - Andal passed away one year ago, adoptive daughter Jubei has taken over running the place
-21. The Ceiba-Duyue Exchange
-    - Trade office surrounded by warehouses, ordered built by Heh Shan-Bao
-    - Intended to expand the town's connection to the coastal fortress of Karahai
-    - Kim Gu-won
-22. Fisheries
-    - One of the primary food sources for Willowshore
-    - Locals traditionally raise the small catch in backyard pools, though they aren't yet big enough to be self-sustaining
-    - Zataku
-23. Dock
-    - Construction of the dam and lake required new docks further away
-    - New docks on the east edge of the Ceiba River, where it meets the Duyue
-    - Rajul Samudra
-24. The Mushroom House
-    - Remote brick house, grows mushrooms
-    - Also grows drugs and poisons, open secret
-    - Luda Bama
-25. The Cerulean Teahouse
-    - Created to serve the lumber bosses, who wanted exclusive treatment
-    - Established by aristocrat Qing Mai-Lai
-    - Business flourished quickly and died off equally so
-    - Changed focus first to catering, then to a storefront, then finally a bed and breakfast
-    - After Lung Wa's collapse and the lumber lords' flight, Mai-Lai called it quits
-    - Mai-Lai passed away the previous winter, it currently stands vacant and falling to ruin
-26. Abandoned Estates
-    - Former residence of the lumber lords
-    - Picked clean by townsfolk and left to rot
-    - Abandoned shrine to Desna in one of the estates
-27. The Leshy's Saloon
-    - With allied families keeping the lumber lords away, they built a tea farm business
-    - Business worked primarily through traveling merchants
-    - With the closure of the Cerulean Teahouse, they have picked up demand
-    - Recent focus on bespoke tea blends for individual local customers
-    - Mountain Summit Grass
-28. Bones of the Forgotten
-    - Grievous crimes are usually punished with exile, executions very rare
-    - The worst criminals would have a Mark of Crime tattooed into their scalp, then later their bones
-    - Bodies (local or otherwise) with a Mark of Crime can only be buried here
-29. The Great Willow
-    - Three local mountains
-    - Zhi Hui saw a notably ancient and large willow at the summit of the lowest peak
-    - The kodama kami of the tree became friends with Hui, and offered her advice that led to the Tan Sugi grove
-    - For offering this knowledge, the kodama is treated with reverence by locals and visiting pilgrims
-30. Spider Gate
-    - After the Night of Broken Blades, the people demanded a new lantern at the entrance to town to augment the Eternal Lantern
-    - Original plan was a tori gate or Tian-shu gateway to hang lanterns on, but an aristocrat offered a free stone guardian spider statue
-    - Everyone considers it basically the ugliest thing, but it's assumed to house a guardian spirit and treated accordingly
-    - Eventually adopted as village mascot, nicknamed "Ugly Cute", and villagers keep the lantern lit at all times
-X. Willowshore Hinterlands
-    - Duyue River is the largest regional waterway, Willowshore founded on the Ceiba River, one of its tributaries
-    - Dragonfly Creek, a shallower tributary, starts at the town and heads southwest to the Gorge of Fangs and Teeth, a stone quarry
-    - Gourd Lake, downriver to the east, provides excellent fishing, and many make offerings to the kappas dwelling in its depths and southern shores
-    - Green Silk Peak to the east (north of Gourd Lake), is the tallest point in the hinterlands, nearly 2000ft high
-    - The natural pair of sinkholes known as the Eyes of Fumeiyoshi, to the northwest, are barren pits where nothing grows and gritty water pools
-    - To the northeast is the burnt ruins of a roadhouse once known as Canary Inn, and a Hunter's Hut stands west of it at the head of the Duyue
-    - The ruins of Tan Sugi monastery sit to the northwest at the end of the trail known as Pilgrim's Path
-    - Wildlife and spirits are both abundant in the Specterwood, though the area near Willowshore is safer against ghosts and haunts
-    - Primary game: Deer and boar; Dangerous predators: black bears, wolves, giant stag beetles, giant spiders
-XX. Beyond the Hinterlands
-    - Central Northern Road: abandoned many years ago, terminates at the Moon Marsh wetland
-    - Eastern Northern Road: Connects Willowshore with numerous small distant villages and towns through Specterwood to the Gossamer Mountains
-        - Next closest settlement is Foxhollow, three days' travel away, and is even smaller
-    - Eastern Road: Leads to the trade fortress of Karahai, represents Willowshore's major economic link to the rest of Shenmen
-    - Northeastern Road: Leads to a farmstead on a bluff overlooking the Sea of Ghosts owned by a ruthless expat politician from Sze
-    - Northwest Trail: Old overgrown trail leads into the forest, few travel it today
-    - Southern Road: Long overland route that connects to better maintained roads and more populous places several days' travel away
-        - Most in Willowshore call it the "Apple Road", as it leads to a grove of wild apple trees
-
 ## Townsfolk
 - Heh Shan-Bao, male human governor
     - *Opinion: I approve of him far more than the previous ones. We speak regularly, but it's more of a business relationship. I see him as my boss, as he controls the stipend that I run my daycare on. I worry that ingratiating myself too much could lead to the townsfolk turning against me if his rule becomes tyrannical.*
@@ -419,6 +228,197 @@ XX. Beyond the Hinterlands
     - Clay pottery tea ware, tea leaves
 - W29. The Great Willow
     - Foraged foods and nonmetallic raw materials
+
+## Town places, W#
+1. Eternal Blaze Ironworks
+    - General purpose toolmaker
+    - Yong Wu-Xiu
+2. Willowshore Stables
+    - Veterinary facility
+    - Kum Soon-chong, Meng-sung
+3. Abadar Shrine
+    - 3ft limestone statue of Abadar holding a shovel and trowel
+    - Reportedly taken to Goka to invite Abadar's blessings before being ferried back here
+4. Graveside Manners
+    - Tombs hold urns of many early settlers, others buried here
+    - Herbalist shop is primary attraction
+    - You So-Jin
+5. Silvermist Lodges
+    - Two hunting lodge compounds in southern woods
+    - Elven-style organic architecture
+6. Matsuki Estate
+    - Tian-shu/Minkaian style estate built for two dozen
+    - Reportedly, outer walls were whitewashed with blessed limestone
+    - Matsuki Shou
+7. Thrice-Blessed Inn
+    - Former brothel, founded by three clerics of Kofusachi, Calistra, Shelyn
+    - Survived politics-forced shutdown by operating as an inn
+    - Mother Otis
+8. Milling Houses
+    - Two by water, three by wind, ten by people or draft animals
+    - Enough redundancy to survive shutdowns without food scarcity
+    - Operate at irregular hours
+    - Choe Chung-hu
+9. Nine Ear Shrine
+    - Mud-wall hut that looks like a grain storage
+    - 10ft deep basement containing a 15ft tall marble statue of a nine-tailed fox
+    - Basement walls have painted carvings depicting stories of Daikitsu
+    - Ba-Ming Ouh
+10. Lady of Souls
+    - Cathedral to Pharasma, built to reduce likelihood of undead uprising
+    - Graveyard
+    - Elizeth Candora
+11. Dawnstep Bridge
+    - It's a bridge
+    - Culturally in Shenmen, once a populace is considered town-sized, a lantern must always be lit at bridges, major crossroads, and entrances
+    - The Eternal Lantern
+        - Minor artifact, immovable object, everburning lantern
+        - Gifted to the town by Zhi Hui
+        - Stands at southern steps to the bridge
+    - There is one other mundane always-lit lantern in town somewhere
+12. Industrial District
+    - Businesses relating to materials extracted from the woods, set up by the lumber lords
+    - Workers ordered to continue by Governor Heh after lumber bosses left
+    - Only businesses still operating are:
+        - Cloud Paper House, paper mill
+        - Jadeite Essentials, distillery
+        - Rebel's Leatherworks, tannery
+    - Kwaka
+13. Woodraft Lake
+    - Created by the nearby dam, part of an effort by the first Governor to tame the river
+    - Provided more stable water flow, as well as wet storage for wood
+    - Construction submerged multiple homes and farmlands, as well as the shrine to Lady Nanbyo
+    - Lake itself is now treated as replacement shrine
+14. Willowshore Dam
+    - Constructed from marble, using precise engineering
+    - The wheel that operates it has a bell to alert people downriver
+15. Downtown Willowshore
+    - Hub of activity
+    - To the northeast is governor's home, which is also the bank/treasury
+    - South of the manor is the imperial barracks
+    - North is the stage for the weekly Shu Opera performance, part of the Seven-Colored Songbird theater
+    - Nearby is Treesparrow's Rest, one of the busiest businesses in town, grocery store
+    - Opposite the store is the Happy Kappa, the only public bathhouse in town
+    - Zheng Peng
+    - Kazuma Oono
+    - Nadoya Sanmi
+    - De-Ge Hua
+16. Luo and Laws
+    - Lung Wa's laws are full of contradictions after many revisions
+    - The lawyer's house has a vast library for legal documentation
+    - Luo Xi Yang
+17. Mercantile Street
+    - Newer businesses mostly found in two-storied red-brick buildings here
+    - Woodcarvers present in large numbers, and formed a guild to prevent lumber lords from playing them against each other
+    - Yun Mong-Un
+18. Second Best
+    - Store for gadgets and machinery
+    - Makes toys, farm tools, alchemical creations
+    - Huo Tian-Zhe
+19. The Hand of Spring
+    - Doctor provides more 'modern' treatments: acupincture, purified chemicals, surgery
+    - Townsfolk unused to this style of healing, but has gained a good reputation
+    - Damihansig Mababangloob
+20. Mother's Coil
+    - Tower of dark basalt erected literally overnight by Anjal of Thulsadus, an old nagaji wizard
+    - Anjal settled in Willowshore bc of the gentle weather
+    - They introduced the villagers to the concept of magic as something to be studied, though it's still formidable and unapproachable
+    - Anjal had only one apprentice, Jubei, a child left behind by unscrupulous merchants
+    - Andal passed away one year ago, adoptive daughter Jubei has taken over running the place
+21. The Ceiba-Duyue Exchange
+    - Trade office surrounded by warehouses, ordered built by Heh Shan-Bao
+    - Intended to expand the town's connection to the coastal fortress of Karahai
+    - Kim Gu-won
+22. Fisheries
+    - One of the primary food sources for Willowshore
+    - Locals traditionally raise the small catch in backyard pools, though they aren't yet big enough to be self-sustaining
+    - Zataku
+23. Dock
+    - Construction of the dam and lake required new docks further away
+    - New docks on the east edge of the Ceiba River, where it meets the Duyue
+    - Rajul Samudra
+24. The Mushroom House
+    - Remote brick house, grows mushrooms
+    - Also grows drugs and poisons, open secret
+    - Luda Bama
+25. The Cerulean Teahouse
+    - Created to serve the lumber bosses, who wanted exclusive treatment
+    - Established by aristocrat Qing Mai-Lai
+    - Business flourished quickly and died off equally so
+    - Changed focus first to catering, then to a storefront, then finally a bed and breakfast
+    - After Lung Wa's collapse and the lumber lords' flight, Mai-Lai called it quits
+    - Mai-Lai passed away the previous winter, it currently stands vacant and falling to ruin
+26. Abandoned Estates
+    - Former residence of the lumber lords
+    - Picked clean by townsfolk and left to rot
+    - Abandoned shrine to Desna in one of the estates
+27. The Leshy's Saloon
+    - With allied families keeping the lumber lords away, they built a tea farm business
+    - Business worked primarily through traveling merchants
+    - With the closure of the Cerulean Teahouse, they have picked up demand
+    - Recent focus on bespoke tea blends for individual local customers
+    - Mountain Summit Grass
+28. Bones of the Forgotten
+    - Grievous crimes are usually punished with exile, executions very rare
+    - The worst criminals would have a Mark of Crime tattooed into their scalp, then later their bones
+    - Bodies (local or otherwise) with a Mark of Crime can only be buried here
+29. The Great Willow
+    - Three local mountains
+    - Zhi Hui saw a notably ancient and large willow at the summit of the lowest peak
+    - The kodama kami of the tree became friends with Hui, and offered her advice that led to the Tan Sugi grove
+    - For offering this knowledge, the kodama is treated with reverence by locals and visiting pilgrims
+30. Spider Gate
+    - After the Night of Broken Blades, the people demanded a new lantern at the entrance to town to augment the Eternal Lantern
+    - Original plan was a tori gate or Tian-shu gateway to hang lanterns on, but an aristocrat offered a free stone guardian spider statue
+    - Everyone considers it basically the ugliest thing, but it's assumed to house a guardian spirit and treated accordingly
+    - Eventually adopted as village mascot, nicknamed "Ugly Cute", and villagers keep the lantern lit at all times
+X. Willowshore Hinterlands
+    - Duyue River is the largest regional waterway, Willowshore founded on the Ceiba River, one of its tributaries
+    - Dragonfly Creek, a shallower tributary, starts at the town and heads southwest to the Gorge of Fangs and Teeth, a stone quarry
+    - Gourd Lake, downriver to the east, provides excellent fishing, and many make offerings to the kappas dwelling in its depths and southern shores
+    - Green Silk Peak to the east (north of Gourd Lake), is the tallest point in the hinterlands, nearly 2000ft high
+    - The natural pair of sinkholes known as the Eyes of Fumeiyoshi, to the northwest, are barren pits where nothing grows and gritty water pools
+    - To the northeast is the burnt ruins of a roadhouse once known as Canary Inn, and a Hunter's Hut stands west of it at the head of the Duyue
+    - The ruins of Tan Sugi monastery sit to the northwest at the end of the trail known as Pilgrim's Path
+    - Wildlife and spirits are both abundant in the Specterwood, though the area near Willowshore is safer against ghosts and haunts
+    - Primary game: Deer and boar; Dangerous predators: black bears, wolves, giant stag beetles, giant spiders
+XX. Beyond the Hinterlands
+    - Central Northern Road: abandoned many years ago, terminates at the Moon Marsh wetland
+    - Eastern Northern Road: Connects Willowshore with numerous small distant villages and towns through Specterwood to the Gossamer Mountains
+        - Next closest settlement is Foxhollow, three days' travel away, and is even smaller
+    - Eastern Road: Leads to the trade fortress of Karahai, represents Willowshore's major economic link to the rest of Shenmen
+    - Northeastern Road: Leads to a farmstead on a bluff overlooking the Sea of Ghosts owned by a ruthless expat politician from Sze
+    - Northwest Trail: Old overgrown trail leads into the forest, few travel it today
+    - Southern Road: Long overland route that connects to better maintained roads and more populous places several days' travel away
+        - Most in Willowshore call it the "Apple Road", as it leads to a grove of wild apple trees
+
+## BG
+### Birth and early life
+Born Tian Sanniang (田三娘, "Third Sister") in 6950 IC (4450 AR) to peasant farmers, she grew up with a busy mother and a father who had passed just after her birth. With her older sister having already moved out (and the first didn't survive infancy), Sanniang was often left to her own devices. She got into lots of trouble.
+
+Sanniang spent time getting into fights on the street, and poorly attempting to snatch purses. She was picked up by some toughs to act as hired muscle, but her scrawny and unintimidating nature did not lend itself to preventing fights from breaking out.
+
+Deciding she needed to leave town, where she was increasingly disliked and useless, Sanniang and her sparse few non-enemies (calling them "friends" would be a stretch) formed a bandit group in 6981 IC. They trekked between towns, attacking and slaughtering traveling wagons for money and valuables.
+
+After jumping a wagon that included a young child, Sanniang's buried moral qualms resurfaced with a vengance. No longer were her targets merely faceless wealthy travelers best parted from their money. One of her companions killed the child without hesitation, and Sanniang quietly split from the group in the night, in 6989 IC.
+
+After struggling through various unskilled labor jobs, Sanniang found herself in a similar line of work to before. An adventuring group, with the key difference being that they accepted only honest and law-abiding jobs. Sanniang would stay with this group for several years, from 7001 to 7006 IC, until her dissatisfaction with the career grew too much to bear. Their regular tasks were monster hunting and ruin scavenging, neither of which made any lasting impact on the world. And further, injuries were mounting. She had seen multiple deaths and many retired from lingering damage. It came to a head when she realized that she would be likely to reach the end of her first century at the current rate. After bringing up her concerns to the group, they parted ways amicably.
+
+Feeling disheartened, Sanniang returned home to see her mother. There, she found that her mother had been flourishing, having discovered a knack for plant magic. With her farming mostly taking care of itself, Sanniang's mother had become a popular social figure around town. She had immersed herself in multiple hobbies and social circles, and was a minor political figure. Their reunion was heartfelt, with her mother very happy to see that Sanniang was still alive. However, though her mother tried to dote on her, there was a large disconnect between them. Sanniang immersed herself in her studies, but struggled to connect to the different person her mother now was, and couldn't make meaningful inroads with her social life. With her feet back on the ground and a growing ennui, Sanniang departed from home in 7026 IC. She would remain on much closer terms with her mother, and send letters regularly from towns she passed through.
+
+Sanniang bounced between towns across Shenmen for a few decades, looking for her dream job. Something that would last longer than a scant handful of years, and let her make a permanent change for the better. Most gigs were too short, and the potential opportunities for better than that were hard to track down. Those that she could find tended to be out of date, or fell apart shortly after trying to get her foot in the door. But hope was not lost for Sanniang.
+
+One day in 7048 IC, she heard about a monastery that had been erected some seasons past, deep in the Specterwood. It was a couple decades old at this point, and Sanniang further dithered on whether to uproot what stability she had achieved in order to strike out again. When Sanniang did finally make the journey in 7055 IC, she feared that her worries had come to pass. The founding monk had passed the previous year, and the monks that had joined the monastery because of her were drifting away. However, there was still a small settlement nearby, which had been founded to support the monastery. Despite the monks leaving, the settlement showed no signs of breaking apart. So it was that Sanniang decided to stay and work there for some years, to think on her future and rebuild her travel fund.
+
+A fresh start in a new town, able to make a difference from its early days, felt like the time to redefine herself. So she took on a new given name, Tian Shanxiang (田善祥, "humane and auspicious"). Although it took many years to shake the feeling of being an outsider, the townsfolk welcomed her warmly. Shanxiang saw many pass through town over the years, but remained a single subsistence farmer. Contenting herself to follow in her mother's footsteps, she didn't see much significance when overworked parents started asking her for the occasional day of babysitting their child. Shanxiang took to the task with surprising ease, and it strongly resonated with her. That she could overcome her bloody past by giving back. That she could balance the terrible memory of being an accomplice to child murder, but putting her all into caring for others' children.
+
+It was around this point that Shanxiang found her faith. She had wanted, for some years now, to pray to Abadar. But his hard taboo against banditry scared her, as she feared she would be struck down for the blood on her hands. Finally ready to face her misdeeds head on, she begged Abadar for forgiveness. His response was spread out over the rest of the year, as more and more parents would ask her to take care of their children for a day, to take a burden off them. The message was clear: if Shanxiang wanted atonement, she could work for it.
+
+And work, she did. Over time, her daycare services would be expanded and formalized, and she would receive a stipend from the governor to make it official. For decades, "Momma Xiang" taught the children of Willowshore their letters and numbers. She showed them around town, and guided them through gardening, cooking, and cleaning. They would do crafts, go fishing, or simply spend the day playing together. A sign would be eventually hoisted, proclaiming in messy child-scrawled strokes "Momma Xiang's", and a crude drawing of a dog's head and some flowers.
+
+Shanxiang has amassed a large collection of artwork made by the children, letters written to her from them (or their parents), and especially drawings of the various pets that have been kept over the years. The current dog is a large pondering fluffy thing named Atou. As the class size slowly increased, the house would feel more cramped, the garden inadequate, and storage space very strained. So when Xiuhua offered Shanxiang to move in to her now-empty estate, in 7106 IC, Xiang could only bring herself to mutter flimsy polite refusals before accepting the new space.
+
+"Momma Xiang's" now proudly hangs over the estate's gates. The gates themselves have been left open for so long that the plants would need to be cleared away to close them. The large bedrooms and dining room have been converted to bunkhouses, crafts rooms, and storage. There is a fish pond on the grounds, besides the vegetable patches and herb garden. The old posh furniture and decorations have been mostly traded away for more practical pieces. There is a rowboat in the yard, sitting by the short footpath down to the creek. A plot has been set aside for a small greenhouse, but the materials have yet to be gathered. The structure of the stable remains, now used for mushroom farming. The library remains intact, full of as many books as Xiuhua could hide away before the family's exodus, plus Shanxiang's own collection.
 
 # Session log
 ### Session 0?future - 2024-0?-??

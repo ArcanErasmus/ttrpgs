@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 103/125 P│ 071/076 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 129/130 P│ 071/080 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
-║  member or I suffer a betrayal ║ LimitTrack │ ▒▒▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 17[00]/17 │ 21[10]/42 Perip  └──────────┴──────────╢
+║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
+║                                ║ Motes Ps/Ph│ 17[00]/17 │ 26[08]/42 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
@@ -129,17 +129,20 @@
 ### New Role Bonus
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
-### Training Notes (Currently Resplendent Water 9, RY768)
+### Training Notes (Currently Resplendent Water 10, RY768)
+- Resplendent Water 11, RY768 - Stamina Charm (I/I), Ox-Body Technique
 - Resplendent Water 12, RY768 - Appearance Charm (II/I), Smile Hides Everything
     *Flashback Advance: ?*
 - Resplendent Water 13, RY768 - Awareness IV
     *Flashback Advance: Acclimation to an urban environment from a new angle. Predator, where she used to be prey. Hunting for angles of attack, as opposed to escape.*
+- Resplendent Water 13, RY768 - Appearance Charm (III/I), Lapdog's Quiet Reign
+- Resplendent Water 14, RY768 - Appearance Charm (IV/I), Perfect Symmetry
 - Resplendent Water 22, RY768 - Willpower VI
     *Flashback Advance: No longer is she able to cut and run when outmatched. She has people, places, and things she needs to protect. She must stand, fight, and endure.*
 - Resplendent Water 23, RY768 - Athletics IV
     *Flashback Advance: As a lone wanderer, it was fine to take the long route, to avoid obstacles. But as a pack leader, a teammate, and a petty baron, there is often little time to waste. Meat has had to go right through, and with haste, many a barrier in her path.*
 - Descending Water 2, RY768 - Pain Tolerance (pp164)
-    *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the pangs that hollow you out and sap your strength.*
+    *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the hunger pangs that hollow you out and sap your strength.*
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
     - is prereq for Intelligence III (12 weeks, 7 xp) (if caste: 4 weeks, 6 xp)
@@ -184,6 +187,7 @@
     - Greater roadrunner
     - Hedgehog
     - Horned lizard
+    - Horse
     - Impala
     - Otter
     - Prairie falcon

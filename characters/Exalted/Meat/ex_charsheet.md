@@ -105,9 +105,6 @@ Grimly determined to avoid the costs of failure, the Lunar will go any length to
 
 # New charms v7 (Ess 2) + MFS
 Appearance - Influence
-- Lapdog's Quiet Reign MFS 34
-// Multi-target Glance Oration, extra bonus vs friendlies
-
 - Feral Smile Tactic 146
 // Cause fear
     - Unbroken Predator Dominance MFS 35
