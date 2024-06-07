@@ -1,20 +1,45 @@
 # BN-G1's Notes
 ## Logfile
-### Session 14 - 2024-05-21?future
-- TODO: Deal with CLR-47
-    - **BN-G1 MUST save this funky prototype friend, attempts to enforce subservience or sell/destroy WILL be met with violence**
-    - *Work on bootstrapping sapience?*
-    - Kit out, or keep on ship?
-- TODO: Distribute gear
-    - Blaster Rifle (Agon)
-    - Heavy Blaster Pistol (?, NU-R4 or Coyote?)
-    - Vibro Knife (?, Agon or Coyote?)
+### Session 15 - 2024-06-18?future
+- TODO: Find Moriko
 - TODO: Medical care for Coyote
-- TODO: Hack door
 - Reminder: Camera drone was blown up
     - Might want to comms from ship
     - Grab broken droid to return?
     - Salvage droid?
+
+### Session 14 - 2024-06-04
+- Obligation threshold NOT rolled (for once)
+- Dealing with CLR-47 ("Clara")
+    - BN-G1 plans a project to install an anti-memory-wipe backup system
+    - Coyote sends CLR-47 back to the ship
+- Gear was distributed
+- The droids hack the door open
+    - Proper shiny metal walls of this T-junction hallway
+    - Something approaches
+    - Machinery hums, clearly still active
+- An ancient security droid approaches around the corner
+    - Fight! We blast it and take a bunch of return fire
+- We head west, because Shimani senses less danger that way
+    - There is a wall panel that is a concealed hatch
+    - Corpse
+        - "Sunrise Maiden", "Moriko Nash"
+        - Appears to have been dead for about 50 years
+        - Moriko appears to have been an old human
+        - Cause of death: Self-inflicted gsw head
+        - The blaster 
+- Knowledge: The Sunrise Maiden
+    - Ship that went missing about 50 years ago when exploring the unknown regions
+    - Sunrise Maiden's last known location was quite a ways off from where the Acreon found the asteroid, but that's normal for explorer vessels
+- Moriko Nash's datapad recording
+    - Moriko was captain of SM
+    - Discovered weird asteroid, landed on it and explored it
+    - Was attacked by a "ghost", unable to hurt it
+    - Modified her forcefield to block out the ghost, but knew she had limited power
+    - Left her ship to whoever finds the recording
+        - The legal dispute surrounding the asteroid makes this EXTRA complicated, because we found it but we were contracted by a neutral third party, etc etc
+    - Her appearance in the recording is way younger, so either she somehow survived for like 40 years in this asteroid, or the 'ghost' aged her body up
+- +15 xp, spent 0, total: 15/240
 
 ### Session 13 - 2024-05-14
 - Obligation threshold rolled (Coyote), -1 strain threshold

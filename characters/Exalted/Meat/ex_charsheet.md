@@ -103,6 +103,15 @@ Grimly determined to avoid the costs of failure, the Lunar will go any length to
 
 ### Think of more non-familiar animal charms
 
+# New charms v7 (Ess 3)
+Perception - Senses
+* Soul's Eclipse Unity
+// Always know of Solar mate's physical/emotional distress
+
+Wits - Resolve
+* Moon-Follows-Sun Assurance
+// Protect Ties to Solar mate, both gain bonuses on strengthening tie
+
 # New charms v7 (Ess 2) + MFS
 Appearance - Influence
 - Feral Smile Tactic 146

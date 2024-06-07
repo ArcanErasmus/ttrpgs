@@ -131,7 +131,7 @@
 
 ### Training Notes (Currently Resplendent Water 10, RY768)
 - Resplendent Water 11, RY768 - Stamina Charm (I/I), Ox-Body Technique
-- Resplendent Water 12, RY768 - Appearance Charm (II/I), Smile Hides Everything
+- Resplendent Water 12, RY768 - Appearance Charm (II/I), Argument-Eclipsing Shadow
     *Flashback Advance: ?*
 - Resplendent Water 13, RY768 - Awareness IV
     *Flashback Advance: Acclimation to an urban environment from a new angle. Predator, where she used to be prey. Hunting for angles of attack, as opposed to escape.*
