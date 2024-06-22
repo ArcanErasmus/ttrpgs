@@ -1,109 +1,18 @@
-# Combat planning
-attacking
-5 str
-5 brawl
-2 acc
-lvl 1 stunt +2
-=14 base
+# New charms v8 (Ess 3)
+Appearance - Influence
+- Argument-Eclipsing Shadow 146
+// Resist influence roll
+    - Reflection Gazes Back 146
+    // Counter read intentions with free influence
+        - Argent Muse Approach 150
+        // Silently support other's influence roll + free fear
+            * Hope-Renewing Gesture
+            // Break mental influence over someone, auto success vs solar mate
 
-damaging withering
-9 dmg
-5 str
-=14 base
+Appearance - Subterfuge
+* Smile Hides Everything MFS 35
+// Appearance instead of Manipulation to Guile, 1m to make 1's subtract
 
-overwhelming
-1 wpn
-=1 base
-ferocious biting tooth +2
-silver claw +3
-
-
-in total, the ultra attack
-
-pay once, 6m 2wp:
-- 5m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
-- 1m 1wp: +5 dice damage, deadly beastman transformation
-pay per attack, 14m 1wp 1i -1def:
-- 1wp: +1 success attack, willpower
-- 10m: +10 dice attack, excellency
-- 2m: +(1-5) post soak damage, divine predator strike
-- 2m: +2 overwhelming, ferocious biting tooth
-- 1i -1def: +3 dice damage, chopping
-
-effects
-attack 25 dice +1 success
-damage 25 dice
-overwhelm 6 dice
-post-soak damage +1-5 (avg 3.3) dice
-
-the cheap attack, big fight
-
-**pay once, 6m 2wp:**
-- 5m 1wp: +1 dice attack, +3 dice damage, +3 overwhelm, claws of the silver moon
-- 1m 1wp: +5 dice damage, deadly beastman transformation
-
-*Pay per attack (vs high defense), 4m:*
-- 2m: +(1-5) post soak damage, divine predator strike
-- 2m: +2 overwhelming, ferocious biting tooth
-
-atk 14+1=15
-dmg 14+3+5=22
-ovr 1+3+2=6
-psd 1+[0,4]=avg 2.5
-
-or
-
-*Pay per attack (vs low defense), 2m 1i -1def:*
-- 2m: +(1-5) post soak damage, divine predator strike
-- 1i -1def: +3 dice damage, chopping
-
-atk 14+1=15
-dmg 14+3+5+3=25
-ovr 1+3=4
-psd 1+[0,4]=avg 2.5
-
-# Custom Charms
-## Claws of the Silver Moon, evocations
-### Shut Up
-- Cost: 2m 1wp; Mins: Essence 2
-- Type: Reflexive
-- Keywords: Withering only, Perilous
-- Duration: Instant
-- Prerequisites: None
-I hate when people complicate the truth with words. Shut up and fight me! When someone within close range tries to verbally speak, and has less initiative than me, I can reflexively make a withering attack against them. This attack does not reward me any initiative. If it hits, their words choke off after the first sound, and they cannot speak until the next round. If it crashes them, they cannot speak until they exit Initiative Crash. I can only use this evocation once per round.
-
-### Apex Predator's Unshakable Ego
-?
-
-## Invulnerable Moonsilver Carapace, evocations
-### ?
-
-## Universal
-### Moon's Reflection Recast
-- Cost —(+2m); Mins: Essence 3
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisites: Many-Faced Moon Transformation
-The Lunar aches to unbind others from their static forms. When in physical contact with a willing recipient that the Lunar has a Major or Defining positive tie towards, or is her Solar Bond, she can pay a 2-Mote surcharge when activating Many-Faced Moon Transformation. Doing so makes no changes to the Lunar's appearance, but instead lets the recipient choose to alter their shape as if they had used the Charm themselves. If they decide to conceal their identity with the transformation, either the recipient or the Lunar may make the disguise roll.
-
-### Share/grant mutations?
-
-## Stamina - Defense
-### Guardian's Final Duty
-- Cost 1m, 2i; Mins: Stamina 4, Essence 2
-- Type: Reflexive
-- Keywords: Dual, Perilous
-- Duration: Instant
-- Prerequisites: Den Warden Method or Mother Grizzly Attitude
-Grimly determined to avoid the costs of failure, the Lunar will go any length to insulate her charge from harm. When an ally the Lunar is protecting with a defend other action is hit by an attack, the Lunar may choose to take some of the damage on their behalf. For withering attacks, this transfers (her positive intimacy towards her ward plus her Essence) damage to her, and the attacker does not gain initiative for the transferred damage. For decisive attacks, this transfers (her positive intimacy towards her ward) damage, and this cannot be blocked by Hardness. In both cases, the damage she takes for her ward is the full amount, up to the damage dealt by the attack. The damage transferred may not be reduced or blocked by magic.
-
-## Wits - Animal Ken
-### Summon battlegroup of animals
-
-### Think of more non-familiar animal charms
-
-# New charms v7 (Ess 3)
 Perception - Senses
 * Soul's Eclipse Unity
 // Always know of Solar mate's physical/emotional distress

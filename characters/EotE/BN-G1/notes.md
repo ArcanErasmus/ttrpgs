@@ -1,12 +1,37 @@
 # BN-G1's Notes
 ## Logfile
-### Session 15 - 2024-06-18?future
-- TODO: Find Moriko
-- TODO: Medical care for Coyote
+### Session 15 - 2024-06-18
+- TODO: Medical care for Coyote and Shimani
+- TODO: BS the imperials that we are simply bringing the ship to the dump
+    - Possibly use the ship to smuggle out CLR-47 and the ex-slave girl
 - Reminder: Camera drone was blown up
     - Might want to comms from ship
     - Grab broken droid to return?
     - Salvage droid?
+- Obligation threshold rolled (Agon), -1 strain threshold
+    (Reset to 13 at end of sesh)
+- We analyze Moriko Nash's personal shield generator
+    - It's heavily degraded, but possible to see how it was modified
+    - We learn how to modify a shield similarly, which is supposed to make it harder for 'ghosts' to get through
+    - We learn similarly how to modify a blaster
+- Heading to the eastern wing
+    - Poke at computer panels
+        - This seems to be a violently disconnected chunk of a larger facility, with lots of functions inoperable
+        - Able to piece together the language, see systems labeled "backup power transmission", "maneuvering thrusters", "auxiliary fire control"
+        - Break into the system, learn some things
+            - Name of the ship/base thing, "The Stellar Degenerator"
+- Enter a hangar/landing bay looking area, there's a big ship
+    - Area is mostly rock wall
+    - Also two corpses that have been violently eviscerated
+    - Ship is in fact the Sunrise Maiden
+    - We fight a ghost thing!!!
+        - It corrodes or ages whatever it touches
+        - We blast it to death
+- Entering the corroded ship
+    - Seems the ghost took residence here, leeching the power out of the core
+    - Ship is heavily corroded but flyable
+- +10 xp, spent 10, total: 15/250
+    - 10, [Talent] Technical Aptitude x1
 
 ### Session 14 - 2024-06-04
 - Obligation threshold NOT rolled (for once)
@@ -74,8 +99,8 @@
     - Was the pilot for the fighter that attacked on the way in, and sat in ambush
     - Prototype assassin droid, unclear who made or hired it
 - +20 xp, spent 25, total: 0/225
-    - 10, [Specialization] Grit x2
-    - 15, [Specialization] Natural Programmer
+    - 10, [Talent] Grit x2
+    - 15, [Talent] Natural Programmer
 
 ### Session 12 - 2024-05-07
 - Obligation threshold rolled (Coyote), -1 strain threshold
@@ -102,10 +127,10 @@
 - We head out towards the asteroid
 - +15 xp, spent 25, total: 5/205
     - 5, [Skill] Knowledge: Education 0->1
-    - 5, [Specialization] Bypass Security x1
-    - 5, [Specialization] Street Smarts x1
-    - 5, [Specialization] Grit x1
-    - 5, [Specialization] Defensive Slicing x1
+    - 5, [Talent] Bypass Security x1
+    - 5, [Talent] Street Smarts x1
+    - 5, [Talent] Grit x1
+    - 5, [Talent] Defensive Slicing x1
 
 ### Session 11 - 2024-04-23 - SWITCH TO EotE SYSTEM
 - In the cockpit
