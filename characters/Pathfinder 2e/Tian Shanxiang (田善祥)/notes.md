@@ -1,6 +1,6 @@
 # Secret Elf Name: Mahethadra
 ## TODO
-2. Close Ties NPC
+1. Close Ties NPC
     - Yong Wu-Xiu, female kitsune blacksmith
     * Mother Otis, genderfluid half-elf innkeeper
     - Choe Chung-hu, male human miller
@@ -10,11 +10,10 @@
     - Huo Tian-Zhe, male human inventor
     * Damihansig Mababangloob, male human doctor
     - Mountain Summit Grass, agender leshy teamaker
-3. Pre-Willowshore backstory
-    - Write down here
-4. Art and token
+2. Art and token
     - Banner art
-*Heirloom Boon: ?*
+3. Heirloom boon
+    - *Heirloom Boon: ?*
 
 ## The party
 ### Lin Xiuhua
@@ -36,13 +35,14 @@
 *Heirloom Boon: Two minor healing potions and one piece of common adventuring gear (value 2gp)*
 
 ### Miho (short for Kumiho)
-- Kitsune, 20-something
+- Kitsune, 19-20
 - Armor inventor
-- Lives in a house somewhere? Lives with us maybe?
-- does x with her time?
-- Worships ???
-- What's her deal?
-*Heirloom Boon: ?*
+- Either lives in the Cat's Eye with Mika, or squats in the Cerulean Teahouse
+- Hangs out at the Eternal Blaze Ironworks
+    - Sometimes tries to one-up Huo Tian-Zhe
+- Agnostic grafitti artist and general prankster
+- Just showed up one day when she was around 5-6, and refuses to let anyone take care of her
+*Heirloom Boon: Supplies for an alarm snare, 10 sp, and two lesser ghost charges*
 
 ### Mikazuki
 - Catfolk, 30ish
@@ -421,4 +421,5 @@ Shanxiang has amassed a large collection of artwork made by the children, letter
 "Momma Xiang's" now proudly hangs over the estate's gates. The gates themselves have been left open for so long that the plants would need to be cleared away to close them. The large bedrooms and dining room have been converted to bunkhouses, crafts rooms, and storage. There is a fish pond on the grounds, besides the vegetable patches and herb garden. The old posh furniture and decorations have been mostly traded away for more practical pieces. There is a rowboat in the yard, sitting by the short footpath down to the creek. A plot has been set aside for a small greenhouse, but the materials have yet to be gathered. The structure of the stable remains, now used for mushroom farming. The library remains intact, full of as many books as Xiuhua could hide away before the family's exodus, plus Shanxiang's own collection.
 
 # Session log
+TODO: Acquire Pengpeng (鹏鹏)
 ### Session 0?future - 2024-0?-??
