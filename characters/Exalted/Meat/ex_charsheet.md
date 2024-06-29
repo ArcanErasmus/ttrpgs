@@ -1,13 +1,11 @@
 # New charms v8 (Ess 3)
 Appearance - Influence
-- Argument-Eclipsing Shadow 146
-// Resist influence roll
-    - Reflection Gazes Back 146
-    // Counter read intentions with free influence
-        - Argent Muse Approach 150
-        // Silently support other's influence roll + free fear
-            * Hope-Renewing Gesture
-            // Break mental influence over someone, auto success vs solar mate
+- Reflection Gazes Back 146
+// Counter read intentions with free influence
+    - Argent Muse Approach 150
+    // Silently support other's influence roll + free fear
+        * Hope-Renewing Gesture
+        // Break mental influence over someone, auto success vs solar mate
 
 Appearance - Subterfuge
 * Smile Hides Everything MFS 35
@@ -16,6 +14,9 @@ Appearance - Subterfuge
 Perception - Senses
 * Soul's Eclipse Unity
 // Always know of Solar mate's physical/emotional distress
+    (Perception - Senses)
+    - All-Seeing Guardian Vigil (also requires Heigtened Sense Method)
+    // Extend SEU to other characters
 
 Wits - Resolve
 * Moon-Follows-Sun Assurance
