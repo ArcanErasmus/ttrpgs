@@ -3,18 +3,18 @@
 ╠════════════════════════════════╬════════════╤══════════════════════════════╤════════════╤════════╣
 ║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦♦∙∙∙  ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
-║ Tell - Croc tail or skin       ║ Health     │ x  -4   -2 -1 -0             │ XP Spent/Total      ║
-║ Caste - Casteless              ║   Current  │ ♦ ♦♦♦ ♦♦♦♦ ♦♦ ♦♦             ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 129/135 P│ 071/084 E║
+║ Tell - Croc tail or skin       ║ Health     │ -0 -1     -2    -4 x         │ XP Spent/Total      ║
+║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦ ♦♦♦♦♦♦ ♦♦♦♦♦ ♦         ├──────────┬──────────╢
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 138/140 P│ 078/088 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 17[00]/17 │ 38[04]/42 Perip  └──────────┴──────────╢
+║                                ║ Motes Ps/Ph│ 00[00]/17 │ 31[00]/42 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
 ║ Strength     │ F ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ -Deadly Beastman-  │           ║
-║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘◘∙ │           ║ Venomous           │ 3         ║
-║ Stamina      │ F ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘∙∙ │           ║ Mighty Thew        │ 1         ║
+║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘·∙ │           ║ Venomous           │ 3         ║
+║ Stamina      │ F ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘◘∙ │           ║ Mighty Thew        │ 1         ║
 ╠══════════════╪══════════════╣ Brawl         │ ◘◘◘◘◘ │           ║                    │           ║
 ║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ -Hybrid Body-      │           ║
 ╟──────────────┼──────────────╢ Craft         │ ◘··∙∙ │           ║ Unusual Hide       │+4         ║
@@ -52,7 +52,7 @@
 ╟─────────────────────────────────────────────────╢ Dried salted meats and fruits                  ║
 ║ Athletics: Feats of Strength                    ║ Rope                                           ║
 ║ Awareness: Motion                               ║ Towel                                          ║
-║ Brawl: Natural Weapons                          ║ Kitty, "Cat"                                   ║
+║ Brawl: Natural Weapons                          ║ Kitty, "Heathcliff"                            ║
 ║ Presence: Intimidation                          ║                                                ║
 ║ Survival: Navigation                            ║                                                ║
 ║                                                 ║                                                ║
@@ -100,7 +100,7 @@
 ║ P To fight is to live                                                                            ║
 ║ P Words are weak                                                                                 ║
 ║ P I want to be heard                                                                             ║
-║ + Grace (Desire to understand)                                                                   ║
+║ + Grace (Desire to comfort)                                                                      ║
 ║ + Mongrel (Fight-horny and regular horny)                                                        ║
 ║ + Mongrel (Makes sense)                                                                          ║
 ║ + Mongrel (Packmember)                                                                           ║
@@ -116,6 +116,9 @@
 ║                                                                                                  ║
 ║ -Minor-                                                                                          ║
 ║ + Grace (Attraction)                                                                             ║
+║ + Grace (Desire to understand)                                                                   ║
+║ + Grace (Provisional packmember)                                                                 ║
+║ + Grace (Soul bond)                                                                              ║
 ║ + Hate-Evil Lotus (Maternal Comfort)                                                             ║
 ║ + Mongrel (Respect)                                                                              ║
 ║ + Mongrel (Worry for her actions)                                                                ║
@@ -126,7 +129,6 @@
 ║ + The Cathedral Folk (Familiar)                                                                  ║
 ║ - Cities and towns (Fear)                                                                        ║
 ║ - Grace (Discomfort)                                                                             ║
-║ - Grace (Soul bond)                                                                              ║
 ║ - Scrimshaw (Frustration)                                                                        ║
 ║ - Siaka (Hostility)                                                                              ║
 ║                                                                                                  ║
@@ -140,12 +142,15 @@
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
 ### Training Notes (Currently Resplendent Water 15, RY768)
+- Resplendent Water 18, RY768 - Perception Charm (II/I), Sense-Sharpening Change
+- Resplendent Water 22, RY768 - Socialize I
 - Resplendent Water 22, RY768 - Willpower VI
     *Flashback Advance: No longer is she able to cut and run when outmatched. She has people, places, and things she needs to protect. She must stand, fight, and endure.*
 - Resplendent Water 23, RY768 - Athletics IV
     *Flashback Advance: As a lone wanderer, it was fine to take the long route, to avoid obstacles. But as a pack leader, a teammate, and a petty baron, there is often little time to waste. Meat has had to go right through, and with haste, many a barrier in her path.*
 - Resplendent Water 28, RY768 - Pain Tolerance (pp164)
     *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the hunger pangs that hollow you out and sap your strength.*
+- Descending Water 9, RY768 - Integrity III
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
     - is prereq for Intelligence III (12 weeks, 7 xp) (if caste: 4 weeks, 6 xp)
