@@ -1,20 +1,198 @@
 # Salvage
 valuables
-- pile of old leaflets and maps
-- 2 gold lamps
-- 6 gold pens
-- 6 crystal jugs of pre-disaster whiskey
-- 14 containers of old coffee
-- many many many boxes of candy bars
-- 98 packs of nice cigarettes
-- 20 boxes of nice cigars
-- half a kg of pure cocaine
-- $650 old loose cash
+- Pile of old leaflets and maps
+- A bunch of gold lamps
+- A bunch of gold pens
+- Many crystal jugs of pre-disaster whiskey
+- Containers of old coffee
+- Many many many boxes of candy bars
+- A ton of packs of nice cigarettes
+- Many boxes of nice cigars
+- cocaine
+    - half a kilo
+    - small baggy
+- $2300 old loose cash
 - $300 of blood soaked loose cash
-- Military ID of Sam Adleson
-- 60 western costume clothing outfits
+- Military ID: Sam Adleson, UA Coast Guard
+- VIP ID (from Susan Bones)
+- VIP ID (from William Bones)
+- VIP ID (from dead person in airlock)
+- Employee ID: William Bones, R&D Division 312
+- A ton of western costume clothing outfits
+- Susan Bones's credit card
+- Six bottles of prescription opiates
 Sabrina's souvenirs
 - 1 opened container of old coffee
+
+## Session 6!future - 2024-06-30
+Start: Group splitting off into pairs
+    - Bedelia and Ellaria head to the Inn to handle PA/RD/NR and talk to the androids
+    - Barber and Sabrina head off to find a way into the staff elevator in one of the houses and look for the status of the VIPs
+The Plan:
+    1. Make it to the Inn, tell PA/RD/NR to misdirect the Ringo crew about us and cut them off from the staff rooms
+    2. Get to the medical elevator in one of the houses in Silverton
+    3. Evacuate as many of the android staff as possible (Sabrina thinks this is not happening), bringing them and any VIPs up through the first floor and out to our ship
+    4. Fly around to the Ringo ship or otherwise climb their rappel lines up to it, steal it, and leave the Ringo crew trapped here
+
+## Session 5b (post dinner) - 2024-06-29
+- We return to the ground floor with the power now on
+    - Ragtime playing over speakers
+    - "Ventilation", "Climate Control", "Security", "Climate Control (Silverton)" are now on
+- Return to The Junction
+    - On the way, the employee door's control panel lights up as we pass
+    - The vents all open up to show a pair of vaccuum snake bots slide out and start cleaning up the dust
+- Sabrina talking to PA/RD/NR
+    - "12 years 8 months 13 days 7 hours out of date", cannot connect to central to update
+    - It asks us to find an employee
+- We continue our conversation in the lobby, Bedelia talking
+    - Bedelia acts as an employee
+    - We learn this facility had another Bedelia
+    - PA/RD/NR is honestly really friendly and not stressed out about things, understands our need to get VIPs out
+    - Can't be granted employee access, but can be granted access to Observation and Canteen
+    - Answers both to Weyland-Yutani and UA
+    - R&D ID requires facial verification
+    - PA/RD/NR unlocks the staff side rooms
+    - Stands for "Production Administrator/Research & Development/Neural Repository"
+    - There are in fact animals on B2 (Silverton)
+    - Access to B3 is found in the Houses of Silverton
+- North entrance (in Main Lobby)
+- Observation
+    - We see cameras of this floor
+    - Tons of filing cabinets of records
+        - Floor plan schematics for this floor ("floor B1")
+        - Floor plan schematics for the third floor down ("floor B3")
+- Canteen
+    - Already ransacked
+        - Sealed doors implies it was looted during the 3 month period of data loss
+- We head down to the second floor, using the central elevator
+    - More wild west aesthetics, UA national anthem, train ride videos, whistle blast, smellovision gunsmoke and tobacco
+    - Enter into the decontamination showers, then pressurization, then second decontamination, then dressing
+    - In the vacc suit room there are six good vacc suits
+        - I brought 2 from the intake so now there are 8 for exfil
+        - Pockets don't have VIP cards but do have cash
+        - One old Rolex
+    - We dress in period clothes (to not spook the active androids)
+- Exiting the facility we see an embankment in front of us with a path leading over it
+    - Looking back is a giant fiber optics panel that brings sunlight from aboveground, that makes a convincing skyline from the ridge above
+    - We see, unmistakably, a hovercraft parked above. THE RINGO CRAFT
+    - We make a plan:
+        1. Make it to the Inn, tell PA/RD/NR to misdirect the Ringo crew about us and cut them off from the staff rooms
+        2. Get to the medical elevator in one of the houses in Silverton
+        3. Evacuate as many of the android staff as possible (Sabrina thinks this is not happening), bringing them and any VIPs up through the first floor and out to our ship
+        4. Fly around to the Ringo ship or otherwise climb their rappel lines up to it, steal it, and leave the Ringo crew trapped here
+- Cresting the hill and looking out to the town
+    - Dry grassy landscape and buildings, few trees
+    - Horses and cattle in a pen
+    - Hear a gasp: Young lady collecting flowers off the embankment
+- Talking to an android lady, Maria
+    - Group decides to split off into pairs
+
+## Session 5a - 2024-06-29
+- We open with a poker game for Ringo crew
+    - Zeal cleans house, but gives back her winnings and reveals she was cheating for giggles
+- The open doorway, south-west corner
+    - Branches in all 4 directions: North is costume room, east is back to the lobby, south continues down the hall, west is a door that looks like a saloon
+- West 'saloon' door (later identify as "Inn #1")
+    - Wooden veneer over steel, painted to look like saloon doors but full sized
+    - Keycard access but unpowered and already unlocked
+    - Kick up dust on entrance
+    - Looks like a period saloon except for kitchen fridge/freezer setup
+    - Wallpaper looks like it contains bullet holes, hand-painted even
+        - Absolutely immaculate decoration and conditions
+    - Bathroom and bedroom (2 queen beds)
+    - Something under covers of south bed
+        - It's a human corpse, no suit, dessicated and moldy, wearing loungewear (hoodie, sweats)
+        - Body looks like they just died, no injuries
+        - Barber knows: Asphyxiation, possibly tired and laid down because of ox deprivation, or already asleep, and passed
+        - Lungs are FULL of mold spores
+            - Was the mold here before the calamity?
+            - ID: Susan Bones, VIP, born 2133
+    - Bathroom is empty, water evaporated
+        - Trashcan has strong opiates prescribed to Susan Bones
+    - Cabinets and drawers
+        - Fridge has rotten food
+        - Dry foods have been cleaned out, only trash remains
+    - 2nd bedside table
+        - Wallet
+            - ID: William Bones, from pic appears a sibling of Susan Bones, we have not found his body
+            - Employee ID: William Bones, R&D Division 312, feels heavier than you'd expect
+            - More cash
+        - Glass bottle with painted basic label, "Ether", empty
+            - Bottle is very tiny, but could have held 2-3 pills
+            - Bottom says "enjoy"
+    - Closets
+        - Street clothes on one side, period clothes on another
+- We continue south to the next intersection
+    - Branches: East hallway to huge open room, south hallway, west door that matches the saloon
+- East short hall to big room
+    - Large steam locomotive on stationary display tracks
+    - 3 elevator shafts, west and middle are closed, east is partially open
+        - East has a smashed looking car at the bottom, down like 40-50ft
+        - At top of shaft appears to be melted-together heap of metal
+    - Desk done up like a train station
+        - Panel on wall labeled with room names and buttons and a speaker, intercom
+            - "Main Lobby", "Inn [1,2,3,4]", "Observation", "Medbay", "Trauma Ward", "Canteen", "Sheriff's Office", "PA/RD/NR"
+            - Sabrina: "PA/RD/NR" reeks of AI to me
+            - Bedelia: Remembers this is an installation of some sort
+        - More gold-inlaid lamps and pens!
+        - Giant metal lockbox, "DANGER: FIREARMS, LIVE AMMO"
+            - Unlocked, six brand new .357s, lots of fully empty ammo boxes, clearly ransacked
+    - The train is one giant plastic mold
+        - Sabrina tries to burn it a little out of spite with her lighter
+            - THE DUST EXPLODES! Sabrina is badly burnt
+    - Center Elevator forced open
+        - Plush interior, aesthetic of a train car, large area
+        - Emptied snack and drink trash
+        - Two buttons: "Central train station" (on top), "Silverton" (on bottom)
+    - West Elevator forced open by us
+        - Cables leading down, car appears at the bottom
+- West 'saloon door', inn room #2
+    - door is slightly bent outwards, jammed
+    - Unjam it but cause spark, no explosion tho
+    - Full of rubble, covered in pitch black ash
+    - Burned debris crunches underfoot
+    - Large sharp metal shrapnel embedded in the door and walls, looks like knee-height explosion
+    - In one corner is the blackened corpse of something
+        - It's an animal
+        - Size of a black bear? A little bigger than a person, even a large person
+        - Ellaria: Bones don't match a familiar animal, but teeth are very unsettling
+    - Second corpse under the first
+        - It's a person
+        - By their left foot is a piece of leather boot hanging off
+- Inn room #3
+    - Empty, beds unmade, all cabinets opened, looks ransacked when already empty
+- Inn room #4
+    - More bullet holes than just the wallpaper art!    
+        - Looks like two people shooting in a cone vaguely at each other (or at something between them)
+    - No body but bloodstains and bullet holes on the bed
+    - Cabinets stocked but ransacked, except for food that was shot up
+        - Shootout happened while there were still supplies, ransacking happened later
+    - 3 used revolver speedloaders
+    - Bedside table has a bottle with a single pill of ether
+        - Bobby offers it to Sabrina, who TAKES IT!
+        - It's soft, tastes greasy and like smokey cinnamon
+- Access panel at end of hall with stuck half-open (slides up) door
+    - Red light peeking in from room
+    - Empty steel panel floors and walls
+    - "Main power breakers" sign with schematic of power supplies
+        - "Main power" blinking "inoperative"
+        - All other entries have no lights at all
+            - "Ventilation"
+            - "Climate Control"
+            - "Security"
+            - "Climate Control (Silverton)"
+    - "Nuclear" is a carving off to the side, blinking yellow
+        - "Cryogenics"
+        - "Medical"
+        - "Production"
+    - Floor hatch with ladder down
+- Taking the ladder down
+    - Stark tonal contrast between the cowboy silliness to the industrial machinery
+    - Small 5x5 room with lots of wires and pipes, leading down a tunnel
+        - Ellaria uses a pipe and fire blanket to build a replacement breaker bridge thing and jams it in
+        - Power returns with a small shower of sparks
+        - We hear music begin to play from above
+- 
 
 ## Session 4 - 2024-04-02
 - We decide to open the interior door
