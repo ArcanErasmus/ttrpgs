@@ -14,9 +14,10 @@ valuables
 - $2300 old loose cash
 - $300 of blood soaked loose cash
 - Military ID: Sam Adleson, UA Coast Guard
+- VIP ID (from Sam Adleson)
 - VIP ID (from Susan Bones)
 - VIP ID (from William Bones)
-- VIP ID (from dead person in airlock)
+- VIP ID (from dead woman in airlock)
 - Employee ID: William Bones, R&D Division 312
 - A ton of western costume clothing outfits
 - Susan Bones's credit card
@@ -24,15 +25,103 @@ valuables
 Sabrina's souvenirs
 - 1 opened container of old coffee
 
-## Session 6!future - 2024-06-30
-Start: Group splitting off into pairs
+## Session 6b (Ringo Time) - 2024-06-30
+- We blow the canyon up and enter through the smoldering ashes
+    - The doors are blown off, the Calamity Jane's ship is on its side
+    - We enter and talk to PA/RD/NR, who gives us staff access and a VIP card
+- We enter the lift heading down, with Vulture staying on comms from the observation room
+    - We grab the suits from the scrub room and pack them on our horses
+- BACK TO THE CALAMITY
+    - The crew ask about the sickness
+    - All six outsiders that were in town when the changes started, were either killed or transformed
+        - Ruby Sunday, Benjamin Sunday, William Bones, Susan Bones, Zelda Legend, one more
+    - Ruby is still unaccounted for
+    - Sam Adleson never came downstairs, and we know he arrived later
+    - The dead android outside was Beatrice
+    - Barber tells Sheriff that the Ringo don't know that the androids can hurt them
+- Preparations are made
+    - Assayer's Office is set up with TNT
+    - Hugh, Sarah, and Manuel head down into the tunnels after Sabrinacabra
+- RINGO TIME
+    - We charge in, grab Cassidy and disarm her
+    - Head for the Assayer's office bc Cassidy says they're holed up there
+    - Zeal splits off for the Inn
+    - Calamity crew blow up the Assayer's, Rienne and Gordon seriously injured
+    - Ellaria knifed (downed) by Zeal
+    - Barber shot (downed) by Rienne
+    - Rienne jumped by Ruby
+    - Cassidy (dead) impaled on a bull's horns by Gordon
+    - Zeal shot (downed) by Jeremiah
+    - Gordon shot (downed) by Jeremiah
+    - Ruby shot (dead) by Rienne
+- The cleanup?
+    - Gordon executed by the sheriff
+    - Rienne executed by the townsfolk
+- Bedelia starts to stabilize Ellaria
+    - Zeal is also there
+- Sabrina gunned down right as she tears off the door to the reactor room
+
+## Session 6 - 2024-06-30
+- Start: Group splitting off into pairs
     - Bedelia and Ellaria head to the Inn to handle PA/RD/NR and talk to the androids
     - Barber and Sabrina head off to find a way into the staff elevator in one of the houses and look for the status of the VIPs
-The Plan:
+- The Plan:
     1. Make it to the Inn, tell PA/RD/NR to misdirect the Ringo crew about us and cut them off from the staff rooms
     2. Get to the medical elevator in one of the houses in Silverton
     3. Evacuate as many of the android staff as possible (Sabrina thinks this is not happening), bringing them and any VIPs up through the first floor and out to our ship
     4. Fly around to the Ringo ship or otherwise climb their rappel lines up to it, steal it, and leave the Ringo crew trapped here
+- Approaching Silverton
+    - Settlement continues somewhat into the canyon
+    - Rolling desert hills to the south ("Mexico")
+    - Open grazing land and cattle to the west past Silverton
+- Maria warns us that some of the townsfolk might not be kind to strangers
+    - "Preacher Mortimer" is one to avoid or be polite to
+    - Might be some of the androids have started to lose their marbles?
+- Bedelia and Ellaria head to the inn
+    - Bedelia realizes her outfit signifies she's in a relationship, Ellaria says we will just roll with it
+    - Ellaria orders a totally definitely period bottle of IPA
+    - Vedelia reveals the existence of an android supremacist cult in town to Bedelia
+- Ellaria on floor 2
+    - Rooms set up to open to interior balcony level, or to exterior deck
+    - Asks PA/RD/NR to keep the following crew out of the staff areas
+- General store
+    - Samuel, store owner, pasty blonde boy, eyepatch and eye scar
+    - Cassidy, red hair, eyepatch and eye scar
+    - Jeremiah, dark hair, no eyepatch
+    - Sabrina breaks the news about the Ringo "bandits"
+- Sabrina splits off to the well
+    - Drinks herself silly on delicious, delicious water
+    - (house snooping?)
+- Cassidy leads Barber and Bedelia to the chapel
+    - Preacher Mortimer, looks kinda grumpy, has an eye scar and an odd eye (damaged? fake?)
+        - Limp, left leg injured?
+    - Interior of the church is rickety and simple, white paint on wood, maybe max capacity 30
+- Ellaria heads back to the inn
+    - Attempts to hack into neighboring rooms, lengthy process
+    - Hacking succeeds, enters room #2
+    - Room is shredded. Absolutely obliterated, dried blood everywhere, very dusty (regular dust)
+    - Huge sheets multiple feets wide of thin papery leathery stuff, almost like shedded snakeskin
+- Sabrina causes an incident
+    - Preacher shows up, sorta de-escalates
+    - It's becoming apparent that the eye scar relates to their ability to shoot
+- Ellaria checks inn room #1
+    - Rightmost bed is soaked through with dried blood
+    - Looks like 10 bullet holes through the bed where the torso and head would have been
+    - 1 dose of ether in a bottle
+    - Silver card: WY Engineering
+    - Couple doses of Naproleve
+    - 1 dose of Hydr8 in a bottle that held 32 bottles
+    - Baggie of white powder in the toilet tank
+        - Also a WY Employee ID: Ruby Sunday, R&D group 313
+- We head to the sheriff's office
+    - There is a tiny holding cell
+    - It looks damaged
+    - SABRINA HAS A FREAKOUT
+        - She is SO claustrophobic, and being trapped in this room
+        - The sheriff locks the door, the preacher says something judgemental, they try to corral her into the cell
+        - SABRINA TAKES HER ETHER AND BLOWS THE PREACHER'S HEAD OFF
+        - She dives out the window, takes a bullet from Ellaria, and flees towards the cemetery hill
+        - The infection has caught up to her, but with the Ether rebuilding her body she transforms
 
 ## Session 5b (post dinner) - 2024-06-29
 - We return to the ground floor with the power now on
