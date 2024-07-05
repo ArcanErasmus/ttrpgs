@@ -1,14 +1,14 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
 ║ Big Trouble in Little Creation ║ Meat, She/They                                                  ║
 ╠════════════════════════════════╬════════════╤══════════════════════════════╤════════════╤════════╣
-║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦♦∙∙∙  ║
+║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦♦♦∙∙  ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
-║ Tell - Croc tail or skin       ║ Health     │ -0 -1     -2    -4 x         │ XP Spent/Total      ║
-║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦ ♦♦♦♦♦♦ ♦♦♦♦♦ ♦         ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ·····                  │ 138/140 P│ 078/088 E║
-║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦                        ├──────────┼──────────╢
+║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
+║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/145 P│ 078/090 E║
+║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ♦                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 00[00]/17 │ 31[00]/42 Perip  └──────────┴──────────╢
+║                                ║ Motes Ps/Ph│ 18[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
@@ -26,20 +26,24 @@
 ╟──────────────┼──────────────╢ Lore          │ ···∙∙ │           ║ -Base-             │           ║
 ║ Perception   │   ◘◘◘◘◘∙∙∙∙∙ ║ Martial Arts  │ ···∙∙ │           ║ Exalted Healing    │ FREE      ║
 ║ Intelligence │   ◘····∙∙∙∙∙ ║ Medicine      │ ◘◘·∙∙ │           ║ Giant              │ 4         ║
-║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ║ Heart's Blood      │ 3         ║
-╠══════════════╧══════════════╣ Occult        │ ◘∙∙∙∙ │           ║ Toxin Resistance   │ 3         ║
-║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ║ Winter W/o Hibern  │ 3*        ║
-╟─────────────────────────────╢ Presence      │ ◘◘◘∙∙ │           ║ Boundless Endurnce │ 2         ║
-║ Human body lang confusing   ║ Resistance    │ ◘◘◘◘∙ │           ║ Frightening Voice  │ 2         ║
-║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Natural Shield     │ 2         ║
-║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Night Vision       │ 2         ║
-║                             ║ Socialize     │ ∙∙∙∙∙ │           ║ Tail               │ 2         ║
-║                             ║ Stealth       │ ◘◘·∙∙ │           ║ Ambidextrous       │ 1         ║
-║                             ║ Survival      │ ◘◘◘∙∙ │           ║ Cult               │ 1         ║
-║                             ║ Thrown        │ ···∙∙ │           ║ Deadly Weaponry    │ 1         ║
-║                             ║ War           │ ∙∙∙∙∙ │           ║ Fangs              │ 1         ║
+║ Wits         │   ◘◘◘◘·∙∙∙∙∙ ║ Melee         │ ·∙∙∙∙ │           ║ Pain Tolerance     │ 4         ║
+╠══════════════╧══════════════╣ Occult        │ ◘∙∙∙∙ │           ║ Heart's Blood      │ 3         ║
+║ Flaw                        ║ Performance   │ ·∙∙∙∙ │           ║ Plg-Rdn Mimicry    │ 3*        ║
+╟─────────────────────────────╢ Presence      │ ◘◘◘∙∙ │           ║ Toxin Resistance   │ 3         ║
+║ Human body lang confusing   ║ Resistance    │ ◘◘◘◘∙ │           ║ Winter W/o Hibern  │ 3*        ║
+║ Very poor vocabulary        ║ Ride          │ ∙∙∙∙∙ │           ║ Boundless Endurnce │ 2         ║
+║ Visibly Wyld-touched        ║ Sail          │ ∙∙∙∙∙ │           ║ Frightening Voice  │ 2         ║
+║                             ║ Socialize     │ ◘∙∙∙∙ │           ║ Natural Immunity   │ 2         ║
+║                             ║ Stealth       │ ◘◘·∙∙ │           ║ Natural Shield     │ 2         ║
+║                             ║ Survival      │ ◘◘◘∙∙ │           ║ Night Vision       │ 2         ║
+║                             ║ Thrown        │ ···∙∙ │           ║ Tail               │ 2         ║
+║                             ║ War           │ ∙∙∙∙∙ │           ║ Ambidextrous       │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Cult               │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Deadly Weaponry    │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Fangs              │ 1         ║
 ║                             ║               │ ∙∙∙∙∙ │           ║ Iron Stomach       │ 1         ║
 ║                             ║               │ ∙∙∙∙∙ │           ║ Pheremones         │ 1         ║
+║                             ║               │ ∙∙∙∙∙ │           ║ Strong Lungs       │ 1         ║
 ║                             ║               │ ∙∙∙∙∙ │           ║ Unusual Hide       │ 1         ║
 ║                             ║               │ ∙∙∙∙∙ │           ║                    │           ║
 ╠═════════════════════════════╩═══════════════╧═══╦═══╧═══════════╩════════════════════╧═══════════╣
@@ -70,10 +74,13 @@
 ║ Lapdog's Quiet Reign                            ║ Surging Thew Technique                         ║
 ║ Perfect Symmetry                                ║ Terrifying Ogre Alteration                     ║
 ║                                                 ║                                                ║
-║ -Stamina-                                       ║ -Wits-                                         ║
-║ Bear-Sleep Technique                            ║ Boundary-Marking Meditation                    ║
-║ Den Warden Method                               ║ Grudge-Nursing Resentment                      ║
-║ Durant Quicksilver Adaptation                   ║ Pack Instinct Affirmation                      ║
+║ -Perception-                                    ║ -Wits-                                         ║
+║ Sense-Sharpening Change                         ║ Boundary-Marking Meditation                    ║
+║                                                 ║ Grudge-Nursing Resentment                      ║
+║ -Stamina-                                       ║ Pack Instinct Affirmation                      ║
+║ Bear-Sleep Technique                            ║                                                ║
+║ Den Warden Method                               ║                                                ║
+║ Durant Quicksilver Adaptation                   ║                                                ║
 ║ Gifts of Protean Vigor                          ║                                                ║
 ║ Hero’s Heart Challenge                          ║                                                ║
 ║ Impenetrable Beast Armor                        ║                                                ║
@@ -141,15 +148,9 @@
 ### New Role Bonus
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
-### Training Notes (Currently Resplendent Water 15, RY768)
-- Resplendent Water 18, RY768 - Perception Charm (II/I), Sense-Sharpening Change
-- Resplendent Water 22, RY768 - Socialize I
-- Resplendent Water 22, RY768 - Willpower VI
-    *Flashback Advance: No longer is she able to cut and run when outmatched. She has people, places, and things she needs to protect. She must stand, fight, and endure.*
+### Training Notes (Currently Resplendent Water 22, RY768)
 - Resplendent Water 23, RY768 - Athletics IV
     *Flashback Advance: As a lone wanderer, it was fine to take the long route, to avoid obstacles. But as a pack leader, a teammate, and a petty baron, there is often little time to waste. Meat has had to go right through, and with haste, many a barrier in her path.*
-- Resplendent Water 28, RY768 - Pain Tolerance (pp164)
-    *Flashback Advance: On her own, there was no plenty, no guarantees. Many days were spent hunting while ravenous, powering through the cramps and weakness. A mere flesh wound has nothing on the hunger pangs that hollow you out and sap your strength.*
 - Descending Water 9, RY768 - Integrity III
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
