@@ -5,15 +5,15 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/145 P│ 078/090 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/150 P│ 078/092 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ♦                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 18[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
+║                                ║ Motes Ps/Ph│ 13[00]/18 │ 38[00]/46 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
 ║ Strength     │ F ◘◘◘◘◘∙∙∙∙∙ ║ Archery       │ ∙∙∙∙∙ │           ║ -Deadly Beastman-  │           ║
-║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘·∙ │           ║ Venomous           │ 3         ║
+║ Dexterity    │   ◘◘∙∙∙∙∙∙∙∙ ║ Athletics     │ ◘◘◘◘∙ │           ║ Venomous           │ 3         ║
 ║ Stamina      │ F ◘◘◘◘◘∙∙∙∙∙ ║ Awareness     │ ◘◘◘◘∙ │           ║ Mighty Thew        │ 1         ║
 ╠══════════════╪══════════════╣ Brawl         │ ◘◘◘◘◘ │           ║                    │           ║
 ║ Social       │ 3 Level      ║ Bureaucracy   │ ···∙∙ │           ║ -Hybrid Body-      │           ║
@@ -122,6 +122,7 @@
 ║ - Schemers (Disgust)                                                                             ║
 ║                                                                                                  ║
 ║ -Minor-                                                                                          ║
+║ + Dowager (Expect to be like Mongrel)                                                            ║
 ║ + Grace (Attraction)                                                                             ║
 ║ + Grace (Desire to understand)                                                                   ║
 ║ + Grace (Provisional packmember)                                                                 ║
@@ -148,9 +149,7 @@
 ### New Role Bonus
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
-### Training Notes (Currently Resplendent Water 22, RY768)
-- Resplendent Water 23, RY768 - Athletics IV
-    *Flashback Advance: As a lone wanderer, it was fine to take the long route, to avoid obstacles. But as a pack leader, a teammate, and a petty baron, there is often little time to waste. Meat has had to go right through, and with haste, many a barrier in her path.*
+### Training Notes (Currently Resplendent Water 23, RY768)
 - Descending Water 9, RY768 - Integrity III
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
