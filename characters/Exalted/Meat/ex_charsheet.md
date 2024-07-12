@@ -1,3 +1,13 @@
+# The Impossible Dream (charms without ability prerequisites met)
+Intelligence - Knowledge
+- Bone-Mending Technique (Intelligence 3)
+// Help someone heal way faster
+    - Flesh-Sculpting Art
+    // Do surgery super fast and can do cosmetic alterations
+Intelligence - Mysticism
+        - Sharing Luna's Gifts
+        // Grant self and others mutation dots
+
 # New charms v8 (Ess 3)
 Appearance - Influence
 - Reflection Gazes Back 146
