@@ -1,6 +1,6 @@
 # BN-G1's Notes
 ## Logfile
-### Session 15 - 2024-06-18
+### Session 16 - 2024-07-16 - END OF SEASON 1
 - TODO: Medical care for Coyote and Shimani
 - TODO: BS the imperials that we are simply bringing the ship to the dump
     - Possibly use the ship to smuggle out CLR-47 and the ex-slave girl
@@ -8,8 +8,36 @@
     - Might want to comms from ship
     - Grab broken droid to return?
     - Salvage droid?
+- Obligation threshold rolled (BN-G1), -2 strain threshold
+    (Reset to 14 at end of sesh)
+- Working on the Sunrise Maiden
+    - NU-R4 rigs it for silent running
+    - BN-G1 pokes around the computer, mainly just has exploration logs
+- We head back to the shuttle
+    - Move CLR-47 to the SM
+    - Thaw mystery lady out of carbonite
+- Talking to mystery lady
+    - Killed a Hutt's majordomo
+    - Was in carbonite for 5 years
+    - Force sensitive???
+    - Was last in Tol Amn (a planet in Hutt space)
+    - "Serina Varr"
+    - She and Shimani have an angst-off, turns out shes an Empire operative
+    - She promises to try to get us our bonus and not rat us out
+- We return on the shuttle
+    - The meatbags get dewormed, I get a lovely disinfecting
+    - Talking to Nor
+        - he's annoyed but pays out DA BONU$$$
+    - (600 + 500) a head (5500 total)
+- Back to our ship
+    - Varr decides to NOT tell on Shimani, instead misdirecting where she was last seen (-1 obligation)
+    - BN-G1 pulls a single server from the Sunrise Maiden
+    - Coyote gifts the SM to nearby Mandalorians (-3 obligation)
+- +25 xp, spent 0, total: 40/275
+
+### Session 15 - 2024-06-18
 - Obligation threshold rolled (Agon), -1 strain threshold
-    (Reset to 13 at end of sesh)
+    (Reset to 14 at end of sesh)
 - We analyze Moriko Nash's personal shield generator
     - It's heavily degraded, but possible to see how it was modified
     - We learn how to modify a shield similarly, which is supposed to make it harder for 'ghosts' to get through
