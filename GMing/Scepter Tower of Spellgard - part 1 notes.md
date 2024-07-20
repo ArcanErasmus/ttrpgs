@@ -104,3 +104,6 @@
     - Surrendered guards are too beat up to help unless fight gets super dire
 - Crossed R3 into R4, cleared out Borlem, drakes, and Kalmo's dogs
     - Borlem unconscious (can be remanded to Malcom's care)
+
+## Session 3 - 2024-07-20
+- 
