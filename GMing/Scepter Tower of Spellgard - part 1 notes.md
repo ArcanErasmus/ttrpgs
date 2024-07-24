@@ -106,4 +106,18 @@
     - Borlem unconscious (can be remanded to Malcom's care)
 
 ## Session 3 - 2024-07-20
-- 
+- Fought Kalmo, Franco, and the fire beetles
+    - Franco killed, Kalmo fled, 4 beetles killed, last beetle pacified but not tamed
+- Malcolm took Borlem, his crew and the human guards headed back to the Monastery
+- Checked the other upper rooms of the ramparts, mostly empty
+    - Fed the last fire beetle, it was skittish of combat and returned to Franco's room (and its trough) when combat later started again
+- Descended to the kennel, where only 2 of 5 wall mounts had dogs on chains
+    - Dogs barked a ton, group fed them the other fire beetle corpses to pacify them
+- Continued west to the lower guardroom (R7), combat NEXT TIME!
+    - See photos of map setup
+    - Vexing Cloud has been pre-cast on the majority of the room (see yellow outline), all non-wolves are hidden in it
+        - Jib and wererats WR1 (northeast), WR2 (east), and WR4 (northwest) succeeded at hiding, WR3 (southeast) spotted only by K'Kello
+        - WR4 will move to open door and raise alert on first round, WR1 has just released the wolves (treat as unattached, no actions spent)
+        - WRs 1-3 will advance and attack, Jib will move the cloud forward if PCs don't advance, WR4 will move to Jib's side
+- Note: Ignore XP for the two wolves, their chains render them useless, but add the other three's to the next encounter
+- Note: It has been established that giant toads prey on fire beetles
