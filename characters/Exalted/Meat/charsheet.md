@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/155 P│ 078/096 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/160 P│ 081/100 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ♦                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 18[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
@@ -128,17 +128,18 @@
 ║ + Grace (Provisional packmember)                                                                 ║
 ║ + Grace (Soul bond)                                                                              ║
 ║ + Hate-Evil Lotus (Maternal Comfort)                                                             ║
-║ + Mongrel (Respect)                                                                              ║
-║ + Mongrel (Worry for her actions)                                                                ║
 ║ + River (Fight-horny)                                                                            ║
 ║ + Robot things (Respect for duty)                                                                ║
-║ + Scrimshaw (Pity Sympathy)                                                                      ║
-║ + Scrimshaw (Trust)                                                                              ║
+║ + Scrimshaw (Sympathy)                                                                           ║
+║ + Scrimshaw (Romantic attraction)                                                                ║
 ║ + The Cathedral Folk (Familiar)                                                                  ║
 ║ - Cities and towns (Fear)                                                                        ║
 ║ - Grace (Discomfort)                                                                             ║
+║ - Mongrel (Worry for her actions)                                                                ║
 ║ - Scrimshaw (Frustration)                                                                        ║
+║ - Shoat (Anger)                                                                                  ║
 ║ - Siaka (Hostility)                                                                              ║
+║ - Undead (Disgust)                                                                               ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 ### Plan for Caste
@@ -150,6 +151,7 @@
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
 ### Training Notes (Currently Resplendent Water 23, RY768)
+- Descending Water 2, RY768 - Lore I
 - Descending Water 9, RY768 - Integrity III
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
