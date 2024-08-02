@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/160 P│ 081/100 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/165 P│ 081/104 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ♦                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
 ║                                ║ Motes Ps/Ph│ 18[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
@@ -93,7 +93,6 @@
 ║ Intimiacies                                                                                      ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ -Defining-                                                                                       ║
-║ P Abusing animals is disgusting                                                                  ║
 ║ P Betrayal is the highest sin                                                                    ║
 ║ P Groups of strangers are stressful                                                              ║
 ║ P I cannot trust that which I do not understand                                                  ║
@@ -122,11 +121,14 @@
 ║ - Schemers (Disgust)                                                                             ║
 ║                                                                                                  ║
 ║ -Minor-                                                                                          ║
+║ P Abusing animals is disgusting                                                                  ║
 ║ + Dowager (Expect to be like Mongrel)                                                            ║
 ║ + Grace (Attraction)                                                                             ║
 ║ + Grace (Desire to understand)                                                                   ║
 ║ + Grace (Provisional packmember)                                                                 ║
 ║ + Grace (Soul bond)                                                                              ║
+║ + Gwai (Respect)                                                                                 ║
+║ + Gwai (Trust)                                                                                   ║
 ║ + Hate-Evil Lotus (Maternal Comfort)                                                             ║
 ║ + River (Fight-horny)                                                                            ║
 ║ + Robot things (Respect for duty)                                                                ║
