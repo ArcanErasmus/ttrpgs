@@ -13,7 +13,8 @@
 2. Art and token
     - Banner art
 3. Heirloom boon
-    - *Heirloom Boon: ?*
+    - *Heirloom Boon: Two minor healing potions and one piece of common adventuring gear (value 2gp)*
+    - Gear: Religious Text (Sangpotshi), from the former Tan Sugi Monastery, that I haven't really gotten around to reading
 
 ## The party
 ### Lin Xiuhua
