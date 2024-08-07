@@ -1,0 +1,68 @@
+# Session log
+TODO: Acquire Pengpeng (鹏鹏) at lvl 2
+### Session 3?future - 2024-08-13
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
+- Encounter at the Hand of Spring... begin!
+    - (begin by redoing how I banged on the door and shouted for Dami)
+
+### Session 2 - 2024-08-06
+- Investigation 1: "What happened to miller Choe Chung-hu?"
+- The Spider Gate ("Ugly-Cute") is... gone???
+    - The lantern is fallen and unlit!
+    - Xiuhua leaves one of her Eternal Flames with the lantern
+        - There is no immediate effect
+    - New Investigation 2: "What happened to Ugly-Cute?"
+- We head west along the road with haste
+    - Arriving at the eastern watch tower, we see four bodies on the ground
+        - 2 other guards, 2 blue people with sharp teeth
+    - The guard points a crossbow at us, scared that we aren't who we say we are
+        - I recognize her as Hai-er Ha, whose daughter Ling is in my class
+    - "Uncle Cho and his crew" returned after midnight, and then blue monsters followed
+        - The monsters had trained serpents, were defeated but 2 people were bitten by snakes and died
+    - Hai-er Ha is convinced to come with us, as she is not much of a defense on her own, and we grab the guard tower's supplies
+- Continuing west on the road
+    - As we approach town, we see debris all over the street
+        - Remnants of the festival, doors left open, carts left in the street
+        - Updating Investigation 1: "What happened to the town?"
+- In the town
+    - Xiuhua and Bulan surprised by a snake in one of the festival tents, Xiuhua bit but treated
+    - (Mikazuki briefly haunted by whispering voices, does not mention this)
+    - There are pools of blood on the ground!
+    - We find a couple bodies of townsfolk
+    - There are several moments of haunting
+    - It begins to rain
+- Continuing north
+    - We cross the dam
+    - The Hand of Spring is locked and empty
+        - Kumiho picks the lock so that we can get in
+        - We grab one antidote and one healing potion
+        - I leave a note that we came by and what we took, and re-lock the door behind us
+- Encounter at the Hand of Spring!
+    - (rolling back to when we arrived, ignore other stuff until later)
+- XP: 114/1000
+
+### Session 1 - 2024-07-30
+- Investigation 1: -
+- Investigation 2: -
+- We are taken out of town rolled up in straw mats
+    - The weather is clear and fair
+    - We spend some time settling in, getting comfortable
+- Waking up in the morning
+    - There is a light fog
+    - Mika sleeps in, Xiuhua prepares tea, I do my morning stretches and workout
+    - No food shows up for us, we begin to get restless
+- The morning turns to afternoon
+    - The fog steadily thickens, nobody shows up for us
+- Noises from the forest
+    - We are attacked by giant centipedes
+    - Bulan identified that they were being controlled by some kind of spirit
+        - The presence faded away after we killed the bugs
+- New Investigation 1: "What happened to miller Choe Chung-hu?" (Who was supposed to bring the food)
+- We decide to pack up and head back to town
+    - We manage to avoid getting lost and make it westwards to the road
+- Heading west towards town, we arrive at the spider statue
+    - Ugly-Cute is... gone???
+    - The lantern is laying on the ground, extinguished and empty of fuel
+    - Investigations suggest that Ugly-Cute somehow got up and walked off
+- XP: 64/1000

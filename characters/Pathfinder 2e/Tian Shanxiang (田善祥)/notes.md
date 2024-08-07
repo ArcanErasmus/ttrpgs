@@ -325,7 +325,7 @@
     - Anjal settled in Willowshore bc of the gentle weather
     - They introduced the villagers to the concept of magic as something to be studied, though it's still formidable and unapproachable
     - Anjal had only one apprentice, Jubei, a child left behind by unscrupulous merchants
-    - Andal passed away one year ago, adoptive daughter Jubei has taken over running the place
+    - Anjal passed away one year ago, adoptive daughter Jubei has taken over running the place
 21. The Ceiba-Duyue Exchange
     - Trade office surrounded by warehouses, ordered built by Heh Shan-Bao
     - Intended to expand the town's connection to the coastal fortress of Karahai
@@ -420,7 +420,3 @@ And work, she did. Over time, her daycare services would be expanded and formali
 Shanxiang has amassed a large collection of artwork made by the children, letters written to her from them (or their parents), and especially drawings of the various pets that have been kept over the years. The current dog is a large pondering fluffy thing named Atou. As the class size slowly increased, the house would feel more cramped, the garden inadequate, and storage space very strained. So when Xiuhua offered Shanxiang to move in to her now-empty estate, in 7106 IC, Xiang could only bring herself to mutter flimsy polite refusals before accepting the new space.
 
 "Momma Xiang's" now proudly hangs over the estate's gates. The gates themselves have been left open for so long that the plants would need to be cleared away to close them. The large bedrooms and dining room have been converted to bunkhouses, crafts rooms, and storage. There is a fish pond on the grounds, besides the vegetable patches and herb garden. The old posh furniture and decorations have been mostly traded away for more practical pieces. There is a rowboat in the yard, sitting by the short footpath down to the creek. A plot has been set aside for a small greenhouse, but the materials have yet to be gathered. The structure of the stable remains, now used for mushroom farming. The library remains intact, full of as many books as Xiuhua could hide away before the family's exodus, plus Shanxiang's own collection.
-
-# Session log
-TODO: Acquire Pengpeng (鹏鹏)
-### Session 0?future - 2024-0?-??
