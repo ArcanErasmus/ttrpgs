@@ -1,6 +1,7 @@
 # Character Planning
 ## Abstract Ideas
 - Bakuda, Kenzie
+- Zuko ("regain my honor"), Detective Gumshoe, sitcom character (thinks she's edgier than she is)
 - Not as manic, but real "life is not enough" energy
 - PI because
     - Good at it? Hacking, physical infiltration, social engineering, recon, connecting information

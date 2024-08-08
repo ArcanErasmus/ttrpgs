@@ -1,0 +1,75 @@
+╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
+║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born   /  /19  )                       ║
+╠════════════════════════════════╬════════════╤════════════════════════════════════════════════════╣
+║ Core                           ║ Stat       │ Value                                              ║
+╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
+║ Kith - Clurichaun              ║ Health     │ 0  1  2 5 x                      │ XP Total/Spent  ║
+║ Court - Seelie, HOUSE          ║   Current  │ ♣ ♣♣ ♣♣ ♣ ♣                      ├─────────────────╢
+║ Legacy -                       ║ Willpower  │ ♣♣♣♣                             │  00/ 00         ║
+║ Seeming - Wilder               ║ Glamour    │ ♣♣♣♣                             ├─────────────────╢
+║                                ║ Banality   │ ▓▓▓░░ ░░░░░                      │ Movement Speed  ║
+║                                ║            │                                  │ ??w/??j/???r yd ║
+╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
+║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
+║ Strength   │ ♣∙∙∙∙ │           ║ Charisma   │ ♣∙∙∙∙ │           ║ Perception   │ ♣∙∙∙∙ │         ║
+║ Dexterity  │ ♣∙∙∙∙ │           ║ Manipulatn │ ♣∙∙∙∙ │           ║ Intelligence │ ♣∙∙∙∙ │         ║
+║ Stamina    │ ♣∙∙∙∙ │           ║ Appearance │ ♣∙∙∙∙ │           ║ Wits         │ ♣∙∙∙∙ │         ║
+╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═════════╣
+║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec    ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
+║ Alertness  │ ∙∙∙∙∙ │           ║ Animal Ken │ ∙∙∙∙∙ │           ║ Academics    │ ····∙ │         ║
+║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Cmptr/Enigma │ ····∙ │         ║
+║ Awareness  │ ∙∙∙∙∙ │           ║ Drive/Ride │ ∙∙∙∙∙ │           ║ Finance/Sncl │ ····∙ │         ║
+║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Investigatn  │ ····∙ │         ║
+║ Empathy    │ ∙∙∙∙∙ │           ║ Firearms   │ ∙∙∙∙∙ │           ║ Law          │ ····∙ │         ║
+║ Expression │ ∙∙∙∙∙ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Medicine     │ ····∙ │         ║
+║ Intimidatn │ ∙∙∙∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ····∙ │         ║
+║ Leadership │ ∙∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ····∙ │         ║
+║ Streetwise │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Science      │ ····∙ │         ║
+║ Subterfuge │ ∙∙∙∙∙ │           ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ····∙ │         ║
+╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
+║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
+╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═════════╣
+║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value   ║
+╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
+║                    │           ║ Language           │ ♣         ║                      │         ║
+║                    │           ║                    │           ║                      │         ║
+║                    │           ║                    │           ║                      │         ║
+╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
+║ ??                                                  │ Notes                                      ║
+╟─────────────────────────────────────────────────────┼────────────────────────────────────────────╢
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+║                                                     │                                            ║
+╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
+
+Collected Modifiers:
+· Global
+· Situational
+· Attributes
+· Talents
+· Skills
+· Knowledges
+· Misc
+
+Bumpkin - practicality
+
+
+- Affinity: Actor
+- Revelry: Clurichaun usually gather their Glamour from their fellow collectors. They revel in the accomplishment a curator feels in assembling a collection of beautiful glass statues, the satisfaction a bibliophile experiences when finally finding a long-desired rare volume, or the joy of a child unwrapping the one card he was missing for his collectible game deck. They can also gain Glamour from a good brawl, of course.
+- Unleashing: Cantrips cast by clurichaun bring with them the sweet scent of grass and the bite of whiskey. The air itself takes on a bright green tinge, and tiny shamrocks have been known to spring up from the clurichaun’s footprints. Those present may experience a rush of exhilaration or the sensation of having just heard a hilarious joke, and may even find themselves laughing without knowing why.
+
+Birthrights
+- Twinkling of an Eye — Now you see them, now you don’t. Look away for only a moment, and a clurichaun can disappear into her surroundings, completely undetectable. Unless the clurichaun is bound with iron, she can vanish in a blink, even from someone’s physical grasp, reappearing within the same area but out of her observer/captor’s line of sight. If someone is physically touching the clurichaun, or she is tied up or otherwise restrained, disappearing costs one point of Glamour.
+- Fighting Words —After only a few moments, a clurichaun can get a read on a person or group, knowing exactly what to say to provoke a fight. Clurichaun view fighting as an ice breaker and a form of rough-and-tumble bonding. The clurichaun can prod anyone into throwing the first punch, which the target can resist through a Willpower roll (difficulty 8). This birthright can be used to incite a fight between the clurichaun and the target, or between the target and another person.
+
+Frailty
+- Hoard — For clurichaun, collecting isn’t a mere hobby, but a consuming obsession. They must spend time with their collection frequently to satisfy this aspect of their nature, an easier task for a clurichaun with a smaller, more portable collection than for one whose hoard is large or unwieldy. Spending more than a week away from her collection triggers Banality.
