@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 144/165 P│ 081/104 E║
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 153/170 P│ 081/106 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ♦                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 18[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
+║                                ║ Motes Ps/Ph│ 12[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
@@ -70,9 +70,10 @@
 ║                                                 ║ Deadly Claw Blow                               ║
 ║ -Appearance-                                    ║ Divine Predator Strike                         ║
 ║ Argument-Eclipsing Shadow                       ║ Ferocious Biting Tooth                         ║
-║ Glance-Oration Technique                        ║ Grizzly Bear Embrace                           ║
-║ Lapdog's Quiet Reign                            ║ Surging Thew Technique                         ║
-║ Perfect Symmetry                                ║ Terrifying Ogre Alteration                     ║
+║ Feral Smile Technique                           ║ Grizzly Bear Embrace                           ║
+║ Glance-Oration Technique                        ║ Surging Thew Technique                         ║
+║ Lapdog's Quiet Reign                            ║ Terrifying Ogre Alteration                     ║
+║ Perfect Symmetry                                ║                                                ║
 ║                                                 ║                                                ║
 ║ -Perception-                                    ║ -Wits-                                         ║
 ║ Sense-Sharpening Change                         ║ Boundary-Marking Meditation                    ║
