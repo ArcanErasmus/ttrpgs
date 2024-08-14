@@ -1,13 +1,36 @@
 # Session log
-TODO: Acquire Pengpeng (鹏鹏) at lvl 2
-### Session 3?future - 2024-08-13
+TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
+### Session 4?future - 2024-08-13
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
+- NOTE: In combat, it is the start of Mikazuki's turn
+- NOTE: Yin's older brother is the guard who is in imminent danger
+- NOTE: Yin is a very uncontrolled lvl 1 witch
+
+### Session 3 - 2024-08-13
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
 - Encounter at the Hand of Spring... begin!
-    - (begin by redoing how I banged on the door and shouted for Dami)
+    - There are a pair of giant centipedes fighting in the courtyard
+    - They are fighting with a giant gecko
+        - We recognize that this is the folkloric guardian of the Hand of Spring, which has not manifested in living memory
+    - Dami calls out to us!!
+    - We take out the centipedes and defend against more that arrive right behind us
+- Discussing our next moves
+    - Jubei is here too, she wasn't able to get to her tower, the centipedes followed her back
+    - Damihansig explains that attacks started last night at the end of the festival
+    - Many people died, but the gecko spirit manifested to guard The Hand
+        - They still can't handle any larger attack, and really need to get out before nightfall
+    - Decision: Take Ha and hustle to the Exchange. Grab any refugees we find and return. Stop by Mother's Coil on the way back, grabbing anything Jubei needs. Escort gathered survivors to the School
+- Heading out east, encounter on the road
+    - Some kids and adults are fleeing from a large group of giant centipedes and at least one giant roach
+    - One of the kids is Lo Yin, who is injured and dragging her younger(?) brother along
+    - There is a guard, Yin's (supposedly quite mean) older brother, attempting to make a stand in a choke point between large rocks
+        - The bugs can climb and he's already surrounded, we need to act very fast or he dies
 
 ### Session 2 - 2024-08-06
 - Investigation 1: "What happened to miller Choe Chung-hu?"
+- Investigation 2: -
 - The Spider Gate ("Ugly-Cute") is... gone???
     - The lantern is fallen and unlit!
     - Xiuhua leaves one of her Eternal Flames with the lantern

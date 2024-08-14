@@ -190,6 +190,16 @@
 - Townsfolk debate whether someone should take in the shrine to Desna, rather than leaving it in an abandoned estate
 - The local leshies have been here since long before Willowshore was founded, only "joining" the town when expansion made it inevitable
 
+### The Eight Practices of Summer
+1. Do not call a ghost a ghost.
+2. Do not pat people on the head or shoulders.
+3. Avoid entering bodies of water when a ghost is nearby.
+4. Do not eat food that has two stick-like objects protruding from it.
+5. Do not lean against walls during the day.
+6. Do not whistle at night.
+7. Do not leave laundry out at night.
+8. If you hear someone call your name from behind you at night, do not turn around.
+
 ## Shopping guide
 - W1. Eternal Blaze Ironworks
     - Metalworks, adventuring gear, metal armor, metal weapons, metal shields
