@@ -121,3 +121,27 @@
         - WRs 1-3 will advance and attack, Jib will move the cloud forward if PCs don't advance, WR4 will move to Jib's side
 - Note: Ignore XP for the two wolves, their chains render them useless, but add the other three's to the next encounter
 - Note: It has been established that giant toads prey on fire beetles
+- Party hit lvl 3
+
+## Session 4 - 2024-08-10
+- R7 Fight (Lower Guardroom) featuring 3 bonus dogs
+    - 5 wererat minions from west (R8) joined in
+    - Stealth was fun but don't abuse it or players will slow to a crawl
+    - They got their first taste of loot
+    - Combat got very slow for cleanup, idea for next time: When the main thrust of the fight is over, stragglers become minions
+- Jib escaped south to R9
+
+## Session 5 - 2024-08-17
+- Jib prepared in R9, Ephram in R8 alerted and ready
+    - Party backed off to R6 and waited for a short rest
+    - Jib collapsed the R7-R9 tunnel and looted the traps for poison darts
+- Ephram was vaguely prepared for an attack
+    - Bolstered by Jib and the 3 Iron Defenders
+    - All minions also had a dart throwing ability
+- New Partymember: Lidira Torahl, a Deva Swordmage
+    - Lidira absolutely darts around punishing enemies
+    - Party makes excellent use of synergy in this fight!
+- Loot acquired, party heads down to the formerly-trapped room and prepares for The Catacombs
+- Party hit lvl 4
+
+## Session 6?future - 2024-??-??
