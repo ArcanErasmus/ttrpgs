@@ -1,11 +1,23 @@
 # Session log
 TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
-### Session 4?future - 2024-08-13
+### Session 5?future - 2024-08-20
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
+- NOTE: We are just arriving at the Exchange
+
+### Session 4 - 2024-08-13
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
 - NOTE: In combat, it is the start of Mikazuki's turn
 - NOTE: Yin's older brother is the guard who is in imminent danger
 - NOTE: Yin is a very uncontrolled lvl 1 witch
+- Encounter against a ton of centipedes
+    - We survive and carve them up
+    - Lo Rin is killed and eaten
+    - Lo Yin and Lo Shinji survive
+    - The two fleeing villagers survive
+- We decide to continue to the exchange, because a bad storm is rolling in and we don't have time to get to more than one location tonight
+    - People in tow: Hai-er Ha, Lo Yin, Lo Shinji
 
 ### Session 3 - 2024-08-13
 - Investigation 1: "What happened to the town?"

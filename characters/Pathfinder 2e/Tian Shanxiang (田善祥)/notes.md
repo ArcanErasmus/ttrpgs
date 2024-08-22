@@ -65,6 +65,7 @@
     - *Opinion: We talk sometimes! She's not much further than the shrine to Abadar, and I occasionally send gifts with Xiuhua.*
     - Ironworks inherited from father about a decade ago
     - `Xiuhua` helps her out around the forge frequently
+    - `Shanxiang` knows that she's an ex-adventurer. While her father ran the smithy, she used to travel extensively. She is a Fighter, and she used to travel with her partymember and friend Elizeth (the Cleric).
 - Kum Soon-shong, male human veterinarian
     - *Opinion: I've taken the kids by on more than one occasion.*
     - Affable attitude, compassion for animals
@@ -104,6 +105,7 @@
     - Visited Willowshore and Tan Sugi monastery as a child
     - Plays flute in the graveyard often to soothe recently-buried spirits
     - Raised `Bulan` at the temple
+    - `Shanxiang` knows that she's an ex-adventurer. She used to travel with her partymember and friend Wu-Xiu (the Fighter).
 - Kwaka, male tengu guild leader
     - *Opinion: Politically, I am forced by my dependence on a stipend to not visibly support the laborers' plight. But I can be a good and reliable customer, and bring occasional gifts. Kwaka especially has my respect for keeping a level head and an open heart. And besides, I love to chat about books!*
     - Senior bookmaker
