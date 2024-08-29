@@ -1,9 +1,33 @@
 # Session log
 TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
-### Session 5?future - 2024-08-20
+### Session 6?future - 2024-08-27
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
-- NOTE: We are just arriving at the Exchange
+- We begin upon awakening from our nightmares, simultaneously
+
+### Session 5 - 2024-08-20
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
+- Objectives:
+    - Find out the state of their defenses, their needs, and what they know
+    - Keep track of important figures
+    - Prevent Ban-niang from taking advantage of the crisis for personal gain
+    - Gather the injured and in-need to make the trek to the estate
+    - Gather those willing to fight in defense of the rest of the town
+- Arrival at the Ceiba-Duyue Exchange
+    - Ha gives the password to the guard, and we are let inside
+- Discussion with Ban-niang
+    - Head to back room where Kim Gu-won is, Ban-niang ushers him out
+    - Argue politics and morality dick-waving
+    - Simmer down and share info as frenemies
+- Many little scenes are had between people
+    - Yin fails to learn prestidigitation
+- Raining blood
+    - Much commotion
+- Xiuhua and Bulan have the HORNIEST blood drinking scene
+    - Shanxiang has to clean up after them and its so awkward
+- We all have nightmares when we sleep
+    - Shanxiang imagines she's cutting down little Yin while centipedes wearing the clothes of her partymembers convince her to do it
 
 ### Session 4 - 2024-08-13
 - Investigation 1: "What happened to the town?"
