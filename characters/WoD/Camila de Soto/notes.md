@@ -113,3 +113,44 @@
 - Daireann
 - Leanhaun
 - Varich
+
+# Character Creation
+## Step One: Concept
+- A late-awakened clurichaun commoner who yearned for the connections and stability of a noble house. After making enemies of the Sabbat in the Kingdom of the Feathered Serpent, she was cursed and exiled to the USA alone, keeping her mortal family in the dark. Having since been sworn in to House Scathach, she works to build her own mixed network, while managing her enemies and her magical malady.
+- Kith: Clurichaun
+- Court: Seelie?
+- Legacy: ?, ?
+- Seeming: Wilder
+- House: Scathach
+
+## Step Two: Traits
+- Attr
+- Abil
+
+## Step Three: Advantages
+- BG
+- Arts and Realms
+
+## Step Four: Tempers
+- WP
+- Glamour
+- Banality
+
+## Step Five: Birthrights and Frailties
+- Kithain innates
+
+## Step Six: Freebie Points
+- Merits
+- Flaws
+
+## Step Seven: Specialties
+
+## Step Eight: Threshold and Antithesis
+- Threshold
+- Antithesis
+
+## Step Nine: Spark of Life
+- Motivation
+- Identity, mortal and changeling
+- Appearance
+- Quirks
