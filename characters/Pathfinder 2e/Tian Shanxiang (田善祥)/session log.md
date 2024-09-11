@@ -1,11 +1,41 @@
 # Session log
 TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
-### Session 6?future - 2024-08-27
+### Session 7?future - 2024-08-10
+- NOTE: It is Mikazuki's turn
+
+### Session 6 - 2024-09-03
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
+    - Private revelation: If Ugly-Cute wandered off, perhaps she's headed to fight a dangerous battle. Perhaps she could use our help, or could lead us to the source of this.
 - We begin upon awakening from our nightmares, simultaneously
+    - I comfort Yin on her own nightmare
+- Conversation round 2 with Ban-niang
+    - Outside, no more blood rain, no red stains even
+    - More mists, though with a brief reprieve by the sun
+    - Quest given: Bring a letter from her to Matsuki, of her intent to request his help and combine their resources for the defense of the town
+    - Flock of crows flies overheads, aimed west into town
+- The refugees from the Hand of Spring arrive at the gate to the Exchange
+    - They warn us that the way into town is clogged with jinkin (the blue gobliny monsters)
+    - Jubei gives me Anjal's old staff, with no explanation for it
+        - I get the impression it relates to her nightmare
+        - It's solid wood, with a seemingly poured metallic inlay running from above halfway up the length to the top, where it grips a semi-precious yet colorless gemstone
+- We head out west
+    - Cross again at the dam
+    - There are many tracks headed across the fields directly up to the Lady of Souls, and we follow them
+- Arrival at the Lady of Souls
+    - Jinkan bodies abound
+    - Several townsfolk and guard bodies, laid out neatly
+    - A note on the back of the sign for the shrine hours, telling people to go to Matsuki's
+        - It's not Elizeth's handwriting
+- Continuing to Matsuki's
+    - We hear sounds of battle and hurry there
+    - Large assault by crows, roaches, and jinkin, as well as the rumored faceless people
+        - Enemy commander: "Gutrot"
+    - Defense is made up of guards, Elizeth, and lots of miscellaneous allies
+        - New NPCs: Ke Lua, Panax, Cord Steelhoof(?) (Taur), Rowan(?) (Half-orc)
+    - We take up a chokepoint on the other end, and begin chipping through the chaff that comes our way
 
-### Session 5 - 2024-08-20
+### Session 5 - 2024-08-27
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
 - Objectives:
@@ -29,7 +59,7 @@ TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
 - We all have nightmares when we sleep
     - Shanxiang imagines she's cutting down little Yin while centipedes wearing the clothes of her partymembers convince her to do it
 
-### Session 4 - 2024-08-13
+### Session 4 - 2024-08-20
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
 - NOTE: In combat, it is the start of Mikazuki's turn
