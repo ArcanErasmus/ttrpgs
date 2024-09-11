@@ -6,8 +6,8 @@
 ║ Kith - Clurichaun              ║ Health     │ 0  1  2 5 x                      │ XP Total/Spent  ║
 ║ Court - Seelie                 ║   Current  │ ♣ ♣♣ ♣♣ ♣ ♣                      ├─────────────────╢
 ║ House - Scathach               ║ Willpower  │ ♣♣♣♣                             │  00/ 00         ║
-║ Legacy -                       ║ Glamour    │ ♣♣♣♣                             ├─────────────────╢
-║ Seeming - Wilder               ║ Banality   │ ▓▓▓░░ ░░░░░                      │ Movement Speed  ║
+║ Legacy - Paladin/Ringleader    ║ Glamour    │ ♣♣♣♣                             ├─────────────────╢
+║ Seeming - Childling            ║ Banality   │ ▓▓▓░░ ░░░░░                      │ Movement Speed  ║
 ║                                ║            │                                  │ ??w/??j/???r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
@@ -35,10 +35,10 @@
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value   ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
 ║ Contacts           │ ♣♣···     ║ Language           │ ♣         ║ Allergic (Cats/Dogs) │ ♣       ║
-║ Holdings           │ ♣?···     ║ Fake It            │ ♣♣♣       ║ Impatient            │ ♣       ║
-║ Mentor             │ ♣♣···     ║ Lucky              │ ???       ║ Bard's Tongue        │ ♣       ║
-║ Resources          │ ♣····     ║                    │           ║ Cursed               │ ♣♣♣♣    ║
-║ Title              │ ♣····     ║                    │           ║                      │         ║
+║ Holdings           │ ♣♣···     ║ Fake It            │ ♣♣♣       ║ Impatient            │ ♣       ║
+║ Mentor             │ ♣♣···     ║ Good Listener      │ ♣♣        ║ Bard's Tongue        │ ♣       ║
+║ Resources          │ ♣····     ║ Lucky              │ ♣♣♣       ║ Cursed               │ ♣♣♣♣    ║
+║ Title              │ ♣····     ║ Specific Interests │ ♣         ║                      │         ║
 ║                    │           ║                    │           ║                      │         ║
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
 ║ ??                                                  │ Notes                                      ║
@@ -53,6 +53,11 @@
 ║                                                     │                                            ║
 ║                                                     │                                            ║
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
+Freebie points: 9/15
+3 - Lucky
+2 - Good Listener
+1 - Specific Interests (TODO FIGURE OUT WHAT)
+
 
 Collected Modifiers:
 · Global

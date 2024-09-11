@@ -119,16 +119,18 @@
 - A late-awakened clurichaun commoner who yearned for the connections and stability of a noble house. After making enemies of the Sabbat in the Kingdom of the Feathered Serpent, she was cursed and exiled to the USA alone, keeping her mortal family in the dark. Having since been sworn in to House Scathach, she works to build her own mixed network, while managing her enemies and her magical malady.
 - Kith: Clurichaun
 - Court: Seelie?
-- Legacy: ?, ?
-- Seeming: Wilder
+- Legacy:
+    - S: Paladin - Regain WP when overcome a truly challenging obstacle; Never refuse a fair challenge
+    - U: Ringleader - Regain WP when use your followers to accomplish your goal; Never allow any one person to threaten your organization or goals
+- Seeming: Childling
 - House: Scathach
 
 ## Step Two: Traits
-- Attr
-- Abil
+- Attr DONE
+- Abil DONE
 
 ## Step Three: Advantages
-- BG
+- BG DONE
 - Arts and Realms
 
 ## Step Four: Tempers
