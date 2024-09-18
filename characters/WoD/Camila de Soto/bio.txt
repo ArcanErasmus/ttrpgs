@@ -1,14 +1,30 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born   /  /19  )                       ║
+║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born 10/24/1977)                       ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
-║ Archetype - ?      Nature, ?        Demeanor:                                                    ║
-║ · ?Nature: Strength in ?, but ?                                                                  ║
-║   · Regain Willpower when you ?.                                                                 ║
+║ Legacies - Paladin/(Ringleader)                                                                  ║
+║ · Seelie: Paladin - Regain WP when you overcome a truly challenging obstacle                     ║
+║   · Ban: Never refuse a fair challenge                                                           ║
+║ · (Unseelie: Ringleader - Regain WP when you use your followers to accomplish your goal)         ║
+║   · (Ban: Never allow any one person to threaten your organization or goals)                     ║
 ╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Intimacies:                                                                                      ║
 ║ ·                                                                                                ║
 ║ ·                                                                                                ║
 ║ ·                                                                                                ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Banality Triggers:                                                                               ║
+║ · Invoking the Autumn to resist a cantrip or chimerical effect.                                  ║
+║ x Failing to overcome a target's Banality while enchanting them. (IMMUNE)                        ║
+║ · Willfully destroying a Treasure or other irreplaceable faerie artifact.                        ║
+║ · Killing a changeling's chimerical self.                                                        ║
+║ · Ending a changeling's mortal life.                                                             ║
+║ · Killing one of the enchanted, a mortal Dreamer, or Kinian.                                     ║
+║ · Wielding cold iron.                                                                            ║
+║ · Ravaging or Rhapsodizing a mortal.                                                             ║
+║ · Breaking an oath.                                                                              ║
+║ · Antithesis: TODO                                                                               ║
+║ When you experience a trigger, roll Glamour (diff 8) or gain a point of Banality. On a botch,    ║
+║ gain a point for every 1.                                                                        ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
 ║ Backstory:                                                                                       ║
 ║ · Childhood                                                                                      ║
@@ -65,7 +81,7 @@
 ║     · 
 ║   · Powers:
 ║     · 
-║ · ??? - Vampire
+║ · Amira - Vampire
 ║   · Value:
 ║   · Risks:
 ║   · Weaknesses:

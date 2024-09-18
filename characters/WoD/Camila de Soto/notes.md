@@ -118,7 +118,7 @@
 ## Step One: Concept
 - A late-awakened clurichaun commoner who yearned for the connections and stability of a noble house. After making enemies of the Sabbat in the Kingdom of the Feathered Serpent, she was cursed and exiled to the USA alone, keeping her mortal family in the dark. Having since been sworn in to House Scathach, she works to build her own mixed network, while managing her enemies and her magical malady.
 - Kith: Clurichaun
-- Court: Seelie?
+- Court: Seelie
 - Legacy:
     - S: Paladin - Regain WP when overcome a truly challenging obstacle; Never refuse a fair challenge
     - U: Ringleader - Regain WP when use your followers to accomplish your goal; Never allow any one person to threaten your organization or goals
@@ -131,21 +131,31 @@
 
 ## Step Three: Advantages
 - BG DONE
-- Arts and Realms
+- Arts (3) and Realms (5) DONE
+
+### Arts
+Arts
+- *Chicanery*: Illusion magic. considered fit only for Commoners
+    - 1-3 dots
+- *Chronos*: time magic. Once only used by nobles and the sidhe are still angry that commoners can learn it now
+    - 1 dot
+- Dragon's Ire: the most straight forward combat Art with several good buff powers and one magic ranged attack. reasonably rare, it's usually considered the sole domain of noble warrios, but this isnt quite true
+    - 1-2 dots
 
 ## Step Four: Tempers
-- WP
-- Glamour
-- Banality
+- WP DONE
+- Glamour DONE
+- Banality DONE
 
 ## Step Five: Birthrights and Frailties
-- Kithain innates
+- Kithain innates DONE
 
 ## Step Six: Freebie Points
-- Merits
-- Flaws
+- Merits DONE
+- Flaws DONE
 
 ## Step Seven: Specialties
+- DONE
 
 ## Step Eight: Threshold and Antithesis
 - Threshold
