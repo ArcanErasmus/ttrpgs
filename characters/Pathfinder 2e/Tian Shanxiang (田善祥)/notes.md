@@ -66,11 +66,11 @@
     - Ironworks inherited from father about a decade ago
     - `Xiuhua` helps her out around the forge frequently
     - `Shanxiang` knows that she's an ex-adventurer. While her father ran the smithy, she used to travel extensively. She is a Fighter, and she used to travel with her partymember and friend Elizeth (the Cleric).
-- Kum Soon-shong, male human veterinarian
+- Kum Soon-chong, male human veterinarian
     - *Opinion: I've taken the kids by on more than one occasion.*
     - Affable attitude, compassion for animals
     - Father of Meng-sung
-- Meng-sung, male human veterinarian
+- Kum Meng-sung, male human veterinarian
     - *Opinion: What a cute tyke! Obviously gets his big heart from his father, hopefully he grows up just as sweet.*
     - Affable attitude, compassion for animals
     - Teenager

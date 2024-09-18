@@ -1,7 +1,29 @@
 # Session log
-TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
-### Session 7?future - 2024-08-10
+- NOTE: Determine which Lore I taught Yin
+- NOTE: Come up with a good description for Yin
+
+### Session 8?future - 2024-09-24
+- TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung")
+    - Talk to Kum Soon-chong, who is probably here at the Matsuki estate with as many animals as possible
+- TODO: Talk to Matsuki about Ban-niang's letter and request
+
+### Session 7 - 2024-09-17
 - NOTE: It is Mikazuki's turn
+- The melee continues
+    - The defenders clean up and we join up with them
+- Talk with Panax and Ka'Lua
+    - Panax is a here looking for a specific item of some sort, wants to see what I have in my collection
+    - He hired Ka'lua and her band of mercenaries to protect him, and was in town for the festival
+- Piecing together the strategic situation
+    - Defenses were set up at leisure, had time to prepare
+        - Archer supplies, sturdy barricades
+    - No battle occured on the wall, attack was sudden and defenders fell back quickly
+    - Forces came from the east, across the bridge
+        - These were more intelligent, directed by a leader
+        - Insects broke through, bipedals climbed the walls
+        - The disparate groups attacked simultaneously, were coordinated
+    - As a reminder, the groups we saw in the southeast were undirected and much weaker
+- XP: 1306/1000 -> LEVEL UP TO 2, 306/1000
 
 ### Session 6 - 2024-09-03
 - Investigation 1: "What happened to the town?"
@@ -72,6 +94,7 @@ TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung") at lvl 2
     - The two fleeing villagers survive
 - We decide to continue to the exchange, because a bad storm is rolling in and we don't have time to get to more than one location tonight
     - People in tow: Hai-er Ha, Lo Yin, Lo Shinji
+- XP: 556/1000
 
 ### Session 3 - 2024-08-13
 - Investigation 1: "What happened to the town?"
