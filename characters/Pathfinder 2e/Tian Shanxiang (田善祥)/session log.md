@@ -2,12 +2,36 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 8?future - 2024-09-24
-- TODO: Acquire Péngpéng (鹏鹏) (phon: "Pungpung")
-    - Talk to Kum Soon-chong, who is probably here at the Matsuki estate with as many animals as possible
+### Session 9?future - 2024-10-01
 - TODO: Talk to Matsuki about Ban-niang's letter and request
+- NOTE: We leave off on the start of the town hall meeting in the estate
+    - (Miho is stuffing her pockets in the unguarded storeroom)
+
+### Session 8 - 2024-09-24
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
+- We enter the Matsuki compound
+    - Ba-Ming Ouh, of the Nine Ear Shrine
+    - Yun Mong-Un, of the woodcarver's guild
+    - Kum Soon-chong & Kum Meng-sung, of the Willowshore Stables
+        - Péngpéng spotted!!!
+        - I head straight to him with Yin
+        - He's grumpy as heck, but Yin calms him down with a Command spell
+        - Yin and I get that bloodstained boy a bath
+    - Mika bumbles in between Panax and Ka'Lua to shill her shop
+    - Bulan surprises herself by using Lay on Hands, has a heart to heart with Elizeth over it
+    - Xiuhua gets a history lesson with Wu-Xiu, and encouraged to admit her feelings to Bulan sooner rather than later
+    - Ka'Lua gets chewed out by Panax for being a flirt, Miho listens in
+    - Elizeth beckons Mika to get the conversation over with
+        - Mika cannot stop putting her foot in her mouth
+        - Elizeth decides that Mika ain't getting away, Mika can't resist her
+    - Xiuhua and Bulan decompress, Bulan is mad at Mika
+    - Miho has gold in her eyes as she sneaks into the packed Matsuki storeroom
+XP: 321/1000
 
 ### Session 7 - 2024-09-17
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
 - NOTE: It is Mikazuki's turn
 - The melee continues
     - The defenders clean up and we join up with them
