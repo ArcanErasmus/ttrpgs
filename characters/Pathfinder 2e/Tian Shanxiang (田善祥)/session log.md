@@ -2,10 +2,48 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 9?future - 2024-10-01
-- TODO: Talk to Matsuki about Ban-niang's letter and request
-- NOTE: We leave off on the start of the town hall meeting in the estate
+### Session 11?future - 2024-10-22
+- TODO: Head to one more shrine to get the last blessed copper coin, to help re-light the Eternal Lantern
+- TODO: Get Pharasma blessing before we leave the Lady of Souls
+
+
+### Session 10 - 2024-10-22
+- TODO: Head to three shrines to get blessings for three copper coins, to help re-light the Eternal Lantern
+- TODO: Head to the mills, to grab a barge to cross to the north while bypassing the bridge
+- Discussion with Panax
+    - He and his group are going south into the woods to check on the lodges
+- Heading west, towards the shrine of Abadar
+    - We give a prayer and a large offering (4gp shaped into a key), and receive a blessing to one of the coins
+- Returning east, we travel the road to the Lady of Souls
+    - Two of the bodies are missing (the ones outside the building)
+    - We decide that our offering will be the time spent to interr the remaining bodies
+    - Miho offers Xiuhua a gift of an interesting trinket (gate attenuator)
+    - Shanxiang and Mikazuki gossip about the young'ins' love lives
+- Blessings for coins - 1/3: Abadar
+XP: 401/1000
+
+### Session 9 - 2024-10-01
+- Town hall meeting in the estate
     - (Miho is stuffing her pockets in the unguarded storeroom)
+    - Matsuki Shou, head of the estate
+    - Kwaka Myna, of the Cloud Paper House
+    - Kazuma Oono, of the Seven-Colored Songbird theater
+    - You So-Jin, of Graveside Manners
+    - "Buso", the cyclops leader of the recent assault
+    - Mother Otis
+- To seek
+    - Sumika, the hunter
+    - Blessings for coins, need 3 copper coins blessed
+        - Need to go to shrines
+- We discuss strategy
+    - Head to the inn to fortify it
+    - Then onwards to the docks by the mills
+- At the inn
+    - Door open, but nobody here
+    - Place ransacked, presumably Jincan
+    - All metal objects stolen
+        - Value? Shinyness? Specifically metals?
+XP: 361/1000
 
 ### Session 8 - 2024-09-24
 - Investigation 1: "What happened to the town?"
