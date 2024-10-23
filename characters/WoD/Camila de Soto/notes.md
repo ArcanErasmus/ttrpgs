@@ -166,3 +166,50 @@ Arts
 - Identity, mortal and changeling
 - Appearance
 - Quirks
+
+# Freehold planning
+- 3 dots holdings
+- 4 dots resources
+## Acquisition
+- Chimerically bequeathed by the Scathach knight who inducted her, legally purchased and renovated by Medea
+
+## Archetype
+- Market: -2 diff persuasion & subterfuge
+
+## Aspect
+- Former Stronghold, then Hearth, a keep under the offramp
+
+## Appearance
+
+## Hierarchy
+
+## Quirks
+
+## Point-Buy Features
+- Size 4
+- Sanctuary 2-5 from Skeletons
+- Resources 1-3 of money, ???
+- Passages 0-2, Near Dreaming, Deep Dreaming?, other mundane loc?
+- Powers
+    - Glamour to Dross 2
+    - Dual Nature 2 (Workshop)
+        - Produces chimerical books or 
+    - Resonant Dreams 2 (???)
+- Balefire 2?
+
+
+- 18/18
+- Size 4
+- Sanctuary 3
+    - 1-dot value outside
+    - 5-dot value inside
+- Resources 3
+    - Mundane cash plus something else
+- Passages 0
+- Dual Nature 2
+    - Workshop, produces recorded stories
+- Glamour to Dross 2
+- Balefire 2
+- Cantrip 2
+    - 1-dot Chronos on Props
+    - The Chrono-projector. Put something under the slides and you can see the history of it displayed on the wall of the movie den. This means she does have to usher everyone out of the den when it's time for detective work.
