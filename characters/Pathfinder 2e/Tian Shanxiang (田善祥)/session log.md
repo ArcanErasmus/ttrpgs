@@ -2,10 +2,23 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 11?future - 2024-10-22
+### Session 12?future - 2024-11-05
+
+### Session 11 - 2024-10-29
 - TODO: Head to one more shrine to get the last blessed copper coin, to help re-light the Eternal Lantern
 - TODO: Get Pharasma blessing before we leave the Lady of Souls
-
+- Morning of day 3
+- Miho wakes up from a miserable nightmare
+    - It's even worse upon waking, as she remembers she used to have a sister who died
+    - I comfort her
+- Mika gets spooked by the doll, tries to destroy it, it doesn't stick
+- Xiuhua dances in the rain in the graveyard
+- Bulan asks Pharasma to bless a coin and totally crushes it
+- Xiuhua sees Mika having a time of it (haunted by spooky doll) in the kitchen, they talk
+- Xiuhua makes breakfast, Mikazuki is just kind of fidgeting in the background
+- More talking - Shanxiang and Yin, Bulan and Mika, Miho and Xiuhua
+- Blessings for coins - 2/3: Abadar, Pharasma
+XP: 441/1000
 
 ### Session 10 - 2024-10-22
 - TODO: Head to three shrines to get blessings for three copper coins, to help re-light the Eternal Lantern
