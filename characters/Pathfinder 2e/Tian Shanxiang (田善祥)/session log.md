@@ -2,7 +2,57 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 12?future - 2024-11-05
+### Session 14?future - 2024-12-03
+- Counting their numbers
+    - 4 faceless, longbows
+    - 7 faceless, spears
+    - 3 buso, different weapons each that they are comfortable with
+    - 12 jincan in front doing manual labor
+- We check the mill docks for boats
+    - There are 3, two small ones and one flat small barge
+    - The plan is to take the boats and leave the barge
+    - We secure the 3 boats to the docks (they were unmoored)
+- We head to the Matsuki estate to update them on the bridge
+    - Along the way, we inform the guards at the inn too
+    - It's raining hard when we arrive, every gust of wind has people on edge
+    - Panax's party has not returned yet
+    - Matsuki is not worried, is in a better mood
+- Elizeth bursts in after having a discussion with Mika about Mika's curse(s)
+    - We argue pointlessly about corpses
+
+### Session 13 - 2024-11-19
+- Arriving at a small farm, on the way back into town, we hear voices up ahead
+    - Pair of Jincan sisters, a ferret(-spirit?), and a talking raven, are here to rob the place of its cattle and possibly other stuff
+    - We offer them kindness and they laugh at the idea of being cordial
+    - Fight!
+    - +12 XP for winning fight
+- Chatting with Sumika, after we patch her up from her leg injury
+    - Shanxiang has a serious convo with Xiuhua about war
+    - Sumika agrees to search for Ugly Cute, and offers us some spirit snare supplies
+    - Xiuhua and Mika destroy the cursed doll, again
+    - Shanxiang has a serious convo with Yin about war
+- We head out, reach the Nine-Ear Shrine without incident
+    - The door is open but the place is untouched by ransacking hands
+    - Candles have burnt out, appears natural
+    - Successful prayer, third coin blessing acquired
+    - +20 XP for the blessing
+- Onwards to the Dawnstep Bridge
+    - We hear voices before we see anything, but we see a bonfire on the bridge
+    - Multiple creatures, including jincan, the faceless soldiers from before, and what looks like some of the commander types (buso?), spotted on the bridge
+    - Everything ransacked from the town gathered here as a makeshift barricade-in-progress
+    - We are not spotted yet
+XP: 473/1000
+
+### Session 12 - 2024-11-05
+- TODO: Head to one more shrine to get the last blessed copper coin, to help re-light the Eternal Lantern
+- Day 3
+- Head east along the treeline around in the direction of the Nine-Ear Shrine
+    - Xiuhua trips on a root and gets muddy, Bulan prestidigitates her clean
+    - Bulan hears branches breaking in the woods, we investigate
+        - The sound retreats from us rapidly
+- After heading into the woods after a sound, we decide to loop through the cabins in the woods
+    - The lodges are ransacked
+    - Cabin on the edge of the woods was abandoned in an orderly fashion
 
 ### Session 11 - 2024-10-29
 - TODO: Head to one more shrine to get the last blessed copper coin, to help re-light the Eternal Lantern
