@@ -5,7 +5,7 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Kith - Clurichaun              ║ Health     │ 0  1  2 5 x                      │ XP Total/Spent  ║
 ║ Court - Seelie                 ║   Current  │ ♣ ♣♣ ♣♣ ♣ ♣                      ├─────────────────╢
-║ House - Scathach               ║ Willpower  │ ♣♣♣♣♣                            │  12/ 00         ║
+║ House - Scathach               ║ Willpower  │ ♣♣♣♣♣                            │  18/ 06         ║
 ║ Legacy - Paladin/Ringleader    ║ Glamour    │ ♣♣♣♣♣ ♣                          ├─────────────────╢
 ║ Seeming - Childling            ║ Banality   │ ▼▼▼·· ·····                      │ Movement Speed  ║
 ║                                ║   Temp     │ ░░░░░ ░░░░░                      │ ??w/??j/???r yd ║
@@ -21,8 +21,8 @@
 ║ Alertness  │ ♣·∙∙∙ │           ║ Animal Ken │ ∙∙∙∙∙ │           ║ Academics    │ ♣···∙ │         ║
 ║ Athletics  │ ·∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Computer     │ ····∙ │         ║
 ║ Brawl      │+♣∙∙∙∙ │           ║ Drive      │ ♣∙∙∙∙ │           ║ Enigmas      │+♣♣♣·∙ │         ║
-║ Empathy    │ ∙∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Gremayre/Occ │+♣♣··∙ │         ║
-║ Expression │ ∙∙∙∙∙ │           ║ Firearms   │ ♣∙∙∙∙ │           ║ Investigatn  │+♣♣♣·∙ │         ║
+║ Empathy    │ ♣∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Gremayre/Occ │+♣♣··∙ │         ║
+║ Expression │ ♣∙∙∙∙ │           ║ Firearms   │ ♣∙∙∙∙ │           ║ Investigatn  │+♣♣♣·∙ │         ║
 ║ Intimidatn │ ♣∙∙∙∙ │           ║ Larceny    │ ♣∙∙∙∙ │           ║ Law          │ ♣♣··∙ │         ║
 ║ Kenning/Aw │ ♣∙∙∙∙ │           ║ Melee      │+♣∙∙∙∙ │           ║ Medicine     │ ····∙ │         ║
 ║ Leadership │+∙∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ♣♣··∙ │         ║
