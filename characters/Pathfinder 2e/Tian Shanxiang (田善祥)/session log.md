@@ -2,7 +2,53 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 14?future - 2024-12-03
+### Session 17?future - 2024-12-24
+### Session 16 - 2024-12-17
+- Approaching the house
+    - We climb over the wall to un-bar the side door
+    - Enter and re-bar the front and side door
+    - The place is empty, but has been somewhat tidied up
+- Decompressing at the manor
+    - There's a pouch of tea leaves, and a note wishing Xiuhua well, left by Mountain Summit Grass
+    - Mikazuki hunts for snacks
+    - Shanxiang lights the fireplace, then has Yin help her de-harness Péngpéng
+    - Bulan goes off to share a bed with Xiuhua
+    - Kumiho sneaks into Xiuhua's room to peek on her and Bulan
+        - Bulan and Xiuhua finally kiss
+        - Xiuhua gets to drink from Bulan's neck
+        - Kumiho startles them
+        - Bulan gives no shits and goes for Xiuhua anyway
+        - Kumiho leaves the room laughing, and we fade to black on Bulan/Xiuhua
+    - Mika and Miho have a discussion about the young ones and life
+    - Xiang joins them and similarly chats with Miho
+- We rest
+    - Bulan and Xiuhua awaken extremely well rested
+    - Mikazuki has nightmares of Bulan dying, wakes up with the cursed doll even angrier at her
+    - Shanxiang and Yin sleep well
+    - +20 XP to Shanxiang and Xiuhua for recovering their heirloom boons
+XP: 553/1000
+
+### Session 15 - 2024-12-10
+- At the Matsuki estate, it's pouring rain
+    - We get dinner
+    - Shanxiang and Xiuhua talk about the house
+    - Mikazuki and Elizeth talk about Bulan
+    - Mikazuki and Shanxiang talk about Elizeth and the youngins
+    - Kumiho and Xiuhua talk about Xiuhua's romantic interest in Bulan
+    - Kumiho and Mikazuki talk about ???
+- We head out towards the mills' docks
+    - Encounter on the road as we're accosted by the two Jincan that fled earlier
+    - They make a hit and run attack, we return the favor, they leave
+    - +20 XP
+    - Kumiho suspects that Xiuhua is undead or otherwise weirdly affected by healing magic
+- At the docks, we all pile onto the barge and begin pushing
+    - We spot enemies on the bridge
+    - Mikazuki creates an illusion to distract the observers and we stealth under them
+    - We make it to the boat launch of the estate
+    - +40 XP
+XP: 533/1000
+
+### Session 14 - 2024-12-03
 - Counting their numbers
     - 4 faceless, longbows
     - 7 faceless, spears
