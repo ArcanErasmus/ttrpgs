@@ -1,7 +1,87 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born   /  /19  )                       ║
+║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born 10/24/1977)                       ║
 ╠════════════════════════════════╩═════════════════════════════════════════════════════════════════╣
+║ Rules for Intimacies:                                                                            ║
+║ · When pressured to betray an Intimacy (incl. supernatural), roll WP diff 8 to resist.           ║
+║ · 1/session, when act to strongly support/affirm an Intimacy, regain 1 WP.                       ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Changeling Rules: Childling Triggers                                                     ║
+║ · Risk Banality when you deny a novel idea.                                                      ║
+║ · Failing to overcome Banality does not trigger you.                                             ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Special Clurichaun Rules: Affinity, Revelry, Unleashing                                          ║
+║ · -1 diff on cantrips involving the Actor Realm.                                                 ║
+║ · Common Revelries: Assembling a collection, finding a rare treasure, a good brawl.              ║
+║ · Unleashing: Cantrips bring the sensation of tired Irish stereotypes - Whiskey, shamrocks, etc. ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Clurichaun Birthright: Twinkling of an Eye                                                       ║
+║ · Unless bound with iron, you can vanish in a blink, even from someone's grasp, reappearing in   ║
+║   the same general area but out of her observer/captor's line of sight. If bound, restrained, or ║
+║   being physically touched, this costs one point of Glamour, otherwise it is free.               ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Clurichaun Birthright: Fighting Words                                                            ║
+║ · After only a few moments, you can get a read on a group, knowing exactly the words to provoke  ║
+║   a fight. You can prod anyone into throwing the first punch, but the target can resist with a   ║
+║   WP roll diff 8.                                                                                ║
+║ · Can be used to incite a fight between you and the target, or the target and another person.    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Clurichaun Frailty: Hoard                                                                        ║
+║ · Must spend time with your collection. Spending more than a week away triggers Banality.        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ House Boon: Scathach                                                                             ║
+║ · Make no sound when fighting unless you choose to do so.                                        ║
+║ · -1 diff on Stealth rolls, and can never botch.                                                 ║
+║ · +1 die on all Brawl and Melee rolls.                                                           ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ House Flaw: Scathach                                                                             ║
+║ · +2 diff on all Social rolls with other nobles or royalist commoners, except nobles from houses ║
+║   Liam and Danaan.                                                                               ║
+║ · Forbidden from using the Sovereign Art, ban backed by the Dreaming itself.                     ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Background: Contacts (♣♣···)                                                                     ║
+║ · Someone in the Verbena.                                                                        ║
+║ · ???                                                                                            ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Background: Holdings (♣♣···)                                                                     ║
+║ · TODO Design Freehold.                                                                          ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Background: Resources (♣····)                                                                    ║
+║ · Working-class residence and lifestyle, requiring careful budgeting.                            ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Background: Title (♣·····)                                                                       ║
+║ · Esquire of House Scathach.                                                                     ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Merit: Art Affinity (♣♣♣♣♣)                                                                      ║
+║ · Art: Chicanery                                                                                 ║
+║ · -2 diff on all rolls with selected Art.                                                        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: Fake It (♣♣♣)                                                                             ║
+║ · When you successfully lie about your proficiency in a task with Subterfuge + Manipulation and  ║
+║   then attempt to prove it, -2 diff to all rolls to carry out your ambition.                     ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: Good Listener (♣)                                                                         ║
+║ · -2 diff to all rolls related to obtaining information from others.                             ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
 ║ Merit: Language (♠)                                                                              ║
 ║ · (First Language: Spanish)                                                                      ║
 ║ · English                                                                                        ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Merit: Specific Interests (♣)                                                                    ║
+║ ·                                                                                                ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════╣
+║ Flaw: Allergic (♣···)                                                                            ║
+║ · Allergic to cats and dogs.                                                                     ║
+║ · Minor allergy, sneezing and clogged sinuses.                                                   ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Curiousity (♣♣)                                                                            ║
+║ · To suppress the temptation for knowledge, WP diff 5 to 9 depending on how intriguing it is.    ║
+╟──────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Flaw: Cursed (♣♣♣♣·)                                                                             ║
+║ · A curse has been laid upon Camila by a vengeful Sabbat Temere, for rescuing a Kithian commoner ║
+║   who they were preying upon.                                                                    ║
+║ · You are required to consume precious objects regularly, an expenditure that is hard to afford, ║
+║   requiring 5 dots of Resources to handle comfortably, or 4 dots to afford at all.               ║
+║ · While generally unpleasant and sickening to perform, starvation is worse, following the rules  ║
+║   for Vampires deprived of feeding.                                                              ║
+║ · (The curse is currently being suppressed by Medea)                                             ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝

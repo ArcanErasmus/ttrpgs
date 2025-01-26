@@ -5,10 +5,10 @@
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
 ║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
-║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 153/170 P│ 081/106 E║
-║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ♦                      ├──────────┼──────────╢
+║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 170/180 P│ 099/114 E║
+║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║
-║                                ║ Motes Ps/Ph│ 12[00]/18 │ 46[00]/46 Perip  └──────────┴──────────╢
+║                                ║ Motes Ps/Ph│  2[04]/18 │ 11[00]/46 Perip  └──────────┴──────────╢
 ╠══════════════╤══════════════╦══╩════════════╪═══════╤═══╧═══════╦════════════════════╤═══════════╣
 ║ Physical     │ 1 Level      ║ Abilities     │ Level │ Spec      ║ Merit              │ Value     ║
 ╟──────────────┼──────────────╫───────────────┼───────┼───────────╫────────────────────┼───────────╢
@@ -74,11 +74,12 @@
 ║ Glance-Oration Technique                        ║ Surging Thew Technique                         ║
 ║ Lapdog's Quiet Reign                            ║ Terrifying Ogre Alteration                     ║
 ║ Perfect Symmetry                                ║                                                ║
+║-Smile Hides Everything -----------------        ║ -Wits-                                         ║
+║                                                 ║ Boundary-Marking Meditation                    ║
+║ -Perception-                                    ║ Grudge-Nursing Resentment                      ║
+║ Sense-Sharpening Change                         ║ Pack Instinct Affirmation                      ║
 ║                                                 ║                                                ║
-║ -Perception-                                    ║ -Wits-                                         ║
-║ Sense-Sharpening Change                         ║ Boundary-Marking Meditation                    ║
-║                                                 ║ Grudge-Nursing Resentment                      ║
-║ -Stamina-                                       ║ Pack Instinct Affirmation                      ║
+║ -Stamina-                                       ║                                                ║
 ║ Bear-Sleep Technique                            ║                                                ║
 ║ Den Warden Method                               ║                                                ║
 ║ Durant Quicksilver Adaptation                   ║                                                ║
@@ -111,6 +112,7 @@
 ║ + Mongrel (Fight-horny and regular horny)                                                        ║
 ║ + Mongrel (Makes sense)                                                                          ║
 ║ + Mongrel (Packmember)                                                                           ║
+║ + Mongrel (Wish we were bonded)                                                                  ║
 ║ + River (Attraction)                                                                             ║
 ║ + River (Desire to understand)                                                                   ║
 ║ + River (Packmember)                                                                             ║
@@ -123,6 +125,7 @@
 ║                                                                                                  ║
 ║ -Minor-                                                                                          ║
 ║ P Abusing animals is disgusting                                                                  ║
+║ P I should protect the downtrodden                                                               ║
 ║ + Dowager (Expect to be like Mongrel)                                                            ║
 ║ + Grace (Attraction)                                                                             ║
 ║ + Grace (Desire to understand)                                                                   ║
@@ -135,12 +138,14 @@
 ║ + Robot things (Respect for duty)                                                                ║
 ║ + Scrimshaw (Sympathy)                                                                           ║
 ║ + Scrimshaw (Romantic attraction)                                                                ║
+║ + Shoat (Respect)                                                                                ║
 ║ + The Cathedral Folk (Familiar)                                                                  ║
 ║ - Cities and towns (Fear)                                                                        ║
 ║ - Grace (Discomfort)                                                                             ║
 ║ - Mongrel (Worry for her actions)                                                                ║
+║ - Powerful people of the Noss Fens (growing discomfort with their active cruelty)                ║
 ║ - Scrimshaw (Frustration)                                                                        ║
-║ - Shoat (Anger)                                                                                  ║
+║ - Shoat (Exasperation)                                                                           ║
 ║ - Siaka (Hostility)                                                                              ║
 ║ - Undead (Disgust)                                                                               ║
 ║                                                                                                  ║
@@ -154,12 +159,16 @@
 - Overcoming an entrenched situation or belief in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by her flavor of neurodivergence and issues; removing a major impediment to her or her Circle’s goals through sheer obstinance; protecting a Major or Defining Intimacy to an individual or community she's actually started to care about.
 
 ### Training Notes (Currently Resplendent Water 23, RY768)
+- Resplendent Water 26, RY768 - Appearance Charm (II/I), Smile Hides Everything
+- Resplendent Water 26, RY768 - Stamina Charm (III//II), Invulnerable Moonsilver Carapace
 - Descending Water 2, RY768 - Lore I
+- Descending Water 3, RY768 - Claws of the Silver Moon Evocation (II), Shut Up
 - Descending Water 9, RY768 - Integrity III
 - Descending Water 9, RY768 - Presence IV
 - Descending Water 21, RY768 - Intelligence II
     - is prereq for Intelligence III (12 weeks, 7 xp) (if caste: 4 weeks, 6 xp)
 - Descending Water 23, RY768 - Manipulation II
+- Descending Water 23, RY768 - Willpower VII
 - Ascending Wood 21, RY768 - Charisma III
     *Flashback Advance: Meat has finally met an obstacle she can't punch: self-expression. Replaying her argument with Scrimshaw over and over and over again in her head, she hunted for the words to make him understand her. That moment has long passed, but this time, she's more prepared to speak what she means, how she means it.*
     - is prereq for Charisma IV (16 weeks, 11 xp) (consider stunting) (if caste: 5 weeks, 9 xp)

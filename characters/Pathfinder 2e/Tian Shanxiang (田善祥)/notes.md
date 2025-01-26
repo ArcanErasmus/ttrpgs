@@ -4,7 +4,7 @@
     - Yong Wu-Xiu, female kitsune blacksmith
     * Mother Otis, genderfluid half-elf innkeeper
     - Choe Chung-hu, male human miller
-    - Kwaka, male tengu guild leader
+    - Kwaka Myna, male tengu guild leader
     * Nadoya Sanmi, female human family matriarch
     - Luo Xi Yang, female human lawyer
     - Huo Tian-Zhe, male human inventor
@@ -65,11 +65,12 @@
     - *Opinion: We talk sometimes! She's not much further than the shrine to Abadar, and I occasionally send gifts with Xiuhua.*
     - Ironworks inherited from father about a decade ago
     - `Xiuhua` helps her out around the forge frequently
-- Kum Soon-shong, male human veterinarian
+    - `Shanxiang` knows that she's an ex-adventurer. While her father ran the smithy, she used to travel extensively. She is a Fighter, and she used to travel with her partymember and friend Elizeth (the Cleric).
+- Kum Soon-chong, male human veterinarian
     - *Opinion: I've taken the kids by on more than one occasion.*
     - Affable attitude, compassion for animals
     - Father of Meng-sung
-- Meng-sung, male human veterinarian
+- Kum Meng-sung, male human veterinarian
     - *Opinion: What a cute tyke! Obviously gets his big heart from his father, hopefully he grows up just as sweet.*
     - Affable attitude, compassion for animals
     - Teenager
@@ -104,7 +105,8 @@
     - Visited Willowshore and Tan Sugi monastery as a child
     - Plays flute in the graveyard often to soothe recently-buried spirits
     - Raised `Bulan` at the temple
-- Kwaka, male tengu guild leader
+    - `Shanxiang` knows that she's an ex-adventurer. She used to travel with her partymember and friend Wu-Xiu (the Fighter).
+- Kwaka Myna, male tengu guild leader
     - *Opinion: Politically, I am forced by my dependence on a stipend to not visibly support the laborers' plight. But I can be a good and reliable customer, and bring occasional gifts. Kwaka especially has my respect for keeping a level head and an open heart. And besides, I love to chat about books!*
     - Senior bookmaker
     - Leads meetings with the laborers to discuss how they should negotiate with the governor
@@ -172,7 +174,7 @@
 - Mother Otis, innkeeper (friend/crush)
 - Choe Chung-hu, miller (friend)
 - Elizeth Candora, cleric (rival)
-- Kwaka, guild leader (acquaintance)
+- Kwaka Myna, guild leader (acquaintance)
 - Nadoya Sanmi, matriarch/grocer (friend/crush)
 - Luo Xi Yang, lawyer (friend)
 - Huo Tian-Zhe, inventor (acquaintance)
@@ -294,7 +296,7 @@
         - Cloud Paper House, paper mill
         - Jadeite Essentials, distillery
         - Rebel's Leatherworks, tannery
-    - Kwaka
+    - Kwaka Myna
 13. Woodraft Lake
     - Created by the nearby dam, part of an effort by the first Governor to tame the river
     - Provided more stable water flow, as well as wet storage for wood

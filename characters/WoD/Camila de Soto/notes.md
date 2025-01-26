@@ -25,6 +25,7 @@
         - Oaths are really fun, need to figure out how to tie in PI angle
 - Court
     - Seelie? Traditionalist characters are against the grain for me, might fit in (especially one who is a failure at what they want)
+    - Unseelie? Easier to stomach uncaring attitudes towards mortals
 - Legacy
     - 
 - Seeming
@@ -33,6 +34,10 @@
     - What was I like as a Childling?
     - Why am I not yet a Grump?
 - House
+    - Scathach
+    - Crossed the Sabbat in a way that endangered a treaty they had with House Gwydion, forced to flee the Kingdom of the Feathered Serpent (Mexico)
+        - Suggestion: Saved a commoner that was being preyed upon by a politically important Sabbat member
+    - TODO: Find a mentor or other figure who inducted you into House Scathach
 
 ## Why did I hire you, other member?
 - Keane Émile (the lunar single mom to Francis)
@@ -57,3 +62,154 @@
 - Mentor?
     - in what?
 - Remembrance?
+
+## Houses
+### Seelie
+- Beaumayn
+    - "Dark Stars, Hopeless"
+    - Prophets and esoteric researchers, dedicated to understanding the occult and supernatural creatures, secretive and curious
+    - B: +Perception, +Kenning, 1/story prophetic vision/dream
+    - F: Hated and detectable by Shadow Court and Thallain
+- Dougal
+    - "Smiths, Broken"
+    - No-nonsense attitude, wise planning, eschew intrigue, ableism (or fears of it?)
+    - B: 1/story convert Glamour to/from WP, +Crafts
+    - F: If purchase Title background dots then -Animal Ken -Empathy -Subterfuge, worse with touching cold iron
+- Eiluned
+    - "Sorcerers, Sneaks"
+    - Intrigue, faerie magic, changeling politics
+    - B: Detect cantrip/Unleashing and casters, +Gremayre
+    - F: Must try to discover secret behind things kept hidden or else +1 Nightmare
+- Fiona
+    - "Lions, True Hearts, Gossips"
+    - Rebellious and headstrong, sensual and hedonistic, hospitality and dedication
+    - B: No fear (even magical) unless lover in danger
+    - F: Lose WP when decline a challenge to avoid risk
+- Gwydion
+    - "Falcons, Proud"
+    - Ambitious and unstable
+    - B: Sense truth/lie with roll vs anyone except House Eiluned
+    - F: Insults must be met with revenge before sunrise or Banality
+- Liam
+    - "Monks, Oathbreakers"
+    - Quiet sages, protectors of mortals, stigma of disgrace
+    - B: Spend Glamour to reduce a mortal's Banality or a changeling's Nightmare
+    - F: Start at +1 Banality, cannot Ravage for Glamour
+* Scathach
+    - "Gray Walkers, Killers"
+    - Anomalous, close to commoners and outsiders from sidhe, uneasy Autumn leaders
+    - B: +Stealth, +Brawl/Melee
+    - F: -Social with nobles and royalist commoners except Houses Liam and Danaan, cannot use Sovereign
+
+### Unseelie
+- Aesin
+- Ailil
+- Balor
+* Danaan
+    - "Pathfinders, Lost"
+    - Only made recent contact, existence still rumors, small and scattered house, dislike mortal world
+    - B: No risk of Bedlam in the Dreaming, easy navigation of trods, can always locate Silver Path, 1/session add Title to Social with chimera/Dreaming
+    - F: Frequent WP rolls to remember mortal details
+- Daireann
+- Leanhaun
+- Varich
+
+# Character Creation
+## Step One: Concept
+- A late-awakened clurichaun commoner who yearned for the connections and stability of a noble house. After making enemies of the Sabbat in the Kingdom of the Feathered Serpent, she was cursed and exiled to the USA alone, keeping her mortal family in the dark. Having since been sworn in to House Scathach, she works to build her own mixed network, while managing her enemies and her magical malady.
+- Kith: Clurichaun
+- Court: Seelie
+- Legacy:
+    - S: Paladin - Regain WP when overcome a truly challenging obstacle; Never refuse a fair challenge
+    - U: Ringleader - Regain WP when use your followers to accomplish your goal; Never allow any one person to threaten your organization or goals
+- Seeming: Childling
+- House: Scathach
+
+## Step Two: Traits
+- Attr DONE
+- Abil DONE
+
+## Step Three: Advantages
+- BG DONE
+- Arts (3) and Realms (5) DONE
+
+### Arts
+Arts
+- *Chicanery*: Illusion magic. considered fit only for Commoners
+    - 1-3 dots
+- *Chronos*: time magic. Once only used by nobles and the sidhe are still angry that commoners can learn it now
+    - 1 dot
+- Dragon's Ire: the most straight forward combat Art with several good buff powers and one magic ranged attack. reasonably rare, it's usually considered the sole domain of noble warrios, but this isnt quite true
+    - 1-2 dots
+
+## Step Four: Tempers
+- WP DONE
+- Glamour DONE
+- Banality DONE
+
+## Step Five: Birthrights and Frailties
+- Kithain innates DONE
+
+## Step Six: Freebie Points
+- Merits DONE
+- Flaws DONE
+
+## Step Seven: Specialties
+- DONE
+
+## Step Eight: Threshold and Antithesis
+- Threshold
+- Antithesis
+
+## Step Nine: Spark of Life
+- Motivation
+- Identity, mortal and changeling
+- Appearance
+- Quirks
+
+# Freehold planning
+- 3 dots holdings
+- 4 dots resources
+## Acquisition
+- Chimerically bequeathed by the Scathach knight who inducted her, legally purchased and renovated by Medea
+
+## Archetype
+- Market: -2 diff persuasion & subterfuge
+
+## Aspect
+- Former Stronghold, then Hearth, a keep under the offramp
+
+## Appearance
+
+## Hierarchy
+
+## Quirks
+
+## Point-Buy Features
+- Size 4
+- Sanctuary 2-5 from Skeletons
+- Resources 1-3 of money, ???
+- Passages 0-2, Near Dreaming, Deep Dreaming?, other mundane loc?
+- Powers
+    - Glamour to Dross 2
+    - Dual Nature 2 (Workshop)
+        - Produces chimerical books or 
+    - Resonant Dreams 2 (???)
+- Balefire 2?
+
+
+- 18/18
+- Size 4
+- Sanctuary 3
+    - 1-dot value outside
+    - 5-dot value inside
+- Resources 3
+    - Mundane cash plus something else
+- Passages 0
+- Dual Nature 2
+    - Workshop, produces recorded stories
+- Glamour to Dross 2
+- Balefire 2
+- Cantrip 2
+    - 1-dot Chronos on Props
+    - The Chrono-projector. Put something under the slides and you can see the history of it displayed on the wall of the movie den. This means she does have to usher everyone out of the den when it's time for detective work.

@@ -17,10 +17,6 @@ Appearance - Influence
         * Hope-Renewing Gesture
         // Break mental influence over someone, auto success vs solar mate
 
-Appearance - Subterfuge
-* Smile Hides Everything MFS 35
-// Appearance instead of Manipulation to Guile, 1m to make 1's subtract
-
 Perception - Senses
 * Soul's Eclipse Unity
 // Always know of Solar mate's physical/emotional distress

@@ -1,42 +1,53 @@
 ╔════════════════════════════════╦═════════════════════════════════════════════════════════════════╗
-║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born   /  /19  )                       ║
+║ Chronicle - Semiautomagic      ║ Camila de Soto, She/Her (Born 10/24/1977)                       ║
 ╠════════════════════════════════╬════════════╤════════════════════════════════════════════════════╣
 ║ Core                           ║ Stat       │ Value                                              ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────────┬─────────────────╢
 ║ Kith - Clurichaun              ║ Health     │ 0  1  2 5 x                      │ XP Total/Spent  ║
-║ Court - Seelie, HOUSE          ║   Current  │ ♣ ♣♣ ♣♣ ♣ ♣                      ├─────────────────╢
-║ Legacy -                       ║ Willpower  │ ♣♣♣♣                             │  00/ 00         ║
-║ Seeming - Wilder               ║ Glamour    │ ♣♣♣♣                             ├─────────────────╢
-║                                ║ Banality   │ ▓▓▓░░ ░░░░░                      │ Movement Speed  ║
-║                                ║            │                                  │ ??w/??j/???r yd ║
+║ Court - Seelie                 ║   Current  │ ♣ ♣♣ ♣♣ ♣ ♣                      ├─────────────────╢
+║ House - Scathach               ║ Willpower  │ ♣♣♣♣♣                            │  18/ 06         ║
+║ Legacy - Paladin/Ringleader    ║ Glamour    │ ♣♣♣♣♣ ♣                          ├─────────────────╢
+║ Seeming - Childling            ║ Banality   │ ▼▼▼·· ·····                      │ Movement Speed  ║
+║                                ║   Temp     │ ░░░░░ ░░░░░                      │ ??w/??j/???r yd ║
 ╠════════════╤═══════╤═══════════╬════════════╪═══════╤═══════════╦══════════════╪═══════╤═════════╣
 ║ Physical   │ Level │ Spec      ║ Social     │ Level │ Spec      ║ Mental       │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
-║ Strength   │ ♣∙∙∙∙ │           ║ Charisma   │ ♣∙∙∙∙ │           ║ Perception   │ ♣∙∙∙∙ │         ║
-║ Dexterity  │ ♣∙∙∙∙ │           ║ Manipulatn │ ♣∙∙∙∙ │           ║ Intelligence │ ♣∙∙∙∙ │         ║
-║ Stamina    │ ♣∙∙∙∙ │           ║ Appearance │ ♣∙∙∙∙ │           ║ Wits         │ ♣∙∙∙∙ │         ║
+║ Strength   │ ♣♣·∙∙ │           ║ Charisma   │ ♣··∙∙ │           ║ Perception   │ ♣♣♣·∙ │         ║
+║ Dexterity  │ ♣♣♣♣∙ │           ║ Manipulatn │ ♣♣♣∙∙ │           ║ Intelligence │ ♣♣♣♣∙ │         ║
+║ Stamina    │ ♣♣·∙∙ │           ║ Appearance │ ♣♣·∙∙ │           ║ Wits         │ ♣♣♣·∙ │         ║
 ╠════════════╪═══════╪═══════════╬════════════╪═══════╪═══════════╬══════════════╪═══════╪═════════╣
 ║ Talent     │ Level │ Spec      ║ Skill      │ Level │ Spec      ║ Knowledge    │ Level │ Spec    ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
-║ Alertness  │ ∙∙∙∙∙ │           ║ Animal Ken │ ∙∙∙∙∙ │           ║ Academics    │ ····∙ │         ║
-║ Athletics  │ ∙∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Cmptr/Enigma │ ····∙ │         ║
-║ Awareness  │ ∙∙∙∙∙ │           ║ Drive/Ride │ ∙∙∙∙∙ │           ║ Finance/Sncl │ ····∙ │         ║
-║ Brawl      │ ∙∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Investigatn  │ ····∙ │         ║
-║ Empathy    │ ∙∙∙∙∙ │           ║ Firearms   │ ∙∙∙∙∙ │           ║ Law          │ ····∙ │         ║
-║ Expression │ ∙∙∙∙∙ │           ║ Larceny    │ ∙∙∙∙∙ │           ║ Medicine     │ ····∙ │         ║
-║ Intimidatn │ ∙∙∙∙∙ │           ║ Melee      │ ∙∙∙∙∙ │           ║ Occult       │ ····∙ │         ║
-║ Leadership │ ∙∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ····∙ │         ║
-║ Streetwise │ ∙∙∙∙∙ │           ║ Stealth    │ ∙∙∙∙∙ │           ║ Science      │ ····∙ │         ║
-║ Subterfuge │ ∙∙∙∙∙ │           ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ····∙ │         ║
+║ Alertness  │ ♣·∙∙∙ │           ║ Animal Ken │ ∙∙∙∙∙ │           ║ Academics    │ ♣···∙ │         ║
+║ Athletics  │ ·∙∙∙∙ │           ║ Crafts     │ ∙∙∙∙∙ │           ║ Computer     │ ····∙ │         ║
+║ Brawl      │+♣∙∙∙∙ │           ║ Drive      │ ♣∙∙∙∙ │           ║ Enigmas      │+♣♣♣·∙ │         ║
+║ Empathy    │ ♣∙∙∙∙ │           ║ Etiquette  │ ∙∙∙∙∙ │           ║ Gremayre/Occ │+♣♣··∙ │         ║
+║ Expression │ ♣∙∙∙∙ │           ║ Firearms   │ ♣∙∙∙∙ │           ║ Investigatn  │+♣♣♣·∙ │         ║
+║ Intimidatn │ ♣∙∙∙∙ │           ║ Larceny    │ ♣∙∙∙∙ │           ║ Law          │ ♣♣··∙ │         ║
+║ Kenning/Aw │ ♣∙∙∙∙ │           ║ Melee      │+♣∙∙∙∙ │           ║ Medicine     │ ····∙ │         ║
+║ Leadership │+∙∙∙∙∙ │           ║ Performnce │ ∙∙∙∙∙ │           ║ Politics     │ ♣♣··∙ │         ║
+║ Streetwise │ ♣♣∙∙∙ │           ║ Stealth    │+♣∙∙∙∙ │           ║ Science      │ ····∙ │         ║
+║ Subterfuge │+♣♣♣∙∙ │           ║ Survival   │ ∙∙∙∙∙ │           ║ Technology   │ ····∙ │         ║
 ╟────────────┼───────┼───────────╫────────────┼───────┼───────────╫──────────────┼───────┼─────────╢
 ║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
 ║            │ ∙∙∙∙∙ │           ║            │ ∙∙∙∙∙ │           ║              │ ∙∙∙∙∙ │         ║
 ╠════════════╧═══════╪═══════════╬════════════╧═══════╪═══════════╬══════════════╧═══════╪═════════╣
 ║ Background         │ Value     ║ Merit              │ Value     ║ Flaw                 │ Value   ║
 ╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
-║                    │           ║ Language           │ ♣         ║                      │         ║
-║                    │           ║                    │           ║                      │         ║
-║                    │           ║                    │           ║                      │         ║
+║ Contacts           │ ♣♣···     ║ Art Affinity       │ ♣♣♣♣♣     ║ Allergic (Cats/Dogs) │ ♣···    ║
+║ Holdings           │ ♣♣···     ║ Fake It            │ ♣♣♣       ║ Curiosity            │ ♣♣      ║
+║ Resources          │ ♣····     ║ Good Listener      │ ♣         ║ Cursed               │ ♣♣♣♣·   ║
+║ Title              │ ♣····     ║ Language           │ ♣         ║                      │         ║
+║                    │           ║ Specific Interests │ ♣         ║                      │         ║
+╠════════════════════╪═══════════╬════════════════════╪═══════════╬══════════════════════╪═════════╣
+║ Arts               │ Value     ║ Realms             │ Value     ║ ??                   │ Value   ║
+╟────────────────────┼───────────╫────────────────────┼───────────╫──────────────────────┼─────────╢
+║ Chicanery          │ ♣♣···*    ║ Actor              │F♣♣···     ║                      │ ·····   ║
+║ Chronos            │ ♣····     ║ Fae                │ ♣♣···     ║                      │ ·····   ║
+║                    │           ║ Nature             │ ·····     ║                      │ ·····   ║
+║                    │           ║ Prop               │ ♣♣♣··     ║                      │ ·····   ║
+║                    │           ║ Scene              │ ·····     ║                      │ ·····   ║
+║                    │           ║ Time               │ ·····     ║                      │ ·····   ║
 ╠════════════════════╧═══════════╩════════════════════╪═══════════╩══════════════════════╧═════════╣
 ║ ??                                                  │ Notes                                      ║
 ╟─────────────────────────────────────────────────────┼────────────────────────────────────────────╢
@@ -50,6 +61,12 @@
 ║                                                     │                                            ║
 ║                                                     │                                            ║
 ╚═════════════════════════════════════════════════════╧════════════════════════════════════════════╝
+Freebie points: 1/15
+5 - Merit (Art Affinity)
+2 - Realm (Prop)
+2 - Realm (Actor)
+2 - WP
+3 - Glamour
 
 Collected Modifiers:
 · Global
