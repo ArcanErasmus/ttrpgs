@@ -2,7 +2,7 @@
 ## Bio
 - Ancestry: Kobold (half-kobold/half-human in appearance)
 - Background: Nomad (Jungle)
-- Class: Summoner 5
+- Class: Summoner 6
 - 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
@@ -14,18 +14,18 @@
 ### Ability Scores
 | Stats | Base
 |-------|--------
-| *Str* | 10 (--)
-| *Dex* | 16 (+3)
-| *Con* | 14 (+2)
-| *Int* | 10 (--)
-| *Wis* | 16 (+3)
-| *Cha* | 19 (+4)
+| *Str* | 0
+| *Dex* | 3
+| *Con* | 2
+| *Int* | 0
+| *Wis* | 3
+| *Cha* | 4
 
 ### Resources
 | **Resource** | Value       | Refill
 |--------------|-------------|-------
-| *HP*         | 66/66       | +5/Rest (not with Curse of Nightmares!)
-| *Fortune*    | [ ] [ ] [ ] | =1/Session
+| *HP*         | 78/78       | +6/Rest (not with Curse of Nightmares!)
+| *Fortune*    | [x] [ ] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
@@ -36,15 +36,15 @@
     - (10 mins duration)
 
 ### Defenses
-| **Defense**     | Sum | TEML | Prof | Ability | Bns | Temp
-|-----------------|-----|------|------|---------|-----|-----
-| *Unarmored AC*  | 21  | +    | +5+2 | +3 Dex  | +1  | -
-|-----------------|-----|------|------|---------|-----|-----
-| *Fortitude*     | +11 | ++   | +5+4 | +2 Con  | -   | -
-| *Reflex*        | +10 | +    | +5+2 | +3 Dex  | -   | -
-| *Will*          | +12 | ++   | +5+4 | +3 Wis  | -   | -
-|-----------------|-----|------|------|---------|-----|-----
-| *Fire*          |  2  |                             | -
+| **Defense**     | Sum | TEML | Abil | Bns | Temp
+|-----------------|-----|------|------|-----|-----
+| *Unarmored AC*  | 22  | +    | Dex  | -   | -
+|-----------------|-----|------|------|-----|-----
+| *Fortitude*     | +12 | ++   | Con  | -   | -
+| *Reflex*        | +11 | +    | Dex  | -   | -
+| *Will*          | +13 | ++   | Wis  | -   | -
+|-----------------|-----|------|------|-----|-----
+| *Fire*          |  3  |                   | -
 - [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
@@ -54,11 +54,11 @@
 | *Arcane DC*     | 21  | +    | Cha  | -   | -
 | *Occult DC*     | 21  | +    | Cha  | -   | -
 |-----------------|-----|------|------|-----|-----
-| *Perception*    | +12 | ++   | Wis  | -   | -
-| *Arcane Attack* | +11 | +    | Cha  | -   | -
-| *Occult Attack* | +11 | +    | Cha  | -   | -
-| *Dex Attack*    | +11 | +    | Dex  | +1  | -
-| *Str Attack*    | +8  | +    | Str  | +1  | -
+| *Perception*    | +13 | ++   | Wis  | -   | -
+| *Arcane Attack* | +12 | +    | Cha  | -   | -
+| *Occult Attack* | +12 | +    | Cha  | -   | -
+| *Dex Attack*    | +12 | +    | Dex  | +1  | -
+| *Str Attack*    | +9  | +    | Str  | +1  | -
 
 ### Attacks
 | **Offense**     | Sum/DC&Save   | TEML | Damage    | Traits
@@ -73,22 +73,21 @@
 ## Skills
 | **Skill**       | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Acrobatics*    | +10 | +    | Dex  | -   | -
-| *Arcana*        | +7  | +    | Int  | -   | -
-| *Athletics*     | +7  | +    | Str  | -   | -
-| *Intimidation*  | +11 | +    | Cha  | -   | -
-| *L: Desert*     | +7  | +    | Int  | -   | -
-| *L: Kobold*     | +7  | +    | Int  | -   | -
-| *L: ?*     | +7  | +    | Int  | -   | -
-| *Nature*        | +10 | +    | Wis  | -   | -
-| *Occultism*     | +7  | +    | Int  | -   | -
-| *Performance*   | +14 | ++   | Cha  | +1  | -
-| *Stealth*       | +10 | +    | Dex  | -   | -
-| *Survival*      | +10 | +    | Wis  | -   | -
-| *Thievery*      | +12 | ++   | Dex  | -   | -
+| *Acrobatics*    | +11 | +    | Dex  | -   | -
+| *Arcana*        | +8  | +    | Int  | -   | -
+| *Athletics*     | +8  | +    | Str  | -   | -
+| *Deception*     | +12 | +    | Cha  | -   | -
+| *Intimidation*  | +12 | +    | Cha  | -   | -
+| *L: Desert*     | +8  | +    | Int  | -   | -
+| *L: Kobold*     | +8  | +    | Int  | -   | -
+| *Nature*        | +11 | +    | Wis  | -   | -
+| *Occultism*     | +8  | +    | Int  | -   | -
+| *Performance*   | +15 | ++   | Cha  | +1  | -
+| *Stealth*       | +11 | +    | Dex  | -   | -
+| *Survival*      | +11 | +    | Wis  | -   | -
+| *Thievery*      | +14 | ++   | Dex  | +1  | -
 |-----------------|-----|------|------|-----|-----
 | *Crafting*      | +0  |      | Int  | -   | -
-| *Deception*     | +4  |      | Cha  | -   | -
 | *Diplomacy*     | +4  |      | Cha  | -   | -
 | *Medicine*      | +3  |      | Wis  | -   | -
 | *Religion*      | +3  |      | Wis  | -   | -
@@ -327,8 +326,24 @@
 `[General]` `[Skill]`
 - When Aid an ally to Create a Diversion, instead can roll Performance and use that result to determine outcome (ally does not roll)
 
-#### Kobold Lore
+#### Kobold Lore [Ancestry] (5th)
 `[Kobold]`
 - +1 circumstance to Demoralize
 - Gain Trained in Thievery and Stealth (or 2 skills of your choice if wasted)
 - Gain Trained in Kobold Lore
+
+#### Eidolon's Opportunity [Class] (6th)
+`[Eidolon]` `[Evolution]` `[Summoner]`
+- AoO but your Eidolon makes it
+- Reminder: MAP not counted and not incremented for it
+
+#### Basic Bard Spellcasting [Archetype] (6th) (FREE)
+`[Archetype]`
+- Gain basic spellcasting benefits, occult list
+
+#### Pickpocket [Skill] (6th)
+`[General]` `[Skill]`
+- Can Steal or Palm an Object that's closely guarded, such as in a pocket, without taking the –5 penalty
+- If Master in Thievery, can attempt to Steal from a creature in combat or otherwise on guard, at -5 penalty, taking 2 actions
+
+<!-- #### Armor Proficiency [General] (7th) -->
