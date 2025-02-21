@@ -4,7 +4,7 @@
 ║ Core                           ║ Stat       │ Value                        │ Ess Rating │ ♦♦♦∙∙  ║
 ╟────────────────────────────────╫────────────┼──────────────────────────────┼────────────┴────────╢
 ║ Tell - Croc tail or skin       ║ Health     │ -0       -1    -3 x          │ XP Spent/Total      ║
-║ Caste - Casteless              ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
+║ Caste - Changing Moon          ║   Current  │ ♦♦ ♦♦♦♦♦♦♦♦ ♦♦♦♦♦ ♦          ├──────────┬──────────╢
 ║ Spirit Shape - Boar-Tusk Croc  ║ Willpower  │ ◘◘◘◘◘ ◘····                  │ 170/180 P│ 099/114 E║
 ║ Limit Trigger - When a pack    ║   Current  │ ♦♦♦♦♦ ·                      ├──────────┼──────────╢
 ║  member or I suffer a betrayal ║ LimitTrack │ ▓▓▒▒▒ ▒▒▒▒▒                  │ Anima    │ Dim      ║

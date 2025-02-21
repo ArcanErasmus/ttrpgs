@@ -19,7 +19,7 @@ I hate when people complicate the truth with words. Shut up and fight me! When s
 - Duration: Instant
 - Prerequisite Charms: None
 Full to bursting with nourishing thoughts and desires, The lunar sheds a core aspect of her identity, attaining a new form more appropriate to her next stage of life.
-(Change idefining principles/ties)
+(Change defining principles/ties)
 
 ## Universal
 ### Moon's Reflection Recast
