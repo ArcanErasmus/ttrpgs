@@ -1,7 +1,7 @@
 # XP Log
 - Base: 5000
-- Age: +1000
-- *Budget: 6000*
+- Age: +1600
+- *Budget: 6600*
 
 ## Life Modules
 ### 0 - Affiliation
@@ -164,12 +164,13 @@
 ### 4 - Real Life (Optional)
 - Can take multiple, can repeat, repeats don't give Attribute and Trait XP, only give more Skill XP
 
-#### 1500 XP, Total: 4536
+#### 1500 XP, Total: 5136
+600: Civilian Job (6)
 600: Civilian Job (6)
 900: Covert Operations (6)
 
 #### Changes
-- *Flexible XPs +85 XP*
+- *Flexible XPs +170 XP*
 [Attributes]
 - Choose two: BOD (+50 XP), RFL (+50 XP), WIL (+50 XP), EDG (+50 XP);
 - INT (+25 XP);
@@ -185,25 +186,32 @@
 [Skills]
 - +25 XP six times to Skills in Military/Intelligence/Police Skill Fields
 - +20 XP to any four Skills in the character’s chosen civilian career Field
+- +20 XP to any four Skills in the character’s chosen civilian career Field
 - Acting (+25 XP)
-- Administration (+125 XP)
-- Career/Any Non-Military (+40 XP)
+- Administration (+200 XP)
+- Career/Any Non-Military (+80 XP)
 - Communications/Any (+50 XP)
-- Computers (+90 XP)
+- Computers (+130 XP)
 - Cryptography (+60 XP)
+- Driving/Any (+60 XP)
 - Driving/Any (+60 XP)
 - Interest/Any (+50 XP)
 - Interest/Any (+50 XP)
+- Interest/Any (+50 XP)
+- Interest/Any (+50 XP)
 - Interrogation (+75 XP)
-- Leadership (+40 XP)
-- Negotiation (+30 XP)
+- Leadership (+80 XP)
+- Negotiation (+60 XP)
 - Perception (+50 XP)
+- Protocol/Affiliation (+50 XP) (ComStar)
 - Protocol/Affiliation (+50 XP) (ComStar)
 - Small Arms (+50 XP)
 - Strategy (+50 XP)
 - Survival/Any (+75 XP)
 - Tactics/Any (+40 XP)
 - Technician/Any (+50 XP)
+
+
 
 #### Prereqs
 - No Combat Paralysis Trait
@@ -212,8 +220,8 @@
 
 ## Final Count
 #### XP
-- Budget: 4536/6000
-- Flexible: 385
+- Budget: 5136/6600
+- Flexible: 470
 
 #### Requirements
 - No Combat Paralysis Trait
@@ -225,80 +233,37 @@
 - WIL 5
 
 #### Age
-- 31
+- 37
 
 #### Changes to make
 [Skills]
-- +20 XP to any four Skills in the character’s chosen civilian career Field
-- +25 XP six times to Skills in Military/Intelligence/Police Skill Fields
-- Acting (+75 XP)
-- Administration (+125 XP)
-- Arts/Oral Tradition (+15 XP)
-- Career/Any Non-Military (+40 XP)
-- Career/Soldier (+80 XP)
-- Comms/Conventional (+30 XP)
-- Communications/Any (+50 XP)
-- Communications/Conventional (+10 XP)
-- Computers (+110 XP)
-- Cryptography (+60 XP)
-- Disguise (+30 XP)
-- Driving/Any (+60 XP)
-- Driving/Ground Vehicle (+15 XP)
-- Escape Artist (+30 XP)
 - Interest/Any (+20 XP)
 - Interest/Any (+30 XP)
 - Interest/Any (+50 XP)
 - Interest/Any (+50 XP)
+- Interest/Any (+50 XP)
+- Interest/Any (+50 XP)
 - Interest/Combine History (+10 XP)
 - Interest/Writings of Jerome Blake (+10 XP)
-- Interrogation (+75 XP)
-- Language/Any (+20 XP)
-- Language/Any (+30 XP)
-- Language/Any (+30 XP)
-- Language/Any (+30 XP)
-- Language/English Skill (+20 XP)
-- Language/Japanese Skill (+15 XP)
-- Leadership (+40 XP)
-- Martial Arts (+70 XP)
-- MedTech/General (+40 XP)
-- Melee Weapons (+25 XP)
-- Navigation/Ground (+30 XP)
-- Negotiation (+95 XP)
-- Perception (+130 XP)
-- Protocol/Any (+30 XP)
-- Protocol/Combine (+25 XP)
-- Protocol/ComStar (+85 XP)
-- Protocol/Nearest state (+15 XP) (FROM COMSTAR)
-- Security Systems/Any (+30 XP)
-- Small Arms (+80 XP)
-- Stealth (+35 XP)
-- Strategy (+50 XP)
-- Streetwise/Affiliation (+10 XP)
-- Streetwise/Any (+20 XP)
-- Streetwise/Any (+30 XP)
-- Streetwise/Any (+30 XP)
-- Streetwise/Combine (+10 XP)
-- Survival/Any (+75 XP)
-- Tactics/Any (+10 XP)
-- Tactics/Any (+40 XP)
-- Technician/Any (+10 XP)
-- Technician/Any (+30 XP)
-- Technician/Any (+50 XP)
-- Tracking/Any (+30 XP)
-- Tracking/Any (+30 XP)
 
 ## Post-Setup Expenditures
-### Flexible: 385/385
+### Flexible: 470/470
 - Buy off Impatient: 25
 - Buy off In For Life: 110
 - Buy off Introvert: 50
 - Buy off Compulsion/Xenophobia: 50
 - Alternate ID: 40
-- Fast Learner: 110
-### Free: 310/1464
-- Fast Learner: 140
-- DEX: 100
-- CHA: 70
+- Fast Learner: 195
+### Free: 900/1464
+- Fast Learner: 55
+- STR: 100
+- BOD: 100
+- RFL: 50
+- DEX: 200
+- INT: 95
+- WIL: 80
+- CHA: 170
+- EDG: 50
 ### Flaws: -980/-1000
 ### Requirements
 <!-- - +2 TP in the Connections Trait -->
@@ -306,31 +271,30 @@
 <!-- - WIL 5 -->
 <!-- - No Combat Paralysis Trait -->
 <!-- - No Extra Income Trait -->
-- No Illiterate Trait
+<!-- - No Illiterate Trait -->
 <!-- - No Property Trait -->
 
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
 - Reconcile Word of Blake references (don't exist yet, consider pre-split factionalism, or move opposition-based ones to foreign intel networks)
-- Buy off Illiterate or buy up Language skills
 
 # Hinata Hayashi, she/her
 ## Personal Data
-- height cm, weight kg, hair, eyes, other, 31yo
+- height cm, weight kg, hair, eyes, other, 37yo
 - affiliation
 - extra
 
 ## Attributes
 | Attr | # | Link | XP
 |------|---|------|------
-| STR  | 2 |      |
-| BOD  | 2 |      |
-| RLF  | 2 |      | 50
-| DEX  | 2 |      |
-| INT  | 4 |      |  5
-| WIL  | 5 |      | 20
-| CHA  | 2 |      |
-| EDG  | 4 |      | 50
+| STR  | 3 |      |
+| BOD  | 3 |      |
+| RFL  | 3 |      |
+| DEX  | 3 |      |
+| INT  | 5 |      |
+| WIL  | 6 |      |
+| CHA  | 3 |      |
+| EDG  | 5 |      |
 
 ## Combat Data
 ### Combat Monitor
@@ -366,7 +330,6 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Compulsion/Traumatic Memories       | -1 |      | –100 |
 | Enemy                               | -2 |      | –125 |
 | Enemy/Word of Blake                 | -1 |      | –100 |
-*| Illiterate                          |    |      |  –25 |*
 |!In For Life                         | -3 |      | –300 |
 |!Reputation                          | -2 |      | –130 |
 |!Wealth                              | -1 |      | –100 |
@@ -374,7 +337,49 @@ Weapon Skill AP/BD (Range) Ammo Notes
 ! = Identity-Based
 
 ## Skills
-Skill Lvl Links TN/C XP
+| Skill               | Lvl |   Links | TN/C |  XP |
+|---------------------|-----|---------|------|-----|
+| Acting              |   3 |     CHA | 8/CB |  75 |
+| Administration      |   6 | INT+WIL | 8/SA | 200 |
+| Art/Oral Tradition  |   0 |     DEX | 8/CB*|  15 |
+| Career/Cartographer |   4 |     INT | 7/SB | 100 |
+| Career/Soldier      |   3 |     INT | 7/SB |  80 |
+| Comms/Conventional  |   3 |     INT | 7/SB |  90 |
+| Computers           |   5 |     INT | 9/CA | 150 |
+| Cryptography        |   2 | INT+WIL | 9/CA |  60 |
+| Disguise            |   2 |     CHA | 7/SB |  55 |
+| Driving/Ground Veh  |   4 | RFL+DEX | 8/SA | 135 |
+| Escape Artist       |   2 | STR+DEX | 9/CA |  55 |
+| Interrogation       |   3 | WIL+CHA | 9/CA |  75 |
+| Language/English    |   4 | INT+CHA | 8/SA | 100 |
+| Language/Japanese   |   2 | INT+CHA | 8/SA |  45 |
+| Leadership          |   3 | WIL+CHA | 8/SA |  80 |
+| Martial Arts        |   3 |     RFL | 7/SB*|  95 |
+| MedTech/General     |   4 |     INT | 7/SB |  65 |
+| Melee Weapons       |   1 |     DEX | 7/SB*|  25 |
+| Navigation/Air      |   2 |     INT | 7/SB |  60 |
+| Navigation/Ground   |   3 |     INT | 7/SB |  70 |
+| Negotiation         |   4 |     CHA | 8/CB | 125 |
+| Perception          |   4 |     INT | 7/SB | 130 |
+| Protocol/Combine    |   3 | WIL+CHA | 9/CA |  75 |
+| Protocol/ComStar    |   3 | WIL+CHA | 9/CA |  85 |
+| Protocol/Randis     |   2 | WIL+CHA | 9/CA |  45 |
+| Security/Electronic |   1 | DEX+INT | 9/CA |  30 |
+| Security/Mechanical |   1 | DEX+INT | 9/CA |  25 |
+| Sensor Operations   |   2 | INT+WIL | 8/SA |  40 |
+| Small Arms          |   3 |     DEX | 7/SB |  80 |
+| Stealth             |   2 | RLF+INT | 8/SA |  60 |
+| Strategy            |   2 | INT+WIL | 9/CA |  50 |
+| Streetwise/Combine  |   1 |     CHA | 8/CB |  30 |
+| Streetwise/ComStar  |   0 |     CHA | 8/CB |  10 |
+| Streetwise/Randis   |   2 |     CHA | 8/CB |  60 |
+| Survival/Jungle     |   3 | BOD+INT | 9/CA |  75 |
+| Tactics/Infantry    |   0 | INT+WIL | 9/CA |  10 |
+| Tactics/Land        |   2 | INT+WIL | 9/CA |  40 |
+| Tech/Electronics    |   2 | DEX+INT | 9/CA |  40 |
+| Tech/Mechanical     |   2 | DEX+INT | 9/CA |  50 |
+| Tracking/Urban      |   1 | INT+WIL | 8/SA |  30 |
+| Tracking/Wilds      |   1 | INT+WIL | 8/SA |  30 |
 
 ## Biography
 ### Early Childhood - Street
