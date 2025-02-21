@@ -2,7 +2,23 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 17?future - 2024-12-24
+### Session 19?future - 2025-02-25
+### Session 18 - 2025-02-18
+- Approaching the abandoned estate from the north, we spot what appears to be glittering magical spiderwebs on the walls
+    - Touching them with a stick causes a loud shriek to blare out and we hear chittering noises
+- After backing off to the forest, we are assaulted by more giant centipedes
+    - They die, but then a followup wave of more centipedes, and some jincan now too, attack
+    - We leave off mid combat
+
+### Session 17 - 2025-02-04
+- We pack up and leave the compound
+    - Houses on this western end of town are mostly unscathed, though streets empty
+    - Head towards the Leshy's Saloon, an odd and very old stone building
+- We are bundled inside by a tiny birch tree of a person
+    - Mountain Summit Grass serves us a new tea blend, and we chat on the nature of the town and ourselves
+    - Plan of attack: go north around the treeline, scale into the abandoned estate
+        - Purpose: see if there's anything interesting going on there, check shrine to Desna
+
 ### Session 16 - 2024-12-17
 - Approaching the house
     - We climb over the wall to un-bar the side door
