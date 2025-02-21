@@ -12,6 +12,17 @@ Appropriate Lores
 - Lore about a terrain
 - Lore about a type of food/drink (butchering, baking, alcohol, cooking, tea, etc.)
 
+### Session 26 - 2025-01-25
+- *Level up to 6*
+- We arrive in New Belameer
+    - Led in and escorted around by a local guard, Belameer Haella (she/her)
+- Head to the ruins of the temple
+    - We find curved glass shards, identify them as from an alchemical bomb
+    - I read the emotional resonance, get images of the faces of people in the temple at the time
+- We decide to go to the university to question the survivors
+    - A helpful person lets us in, but doesn't have any idea where they would be
+    - They suggest talking to the dean, so we head that way
+
 `END OF SEASON 1`
 ### Session 25 - 2023-06-17
 - We move further into the building
