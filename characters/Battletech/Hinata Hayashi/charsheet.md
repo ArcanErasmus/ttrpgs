@@ -237,47 +237,11 @@
 
 #### Changes to make
 [Skills]
-- Interest/Any (+20 XP)
-- Interest/Any (+30 XP)
-- Interest/Any (+50 XP)
-- Interest/Any (+50 XP)
-- Interest/Any (+50 XP)
-- Interest/Any (+50 XP)
-- Interest/Combine History (+10 XP)
-- Interest/Writings of Jerome Blake (+10 XP)
+- Interest/Any (+250 XP)
 
 ## Post-Setup Expenditures
-### Flaws: -1000/-1000
-### Flexible: 470/470
-- Buy off Impatient: 25
-- Buy off In For Life: 110
-- Buy off Introvert: 50
-- Buy off Compulsion/Xenophobia: 50
-- Alternate ID: 40
-- Fast Learner: 195
-### Free: 1450/1484
-- Fast Learner: 55
-- RFL: 150
-- DEX: 300
-- INT: 95
-- WIL: 80
-- CHA: 270
-- EDG: 50
-- Combat Sense: 250
-- Sixth Sense: 200
-### Optimizing Leftovers: 202
-- Tech Empathy: 20
-- Skills: 182
-### Remaining: 236
-- 
-### Requirements
-<!-- - +2 TP in the Connections Trait -->
-<!-- - INT 4 -->
-<!-- - WIL 5 -->
-<!-- - No Combat Paralysis Trait -->
-<!-- - No Extra Income Trait -->
-<!-- - No Illiterate Trait -->
-<!-- - No Property Trait -->
+### Flaws: -900/-1000
+### Remaining: 462
 
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
@@ -331,21 +295,20 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Trait                               | TP | Page | XP   |
 |-------------------------------------|----|------|------|
 |!Alternate ID                        |  2 |      |  200 |
-| Combat Sense                        |  4 |      |  400 |
 |!Connections                         |  3 |      |  340 |
 |!Equipped                            |  1 |      |  100 |
 | Fast Learner                        |  3 |      |  300 |
 |!Rank                                |  3 |      |  300 |
 | Sixth Sense                         |  4 |      |  400 |
+|!Wealth                              |  1 |      |  100 |
 |-------------------------------------|----|------|------|
 | Compulsion/Hatred of Federated Suns | -1 |      | -100 |
-| Compulsion/Traumatic Memories       | -1 |      | –100 |
+| Compulsion/Traumatic Memories       | -1 |      | -100 |
 |!Dark Secret                         | -1 |      | -100 |
-| Enemy                               | -1 |      | –125 |
-| Enemy/Word of Blake                 | -1 |      | –100 |
-|!In For Life                         | -3 |      | –300 |
-|!Reputation                          | -0 |      |  –75 |
-|!Wealth                              | -1 |      | –100 |
+| Enemy                               | -1 |      | -125 |
+| Enemy/Word of Blake                 | -1 |      | -100 |
+|!In For Life                         | -3 |      | -300 |
+|!Reputation                          | -0 |      |  -75 |
 
 ! = Identity-Based
 
@@ -353,8 +316,8 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Skill               | Lvl |   Links | TN/C |  XP |
 |---------------------|-----|---------|------|-----|
 | Acting              |   3 |     CHA | 8/CB |  64 |
-| Administration      |   6 | INT+WIL | 8/SA | 184 |
-| Art/Oral Tradition  |   1 |     DEX | 8/CB*|  16 |
+| Administration      |   5 | INT+WIL | 8/SA | 136 |
+| Art/Oral Tradition  |   0 |     DEX | 8/CB*|  16 |
 | Career/Cartographer |   4 |     INT | 7/SB |  96 |
 | Career/Soldier      |   3 |     INT | 7/SB |  64 |
 | Comms/Conventional  |   4 |     INT | 7/SB |  96 |
@@ -363,6 +326,8 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Disguise            |   3 |     CHA | 7/SB |  64 |
 | Driving/Ground Veh  |   5 | RFL+DEX | 8/SA | 136 |
 | Escape Artist       |   3 | STR+DEX | 9/CA |  64 |
+| Int/Combine History |   0 |     INT | 8/CB*|  16 |
+| Int/Writings of JB  |   0 |     INT | 8/CB*|  16 |
 | Interrogation       |   3 | WIL+CHA | 9/CA |  64 |
 | Language/English    |   4 | INT+CHA | 8/SA |  96 |
 | Language/Japanese   |   2 | INT+CHA | 8/SA |  40 |
@@ -384,10 +349,10 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Stealth             |   3 | RFL+INT | 8/SA |  64 |
 | Strategy            |   2 | INT+WIL | 9/CA |  40 |
 | Streetwise/Combine  |   1 |     CHA | 8/CB |  24 |
-| Streetwise/ComStar  |   1 |     CHA | 8/CB |  16 |
+| Streetwise/ComStar  |   0 |     CHA | 8/CB |  16 |
 | Streetwise/Randis   |   3 |     CHA | 8/CB |  64 |
 | Survival/Jungle     |   3 | BOD+INT | 9/CA |  64 |
-| Tactics/Infantry    |   1 | INT+WIL | 9/CA |  16 |
+| Tactics/Infantry    |   0 | INT+WIL | 9/CA |  16 |
 | Tactics/Land        |   2 | INT+WIL | 9/CA |  40 |
 | Tech/Electronics    |   2 | DEX+INT | 9/CA |  40 |
 | Tech/Mechanical     |   2 | DEX+INT | 9/CA |  40 |
