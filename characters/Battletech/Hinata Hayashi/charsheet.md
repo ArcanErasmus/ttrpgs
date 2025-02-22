@@ -220,7 +220,7 @@
 
 ## Final Count
 #### XP
-- Budget: 5136/6600
+- Budget: 6136/7600
 - Flexible: 470
 
 #### Requirements
@@ -247,6 +247,7 @@
 - Interest/Writings of Jerome Blake (+10 XP)
 
 ## Post-Setup Expenditures
+### Flaws: -1000/-1000
 ### Flexible: 470/470
 - Buy off Impatient: 25
 - Buy off In For Life: 110
@@ -254,17 +255,21 @@
 - Buy off Compulsion/Xenophobia: 50
 - Alternate ID: 40
 - Fast Learner: 195
-### Free: 900/1464
+### Free: 1450/1484
 - Fast Learner: 55
-- STR: 100
-- BOD: 100
-- RFL: 50
-- DEX: 200
+- RFL: 150
+- DEX: 300
 - INT: 95
 - WIL: 80
-- CHA: 170
+- CHA: 270
 - EDG: 50
-### Flaws: -980/-1000
+- Combat Sense: 250
+- Sixth Sense: 200
+### Optimizing Leftovers: 202
+- Tech Empathy: 20
+- Skills: 182
+### Remaining: 236
+- 
 ### Requirements
 <!-- - +2 TP in the Connections Trait -->
 <!-- - INT 4 -->
@@ -281,20 +286,28 @@
 # Hinata Hayashi, she/her
 ## Personal Data
 - height cm, weight kg, hair, eyes, other, 37yo
-- affiliation
+- ComStar, Draconis Combine
 - extra
 
 ## Attributes
 | Attr | # | Link | XP
 |------|---|------|------
-| STR  | 3 |      |
-| BOD  | 3 |      |
-| RFL  | 3 |      |
-| DEX  | 3 |      |
-| INT  | 5 |      |
-| WIL  | 6 |      |
-| CHA  | 3 |      |
-| EDG  | 5 |      |
+| STR  | 2 |   -1 |
+| BOD  | 2 |   -1 |
+| RFL  | 4 |    0 |
+| DEX  | 4 |    0 |
+| INT  | 5 |    0 |
+| WIL  | 6 |    0 |
+| CHA  | 4 |    0 |
+| EDG  | 5 |    0 |
+
+   +++ STR +
+   +++ BOD +
+   +++ RFL +++
+   +++ DEX +++++ ++++
+ +++++ INT +++++ +++++ +++++ +++++ ++++
+++++++ WIL +++++ +++++ +++
+   +++ CHA +++++ +++++ +++
 
 ## Combat Data
 ### Combat Monitor
@@ -318,20 +331,20 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Trait                               | TP | Page | XP   |
 |-------------------------------------|----|------|------|
 |!Alternate ID                        |  2 |      |  200 |
-| Combat Sense                        |  4 |      |  150 |*250
+| Combat Sense                        |  4 |      |  400 |
 |!Connections                         |  3 |      |  340 |
 |!Equipped                            |  1 |      |  100 |
 | Fast Learner                        |  3 |      |  300 |
 |!Rank                                |  3 |      |  300 |
-| Sixth Sense                         |  4 |      |  200 |*200
-| Tech Empathy                        |  3 |      |   20 |*280
+| Sixth Sense                         |  4 |      |  400 |
 |-------------------------------------|----|------|------|
 | Compulsion/Hatred of Federated Suns | -1 |      | -100 |
 | Compulsion/Traumatic Memories       | -1 |      | –100 |
-| Enemy                               | -2 |      | –125 |
+|!Dark Secret                         | -1 |      | -100 |
+| Enemy                               | -1 |      | –125 |
 | Enemy/Word of Blake                 | -1 |      | –100 |
 |!In For Life                         | -3 |      | –300 |
-|!Reputation                          | -2 |      | –130 |
+|!Reputation                          | -0 |      |  –75 |
 |!Wealth                              | -1 |      | –100 |
 
 ! = Identity-Based
@@ -339,47 +352,47 @@ Weapon Skill AP/BD (Range) Ammo Notes
 ## Skills
 | Skill               | Lvl |   Links | TN/C |  XP |
 |---------------------|-----|---------|------|-----|
-| Acting              |   3 |     CHA | 8/CB |  75 |
-| Administration      |   6 | INT+WIL | 8/SA | 200 |
-| Art/Oral Tradition  |   0 |     DEX | 8/CB*|  15 |
-| Career/Cartographer |   4 |     INT | 7/SB | 100 |
-| Career/Soldier      |   3 |     INT | 7/SB |  80 |
-| Comms/Conventional  |   3 |     INT | 7/SB |  90 |
-| Computers           |   5 |     INT | 9/CA | 150 |
-| Cryptography        |   2 | INT+WIL | 9/CA |  60 |
-| Disguise            |   2 |     CHA | 7/SB |  55 |
-| Driving/Ground Veh  |   4 | RFL+DEX | 8/SA | 135 |
-| Escape Artist       |   2 | STR+DEX | 9/CA |  55 |
-| Interrogation       |   3 | WIL+CHA | 9/CA |  75 |
-| Language/English    |   4 | INT+CHA | 8/SA | 100 |
-| Language/Japanese   |   2 | INT+CHA | 8/SA |  45 |
-| Leadership          |   3 | WIL+CHA | 8/SA |  80 |
-| Martial Arts        |   3 |     RFL | 7/SB*|  95 |
-| MedTech/General     |   4 |     INT | 7/SB |  65 |
-| Melee Weapons       |   1 |     DEX | 7/SB*|  25 |
-| Navigation/Air      |   2 |     INT | 7/SB |  60 |
-| Navigation/Ground   |   3 |     INT | 7/SB |  70 |
-| Negotiation         |   4 |     CHA | 8/CB | 125 |
-| Perception          |   4 |     INT | 7/SB | 130 |
-| Protocol/Combine    |   3 | WIL+CHA | 9/CA |  75 |
-| Protocol/ComStar    |   3 | WIL+CHA | 9/CA |  85 |
-| Protocol/Randis     |   2 | WIL+CHA | 9/CA |  45 |
-| Security/Electronic |   1 | DEX+INT | 9/CA |  30 |
-| Security/Mechanical |   1 | DEX+INT | 9/CA |  25 |
+| Acting              |   3 |     CHA | 8/CB |  64 |
+| Administration      |   6 | INT+WIL | 8/SA | 184 |
+| Art/Oral Tradition  |   1 |     DEX | 8/CB*|  16 |
+| Career/Cartographer |   4 |     INT | 7/SB |  96 |
+| Career/Soldier      |   3 |     INT | 7/SB |  64 |
+| Comms/Conventional  |   4 |     INT | 7/SB |  96 |
+| Computers           |   5 | DEX+INT | 9/CA | 136 |
+| Cryptography        |   3 | INT+WIL | 9/CA |  64 |
+| Disguise            |   3 |     CHA | 7/SB |  64 |
+| Driving/Ground Veh  |   5 | RFL+DEX | 8/SA | 136 |
+| Escape Artist       |   3 | STR+DEX | 9/CA |  64 |
+| Interrogation       |   3 | WIL+CHA | 9/CA |  64 |
+| Language/English    |   4 | INT+CHA | 8/SA |  96 |
+| Language/Japanese   |   2 | INT+CHA | 8/SA |  40 |
+| Leadership          |   3 | WIL+CHA | 8/SA |  64 |
+| Martial Arts        |   4 | RFL+DEX | 8/SA*|  96 |
+| MedTech/General     |   4 |     INT | 7/SB |  64 |
+| Melee Weapons       |   1 |     DEX | 7/SB*|  24 |
+| Navigation/Air      |   3 |     INT | 7/SB |  64 |
+| Navigation/Ground   |   3 |     INT | 7/SB |  64 |
+| Negotiation         |   4 |     CHA | 8/CB |  96 |
+| Perception          |   5 |     INT | 7/SB | 136 |
+| Protocol/Combine    |   3 | WIL+CHA | 9/CA |  64 |
+| Protocol/ComStar    |   3 | WIL+CHA | 9/CA |  64 |
+| Protocol/Randis     |   2 | WIL+CHA | 9/CA |  40 |
+| Security/Electronic |   1 | DEX+INT | 9/CA |  24 |
+| Security/Mechanical |   1 | DEX+INT | 9/CA |  24 |
 | Sensor Operations   |   2 | INT+WIL | 8/SA |  40 |
-| Small Arms          |   3 |     DEX | 7/SB |  80 |
-| Stealth             |   2 | RLF+INT | 8/SA |  60 |
-| Strategy            |   2 | INT+WIL | 9/CA |  50 |
-| Streetwise/Combine  |   1 |     CHA | 8/CB |  30 |
-| Streetwise/ComStar  |   0 |     CHA | 8/CB |  10 |
-| Streetwise/Randis   |   2 |     CHA | 8/CB |  60 |
-| Survival/Jungle     |   3 | BOD+INT | 9/CA |  75 |
-| Tactics/Infantry    |   0 | INT+WIL | 9/CA |  10 |
+| Small Arms          |   3 |     DEX | 7/SB |  64 |
+| Stealth             |   3 | RFL+INT | 8/SA |  64 |
+| Strategy            |   2 | INT+WIL | 9/CA |  40 |
+| Streetwise/Combine  |   1 |     CHA | 8/CB |  24 |
+| Streetwise/ComStar  |   1 |     CHA | 8/CB |  16 |
+| Streetwise/Randis   |   3 |     CHA | 8/CB |  64 |
+| Survival/Jungle     |   3 | BOD+INT | 9/CA |  64 |
+| Tactics/Infantry    |   1 | INT+WIL | 9/CA |  16 |
 | Tactics/Land        |   2 | INT+WIL | 9/CA |  40 |
 | Tech/Electronics    |   2 | DEX+INT | 9/CA |  40 |
-| Tech/Mechanical     |   2 | DEX+INT | 9/CA |  50 |
-| Tracking/Urban      |   1 | INT+WIL | 8/SA |  30 |
-| Tracking/Wilds      |   1 | INT+WIL | 8/SA |  30 |
+| Tech/Mechanical     |   2 | DEX+INT | 9/CA |  40 |
+| Tracking/Urban      |   1 | INT+WIL | 8/SA |  24 |
+| Tracking/Wilds      |   1 | INT+WIL | 8/SA |  24 |
 
 ## Biography
 ### Early Childhood - Street
