@@ -237,11 +237,11 @@
 
 #### Changes to make
 [Skills]
-- Interest/Any (+250 XP)
 
 ## Post-Setup Expenditures
-### Flaws: -900/-1000
-### Remaining: 302
+### Flaws: -1000/-1000
+### Remaining: 228
+- WEALTH AND EQUIPMENT
 
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
@@ -260,7 +260,7 @@
 | BOD  | 2 |   -1 |
 | RFL  | 4 |    0 |
 | DEX  | 4 |    0 |
-| INT  | 5 |    0 |
+| INT  | 7 |   +1 |
 | WIL  | 6 |    0 |
 | CHA  | 4 |    0 |
 | EDG  | 5 |    0 |
@@ -309,55 +309,62 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Enemy/Word of Blake                 | -1 |      | -100 |
 |!In For Life                         | -3 |      | -300 |
 |!Reputation                          | -0 |      |  -75 |
+| TDS                                 | -1 |      | -100 |
 
 ! = Identity-Based
 
 ## Skills
-| Skill               | Lvl |   Links | TN/C |  XP |
-|---------------------|-----|---------|------|-----|
-| Acting              |   3 |     CHA | 8/CB |  64 |
-| Administration      |   5 | INT+WIL | 8/SA | 136 |
-| Art/Oral Tradition  |   0 |     DEX | 8/CB*|  16 |
-| Career/Cartographer |   4 |     INT | 7/SB |  96 |
-| Career/Soldier      |   3 |     INT | 7/SB |  64 |
-| Comms/Conventional  |   4 |     INT | 7/SB |  96 |
-| Computers           |   5 | DEX+INT | 9/CA | 136 |
-| Cryptography        |   3 | INT+WIL | 9/CA |  64 |
-| Disguise            |   3 |     CHA | 7/SB |  64 |
-| Driving/Ground Veh  |   5 | RFL+DEX | 8/SA | 136 |
-| Escape Artist       |   3 | STR+DEX | 9/CA |  64 |
-| Int/Combine History |   0 |     INT | 8/CB*|  16 |
-| Int/Writings of JB  |   0 |     INT | 8/CB*|  16 |
-| Interrogation       |   3 | WIL+CHA | 9/CA |  64 |
-| Language/English    |   4 | INT+CHA | 8/SA |  96 |
-| Language/Japanese   |   2 | INT+CHA | 8/SA |  40 |
-| Leadership          |   3 | WIL+CHA | 8/SA |  64 |
-| Martial Arts        |   4 | RFL+DEX | 8/SA*|  96 |
-| MedTech/General     |   4 |     INT | 7/SB |  64 |
-| Melee Weapons       |   1 |     DEX | 7/SB*|  24 |
-| Navigation/Air      |   3 |     INT | 7/SB |  64 |
-| Navigation/Ground   |   3 |     INT | 7/SB |  64 |
-| Negotiation         |   4 |     CHA | 8/CB |  96 |
-| Perception          |   5 |     INT | 7/SB | 136 |
-| Protocol/Combine    |   3 | WIL+CHA | 9/CA |  64 |
-| Protocol/ComStar    |   3 | WIL+CHA | 9/CA |  64 |
-| Protocol/Randis     |   2 | WIL+CHA | 9/CA |  40 |
-| Security/Electronic |   1 | DEX+INT | 9/CA |  24 |
-| Security/Mechanical |   1 | DEX+INT | 9/CA |  24 |
-| Sensor Operations   |   2 | INT+WIL | 8/SA |  40 |
-| Small Arms          |   3 |     DEX | 7/SB |  64 |
-| Stealth             |   3 | RFL+INT | 8/SA |  64 |
-| Strategy            |   2 | INT+WIL | 9/CA |  40 |
-| Streetwise/Combine  |   1 |     CHA | 8/CB |  24 |
-| Streetwise/ComStar  |   0 |     CHA | 8/CB |  16 |
-| Streetwise/Randis   |   3 |     CHA | 8/CB |  64 |
-| Survival/Jungle     |   3 | BOD+INT | 9/CA |  64 |
-| Tactics/Infantry    |   0 | INT+WIL | 9/CA |  16 |
-| Tactics/Land        |   2 | INT+WIL | 9/CA |  40 |
-| Tech/Electronics    |   2 | DEX+INT | 9/CA |  40 |
-| Tech/Mechanical     |   2 | DEX+INT | 9/CA |  40 |
-| Tracking/Urban      |   1 | INT+WIL | 8/SA |  24 |
-| Tracking/Wilds      |   1 | INT+WIL | 8/SA |  24 |
+| Skill                     | Lvl |   Links | TN/C |  XP |
+|---------------------------|-----|---------|------|-----|
+| Acting                    |   3 |     CHA | 8/CB |  64 |
+| Administration            |   5 | INT+WIL | 8/SA | 136 |
+| Art/Oral Tradition        |   0 |     DEX | 8/CB*|  16 |
+| Career/Cartographer       |   4 |     INT | 7/SB |  96 |
+| Career/Soldier            |   3 |     INT | 7/SB |  64 |
+| Comms/Conventional        |   4 |     INT | 7/SB |  96 |
+| Computers                 |   5 | DEX+INT | 9/CA | 136 |
+| Cryptography              |   3 | INT+WIL | 9/CA |  64 |
+| Disguise                  |   3 |     CHA | 7/SB |  64 |
+| Driving/Ground Vehicles   |   5 | RFL+DEX | 8/SA | 136 |
+| Escape Artist             |   3 | STR+DEX | 9/CA |  64 |
+| Int/Architecture          |   1 |     INT | 8/CB*|  24 |
+| Int/Combine History       |   1 |     INT | 8/CB*|  24 |
+| Int/Geology               |   2 |     INT | 8/CB*|  40 |
+| Int/MechWarrior Culture   |   1 |     INT | 8/CB*|  24 |
+| Int/Terran History        |   1 |     INT | 8/CB*|  24 |
+| Int/Randis Wildlife       |   1 |     INT | 8/CB*|  40 |
+| Int/Vexilology            |   1 |     INT | 8/CB*|  24 |
+| Int/Writings of J. Blake  |   1 |     INT | 8/CB*|  24 |
+| Interrogation             |   3 | WIL+CHA | 9/CA |  64 |
+| Language/English          |   4 | INT+CHA | 8/SA |  96 |
+| Language/Japanese         |   2 | INT+CHA | 8/SA |  40 |
+| Leadership                |   3 | WIL+CHA | 8/SA |  64 |
+| Martial Arts              |   4 | RFL+DEX | 8/SA*|  96 |
+| MedTech/General           |   4 |     INT | 7/SB |  64 |
+| Melee Weapons             |   1 |     DEX | 7/SB*|  24 |
+| Navigation/Air            |   3 |     INT | 7/SB |  64 |
+| Navigation/Ground         |   3 |     INT | 7/SB |  64 |
+| Negotiation               |   4 |     CHA | 8/CB |  96 |
+| Perception                |   5 |     INT | 7/SB | 136 |
+| Protocol/Combine          |   3 | WIL+CHA | 9/CA |  64 |
+| Protocol/ComStar          |   3 | WIL+CHA | 9/CA |  64 |
+| Protocol/Randis           |   2 | WIL+CHA | 9/CA |  40 |
+| Security/Electronic       |   1 | DEX+INT | 9/CA |  24 |
+| Security/Mechanical       |   1 | DEX+INT | 9/CA |  24 |
+| Sensor Operations         |   2 | INT+WIL | 8/SA |  40 |
+| Small Arms                |   3 |     DEX | 7/SB |  64 |
+| Stealth                   |   3 | RFL+INT | 8/SA |  64 |
+| Strategy                  |   2 | INT+WIL | 9/CA |  40 |
+| Streetwise/Combine        |   1 |     CHA | 8/CB |  24 |
+| Streetwise/ComStar        |   0 |     CHA | 8/CB |  16 |
+| Streetwise/Randis         |   3 |     CHA | 8/CB |  64 |
+| Survival/Jungle           |   3 | BOD+INT | 9/CA |  64 |
+| Tactics/Infantry          |   0 | INT+WIL | 9/CA |  16 |
+| Tactics/Land              |   2 | INT+WIL | 9/CA |  40 |
+| Technician/Electronics    |   2 | DEX+INT | 9/CA |  40 |
+| Technician/Mechanical     |   2 | DEX+INT | 9/CA |  40 |
+| Tracking/Urban            |   1 | INT+WIL | 8/SA |  24 |
+| Tracking/Wilds            |   1 | INT+WIL | 8/SA |  24 |
 
 ## Biography
 ### Early Childhood - War Orphan
