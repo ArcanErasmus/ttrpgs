@@ -241,7 +241,7 @@
 
 ## Post-Setup Expenditures
 ### Flaws: -900/-1000
-### Remaining: 462
+### Remaining: 302
 
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
@@ -295,12 +295,12 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Trait                               | TP | Page | XP   |
 |-------------------------------------|----|------|------|
 |!Alternate ID                        |  2 |      |  200 |
-|!Connections                         |  3 |      |  340 |
+|!Connections                         |  3 |      |  300 |
 |!Equipped                            |  1 |      |  100 |
 | Fast Learner                        |  3 |      |  300 |
-|!Rank                                |  3 |      |  300 |
+|!Rank                                |  3 |      |  300 | Initiate/Rho
 | Sixth Sense                         |  4 |      |  400 |
-|!Wealth                              |  1 |      |  100 |
+|!Wealth                              |  3 |      |  300 |
 |-------------------------------------|----|------|------|
 | Compulsion/Hatred of Federated Suns | -1 |      | -100 |
 | Compulsion/Traumatic Memories       | -1 |      | -100 |
@@ -360,11 +360,13 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Tracking/Wilds      |   1 | INT+WIL | 8/SA |  24 |
 
 ## Biography
-### Early Childhood - Street
+### Early Childhood - War Orphan
 - Notes
 ### Late Childhood - Mercenary Brat
 - Notes
-### ? - ?
+### Higher Education - Intelligence Operative Training
+- Notes
+### Real Life - Civilian Job (x2), Covert Operations
 - Notes
 
 ## Inventory
