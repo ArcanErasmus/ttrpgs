@@ -240,8 +240,7 @@
 
 ## Post-Setup Expenditures
 ### Flaws: -1000/-1000
-### Remaining: 228
-- WEALTH AND EQUIPMENT
+### Remaining: 28
 
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
@@ -300,7 +299,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Fast Learner                        |  3 |      |  300 |
 |!Rank                                |  3 |      |  300 | Initiate/Rho
 | Sixth Sense                         |  4 |      |  400 |
-|!Wealth                              |  3 |      |  300 |
+|!Wealth                              |  5 |      |  500 |
 |-------------------------------------|----|------|------|
 | Compulsion/Hatred of Federated Suns | -1 |      | -100 |
 | Compulsion/Traumatic Memories       | -1 |      | -100 |
