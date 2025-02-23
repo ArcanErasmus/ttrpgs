@@ -240,11 +240,16 @@
 
 ## Post-Setup Expenditures
 ### Flaws: -1000/-1000
-### Remaining: 28
+### Remaining: 64
 
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
 - Reconcile Word of Blake references (don't exist yet, consider pre-split factionalism, or move opposition-based ones to foreign intel networks)
+- vehicle trait, gm okayed assigning support helicopter
+- swimming
+- helicopter piloting
+- gear
+- details of social contactss
 
 # Hinata Hayashi, she/her
 ## Personal Data
@@ -256,11 +261,11 @@
 | Attr | # | Link | XP
 |------|---|------|------
 | STR  | 2 |   -1 |
-| BOD  | 2 |   -1 |
+| BOD  | 4 |    0 |
 | RFL  | 4 |    0 |
 | DEX  | 4 |    0 |
 | INT  | 7 |   +1 |
-| WIL  | 6 |    0 |
+| WIL  | 5 |    0 |
 | CHA  | 4 |    0 |
 | EDG  | 5 |    0 |
 
@@ -291,40 +296,41 @@ Name (Loc): Type BAR(M/B/E/X)
 Weapon Skill AP/BD (Range) Ammo Notes
 
 ## Traits (Personal)
-| Trait                               | TP | Page | XP   |
-|-------------------------------------|----|------|------|
+| Trait                               | TP | Page | XP   | Notes
+|-------------------------------------|----|------|------|-------
 |!Alternate ID                        |  2 |      |  200 |
-|!Connections                         |  3 |      |  300 |
+|!Connections                         |  2 |      |  200 |
 |!Equipped                            |  1 |      |  100 |
 | Fast Learner                        |  3 |      |  300 |
-|!Rank                                |  3 |      |  300 | Initiate/Rho
+| Patient                             |  1 |      |  100 |
+|!Rank                                |  3 |      |  300 |
 | Sixth Sense                         |  4 |      |  400 |
-|!Wealth                              |  5 |      |  500 |
-|-------------------------------------|----|------|------|
+|!Wealth                              |  5 |      |  500 | 50k
+|-------------------------------------|----|------|------|-------
 | Compulsion/Hatred of Federated Suns | -1 |      | -100 |
 | Compulsion/Traumatic Memories       | -1 |      | -100 |
-|!Dark Secret                         | -1 |      | -100 |
-| Enemy                               | -1 |      | -125 |
-| Enemy/Word of Blake                 | -1 |      | -100 |
-|!In For Life                         | -3 |      | -300 |
-|!Reputation                          | -0 |      |  -75 |
+|!Dark Secret                         | -1 |      | -100 | Jackie
+| Enemy/Randis Fundamentalists        | -1 |      | -125 |
+| Enemy/ComStar Fundamentalists       | -1 |      | -100 |
+|!In For Life                         | -3 |      | -300 | Jackie, ROM
+|!Reputation                          | -0 |      |  -75 | Hinata
 | TDS                                 | -1 |      | -100 |
 
 ! = Identity-Based
 
-## Skills
+## Skills (2744) 686
 | Skill                     | Lvl |   Links | TN/C |  XP |
 |---------------------------|-----|---------|------|-----|
 | Acting                    |   3 |     CHA | 8/CB |  64 |
-| Administration            |   5 | INT+WIL | 8/SA | 136 |
-| Art/Oral Tradition        |   0 |     DEX | 8/CB*|  16 |
+| Administration            |   4 | INT+WIL | 8/SA |  96 |
+| Art/Oral Tradition        |   1 |     DEX | 8/CB*|  24 |
 | Career/Cartographer       |   4 |     INT | 7/SB |  96 |
 | Career/Soldier            |   3 |     INT | 7/SB |  64 |
 | Comms/Conventional        |   4 |     INT | 7/SB |  96 |
-| Computers                 |   5 | DEX+INT | 9/CA | 136 |
+| Computers                 |   4 | DEX+INT | 9/CA |  96 |
 | Cryptography              |   3 | INT+WIL | 9/CA |  64 |
 | Disguise                  |   3 |     CHA | 7/SB |  64 |
-| Driving/Ground Vehicles   |   5 | RFL+DEX | 8/SA | 136 |
+| Driving/Ground Vehicles   |   4 | RFL+DEX | 8/SA |  96 |
 | Escape Artist             |   3 | STR+DEX | 9/CA |  64 |
 | Int/Architecture          |   1 |     INT | 8/CB*|  24 |
 | Int/Combine History       |   1 |     INT | 8/CB*|  24 |
@@ -344,7 +350,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Navigation/Air            |   3 |     INT | 7/SB |  64 |
 | Navigation/Ground         |   3 |     INT | 7/SB |  64 |
 | Negotiation               |   4 |     CHA | 8/CB |  96 |
-| Perception                |   5 |     INT | 7/SB | 136 |
+| Perception                |   4 |     INT | 7/SB |  96 |
 | Protocol/Combine          |   3 | WIL+CHA | 9/CA |  64 |
 | Protocol/ComStar          |   3 | WIL+CHA | 9/CA |  64 |
 | Protocol/Randis           |   2 | WIL+CHA | 9/CA |  40 |
@@ -355,10 +361,10 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Stealth                   |   3 | RFL+INT | 8/SA |  64 |
 | Strategy                  |   2 | INT+WIL | 9/CA |  40 |
 | Streetwise/Combine        |   1 |     CHA | 8/CB |  24 |
-| Streetwise/ComStar        |   0 |     CHA | 8/CB |  16 |
+| Streetwise/ComStar        |   1 |     CHA | 8/CB |  24 |
 | Streetwise/Randis         |   3 |     CHA | 8/CB |  64 |
 | Survival/Jungle           |   3 | BOD+INT | 9/CA |  64 |
-| Tactics/Infantry          |   0 | INT+WIL | 9/CA |  16 |
+| Tactics/Infantry          |   1 | INT+WIL | 9/CA |  24 |
 | Tactics/Land              |   2 | INT+WIL | 9/CA |  40 |
 | Technician/Electronics    |   2 | DEX+INT | 9/CA |  40 |
 | Technician/Mechanical     |   2 | DEX+INT | 9/CA |  40 |

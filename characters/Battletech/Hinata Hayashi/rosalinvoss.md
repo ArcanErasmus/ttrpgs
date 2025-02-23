@@ -238,7 +238,7 @@
 |------|---|------|------
 | STR  | 2 |   -1 |
 | BOD  | 2 |   -1 |
-| RFL  | 2 |   -1 |
+| RFL  | 2 |   -1 | TODO AGE ADJUSTMENTS
 | DEX  | 4 |    0 |
 | INT  | 5 |    0 |
 | WIL  | 4 |    0 |
