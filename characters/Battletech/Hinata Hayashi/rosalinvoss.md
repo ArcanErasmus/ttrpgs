@@ -199,27 +199,7 @@
 #### Changes to make
 
 ## Post-Setup Expenditures
-### Free: 1360/2871
-- STR: 175
-- BOD: 175
-- RFL: 150
-- DEX: 300
-- WIL: 335
-- EDG: 230
-- Buy off -Wealth: 50
-- Buy off -Introvert: 5
-- Wealth: 200
-- Property: 300
-- Glass Jaw: -200
-- Animal Antipathy: -100
-- Fast Learner: 300
-- Thin-Skinned: 100
-- Optimizing Leftovers: -560
-### Optimizing Leftovers: 560
-- Attributes: 105
-- Traits: 145
-- Skills: 310
-
+### Remaining: 876
 ### Flaws: -800/-1000
 ### Requirements
 - Cannot have TDS Trait
@@ -236,12 +216,12 @@
 ## Attributes
 | Attr | # | Link | XP
 |------|---|------|------
-| STR  | 2 |   -1 |
-| BOD  | 2 |   -1 |
-| RFL  | 2 |   -1 | TODO AGE ADJUSTMENTS
+| STR  | 3 |   -1 |
+| BOD  | 3 |   -1 |
+| RFL  | 3 |   -1 |
 | DEX  | 4 |    0 |
-| INT  | 5 |    0 |
-| WIL  | 4 |    0 |
+| INT  | 6 |    0 |
+| WIL  | 5 |    0 |
 | CHA  | 2 |   -1 |
 | EDG  | 4 |    0 |
 
@@ -272,7 +252,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Fast Learner                      |  3 |  117 |  300 |
 | Property                          |  3 |  123 |  300 |
 | Reputation                        |  2 |  124 |  200 |
-| Wealth                            |  2 |  128 |  200 |
+| Wealth                            | 10 |  128 | 1000 |
 |-----------------------------------|----|------|------|
 | Animal Antipathy                  | -1 |  108 | -100 |
 | Enemy                             | -2 |  113 | -200 |
