@@ -20,8 +20,8 @@
 ## Attributes
 | Attr | # | Link | XP
 |------|---|------|------
-| STR  | 3 |   -1 |
-| BOD  | 3 |   -1 |
+| STR  | 4 |    0 |
+| BOD  | 4 |    0 |
 | RFL  | 4 |    0 |
 | DEX  | 7 |   +1 |
 | INT  | 7 |   +1 |
@@ -31,15 +31,15 @@
 
 ## Combat Data
 ### Combat Monitor
-Dmg | ooooo o
+Dmg | ooooo ooo
 Ftg | ooooo ooooo oooo
 Stn | o
 Unc | o
 
 ### Movement (Meters/Turn)
-Walk    7 | Climb  4
-Run/Ev 17 | Crawl  2
-Sprint 34 | Swim   8
+Walk    8 | Climb  4
+Run/Ev 18 | Crawl  2
+Sprint 36 | Swim   9
 
 ### Personal Armor (Loc)
 Name (Loc): Type BAR(M/B/E/X)
@@ -52,12 +52,12 @@ Weapon Skill AP/BD (Range) Ammo Notes
 |-------------------------------------|----|------|------|-------
 |!Alternate ID                        |  2 |  108 |  200 |
 |!Connections                         |  2*|  111 |  200 |
+| Equipped                            |  1*|  116 |  100 |
 | Fast Learner                        |  3 |  117 |  300 |
 | Patient                             |  1 |  121 |  100 |
 |!Rank                                |  3*|  123 |  300 |
-| Sixth Sense                         |  4 |  125 |  400 |
 |!Vehicle Level                       |  1*|  128 |  100 |
-|!Wealth                              |  3*|  128 |  400 | 10k
+|!Wealth                              |  4*|  128 |  400 | 25k
 |-------------------------------------|----|------|------|-------
 | Compulsion/Duty to ComStar          | -2*|  110 | -200 |
 | Compulsion/Hatred of Federated Suns | -1*|  110 | -100 |
@@ -146,8 +146,43 @@ Weapon Skill AP/BD (Range) Ammo Notes
 - Notes
 
 ## Inventory
-- C$?
+
+D/.-B-./C
+
+- C$25000
 Item - Location - Data/Stats
+
+Outfits
+    1000: Clothes, incl leather, and forest camo
+Weapons
+    - basic ballistic/stun
+Comms/Tech
+    - field communicator
+    - civilian communicator
+    - video camera
+    - noteputer
+    - verigraph scanner/reader
+    - power packs
+Covert tech
+    - Microphone bug
+    - optics
+    - seismic sensors?
+    - lock pick
+    - disguise/make-up kit
+    - other espionage gear
+Tools
+    - repair/salvage gear
+Misc
+    - survival gear
+    - tent
+    - climbing kit
+Medical
+    - medkit
+    - medipatch
+    - sedative patch
+    - stimpatch
 
 ## Vehicle Data
 - Model/Name, Type, Mass, Traits, Notes
+Jeep
+Random helicopter
