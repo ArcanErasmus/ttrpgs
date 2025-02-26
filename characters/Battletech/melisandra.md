@@ -229,10 +229,17 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Gregarious                        |    |      |   50 |
 | Wealth                            |    |      |  300 |
 |-----------------------------------|----|------|------|
+<!-- | Combat Paralysis                  |    |      | -400 | -->
+<!-- | Compulsion/Gambling               |    |      | -200 | -->
+<!-- | Bloodmark                         |    |      | -100 | -->
 | Enemy                             |    |      | -100 |
-| Glass Jaw                         |    |      |  -50 |
-| Illiterate                        |    |      |  -25 |
 | Reputation                        |    |      |  -75 |
+<!-- | Reputation                        |    |      |  -25 | -->
+<!-- | Thin Skinned                      |    |      | -100 | -->
+
+| Glass Jaw                         |    |      |  -50 |
+<!-- | Glass Jaw                         |    |      | -250 | -->
+| Illiterate                        |    |      |  -25 |
 
 ## Skills
 | Skill                   | Lvl |   Links | TN/C |  XP |
