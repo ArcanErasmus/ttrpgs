@@ -1,0 +1,38 @@
+Bubo Mk III Recon Helicopter
+Base Tech Level: Standard (IS)
+Level                Era                 
+-----------------------------------------
+Experimental         2100 (Age of War)   
+Advanced             2100+ (Age of War -)
+Standard             -                   
+Tech Rating: C/D-E-D-D
+
+Weight: 4 tons
+BV: 25
+Cost: 26,417 C-bills
+Source: (Unknown)
+Role: Scout
+
+Movement: 9/14 (VTOL)
+Engine: Fuel Cell
+BAR Rating: 6
+
+Internal: 5
+Armor: 8 (BAR 6 Armor)
+       Internal  Armor    
+--------------------------
+Front      1       3      
+Right      1       1      
+Left       1       1      
+Rear       1       1      
+Rotor      1       2      
+
+Equipment              Loc  
+----------------------------
+Recon Camera            BD  
+Searchlight (Mounted)   BD  
+Cargo (0.5 tons)        BD  
+
+Carrying Capacity                
+---------------------------------
+Cargo Space (1 door) - 0.500 tons
