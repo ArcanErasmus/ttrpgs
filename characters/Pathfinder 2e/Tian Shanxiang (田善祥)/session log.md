@@ -2,12 +2,33 @@
 - NOTE: Determine which Lore I taught Yin
 - NOTE: Come up with a good description for Yin
 
-### Session 19?future - 2025-02-25
+### Session 23?future - 2025-03-25
+### Session 22?future - 2025-03-18
+### Session 21?future - 2025-03-11
+### Session 20?future - 2025-03-04
+
+### Session 19 - 2025-02-25
+- Combat with Jincan and Centipedes continues
+    - We kill a few more and then bail as reinforcements show up
+    - +144 XP
+    - Bulan sees lots of faceless as we run
+- Reconvening in the forest, we hatch a new plan
+    - Plan: Circle east and re-approach town from the north
+    - We avoid the roaming patrols
+- Sneaking into town
+    - Spot a trio of turtle-looking people, talking jovially about food in a stand
+    - They see us, and respond positively to a polite wave
+- First contact with... turtle-people?
+    - They are friendly, if simple, but offer some very valuable information
+    - They claim that the town has been moved to the spirit world, and thus is now available for spirits like them to travel to
+    - They claim that we brought the faceless with us. It's possible this is true, or just posited because of corpses rising as them
+XP: 693/1000
+
 ### Session 18 - 2025-02-18
 - Approaching the abandoned estate from the north, we spot what appears to be glittering magical spiderwebs on the walls
     - Touching them with a stick causes a loud shriek to blare out and we hear chittering noises
 - After backing off to the forest, we are assaulted by more giant centipedes
-    - They die, but then a followup wave of more centipedes, and some jincan now too, attack
+    - They die, but then a followup wave of more centipedes, and some jinkin now too, attack
     - We leave off mid combat
 
 ### Session 17 - 2025-02-04
@@ -69,7 +90,7 @@ XP: 533/1000
     - 4 faceless, longbows
     - 7 faceless, spears
     - 3 buso, different weapons each that they are comfortable with
-    - 12 jincan in front doing manual labor
+    - 12 jinkin in front doing manual labor
 - We check the mill docks for boats
     - There are 3, two small ones and one flat small barge
     - The plan is to take the boats and leave the barge
@@ -100,7 +121,7 @@ XP: 533/1000
     - +20 XP for the blessing
 - Onwards to the Dawnstep Bridge
     - We hear voices before we see anything, but we see a bonfire on the bridge
-    - Multiple creatures, including jincan, the faceless soldiers from before, and what looks like some of the commander types (buso?), spotted on the bridge
+    - Multiple creatures, including jinkin, the faceless soldiers from before, and what looks like some of the commander types (buso?), spotted on the bridge
     - Everything ransacked from the town gathered here as a makeshift barricade-in-progress
     - We are not spotted yet
 XP: 473/1000
