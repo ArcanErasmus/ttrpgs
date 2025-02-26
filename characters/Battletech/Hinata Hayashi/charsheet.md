@@ -1,6 +1,5 @@
 # TODO
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
-- Reconcile Word of Blake references (don't exist yet, consider pre-split factionalism, or move opposition-based ones to foreign intel networks)
 - gear
 - details of social contacts
 
@@ -21,7 +20,7 @@
 | Attr | # | Link | XP
 |------|---|------|------
 | STR  | 4 |    0 |
-| BOD  | 4 |    0 |
+| BOD  | 3 |   -1 |
 | RFL  | 4 |    0 |
 | DEX  | 7 |   +1 |
 | INT  | 7 |   +1 |
@@ -31,7 +30,7 @@
 
 ## Combat Data
 ### Combat Monitor
-Dmg | ooooo ooo
+Dmg | ooooo o
 Ftg | ooooo ooooo oooo
 Stn | o
 Unc | o
@@ -52,12 +51,12 @@ Weapon Skill AP/BD (Range) Ammo Notes
 |-------------------------------------|----|------|------|-------
 |!Alternate ID                        |  2 |  108 |  200 |
 |!Connections                         |  2*|  111 |  200 |
-| Equipped                            |  1*|  116 |  100 |
+| Equipped                            |  2*|  116 |  200 | D/x-C-x/C
 | Fast Learner                        |  3 |  117 |  300 |
 | Patient                             |  1 |  121 |  100 |
-|!Rank                                |  3*|  123 |  300 |
-|!Vehicle Level                       |  1*|  128 |  100 |
-|!Wealth                              |  4*|  128 |  400 | 25k
+|!Rank                                |  2*|  123 |  200 |
+|!Wealth                              |  3*|  128 |  300 | 10k
+|!Vehicle                             |  3*|  128 |  300 | Bubo Mk III
 |-------------------------------------|----|------|------|-------
 | Compulsion/Duty to ComStar          | -2*|  110 | -200 |
 | Compulsion/Hatred of Federated Suns | -1*|  110 | -100 |
@@ -66,8 +65,8 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Enemy/Randis Fundamentalists        | -1*|  113 | -100 |
 |!In For Life                         | -3 |  120 | -300 |
 | TDS                                 | -1 |  127 | -100 |
-
-! = Identity-Based
+* = Scalable
+! = Identity-specific (if applicable)
 
 ## Skills
 | Skill                     | Lvl |   Links | L+ | TN/C | Page |  XP |
@@ -75,7 +74,10 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Acrobatics/Gymnastics     |   1 |     RFL |  0 | 7/SB |  141 |  24 |
 | Acting                    |   2 |     CHA |  1 | 8/CB |  142 |  40 |
 | Administration            |   1 | INT+WIL |  2 | 8/SA |  143 |  24 |
+| Animal Handling           |  -4 |     WIL |  1 | 7/SB |  143 |     |
+| Archery                   |  -4 |     DEX |  1 | 7/SB |  143 |     |
 | Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB*|  144 |  24 |
+| Artillery                 |  -4 | INT+WIL |  2 | 8/SA |  144 |     |
 | Career/Cartographer       |   1 |     INT |  1 | 7/SB |  144 |  24 |
 | Career/Soldier            |   1 |     INT |  1 | 7/SB |  144 |  24 |
 | Climbing                  |   0 |     DEX |  1 | 7/SB |  144 |  16 |
@@ -85,7 +87,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Demolitions               |   0 | DEX+INT |  2 | 9/CA |  146 |  16 |
 | Disguise                  |   1 |     CHA |  1 | 7/SB |  146 |  24 |
 | Driving/Ground Vehicles   |   2 | RFL+DEX |  1 | 8/SA |  146 |  40 |
-| Escape Artist             |   2 | STR+DEX |  0 | 9/CA |  147 |  40 |
+| Escape Artist             |   2 | STR+DEX |  1 | 9/CA |  147 |  40 |
 | Forgery                   |   0 | DEX+INT |  2 | 8/SA |  147 |  16 |
 | Gunnery/Air Vehicle       |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
 | Gunnery/Ground Vehicle    |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
@@ -98,6 +100,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Int/Vexilology            |   1 |     INT |  1 | 8/CB*|  147 |  24 |
 | Int/Writings of J. Blake  |   1 |     INT |  1 | 8/CB*|  147 |  24 |
 | Interrogation             |   1 | WIL+CHA |  2 | 9/CA |  148 |  24 |
+| Investigation             |  -4 | INT+WIL |  2 | 9/CA |  148 |     |
 | Language/English          |   1 | INT+CHA |  2 | 8/SA |  148 |  24 |
 | Language/Japanese         |   1 | INT+CHA |  2 | 8/SA |  148 |  24 |
 | Leadership                |   1 | WIL+CHA |  2 | 8/SA |  148 |  24 |
@@ -113,7 +116,8 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Protocol/Combine          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Protocol/ComStar          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Protocol/Randis           |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
-| Running                   |     |     RFL |  0 | 7/SB |  152 |   6 |
+| Running                   |  -4 |     RFL |  0 | 7/SB |  152 |   6 |
+| Science/                  |  -4 | INT+WIL |  2 | 9/CA |  153 |     |
 | Security/Electronic       |   1 | DEX+INT |  2 | 9/CA |  153 |  24 |
 | Security/Mechanical       |   1 | DEX+INT |  2 | 9/CA |  153 |  24 |
 | Sensor Operations         |   1 | INT+WIL |  2 | 8/SA |  153 |  24 |
@@ -124,8 +128,9 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Streetwise/ComStar        |   1 |     CHA |  1 | 8/CB |  154 |  24 |
 | Streetwise/Randis         |   2 |     CHA |  1 | 8/CB |  154 |  40 |
 | Support Weapons           |   0 |     DEX |  1 | 7/SB |  154 |  16 |
+| Surgery/                  |  -4 | DEX+INT |  2 | 9/CA |  155 |     |
 | Survival/Jungle           |   3 | BOD+INT |  0 | 9/CA |  156 |  64 |
-| Swimming                  |   1 |     STR | -1 | 7/SB |  156 |  24 |
+| Swimming                  |   1 |     STR |  0 | 7/SB |  156 |  24 |
 | Tactics/Infantry          |   1 | INT+WIL |  2 | 9/CA |  156 |  24 |
 | Tactics/Land              |   1 | INT+WIL |  2 | 9/CA |  156 |  24 |
 | Technician/Electronics    |   1 | DEX+INT |  2 | 9/CA |  157 |  24 |
@@ -134,6 +139,8 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Tracking/Urban            |   1 | INT+WIL |  2 | 8/SA |  158 |  24 |
 | Tracking/Wilds            |   1 | INT+WIL |  2 | 8/SA |  158 |  24 |
 | Training                  |   0 | INT+CHA |  2 | 9/CA |  159 |  16 |
+| Zero-G Operations         |  -4 |     RFL |  0 | 7/SB |  159 |     |
+
 
 ## Biography
 ### Early Childhood - War Orphan
@@ -147,42 +154,57 @@ Weapon Skill AP/BD (Range) Ammo Notes
 
 ## Inventory
 
-D/.-B-./C
+- C$10000
+- D/x-C-x/C
 
-- C$25000
 Item - Location - Data/Stats
-
-Outfits
-    1000: Clothes, incl leather, and forest camo
-Weapons
-    - basic ballistic/stun
-Comms/Tech
-    - field communicator
-    - civilian communicator
-    - video camera
-    - noteputer
-    - verigraph scanner/reader
-    - power packs
-Covert tech
-    - Microphone bug
-    - optics
-    - seismic sensors?
-    - lock pick
-    - disguise/make-up kit
-    - other espionage gear
-Tools
-    - repair/salvage gear
-Misc
-    - survival gear
-    - tent
-    - climbing kit
-Medical
-    - medkit
-    - medipatch
-    - sedative patch
-    - stimpatch
+6758/10000
+*- Ammo?*
+- 500: Clothes, incl leather, and forest camo
+    - light environment suit?
+    - protective lenses?
+    - some sort of flight suit?
+- 6000: Jeep
+- 100: Elephant Gun
+- 30: Tranq Gun
+- 75: Auto-Pistol (Nambu)
+- 150: Mini Stunstick
+- 100: Vibrodagger
+- 50: Communications Headset
+- 45: Civilian Communicator
+- 200: Field Communicator
+- 250: Video Camera
+- 500: Noteputer
+- 80: 2x Microphone Bug
+- 60: 2x Tracking Bug
+- 200: Rangefinder Binoculars
+- 200: power packs
+    - 1/s: Vibrodagger
+    - 1/s: Mini Stunstick
+    - 1/w: Communications Headset
+    - 0.2: Civilian Communicator
+    - 1: Field Communicator
+    - 0.5: Video Camera
+    - 0.1: Noteputer
+    - 0.1: Rangefinder Binoculars
+    - 0.1: Electronic Compass
+    - 1 (micro): Advanced Field Kit
+- 100: Basic Lock Pick Set
+- 30: Lock, Mechanical
+- 100: Slug-Thrower Kit
+- 250: Basic Toolkit
+- 100: Advanced Field Kit (Knife, Multi-Tool, Inflatable Mattress, Thermal Blankets, Heating Plate, Lantern, 2 Emergency Flares, 5 Campfire-Igniters, Canteen, Basic Medical Kit)
+- 30: Electronic Compass
+- 20: 10x Emergency Rations
+- 8: Tent (2-person)
+- 150: Climbing/Rapelling Kit
+- 250: Advanced Medical Kit
+- 50: 5x Medipatch
+- 60: 2x Sedative Patch
+- 20: 10x Stimpatch
+- 50: Laser Scalpel
 
 ## Vehicle Data
 - Model/Name, Type, Mass, Traits, Notes
-Jeep
-Random helicopter
+Jeep, Support (Wheeled), 1700kg, Armor 2/2/1 (5), Fuel 23kg/P, 509km range, 75/118kph (7/11MP), 1/3 crew, 294kg cargo
+Bubo Mk III, Support (VTOL), 4000kg, Armor 3/1/1/2 (6), Fuel 155kg/H, 1266km range, 97/151kph (9/14MP), 1/2 crew, 500kg cargo
