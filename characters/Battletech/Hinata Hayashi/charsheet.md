@@ -158,13 +158,15 @@ Weapon Skill AP/BD (Range) Ammo Notes
 - D/x-C-x/C
 
 Item - Location - Data/Stats
-6758/10000
+- 6000: Jeep
+- 1600: Hiker Mk IV
+- 4000: Hiker Mk III
+3758/10000
 *- Ammo?*
 - 500: Clothes, incl leather, and forest camo
     - light environment suit?
     - protective lenses?
     - some sort of flight suit?
-- 6000: Jeep
 - 100: Elephant Gun
 - 30: Tranq Gun
 - 75: Auto-Pistol (Nambu)
@@ -206,5 +208,7 @@ Item - Location - Data/Stats
 
 ## Vehicle Data
 - Model/Name, Type, Mass, Traits, Notes
-Jeep, Support (Wheeled), 1700kg, Armor 2/2/1 (5), Fuel 23kg/P, 509km range, 75/118kph (7/11MP), 1/3 crew, 294kg cargo
+Jeep, Support (Wheeled), 1700kg, Armor 2/2/1 (5), Fuel 23kg/P, 509km range, 75/118kph (7/11MP), 1/3 crew, 294kg cargo, trailer hitch
+Hiker Mk IV, Support (Tracked), 1000kg, Armor 2/1/1 (4), Fuel 23kg/H, 733km range, 54/86kph (5/8MP), 1/1 crew, 250kg cargo, trailer hitch
+Hiker Mk III, Support (Tracked), 1200kg, Armor 2/1/1 (4), Fuel 110kg/B, 700km range, 54/86kph (5/8MP), 1/1 crew, 281kg cargo, trailer hitch
 Bubo Mk III, Support (VTOL), 4000kg, Armor 3/1/1/2 (6), Fuel 155kg/H, 1266km range, 97/151kph (9/14MP), 1/2 crew, 500kg cargo

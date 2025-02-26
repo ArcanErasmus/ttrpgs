@@ -142,7 +142,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Acrobatics/               |  -4 |     RFL |    | 7/SB |  141 |     |
 | Acting                    |  -4 |     CHA |    | 8/CB |  142 |     |
 | Administration            |  -4 | INT+WIL |    | 8/SA |  143 |     |
-| Animal Handling           |  -4 |     WIL |    | 7/SB |  143 |     |
+| Animal Handling/          |  -4 |     WIL |    | 7/SB |  143 |     |
 | Appraisal                 |  -4 |     INT |    | 8/CB |  143 |     |
 | Archery                   |  -4 |     DEX |    | 7/SB |  143 |     |
 | Art/                      |  -4 |     DEX |    | 8/CB*|  144 |     |
