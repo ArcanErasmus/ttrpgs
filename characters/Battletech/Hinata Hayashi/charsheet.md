@@ -2,6 +2,7 @@
 - Create alternate ID (Hinata Hayashi, actual birth ID Jackie Hudson)
 - gear
 - details of social contacts
+#### XP Remaining: 400
 
 ### Requirements
 - No Combat Paralysis Trait
@@ -20,7 +21,7 @@
 | Attr | # | Link | XP
 |------|---|------|------
 | STR  | 4 |    0 |
-| BOD  | 3 |   -1 |
+| BOD  | 4 |    0 |
 | RFL  | 4 |    0 |
 | DEX  | 7 |   +1 |
 | INT  | 7 |   +1 |
@@ -30,33 +31,34 @@
 
 ## Combat Data
 ### Combat Monitor
-Dmg | ooooo o
+Dmg | ooooo ooo
 Ftg | ooooo ooooo oooo
 Stn | o
 Unc | o
 
 ### Movement (Meters/Turn)
-Walk    8 | Climb  4
-Run/Ev 18 | Crawl  2
-Sprint 36 | Swim   9
+Walk    8 | Climb  5
+Run/Ev 19 | Crawl  2
+Sprint 38 | Swim   9
 
-### Personal Armor (Loc)
-Name (Loc): Type BAR(M/B/E/X)
+### Personal Armor
+| Name          | Location | Type    | M/B/E/X | Notes
+|---------------|----------|---------|---------|-------
 
 ### Weapons
-Weapon Skill AP/BD (Range) Ammo Notes
+| Weapon               | Skill |  AP/ BD | Range   | Ammo | Notes
+|----------------------|-------|---------|---------|------|-------
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
 |-------------------------------------|----|------|------|-------
 |!Alternate ID                        |  2 |  108 |  200 |
 |!Connections                         |  2*|  111 |  200 |
-| Equipped                            |  2*|  116 |  200 | D/x-C-x/C
+| Equipped                            |  6*|  116 |  600 | E/x-E-x/E
 | Fast Learner                        |  3 |  117 |  300 |
 | Patient                             |  1 |  121 |  100 |
 |!Rank                                |  2*|  123 |  200 |
-|!Wealth                              |  3*|  128 |  300 | 10k
-|!Vehicle                             |  3*|  128 |  300 | Bubo Mk III
+|!Wealth                              |  6*|  128 |  600 | 100k
 |-------------------------------------|----|------|------|-------
 | Compulsion/Duty to ComStar          | -2*|  110 | -200 |
 | Compulsion/Hatred of Federated Suns | -1*|  110 | -100 |
@@ -80,7 +82,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Artillery                 |  -4 | INT+WIL |  2 | 8/SA |  144 |     |
 | Career/Cartographer       |   1 |     INT |  1 | 7/SB |  144 |  24 |
 | Career/Soldier            |   1 |     INT |  1 | 7/SB |  144 |  24 |
-| Climbing                  |   0 |     DEX |  1 | 7/SB |  144 |  16 |
+| Climbing                  |   1 |     DEX |  1 | 7/SB |  144 |  24 |
 | Comms/Conventional        |   1 |     INT |  1 | 7/SB |  144 |  24 |
 | Computers                 |   2 |     INT |  1 | 8/CB*|  145 |  40 |
 | Cryptography              |   2 | INT+WIL |  2 | 9/CA |  145 |  40 |
@@ -88,7 +90,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Disguise                  |   1 |     CHA |  1 | 7/SB |  146 |  24 |
 | Driving/Ground Vehicles   |   2 | RFL+DEX |  1 | 8/SA |  146 |  40 |
 | Escape Artist             |   2 | STR+DEX |  1 | 9/CA |  147 |  40 |
-| Forgery                   |   0 | DEX+INT |  2 | 8/SA |  147 |  16 |
+| Forgery                   |   1 | DEX+INT |  2 | 8/SA |  147 |  24 |
 | Gunnery/Air Vehicle       |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
 | Gunnery/Ground Vehicle    |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
 | Int/Architecture          |   1 |     INT |  1 | 8/CB*|  147 |  24 |
@@ -112,11 +114,11 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Negotiation               |   2 |     CHA |  1 | 8/CB |  150 |  40 |
 | Perception                |   2 |     INT |  1 | 7/SB |  151 |  40 |
 | Piloting/Air Vehicle      |   1 | RFL+DEX |  1 | 8/SA |  151 |  24 |
-| Prest/Quickdraw           |   0 |     DEX |  1 | 7/SB*|  152 |  16 |
+| Prest/Quickdraw           |   1 |     DEX |  1 | 7/SB*|  152 |  24 |
 | Protocol/Combine          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Protocol/ComStar          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Protocol/Randis           |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
-| Running                   |  -4 |     RFL |  0 | 7/SB |  152 |   6 |
+| Running                   |   1 |     RFL |  0 | 7/SB |  152 |  24 |
 | Science/                  |  -4 | INT+WIL |  2 | 9/CA |  153 |     |
 | Security/Electronic       |   1 | DEX+INT |  2 | 9/CA |  153 |  24 |
 | Security/Mechanical       |   1 | DEX+INT |  2 | 9/CA |  153 |  24 |
@@ -129,7 +131,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Streetwise/Randis         |   2 |     CHA |  1 | 8/CB |  154 |  40 |
 | Support Weapons           |   0 |     DEX |  1 | 7/SB |  154 |  16 |
 | Surgery/                  |  -4 | DEX+INT |  2 | 9/CA |  155 |     |
-| Survival/Jungle           |   3 | BOD+INT |  0 | 9/CA |  156 |  64 |
+| Survival/Jungle           |   3 | BOD+INT |  1 | 9/CA |  156 |  64 |
 | Swimming                  |   1 |     STR |  0 | 7/SB |  156 |  24 |
 | Tactics/Infantry          |   1 | INT+WIL |  2 | 9/CA |  156 |  24 |
 | Tactics/Land              |   1 | INT+WIL |  2 | 9/CA |  156 |  24 |
@@ -138,7 +140,7 @@ Weapon Skill AP/BD (Range) Ammo Notes
 | Thrown Weapons/Blunt      |   0 |     DEX |  1 | 7/SB |  158 |  16 |
 | Tracking/Urban            |   1 | INT+WIL |  2 | 8/SA |  158 |  24 |
 | Tracking/Wilds            |   1 | INT+WIL |  2 | 8/SA |  158 |  24 |
-| Training                  |   0 | INT+CHA |  2 | 9/CA |  159 |  16 |
+| Training                  |   1 | INT+CHA |  2 | 9/CA |  159 |  24 |
 | Zero-G Operations         |  -4 |     RFL |  0 | 7/SB |  159 |     |
 
 
@@ -154,14 +156,16 @@ Weapon Skill AP/BD (Range) Ammo Notes
 
 ## Inventory
 
-- C$10000
+- C$100,000
 - D/x-C-x/C
 
 Item - Location - Data/Stats
-- 6000: Jeep
-- 1600: Hiker Mk IV
-- 4000: Hiker Mk III
-3758/10000
+- 6,000: Jeep
+<!-- - 1600: Hiker Mk IV -->
+<!-- - 4,000: Hiker Mk III -->
+- 5,600: Hiker Mk Ib
+- 32,000: Bubo Mk IV
+3758/100,000
 *- Ammo?*
 - 500: Clothes, incl leather, and forest camo
     - light environment suit?
@@ -207,8 +211,11 @@ Item - Location - Data/Stats
 - 50: Laser Scalpel
 
 ## Vehicle Data
-- Model/Name, Type, Mass, Traits, Notes
-Jeep, Support (Wheeled), 1700kg, Armor 2/2/1 (5), Fuel 23kg/P, 509km range, 75/118kph (7/11MP), 1/3 crew, 294kg cargo, trailer hitch
-Hiker Mk IV, Support (Tracked), 1000kg, Armor 2/1/1 (4), Fuel 23kg/H, 733km range, 54/86kph (5/8MP), 1/1 crew, 250kg cargo, trailer hitch
-Hiker Mk III, Support (Tracked), 1200kg, Armor 2/1/1 (4), Fuel 110kg/B, 700km range, 54/86kph (5/8MP), 1/1 crew, 281kg cargo, trailer hitch
-Bubo Mk III, Support (VTOL), 4000kg, Armor 3/1/1/2 (6), Fuel 155kg/H, 1266km range, 97/151kph (9/14MP), 1/2 crew, 500kg cargo
+| Model/Name     | Type        | Mass   | Armor (BAR) | Fuel    | Range  |  Kph    | MP    | Crew  | Cargo | Notes
+|----------------|-------------|--------|-------------|---------|--------|---------|-------|-------|-------|-------
+| Jeep           | Sup/Wheeled | 1700kg | 2/2/1   (5) |  23kg/P |  509km |  75/118 |  7/11 |  1/ 3 | 294kg | Trailer Hitch
+<!-- | Hiker Mk IV    | Sup/Tracked | 1000kg | 2/1/1   (4) |  23kg/H |  733km |  54/ 86 |  5/ 8 |  1/ 1 | 250kg | Trailer Hitch -->
+| Hiker Mk Ib    | Sup/Tracked | 1000kg | 3/1/1   (5) |  Fusion |      - |  65/ 97 |  6/ 9 |  1/ 1 | 294kg | Amphibious, Trailer Hitch
+<!-- | Hiker Mk III   | Sup/Tracked | 1200kg | 2/1/1   (4) | 110kg/B |  700km |  54/ 86 |  5/ 8 |  1/ 1 | 281kg | Trailer Hitch -->
+<!-- | Bubo Mk III    | Sup/VTOL    | 4000kg | 3/1/1/2 (6) | 155kg/H | 1266km |  97/151 |  9/14 |  1/ 2 | 500kg | Spotlight, Recon Camera -->
+| Bubo Mk IV     | Sup/VTOL    | 3700kg | 2/1/1/2 (6) |  Fusion |      - | 119/184 | 11/17 |  1/ 2 | 544kg | Spotlight, Recon Camera

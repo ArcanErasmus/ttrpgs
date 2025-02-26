@@ -120,11 +120,13 @@ Walk   ?? | Climb ??
 Run/Ev ?? | Crawl ??
 Sprint ?? | Swim  ??
 
-### Personal Armor (Loc)
-Name (Loc): Type BAR(M/B/E/X)
+### Personal Armor
+| Name          | Location | Type    | M/B/E/X | Notes
+|---------------|----------|---------|---------|-------
 
 ### Weapons
-Weapon Skill AP/BD (Range) Ammo Notes
+| Weapon               | Skill |  AP/ BD | Range   | Ammo | Notes
+|----------------------|-------|---------|---------|------|-------
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP | Notes
@@ -203,9 +205,9 @@ Weapon Skill AP/BD (Range) Ammo Notes
 ### Real Life - 
 - Notes
 
-## Inventory
-- C$?
-Item - Location - Data/Stats
+## Inventory - $?
+| Item                       | Location | Data/Stats
+|----------------------------|----------|------------
 
 ## Vehicle Data
 - Model/Name, Type, Mass, Traits, Notes

@@ -1,189 +1,9 @@
-# XP Log
-- Base: 5000
-- Flaws: 
-- Age:
-- *Budget: ?*
-
-## Life Modules
-### 0 - Affiliation
-#### 850 XP, Total: 900
-850: Universal
-50: Independent, Astrokaszy
-- Primary Lang: Arabic
-- Secondary Lang: English, German, Greek
-
-#### Changes
-*- Flexible XP: +0*
-[Attributes]
-- STR (+100 XP)
-- BOD (+115 XP)
-- RFL (+100 XP)
-- DEX (+100 XP)
-- INT (+100 XP)
-- WIL (+130 XP)
-- CHA (+90 XP)
-- EDG (+110 XP)
-[Traits]
-- Compulsion/Xenophobic (–20 XP)
-- Equipped (–20 XP)
-- Fit (+20 XP)
-- Illiterate (–20 XP)
-- Reputation (–10 XP)
-- Reputation (–10 XP)
-- Thick-Skinned (+15 XP)
-- Wealth (–10 XP)
-[Skills]
-- Choose two: Acting, Martial Arts, Melee Weapons, Small Arms, Survival/Desert or Thrown Weapons/Any (+15 XP)
-- Language/Affiliation Primary or Secondary (+20 XP)
-- Language/English (+20 XP)
-- Perception (+10 XP)
-- Perception (+10 XP)
-- Protocol/Astrokaszy (+10 XP)
-- Streetwise/Periphery (+10 XP)
-
-#### Prereqs
-- None
-
-### 1 - Early Childhood
-#### 250 XP, Total: 1150
-250: Street
-
-#### Changes
-- *Flexible XP: +40*
-[Attributes]
-- STR (+25 XP)
-- BOD (–20 XP)
-- RFL (+100 XP)
-- WIL (+100 XP)
-- CHA (–25 XP)
-- EDG (+100 XP)
-[Traits]
-- Compulsion/Paranoid (–50 XP)
-- Connections (+75 XP)
-- Enemy (–100 XP)
-- Illiterate (–75 XP)
-- Reputation (–100 XP)
-- Toughness (+200 XP)
-- Wealth (–75 XP)
-[Skills]
-- Language/Affiliation (–5 XP)
-- Martial Arts (+15 XP)
-- Melee Weapons (+5 XP)
-- Perception (+10 XP)
-- Running (+10 XP)
-- Stealth (+10 XP)
-- Streetwise/Affiliation (+10 XP)
-
-#### Prereqs
-- None
-
-### 2 - Late Childhood
-#### 500 XP, Total: 1650
-500: Adolescent Warfare
-
-#### Changes
-- *Flexible XP: +130*
-[Attributes]
-- BOD (+40 XP)
-- RFL (+40 XP)
-- WIL (+50 XP)
-- INT (–30 XP)
-[Traits]
-- Combat Sense (+80 XP)
-- Compulsion/Paranoid (–20 XP)
-- Connections (+30 XP)
-- Enemy (–40 XP)
-- Wealth (–20 XP)
-[Skills]
-- Language/Affiliation (–25 XP)
-- Leadership (+25 XP)
-- MedTech/General (+25 XP)
-- Melee Weapons (+25 XP)
-- Negotiation (+15 XP)
-- Perception (+25 XP)
-- Protocol/Affiliation (–10 XP)
-- Running (+40 XP)
-- Small Arms (+20 XP)
-- Stealth (+30 XP)
-- Streetwise/Affiliation (+45 XP)
-- Survival/Any (+25 XP)
-
-#### Prereqs
-- None relevant
-
-### 4 - Real Life (Optional)
-- Can take multiple, can repeat, repeats don't give Attribute and Trait XP, only give more Skill XP
-
-#### 1700 XP, Total: 3350
-1000: Organized Crime
-700: Ne'er-Do-Well
-
-#### Changes
-- *Flexible XP: +245*
-[Attributes]
-- EDG (+160 XP)
-- (+75 to any Non-EDG)
-[Traits]
-- Alternate ID (+100 XP)
-- Choose one: Dark Secret (–85 XP) or Compulsion/Loyalty to Crime Boss (–85 XP; see Notes below)
-- Extra Income (+75 XP)
-- In For Life (–150 XP)
-- Reputation (–25 XP)
-- Wealth (–50 XP)
-[Skills]
-- Acting (+85 XP)
-- Appraisal (+25 XP)
-- Art/Cooking (+35 XP)
-- Career/Syndicate* (+100 XP),
-- Computers (+15 XP)
-- Demolitions (+50 XP)
-- Disguise (+15 XP)
-- Driving/Any (+30 XP)
-- Escape Artist (+70 XP)
-- Forgery (+35 XP)
-- Interest/Any (+60 XP)
-- Interest/Any Sport (+55 XP)
-- Interrogation (+85 XP)
-- Language/Any (+25 XP)
-- Language/Syndicate* (+50 XP)
-- Leadership (+25 XP)
-- Martial Arts (+50 XP)
-- Melee Weapons (+45 XP)
-- Negotiation (+70 XP)
-- Perception (+35 XP)
-- Prest/Any (+35 XP)
-- Prest/Pick Pocket (+25 XP)
-- Protocol/Affiliation (+25 XP)
-- Running (+35 XP)
-- Security/Any (+45 XP)
-- Small Arms (+75 XP)
-- Stealth (+35 XP)
-- Streetwise/Affiliation (+75 XP)
-- Survival/Any (+35 XP)
-- Swimming (+10 XP)
-
-#### Prereqs
-- The gamemaster may select an affiliation-specific organized crime syndicate, such as the mob, yakuza, tong, Dark Caste and so on. The character may be loyal to the organization in general (higher negative-TP rating) or to the local syndicate head (lower negative-TP rating)
-
-#### Age: 25
-
-## Final Count
-#### XP
-- Budget: 3350/5500
-
-#### Requirements
-
-#### Age
-- 26
-
-#### Changes to make
-
 # TODO
 - NAME
 - Personal deets
 - The gamemaster may select an affiliation-specific organized crime syndicate, such as the mob, yakuza, tong, Dark Caste and so on. The character may be loyal to the organization in general (higher negative-TP rating) or to the local syndicate head (lower negative-TP rating)
 
-# , she/her
+# Aliya, she/her
 ## Personal Data
 - height cm, weight kg, hair, eyes, other, 26yo
 - Astrokaszy
@@ -211,21 +31,25 @@ CHA +++++ +++++ +
 
 ## Combat Data
 ### Combat Monitor
-Dmg | o
-Ftg | o
+Dmg | ooooo ooooo
+Ftg | ooooo ooo
 Stn | o
 Unc | o
 
 ### Movement (Meters/Turn)
-Walk   ?? | Climb ??
-Run/Ev ?? | Crawl ??
-Sprint ?? | Swim  ??
+Walk   12 | Climb  7
+Run/Ev 25 | Crawl  3
+Sprint 50 | Swim  13
 
-### Personal Armor (Loc)
-Name (Loc): Type BAR(M/B/E/X)
+### Personal Armor
+| Name          | Location | Type    | M/B/E/X | Notes
+|---------------|----------|---------|---------|-------
+| Leather Boots | Feet     | Leather | 1/1/0/1 | -
 
 ### Weapons
-Weapon Skill AP/BD (Range) Ammo Notes
+| Weapon               | Skill |  AP/ BD | Range   | Ammo | Notes
+|----------------------|-------|---------|---------|------|-------
+| Knife                | Melee |  1M/  1 |      1M |    - | -
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
@@ -325,9 +149,15 @@ Weapon Skill AP/BD (Range) Ammo Notes
 ### Real Life - 
 - Notes
 
-## Inventory
-- C$?
-Item - Location - Data/Stats
+## Inventory - $10
+| Item                       | Location | Data/Stats
+|----------------------------|----------|------------
+| Knife                      | Pocket   |
+| Fatigues                   | Worn     |
+| Briefs (girl)              | Worn     |
+| Sunglasses                 | Worn     |
+| Combat Boots               | Worn     |
+| Jumpsuit                   | Worn     |
 
 ## Vehicle Data
-- Model/Name, Type, Mass, Traits, Notes
+| Model/Name, Type, Mass, Traits, Notes
