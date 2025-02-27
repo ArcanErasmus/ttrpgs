@@ -171,11 +171,18 @@ Item - Location - Data/Stats
     - light environment suit?
     - protective lenses?
     - some sort of flight suit?
-- 100: Elephant Gun
-- 30: Tranq Gun
-- 75: Auto-Pistol (Nambu)
-- 150: Mini Stunstick
-- 100: Vibrodagger
+<!-- - 100: Elephant Gun -->
+<!-- - 30: Tranq Gun -->
+<!-- - 75: Auto-Pistol (Nambu) -->
+<!-- - 150: Mini Stunstick -->
+<!-- - 100: Vibrodagger -->
+Vibrokatana
+Laser Rifle
+LMG?
+automatic grenade launcher?
+recoilless rifle?
+SRM/LAW?
+
 - 50: Communications Headset
 - 45: Civilian Communicator
 - 200: Field Communicator
