@@ -77,7 +77,6 @@ Sprint 40 | Swim   9
 | Demolitions               |     | DEX+INT |  2 | 9/CA |  146 |     |
 | Disguise                  |     |     CHA |  1 | 7/SB |  146 |     |
 | Driving/Ground Vehicles   |   2 | RFL+DEX |  1 | 8/SA |  146 |  40 |
-| Escape Artist             |     | STR+DEX |  1 | 9/CA |  147 |     |
 | Escape Artist             |   1 | STR+DEX |  1 | 9/CA |  147 |  24 |
 | Forgery                   |     | DEX+INT |  2 | 8/SA |  147 |     |
 | Gunnery/                  |     | RFL+DEX |  1 | 8/SA |  147 |     |
