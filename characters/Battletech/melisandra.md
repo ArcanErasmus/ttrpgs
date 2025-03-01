@@ -185,91 +185,141 @@
 # Melisandra "Kitten" Cream, she/her
 ## Personal Data
 - height cm, weight kg, hair, eyes, other, 26yo
-- affiliation
+- Major Periphery, Magistracy of Canopus
 - extra
 
 ## Attributes
 | Attr | # | Link | XP
 |------|---|------|------
-| STR  | 1 |   -2 | 150
-| BOD  | 1 |   -2 | 150
-| RFL  | 2 |   -1 | 250
-| DEX  | 2 |   -1 | 200
-| INT  | 5 |    0 | 550
-| WIL  | 4 |    0 | 450
-| CHA  | 5 |    0 | 550
-| EDG  | 2 |   -1 | 200
+| STR  | 1 |   -2 | 50
+| BOD  | 1 |   -2 | 50
+| RFL  | 2 |   -1 | 50
+| DEX  | 2 |   -1 |
+| INT  | 5 |    0 | 50
+| WIL  | 4 |    0 | 50
+| CHA  | 5 |    0 | 50
+| EDG  | 2 |   -1 |
 
 ## Combat Data
-### Combat Monitor
-Standard Damage
-Fatigue Damage
-Stun?
-Unconscious?
+### Combat Monitor pp.165
+Dmg | o
+Ftg | o
+Stn | o
+Unc | o
 
-### Movement (Meters/Turn)
+### Movement (Meters/Turn) pp.168
 Walk   ?? | Climb ??
 Run/Ev ?? | Crawl ??
 Sprint ?? | Swim  ??
+Load   0.000/  0kg, Unencumbered
 
-### Personal Armor (Loc)
-Name (Loc): Type BAR(M/B/E/X)
+### Personal Armor/Outfit (0.000kg)
+| Name          | Location | Kg     | M/B/E/X | PP    | Page | Notes
+|---------------|----------|--------|---------|-------|------|-------
+|               | Torso    | 00.000 | 0/0/0/0 |       |    0 |
+|---------------|----------|--------|---------|-------|------|-------
+<!-- | Clothes       | T/A/L    |  1.5   |         |       |  299 | -->
 
-### Weapons
-Weapon Skill AP/BD (Range) Ammo Notes
+### Weapons (0.000kg)
+| Weapon               | Skill | Kg     |  AP/  BD | Range S/M/L/E | Ammo/PP | Page | Notes
+|----------------------|-------|--------|----------|---------------|---------|------|-------
+|                      |       | 00.000 |  0?/ 0?  |            0M |         |    0 |
+|----------------------|-------|--------|----------|---------------|---------|------|-------
+|                      |       | 00.000 |  0?/ 0?  |  0/ 0/  0/  0 |    0/ 0 |      |
++ = Weapon Accessory, see pp.286
+
+#### Spare Ammo (0.000kg)
+| Weapon               | #  | Kg     | Ammo/PP | Page | $/# | Notes/Changes
+|----------------------|----|--------|---------|------|-----|-------
+|                      |  0 | 00.000 |    0/ 0 |    0 |   0 |
 
 ## Traits (Personal)
-| Trait                             | TP | Page | XP   |
-|-----------------------------------|----|------|------|
-| ?                                 |  ? |      |    0 |
-| Connections                       |    |      |   70 |
-| Equipped                          |    |      |  125 |
-| Extra Income                      |    |      |   50 |
-| Fast Learner                      |    |      |  300 |
-| Gregarious                        |    |      |   50 |
-| Wealth                            |    |      |  300 |
-|-----------------------------------|----|------|------|
-<!-- | Combat Paralysis                  |    |      | -400 | -->
-<!-- | Compulsion/Gambling               |    |      | -200 | -->
-<!-- | Bloodmark                         |    |      | -100 | -->
-| Enemy                             |    |      | -100 |
-| Reputation                        |    |      |  -75 |
-<!-- | Reputation                        |    |      |  -25 | -->
-<!-- | Thin Skinned                      |    |      | -100 | -->
+| Trait                               | TP | Page | XP   | Notes
+|-------------------------------------|----|------|------|-------
+|!Connections                         |   +|      |   70 |
+|!Equipped                            |   +|  116 |  125 |
+| Extra Income                        |   +|      |   50 |
+| Fast Learner                        |    |      |  300 |
+| Gregarious                          |    |      |   50 |
+|!Wealth                              |   +|  128 |  300 |
+|-------------------------------------|----|------|------|-------
+<!-- | Combat Paralysis                    |    |      | -400 | -->
+<!-- | Compulsion/Gambling                 |    |      | -200 | -->
+<!-- | Bloodmark                           |    |      | -100 | -->
+| Enemy                               |    |      | -100 |
+| Reputation                          |    |      |  -75 |
+<!-- | Reputation                          |    |      |  -25 | -->
+<!-- | Thin Skinned                        |    |      | -100 | -->
 
-| Glass Jaw                         |    |      |  -50 |
-<!-- | Glass Jaw                         |    |      | -250 | -->
-| Illiterate                        |    |      |  -25 |
+| Glass Jaw                           |    |      |  -50 |
+<!-- | Glass Jaw                           |    |      | -250 | -->
+| Illiterate                          |    |      |  -25 |
+
++ = Scalable
+! = Identity-specific (if applicable)
 
 ## Skills
-| Skill                   | Lvl |   Links | TN/C |  XP |
-|-------------------------|-----|---------|------|-----|
-| ?                       |     |       ? | ?/?? |   0 |
-| Acting                  |     |         |      |  75 |
-| Administration          |     |         |      |  60 |
-| Appraisal               |     |         |      |  30 |
-| Art/Dancing             |     |         |      |  10 |
-| Art/Writing             |     |         |      |  30 |
-| Career/Anthropologist   |     |         |      |  30 |
-| Career/Communications   |     |         |      |  50 |
-| Career/Journalist       |     |         |      |  30 |
-| Career/Management       |     |         |      |  30 |
-| Career/Merchant         |     |         |      |  30 |
-| Comms/Conventional      |     |         |      |  30 |
-| Computers               |     |         |      | 110 |
-| Interest/Gambling       |     |         |      |  15 |
-| Investigation           |     |         |      |  60 |
-| Language/English        |     |         |      | 115 |
-| Leadership              |     |         |      |  30 |
-| Negotiation             |     |         |      |  60 |
-| Perception              |     |         |      |  70 |
-| Protocol/Magistracy     |     |         |      |  65 |
-| Protocol/Randis         |     |         |      |  30 |
-| Sensor Operations       |     |         |      |  30 |
-| Streetwise/Randis       |     |         |      |  30 |
-| Streetwise/Magistracy   |     |         |      |  35 |
-| Swimming                |     |         |      |  20 |
-| Training                |     |         |      |  30 |
+| Skill                     | Lvl |   Links | L+ | TN/C | Page |  XP |
+|---------------------------|-----|---------|----|------|------|-----|
+| Acrobatics/               |     |     RFL |    | 7/SB |  141 |  75 |
+| Acting                    |     |     CHA |    | 8/CB |  142 |     |
+| Administration            |     | INT+WIL |    | 8/SA |  143 |  60 |
+| Animal Handling/          |     |     WIL |    | 7/SB |  143 |     |
+| Appraisal                 |     |     INT |    | 8/CB |  143 |  30 |
+| Archery                   |     |     DEX |    | 7/SB |  143 |     |
+| Art/Dancing               |     |     DEX |    | 8/CB+|  144 |  10 |
+| Art/Writing               |     |     DEX |    | 8/CB+|  144 |  30 |
+| Artillery                 |     | INT+WIL |    | 8/SA |  144 |     |
+| Career/Anthropologist     |     |     INT |    | 7/SB |  144 |  30 |
+| Career/Communications     |     |     INT |    | 7/SB |  144 |  50 |
+| Career/Journalist         |     |     INT |    | 7/SB |  144 |  30 |
+| Career/Management         |     |     INT |    | 7/SB |  144 |  30 |
+| Career/Merchant           |     |     INT |    | 7/SB |  144 |  30 |
+| Climbing                  |     |     DEX |    | 7/SB |  144 |     |
+| Comms/Conventional        |     |     INT |    | 7/SB |  144 |  30 |
+| Computers                 |     |     INT |    | 8/CB+|  145 | 110 |
+| Cryptography              |     | INT+WIL |    | 9/CA |  145 |     |
+| Demolitions               |     | DEX+INT |    | 9/CA |  146 |     |
+| Disguise                  |     |     CHA |    | 7/SB |  146 |     |
+| Driving/                  |     | RFL+DEX |    | 8/SA |  146 |     |
+| Escape Artist             |     | STR+DEX |    | 9/CA |  147 |     |
+| Forgery                   |     | DEX+INT |    | 8/SA |  147 |     |
+| Gunnery/                  |     | RFL+DEX |    | 8/SA |  147 |     |
+| Int/Gambling              |     |     INT |    | 8/CB+|  147 |  15 |
+| Interrogation             |     | WIL+CHA |    | 9/CA |  148 |     |
+| Investigation             |     | INT+WIL |    | 9/CA |  148 |  60 |
+| Language/English          |     | INT+CHA |    | 8/SA |  148 | 115 |
+| Leadership                |     | WIL+CHA |    | 8/SA |  148 |  30 |
+| Martial Arts              |     |     RFL |    | 7/SB+|  149 |     |
+| MedTech/                  |     |     INT |    | 7/SB |  149 |     |
+| Melee Weapons             |     |     DEX |    | 7/SB+|  149 |     |
+| Navigation/               |     |     INT |    | 7/SB |  150 |     |
+| Negotiation               |     |     CHA |    | 8/CB |  150 |  60 |
+| Perception                |     |     INT |    | 7/SB |  151 |  70 |
+| Piloting/                 |     | RFL+DEX |    | 8/SA |  151 |     |
+| Prest/                    |     |     DEX |    | 7/SB+|  152 |     |
+| Protocol/Magistracy       |     | WIL+CHA |    | 9/CA |  152 |  65 |
+| Protocol/Periphery        |     | WIL+CHA |    | 9/CA |  152 |  30 |
+| Running                   |     |     RFL |    | 7/SB |  152 |     |
+| Science/                  |     | INT+WIL |    | 9/CA |  153 |     |
+| Security/                 |     | DEX+INT |    | 9/CA |  153 |     |
+| Sensor Operations         |     | INT+WIL |    | 8/SA |  153 |  30 |
+| Small Arms                |     |     DEX |    | 7/SB |  153 |     |
+| Stealth                   |     | RFL+INT |    | 8/SA |  154 |     |
+| Strategy                  |     | INT+WIL |    | 9/CA |  154 |     |
+| Streetwise/Magistracy     |     |     CHA |    | 8/CB |  154 |  35 |
+| Streetwise/Periphery      |     |     CHA |    | 8/CB |  154 |  30 |
+| Support Weapons           |     |     DEX |    | 7/SB |  154 |     |
+| Surgery/                  |     | DEX+INT |    | 9/CA |  155 |     |
+| Survival/                 |     | BOD+INT |    | 9/CA |  156 |     |
+| Swimming                  |     |     STR |    | 7/SB |  156 |  20 |
+| Tactics/                  |     | INT+WIL |    | 9/CA |  156 |     |
+| Technician/               |     | DEX+INT |    | 9/CA |  157 |     |
+| Thrown Weapons/           |     |     DEX |    | 7/SB |  158 |     |
+| Tracking/                 |     | INT+WIL |    | 8/SA |  158 |     |
+| Training                  |     | INT+CHA |    | 9/CA |  159 |  30 |
+| Zero-G Operations         |     |     RFL |    | 7/SB |  159 |     |
++ = Tiered
 
 ## Biography
 ### Affiliation - Major Periphery, Magistracy of Canopus
@@ -283,9 +333,21 @@ Weapon Skill AP/BD (Range) Ammo Notes
 ### Real Life - 
 - Notes
 
-## Inventory
-- C$?
-Item - Location - Data/Stats
+## Inventory - $0 [./x-.-x/.] (0.000kg total incl. weapons/armor) (0.000kg)
+| Item                    | Location    | Kg     | Page | Charge | Data/Stats
+|Electronics--------------|-------------|--------|------|--------|------------
+|                         |             | 00.000 |    0 | 00/ 00 |
+|Tools--------------------|-------------|--------|------|--------|------------
+|                         |             |        |      |        |
+|Medical------------------|-------------|--------|------|--------|------------
+|                         |             |        |      |        |
+|Misc---------------------|-------------|--------|------|--------|------------
+|                         |             |        |      |        |
+
+### Power Points/hr reference
+- ?
 
 ## Vehicle Data
-- Model/Name, Type, Mass, Traits, Notes
+| Model/Name   | Type        | Mass   | Armor (BAR) | Fuel    | Range  |  Kph    | MP    | Crew  | Cargo | Page | Notes
+|--------------|-------------|--------|-------------|---------|--------|---------|-------|-------|-------|------|-------
+|              |             |     kg | 0/0/0   (2) |   0kg/? |    0km |   0/  0 |  0/ 0 |  0/ 0 |   0kg |    0 |
