@@ -7,17 +7,17 @@
 ## Attributes
 | Attr | # | Link | XP
 |------|---|------|------
-| STR  |   |   -0 | 0
-| BOD  |   |   -0 | 0
-| RFL  |   |   -0 | 0
-| DEX  |   |   -0 | 0
-| INT  |   |   -0 | 0
-| WIL  |   |   -0 | 0
-| CHA  |   |   -0 | 0
-| EDG  |   |   -0 | 0
+| STR  |   |   -0 |
+| BOD  |   |   -0 |
+| RFL  |   |   -0 |
+| DEX  |   |   -0 |
+| INT  |   |   -0 |
+| WIL  |   |   -0 |
+| CHA  |   |   -0 |
+| EDG  |   |   -0 |
 
 ## Combat Data
-### Combat Monitor
+### Combat Monitor pp.165
 Dmg | o
 Ftg | o
 Stn | o
@@ -27,7 +27,7 @@ Unc | o
 Walk   ?? | Climb ??
 Run/Ev ?? | Crawl ??
 Sprint ?? | Swim  ??
-Load   0.000/  0kg, Unencumbered
+Load   0/0kg, Unencumbered
 
 ### Personal Armor/Outfit (0.000kg)
 | Name          | Location | Kg     | M/B/E/X | PP    | Page | Notes
