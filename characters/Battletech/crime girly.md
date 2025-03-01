@@ -6,7 +6,7 @@
 # Aliya, she/her
 ## Personal Data
 - height cm, weight kg, hair, eyes, other, 26yo
-- Astrokaszy
+- Independent/Astrokaszy
 - extra
 
 ## Attributes

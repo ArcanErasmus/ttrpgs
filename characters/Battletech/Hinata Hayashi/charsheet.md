@@ -20,21 +20,22 @@
 | INT  | 7 |   +1 |
 | WIL  | 7 |   +1 |
 | CHA  | 7 |   +1 |
-| EDG  | 4 |    0 |  
+| EDG  | 4 |    0 |
 
 ## Combat Data
-### Combat Monitor
+### Combat Monitor pp.165
 Dmg | ooooo ooo
 Ftg | ooooo ooooo oooo
 Stn | o
 Unc | o
 
-### Movement (Meters/Turn)
+### Movement (Meters/Turn) pp.168
 Walk    8 | Climb  5
 Run/Ev 20 | Crawl  2
 Sprint 40 | Swim   9
+Load  27.565/ 40kg, Unencumbered
 
-### Personal Armor/Outfit
+### Personal Armor/Outfit (14.03kg)
 | Name          | Location | Kg     | M/B/E/X | PP    | Page | Notes
 |---------------|----------|--------|---------|-------|------|-------
 | DC Helmet     | Head     |  1.015 | 3/4/4/2 | 15/15 |  292 | Mil Comm; AV 7/Flash
@@ -42,27 +43,27 @@ Sprint 40 | Swim   9
 | TC Gloves     | Hands    |  0.515 | 2/2/2/2 | 15/15 |  294 | Mil Comm
 | Ab/Flak Suit  | T/A/L    |  9.8   | 2/4/5/2 |       |  288 |
 | Packframe     | Torso    |  1     | 0/0/0/0 |       |  290 | +2 STR Enc, Complex Action Attach/Detach
-| Fatigues      | T/A/L    |  0.5   |         |       |  299 | E/I/C 0/0/2 (Jungle)
 |---------------|----------|--------|---------|-------|------|-------
+| Fatigues      | T/A/L    |  0.5   |         |       |  299 | E/I/C 0/0/2 (Jungle)
 <!-- | Ghillie Suit  | Full     |  6     |         |       |  297 | E/I/C: 0/0/6 (Jungle) -->
 <!-- | Load Vest     | Torso    |  0.4   | 1/3/1/1 |       |  290 | +1 STR Enc -->
 <!-- | Leather Jkt   | T/A      |  2     | 1/1/0/1 |       |  299 | -->
 <!-- | Work Boots    | Feet     |  1.7   | 1/1/0/1 |       |  299 | -->
 <!-- | Clothes       | T/A/L    |  1.5   |         |       |  299 | -->
 
-### Weapons
+### Weapons (9.415kg)
 | Weapon               | Skill | Kg     |  AP/  BD | Range S/M/L/E | Ammo/PP | Page | Notes
 |----------------------|-------|--------|----------|---------------|---------|------|-------
-| Knife                | Melee |  0.25  |  1M/ 1   |            1M |         |  261 |
-| Stunstick            | Melee |  0.205 |  0E/ 4D  |            1M |   15/15 |  264 |
+<!-- | Knife                | Melee |  0.25  |  1M/ 1   |            1M |         |  261 | -->
+<!-- | Stunstick            | Melee |  0.205 |  0E/ 4D  |            1M |   15/15 |  264 | -->
 | Vibrodagger          | Melee |  0.365 |  6M/ 2   |            1M |   15/15 |  264 |
 |----------------------|-------|--------|----------|---------------|---------|------|-------
 | Needler Pistol       | SmAr  |  0.5   |  2B/ 5S  |  2/ 6/ 12/ 50 |   10/10 |  268 | Silencer+, Laser Sight+ (15/15)
 | Rifle, Zeus Heavy    | SmAr  |  8.55  |  5B/ 5   | 35/80/190/420 |    5/ 5 |  266 | Silencer+, NV Scope+ (15/15)
-| Tranq Gun            | SmAr  |  1.6   |  2B/ 4D  |  3/10/ 18/ 25 |   10/10 |  269 | Silencer+, If AP+(MOS/4) <= BAR, no BD
+<!-- | Tranq Gun            | SmAr  |  1.6   |  2B/ 4D  |  3/10/ 18/ 25 |   10/10 |  269 | Silencer+, If AP+(MOS/4) <= BAR, no BD -->
 + = Weapon Accessory, see pp.286
 
-#### Spare Ammo
+#### Spare Ammo (0.75kg)
 | Weapon               | #  | Kg     | Ammo/PP | Page | $/# | Notes/Changes
 |----------------------|----|--------|---------|------|-----|-------
 | Needler Pistol       |  5 |  0.35  |   10/10 |  268 |   1 |
@@ -72,6 +73,7 @@ Sprint 40 | Swim   9
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
 |-------------------------------------|----|------|------|-------
+| Attractive                          |  2 |  108 |    0 | Cosmetic Surgery
 |!Connections                         |  2+|  111 |  200 | Randis Bureaucrat
 | Equipped                            |  3+|  116 |  300 | D/x-C-x/D
 | Fast Learner                        |  3 |  117 |  300 |
@@ -126,7 +128,7 @@ Sprint 40 | Swim   9
 | Navigation/Ground         |   2 |     INT |  1 | 7/SB |  150 |  40 |
 | Negotiation               |   3 |     CHA |  1 | 8/CB |  150 |  40 |
 | Perception                |   3 |     INT |  1 | 7/SB |  151 |  64 |
-| Piloting/Air Vehicle      |   2 | RFL+DEX |  1 | 8/SA |  151 |  40 |
+| Piloting/Air Vehicles     |   2 | RFL+DEX |  1 | 8/SA |  151 |  40 |
 | Prest/                    |     |     DEX |  1 | 7/SB+|  152 |     |
 | Protocol/Combine          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Protocol/Periphery        |   2 | WIL+CHA |  2 | 9/CA |  152 |  40 |
@@ -168,41 +170,41 @@ Sprint 40 | Swim   9
 - This far into the periphery to keep a low profile
 - Enjoy the quiet solo life, or at least claim that I do
 
-## Inventory - $11,104 [D(E)/x-C-x/D] (122.21kg total incl. weapons/armor)
+## Inventory - $8,054 [D(E)/x-C-x/D] (122.21kg total incl. weapons/armor) (3.37kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 | Communications Headset  |             |  0.025 |  301 | 15/ 15 |
-| Communicator, Civilian  |             |  0.115 |  301 | 15/ 15 |
-| Communicator, Field     |             |  1.015 |  301 | 15/ 15 |
+<!-- | Communicator, Civilian  |             |  0.115 |  301 | 15/ 15 | -->
+<!-- | Communicator, Field     |             |  1.015 |  301 | 15/ 15 | -->
 | Electronic Compass      |             |  0.115 |  312 | 15/ 15 |
 | IR Scanner              |             |  0.415 |  304 | 15/ 15 |
-| Microphone, Directional |             |  1.515 |  304 | 15/ 15 |
-| Noteputer               |             |  0.515 |  303 | 15/ 15 |
-| Power Pack, HC Military |             |  6     |  306 |300/300 |
+<!-- | Microphone, Directional |             |  1.515 |  304 | 15/ 15 | -->
+<!-- | Noteputer               |             |  0.515 |  303 | 15/ 15 | -->
+<!-- | Power Pack, HC Military |             |  6     |  306 |300/300 | -->
 | Power Pack, Micro (13x) |             |  0.195 |  306 | 15/ 15 |
-| Rangefinder Binoculars  |             |  0.515 |  304 | 15/ 15 |
-| Recharger, Fossil Fuel  |             | 10     |  307 |        |
-| Recharger, Heavy-Duty   |             |  0.4   |  307 |        |
-| Recharger, Kinetic      |             |  2     |  307 |        |
-| Recharger, Solar        |             |  1.5   |  307 |        |
-| Recharger, Standard     |             |  0.15  |  307 |        |
-| Video Camera            |             |  4.015 |  302 | 15/ 15 |
+<!-- | Rangefinder Binoculars  |             |  0.515 |  304 | 15/ 15 | -->
+<!-- | Recharger, Fossil Fuel  |             | 10     |  307 |        | -->
+<!-- | Recharger, Heavy-Duty   |             |  0.4   |  307 |        | -->
+<!-- | Recharger, Kinetic      |             |  2     |  307 |        | -->
+<!-- | Recharger, Solar        |             |  1.5   |  307 |        | -->
+<!-- | Recharger, Standard     |             |  0.15  |  307 |        | -->
+<!-- | Video Camera            |             |  4.015 |  302 | 15/ 15 | -->
 |Tools--------------------|-------------|--------|------|--------|------------
-| Climbing/Rapelling Kit  |             | 10.3   |  312 |        |
-| Field Kit, Advanced     |             | 15     |  312 | 15/ 15 |
+<!-- | Climbing/Rapelling Kit  |             | 10.3   |  312 |        | -->
+<!-- | Field Kit, Advanced     |             | 15     |  312 | 15/ 15 | -->
 | Laser Scalpel           |             |  0.115 |  313 | 15/ 15 |
 | Lock Pick Set, Basic    |             |  0.365 |  308 |        |
-| Slug-Thrower Kit        |             |  3     |  310 |        |
-| Toolkit, Basic          |             | 10     |  310 |        |
+<!-- | Slug-Thrower Kit        |             |  3     |  310 |        | -->
+<!-- | Toolkit, Basic          |             | 10     |  310 |        | -->
 |Medical------------------|-------------|--------|------|--------|------------
 | Advanced Medical Kit    |             |  2     |  313 |  4/  4 |
 | Medipatch (5x)          |             |  0.05  |  313 |        |
 | Stimpatch (10x)         |             |  0.09  |  313 |        |
 |Misc---------------------|-------------|--------|------|--------|------------
-| Clothes, assorted       |             |        |  299 |        | $500 value
-| Emergency Rations (10x) |             | 10     |  312 |        |
-| Lock, Mechanical        |             |  1     |  308 |        |
-| Tent                    |             |  4     |  312 |        | 2-person
+<!-- | Clothes, assorted       |             |        |  299 |        | $500 value -->
+<!-- | Emergency Rations (10x) |             | 10     |  312 |        | -->
+<!-- | Lock, Mechanical        |             |  1     |  308 |        | -->
+<!-- | Tent                    |             |  4     |  312 |        | 2-person -->
 
 ### Power Points/hr reference
 - 0.1 (micro): Laser Sight
@@ -223,11 +225,12 @@ Sprint 40 | Swim   9
 - 1: Military Communicator
 
 ## Vehicle Data
-| Model/Name     | Type        | Mass   | Armor (BAR) | Fuel    | Range  |  Kph    | MP    | Crew  | Cargo | Page | Notes
-|----------------|-------------|--------|-------------|---------|--------|---------|-------|-------|-------|------|-------
-| Jeep           | Sup/Wheeled | 1700kg | 2/2/1   (5) |  23kg/P |  509km |  75/118 |  7/11 |  1/ 3 | 294kg |  324 | Off-Road, Trailer Hitch
-| Snail Extended | Sup/Wheeled |   60kg | 0/0/0   (2) |   2kg/B |  363km |  54/ 86 |  5/ 8 |  1/ 0 |  40kg |    - | Bicycle, Off-Road
-| Mud Pig        | Sup/Tracked |  256kg | 1/1/1   (2) |   3kg/B |  162km |  43/ 65 |  4/ 6 |  1/ 0 |  80kg |    - | Amphibious
+| Model/Name   | Type        | Mass   | Armor (BAR) | Fuel    | Range  |  Kph    | MP    | Crew  | Cargo | Page | Notes
+|--------------|-------------|--------|-------------|---------|--------|---------|-------|-------|-------|------|-------
+| Half-Ton Tr. | Sup/Wheeled |  681kg | 1/1/1   (3) |       - |      - |       - |     - |     - | 500kg |    - | Trailer, Off-Road
+| Jeep         | Sup/Wheeled | 1700kg | 2/2/1   (5) |  23kg/P |  509km |  75/118 |  7/11 |  1/ 3 | 294kg |  324 | Off-Road, Trailer Hitch
+| Mud Pig      | Sup/Tracked |  256kg | 1/1/1   (2) |   3kg/B |  162km |  43/ 65 |  4/ 6 |  1/ 0 |  80kg |    - | Amphibious
+| Snail Ex.    | Sup/Wheeled |   60kg | 0/0/0   (2) |   2kg/B |  363km |  54/ 86 |  5/ 8 |  1/ 0 |  40kg |    - | Bicycle, Off-Road
 
 ## Masala (Dog)
 - 25kg
