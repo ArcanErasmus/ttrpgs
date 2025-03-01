@@ -1,13 +1,15 @@
 # She/her "-a" names
+Camila de Soto
 Codra Alpetrei
-Sister Freda Reyer
+Hinata Hayashi
 Iona Tsopanakis
 Julia Lily Vasya
 Luliana di Faliero
-Tarsilyle "Panda" Panderosa
 Ragna Lorelei Arnorung
 Sabrina King
+Sister Freda Reyer
 Skedja
+Tarsilyle "Panda" Panderosa
 
 # Weird middle ground (she/her)
 Heske "Hunch" Dietrich (only ever went by her nickname)
@@ -15,22 +17,23 @@ Heske "Hunch" Dietrich (only ever went by her nickname)
 # She/her non-"-a" names
 Bight
 Fleck
+Jackie Hudson
 Josefine Rohksdottir
 Margaret "Max" Statler
 Meat
 Prudence
 Pyraloid of House Arverni
-Tian "Miss Xiang" Shanxiang
 Shofen of Munlekh
+Tian "Miss Xiang" Shanxiang
 Yuriso-Meno Moiri
 Zeal-of-the-Land "Zeal"
 
 # Other pronouns
 BN-G1 (it/its)
 Fuin'golp (it/its)
+Meszhmek Ironham (he/him)
 Seven Hardy Rosewoods Entwined and Kneeling, "Rosewood" (any/all/none)
 Szetszei (szei/szem)
-Meszhmek Ironham (he/him)
 
 # Honorable mention
 Ronak Ironham (only memorable character from me pre-transition) (he/him)
