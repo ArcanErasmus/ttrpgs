@@ -4,13 +4,6 @@
 - rank
 - dark secret
 
-### Requirements
-- No Combat Paralysis Trait
-- No Extra Income Trait
-- No Illiterate Trait
-- No Property Trait
-- +2 TP in the Connections Trait
-
 # Jackie Hudson, she/her
 ## Personal Data
 - 177cm, 92kg, blonde wavy hair, hazel eyes, 37yo
@@ -261,7 +254,7 @@ Sprint 40 | Swim   9
 - Remove some Traits (-200 XP)
 
 |!Alternate ID                        |  2 |  108 |  200 |
-|!Rank                                |  2+|  123 |  200 |
+|!Rank                                |  3+|  123 |  300 |
 | Compulsion/Duty to ComStar          | -2+|  110 | -200 |
 |!In For Life                         | -3 |  120 | -300 |
 | Enemy/ComStar Fundamentalist        | -1+|  113 | -100 |
@@ -304,11 +297,10 @@ Sprint 40 | Swim   9
 `isfsheet.md`
 ### Changes
 - Age: 36 (-1 yr) to launder XP
-- +20 XP to EDG
+- (Technically 4 XP over budget)
 - Remove some Skills
 
 | Gunnery/Air Vehicle       |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
-| Int/Combine History       |   1 |     INT |  1 | 8/CB+|  147 |  24 |
 | Int/Writings of J. Blake  |   0 |     INT |  1 | 8/CB+|  147 |  16 |
 | Protocol/ComStar          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Streetwise/ComStar        |   1 |     CHA |  1 | 8/CB |  154 |  24 |
