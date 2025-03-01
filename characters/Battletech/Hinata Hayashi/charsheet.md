@@ -1,7 +1,8 @@
 # TODO
-- gear
+- gear locations
 - details of social contacts
 - Write more flavorful backstory
+- Dark Secret details
 
 # Hinata Hayashi (早矢仕日向), she/her
 ## Personal Data
@@ -56,10 +57,10 @@ Sprint 40 | Swim   9
 | Stunstick            | Melee |  0.205 |  0E/ 4D  |            1M |   15/15 |  264 |
 | Vibrodagger          | Melee |  0.365 |  6M/ 2   |            1M |   15/15 |  264 |
 |----------------------|-------|--------|----------|---------------|---------|------|-------
-| Needler Pistol       | SmAr  |  0.5   |  2B/ 5S  |  2/ 6/ 12/ 50 |   10/10 |  268 | Silencer*, Laser Sight* (15/15)
-| Rifle, Zeus Heavy    | SmAr  |  8.55  |  5B/ 5   | 35/80/190/420 |    5/ 5 |  266 | Silencer*, NV Scope* (15/15)
-| Tranq Gun            | SmAr  |  1.6   |  2B/ 4D  |  3/10/ 18/ 25 |   10/10 |  269 | Silencer*, If AP+(MOS/4) <= BAR, no BD
-* = Weapon Accessory, see pp.286
+| Needler Pistol       | SmAr  |  0.5   |  2B/ 5S  |  2/ 6/ 12/ 50 |   10/10 |  268 | Silencer+, Laser Sight+ (15/15)
+| Rifle, Zeus Heavy    | SmAr  |  8.55  |  5B/ 5   | 35/80/190/420 |    5/ 5 |  266 | Silencer+, NV Scope+ (15/15)
+| Tranq Gun            | SmAr  |  1.6   |  2B/ 4D  |  3/10/ 18/ 25 |   10/10 |  269 | Silencer+, If AP+(MOS/4) <= BAR, no BD
++ = Weapon Accessory, see pp.286
 
 #### Spare Ammo
 | Weapon               | #  | Kg     | Ammo/PP | Page | $/# | Notes/Changes
@@ -71,17 +72,17 @@ Sprint 40 | Swim   9
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
 |-------------------------------------|----|------|------|-------
-|!Connections                         |  2*|  111 |  200 | Randis Bureaucrat
-| Equipped                            |  3*|  116 |  300 | D/x-C-x/D
+|!Connections                         |  2+|  111 |  200 | Randis Bureaucrat
+| Equipped                            |  3+|  116 |  300 | D/x-C-x/D
 | Fast Learner                        |  3 |  117 |  300 |
 | Patient                             |  1 |  121 |  100 |
-|!Wealth                              |  4*|  128 |  400 | 25k
+|!Wealth                              |  4+|  128 |  400 | 25k
 |-------------------------------------|----|------|------|-------
-| Compulsion/Hatred of Federated Suns | -1*|  110 | -100 |
-|!Dark Secret                         | -1*|  112 | -100 |
-| Enemy/Randis Fundamentalist         | -1*|  113 | -100 |
+| Compulsion/Hatred of Federated Suns | -1+|  110 | -100 |
+|!Dark Secret                         | -1+|  112 | -100 |
+| Enemy/Randis Fundamentalist         | -1+|  113 | -100 |
 | TDS                                 | -1 |  127 | -100 |
-* = Scalable
++ = Scalable
 ! = Identity-specific (if applicable)
 
 ## Skills
@@ -92,13 +93,13 @@ Sprint 40 | Swim   9
 | Administration            |   1 | INT+WIL |  2 | 8/SA |  143 |  24 |
 | Animal Handling/Training  |   0 |     WIL |  1 | 7/SB |  143 |  16 |
 | Archery                   |     |     DEX |  1 | 7/SB |  143 |     |
-| Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB*|  144 |  24 |
+| Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB+|  144 |  24 |
 | Artillery                 |     | INT+WIL |  2 | 8/SA |  144 |     |
 | Career/Cartographer       |   2 |     INT |  1 | 7/SB |  144 |  40 |
 | Career/Soldier            |   1 |     INT |  1 | 7/SB |  144 |  24 |
 | Climbing                  |   1 |     DEX |  1 | 7/SB |  144 |  24 |
 | Comms/Conventional        |   2 |     INT |  1 | 7/SB |  144 |  40 |
-| Computers                 |   3 |     INT |  1 | 8/CB*|  145 |  64 |
+| Computers                 |   3 |     INT |  1 | 8/CB+|  145 |  64 |
 | Cryptography              |     | INT+WIL |  2 | 9/CA |  145 |     |
 | Demolitions               |     | DEX+INT |  2 | 9/CA |  146 |     |
 | Disguise                  |     |     CHA |  1 | 7/SB |  146 |     |
@@ -106,27 +107,27 @@ Sprint 40 | Swim   9
 | Escape Artist             |   1 | STR+DEX |  1 | 9/CA |  147 |  24 |
 | Forgery                   |     | DEX+INT |  2 | 8/SA |  147 |     |
 | Gunnery/                  |     | RFL+DEX |  1 | 8/SA |  147 |     |
-| Int/Architecture          |   0 |     INT |  1 | 8/CB*|  147 |  16 |
-| Int/Combine History       |   1 |     INT |  1 | 8/CB*|  147 |  24 |
-| Int/Geology               |   1 |     INT |  1 | 8/CB*|  147 |  24 |
-| Int/MechWarrior Culture   |   1 |     INT |  1 | 8/CB*|  147 |  24 |
-| Int/Randis Wildlife       |   2 |     INT |  1 | 8/CB*|  147 |  40 |
-| Int/Terran History        |   0 |     INT |  1 | 8/CB*|  147 |  16 |
-| Int/Vexilology            |   1 |     INT |  1 | 8/CB*|  147 |  24 |
+| Int/Architecture          |   0 |     INT |  1 | 8/CB+|  147 |  16 |
+| Int/Combine History       |   1 |     INT |  1 | 8/CB+|  147 |  24 |
+| Int/Geology               |   1 |     INT |  1 | 8/CB+|  147 |  24 |
+| Int/MechWarrior Culture   |   1 |     INT |  1 | 8/CB+|  147 |  24 |
+| Int/Randis Wildlife       |   2 |     INT |  1 | 8/CB+|  147 |  40 |
+| Int/Terran History        |   0 |     INT |  1 | 8/CB+|  147 |  16 |
+| Int/Vexilology            |   1 |     INT |  1 | 8/CB+|  147 |  24 |
 | Interrogation             |     | WIL+CHA |  2 | 9/CA |  148 |     |
 | Investigation             |     | INT+WIL |  2 | 9/CA |  148 |     |
 | Language/English          |   2 | INT+CHA |  2 | 8/SA |  148 |  40 |
 | Language/Japanese         |   2 | INT+CHA |  2 | 8/SA |  148 |  40 |
 | Leadership                |   1 | WIL+CHA |  2 | 8/SA |  148 |  24 |
-| Martial Arts              |   1 |     RFL |  0 | 7/SB*|  149 |  24 |
+| Martial Arts              |   1 |     RFL |  0 | 7/SB+|  149 |  24 |
 | MedTech/General           |   1 |     INT |  1 | 7/SB |  149 |  24 |
-| Melee Weapons             |   3 |     DEX |  1 | 7/SB*|  149 |  64 |
+| Melee Weapons             |   3 |     DEX |  1 | 7/SB+|  149 |  64 |
 | Navigation/Air            |   1 |     INT |  1 | 7/SB |  150 |  24 |
 | Navigation/Ground         |   2 |     INT |  1 | 7/SB |  150 |  40 |
 | Negotiation               |   3 |     CHA |  1 | 8/CB |  150 |  40 |
 | Perception                |   3 |     INT |  1 | 7/SB |  151 |  64 |
 | Piloting/Air Vehicle      |   2 | RFL+DEX |  1 | 8/SA |  151 |  40 |
-| Prest/                    |     |     DEX |  1 | 7/SB*|  152 |     |
+| Prest/                    |     |     DEX |  1 | 7/SB+|  152 |     |
 | Protocol/Combine          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
 | Protocol/Periphery        |   2 | WIL+CHA |  2 | 9/CA |  152 |  40 |
 | Running                   |   2 |     RFL |  0 | 7/SB |  152 |  40 |
@@ -150,6 +151,7 @@ Sprint 40 | Swim   9
 | Tracking/Wilds            |   2 | INT+WIL |  2 | 8/SA |  158 |  40 |
 | Training                  |   1 | INT+CHA |  2 | 9/CA |  159 |  24 |
 | Zero-G Operations         |     |     RFL |  0 | 7/SB |  159 |     |
++ = Tiered
 
 ## Biography
 ### Early Childhood - War Orphan
