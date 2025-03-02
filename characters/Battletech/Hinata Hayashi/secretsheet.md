@@ -22,25 +22,25 @@
 ! = Identity-specific (J = Jackie Hudson, H = Hinata Hayashi)
 
 ## Skills
-| Skill                     | Lvl |   Links | L+ | TN/C | Page |  XP |
-|---------------------------|-----|---------|----|------|------|-----|
-| Acting                    |   3 |     CHA |  1 | 8/CB |  142 |  64 |
-| Cryptography              |   2 | INT+WIL |  2 | 9/CA |  145 |  40 |
-| Demolitions               |   1 | DEX+INT |  2 | 9/CA |  146 |  24 |
-| Disguise                  |   2 |     CHA |  1 | 7/SB |  146 |  40 |
-| Forgery                   |   1 | DEX+INT |  2 | 8/SA |  147 |  24 |
-| Gunnery/Air Vehicle       |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
-| Gunnery/Ground Vehicle    |   0 | RFL+DEX |  1 | 8/SA |  147 |  16 |
-| Int/Writings of J. Blake  |   0 |     INT |  1 | 8/CB+|  147 |  16 |
-| Interrogation             |   2 | WIL+CHA |  2 | 9/CA |  148 |  40 |
-| Prest/Quickdraw           |   2 |     DEX |  1 | 7/SB+|  152 |  40 |
-| Protocol/ComStar          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
-| Strategy                  |   0 | INT+WIL |  2 | 9/CA |  154 |  16 |
-| Streetwise/ComStar        |   1 |     CHA |  1 | 8/CB |  154 |  24 |
-| Support Weapons           |   0 |     DEX |  1 | 7/SB |  154 |  16 |
-| Tactics/Infantry          |   0 | INT+WIL |  2 | 9/CA |  156 |  16 |
-| Tactics/Land              |   0 | INT+WIL |  2 | 9/CA |  156 |  16 |
-| Tracking/Urban            |   1 | INT+WIL |  2 | 8/SA |  158 |  24 |
+| Skill                     | Lvl |   Links | L+ | TN/C | T | Page |  XP | Bonuses
+|---------------------------|-----|---------|----|------|---|------|-----|---------
+| Acting                    |   3 |     CHA |  1 | 8/CB | 4 |  142 |  64 | +1
+| Cryptography              |   2 | INT+WIL |  4 | 9/CA | 2 |  145 |  40 | +1
+| Demolitions               |   1 | DEX+INT |  4 | 9/CA | 3 |  146 |  24 | +1
+| Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 |
+| Forgery                   |   1 | DEX+INT |  4 | 8/SA | 3 |  147 |  24 |
+| Gunnery/Air Vehicles      |   0 | RFL+DEX |  3 | 8/SA | 5 |  147 |  16 |
+| Gunnery/Ground Vehicles   |   0 | RFL+DEX |  3 | 8/SA | 5 |  147 |  16 |
+| Int/Writings of J. Blake  |   0 |     INT |  1 | 8/CB+| 6 |  147 |  16 | +1
+| Interrogation             |   2 | WIL+CHA |  4 | 9/CA | 2 |  148 |  40 | +1
+| Prest/Quickdraw           |   2 |     DEX |  1 | 7/SB+| 4 |  152 |  40 |
+| Protocol/ComStar          |   1 | WIL+CHA |  4 | 9/CA | 3 |  152 |  24 | +1
+| Strategy                  |   0 | INT+WIL |  4 | 9/CA | 4 |  154 |  16 | +1
+| Streetwise/ComStar        |   1 |     CHA |  1 | 8/CB | 5 |  154 |  24 | +1
+| Support Weapons           |   0 |     DEX |  1 | 7/SB | 6 |  154 |  16 |
+| Tactics/Infantry          |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
+| Tactics/Land              |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
+| Tracking/Urban            |   1 | INT+WIL |  4 | 8/SA | 3 |  158 |  24 |
 + = Tiered
 
 ## Biography
