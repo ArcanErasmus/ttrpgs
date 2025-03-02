@@ -77,7 +77,7 @@ Load  27.565/ 40kg, Unencumbered
 |!Connections                         |  2+|  111 |  200 | Randis Bureaucrat
 | Equipped                            |  3+|  116 |  300 | D/x-C-x/D
 | Fast Learner                        |  3 |  117 |  300 |
-| Patient                             |  1 |  121 |  100 |
+| Patient                             |  1 |  121 |  100 | +1 all Complex skill/attr rolls
 |!Wealth                              |  4+|  128 |  400 | 25k
 |-------------------------------------|----|------|------|-------
 | Compulsion/Hatred of Federated Suns | -1+|  110 | -100 |
@@ -88,71 +88,72 @@ Load  27.565/ 40kg, Unencumbered
 ! = Identity-specific (if applicable)
 
 ## Skills
-| Skill                     | Lvl |   Links | L+ | TN/C | Page |  XP |
-|---------------------------|-----|---------|----|------|------|-----|
-| Acrobatics/Gymnastics     |   1 |     RFL |  0 | 7/SB |  141 |  24 |
-| Acting                    |     |     CHA |  1 | 8/CB |  142 |     |
-| Administration            |   1 | INT+WIL |  2 | 8/SA |  143 |  24 |
-| Animal Handling/Training  |   0 |     WIL |  1 | 7/SB |  143 |  16 |
-| Archery                   |     |     DEX |  1 | 7/SB |  143 |     |
-| Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB+|  144 |  24 |
-| Artillery                 |     | INT+WIL |  2 | 8/SA |  144 |     |
-| Career/Cartographer       |   2 |     INT |  1 | 7/SB |  144 |  40 |
-| Career/Soldier            |   1 |     INT |  1 | 7/SB |  144 |  24 |
-| Climbing                  |   1 |     DEX |  1 | 7/SB |  144 |  24 |
-| Comms/Conventional        |   2 |     INT |  1 | 7/SB |  144 |  40 |
-| Computers                 |   3 |     INT |  1 | 8/CB+|  145 |  64 |
-| Cryptography              |     | INT+WIL |  2 | 9/CA |  145 |     |
-| Demolitions               |     | DEX+INT |  2 | 9/CA |  146 |     |
-| Disguise                  |     |     CHA |  1 | 7/SB |  146 |     |
-| Driving/Ground Vehicles   |   3 | RFL+DEX |  1 | 8/SA |  146 |  64 |
-| Escape Artist             |   1 | STR+DEX |  1 | 9/CA |  147 |  24 |
-| Forgery                   |     | DEX+INT |  2 | 8/SA |  147 |     |
-| Gunnery/                  |     | RFL+DEX |  1 | 8/SA |  147 |     |
-| Int/Architecture          |   0 |     INT |  1 | 8/CB+|  147 |  16 |
-| Int/Combine History       |   1 |     INT |  1 | 8/CB+|  147 |  24 |
-| Int/Geology               |   1 |     INT |  1 | 8/CB+|  147 |  24 |
-| Int/MechWarrior Culture   |   1 |     INT |  1 | 8/CB+|  147 |  24 |
-| Int/Randis Wildlife       |   2 |     INT |  1 | 8/CB+|  147 |  40 |
-| Int/Terran History        |   0 |     INT |  1 | 8/CB+|  147 |  16 |
-| Int/Vexilology            |   1 |     INT |  1 | 8/CB+|  147 |  24 |
-| Interrogation             |     | WIL+CHA |  2 | 9/CA |  148 |     |
-| Investigation             |     | INT+WIL |  2 | 9/CA |  148 |     |
-| Language/English          |   2 | INT+CHA |  2 | 8/SA |  148 |  40 |
-| Language/Japanese         |   2 | INT+CHA |  2 | 8/SA |  148 |  40 |
-| Leadership                |   1 | WIL+CHA |  2 | 8/SA |  148 |  24 |
-| Martial Arts              |   1 |     RFL |  0 | 7/SB+|  149 |  24 |
-| MedTech/General           |   1 |     INT |  1 | 7/SB |  149 |  24 |
-| Melee Weapons             |   3 |     DEX |  1 | 7/SB+|  149 |  64 |
-| Navigation/Air            |   1 |     INT |  1 | 7/SB |  150 |  24 |
-| Navigation/Ground         |   2 |     INT |  1 | 7/SB |  150 |  40 |
-| Negotiation               |   3 |     CHA |  1 | 8/CB |  150 |  40 |
-| Perception                |   3 |     INT |  1 | 7/SB |  151 |  64 |
-| Piloting/Air Vehicles     |   2 | RFL+DEX |  1 | 8/SA |  151 |  40 |
-| Prest/                    |     |     DEX |  1 | 7/SB+|  152 |     |
-| Protocol/Combine          |   1 | WIL+CHA |  2 | 9/CA |  152 |  24 |
-| Protocol/Periphery        |   2 | WIL+CHA |  2 | 9/CA |  152 |  40 |
-| Running                   |   2 |     RFL |  0 | 7/SB |  152 |  40 |
-| Science/                  |     | INT+WIL |  2 | 9/CA |  153 |     |
-| Security/Electronic       |   2 | DEX+INT |  2 | 9/CA |  153 |  40 |
-| Security/Mechanical       |   2 | DEX+INT |  2 | 9/CA |  153 |  40 |
-| Sensor Operations         |   1 | INT+WIL |  2 | 8/SA |  153 |  24 |
-| Small Arms                |   3 |     DEX |  1 | 7/SB |  153 |  64 |
-| Stealth                   |   3 | RFL+INT |  1 | 8/SA |  154 |  64 |
-| Strategy                  |     | INT+WIL |  2 | 9/CA |  154 |     |
-| Streetwise/Combine        |   1 |     CHA |  1 | 8/CB |  154 |  24 |
-| Streetwise/Periphery      |   3 |     CHA |  1 | 8/CB |  154 |  64 |
-| Support Weapons           |     |     DEX |  1 | 7/SB |  154 |     |
-| Surgery/                  |     | DEX+INT |  2 | 9/CA |  155 |     |
-| Survival/Jungle           |   3 | BOD+INT |  1 | 9/CA |  156 |  64 |
-| Swimming                  |   1 |     STR |  0 | 7/SB |  156 |  24 |
-| Tactics/                  |     | INT+WIL |  2 | 9/CA |  156 |     |
-| Technician/Electronics    |   1 | DEX+INT |  2 | 9/CA |  157 |  24 |
-| Technician/Mechanical     |   1 | DEX+INT |  2 | 9/CA |  157 |  24 |
-| Thrown Weapons/Blunt      |   1 |     DEX |  1 | 7/SB |  158 |  24 |
-| Tracking/Wilds            |   2 | INT+WIL |  2 | 8/SA |  158 |  40 |
-| Training                  |   1 | INT+CHA |  2 | 9/CA |  159 |  24 |
-| Zero-G Operations         |     |     RFL |  0 | 7/SB |  159 |     |
+| Skill                     | Lvl |   Links | L+ | TN/C | T | Page |  XP | Bonuses
+|---------------------------|-----|---------|----|------|---|------|-----|---------
+| Acrobatics/Gymnastics     |   2 |     RFL |  0 | 7/SB | 5 |  141 |  40 |
+| Acting                    |     |     CHA |  1 | 8/CB |   |  142 |     | +1
+| Administration            |   1 | INT+WIL |  4 | 8/SA | 3 |  143 |  24 |
+| Animal Handling/Training  |   0 |     WIL |  1 | 7/SB | 6 |  143 |  16 |
+| Archery                   |     |     DEX |  1 | 7/SB |   |  143 |     |
+| Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB+| 6 |  144 |  24 | +1
+| Artillery                 |     | INT+WIL |  4 | 8/SA |   |  144 |     |
+| Career/Cartographer       |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
+| Career/Soldier            |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
+| Climbing                  |   1 |     DEX |  1 | 7/SB | 5 |  144 |  24 |
+| Comms/Conventional        |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
+| Computers                 |   4 | DEX+INT |  4 | 9/CA+| 0 |  145 |  96 | +1
+| Cryptography              |     | INT+WIL |  4 | 9/CA |   |  145 |     | +1
+| Demolitions               |     | DEX+INT |  4 | 9/CA |   |  146 |     | +1
+| Disguise                  |     |     CHA |  1 | 7/SB |   |  146 |     |
+| Driving/Ground Vehicles   |   2 | RFL+DEX |  3 | 8/SA | 3 |  146 |  40 |
+| Escape Artist             |   1 | STR+DEX |  3 | 9/CA | 5 |  147 |  24 | +1
+| Forgery                   |     | DEX+INT |  4 | 8/SA |   |  147 |     |
+| Gunnery/                  |     | RFL+DEX |  3 | 8/SA |   |  147 |     |
+| Int/Architecture          |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
+| Int/Combine History       |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
+| Int/MechWarrior Culture   |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
+| Int/Randis History        |   0 |     INT |  1 | 8/CB+| 7 |  147 |  40 | +1
+| Int/Randis Wildlife       |   2 |     INT |  1 | 8/CB+| 5 |  147 |  40 | +1
+| Int/Terran History        |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
+| Int/Vexilology            |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
+| Interrogation             |     | WIL+CHA |  4 | 9/CA |   |  148 |     | +1
+| Investigation             |     | INT+WIL |  4 | 9/CA |   |  148 |     | +1
+| Language/English          |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
+| Language/Japanese         |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
+| Leadership                |   1 | WIL+CHA |  4 | 8/SA | 3 |  148 |  24 |
+| Martial Arts              |   1 |     RFL |  0 | 7/SB+| 6 |  149 |  24 |
+| MedTech/General           |   1 |     INT |  1 | 7/SB | 5 |  149 |  24 |
+| MedTech/Veterinarian      |   0 |     INT |  1 | 7/SB | 6 |  149 |  16 |
+| Melee Weapons             |   4 | RFL+DEX |  3 | 8/SA+| 1 |  149 |  96 |
+| Navigation/Air            |   1 |     INT |  1 | 7/SB | 5 |  150 |  24 |
+| Navigation/Ground         |   2 |     INT |  1 | 7/SB | 4 |  150 |  40 |
+| Negotiation               |   3 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1
+| Perception                |   3 |     INT |  1 | 7/SB | 3 |  151 |  64 |
+| Piloting/Air Vehicles     |   2 | RFL+DEX |  3 | 8/SA | 3 |  151 |  40 |
+| Prest/                    |     |     DEX |  1 | 7/SB+|   |  152 |     |
+| Protocol/Combine          |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1
+| Protocol/Periphery        |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1
+| Running                   |   2 |     RFL |  0 | 7/SB | 5 |  152 |  40 |
+| Science/Geology           |   1 | INT+WIL |  4 | 9/CA | 3 |  153 |  24 | +1
+| Security/Electronic       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 | +1
+| Security/Mechanical       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 | +1
+| Sensor Operations         |   1 | INT+WIL |  4 | 8/SA | 3 |  153 |  24 |
+| Small Arms                |   3 |     DEX |  1 | 7/SB | 3 |  153 |  64 |
+| Stealth                   |   3 | RFL+INT |  3 | 8/SA | 3 |  154 |  64 |
+| Strategy                  |     | INT+WIL |  4 | 9/CA |   |  154 |     | +1
+| Streetwise/Combine        |   1 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1
+| Streetwise/Periphery      |   3 |     CHA |  1 | 8/CB | 4 |  154 |  64 | +1
+| Support Weapons           |     |     DEX |  1 | 7/SB |   |  154 |     |
+| Surgery/                  |     | DEX+INT |  4 | 9/CA |   |  155 |     | +1
+| Survival/Jungle/Randis    |   2 | BOD+INT |  3 | 9/CA | 3 |  156 |  40 | +1
+| Swimming                  |   1 |     STR |  0 | 7/SB | 6 |  156 |  24 |
+| Tactics/                  |     | INT+WIL |  4 | 9/CA |   |  156 |     | +1
+| Technician/Electronics    |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 | +1
+| Technician/Mechanical     |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 | +1
+| Thrown Weapons/Blunt      |   1 |     DEX |  1 | 7/SB | 5 |  158 |  24 |
+| Tracking/Wilds            |   1 | INT+WIL |  4 | 8/SA | 3 |  158 |  24 |
+| Training                  |   1 | INT+CHA |  4 | 9/CA | 4 |  159 |  24 | +1
+| Zero-G Operations         |     |     RFL |  0 | 7/SB |   |  159 |     |
 + = Tiered
 
 ## Biography
