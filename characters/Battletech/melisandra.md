@@ -54,7 +54,7 @@ Load   0.000/ 10kg, Unencumbered
 |-------------------------------------|----|------|------|-------
 | Attractive                          |  2 |  108 |    0 | Cosmetic Surgery
 |!Connections                         |  1+|  111 |  100 |
-|!Equipped                            |  1+|  116 |  100 | C(D)/x-B-x/C
+<!-- |!Equipped                            |  1+|  116 |  100 | C(D)/x-B-x/C -->
 | Fast Learner                        |  3 |  117 |  300 |
 | Good Hearing                        |  1 |  118 |  100 |
 | Gregarious                          |  1 |  118 |  100 |
@@ -164,7 +164,7 @@ Load   0.000/ 10kg, Unencumbered
 ### Real Life - None!
 - Notes
 
-## Inventory - $5,000 [D(C)/x-B-x/C] (0.000kg total incl. weapons/armor) (0.000kg)
+## Inventory - $5,000 [C(D)/x-B-x/C] (0.000kg total incl. weapons/armor) (0.000kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 |                         |             | 00.000 |    0 | 00/ 00 |
@@ -175,6 +175,13 @@ Load   0.000/ 10kg, Unencumbered
 |Misc---------------------|-------------|--------|------|--------|------------
 | Cosmetic Surgery/Ears   |             |        |  315 |        | Catgirl Ears
 | Cosmetic Surgery/Tail   |             |        |  315 |        | Catgirl Tail
+
+50: Mini Stunstick pp264 CAB
+3: Sunglasses (heart shaped) pp296
+1000: Clothes, mostly nice ones pp299
+45: Civilian Communicator pp301
+<!-- 250: Video Camera -->
+
 
 ### Power Points/hr reference
 - ?
