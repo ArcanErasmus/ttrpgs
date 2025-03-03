@@ -81,7 +81,7 @@ Load  27.565/ 40kg, Unencumbered
 |!Wealth                              |  4+|  128 |  400 | 25k
 |-------------------------------------|----|------|------|-------
 | Compulsion/Hatred of Federated Suns | -1+|  110 | -100 |
-|!Dark Secret                         | -1+|  112 | -100 |
+|!Dependents/Boyfriend                | -1+|  113 | -100 |
 | Enemy/Randis Fundamentalist         | -1+|  113 | -100 |
 | TDS                                 | -1 |  127 | -100 |
 + = Scalable

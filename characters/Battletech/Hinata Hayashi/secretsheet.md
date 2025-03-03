@@ -15,7 +15,7 @@
 |!Wealth                              |  4+|  128 |  400 | !H, 25k
 |-------------------------------------|----|------|------|-------
 | Compulsion/Duty to ComStar          | -2+|  110 | -200 |
-|!Dark Secret                         | -1+|  112 | -100 | !J, ???
+|!Dependents/Boyfriend                | -1+|  113 | -100 | !H
 | Enemy/ComStar Fundamentalist        | -1+|  113 | -100 |
 |!In For Life                         | -3 |  120 | -300 | !J
 + = Scalable
@@ -36,7 +36,7 @@
 | Prest/Quickdraw           |   2 |     DEX |  1 | 7/SB+| 4 |  152 |  40 |
 | Protocol/ComStar          |   1 | WIL+CHA |  4 | 9/CA | 3 |  152 |  24 | +1
 | Strategy                  |   0 | INT+WIL |  4 | 9/CA | 4 |  154 |  16 | +1
-| Streetwise/ComStar        |   1 |     CHA |  1 | 8/CB | 5 |  154 |  24 | +1
+| Streetwise/ComStar        |   0 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1
 | Support Weapons           |   0 |     DEX |  1 | 7/SB | 6 |  154 |  16 |
 | Tactics/Infantry          |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
 | Tactics/Land              |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
