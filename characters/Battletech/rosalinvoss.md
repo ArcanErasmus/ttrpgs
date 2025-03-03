@@ -75,72 +75,72 @@ Load   0.000/ 15kg, Unencumbered
 |---------------------------|-----|---------|----|------|------|-----|
 | Acrobatics/               |     |     RFL |    | 7/SB |  141 |     |
 | Acting                    |     |     CHA |    | 8/CB |  142 |     |
-| Administration            |   2 | INT+WIL |    | 8/SA |  143 |     |
+| Administration            |   2 | INT+WIL |    | 8/SA |  143 |  40 |
 | Animal Handling/          |     |     WIL |    | 7/SB |  143 |     |
-| Appraisal                 |   1 |     INT |    | 8/CB |  143 |     |
+| Appraisal                 |   1 |     INT |    | 8/CB |  143 |  24 |
 | Archery                   |     |     DEX |    | 7/SB |  143 |     |
-| Art/3D Modeling           |   2 |     DEX |    | 8/CB+|  144 |     |
-| Art/Cooking               |   2 |     DEX |    | 8/CB+|  144 |     |
-| Artillery                 |   1 | INT+WIL |    | 8/SA |  144 |     |
-| Career/Scientist          |   2 |     INT |    | 7/SB |  144 |     |
-| Career/Technician         |   2 |     INT |    | 7/SB |  144 |     |
-| Climbing                  |   1 |     DEX |    | 7/SB |  144 |     |
-| Comms/Conventional        |   1 |     INT |    | 7/SB |  144 |     |
-| Computers                 |   4 | DEX+INT |    | 8/CA+|  145 |     |
+| Art/3D Modeling           |   2 |     DEX |    | 8/CB+|  144 |  40 |
+| Art/Cooking               |   2 |     DEX |    | 8/CB+|  144 |  40 |
+| Artillery                 |   1 | INT+WIL |    | 8/SA |  144 |  24 |
+| Career/Scientist          |   2 |     INT |    | 7/SB |  144 |  40 |
+| Career/Technician         |   2 |     INT |    | 7/SB |  144 |  40 |
+| Climbing                  |   1 |     DEX |    | 7/SB |  144 |  24 |
+| Comms/Conventional        |   1 |     INT |    | 7/SB |  144 |  24 |
+| Computers                 |   4 | DEX+INT |    | 8/CA+|  145 |  96 |
 | Cryptography              |     | INT+WIL |    | 9/CA |  145 |     |
-| Demolitions               |   0 | DEX+INT |    | 9/CA |  146 |     |
+| Demolitions               |   0 | DEX+INT |    | 9/CA |  146 |  16 |
 | Disguise                  |     |     CHA |    | 7/SB |  146 |     |
-| Driving/Ground Vehicles   |   4 | RFL+DEX |    | 8/SA |  146 |     |
+| Driving/Ground Vehicles   |   4 | RFL+DEX |    | 8/SA |  146 |  96 |
 | Escape Artist             |     | STR+DEX |    | 9/CA |  147 |     |
 | Forgery                   |     | DEX+INT |    | 8/SA |  147 |     |
-| Gunnery/Ground Vehicles   |   0 | RFL+DEX |    | 8/SA |  147 |     |
-| Gunnery/Mechs             |   0 | RFL+DEX |    | 8/SA |  147 |     |
-| Int/Entomology            |   1 |     INT |    | 8/CB+|  147 |     |
-| Int/Geology               |   1 |     INT |    | 8/CB+|  147 |     |
-| Int/Mech History          |   1 |     INT |    | 8/CB+|  147 |     |
-| Int/Star League History   |   1 |     INT |    | 8/CB+|  147 |     |
+| Gunnery/Ground Vehicles   |   0 | RFL+DEX |    | 8/SA |  147 |  16 |
+| Gunnery/Mechs             |   0 | RFL+DEX |    | 8/SA |  147 |  16 |
+| Int/Entomology            |   1 |     INT |    | 8/CB+|  147 |  24 |
+| Int/Geology               |   1 |     INT |    | 8/CB+|  147 |  24 |
+| Int/Mech History          |   1 |     INT |    | 8/CB+|  147 |  24 |
+| Int/Star League History   |   1 |     INT |    | 8/CB+|  147 |  24 |
 | Interrogation             |     | WIL+CHA |    | 9/CA |  148 |     |
-| Investigation             |   1 | INT+WIL |    | 9/CA |  148 |     |
-| Language/English          |   4 | INT+CHA |    | 8/SA |  148 |     |
-| Language/Japanese         |   2 | INT+CHA |    | 8/SA |  148 |     |
-| Leadership                |   1 | WIL+CHA |    | 8/SA |  148 |     |
+| Investigation             |   1 | INT+WIL |    | 9/CA |  148 |  24 |
+| Language/English          |   4 | INT+CHA |    | 8/SA |  148 |  96 |
+| Language/Japanese         |   2 | INT+CHA |    | 8/SA |  148 |  40 |
+| Leadership                |   1 | WIL+CHA |    | 8/SA |  148 |  24 |
 | Martial Arts              |     |     RFL |    | 7/SB+|  149 |     |
-| MedTech/General           |   0 |     INT |    | 7/SB |  149 |     |
+| MedTech/General           |   0 |     INT |    | 7/SB |  149 |  16 |
 | Melee Weapons             |     |     DEX |    | 7/SB+|  149 |     |
-| Navigation/Air            |   0 |     INT |    | 7/SB |  150 |     |
-| Navigation/Ground         |   0 |     INT |    | 7/SB |  150 |     |
-| Negotiation               |   1 |     CHA |    | 8/CB |  150 |     |
-| Perception                |   3 |     INT |    | 7/SB |  151 |     |
-| Piloting/Air Vehicles     |   0 | RFL+DEX |    | 8/SA |  151 |     |
-| Piloting/Mech             |   0 | RFL+DEX |    | 8/SA |  151 |     |
+| Navigation/Air            |   0 |     INT |    | 7/SB |  150 |  16 |
+| Navigation/Ground         |   0 |     INT |    | 7/SB |  150 |  16 |
+| Negotiation               |   1 |     CHA |    | 8/CB |  150 |  24 |
+| Perception                |   3 |     INT |    | 7/SB |  151 |  64 |
+| Piloting/Air Vehicles     |   0 | RFL+DEX |    | 8/SA |  151 |  16 |
+| Piloting/Mech             |   0 | RFL+DEX |    | 8/SA |  151 |  16 |
 | Prest/                    |     |     DEX |    | 7/SB+|  152 |     |
-| Protocol/Periphery        |   3 | WIL+CHA |    | 9/CA |  152 |     |
+| Protocol/Periphery        |   3 | WIL+CHA |    | 9/CA |  152 |  64 |
 | Running                   |     |     RFL |    | 7/SB |  152 |     |
-| Science/Biology           |   1 | INT+WIL |    | 9/CA |  153 |     |
-| Science/Metallurgy        |   1 | INT+WIL |    | 9/CA |  153 |     |
-| Security/Electronic       |   1 | DEX+INT |    | 9/CA |  153 |     |
-| Security/Mechanical       |   0 | DEX+INT |    | 9/CA |  153 |     |
-| Sensor Operations         |   0 | INT+WIL |    | 8/SA |  153 |     |
-| Small Arms                |   2 |     DEX |    | 7/SB |  153 |     |
-| Stealth                   |   0 | RFL+INT |    | 8/SA |  154 |     |
+| Science/Biology           |   1 | INT+WIL |    | 9/CA |  153 |  24 |
+| Science/Metallurgy        |   1 | INT+WIL |    | 9/CA |  153 |  24 |
+| Security/Electronic       |   1 | DEX+INT |    | 9/CA |  153 |  24 |
+| Security/Mechanical       |   0 | DEX+INT |    | 9/CA |  153 |  16 |
+| Sensor Operations         |   0 | INT+WIL |    | 8/SA |  153 |  16 |
+| Small Arms                |   2 |     DEX |    | 7/SB |  153 |  40 |
+| Stealth                   |   0 | RFL+INT |    | 8/SA |  154 |  16 |
 | Strategy                  |     | INT+WIL |    | 9/CA |  154 |     |
 | Streetwise/               |     |     CHA |    | 8/CB |  154 |     |
-| Support Weapons           |   0 |     DEX |    | 7/SB |  154 |     |
+| Support Weapons           |   0 |     DEX |    | 7/SB |  154 |  16 |
 | Surgery/                  |     | DEX+INT |    | 9/CA |  155 |     |
-| Survival/Jungle           |   0 | BOD+INT |    | 9/CA |  156 |     |
-| Swimming                  |   0 |     STR |    | 7/SB |  156 |     |
+| Survival/Jungle           |   0 | BOD+INT |    | 9/CA |  156 |  16 |
+| Swimming                  |   0 |     STR |    | 7/SB |  156 |  16 |
 | Tactics/                  |     | INT+WIL |    | 9/CA |  156 |     |
-| Technician/Aeronautics    |   0 | DEX+INT |    | 9/CA |  157 |     |
-| Technician/Electronic     |   3 | DEX+INT |    | 9/CA |  157 |     |
-| Technician/Jets           |   1 | DEX+INT |    | 9/CA |  157 |     |
-| Technician/Mechanics      |   3 | DEX+INT |    | 9/CA |  157 |     |
-| Technician/Myomer         |   1 | DEX+INT |    | 9/CA |  157 |     |
-| Technician/Nuclear        |   3 | DEX+INT |    | 9/CA |  157 |     |
-| Technician/Weapons        |   1 | DEX+INT |    | 9/CA |  157 |     |
+| Technician/Aeronautics    |   0 | DEX+INT |    | 9/CA |  157 |  16 |
+| Technician/Electronic     |   3 | DEX+INT |    | 9/CA |  157 |  64 |
+| Technician/Jets           |   1 | DEX+INT |    | 9/CA |  157 |  24 |
+| Technician/Mechanics      |   3 | DEX+INT |    | 9/CA |  157 |  64 |
+| Technician/Myomer         |   1 | DEX+INT |    | 9/CA |  157 |  24 |
+| Technician/Nuclear        |   3 | DEX+INT |    | 9/CA |  157 |  64 |
+| Technician/Weapons        |   1 | DEX+INT |    | 9/CA |  157 |  24 |
 | Thrown Weapons/           |     |     DEX |    | 7/SB |  158 |     |
 | Tracking/                 |     | INT+WIL |    | 8/SA |  158 |     |
-| Training                  |   1 | INT+CHA |    | 9/CA |  159 |     |
-| Zero-G Operations         |   0 |     RFL |    | 7/SB |  159 |     |
+| Training                  |   1 | INT+CHA |    | 9/CA |  159 |  24 |
+| Zero-G Operations         |   0 |     RFL |    | 7/SB |  159 |  16 |
 + = Tiered
 
 ## Biography
