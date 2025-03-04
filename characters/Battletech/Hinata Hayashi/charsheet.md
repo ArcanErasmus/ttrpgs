@@ -91,16 +91,16 @@ Load  27.42/40kg, Unencumbered
 |---------------------------|-----|---------|----|------|---|------|-----|---------
 | Acrobatics/Gymnastics     |   2 |     RFL |  0 | 7/SB | 5 |  141 |  40 |
 | Acting                    |     |     CHA |  1 | 8/CB |   |  142 |     | +1
-| Administration            |   1 | INT+WIL |  4 | 8/SA | 3 |  143 |  24 |
-| Animal Handling/Training  |   0 |     WIL |  1 | 7/SB | 6 |  143 |  16 |
+| Admin|Supply Chain        |   1 | INT+WIL |  4 | 8/SA | 3 |  143 |  24 |
+| AnHand/Train|Wild Animals |   0 |     WIL |  1 | 7/SB | 6 |  143 |  16 |
 | Archery                   |     |     DEX |  1 | 7/SB |   |  143 |     |
 | Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB+| 6 |  144 |  24 | +1
 | Artillery                 |     | INT+WIL |  4 | 8/SA |   |  144 |     |
 | Career/Cartographer       |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
 | Career/Soldier            |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
 | Climbing                  |   1 |     DEX |  1 | 7/SB | 5 |  144 |  24 |
-| Comms/Conventional        |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
-| Computers                 |   4 | DEX+INT |  4 | 9/CA+| 0 |  145 |  96 | +1
+| Comms/Conv|Tapping        |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
+| Computers|Programming     |   4 | DEX+INT |  4 | 9/CA+| 0 |  145 |  96 | +1
 | Cryptography              |     | INT+WIL |  4 | 9/CA |   |  145 |     | +1
 | Demolitions               |     | DEX+INT |  4 | 9/CA |   |  146 |     | +1
 | Disguise                  |     |     CHA |  1 | 7/SB |   |  146 |     |
@@ -120,13 +120,13 @@ Load  27.42/40kg, Unencumbered
 | Language/English          |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
 | Language/Japanese         |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
 | Leadership                |   1 | WIL+CHA |  4 | 8/SA | 3 |  148 |  24 |
-| Martial Arts              |   1 |     RFL |  0 | 7/SB+| 6 |  149 |  24 |
+| Martial Arts|Judo         |   1 |     RFL |  0 | 7/SB+| 6 |  149 |  24 |
 | MedTech/General           |   1 |     INT |  1 | 7/SB | 5 |  149 |  24 |
-| MedTech/Veterinarian      |   0 |     INT |  1 | 7/SB | 6 |  149 |  16 |
-| Melee Weapons             |   4 | RFL+DEX |  3 | 8/SA+| 1 |  149 |  96 |
+| MedTech/Vet|Mammals       |   0 |     INT |  1 | 7/SB | 6 |  149 |  16 |
+| Melee Weapons|Blunt       |   4 | RFL+DEX |  3 | 8/SA+| 1 |  149 |  96 |
 | Navigation/Air            |   1 |     INT |  1 | 7/SB | 5 |  150 |  24 |
 | Navigation/Ground         |   2 |     INT |  1 | 7/SB | 4 |  150 |  40 |
-| Negotiation               |   3 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1
+| Negotiation|Political     |   3 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1
 | Perception                |   3 |     INT |  1 | 7/SB | 3 |  151 |  64 |
 | Piloting/Air Vehicles     |   2 | RFL+DEX |  3 | 8/SA | 3 |  151 |  40 |
 | Prest/                    |     |     DEX |  1 | 7/SB+|   |  152 |     |
@@ -137,7 +137,7 @@ Load  27.42/40kg, Unencumbered
 | Security/Electronic       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 | +1
 | Security/Mechanical       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 | +1
 | Sensor Operations         |   1 | INT+WIL |  4 | 8/SA | 3 |  153 |  24 |
-| Small Arms                |   3 |     DEX |  1 | 7/SB | 3 |  153 |  64 |
+| Small Arms|Pistols        |   3 |     DEX |  1 | 7/SB | 3 |  153 |  64 |
 | Stealth                   |   3 | RFL+INT |  3 | 8/SA | 3 |  154 |  64 |
 | Strategy                  |     | INT+WIL |  4 | 9/CA |   |  154 |     | +1
 | Streetwise/Combine        |   1 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1

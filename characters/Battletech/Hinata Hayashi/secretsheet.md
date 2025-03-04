@@ -24,7 +24,7 @@
 ## Skills
 | Skill                     | Lvl |   Links | L+ | TN/C | T | Page |  XP | Bonuses
 |---------------------------|-----|---------|----|------|---|------|-----|---------
-| Acting                    |   3 |     CHA |  1 | 8/CB | 4 |  142 |  64 | +1
+| Acting|Deception          |   3 |     CHA |  1 | 8/CB | 4 |  142 |  64 | +1
 | Cryptography              |   2 | INT+WIL |  4 | 9/CA | 2 |  145 |  40 | +1
 | Demolitions               |   1 | DEX+INT |  4 | 9/CA | 3 |  146 |  24 | +1
 | Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 |
@@ -35,7 +35,7 @@
 | Interrogation             |   2 | WIL+CHA |  4 | 9/CA | 2 |  148 |  40 | +1
 | Prest/Quickdraw           |   2 |     DEX |  1 | 7/SB+| 4 |  152 |  40 |
 | Protocol/ComStar          |   1 | WIL+CHA |  4 | 9/CA | 3 |  152 |  24 | +1
-| Strategy                  |   0 | INT+WIL |  4 | 9/CA | 4 |  154 |  16 | +1
+| Strategy|Planetary        |   0 | INT+WIL |  4 | 9/CA | 4 |  154 |  16 | +1
 | Streetwise/ComStar        |   0 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1
 | Support Weapons           |   0 |     DEX |  1 | 7/SB | 6 |  154 |  16 |
 | Tactics/Infantry          |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
