@@ -170,7 +170,7 @@ Load  27.42/40kg, Unencumbered
 - This far into the periphery to keep a low profile
 - Enjoy the quiet solo life, or at least claim that I do
 
-## Inventory - $8,154 [D(E)/x-C-x/D] (121.86kg total incl. weapons/armor) (3.385kg)
+## Inventory - $7,794 [D(E)/x-C-x/D] (121.86kg total incl. weapons/armor) (3.385kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 | Communications Headset  |             |  0.025 |  301 | 15/ 15 |
@@ -196,6 +196,7 @@ Load  27.42/40kg, Unencumbered
 | Lock Pick Set, Basic    |             |  0.365 |  308 |        |
 <!-- | Slug-Thrower Kit        |             |  3     |  310 |        | -->
 <!-- | Toolkit, Basic          |             | 10     |  310 |        | -->
+<!-- | Verigraph Scan/Reader   |             |  1     |  303 |        | -->
 |Medical------------------|-------------|--------|------|--------|------------
 | Advanced Medical Kit    |             |  2     |  313 |  4/  4 |
 | Medipatch (5x)          |             |  0.05  |  313 |        |

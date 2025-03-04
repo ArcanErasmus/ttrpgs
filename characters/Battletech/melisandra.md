@@ -63,11 +63,11 @@ Load   0.000/ 10kg, Unencumbered
 |-------------------------------------|----|------|------|-------
 |!Bloodmark                           | -1+|  109 | -100 |
 | Compulsion/Gambling                 | -2+|  110 | -200 |
+| Compulsion/Hemophobia               | -1+|  110 | -100 |
 |!Enemy                               | -1+|  113 | -100 |
 | Glass Jaw                           | -3 |  118 | -300 |
 |!Reputation                          | -1+|  124 | -100 |
 | Thin Skinned                        | -1 |  126 | -100 |
-| Unattractive                        |  0 |  128 | -100 | Removed by Cosmetic Surgery
 + = Scalable
 ! = Identity-specific (if applicable)
 
@@ -164,24 +164,30 @@ Load   0.000/ 10kg, Unencumbered
 ### Real Life - None!
 - Notes
 
-## Inventory - $5,000 [C(D)/x-B-x/C] (0.000kg total incl. weapons/armor) (0.000kg)
-| Item                    | Location    | Kg     | Page | Charge | Data/Stats
-|Electronics--------------|-------------|--------|------|--------|------------
-|                         |             | 00.000 |    0 | 00/ 00 |
-|Tools--------------------|-------------|--------|------|--------|------------
-|                         |             |        |      |        |
-|Medical------------------|-------------|--------|------|--------|------------
-|                         |             |        |      |        |
-|Misc---------------------|-------------|--------|------|--------|------------
-| Cosmetic Surgery/Ears   |             |        |  315 |        | Catgirl Ears
-| Cosmetic Surgery/Tail   |             |        |  315 |        | Catgirl Tail
+## Inventory - $7,500 [C(D)/x-B-x/C] (0.000kg total incl. weapons/armor) (0.000kg)
+| Item                        | Location    | Kg     | Page | Charge | Data/Stats
+|Electronics------------------|-------------|--------|------|--------|------------
+|                             |             | 00.000 |    0 | 00/ 00 |
+|Tools------------------------|-------------|--------|------|--------|------------
+|                             |             |        |      |        |
+|Medical----------------------|-------------|--------|------|--------|------------
+|                             |             |        |      |        |
+|Misc-------------------------|-------------|--------|------|--------|------------
+| Cosmetic Surgery/Catgirl    |             |        |  315 |        | Ears & Tail
 
 50: Mini Stunstick pp264 CAB
 3: Sunglasses (heart shaped) pp296
 1000: Clothes, mostly nice ones pp299
 45: Civilian Communicator pp301
-<!-- 250: Video Camera -->
-
+100: Micro-Recorder pp302
+500: Noteputer pp303
+60: Microphone, Directional pp304
+80: Microphone Bug (2x) pp304
+25: Binox Image Intensifier pp304
+(Power Packs) pp306
+(Rechargers) pp307
+100: Basic Lock Pick Set pp308
+(Locks) pp308
 
 ### Power Points/hr reference
 - ?
