@@ -51,11 +51,11 @@ Load  27.42/40kg, Unencumbered
 <!-- | Work Boots    | Feet     |  1.7   | 1/1/0/1 |       |  299 | -->
 <!-- | Clothes       | T/A/L    |  1.5   |         |       |  299 | -->
 
-### Weapons (9.255kg)
+### Weapons (9.265kg)
 | Weapon               | Skill | Kg     |  AP/  BD | Range S/M/L/E | Ammo/PP | Page | Notes
 |----------------------|-------|--------|----------|---------------|---------|------|-------
 <!-- | Knife                | Melee |  0.25  |  1M/ 1   |            1M |         |  261 | -->
-| Stunstick            | Melee |  0.205 |  0E/ 4D  |            1M |   15/15 |  264 |
+| Stunstick            | Melee |  0.215 |  0E/ 4D  |            1M |   15/15 |  264 |
 |----------------------|-------|--------|----------|---------------|---------|------|-------
 | Needler Pistol       | SmAr  |  0.5   |  2B/ 5S  |  2/ 6/ 12/ 50 |   10/10 |  268 | Silencer+, Laser Sight+ (15/15)
 | Rifle, Zeus Heavy    | SmAr  |  8.55  |  5B/ 5   | 35/80/190/420 |    5/ 5 |  266 | Silencer+, NV Scope+ (15/15)
@@ -170,7 +170,7 @@ Load  27.42/40kg, Unencumbered
 - This far into the periphery to keep a low profile
 - Enjoy the quiet solo life, or at least claim that I do
 
-## Inventory - $7,794 [D(E)/x-C-x/D] (121.86kg total incl. weapons/armor) (3.385kg)
+## Inventory - $7,794 [D(E)/x-C-x/D] (3.385kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 | Communications Headset  |             |  0.025 |  301 | 15/ 15 |

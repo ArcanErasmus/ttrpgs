@@ -13,8 +13,8 @@
 | DEX  | 4 |    0 |
 | INT  | 8 |   +1 |
 | WIL  | 5 |    0 |
-| CHA  | 9 |   +1 |
-| EDG  | 5 |    0 |
+| CHA  |10 |   +2 |
+| EDG  | 4 |    0 |
 
 ## Combat Data
 ### Combat Monitor pp.165
@@ -27,19 +27,22 @@ Unc | o
 Walk    4 | Climb  1
 Run/Ev 14 | Crawl  1
 Sprint 28 | Swim   4
-Load   0.000/ 10kg, Unencumbered
+Load   4.89/ 10kg, Unencumbered
 
-### Personal Armor/Outfit (0.000kg)
+### Personal Armor/Outfit (1.6kg)
 | Name          | Location | Kg     | M/B/E/X | PP    | Page | Notes
 |---------------|----------|--------|---------|-------|------|-------
 |               | Torso    | 00.000 | 0/0/0/0 |       |    0 |
+| Tail          | Tail     |  0     | 0/0/0/0 |       |      |
 |---------------|----------|--------|---------|-------|------|-------
-<!-- | Clothes       | T/A/L    |  1.5   |         |       |  299 | -->
+| Sunglasses    | Head     |  0.1   |         |       |  296 | AV 1/Flash, heart shaped
+| Clothes       | T/A/L    |  1.5   |         |       |  299 |
 
-### Weapons (0.000kg)
+### Weapons (0.165kg)
 | Weapon               | Skill | Kg     |  AP/  BD | Range S/M/L/E | Ammo/PP | Page | Notes
 |----------------------|-------|--------|----------|---------------|---------|------|-------
-|                      |       | 00.000 |  0?/ 0?  |            0M |         |    0 |
+| Tail Whip            | MArts |  0     |  0M/1+BOD|          1.5M |         |    0 | AToW-C pp186,189
+| Stunstick            | Melee |  0.165 |  0E/ 4D  |            1M |   15/15 |  264 |
 |----------------------|-------|--------|----------|---------------|---------|------|-------
 |                      |       | 00.000 |  0?/ 0?  |  0/ 0/  0/  0 |    0/ 0 |      |
 + = Weapon Accessory, see pp.286
@@ -52,14 +55,15 @@ Load   0.000/ 10kg, Unencumbered
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
 |-------------------------------------|----|------|------|-------
-| Attractive                          |  2 |  108 |    0 | Cosmetic Surgery
+| Attractive                          |  2 |  108 |    0 | Cosmetic Beauty Enhancement
 |!Connections                         |  1+|  111 |  100 |
-<!-- |!Equipped                            |  1+|  116 |  100 | C(D)/x-B-x/C -->
+| Cosmetic Beauty Enhance & Tail      |    |      |    0 | +1 Acrobatics, Acting, Leadership, Negotiation, -1 social rolls vs prejudice
+|!Equipped                            |  1+|  116 |  100 | C(D)/x-B-x/C
 | Fast Learner                        |  3 |  117 |  300 |
 | Good Hearing                        |  1 |  118 |  100 |
 | Gregarious                          |  1 |  118 |  100 |
 | Tech Empathy                        |  3 |  125 |  300 |
-|!Wealth                              |  3+|  128 |  300 | $10,000
+|!Wealth                              |  4+|  128 |  400 | $25,000
 |-------------------------------------|----|------|------|-------
 |!Bloodmark                           | -1+|  109 | -100 |
 | Compulsion/Gambling                 | -2+|  110 | -200 |
@@ -72,79 +76,79 @@ Load   0.000/ 10kg, Unencumbered
 ! = Identity-specific (if applicable)
 
 ## Skills
-| Skill                     | Lvl |   Links | L+ | TN/C | Page |  XP |
-|---------------------------|-----|---------|----|------|------|-----|
-| Acrobatics/Gymnastics     |   3 |     RFL |    | 7/SB |  141 |  64 |
-| Acting                    |   3 |     CHA |    | 8/CB |  142 |  64 |
-| Administration            |   2 | INT+WIL |    | 8/SA |  143 |  40 |
-| Animal Handling/          |     |     WIL |    | 7/SB |  143 |     |
-| Appraisal                 |   1 |     INT |    | 8/CB |  143 |  24 |
-| Archery                   |     |     DEX |    | 7/SB |  143 |     |
-| Art/Dancing               |   1 |     DEX |    | 8/CB+|  144 |  24 |
-| Art/Writing               |   1 |     DEX |    | 8/CB+|  144 |  24 |
-| Artillery                 |     | INT+WIL |    | 8/SA |  144 |     |
-| Career/Anthropologist     |   1 |     INT |    | 7/SB |  144 |  24 |
-| Career/Communications     |   2 |     INT |    | 7/SB |  144 |  40 |
-| Career/Customer Service   |   1 |     INT |    | 7/SB |  144 |  24 |
-| Career/Journalist         |   1 |     INT |    | 7/SB |  144 |  24 |
-| Career/Management         |   1 |     INT |    | 7/SB |  144 |  24 |
-| Career/Merchant           |   1 |     INT |    | 7/SB |  144 |  24 |
-| Climbing                  |     |     DEX |    | 7/SB |  144 |     |
-| Comms/Conventional        |   4 |     INT |    | 7/SB |  144 |  98 |
-| Computers                 |   4 | DEX+INT |    | 9/CA+|  145 |  96 |
-| Cryptography              |   0 | INT+WIL |    | 9/CA |  145 |  16 |
-| Demolitions               |     | DEX+INT |    | 9/CA |  146 |     |
-| Disguise                  |   1 |     CHA |    | 7/SB |  146 |  24 |
-| Driving/Ground            |   0 | RFL+DEX |    | 8/SA |  146 |  16 |
-| Escape Artist             |   1 | STR+DEX |    | 9/CA |  147 |  24 |
-| Forgery                   |   1 | DEX+INT |    | 8/SA |  147 |  24 |
-| Gunnery/                  |     | RFL+DEX |    | 8/SA |  147 |     |
-| Int/Canopian History      |   1 |     INT |    | 8/CB+|  147 |  24 |
-| Int/Gambling              |   4 |     INT |    | 8/CB+|  147 |  96 |
-| Int/?                     |   1 |     INT |    | 8/CB+|  147 |  24 |
-| Int/?                     |   1 |     INT |    | 8/CB+|  147 |  24 |
-| Int/?                     |   1 |     INT |    | 8/CB+|  147 |  24 |
-| Interrogation             |     | WIL+CHA |    | 9/CA |  148 |     |
-| Investigation             |   3 | INT+WIL |    | 9/CA |  148 |  64 |
-| Language/English          |   4 | INT+CHA |    | 8/SA |  148 |  96 |
-| Language/Greek            |   0 | INT+CHA |    | 8/SA |  148 |  16 |
-| Language/Latin            |   1 | INT+CHA |    | 8/SA |  148 |  24 |
-| Leadership                |   1 | WIL+CHA |    | 8/SA |  148 |  24 |
-| Martial Arts              |     |     RFL |    | 7/SB+|  149 |     |
-| MedTech/General           |   0 |     INT |    | 7/SB |  149 |  16 |
-| Melee Weapons             |     |     DEX |    | 7/SB+|  149 |     |
-| Navigation/Ground         |   0 |     INT |    | 7/SB |  150 |  16 |
-| Negotiation               |   3 |     CHA |    | 8/CB |  150 |  64 |
-| Perception                |   4 |     INT |    | 7/SB |  151 |  96 |
-| Piloting/                 |     | RFL+DEX |    | 8/SA |  151 |     |
-| Prest/Pick Pocket         |   1 |     DEX |    | 7/SB+|  152 |  24 |
-| Prest/Sleight of Hand     |   1 |     DEX |    | 7/SB+|  152 |  24 |
-| Protocol/Magistracy       |   3 | WIL+CHA |    | 9/CA |  152 |  64 |
-| Protocol/Periphery        |   4 | WIL+CHA |    | 9/CA |  152 |  96 |
-| Running                   |     |     RFL |    | 7/SB |  152 |     |
-| Science/Social            |   1 | INT+WIL |    | 9/CA |  153 |  24 |
-| Science/Philosophy        |   0 | INT+WIL |    | 9/CA |  153 |  16 |
-| Science/Psychology        |   0 | INT+WIL |    | 9/CA |  153 |  16 |
-| Security/Electronic       |   2 | DEX+INT |    | 9/CA |  153 |  40 |
-| Security/Mechanical       |   2 | DEX+INT |    | 9/CA |  153 |  40 |
-| Sensor Operations         |   4 | INT+WIL |    | 8/SA |  153 |  96 |
-| Small Arms                |     |     DEX |    | 7/SB |  153 |     |
-| Stealth                   |   2 | RFL+INT |    | 8/SA |  154 |  40 |
-| Strategy                  |     | INT+WIL |    | 9/CA |  154 |     |
-| Streetwise/Magistracy     |   2 |     CHA |    | 8/CB |  154 |  40 |
-| Streetwise/Periphery      |   3 |     CHA |    | 8/CB |  154 |  64 |
-| Support Weapons           |     |     DEX |    | 7/SB |  154 |     |
-| Surgery/                  |     | DEX+INT |    | 9/CA |  155 |     |
-| Survival/                 |     | BOD+INT |    | 9/CA |  156 |     |
-| Swimming                  |   0 |     STR |    | 7/SB |  156 |  16 |
-| Tactics/                  |     | INT+WIL |    | 9/CA |  156 |     |
-| Technician/Cybernetics    |   0 | DEX+INT |    | 9/CA |  157 |  16 |
-| Technician/Electrical     |   1 | DEX+INT |    | 9/CA |  157 |  24 |
-| Technician/Mechanical     |   1 | DEX+INT |    | 9/CA |  157 |  24 |
-| Thrown Weapons/           |     |     DEX |    | 7/SB |  158 |     |
-| Tracking/Urban            |   0 | INT+WIL |    | 8/SA |  158 |  16 |
-| Training                  |   1 | INT+CHA |    | 9/CA |  159 |  24 |
-| Zero-G Operations         |     |     RFL |    | 7/SB |  159 |     |
+| Skill                     | Lvl |   Links | L+ | TN/C | T | Page |  XP | Bonuses
+|---------------------------|-----|---------|----|------|---|------|-----|---------
+| Acrobatics/Gymnastics     |   3 |     RFL | -1 | 7/SB | 4 |  141 |  64 | +1
+| Acting                    |   3 |     CHA |  2 | 8/CB | 2 |  142 |  64 | +1
+| Administration            |   2 | INT+WIL |  4 | 8/SA | 2 |  143 |  40 |
+| Animal Handling/          |     |     WIL |  0 | 7/SB |   |  143 |     |
+| Appraisal                 |   1 |     INT |  1 | 8/CB | 6 |  143 |  24 |
+| Archery                   |     |     DEX |  0 | 7/SB |   |  143 |     |
+| Art/Dancing               |   1 |     DEX |  0 | 8/CB+| 7 |  144 |  24 |
+| Art/Writing               |   1 |     DEX |  0 | 8/CB+| 7 |  144 |  24 |
+| Artillery                 |     | INT+WIL |  4 | 8/SA |   |  144 |     |
+| Career/Anthropologist     |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
+| Career/Communications     |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
+| Career/Customer Service   |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
+| Career/Journalist         |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
+| Career/Management         |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
+| Career/Merchant           |   1 |     INT |  1 | 7/SB | 5 |  144 |  24 |
+| Climbing                  |     |     DEX |  0 | 7/SB |   |  144 |     |
+| Comms/Conventional        |   4 |     INT |  1 | 7/SB | 2 |  144 |  98 |
+| Computers                 |   4 | DEX+INT |  4 | 9/CA+| 1 |  145 |  96 |
+| Cryptography              |   0 | INT+WIL |  4 | 9/CA | 5 |  145 |  16 |
+| Demolitions               |     | DEX+INT |  4 | 9/CA |   |  146 |     |
+| Disguise                  |   1 |     CHA |  2 | 7/SB | 4 |  146 |  24 |
+| Driving/Ground            |   0 | RFL+DEX |  0 | 8/SA | 8 |  146 |  16 |
+| Escape Artist             |   1 | STR+DEX |  0 | 9/CA | 8 |  147 |  24 |
+| Forgery                   |   1 | DEX+INT |  4 | 8/SA | 3 |  147 |  24 |
+| Gunnery/                  |     | RFL+DEX |  0 | 8/SA |   |  147 |     |
+| Int/Canopian History      |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 |
+| Int/Gambling              |   4 | INT+WIL |  4 | 9/CA+| 1 |  147 |  96 |
+| Int/?                     |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 |
+| Int/?                     |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 |
+| Int/?                     |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 |
+| Interrogation             |     | WIL+CHA |  5 | 9/CA |   |  148 |     |
+| Investigation             |   3 | INT+WIL |  4 | 9/CA | 2 |  148 |  64 |
+| Language/English          |   4 | INT+CHA |  5 | 8/SA |-1 |  148 |  96 |
+| Language/Greek            |   0 | INT+CHA |  5 | 8/SA | 3 |  148 |  16 |
+| Language/Latin            |   1 | INT+CHA |  5 | 8/SA | 2 |  148 |  24 |
+| Leadership                |   1 | WIL+CHA |  5 | 8/SA | 1 |  148 |  24 | +1
+| Martial Arts              |     |     RFL | -1 | 7/SB+|   |  149 |     |
+| MedTech/General           |   0 |     INT |  1 | 7/SB | 6 |  149 |  16 |
+| Melee Weapons             |     |     DEX |  0 | 7/SB+|   |  149 |     |
+| Navigation/Ground         |   0 |     INT |  1 | 7/SB | 6 |  150 |  16 |
+| Negotiation               |   3 |     CHA |  2 | 8/CB | 2 |  150 |  64 | +1
+| Perception                |   4 |     INT |  1 | 7/SB | 2 |  151 |  96 |
+| Piloting/                 |     | RFL+DEX |  0 | 8/SA |   |  151 |     |
+| Prest/Pick Pocket         |   1 |     DEX |  0 | 7/SB+| 6 |  152 |  24 |
+| Prest/Sleight of Hand     |   1 |     DEX |  0 | 7/SB+| 6 |  152 |  24 |
+| Protocol/Magistracy       |   3 | WIL+CHA |  5 | 9/CA | 1 |  152 |  64 |
+| Protocol/Periphery        |   4 | WIL+CHA |  5 | 9/CA | 0 |  152 |  96 |
+| Running                   |     |     RFL | -1 | 7/SB |   |  152 |     |
+| Science/Social            |   1 | INT+WIL |  4 | 9/CA | 4 |  153 |  24 |
+| Science/Philosophy        |   0 | INT+WIL |  4 | 9/CA | 5 |  153 |  16 |
+| Science/Psychology        |   0 | INT+WIL |  4 | 9/CA | 5 |  153 |  16 |
+| Security/Electronic       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 |
+| Security/Mechanical       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 |
+| Sensor Operations         |   4 | INT+WIL |  4 | 8/SA | 0 |  153 |  96 |
+| Small Arms                |     |     DEX |  0 | 7/SB |   |  153 |     |
+| Stealth                   |   2 | RFL+INT |  2 | 8/SA | 4 |  154 |  40 |
+| Strategy                  |     | INT+WIL |  4 | 9/CA |   |  154 |     |
+| Streetwise/Magistracy     |   2 |     CHA |  2 | 8/CB | 4 |  154 |  40 |
+| Streetwise/Periphery      |   3 |     CHA |  2 | 8/CB | 3 |  154 |  64 |
+| Support Weapons           |     |     DEX |  0 | 7/SB |   |  154 |     |
+| Surgery/                  |     | DEX+INT |  4 | 9/CA |   |  155 |     |
+| Survival/                 |     | BOD+INT |  2 | 9/CA |   |  156 |     |
+| Swimming                  |   0 |     STR | -1 | 7/SB | 8 |  156 |  16 |
+| Tactics/                  |     | INT+WIL |  4 | 9/CA |   |  156 |     |
+| Technician/Cybernetics    |   0 | DEX+INT |  4 | 9/CA | 5 |  157 |  16 |
+| Technician/Electrical     |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 |
+| Technician/Mechanical     |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 |
+| Thrown Weapons/           |     |     DEX |  0 | 7/SB |   |  158 |     |
+| Tracking/Urban            |   0 | INT+WIL |  4 | 8/SA | 4 |  158 |  16 |
+| Training                  |   1 | INT+CHA |  5 | 9/CA | 3 |  159 |  24 |
+| Zero-G Operations         |     |     RFL | -1 | 7/SB |   |  159 |     |
 + = Tiered
 
 ## Biography
@@ -164,33 +168,30 @@ Load   0.000/ 10kg, Unencumbered
 ### Real Life - None!
 - Notes
 
-## Inventory - $7,500 [C(D)/x-B-x/C] (0.000kg total incl. weapons/armor) (0.000kg)
+## Inventory - $0 [C(D)/x-B-x/C] (0.000kg total incl. weapons/armor) (3.125kg)
 | Item                        | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics------------------|-------------|--------|------|--------|------------
-|                             |             | 00.000 |    0 | 00/ 00 |
+| Communicator, Civilian      |             |  0.115 |  301 | 15/ 15 |
+| Micro-Recorder              |             |  0.165 |  304 | 15/ 15 |
+| Microphone, Directional     |             |  1.515 |  304 | 15/ 15 |
+| Noteputer                   |             |  0.515 |  303 | 15/ 15 |
+| Power Pack, Micro (2x)      |             |  0.03  |  306 | 15/ 15 |
+| Recharger, Standard         |             |  0.15  |  307 |        |
 |Tools------------------------|-------------|--------|------|--------|------------
-|                             |             |        |      |        |
+| Binox Image Intensifier     |             |  0.25  |  304 |        |
+| Lock Pick Set, Basic        |             |  0.365 |  308 |        |
+| Microphone Bug (2x)         |             |  0.02  |  304 |        |
 |Medical----------------------|-------------|--------|------|--------|------------
 |                             |             |        |      |        |
 |Misc-------------------------|-------------|--------|------|--------|------------
 | Cosmetic Surgery/Catgirl    |             |        |  315 |        | Ears & Tail
-
-50: Mini Stunstick pp264 CAB
-3: Sunglasses (heart shaped) pp296
-1000: Clothes, mostly nice ones pp299
-45: Civilian Communicator pp301
-100: Micro-Recorder pp302
-500: Noteputer pp303
-60: Microphone, Directional pp304
-80: Microphone Bug (2x) pp304
-25: Binox Image Intensifier pp304
-(Power Packs) pp306
-(Rechargers) pp307
-100: Basic Lock Pick Set pp308
-(Locks) pp308
+| Clothes, mostly nice ones   |             |        |  299 |        |
 
 ### Power Points/hr reference
-- ?
+- 1/s: Mini Stunstick
+- 0.2: Civilian Communicator
+- 0.1 (micro): Noteputer
+- 0.1: Microphone, Directional
 
 ## Vehicle Data
 | Model/Name   | Type        | Mass   | Armor (BAR) | Fuel    | Range  |  Kph    | MP    | Crew  | Cargo | Page | Notes
