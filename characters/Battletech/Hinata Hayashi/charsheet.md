@@ -33,7 +33,7 @@ Unc | o
 Walk    8 | Climb  5
 Run/Ev 20 | Crawl  2
 Sprint 40 | Swim   9
-Load  27.565/ 40kg, Unencumbered
+Load  27.42/40kg, Unencumbered
 
 ### Personal Armor/Outfit (14.03kg)
 | Name          | Location | Kg     | M/B/E/X | PP    | Page | Notes
@@ -51,12 +51,11 @@ Load  27.565/ 40kg, Unencumbered
 <!-- | Work Boots    | Feet     |  1.7   | 1/1/0/1 |       |  299 | -->
 <!-- | Clothes       | T/A/L    |  1.5   |         |       |  299 | -->
 
-### Weapons (9.415kg)
+### Weapons (9.255kg)
 | Weapon               | Skill | Kg     |  AP/  BD | Range S/M/L/E | Ammo/PP | Page | Notes
 |----------------------|-------|--------|----------|---------------|---------|------|-------
 <!-- | Knife                | Melee |  0.25  |  1M/ 1   |            1M |         |  261 | -->
-<!-- | Stunstick            | Melee |  0.205 |  0E/ 4D  |            1M |   15/15 |  264 | -->
-| Vibrodagger          | Melee |  0.365 |  6M/ 2   |            1M |   15/15 |  264 |
+| Stunstick            | Melee |  0.205 |  0E/ 4D  |            1M |   15/15 |  264 |
 |----------------------|-------|--------|----------|---------------|---------|------|-------
 | Needler Pistol       | SmAr  |  0.5   |  2B/ 5S  |  2/ 6/ 12/ 50 |   10/10 |  268 | Silencer+, Laser Sight+ (15/15)
 | Rifle, Zeus Heavy    | SmAr  |  8.55  |  5B/ 5   | 35/80/190/420 |    5/ 5 |  266 | Silencer+, NV Scope+ (15/15)
@@ -171,7 +170,7 @@ Load  27.565/ 40kg, Unencumbered
 - This far into the periphery to keep a low profile
 - Enjoy the quiet solo life, or at least claim that I do
 
-## Inventory - $8,054 [D(E)/x-C-x/D] (122.21kg total incl. weapons/armor) (3.37kg)
+## Inventory - $8,154 [D(E)/x-C-x/D] (121.86kg total incl. weapons/armor) (3.385kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 | Communications Headset  |             |  0.025 |  301 | 15/ 15 |
@@ -182,7 +181,7 @@ Load  27.565/ 40kg, Unencumbered
 <!-- | Microphone, Directional |             |  1.515 |  304 | 15/ 15 | -->
 <!-- | Noteputer               |             |  0.515 |  303 | 15/ 15 | -->
 <!-- | Power Pack, HC Military |             |  6     |  306 |300/300 | -->
-| Power Pack, Micro (13x) |             |  0.195 |  306 | 15/ 15 |
+| Power Pack, Micro (14x) |             |  0.21  |  306 | 15/ 15 |
 <!-- | Rangefinder Binoculars  |             |  0.515 |  304 | 15/ 15 | -->
 <!-- | Recharger, Fossil Fuel  |             | 10     |  307 |        | -->
 <!-- | Recharger, Heavy-Duty   |             |  0.4   |  307 |        | -->
