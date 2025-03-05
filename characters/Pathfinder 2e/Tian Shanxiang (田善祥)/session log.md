@@ -5,7 +5,24 @@
 ### Session 23?future - 2025-03-25
 ### Session 22?future - 2025-03-18
 ### Session 21?future - 2025-03-11
-### Session 20?future - 2025-03-04
+### Session 20 - 2025-03-04
+- Plan: Don't fight the Faceless
+    - Miho scouts as a fox, sees someone talking to the Faceless
+    - We act casual, the Faceless guards see us but don't bother us
+- Xiuhua, Bulan, and Mika pause in the road to try listening in on the person, catch snippets of conversation
+    - "Stand up straighter. Try to look happy!"
+    - We are invited by said person to join them, "Welcome to Mo's Emporium!"
+- We enter what was formerly The Cerulean Teahouse
+    - Big frog guarding the floor
+    - Doors open to reveal Mo
+- Talking with Mo
+    - Mo tries to buy Yin
+    - The Faceless are the "Spider's Work"
+    - The Spider is in the estate
+    - Kumiho reveals she stole from Matsuki and the shrine to Pharasma
+    - Xiuhua learns that her father is not the man she knew
+- Bulan says fuck it we ball and attacks Mo
+    - We end there, next time we do combat!
 
 ### Session 19 - 2025-02-25
 - Combat with Jincan and Centipedes continues
