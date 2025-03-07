@@ -70,8 +70,7 @@ Load   4.89/ 10kg, Unencumbered
 | Compulsion/Hemophobia               | -1+|  110 | -100 |
 |!Enemy                               | -1+|  113 | -100 |
 | Glass Jaw                           | -3 |  118 | -300 |
-|!Reputation                          | -1+|  124 | -100 |
-| Thin Skinned                        | -1 |  126 | -100 |
+|!Reputation                          | -2+|  124 | -200 |
 + = Scalable
 ! = Identity-specific (if applicable)
 
