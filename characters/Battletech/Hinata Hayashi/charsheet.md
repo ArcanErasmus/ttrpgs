@@ -105,16 +105,17 @@ Load  27.42/40kg, Unencumbered
 | Demolitions               |     | DEX+INT |  4 | 9/CA |   |  146 |     | +1
 | Disguise                  |     |     CHA |  1 | 7/SB |   |  146 |     |
 | Driving/Ground Vehicles   |   2 | RFL+DEX |  3 | 8/SA | 3 |  146 |  40 |
+| Driving/Sea Vehicles      |   0 | RFL+DEX |  3 | 8/SA | 5 |  146 |  16 |
 | Escape Artist             |   1 | STR+DEX |  3 | 9/CA | 5 |  147 |  24 | +1
 | Forgery                   |     | DEX+INT |  4 | 8/SA |   |  147 |     |
 | Gunnery/                  |     | RFL+DEX |  3 | 8/SA |   |  147 |     |
 | Int/Architecture          |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
-| Int/Combine History       |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
+| Int/Combine History       |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
 | Int/MechWarrior Culture   |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
-| Int/Randis History        |   0 |     INT |  1 | 8/CB+| 7 |  147 |  40 | +1
+| Int/Randis History        |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
 | Int/Randis Wildlife       |   2 |     INT |  1 | 8/CB+| 5 |  147 |  40 | +1
 | Int/Terran History        |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
-| Int/Vexilology            |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
+| Int/Vexilology            |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
 | Interrogation             |     | WIL+CHA |  4 | 9/CA |   |  148 |     | +1
 | Investigation             |     | INT+WIL |  4 | 9/CA |   |  148 |     | +1
 | Language/English          |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
@@ -126,16 +127,18 @@ Load  27.42/40kg, Unencumbered
 | Melee Weapons|Blunt       |   4 | RFL+DEX |  3 | 8/SA+| 1 |  149 |  96 |
 | Navigation/Air            |   1 |     INT |  1 | 7/SB | 5 |  150 |  24 |
 | Navigation/Ground         |   2 |     INT |  1 | 7/SB | 4 |  150 |  40 |
-| Negotiation|Political     |   3 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1
+| Navigation/Sea            |   0 |     INT |  1 | 7/SB | 6 |  150 |  16 |
+| Negotiation|Political     |   2 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1
 | Perception                |   3 |     INT |  1 | 7/SB | 3 |  151 |  64 |
 | Piloting/Air Vehicles     |   2 | RFL+DEX |  3 | 8/SA | 3 |  151 |  40 |
 | Prest/                    |     |     DEX |  1 | 7/SB+|   |  152 |     |
 | Protocol/Combine          |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1
 | Protocol/Periphery        |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1
 | Running                   |   2 |     RFL |  0 | 7/SB | 5 |  152 |  40 |
-| Science/Geology           |   1 | INT+WIL |  4 | 9/CA | 3 |  153 |  24 | +1
-| Security/Electronic       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 | +1
-| Security/Mechanical       |   2 | DEX+INT |  4 | 9/CA | 3 |  153 |  40 | +1
+| Science/Geology           |   0 | INT+WIL |  4 | 9/CA | 3 |  153 |  16 | +1
+| Science/Marine Biology    |   0 | INT+WIL |  4 | 9/CA | 4 |  153 |  16 | +1
+| Security/Electronic       |   1 | DEX+INT |  4 | 9/CA | 3 |  153 |  24 | +1
+| Security/Mechanical       |   1 | DEX+INT |  4 | 9/CA | 3 |  153 |  24 | +1
 | Sensor Operations         |   1 | INT+WIL |  4 | 8/SA | 3 |  153 |  24 |
 | Small Arms|Pistols        |   3 |     DEX |  1 | 7/SB | 3 |  153 |  64 |
 | Stealth                   |   3 | RFL+INT |  3 | 8/SA | 3 |  154 |  64 |
@@ -149,8 +152,8 @@ Load  27.42/40kg, Unencumbered
 | Tactics/                  |     | INT+WIL |  4 | 9/CA |   |  156 |     | +1
 | Technician/Electronics    |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 | +1
 | Technician/Mechanical     |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 | +1
-| Thrown Weapons/Blunt      |   1 |     DEX |  1 | 7/SB | 5 |  158 |  24 |
-| Tracking/Wilds            |   1 | INT+WIL |  4 | 8/SA | 3 |  158 |  24 |
+| Thrown Weapons/Blunt      |   0 |     DEX |  1 | 7/SB | 6 |  158 |  16 |
+| Tracking/Wilds            |   2 | INT+WIL |  4 | 8/SA | 3 |  158 |  40 |
 | Training                  |   1 | INT+CHA |  4 | 9/CA | 4 |  159 |  24 | +1
 | Zero-G Operations         |     |     RFL |  0 | 7/SB |   |  159 |     |
 + = Tiered

@@ -54,3 +54,11 @@
 - Heavy-Assault
     - Line: Heavy Assault
     - Independent: Dragoon
+
+# Combat Notes
+## The Turn
+### Initiative Phase
+- Rolled every turn
+- 
+### Action Phase
+### End Phase

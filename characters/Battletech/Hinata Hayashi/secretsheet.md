@@ -36,7 +36,7 @@
 | Prest/Quickdraw           |   2 |     DEX |  1 | 7/SB+| 4 |  152 |  40 |
 | Protocol/ComStar          |   1 | WIL+CHA |  4 | 9/CA | 3 |  152 |  24 | +1
 | Strategy|Planetary        |   0 | INT+WIL |  4 | 9/CA | 4 |  154 |  16 | +1
-| Streetwise/ComStar        |   0 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1
+| Streetwise/ComStar        |   0 |     CHA |  1 | 8/CB | 6 |  154 |  16 | +1
 | Support Weapons           |   0 |     DEX |  1 | 7/SB | 6 |  154 |  16 |
 | Tactics/Infantry          |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
 | Tactics/Land              |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
