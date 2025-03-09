@@ -1,6 +1,5 @@
 # Yuriso-Meno's Journal
 ## Event Log
-### Session 26?future - 2023-06-24
 Appropriate Lores
 - Fishing
 - Herbalism
@@ -11,6 +10,16 @@ Appropriate Lores
 - Lore about a non-material plane
 - Lore about a terrain
 - Lore about a type of food/drink (butchering, baking, alcohol, cooking, tea, etc.)
+
+### Session 28?future - 2025-03-15
+### Session 27 - 2025-03-08
+- We arrive at the Dean's offices
+    - We learn that we have to go to the palace district for info from the govt
+- Night at the hotel
+    - Comped by the city
+    - "Free" fruit, nice!
+    - I troll Sakari with Mimic Undead
+- 
 
 ### Session 26 - 2025-01-25
 - *Level up to 6*

@@ -5,7 +5,7 @@
 - Class: Summoner 6
 - 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
-- Languages: Omnarki Sign, Draconic, Padder-Whistle, (Old Marlun, non-existent)
+- Languages: Omnarki Sign, Draconic, Padder-Whistle, (Ancient Marlun, non-existent)
 - Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit-partner)
 
 `[Small]` `[Humanoid]` `[Traditional]` `[Anarchic]` `[Tolerant]`
