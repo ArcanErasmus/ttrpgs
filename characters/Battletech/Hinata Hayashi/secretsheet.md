@@ -1,10 +1,9 @@
 # TODO
 - details of secret social contacts
-- dark secret
 
 # Jackie Hudson, she/her
 ## Personal Data
-- 37yo, ComStar
+- 37yo (3010-3011/08/22), ComStar
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
@@ -16,7 +15,7 @@
 |-------------------------------------|----|------|------|-------
 | Compulsion/Duty to ComStar          | -2+|  110 | -200 |
 |!Dependents/Boyfriend                | -1+|  113 | -100 | !H
-| Enemy/ComStar Fundamentalist        | -1+|  113 | -100 |
+| Enemy/ComStar Secularist            | -1+|  113 | -100 |
 |!In For Life                         | -3 |  120 | -300 | !J
 + = Scalable
 ! = Identity-specific (J = Jackie Hudson, H = Hinata Hayashi)

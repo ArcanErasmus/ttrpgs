@@ -59,6 +59,30 @@
 ## The Turn
 ### Initiative Phase
 - Rolled every turn
-- 
+    - 2d6, plus skill level of relevant tactics/leadership if squad/team combat is active
+- Actions
+    - Incidental - 5 per turn, regardless of other
+        - Speak a single word
+        - Dropping prone, crouch
+        - Stand up, sit down, leap down
+        - Observe w/o rolling Perception
+        - Gesture, drop object
+        - Melee defense
+        - Movement: No Movement, Walking
+    - Simple - 2 per turn but no Complex actions
+        - Lead team, speak (brief phrase)
+        - Leap up/sideways, ready/draw/stow/sheathe weapon/small object
+        - Firing/Loading a weapon/making a melee attack
+        - Melee defense (break grapple), pick up/put down object
+        - Simple Skill
+        - Movement: Climbing/Swimming w/Skill, Crawling, Running
+    - Complex - 1 per turn, might take multiple turns
+        - Complex Skill
+        - Skill without training
+        - Using a complex device
+        - Movement: Climbing/Swimming w/o Skill, Evading, Sprinting
+    - Movement
+        - MUST declare your movement type every turn, else considered stationary
+        - Movement actions count as incidental/simple/complex
 ### Action Phase
 ### End Phase

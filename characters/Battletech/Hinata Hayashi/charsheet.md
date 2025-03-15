@@ -2,11 +2,11 @@
 - gear locations
 - details of social contacts
 - Write more flavorful backstory
-- Dark Secret details
+- bf charsheet?
 
 # Hinata Hayashi (早矢仕日向), she/her
 ## Personal Data
-- 177cm, 92kg, blonde wavy hair, hazel eyes, 34yo
+- 177cm, 92kg, blonde wavy hair, hazel eyes, 34yo (3013-3014/12/26)
 - Draconis Combine
 - Small bump from a past broken nose
 
@@ -173,7 +173,7 @@ Load  27.42/40kg, Unencumbered
 - This far into the periphery to keep a low profile
 - Enjoy the quiet solo life, or at least claim that I do
 
-## Inventory - $7,754 [D(E)/x-C-x/D] (3.385kg)
+## Inventory - $8,692 [D(E)/x-C-x/D] (3.385kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 | Communications Headset  |             |  0.025 |  301 | 15/ 15 |
@@ -231,10 +231,9 @@ Load  27.42/40kg, Unencumbered
 ## Vehicle Data
 | Model/Name   | Type        | Mass   | Armor (BAR) | Fuel    | Range  |  Kph    | MP    | Crew  | Cargo | Page | Notes
 |--------------|-------------|--------|-------------|---------|--------|---------|-------|-------|-------|------|-------
-| Half-Ton Tr. | Sup/Wheeled |  681kg | 1/1/1   (3) |       - |      - |       - |     - |     - | 500kg |    - | Trailer, Off-Road
-| Jeep         | Sup/Wheeled | 1700kg | 2/2/1   (5) |  23kg/P |  509km |  75/118 |  7/11 |  1/ 3 | 294kg |  324 | Off-Road, Trailer Hitch
-| Mud Pig      | Sup/Tracked |  256kg | 1/1/1   (2) |   3kg/B |  162km |  43/ 65 |  4/ 6 |  1/ 0 |  80kg |    - | Amphibious
-| Snail Mk. II | Sup/Wheeled |   54kg | 0/0/0   (2) |   2kg/B |  363km |  54/ 86 |  5/ 8 |  1/ 0 |  46kg |    - | Bicycle, Off-Road
+| Half-Ton Tr. | Sup/Wheeled |  181kg | 1/1/1   (3) |       - |      - |       - |     - |     - | 500kg |    - | Trailer, Off-Road
+| Jeep         | Sup/Wheeled | 1406kg | 2/2/1   (5) |  23kg/P |  509km |  75/118 |  7/11 |  1/ 3 | 294kg |  324 | Off-Road, Trailer Hitch
+| Garba        | Sup/Hover   |  220kg | 1/1/1   (2) |   9kg/H |  937km |  97/151 |  9/14 |  1/ 1 |  80kg |    - | Bicycle
 
 ## Masala (Dog)
 - 25kg
