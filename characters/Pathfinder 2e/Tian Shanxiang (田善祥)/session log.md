@@ -4,7 +4,11 @@
 
 ### Session 23?future - 2025-03-25
 ### Session 22?future - 2025-03-18
-### Session 21?future - 2025-03-11
+### Session 21 - 2025-03-11
+- The Fight
+    - Mo calls in Penny, Warty is in the fight, Stingy moves to join the fight
+    - We duke it out for a few rounds, Mo casts invisibility and makes to leave
+
 ### Session 20 - 2025-03-04
 - Plan: Don't fight the Faceless
     - Miho scouts as a fox, sees someone talking to the Faceless
