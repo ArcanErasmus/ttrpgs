@@ -11,7 +11,60 @@ Appropriate Lores
 - Lore about a terrain
 - Lore about a type of food/drink (butchering, baking, alcohol, cooking, tea, etc.)
 
-### Session 28?future - 2025-03-15
+## Party Bios
+- Jay
+    - Character: Granz, she/her, Sprite (Tiny)
+    - Character: ?, Poppet? (Small)
+- Talia
+    - Character: Sakari (in the body of Sinta), she/her, Kitsune (Medium)
+- Chas
+    - Character: Rasa, he/him, Catfolk (Medium)
+    - Character: Hala, she/her, ? (Medium)
+- Shira
+    - Character: Surya, she/her, ? (Medium)
+- Sean
+    - Character: ?, he/him, Gnome? (Small?)
+
+### Session 33?future - 2025-05-03
+### Session 32?future - 2025-04-26
+### Session 31?future - 2025-04-19
+### No Game Predicted - 2025-05-12
+### Session 30?future - 2025-04-05
+### No Game Predicted - 2025-03-29
+### Session 29?future - 2025-03-22
+
+### Session 28 - 2025-03-15
+- Info we have about the survivors of the fire:
+    - The survivors are not at their homes, despite the palace officials claiming they had been released
+    - The Dean claimed they were transfered to the palace officials
+    - The official govt stance was that they were held at the college
+    - It is heavily implied that they were interrogated during their time at the college
+- Impressions of the people we have talked to:
+    - Dean: Actively obstructionist, but in a general sense, not personally
+        - Student: No useful info beyond official line, generally helpful
+    - Hotel worker: No connection
+    - Palace district guard: Vaguely bored and dismissive
+        - After consulting with an authority: Actively hostile, notable personality shift
+- Possible leads:
+    - Follow-up with the college, use the party's magic users as an in to dig into the events further
+    - Make noise and run around blindly on a wild goose chase
+    - Seek an info broker or the like
+    - Sneak into the palace, spy kids style (YMM and Sakari)
+- Talk to Hala's contact, Thumbs
+    - Half a dozen escorted from university to palace
+    - Looking in very poor shape, were definitely members of the temple
+    - Some folk got away and weren't taken, might still be hiding in town
+    - Time: early afternoon
+- New leads:
+    1. There are likely some surivivors laying low still in town that we could try to root out
+    2. There are likely prisoners or clues in the palace from those taken there
+- Team Teen Heist
+    - Receive magical fluency in Necril for 1 hour
+    - Attempt to sneak into the palace, with Sakari in YM's bag (MY unsummoned)
+- Team Community Outreach
+    - The Vkandians spend the day helping clean up from the fire, spreading the word, and seeing if anyone comes to them with info
+    - They get a bite, a young person asks for Surya to come to her family's place that night
+
 ### Session 27 - 2025-03-08
 - We arrive at the Dean's offices
     - We learn that we have to go to the palace district for info from the govt
@@ -19,7 +72,9 @@ Appropriate Lores
     - Comped by the city
     - "Free" fruit, nice!
     - I troll Sakari with Mimic Undead
-- 
+- Tried to meat with palace district govt official
+    - We get stonewalled by guards, yet again
+    - Guards seem suspicious now, someone has been blocking our efforts and probably via impersonation or magical manipulation
 
 ### Session 26 - 2025-01-25
 - *Level up to 6*
@@ -516,17 +571,3 @@ talia: the "inquisitor" (totally) (Sinta)
     - Soul-uploaded into some sort of warded charm by the ritual
     - Charm survived, eventually was recovered in the modern day by a plucky adventuring wizard
     - Wizard tried to make a familiar, used my charm in the attempt, but the process was overtaken by the charm's ancient magics, and instead consumed the charm and re-embodied me. The confused wizard let me go in order to not raise ethical concerns and retried their familiar binding later
-
-## Party Bios
-- Jay
-    - Character: Granz, she/her
-    - Sprite (Tiny)
-- Talia
-    - Character: Sinta (secretly Sakari), she/her
-    - Kitsune (Medium)
-- Chas
-    - Character: Rasa, he/him
-    - Catfolk (Medium)
-- Shira
-    - Character: Surya, she/her
-    - 
