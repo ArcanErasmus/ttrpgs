@@ -4,6 +4,15 @@
 
 ### Session 23?future - 2025-03-25
 ### Session 22?future - 2025-03-18
+- More Fighting
+    - We kill Toady, Stingy, and two faceless guards
+    - Penny and Mo flee
+    - +88 XP
+- Regrouping
+    - A dozen kids found locked in the pantry
+    - Some were left here during the festival, others were grabbed from their homes or the streets by monsters
+XP: 783/1000
+
 ### Session 21 - 2025-03-11
 - The Fight
     - Mo calls in Penny, Warty is in the fight, Stingy moves to join the fight
@@ -43,7 +52,7 @@
     - They are friendly, if simple, but offer some very valuable information
     - They claim that the town has been moved to the spirit world, and thus is now available for spirits like them to travel to
     - They claim that we brought the faceless with us. It's possible this is true, or just posited because of corpses rising as them
-XP: 693/1000
+XP: 697/1000
 
 ### Session 18 - 2025-02-18
 - Approaching the abandoned estate from the north, we spot what appears to be glittering magical spiderwebs on the walls
