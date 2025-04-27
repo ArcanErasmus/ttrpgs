@@ -25,13 +25,12 @@ Appropriate Lores
 - Sean
     - Character: ?, he/him, Gnome? (Small?)
 
-### Session 33?future - 2025-05-03
-### Session 32?future - 2025-04-26
-### Session 31?future - 2025-04-19
-### No Game Predicted - 2025-05-12
-### Session 30?future - 2025-04-05
-### No Game Predicted - 2025-03-29
-### Session 29?future - 2025-03-22
+### Session 30?future - 2025-05-10
+### Session 29?future - 2025-04-26
+- We are attacked by weirdly dogged wild animals
+    - Bats, rats, wolves
+    - We crisp them
+- I take a moon-blast-bleached wolf skull as a trophy, and ask Sakari to turn it into a helmet for me
 
 ### Session 28 - 2025-03-15
 - Info we have about the survivors of the fire:
@@ -59,7 +58,7 @@ Appropriate Lores
     1. There are likely some surivivors laying low still in town that we could try to root out
     2. There are likely prisoners or clues in the palace from those taken there
 - Team Teen Heist
-    - Receive magical fluency in Necril for 1 hour
+    - Receive magical fluency in Necril for 1 hour from Vendari
     - Attempt to sneak into the palace, with Sakari in YM's bag (MY unsummoned)
 - Team Community Outreach
     - The Vkandians spend the day helping clean up from the fire, spreading the word, and seeing if anyone comes to them with info
