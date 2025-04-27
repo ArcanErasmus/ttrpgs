@@ -1,9 +1,37 @@
 # Session log
-- NOTE: Determine which Lore I taught Yin
-- NOTE: Come up with a good description for Yin
+- TODO: Scene with Panax, we have returned to the estate from the bridge fight, and the rescuing of kids. Panax wants to see Shanxiang's collection because there's something he's after, and also he's been very flirty with Shanxiang. She has asked him to help her out of her armor, and honestly they both need a bath, so things will probably happen between them unless she shuts him down.
 
-### Session 23?future - 2025-03-25
-### Session 22?future - 2025-03-18
+### Session 24?future - 202?-??-??
+
+`END SEASON ONE (Chapter 1 complete!)`
+### Session 23 - 2025-03-25
+- We finish messing with loot
+    - head out with kids in tow, splitting shanxiang and kumiho off to go to the dawnstep bridge
+- The Dawnstep Bridge
+    - The mercs are there. Remaining members: Elizeth, Wu-Xiu, Panax, Ka'Lua, Rowan
+    - Dead: Cord
+    - The 3 surviving out of 8 guards return to Matsuki's, along with Wu-Xiu
+    - Elizeth, Panax, and Ka'Lua head with us to the estate
+    - Rowan stays behind to bury Cord
+- Back at the estate
+    - Ka'Lua disappears out the door
+    - Elizeth and Mikazuki are fussing over the children
+    - Shanxiang is going to have a scene with Panax discussing his intentions and maybe finding themselves some personal time later
+    - Kumiho is going to hide in a corner and play with her loot pile
+    - Bulan is going to be a messy gay around Xiuhua
+- Lantern was lit, +80 XP
+XP: 865/1000
+
+### Session 22 - 2025-03-18
+- More Fighting
+    - We kill Toady, Stingy, and two faceless guards
+    - Penny and Mo flee
+    - +88 XP
+- Regrouping
+    - A dozen kids found locked in the pantry
+    - Some were left here during the festival, others were grabbed from their homes or the streets by monsters
+XP: 785/1000
+
 ### Session 21 - 2025-03-11
 - The Fight
     - Mo calls in Penny, Warty is in the fight, Stingy moves to join the fight
@@ -43,7 +71,7 @@
     - They are friendly, if simple, but offer some very valuable information
     - They claim that the town has been moved to the spirit world, and thus is now available for spirits like them to travel to
     - They claim that we brought the faceless with us. It's possible this is true, or just posited because of corpses rising as them
-XP: 693/1000
+XP: 697/1000
 
 ### Session 18 - 2025-02-18
 - Approaching the abandoned estate from the north, we spot what appears to be glittering magical spiderwebs on the walls
@@ -241,7 +269,7 @@ XP: 321/1000
 - The melee continues
     - The defenders clean up and we join up with them
 - Talk with Panax and Ka'Lua
-    - Panax is a here looking for a specific item of some sort, wants to see what I have in my collection
+    - Panax is here looking for a specific item of some sort, wants to see what I have in my collection
     - He hired Ka'lua and her band of mercenaries to protect him, and was in town for the festival
 - Piecing together the strategic situation
     - Defenses were set up at leisure, had time to prepare
