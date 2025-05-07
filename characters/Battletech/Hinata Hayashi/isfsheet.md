@@ -1,6 +1,7 @@
 # Hinata Hayashi (早矢仕日向), she/her
 ## Personal Data
 - 36yo
+#### XP: 25/0
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes

@@ -6,9 +6,11 @@
 
 # Hinata Hayashi (早矢仕日向), she/her
 ## Personal Data
-- 177cm, 92kg, blonde wavy hair, hazel eyes, 34yo (3013-3014/12/26)
+- 177cm, 92kg, blonde wavy hair, hazel eyes, 34yo (3013/12/26)
 - Draconis Combine
 - Small bump from a past broken nose
+#### XP: 25/9
+- Acting: 16
 
 ## Attributes
 | Attr | # | Link | XP
@@ -33,7 +35,7 @@ Unc | o
 Walk    8 | Climb  5
 Run/Ev 20 | Crawl  2
 Sprint 40 | Swim   9
-Load  27.42/40kg, Unencumbered
+Load  27.535/40kg, Unencumbered
 
 ### Personal Armor/Outfit (14.03kg)
 | Name          | Location | Kg     | M/B/E/X | PP    | Page | Notes
@@ -72,16 +74,16 @@ Load  27.42/40kg, Unencumbered
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
 |-------------------------------------|----|------|------|-------
-| Attractive                          |  2 |  108 |    0 | Cosmetic Surgery
-|!Connections                         |  2+|  111 |  200 | Randis Bureaucrat
+| Attractive                          |  2 |  108 |    0 | Cosmetic Surgery, +1/2 on social rolls
+|!Connections                         |  2+|  111 |  200 | Randis Bureaucrat, Sistia Chapelle, Torchbearers
 | Equipped                            |  3+|  116 |  300 | D/x-C-x/D
 | Fast Learner                        |  3 |  117 |  300 |
 | Patient                             |  1 |  121 |  100 | +1 all Complex skill/attr rolls
 |!Wealth                              |  4+|  128 |  400 | 25k
 |-------------------------------------|----|------|------|-------
 | Compulsion/Hatred of Federated Suns | -1+|  110 | -100 |
-|!Dependents/Boyfriend                | -1+|  113 | -100 |
-| Enemy/Randis Fundamentalist         | -1+|  113 | -100 |
+|!Dependents/Boyfriend                | -1+|  113 | -100 | Jakob Gethsemane
+| Enemy/Randis Fundamentalist         | -1+|  113 | -100 | Randis Bureaucrat, Zain Byrne, Torchbearers
 | TDS                                 | -1 |  127 | -100 |
 + = Scalable
 ! = Identity-specific (if applicable)
@@ -90,7 +92,7 @@ Load  27.42/40kg, Unencumbered
 | Skill                     | Lvl |   Links | L+ | TN/C | T | Page |  XP | Bonuses
 |---------------------------|-----|---------|----|------|---|------|-----|---------
 | Acrobatics/Gymnastics     |   2 |     RFL |  0 | 7/SB | 5 |  141 |  40 |
-| Acting                    |     |     CHA |  1 | 8/CB |   |  142 |     | +1
+| Acting|Deception          |   0 |     CHA |  1 | 8/CB | 6 |  142 |  16 | +1, +2/1
 | Admin|Supply Chain        |   1 | INT+WIL |  4 | 8/SA | 3 |  143 |  24 |
 | AnHand/Train|Wild Animals |   0 |     WIL |  1 | 7/SB | 6 |  143 |  16 |
 | Archery                   |     |     DEX |  1 | 7/SB |   |  143 |     |
@@ -103,7 +105,7 @@ Load  27.42/40kg, Unencumbered
 | Computers|Programming     |   4 | DEX+INT |  4 | 9/CA+| 0 |  145 |  96 | +1
 | Cryptography              |     | INT+WIL |  4 | 9/CA |   |  145 |     | +1
 | Demolitions               |     | DEX+INT |  4 | 9/CA |   |  146 |     | +1
-| Disguise                  |     |     CHA |  1 | 7/SB |   |  146 |     |
+| Disguise                  |     |     CHA |  1 | 7/SB |   |  146 |     | +2/1
 | Driving/Ground Vehicles   |   2 | RFL+DEX |  3 | 8/SA | 3 |  146 |  40 |
 | Driving/Sea Vehicles      |   0 | RFL+DEX |  3 | 8/SA | 5 |  146 |  16 |
 | Escape Artist             |   1 | STR+DEX |  3 | 9/CA | 5 |  147 |  24 | +1
@@ -116,11 +118,11 @@ Load  27.42/40kg, Unencumbered
 | Int/Randis Wildlife       |   2 |     INT |  1 | 8/CB+| 5 |  147 |  40 | +1
 | Int/Terran History        |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
 | Int/Vexilology            |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
-| Interrogation             |     | WIL+CHA |  4 | 9/CA |   |  148 |     | +1
+| Interrogation             |     | WIL+CHA |  4 | 9/CA |   |  148 |     | +1, +2/1
 | Investigation             |     | INT+WIL |  4 | 9/CA |   |  148 |     | +1
-| Language/English          |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
-| Language/Japanese         |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 |
-| Leadership                |   1 | WIL+CHA |  4 | 8/SA | 3 |  148 |  24 |
+| Language/English          |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 | +2/1
+| Language/Japanese         |   1 | INT+CHA |  4 | 8/SA | 3 |  148 |  24 | +2/1
+| Leadership                |   1 | WIL+CHA |  4 | 8/SA | 3 |  148 |  24 | +2/1
 | Martial Arts|Judo         |   1 |     RFL |  0 | 7/SB+| 6 |  149 |  24 |
 | MedTech/General           |   1 |     INT |  1 | 7/SB | 5 |  149 |  24 |
 | MedTech/Vet|Mammals       |   0 |     INT |  1 | 7/SB | 6 |  149 |  16 |
@@ -128,12 +130,12 @@ Load  27.42/40kg, Unencumbered
 | Navigation/Air            |   1 |     INT |  1 | 7/SB | 5 |  150 |  24 |
 | Navigation/Ground         |   2 |     INT |  1 | 7/SB | 4 |  150 |  40 |
 | Navigation/Sea            |   0 |     INT |  1 | 7/SB | 6 |  150 |  16 |
-| Negotiation|Political     |   2 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1
+| Negotiation|Political     |   2 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1, +2/1
 | Perception                |   3 |     INT |  1 | 7/SB | 3 |  151 |  64 |
 | Piloting/Air Vehicles     |   2 | RFL+DEX |  3 | 8/SA | 3 |  151 |  40 |
 | Prest/                    |     |     DEX |  1 | 7/SB+|   |  152 |     |
-| Protocol/Combine          |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1
-| Protocol/Periphery        |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1
+| Protocol/Combine          |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1, +2/1
+| Protocol/Periphery        |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1, +2/1
 | Running                   |   2 |     RFL |  0 | 7/SB | 5 |  152 |  40 |
 | Science/Geology           |   0 | INT+WIL |  4 | 9/CA | 3 |  153 |  16 | +1
 | Science/Marine Biology    |   0 | INT+WIL |  4 | 9/CA | 4 |  153 |  16 | +1
@@ -143,8 +145,8 @@ Load  27.42/40kg, Unencumbered
 | Small Arms|Pistols        |   3 |     DEX |  1 | 7/SB | 3 |  153 |  64 |
 | Stealth                   |   3 | RFL+INT |  3 | 8/SA | 3 |  154 |  64 |
 | Strategy                  |     | INT+WIL |  4 | 9/CA |   |  154 |     | +1
-| Streetwise/Combine        |   1 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1
-| Streetwise/Periphery      |   3 |     CHA |  1 | 8/CB | 4 |  154 |  64 | +1
+| Streetwise/Combine        |   1 |     CHA |  1 | 8/CB | 6 |  154 |  24 | +1, +2/1
+| Streetwise/Periphery      |   3 |     CHA |  1 | 8/CB | 4 |  154 |  64 | +1, +2/1
 | Support Weapons           |     |     DEX |  1 | 7/SB |   |  154 |     |
 | Surgery/                  |     | DEX+INT |  4 | 9/CA |   |  155 |     | +1
 | Survival/Jungle/Randis    |   2 | BOD+INT |  3 | 9/CA | 3 |  156 |  40 | +1
@@ -154,7 +156,7 @@ Load  27.42/40kg, Unencumbered
 | Technician/Mechanical     |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 | +1
 | Thrown Weapons/Blunt      |   0 |     DEX |  1 | 7/SB | 6 |  158 |  16 |
 | Tracking/Wilds            |   2 | INT+WIL |  4 | 8/SA | 3 |  158 |  40 |
-| Training                  |   1 | INT+CHA |  4 | 9/CA | 4 |  159 |  24 | +1
+| Training                  |   1 | INT+CHA |  4 | 9/CA | 4 |  159 |  24 | +1, +2/1
 | Zero-G Operations         |     |     RFL |  0 | 7/SB |   |  159 |     |
 + = Tiered
 
@@ -173,11 +175,11 @@ Load  27.42/40kg, Unencumbered
 - This far into the periphery to keep a low profile
 - Enjoy the quiet solo life, or at least claim that I do
 
-## Inventory - $8,692 [D(E)/x-C-x/D] (3.385kg)
+## Inventory - $8,692 [D(E)/x-C-x/D] (3.500kg)
 | Item                    | Location    | Kg     | Page | Charge | Data/Stats
 |Electronics--------------|-------------|--------|------|--------|------------
 | Communications Headset  |             |  0.025 |  301 | 15/ 15 |
-<!-- | Communicator, Civilian  |             |  0.115 |  301 | 15/ 15 | -->
+| Communicator, Civilian  |             |  0.115 |  301 | 15/ 15 |
 <!-- | Communicator, Field     |             |  1.015 |  301 | 15/ 15 | -->
 | Electronic Compass      |             |  0.115 |  312 | 15/ 15 |
 | IR Scanner              |             |  0.415 |  304 | 15/ 15 |
@@ -237,7 +239,7 @@ Load  27.42/40kg, Unencumbered
 
 ## Masala (Dog)
 - 25kg
-- 3S/4B/2D/6R/5I/3W/3E
+- 3S/4B/6R/2D/5I/3W/3E
 - -1 Size
 - 1M/0B/0E/0X
 - 1M/1 atk
