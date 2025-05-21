@@ -1,7 +1,20 @@
 # Session log
 TODO: Hinata needs to meet with some officer before leaving, then check in with Jakey
-### Session 02?future - 2025-05-13
+### Session 03?future - 2025-05-27
 
+### Session 02 - 2025-05-20
+- Leads on a 'Mech:
+    1. Daquiri's old company, Gehenna Security Concerns, has a reinforced hangar that was hit. We might be able to drag some rubble out of there.
+    2. Sir Dozle has 3 Mechs rented out to his estate: a Gulon, Pacifier, and Copper.
+- We sneak to Dozle's farm to try stealing a Mech
+    - Daquiri, Aliya, Melisandra stealth through the fields
+        - They totally bungle it and run into a pair of guards
+        - Fisticuffs saves the day, and concussions possibly preserve secrecy
+    - Hinata and Rosalin move around the south side and start a fire
+- The sneak team makes it into the hangar just as the Pacifier steps out to go do fire suppression
+- +15 XP, 40/16
+
+### No Session - 2025-05-13
 ### Session 01 - 2025-05-06
 - We set up an encrypted channel for our communicators
 - Aliya and Daquiri stash the jeep in the woods and dodge the checkpoint on foot
