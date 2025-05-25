@@ -25,8 +25,23 @@ Appropriate Lores
 - Sean
     - Character: ?, he/him, Gnome? (Small?)
 
-### Session 30?future - 2025-05-10
-### Session 29?future - 2025-04-26
+### Session 31?future - 2025-05-31
+### Session 30 - 2025-05-24
+- Infiltration mission go, entrance
+    - Fox-Sakari distracts the entrance guards, one of them leaves to get a snack for it
+    - Meno-Yuriso shows up to body the guards and try to "eat" the "fox", attracting attention
+    - Sakari slips inside, "fleeing" Meno-Yuriso, and both Yuriso-Meno and Vendari run inside while the guard is distracted
+- First area, the lobby
+    - Venari draws attention to the ongoing distraction from Meno-Yuriso (who makes a sonic shout out front) and we slip past
+- Second area, the basement
+    - Sakari scouts ahead in fox form to find a path without guards and leads us through it
+- Third area, the 
+    - We pretend to be escorting Vendari to the other prisoners, but gather enough attention that we summon the head honcho
+    - The regent is a Marlunite?!?!?!?
+    - Vendari takes off running, Yuriso-Meno distracts the regent by memory-sharing
+    - The memory she gets in response is of the ritual that preserved her soul... but from the perspective of what was left behind. The regent is Yuriso.
+
+### Session 29 - 2025-04-26
 - We are attacked by weirdly dogged wild animals
     - Bats, rats, wolves
     - We crisp them
