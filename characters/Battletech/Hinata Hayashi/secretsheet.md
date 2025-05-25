@@ -4,6 +4,7 @@
 # Jackie Hudson, she/her
 ## Personal Data
 - 37yo (3010-3011/08/22), ComStar
+#### XP: 25/0
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
