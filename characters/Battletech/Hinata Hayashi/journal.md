@@ -1,6 +1,12 @@
 # Session log
 TODO: Hinata needs to meet with some officer before leaving, then check in with Jakey
-### Session 03?future - 2025-05-27
+### Session 04?future - 2025-06-03
+
+### Session 03 - 2025-05-27
+- Fight between Gulon and Pacifier
+    - Daquiri moves into melee range and rips the Pacifier's right arm off, shoots it a bunch, disables it
+- Melisandra keeps jamming comms to maximize the ground chaos
+- +15 XP, 55/16
 
 ### Session 02 - 2025-05-20
 - Leads on a 'Mech:

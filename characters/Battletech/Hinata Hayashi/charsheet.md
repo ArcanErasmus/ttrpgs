@@ -9,7 +9,7 @@
 - 177cm, 92kg, blonde wavy hair, hazel eyes, 34yo (3013/12/26)
 - Draconis Combine
 - Small bump from a past broken nose
-#### XP: 25/9
+#### XP: 55/16
 - Acting: 16
 
 ## Attributes
