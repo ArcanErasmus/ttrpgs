@@ -6,7 +6,7 @@
 - 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Ancient Marlun, non-existent)
-- Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit-partner)
+- Orphan adrift, only companion is my eternal "tanish" (Marlun word for lifetime spirit-partner)
 
 `[Small]` `[Humanoid]` `[Traditional]` `[Anarchic]` `[Tolerant]`
 
@@ -24,8 +24,8 @@
 ### Resources
 | **Resource** | Value       | Refill
 |--------------|-------------|-------
-| *HP*         | 78/78       | +6/Rest (not with Curse of Nightmares!)
-| *Fortune*    | [x] [ ] [ ] | =1/Session
+| *HP*         | 74/78       | +6/Rest (not with Curse of Nightmares!)
+| *Fortune*    | [x] [x] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares

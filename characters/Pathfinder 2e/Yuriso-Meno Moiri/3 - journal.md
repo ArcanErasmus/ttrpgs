@@ -25,7 +25,25 @@ Appropriate Lores
 - Sean
     - Character: ?, he/him, Gnome? (Small?)
 
-### Session 31?future - 2025-05-31
+### Session 32?future - 2025-06-07
+- REMINDER: Yuriso-Meno starts this session with 2 hero points
+
+### Session 31 - 2025-05-31
+- REMINDER: Vendari, Sakari, and Yuriso-Meno start this session with 2 hero points
+- Surya and Karchanek (and the flaming cat Hanse) try to sneak into town to have a covert meeting with Vkandian survivors
+    - They are tailed by a swarm of birds
+- YMM talks to "Yuriso", they argue over the nature of power and rulership
+    - Basically, Yuriso sees all living creatures as cattle to be harvested or fed upon, and treated as such
+    - Notably, Yuriso failed to re-acquire a tanish despite extensive attempts
+- Vendari somehow actually just sprints through the building and escapes the guards
+    - He manages to find the prisoners, but they are in far too poor a condition to be moved, and he has to leave them
+- Surya and Karchanek meet up with a survivor, got info on which Bell caused the church's destruction, and that they were acting out of character
+- Vendari meets up with Surya and Karchanek at the hotel room, realized it is shrouded in illusion
+    - Karchanek dispels the invisibility of the infiltrators, revealing:
+    - 3 pale humans with swords
+    - A shadowy silhouette creature
+    - 4 skeletons in armor
+
 ### Session 30 - 2025-05-24
 - Infiltration mission go, entrance
     - Fox-Sakari distracts the entrance guards, one of them leaves to get a snack for it
@@ -35,7 +53,7 @@ Appropriate Lores
     - Venari draws attention to the ongoing distraction from Meno-Yuriso (who makes a sonic shout out front) and we slip past
 - Second area, the basement
     - Sakari scouts ahead in fox form to find a path without guards and leads us through it
-- Third area, the 
+- Third area, basement but with elite guards
     - We pretend to be escorting Vendari to the other prisoners, but gather enough attention that we summon the head honcho
     - The regent is a Marlunite?!?!?!?
     - Vendari takes off running, Yuriso-Meno distracts the regent by memory-sharing
