@@ -25,8 +25,23 @@ Appropriate Lores
 - Sean
     - Character: ?, he/him, Gnome? (Small?)
 
-### Session 32?future - 2025-06-07
+### Session 33?future - 2025-06-14
+### Session 32 - 2025-06-07
 - REMINDER: Yuriso-Meno starts this session with 2 hero points
+- Fight at the inn room
+    - Skeletons die fast
+    - Vampires keep hanging on
+    - Shadows are hard to put down, incorporeal, resistant to elements
+    - Greater Shadow is abysmally tough, incorporeal, very resistant to elements
+- Status of the fight, in initiative order
+    - Greater Shadow: 3d4 persistent burn
+    - Karchanek: Grabbed by Vampire 1, Drained 1
+    - Vampire 1: Grabbing Karchanek, Bloodied
+    - Vendari: Stupified 1 for 2rds
+    - Sakari: Enfeebled 2
+    - Surya: Wounded 2, Bloodied
+    - Yuriso-Meno: Sustaining Flaming Sphere (just cast last turn)
+    - Haela
 
 ### Session 31 - 2025-05-31
 - REMINDER: Vendari, Sakari, and Yuriso-Meno start this session with 2 hero points

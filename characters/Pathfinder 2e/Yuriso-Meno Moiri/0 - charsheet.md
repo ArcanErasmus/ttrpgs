@@ -19,21 +19,16 @@
 | *Con* | 2
 | *Int* | 0
 | *Wis* | 3
-| *Cha* | 4
+| *Cha* | 4+
 
 ### Resources
 | **Resource** | Value       | Refill
 |--------------|-------------|-------
-| *HP*         | 74/78       | +6/Rest (not with Curse of Nightmares!)
-| *Fortune*    | [x] [x] [ ] | =1/Session
+| *HP*         | 65/78       | +6/Rest (not with Curse of Nightmares!)
+| *Hero Point* | [ ] [ ] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
-- [ ] *Energy Mutagen, Moderate (Fire)*
-    - Resistance 10 to Fire
-    - Weakness 5 to Acid, Cold, Electricity
-    - +1d4 Fire damage on melee hit
-    - (10 mins duration)
 
 ### Defenses
 | **Defense**     | Sum | TEML | Abil | Bns | Temp
@@ -75,11 +70,10 @@
 |-----------------|-----|------|------|-----|-----
 | *Acrobatics*    | +11 | +    | Dex  | -   | -
 | *Arcana*        | +8  | +    | Int  | -   | -
-| *Athletics*     | +8  | +    | Str  | -   | -
 | *Deception*     | +12 | +    | Cha  | -   | -
 | *Intimidation*  | +12 | +    | Cha  | -   | -
 | *L: Desert*     | +8  | +    | Int  | -   | -
-| *L: Kobold*     | +8  | +    | Int  | -   | -
+| *L: Kobold*     | +10 | ++   | Int  | -   | -
 | *Nature*        | +11 | +    | Wis  | -   | -
 | *Occultism*     | +8  | +    | Int  | -   | -
 | *Performance*   | +15 | ++   | Cha  | +1  | -
@@ -87,6 +81,7 @@
 | *Survival*      | +11 | +    | Wis  | -   | -
 | *Thievery*      | +14 | ++   | Dex  | +1  | -
 |-----------------|-----|------|------|-----|-----
+| *Athletics*     | +0  |      | Str  | -   | -
 | *Crafting*      | +0  |      | Int  | -   | -
 | *Diplomacy*     | +4  |      | Cha  | -   | -
 | *Medicine*      | +3  |      | Wis  | -   | -

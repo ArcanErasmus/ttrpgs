@@ -12,41 +12,35 @@
 ### Ability Scores
 | Stats | Base
 |-------|---------
-| *Str* | 19 (+4) 
-| *Dex* | 16 (+3) 
-| *Con* | 18 (+4) 
-| *Int* | 10 (--) 
-| *Wis* | 12 (+1) 
-| *Cha* | 10 (--) 
+| *Str* | 4+ 
+| *Dex* | 3 
+| *Con* | 4 
+| *Int* | 0 
+| *Wis* | 1 
+| *Cha* | 0 
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
 - [ ] +1 Circumstance AC with Protect Companion
 - [ ] +2 Status dmg per die unarmed atks with Boost Eidolon
-- [ ] *Energy Mutagen, Moderate (Fire)*
-    - Resistance 10 to Fire
-    - Weakness 5 to Acid, Cold, Electricity
-    - +1d4 Fire damage on melee hit
-    - (10 mins duration)
 
 ### Defenses
 | **Defense**     | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Natural AC*    | 23  | +    | Dex  | +3  | -
+| *Natural AC*    | 24  | +    | Dex  | +3  | -
 |-----------------|-----|------|------|-----|-----
-| *Fortitude*     | +13 | ++   | Con  | -   | -
-| *Reflex*        | +10 | +    | Dex  | -   | -
-| *Will*          | +10 | ++   | Wis  | -   | -
+| *Fortitude*     | +14 | ++   | Con  | -   | -
+| *Reflex*        | +11 | +    | Dex  | -   | -
+| *Will*          | +11 | ++   | Wis  | -   | -
 |-----------------|-----|------|------|-----|-----
-| *Fire*          |  2  |                   | -
-- [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
+| *Fire*          |  3  |                   | -
 
 ### Offenses
 | **Offense**     | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Perception*    | +10 | ++   | Wis  | -   | -
-| *Dex Attack*    | +12 | +    | Dex  | +1  | -
-| *Str Attack*    | +12 | +    | Str  | +1  | -
+| *Perception*    | +11 | ++   | Wis  | -   | -
+| *Dex Attack*    | +15 | ++   | Dex  | +1  | -
+| *Str Attack*    | +15 | ++   | Str  | +1  | -
 
 ### Attacks
 | **Offense**     | Sum/DC&Save   | TEML | Damage     | Traits
@@ -55,28 +49,23 @@
 | *Tail*          | strAtk +2     | ++   | 2d6+4 Fire | Agile, Finesse
 | *Breath*     >> | Spell DC bRef | -    | 3d6 Sonic  | 30-ft cone, 1d4 rd CD
 ^ +1d6+1 persistent bleed on crit
-- [x] *Crushing*: On crit, target gets Clumsy 1 & Enfeebled 1 until start of your next turn
-- [ ] *Energy Mutagen, Moderate (Fire)*: +1d4 Fire damage on melee hit
 
 ## Skills
 | **Skill**       | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Acrobatics*    | +10 | +    | Dex  | -   | -
-| *Arcana*        | +7  | +    | Int  | -   | -
-| *Athletics*     | +11 | +    | Str  | -   | -
-| *Intimidation*  | +7  | +    | Cha  |     | -
-| *L: Desert*     | +7  | +    | Int  | -   | -
-| *L: Kobold*     | +7  | +    | Int  | -   | -
-| *L: ?*     | +7  | +    | Int  | -   | -
-| *Nature*        | +8  | +    | Wis  | -   | -
-| *Occultism*     | +7  | +    | Int  | -   | -
-| *Performance*   | +10 | ++   | Cha  | +1  | -
-| *Stealth*       | +10 | +    | Dex  | -   | -
-| *Survival*      | +8  | +    | Wis  | -   | -
-| *Thievery*      | +12 | ++   | Dex  | -   | -
+| *Acrobatics*    | +11 | +    | Dex  | -   | -
+| *Arcana*        | +8  | +    | Int  | -   | -
+| *Deception*     | +8  |      | Cha  | -   | -
+| *Intimidation*  | +8  | +    | Cha  |     | -
+| *Nature*        | +9  | +    | Wis  | -   | -
+| *Occultism*     | +8  | +    | Int  | -   | -
+| *Performance*   | +11 | ++   | Cha  | +1  | -
+| *Stealth*       | +11 | +    | Dex  | -   | -
+| *Survival*      | +9  | +    | Wis  | -   | -
+| *Thievery*      | +14 | ++   | Dex  | -   | -
 |-----------------|-----|------|------|-----|-----
+| *Athletics*     | +4  |      | Str  | -   | -
 | *Crafting*      | +0  |      | Int  | -   | -
-| *Deception*     | +0  |      | Cha  | -   | -
 | *Diplomacy*     | +0  |      | Cha  | -   | -
 | *Medicine*      | +1  |      | Wis  | -   | -
 | *Religion*      | +1  |      | Wis  | -   | -
@@ -94,7 +83,6 @@
 - Breath weapon: 30-ft cone, Basic Reflex save vs Spell DC, cooldown 1d4 rds
 - Damage 3d6 Sonic, +1d6 at every further odd lvl
 - (This ability has been auto-heightened from Level 1 (+2))
-
 
 #### Energy Heart (1st)
 `[Evolution]` `[Summoner]`
