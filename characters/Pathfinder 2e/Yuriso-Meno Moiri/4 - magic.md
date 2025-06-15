@@ -8,6 +8,7 @@
 | *Summoner* |              |
 |  2nd       |  [x] [ ]     |
 |  3rd       |  [ ] [ ]     |
+<!-- |  4th       |  [x] [x]     | -->
 |------------|--------------|-----------
 | *Bard*     |              |
 |  1st       |  [x]         |
@@ -35,6 +36,11 @@ Summoner - Arcane
     - `[>>]` Floating Flame - 30ft, 5-ft square, 3d6 fire (bRef), move 10ft on sustain, 1 min
     - `[> - >>>]` Blazing Bolt +1 - 60ft, 1 target/action, spAtk 3d6 for 1 action, 6d6 for 2-3
     - `[>>]` Shattering Gem +2 - Touch, 1 min, absorb Strikes 15hp & explodes 3d8
+
+- Lvl 4
+    - 
+- (Heightened)
+    - 
 
 Bard - Occult
 - Cantrip

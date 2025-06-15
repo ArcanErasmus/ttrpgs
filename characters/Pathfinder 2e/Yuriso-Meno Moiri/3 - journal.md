@@ -19,13 +19,21 @@ Appropriate Lores
     - Character: Sakari (in the body of Sinta), she/her, Kitsune (Medium)
 - Chas
     - Character: Rasa, he/him, Catfolk (Medium)
-    - Character: Hala, she/her, ? (Medium)
+    - Character: Haela, she/her, ? (Medium)
 - Shira
     - Character: Surya, she/her, ? (Medium)
 - Sean
     - Character: ?, he/him, Gnome? (Small?)
 
-### Session 33?future - 2025-06-14
+### Session 34?future - 2025-06-21
+### Session 33 - 2025-06-14
+- Fight continues
+    - Karchanek immediately ends the fight with a big blast of Vkandis's holy energy
+- *Level up to 7*
+- Debrief
+    - Group learns about Yuriso, and her attitudes towards the living
+    - Haela leads us to her contacts in the (very disorganized/fractious) resistance movement
+
 ### Session 32 - 2025-06-07
 - REMINDER: Yuriso-Meno starts this session with 2 hero points
 - Fight at the inn room
