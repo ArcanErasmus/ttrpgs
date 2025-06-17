@@ -1,12 +1,12 @@
 # Yuriso-Meno Moiri, She/Her
 ## Bio
 - Ancestry: Kobold (half-kobold/half-human in appearance)
-- Background: Nomad (Jungle)
-- Class: Summoner 6
+- Background: Nomad (Desert)
+- Class: Summoner 7
 - 3'11, 52lbs, reborn 6 years ago (at the rough age of 10)
 - Lanky and kinda malnourished girl, large patches of small green-brown scales
 - Languages: Omnarki Sign, Draconic, Padder-Whistle, (Ancient Marlun, non-existent)
-- Orphan adrift, only companion is my eternal "tanish" (lost word for lifetime spirit-partner)
+- Orphan adrift, only companion is my eternal "tanish" (Marlun word for lifetime spirit-partner)
 
 `[Small]` `[Humanoid]` `[Traditional]` `[Anarchic]` `[Tolerant]`
 
@@ -19,46 +19,40 @@
 | *Con* | 2
 | *Int* | 0
 | *Wis* | 3
-| *Cha* | 4
+| *Cha* | 4+
 
 ### Resources
 | **Resource** | Value       | Refill
 |--------------|-------------|-------
-| *HP*         | 78/78       | +6/Rest (not with Curse of Nightmares!)
-| *Fortune*    | [x] [ ] [ ] | =1/Session
+| *HP*         | 77/90       | +7/Rest (not with Curse of Nightmares!)
+| *Hero Point* | [x] [ ] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
-- [ ] *Energy Mutagen, Moderate (Fire)*
-    - Resistance 10 to Fire
-    - Weakness 5 to Acid, Cold, Electricity
-    - +1d4 Fire damage on melee hit
-    - (10 mins duration)
 
 ### Defenses
 | **Defense**     | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Unarmored AC*  | 22  | +    | Dex  | -   | -
+| *Unarmored AC*  | 23  | +    | Dex  | -   | -
 |-----------------|-----|------|------|-----|-----
-| *Fortitude*     | +12 | ++   | Con  | -   | -
-| *Reflex*        | +11 | +    | Dex  | -   | -
-| *Will*          | +13 | ++   | Wis  | -   | -
+| *Fortitude*     | +13 | ++   | Con  | -   | -
+| *Reflex*        | +12 | +    | Dex  | -   | -
+| *Will*          | +14 | ++   | Wis  | -   | -
 |-----------------|-----|------|------|-----|-----
 | *Fire*          |  3  |                   | -
-- [ ] *Energy Mutagen, Moderate (Fire)*: Res 10 Fire; Weak 5 Acid, Cold, Electricity
 
 ### Offenses
 | **Offense**     | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Class DC*      | 21  | +    | Cha  | -   | -
-| *Arcane DC*     | 21  | +    | Cha  | -   | -
-| *Occult DC*     | 21  | +    | Cha  | -   | -
+| *Class DC*      | 23  | +    | Cha  | -   | -
+| *Arcane DC*     | 23  | +    | Cha  | -   | -
+| *Occult DC*     | 23  | +    | Cha  | -   | -
 |-----------------|-----|------|------|-----|-----
-| *Perception*    | +13 | ++   | Wis  | -   | -
-| *Arcane Attack* | +12 | +    | Cha  | -   | -
-| *Occult Attack* | +12 | +    | Cha  | -   | -
-| *Dex Attack*    | +12 | +    | Dex  | +1  | -
-| *Str Attack*    | +9  | +    | Str  | +1  | -
+| *Perception*    | +15 | ++   | Wis  | -   | -
+| *Arcane Attack* | +13 | +    | Cha  | -   | -
+| *Occult Attack* | +13 | +    | Cha  | -   | -
+| *Dex Attack*    | +13 | +    | Dex  | +1  | -
+| *Str Attack*    | +10 | +    | Str  | +1  | -
 
 ### Attacks
 | **Offense**     | Sum/DC&Save   | TEML | Damage    | Traits
@@ -73,19 +67,19 @@
 ## Skills
 | **Skill**       | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Acrobatics*    | +11 | +    | Dex  | -   | -
-| *Arcana*        | +8  | +    | Int  | -   | -
-| *Athletics*     | +8  | +    | Str  | -   | -
-| *Deception*     | +12 | +    | Cha  | -   | -
-| *Intimidation*  | +12 | +    | Cha  | -   | -
-| *L: Desert*     | +8  | +    | Int  | -   | -
-| *L: Kobold*     | +8  | +    | Int  | -   | -
-| *Nature*        | +11 | +    | Wis  | -   | -
-| *Occultism*     | +8  | +    | Int  | -   | -
-| *Performance*   | +15 | ++   | Cha  | +1  | -
-| *Stealth*       | +11 | +    | Dex  | -   | -
-| *Survival*      | +11 | +    | Wis  | -   | -
-| *Thievery*      | +14 | ++   | Dex  | +1  | -
+| *Acrobatics*    | +12 | +    | Dex  | -   | -
+| *Arcana*        | +9  | +    | Int  | -   | -
+| *Athletics*     | +9  | +    | Str  | -   | -
+| *Deception*     | +13 | +    | Cha  | -   | -
+| *Intimidation*  | +13 | +    | Cha  | -   | -
+| *L: Desert*     | +9  | +    | Int  | -   | -
+| *L: Kobold*     | +13 | +++  | Int  | -   | -
+| *Nature*        | +12 | +    | Wis  | -   | -
+| *Occultism*     | +9  | +    | Int  | -   | -
+| *Performance*   | +16 | ++   | Cha  | +1  | -
+| *Stealth*       | +12 | +    | Dex  | -   | -
+| *Survival*      | +12 | +    | Wis  | -   | -
+| *Thievery*      | +15 | ++   | Dex  | +1  | -
 |-----------------|-----|------|------|-----|-----
 | *Crafting*      | +0  |      | Int  | -   | -
 | *Diplomacy*     | +4  |      | Cha  | -   | -
@@ -244,6 +238,16 @@
 ### Unlimited Signature Spells
 - All spells are signature spells, can heighten
 
+### Eidolon Symbiosis
+#### Draconic Frenzy
+`[Eidolon]` `[>>]`
+- Eidolon makes one Strike with primary unarmed attack and two Strikes with secondary unarmed attack, in any order
+- If any crit an enemy, eidolon recovers use of breath weapon
+
+### Eidolon Weapon Specialization
+- Eidolon deals +2 damage with unarmed attacks in which it is expert
+- +3 if master, +4 if legendary
+
 ### Feats
 #### Kobold Breath [Ancestry] (1st)
 `[Arcane]` `[Evocation]` `[Fire]` `[Kobold]` `[>>]`
@@ -346,4 +350,7 @@
 - Can Steal or Palm an Object that's closely guarded, such as in a pocket, without taking the –5 penalty
 - If Master in Thievery, can attempt to Steal from a creature in combat or otherwise on guard, at -5 penalty, taking 2 actions
 
-<!-- #### Armor Proficiency [General] (7th) -->
+#### Armor Proficiency [General] (7th)
+`[General]`
+- Become Trained in light armor
+- Become Expert in this armor type at 13th
