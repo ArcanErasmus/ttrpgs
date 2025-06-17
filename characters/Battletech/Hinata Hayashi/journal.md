@@ -1,6 +1,12 @@
 # Session log
-TODO: Hinata needs to meet with some officer before leaving, then check in with Jakey
-### Session 04?future - 2025-06-03
+### Session 05?future - 2025-06-17
+### Session 04 - 2025-06-03
+- We grab the Copper and run
+    - We deleted the camera recordings from the hangar, but it might be backed up to tapes
+- Dozle himself shows up in a proper BattleMech
+    - We give confusing orders long enough to run out of range
+- The fire kills 15 guys, oops
+- +15 XP, 70/16
 
 ### Session 03 - 2025-05-27
 - Fight between Gulon and Pacifier

@@ -30,6 +30,7 @@ Dmg | ooooo ooo
 Ftg | ooooo ooooo oooo
 Stn | o
 Unc | o
+EDG | oooo
 
 ### Movement (Meters/Turn) pp.168
 Walk    8 | Climb  5
