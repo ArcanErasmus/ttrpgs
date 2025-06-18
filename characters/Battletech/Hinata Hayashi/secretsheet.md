@@ -4,7 +4,11 @@
 # Jackie Hudson, she/her
 ## Personal Data
 - 37yo (3010-3011/08/22), ComStar
-#### XP: 55/0
+#### XP: 85/66
+- Demolitions: 16
+- Gunnery/'Mech: 22(+2)
+- Piloting/'Mech: 19(+5)
+- Training: 9(+7)
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
@@ -24,19 +28,19 @@
 ## Skills
 | Skill                     | Lvl |   Links | L+ | TN/C | T | Page |  XP | Bonuses
 |---------------------------|-----|---------|----|------|---|------|-----|---------
-| Acting|Deception          |   3 |     CHA |  1 | 8/CB | 4 |  142 |  64 | +1
+| Acting|Deception          |   3 |     CHA |  1 | 8/CB | 4 |  142 |  64 | +1, +2/1
 | Cryptography              |   2 | INT+WIL |  4 | 9/CA | 2 |  145 |  40 | +1
-| Demolitions               |   1 | DEX+INT |  4 | 9/CA | 3 |  146 |  24 | +1
-| Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 |
+<!-- | Demolitions               |   2 | DEX+INT |  4 | 9/CA | 2 |  146 |  40 | +1 -->
+<!-- | Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 | +2/1 -->
 | Forgery                   |   1 | DEX+INT |  4 | 8/SA | 3 |  147 |  24 |
 | Gunnery/Air Vehicles      |   0 | RFL+DEX |  3 | 8/SA | 5 |  147 |  16 |
 | Gunnery/Ground Vehicles   |   0 | RFL+DEX |  3 | 8/SA | 5 |  147 |  16 |
 | Int/Writings of J. Blake  |   0 |     INT |  1 | 8/CB+| 6 |  147 |  16 | +1
-| Interrogation             |   2 | WIL+CHA |  4 | 9/CA | 2 |  148 |  40 | +1
+| Interrogation             |   2 | WIL+CHA |  4 | 9/CA | 2 |  148 |  40 | +1, +2/1
 | Prest/Quickdraw           |   2 |     DEX |  1 | 7/SB+| 4 |  152 |  40 |
-| Protocol/ComStar          |   1 | WIL+CHA |  4 | 9/CA | 3 |  152 |  24 | +1
+| Protocol/ComStar          |   1 | WIL+CHA |  4 | 9/CA | 3 |  152 |  24 | +1, +2/1
 | Strategy|Planetary        |   0 | INT+WIL |  4 | 9/CA | 4 |  154 |  16 | +1
-| Streetwise/ComStar        |   0 |     CHA |  1 | 8/CB | 6 |  154 |  16 | +1
+| Streetwise/ComStar        |   0 |     CHA |  1 | 8/CB | 6 |  154 |  16 | +1, +2/1
 | Support Weapons           |   0 |     DEX |  1 | 7/SB | 6 |  154 |  16 |
 | Tactics/Infantry          |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1
 | Tactics/Land              |   0 | INT+WIL |  4 | 9/CA | 4 |  156 |  16 | +1

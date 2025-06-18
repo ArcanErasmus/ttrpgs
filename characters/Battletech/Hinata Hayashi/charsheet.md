@@ -9,8 +9,12 @@
 - 177cm, 92kg, blonde wavy hair, hazel eyes, 34yo (3013/12/26)
 - Draconis Combine
 - Small bump from a past broken nose
-#### XP: 55/16
+#### XP: 85/82
 - Acting: 16
+- Demolitions: 16
+- Gunnery/'Mech: 22(+2)
+- Piloting/'Mech: 19(+5)
+- Training: 9(+7)
 
 ## Attributes
 | Attr | # | Link | XP
@@ -96,6 +100,7 @@ Load  27.535/40kg, Unencumbered
 | Acting|Deception          |   0 |     CHA |  1 | 8/CB | 6 |  142 |  16 | +1, +2/1
 | Admin|Supply Chain        |   1 | INT+WIL |  4 | 8/SA | 3 |  143 |  24 |
 | AnHand/Train|Wild Animals |   0 |     WIL |  1 | 7/SB | 6 |  143 |  16 |
+| Appraisal                 |     |     INT |  1 | 8/CB |   |  143 |     | +1
 | Archery                   |     |     DEX |  1 | 7/SB |   |  143 |     |
 | Art/Oral Tradition        |   1 |     DEX |  1 | 8/CB+| 6 |  144 |  24 | +1
 | Artillery                 |     | INT+WIL |  4 | 8/SA |   |  144 |     |
@@ -105,13 +110,14 @@ Load  27.535/40kg, Unencumbered
 | Comms/Conv|Tapping        |   2 |     INT |  1 | 7/SB | 4 |  144 |  40 |
 | Computers|Programming     |   4 | DEX+INT |  4 | 9/CA+| 0 |  145 |  96 | +1
 | Cryptography              |     | INT+WIL |  4 | 9/CA |   |  145 |     | +1
-| Demolitions               |     | DEX+INT |  4 | 9/CA |   |  146 |     | +1
-| Disguise                  |     |     CHA |  1 | 7/SB |   |  146 |     | +2/1
+| Demolitions               |   2 | DEX+INT |  4 | 9/CA | 2 |  146 |  40 | +1
+| Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 | +2/1
 | Driving/Ground Vehicles   |   2 | RFL+DEX |  3 | 8/SA | 3 |  146 |  40 |
 | Driving/Sea Vehicles      |   0 | RFL+DEX |  3 | 8/SA | 5 |  146 |  16 |
 | Escape Artist             |   1 | STR+DEX |  3 | 9/CA | 5 |  147 |  24 | +1
 | Forgery                   |     | DEX+INT |  4 | 8/SA |   |  147 |     |
 | Gunnery/                  |     | RFL+DEX |  3 | 8/SA |   |  147 |     |
+| Gunnery/'Mechs            |   1 | RFL+DEX |  3 | 8/SA | 4 |  147 |  24 |
 | Int/Architecture          |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
 | Int/Combine History       |   0 |     INT |  1 | 8/CB+| 7 |  147 |  16 | +1
 | Int/MechWarrior Culture   |   1 |     INT |  1 | 8/CB+| 6 |  147 |  24 | +1
@@ -134,6 +140,7 @@ Load  27.535/40kg, Unencumbered
 | Negotiation|Political     |   2 |     CHA |  1 | 8/CB | 4 |  150 |  40 | +1, +2/1
 | Perception                |   3 |     INT |  1 | 7/SB | 3 |  151 |  64 |
 | Piloting/Air Vehicles     |   2 | RFL+DEX |  3 | 8/SA | 3 |  151 |  40 |
+| Piloting/'Mech            |   1 | RFL+DEX |  3 | 8/SA | 4 |  151 |  24 |
 | Prest/                    |     |     DEX |  1 | 7/SB+|   |  152 |     |
 | Protocol/Combine          |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1, +2/1
 | Protocol/Periphery        |   1 | WIL+CHA |  4 | 9/CA | 4 |  152 |  24 | +1, +2/1
@@ -157,7 +164,7 @@ Load  27.535/40kg, Unencumbered
 | Technician/Mechanical     |   1 | DEX+INT |  4 | 9/CA | 4 |  157 |  24 | +1
 | Thrown Weapons/Blunt      |   0 |     DEX |  1 | 7/SB | 6 |  158 |  16 |
 | Tracking/Wilds            |   2 | INT+WIL |  4 | 8/SA | 3 |  158 |  40 |
-| Training                  |   1 | INT+CHA |  4 | 9/CA | 4 |  159 |  24 | +1, +2/1
+| Training                  |   2 | INT+CHA |  4 | 9/CA | 3 |  159 |  40 | +1, +2/1
 | Zero-G Operations         |     |     RFL |  0 | 7/SB |   |  159 |     |
 + = Tiered
 

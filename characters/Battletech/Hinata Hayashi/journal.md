@@ -1,5 +1,18 @@
 # Session log
-### Session 05?future - 2025-06-17
+### Session 06?future - 2025-06-24
+### Session 05 - 2025-06-17
+- Saint knife and long island iced tea are going to meet "Jimmy Three Hundred" (will do anything for $300)
+    - Get info abt movements of FedCom units, we have coords of where they are
+    - We know they are looking around the WarShip wreckage, as if they know something that the other looters over the centuries didn't
+- The square crew dig up a pair of heavily damaged Guards (the quadruped SecurityMech)
+    - We dismantle them for parts for the other Mechs
+- +15 XP, 85/82
+    - Demolitions: 16
+    - Gunnery/'Mech: 22
+    - Piloting/'Mech: 19
+    - Training: 9
+
+### No Session - 2025-06-10
 ### Session 04 - 2025-06-03
 - We grab the Copper and run
     - We deleted the camera recordings from the hangar, but it might be backed up to tapes
@@ -49,7 +62,7 @@
     - Talk to the Quartermaster of the invading force, concede some of the hangers for military use "on credit", but some reserved for business use
     - Site Manager Janet Smithson assured that the spaceport is still operating at reduced capacity/pay
 - +15 XP, 25/16
-- Acting: 16
+    - Acting: 16
 
 ### No Session - 2025-04-29
 ### Session 00 - 2025-04-22

@@ -1,7 +1,11 @@
 # Hinata Hayashi (早矢仕日向), she/her
 ## Personal Data
 - 36yo
-#### XP: 25/0
+#### XP: 85/66
+- Demolitions: 16
+- Gunnery/'Mech: 22(+2)
+- Piloting/'Mech: 19(+5)
+- Training: 9(+7)
 
 ## Traits (Personal)
 | Trait                               | TP | Page | XP   | Notes
@@ -20,8 +24,8 @@
 |---------------------------|-----|---------|----|------|---|------|-----|---------
 | Acting|Deception          |   3 |     CHA |  1 | 8/CB | 4 |  142 |  64 | +1
 | Cryptography              |   2 | INT+WIL |  4 | 9/CA | 2 |  145 |  40 | +1
-| Demolitions               |   1 | DEX+INT |  4 | 9/CA | 3 |  146 |  24 | +1
-| Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 |
+<!-- | Demolitions               |   2 | DEX+INT |  4 | 9/CA | 2 |  146 |  40 | +1 -->
+<!-- | Disguise                  |   2 |     CHA |  1 | 7/SB | 4 |  146 |  40 | -->
 | Forgery                   |   1 | DEX+INT |  4 | 8/SA | 3 |  147 |  24 |
 | Gunnery/Ground Vehicles   |   0 | RFL+DEX |  3 | 8/SA | 5 |  147 |  16 |
 | Interrogation             |   2 | WIL+CHA |  4 | 9/CA | 2 |  148 |  40 | +1
