@@ -1,5 +1,23 @@
 # Session log
-### Session 06?future - 2025-06-24
+### Session 06?future - 2025-07-15
+- Hinata talks the invaders into an ambush?
+- Roz and Meli go over records and determine the composition of the invaders?
+    - Kell Hounds - tasked with garrisoning the city
+        - ?
+    - 12th Deneb Light Cavalry - seem to be mostly ranging across the jungles
+        - ?
+- Daquiri and Aliya ????
+- TODO: Roz monthly income roll
+
+### No Session - 2025-07-08
+- We discuss what to do with the game
+    - Consensus: Stop using A Time of War
+    - Leading Option: MechWarrior Destinies becomes the new system
+    - Backup Option: Mecha Hack
+    - Backup Option: Play a different campaign
+
+### No Session - 2025-07-01
+### No Session - 2025-06-24
 ### Session 05 - 2025-06-17
 - Saint knife and long island iced tea are going to meet "Jimmy Three Hundred" (will do anything for $300)
     - Get info abt movements of FedCom units, we have coords of where they are
@@ -61,6 +79,9 @@
 - Roz and Meli head to the spaceport
     - Talk to the Quartermaster of the invading force, concede some of the hangers for military use "on credit", but some reserved for business use
     - Site Manager Janet Smithson assured that the spaceport is still operating at reduced capacity/pay
+- Invader info
+    - 12th Deneb Light Cavalry
+    - Kell Hounds
 - +15 XP, 25/16
     - Acting: 16
 

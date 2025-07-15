@@ -1,6 +1,33 @@
 # The Setting
 ## 3048
 ## Randis IV
+## The Invaders
+### 12th Deneb Light Cavalry
+- "Light Cavalry": Light, speed, often objective-focused
+- RCT - Regimental Combat Team
+    - SLDF version - 4 combat regiments plus a support and transport element
+    - FS/FC version - 1 regiment of BattleMechs, 3 regiments combat vehicles, 5 regiments infantry, 2 aerospace fighter wings, 1 battalion artillery, usually 1+ battalions engineers, optional special forces or marines
+- RCT Breakdown
+    - BattleMechs - 1 regiment (Colonel) - 3 Battalions plus a Regimental HQ
+    - 2 armor regiments usually medium and 1 heavy
+    - 2 infantry foot, 2 mechanized, 1 jump
+        - With FedCom formation, foot infantry in-progress for conversion to mechanized
+    - 2 aerospace fighter wings
+    - 1 battalion artillery
+    - usually 1+ battalions engineers
+    - optional special forces or marines
+- Forces on planet - 1 Company Task Force
+    - Lance (Captain) - 4 BattleMechs
+    - Lance (Lieutenant) - 4 BattleMechs
+    - Lance (Lieutenant) - 4 BattleMechs
+    - Support units????
+        - Dropship with artillery
+### Kell Hounds
+- Second Kell Hounds - The Scrapping Pack
+- Forces on planet - augmented Lance
+    - 4 BattleMechs
+    - 2 support vehicles
+    - Some infantry
 
 # Terminology
 ## Mechs
