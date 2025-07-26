@@ -1,0 +1,77 @@
+- Main Page 
+  - [X] Have you spent all attribute points provided by your Attributes priority? 
+  - [-] Have you maxed out one of your attributes (whichever is most important to your build)? 
+  - [X] Have you spent all special attribute points provided by your Metatype priority? 
+  - [ ] Do you have up to, but not over, 25 karma in positive qualities? 
+  - [X] Do you have up to, but not over, 25 karma in negative qualities? 
+- Skill Page
+  - [X] Have you spent all your skill group points provided by your Skills priority? 
+  - [X] Have you spent all your individual skill points provided by your Skills priority? 
+  - [X] Have you put a speciality in any skills, usually your core competencies, since they're cheaper at character generation (1 skill point per, *cannot* be put in skills you spent skill group points on)? 
+  - [X] Have you added your native language under the Knowledge skills section at the bottom? 
+  - [X] Have you spent all the knowledge skill points provided by your logic?  
+- Gear
+  - [ ] Have you read one or both of the pinned guides for suggested starting gear?
+  - [ ] Do you have ammo for your gun(s), both regular and gel rounds (nonlethal)? 
+  - [ ] Do you have a fake SIN, preferably more one? (Yes, the guides mention it; it's important enough I'm mentioning it again. I like having two, both at rating 4: one for shadowrunning jobs, the other for getting groceries.)
+  - [ ] Do you have fake licenses on at least one of your fake SINs for every type of restricted gear or skill you have? (Decking license, magic license, firearm license, concealed carry license, driver's license, fishing license...) 
+  - [ ] Do you have nothing of availability higher than 12?
+  - [X] Do you have some form of Direct Neural Interface, whether from trodes or cyberware? 
+  - [X] Do you have some means of seeing in dark areas, whether from contact lenses or cybereyes?
+- Cyberware
+  - [X] Do you have positive essence remaining? 
+  - [X] Do you have nothing of availability higher than 12? (Alphaware adds to the availability rating; don't be blindsided by your cybertorso becoming too hot an item when you try to make it less essence-costly)
+- Misc
+  - [ ] Have you spent your free karma's worth of contact points, as provided by your charisma score? 
+  - [X] Have you chosen your free starting spells/powers, if you chose a magic priority that provides any? 
+  - [ ] Do you have exactly 0 Karma remaining? 
+  - [ ] Do you have between 0 and 5000 nuyen remaining?
+  - [ ] Have you chosen a Lifestyle? (We're doing this together)
+
+
+  Black Market Pipeline - 10
+  Barrens Rat - 5
+  Sensei - 5
+  Agile Defender - 3
+  Martial Art - 7
+    - 1st technique - 0
+    - Extra techniques - 5
+
+Bending of the Reed
+Close Quarters Defense Against Firearms
+Counterstrike
+Flying Kick
+Kick Attack
+Kip Up
+Leaping Mantis
+Monkey Climb
+Pouncing Dragon
+Yielding Force (Counterstrike)
+
+Capoeira
+  Bending of the Reed
+  Kick Attack
+  Kip Up
+
+Jeet Kune Do
+  Bending of the Reed
+  Counterstrike
+  Kick Attack
+  Yielding Force (Counterstrike)
+
+Karate
+  Counterstrike
+  Kick Attack
+  Kip Up
+  Yielding Force (Counterstrike)
+
+Ninjutsu/Tae Kwon Do
+  Counterstrike
+  Flying Kick
+  Kick Attack
+
+Parkour
+  Bending of the Reed
+  Kip Up
+  Leaping Mantis
+  Monkey Climb
