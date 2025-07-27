@@ -1,8 +1,8 @@
 - Main Page 
   - [X] Have you spent all attribute points provided by your Attributes priority? 
-  - [-] Have you maxed out one of your attributes (whichever is most important to your build)? 
+  - [X] Have you maxed out one of your attributes (whichever is most important to your build)? 
   - [X] Have you spent all special attribute points provided by your Metatype priority? 
-  - [ ] Do you have up to, but not over, 25 karma in positive qualities? 
+  - [X] Do you have up to, but not over, 25 karma in positive qualities? 
   - [X] Do you have up to, but not over, 25 karma in negative qualities? 
 - Skill Page
   - [X] Have you spent all your skill group points provided by your Skills priority? 
@@ -22,7 +22,7 @@
   - [X] Do you have positive essence remaining? 
   - [X] Do you have nothing of availability higher than 12? (Alphaware adds to the availability rating; don't be blindsided by your cybertorso becoming too hot an item when you try to make it less essence-costly)
 - Misc
-  - [ ] Have you spent your free karma's worth of contact points, as provided by your charisma score? 
+  - [X] Have you spent your free karma's worth of contact points, as provided by your charisma score? 
   - [X] Have you chosen your free starting spells/powers, if you chose a magic priority that provides any? 
   - [ ] Do you have exactly 0 Karma remaining? 
   - [ ] Do you have between 0 and 5000 nuyen remaining?
