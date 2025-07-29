@@ -94,7 +94,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Right</primaryarm>
-  <karma>10</karma>
+  <karma>0</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -118,7 +118,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>False</created>
-  <nuyen>15465.000</nuyen>
+  <nuyen>4860.000</nuyen>
   <startingnuyen>275000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -279,7 +279,7 @@
   <groupmember>False</groupmember>
   <groupname />
   <groupnotes />
-  <totaless>1.18</totaless>
+  <totaless>1.08</totaless>
   <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <psyche>False</psyche>
@@ -786,19 +786,11 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>1</base>
+        <base>0</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Heavy Weapons</name>
         <buywithkarma>False</buywithkarma>
-        <specs>
-          <spec>
-            <guid>13cc2746-0424-417b-8c30-1470101a52cf</guid>
-            <name>Grenade Launchers</name>
-            <free>False</free>
-            <expertise>False</expertise>
-          </spec>
-        </specs>
       </skill>
       <skill>
         <guid>a10e235b-a55a-41cd-8e1e-066c9846a7bf</guid>
@@ -884,7 +876,7 @@
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
         <karma>0</karma>
-        <base>0</base>
+        <base>1</base>
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Locksmith</name>
@@ -994,6 +986,14 @@
         <notesColor>Chocolate</notesColor>
         <name>Perception</name>
         <buywithkarma>False</buywithkarma>
+        <specs>
+          <spec>
+            <guid>b8561c88-0c81-4b7b-a086-dda4e78b906d</guid>
+            <name>Hearing</name>
+            <free>False</free>
+            <expertise>False</expertise>
+          </spec>
+        </specs>
       </skill>
       <skill>
         <guid>6c355198-da2d-4094-b282-fe1e29a03610</guid>
@@ -1577,6 +1577,24 @@ Available Techniques: Bending of the Reed, Counter Strike, Kick, Opposing Force 
       <candelete>False</candelete>
       <notes />
     </limitmodifier>
+    <limitmodifier>
+      <guid>ab52e0f5-4adc-425e-aac4-0f40145bacfe</guid>
+      <name>Mortimer of London: Summit Dress</name>
+      <limit>Social</limit>
+      <bonus>1</bonus>
+      <condition>LimitCondition_Visible</condition>
+      <candelete>False</candelete>
+      <notes />
+    </limitmodifier>
+    <limitmodifier>
+      <guid>a8b78c2a-2270-43d2-8d29-9cc0c6736aea</guid>
+      <name>Thermal Damping</name>
+      <limit>Physical</limit>
+      <bonus>1</bonus>
+      <condition>LimitCondition_TestSneakingThermal</condition>
+      <candelete>False</candelete>
+      <notes />
+    </limitmodifier>
   </limitmodifiers>
   <armors>
     <armor>
@@ -1621,14 +1639,156 @@ Available Techniques: Bending of the Reed, Counter Strike, Kick, Opposing Force 
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <emcumbrance>True</emcumbrance>
-      <armormods />
+      <armormods>
+        <armormod>
+          <guid>0c26c17b-a601-4e7d-9fb2-c9dd9f7d607a</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>f931baa3-a11e-4eea-a075-02e28d4de733</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>4e7aa058-5365-4779-8591-eed0db0b64ee</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>48df7735-829e-412a-9909-74111a8cecc4</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>a6188427-75dd-4ef9-8752-ae7aac76444f</guid>
+          <sourceid>851f226f-2116-4001-8937-408d4570396e</sourceid>
+          <name>AR Fashion</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>CA</source>
+          <page>138</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>AR FASHION
+This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+      </armormods>
       <bonus />
       <wirelessbonus />
-      <location />
+      <location>bd826add-fe74-4fd9-b149-19d1763e8d04</location>
       <notes>Lined coat: This Wild West style duster has been consistently popular on the mean streets of the world’s sprawls for the past thirty years. Besides its protective traits, the armored trenchcoat provides an additional –2 Concealability modifier to items hidden underneath.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </armor>
     <armor>
       <sourceid>790918b5-93fe-461e-8973-23d445bfaf93</sourceid>
@@ -1733,10 +1893,123 @@ This feature means things are either more easily hidden beneath the girth or len
           <discountedcost>False</discountedcost>
           <sortorder>1</sortorder>
         </armormod>
+        <armormod>
+          <guid>fee6242e-f071-4668-a994-6d82c8842c05</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>5ec02847-7167-4208-806e-7feda8cc1808</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>947b7e88-b651-4c75-aaf0-0dfcd008441c</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>996218c0-49dd-4dcb-871c-593fe964649b</guid>
+          <sourceid>851f226f-2116-4001-8937-408d4570396e</sourceid>
+          <name>AR Fashion</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>CA</source>
+          <page>138</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>AR FASHION
+This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
       </armormods>
       <bonus />
       <wirelessbonus />
-      <location />
+      <location>bd826add-fe74-4fd9-b149-19d1763e8d04</location>
       <notes>FORM-FITTING BODY ARMOR
 While armored clothing is effective enough, and armored vests are fairly well hidden, it takes truly advanced craftsmanship to produce form-fitting body armor. Each suit is tailor-made to its wearer, leaving neither gaps nor folds while still allowing the body to breathe. The basic piece of armor is a shirt, covering the body from collarbone to groin, protecting the vital organs, while the full suit adds protection for the limbs. In either case, the hands, feet, and head are left exposed, as covering them gives away the fact that armor is being worn.
 Form-fitting body armor can be worn under armor, but doing so won’t change your protection much. The primary benefit of FFBA is its highly concealable.
@@ -1863,7 +2136,7 @@ This armor is a little unwieldy. Armors with this quality halve Movement and inc
 I sell this little multipurpose wonder, but honestly I’m not sure why. I guess you can fill it with your favorite guns, get on site, dump it out, and then wear it to protect you. It’s a strange piece, but I sell a lot of them, so you guys have apparently figured out some uses for them.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>2</sortorder>
+      <sortorder>0</sortorder>
     </armor>
     <armor>
       <sourceid>9f88a210-9ec6-4fc5-ad91-ffb7e7051447</sourceid>
@@ -1908,6 +2181,68 @@ I sell this little multipurpose wonder, but honestly I’m not sure why. I guess
       <stolen>False</stolen>
       <emcumbrance>True</emcumbrance>
       <armormods />
+      <gears>
+        <gear>
+          <sourceid>241e831d-230a-403b-a4a1-1e601b1afdc3</sourceid>
+          <guid>132f1f84-f3d2-44d1-9f09-b8a5fda52f69</guid>
+          <name>Respirator</name>
+          <category>Survival Gear</category>
+          <capacity />
+          <armorcapacity>[2]</armorcapacity>
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>6</rating>
+          <qty>1.0</qty>
+          <avail>0</avail>
+          <cost>Rating * 50</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <toxininhalationresist>Rating</toxininhalationresist>
+            <pathogeninhalationresist>Rating</pathogeninhalationresist>
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>449</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes>Respirator: A respirator is a filter-mask worn over the mouth and nose that protects against inhalation-vector toxins (Toxins, Drugs, and BTLs, p. 408). The respirator adds its rating to toxin resistance tests against inhala- tion-vector toxins.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </gears>
       <bonus>
         <limitmodifier>
           <limit>Social</limit>
@@ -1916,14 +2251,14 @@ I sell this little multipurpose wonder, but honestly I’m not sure why. I guess
         </limitmodifier>
       </bonus>
       <wirelessbonus />
-      <location />
+      <location>66ab6c44-a87f-4c60-bbf2-9d9089f02bd0</location>
       <notes>BALLISTIC MASK
 By far my best seller, especially the basic model. They come in a variety of custom moldings and paint jobs to get almost any look imaginable, but matte black classic sells the best. They have limits when they’re basic models to keep them functional, but once electronic vision systems are added, the possibilities are endless.
 Ballistic masks can take vision enhancements as well as any modification a helmet can take.
 Custom jobs are, naturally, more expensive.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>3</sortorder>
+      <sortorder>2</sortorder>
     </armor>
     <armor>
       <sourceid>36a4cd30-c32c-44d0-847a-0c15fb51072a</sourceid>
@@ -1967,14 +2302,251 @@ Custom jobs are, naturally, more expensive.</notes>
       <ratinglabel>String_Rating</ratinglabel>
       <stolen>False</stolen>
       <emcumbrance>True</emcumbrance>
-      <armormods />
+      <armormods>
+        <armormod>
+          <guid>35ddc856-19c3-464a-9138-e96a92791c3e</guid>
+          <sourceid>851f226f-2116-4001-8937-408d4570396e</sourceid>
+          <name>AR Fashion</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>CA</source>
+          <page>138</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>AR FASHION
+This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>66e3e513-6c2e-4891-8516-170b1a49db50</guid>
+          <sourceid>dd246520-7306-40fb-88b4-c9cb031208fc</sourceid>
+          <name>Fire Resistance</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>3</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="fireresistance">
+            <firearmor>Rating</firearmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Fire resistance: Fire-retardant, nonflammable ma- terials protect the wearer against Fire damage (p. 171). Add the full rating of the Fire Resistance modification to the Armor value when resisting Fire attacks or checking if the armor catches fire.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>c56ad611-2008-4da3-bab3-4b2fa8e1db07</guid>
+          <sourceid>497b5d6b-df0c-401d-91de-42a224b1fa87</sourceid>
+          <name>Insulation</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="insulation">
+            <coldarmor>Rating</coldarmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Insulation: Thermal fibers and heat-retentive mate- rials protect the wearer against Cold damage (p. 170). Add the full rating of the Insulation modification to the Armor value when resisting Cold attacks.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>fd9d8291-5ad8-4d07-a773-e52bb0a6f360</guid>
+          <sourceid>0cfb049a-a1bd-4daa-96be-9468c37d9c3c</sourceid>
+          <name>Nonconductivity</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>3</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="nonconductivity">
+            <electricityarmor>Rating</electricityarmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>438</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Nonconductivity: Electrical insulation and non-con- ductive materials protect the wearer against Electricity damage (p. 170). Add the full rating of this modification to the Armor value when resisting Electricity attacks.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>7a3011d1-5c34-4ca6-9f50-bac1237fcc93</guid>
+          <sourceid>480b7c5d-758b-4833-8bfd-9487e2455f7d</sourceid>
+          <name>Chemical Protection</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="chemicalprotection">
+            <toxincontactresist>Rating</toxincontactresist>
+            <pathogencontactresist>Rating</pathogencontactresist>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Chemical protection: Water-resistant, non-porous, impermeable materials, and a coating of neutraliz- ing agents protect the wearer against contact-vector chemical attacks (Toxins, Drugs and BTLs, p. 408). Add the rating of the Chemical Protection modification to tests made to resist contact-vector toxin attacks.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>5ea2e29b-941f-4157-9681-eb1b2f03f07d</guid>
+          <sourceid>aec187e5-5eca-4f27-9181-b39991579d76</sourceid>
+          <name>Drag Handle</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>BB</source>
+          <page>23</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>DRAG HANDLE
+A relatively simple modification, the drag handle is a strap anchored to the back of an armored jacket, vest, or suit that allows an injured character to be dragged or carried with greater ease. The Drag Handle adds +2 dice to Lifting and Carrying Tests (p. 139, SR4A, or p. 152, SR5) to move the character.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>a4240807-8e98-4909-97af-5b22461af90c</guid>
+          <sourceid>49addc2c-ee9b-4f97-9c4b-4d49259734bc</sourceid>
+          <name>Attachable Gear Access</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[4]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>150</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>0ea099a2-8b84-4517-84c1-4eca03ab4a26</guid>
+          <sourceid>cf8accf5-4117-4419-ab73-957489038ab9</sourceid>
+          <name>YNT Softweave Armor</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[-(Capacity * 0.5 + 0.5*number((Capacity mod 2) = 1))]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>+4</avail>
+          <cost>Armor Cost</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>RG</source>
+          <page>84</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>YNT SOFTWEAVE ARMOR
+SoftWeave was developed by Yamatetsu Naval Technologies for sapients and the less common metavarients because it’s easier to mold and work into alternative designs than standard armor technologies. It works for the everyday Joe, and it also makes for lighter gear with more flexibility for modifications.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+      </armormods>
       <bonus />
       <wirelessbonus />
-      <location />
+      <location>66ab6c44-a87f-4c60-bbf2-9d9089f02bd0</location>
       <notes>Armor jacket: The most popular armor solution on the streets comes in all styles imaginable. It offers good protection without catching too much attention. But don’t think of wearing one to a dinner party.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>4</sortorder>
+      <sortorder>0</sortorder>
     </armor>
     <armor>
       <sourceid>1c5f484a-996c-4518-bf23-677a506b2ea5</sourceid>
@@ -2021,7 +2593,7 @@ Custom jobs are, naturally, more expensive.</notes>
       <armormods />
       <bonus />
       <wirelessbonus />
-      <location />
+      <location>66ab6c44-a87f-4c60-bbf2-9d9089f02bd0</location>
       <notes>FOREARM GUARDS
 Simple and rarely stylish, forearm guards are dermaplast (or, rarely, metallic) bracers fitted to a wearer.
 Their use is simple—use them to block melee attacks, especially blades, turning blows away without actually cutting into you.
@@ -2035,7 +2607,7 @@ See? &lt;PIC_LINK&gt; &gt; /dev/grrl &gt; A pink cyberdeck holster with unicorns
 &gt; Bull</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </armor>
     <armor>
       <sourceid>dceda713-a138-4161-8bd2-b909ffed7f85</sourceid>
@@ -2138,6 +2710,268 @@ This characteristic employs all the Custom Fit rules, but in addition these item
 This feature means things are either more easily hidden beneath the girth or length of the piece, or the design of the piece means it is less likely to be detected. Keep a little bit of realism in mind—no matter what the dice pool says, you cannot hide an assault cannon inside assless chaps.</notes>
           <notesColor>Chocolate</notesColor>
           <discountedcost>False</discountedcost>
+          <sortorder>9</sortorder>
+        </armormod>
+        <armormod>
+          <guid>2707fafd-2dd0-44a4-ac58-169e4ea0d1d8</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>1</sortorder>
+        </armormod>
+        <armormod>
+          <guid>91bfee36-5a56-4eff-8cf0-d77e4f1e3f85</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>2</sortorder>
+        </armormod>
+        <armormod>
+          <guid>b2e10474-fe76-4f0d-92aa-d0b6c6f0bd83</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>3</sortorder>
+        </armormod>
+        <armormod>
+          <guid>f47ed535-7e0b-4b7e-9e27-57143ffbd803</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>4</sortorder>
+        </armormod>
+        <armormod>
+          <guid>120e2780-a35e-434c-bdda-96ff7fd4bf47</guid>
+          <sourceid>851f226f-2116-4001-8937-408d4570396e</sourceid>
+          <name>AR Fashion</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>CA</source>
+          <page>138</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>AR FASHION
+This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>5</sortorder>
+        </armormod>
+        <armormod>
+          <guid>944dcbe9-47f3-4cbf-aed6-12ffb2e3fbaf</guid>
+          <sourceid>dd246520-7306-40fb-88b4-c9cb031208fc</sourceid>
+          <name>Fire Resistance</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>3</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="fireresistance">
+            <firearmor>Rating</firearmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Fire resistance: Fire-retardant, nonflammable ma- terials protect the wearer against Fire damage (p. 171). Add the full rating of the Fire Resistance modification to the Armor value when resisting Fire attacks or checking if the armor catches fire.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>6</sortorder>
+        </armormod>
+        <armormod>
+          <guid>4aa9d180-c19b-49bb-bb1a-3fba2f4bbf54</guid>
+          <sourceid>0cfb049a-a1bd-4daa-96be-9468c37d9c3c</sourceid>
+          <name>Nonconductivity</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>3</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="nonconductivity">
+            <electricityarmor>Rating</electricityarmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>438</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Nonconductivity: Electrical insulation and non-con- ductive materials protect the wearer against Electricity damage (p. 170). Add the full rating of this modification to the Armor value when resisting Electricity attacks.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>7</sortorder>
+        </armormod>
+        <armormod>
+          <guid>1de98163-76e8-4d34-bfab-2bdb0e4b17a7</guid>
+          <sourceid>497b5d6b-df0c-401d-91de-42a224b1fa87</sourceid>
+          <name>Insulation</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="insulation">
+            <coldarmor>Rating</coldarmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Insulation: Thermal fibers and heat-retentive mate- rials protect the wearer against Cold damage (p. 170). Add the full rating of the Insulation modification to the Armor value when resisting Cold attacks.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>8</sortorder>
+        </armormod>
+        <armormod>
+          <guid>9de5957b-c445-43dd-b438-b3c7289a4e9e</guid>
+          <sourceid>480b7c5d-758b-4833-8bfd-9487e2455f7d</sourceid>
+          <name>Chemical Protection</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="chemicalprotection">
+            <toxincontactresist>Rating</toxincontactresist>
+            <pathogencontactresist>Rating</pathogencontactresist>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Chemical protection: Water-resistant, non-porous, impermeable materials, and a coating of neutraliz- ing agents protect the wearer against contact-vector chemical attacks (Toxins, Drugs and BTLs, p. 408). Add the rating of the Chemical Protection modification to tests made to resist contact-vector toxin attacks.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
           <sortorder>0</sortorder>
         </armormod>
       </armormods>
@@ -2154,13 +2988,339 @@ This feature means things are either more easily hidden beneath the girth or len
           <bonus>1</bonus>
         </skillcategory>
       </wirelessbonus>
-      <location />
+      <location>1fd3a6e3-0517-48c5-86c0-6873cd7d079d</location>
       <notes>MORTIMER OF LONDON
 Not exactly fashion-forward, but classic enough to always stay near the height of fashion. Mortimer has stuck with the classics, anchored around the venerable Berwick line. All pieces are custom tailored and fit, and I especially love that they include custom tailoring to fit “exceptional physical aspects” of their individual customers. Original pieces have to be sat for with a Mortimer certified tailor.
 I have a pretty solid stock of “lightly worn” Mortimer from some of his past lines. They lack the custom-cut features, but they can still have the important effect of making you look classier than you really are. The Crimson Sky and Summit lines from back in the early ’60s have aged quite well. And though they lack some of the wireless perks of many modern armors, they still stop bullets.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
       <sortorder>0</sortorder>
+    </armor>
+    <armor>
+      <sourceid>31c68476-6328-476a-ae8a-94f65d505a04</sourceid>
+      <guid>e122fd19-6023-4f43-a4b3-9f15389b8dd6</guid>
+      <name>Clothing</name>
+      <category>Clothing</category>
+      <armor>0</armor>
+      <armoroverride />
+      <armorcapacity>0</armorcapacity>
+      <avail>0</avail>
+      <cost>20</cost>
+      <weight />
+      <source>SR5</source>
+      <page>437</page>
+      <armorname />
+      <equipped>True</equipped>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <wirelesson>False</wirelesson>
+      <canformpersona />
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods>
+        <armormod>
+          <guid>74006f9f-99d4-4996-8b06-057482d1160f</guid>
+          <sourceid>9ee8e6ad-2472-485d-ae42-d1978749b456</sourceid>
+          <name>Electrochromic Clothing</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>+2</avail>
+          <cost>500</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>437</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Electrochromic clothing: Electrochromic threads can change color with voltage, letting you alter the color of your clothing or display text, images, or patterns. This is good for fashion, but great for vanishing into a crowd if you need a quick costume change. You can even get armored clothing in electrochromic styles. It takes a Simple Action to change the settings on your electro- chromic clothes, but a couple of Combat Turns to com- plete the change.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>a99334b0-b919-4384-938a-bb30aeb8d577</guid>
+          <sourceid>851f226f-2116-4001-8937-408d4570396e</sourceid>
+          <name>AR Fashion</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>CA</source>
+          <page>138</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>AR FASHION
+This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+      </armormods>
+      <bonus />
+      <wirelessbonus />
+      <location>bd826add-fe74-4fd9-b149-19d1763e8d04</location>
+      <notes>Clothing: Clothing in 2075 comes with amazing features you’ll likely completely take for granted. Commlinks, music players, and other electronic de- vices can be woven right into the fabric, powered by interwoven batteries or special energy-gathering fab- rics. On the other side of the economy, cheap soy- based “flats” can be had for five nuyen per article of clothing from vending machines around the Sprawl. The more money you spend on your threads, the more impressive you look.</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <sortorder>0</sortorder>
+    </armor>
+    <armor>
+      <sourceid>de7aa792-a274-46dc-a89a-970d08afa814</sourceid>
+      <guid>1ce8c0d7-68fc-46c5-a753-60c29e8572a4</guid>
+      <name>Mortimer of London: Summit Dress</name>
+      <category>High-Fashion Armor Clothing</category>
+      <armor>7</armor>
+      <armoroverride />
+      <armorcapacity>5</armorcapacity>
+      <avail>7</avail>
+      <cost>2200</cost>
+      <weight />
+      <source>RG</source>
+      <page>58</page>
+      <armorname />
+      <equipped>True</equipped>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <wirelesson>False</wirelesson>
+      <canformpersona />
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods>
+        <armormod>
+          <guid>97efbf28-e4f0-4c9a-a12e-2ebcf7ab1287</guid>
+          <sourceid>38168e21-833e-4ab3-8e5c-186468b70ef9</sourceid>
+          <name>Custom Fit</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>0</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>RG</source>
+          <page>59</page>
+          <included>True</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>CUSTOM FIT
+Items that are Custom Fit were measured for a specific person.
+They are specially designed for that person and don’t fit well on anyone else, therefore conferring none of the positive Social Limit adjustments to the character. When an item is Custom Fit, any changes to an individual’s Physical Attributes, whether through Karma advancement or augmentation (but not through magic), require the suit to be refit. The refit process requires an Armorer shop and an Armorer + Logic [Mental] (10, 1 hour) Extended Test.
+The owner can also use their Contacts to help them get the job done, requiring loss of the armor for one week and a payment of 25 percent of the initial armor cost.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+        <armormod>
+          <guid>62b14aca-659a-46ef-83d8-4856656e0b30</guid>
+          <sourceid>6226742c-d950-46af-af1a-fc483e14be5c</sourceid>
+          <name>Concealability</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <gearcapacity />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>0</avail>
+          <cost>0</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>RG</source>
+          <page>59</page>
+          <included>True</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>CONCEALABILITY
+This feature means things are either more easily hidden beneath the girth or length of the piece, or the design of the piece means it is less likely to be detected. Keep a little bit of realism in mind—no matter what the dice pool says, you cannot hide an assault cannon inside assless chaps.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>4</sortorder>
+        </armormod>
+        <armormod>
+          <guid>4c843bd1-b09e-4a90-a4d8-7358a4152f2a</guid>
+          <sourceid>c3ea670b-45e7-4b75-a85d-1801c91d1c8c</sourceid>
+          <name>Faraday Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>7R</avail>
+          <cost>50</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>FARADAY POCKET
+The armor has a small pocket with a signal-blocking insert. No wireless signals can penetrate this pocket.
+Cutting off your wireless access to avoid tracking is as simple as dropping your commlink into this pocket.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>1</sortorder>
+        </armormod>
+        <armormod>
+          <guid>d217f6c8-3909-4ee0-bcaf-92c0c2f29397</guid>
+          <sourceid>4e673143-6a61-4075-95c6-1950b9eda8e0</sourceid>
+          <name>Concealed Pocket</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[1]</armorcapacity>
+          <gearcapacity />
+          <maxrating>1</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>4</avail>
+          <cost>40</cost>
+          <weight />
+          <bonus />
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>HT</source>
+          <page>185</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>2</sortorder>
+        </armormod>
+        <armormod>
+          <guid>e3c91698-b144-495f-9a05-38d41c33b2ad</guid>
+          <sourceid>ba32a6e9-4e6f-47fe-8fd7-c3194a5174d6</sourceid>
+          <name>Thermal Damping</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>10R</avail>
+          <cost>Rating * 500</cost>
+          <weight />
+          <bonus>
+            <limitmodifier>
+              <limit>Physical</limit>
+              <value>Rating</value>
+              <condition>LimitCondition_TestSneakingThermal</condition>
+            </limitmodifier>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>438</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Thermal damping: Designed to reduce your thermal signature, these inner layers capture or bleed heat, so the outer layers maintain a surface temperature equal to the surrounding air. Add the rating to your limit on any Sneak- ing test against thermographic vision or thermal sensors.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>3</sortorder>
+        </armormod>
+      </armormods>
+      <bonus>
+        <limitmodifier>
+          <limit>Social</limit>
+          <value>1</value>
+          <condition>LimitCondition_Visible</condition>
+        </limitmodifier>
+      </bonus>
+      <wirelessbonus>
+        <skillcategory>
+          <name>Social Active</name>
+          <bonus>1</bonus>
+        </skillcategory>
+      </wirelessbonus>
+      <location>1fd3a6e3-0517-48c5-86c0-6873cd7d079d</location>
+      <notes>MORTIMER OF LONDON
+Not exactly fashion-forward, but classic enough to always stay near the height of fashion. Mortimer has stuck with the classics, anchored around the venerable Berwick line. All pieces are custom tailored and fit, and I especially love that they include custom tailoring to fit “exceptional physical aspects” of their individual customers. Original pieces have to be sat for with a Mortimer certified tailor.
+I have a pretty solid stock of “lightly worn” Mortimer from some of his past lines. They lack the custom-cut features, but they can still have the important effect of making you look classier than you really are. The Crimson Sky and Summit lines from back in the early ’60s have aged quite well. And though they lack some of the wireless perks of many modern armors, they still stop bullets.</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <sortorder>1</sortorder>
     </armor>
   </armors>
   <weapons>
@@ -2329,7 +3489,7 @@ If used as weapons, treat as retractable hand razors, but reduce the Physical li
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
@@ -2414,23 +3574,23 @@ If used as weapons, treat as retractable hand razors, but reduce the Physical li
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
       <weapontype>melee</weapontype>
     </weapon>
     <weapon>
-      <sourceid>060cbbd5-3413-4e57-8c7a-5ee3d2e94945</sourceid>
-      <guid>3231de1e-e30d-4fe1-b24a-456b100102aa</guid>
-      <name>Ultimax 70</name>
-      <category>Machine Pistols</category>
-      <type>Ranged</type>
-      <spec>Semi-Automatics</spec>
+      <sourceid>7bc2f035-ce0d-4f0a-8c14-dd62fdb3f4f4</sourceid>
+      <guid>ddb56947-1938-42f1-a71f-f1cac4000d66</guid>
+      <name>Lone Star Bates-Brown Tactical Combat Boots</name>
+      <category>Unarmed</category>
+      <type>Melee</type>
+      <spec />
       <spec2 />
       <reach>0</reach>
-      <damage>6P</damage>
-      <ap>-</ap>
-      <mode>BF/FA</mode>
+      <damage>({STR}+2)P</damage>
+      <ap>-4</ap>
+      <mode>0</mode>
       <rc>0</rc>
-      <ammo>15(c)</ammo>
+      <ammo>0</ammo>
       <cyberware>False</cyberware>
       <ammocategory />
       <ammoslots>1</ammoslots>
@@ -2439,13 +3599,13 @@ If used as weapons, treat as retractable hand razors, but reduce the Physical li
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <accuracy>5</accuracy>
+      <accuracy>4</accuracy>
       <activeammoslot>1</activeammoslot>
       <conceal>0</conceal>
-      <avail>7R</avail>
-      <cost>800</cost>
+      <avail>10</avail>
+      <cost>250</cost>
       <weight />
-      <useskill />
+      <useskill>Unarmed Combat</useskill>
       <useskillspec />
       <range />
       <alternaterange />
@@ -2460,281 +3620,23 @@ If used as weapons, treat as retractable hand razors, but reduce the Physical li
       <allowlongburst>True</allowlongburst>
       <allowfullburst>True</allowfullburst>
       <allowsuppressive>True</allowsuppressive>
-      <source>RG</source>
-      <page>35</page>
+      <source>SL</source>
+      <page>131</page>
       <parentid />
       <allowaccessory>True</allowaccessory>
       <weaponname />
       <included>False</included>
       <equipped>True</equipped>
       <requireammo>True</requireammo>
-      <accuracy>5</accuracy>
+      <accuracy>4</accuracy>
       <mount />
       <stolen>False</stolen>
       <extramount />
-      <accessories>
-        <accessory>
-          <sourceid>b3827611-f631-461e-8660-e744593ba2d2</sourceid>
-          <guid>44bbc3d5-14d7-446a-a94a-9e639ae2ebe2</guid>
-          <name>Gas-Vent 2 System</name>
-          <mount>Internal</mount>
-          <extramount>None</extramount>
-          <rc>2</rc>
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>6R</avail>
-          <cost>400</cost>
-          <weight />
-          <included>True</included>
-          <equipped>True</equipped>
-          <source>SR5</source>
-          <page>431</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes />
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>True</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-          <parentid />
-        </accessory>
-        <accessory>
-          <sourceid>521f9c2e-dfb2-42a6-b707-9808ae4885de</sourceid>
-          <guid>6accaf4f-3cc4-4e3e-b3bf-a23a56c5c221</guid>
-          <name>Laser Sight</name>
-          <mount>Internal</mount>
-          <extramount>None</extramount>
-          <rc />
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>2</avail>
-          <cost>125</cost>
-          <weight />
-          <included>True</included>
-          <equipped>True</equipped>
-          <source>SR5</source>
-          <page>432</page>
-          <accuracy>1</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes>Laser sight: This device uses a laser beam to project a visible dot (in your choice of colors) on the target. This increases the weapon’s Accuracy by 1, which is not cu- mulative with smartlink modifiers. The laser sight can be attached to either the underbarrel mount or top mount. Activating or deactivating a laser sight is a Simple Action.</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>True</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-          <parentid />
-        </accessory>
-        <accessory>
-          <sourceid>7f66a669-917a-4423-bd83-cf0e0a1fb2a8</sourceid>
-          <guid>819e44c0-06a9-400e-9b06-123fa86d0727</guid>
-          <name>Concealable Holster</name>
-          <mount>None</mount>
-          <extramount>None</extramount>
-          <rc />
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal>-1</conceal>
-          <avail>2</avail>
-          <cost>150</cost>
-          <weight />
-          <included>False</included>
-          <equipped>True</equipped>
-          <source>SR5</source>
-          <page>431</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>0</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes>Concealable holster: This small holster can be worn on the ankle, clipped to the forearm, in the small of the back, or anywhere else it’s unlikely to be seen. The con- cealable holster adds –1 to the item’s Concealability (p. 419). Only pistols and tasers fit in a Concealable Holster.</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>True</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-          <parentid />
-        </accessory>
-        <accessory>
-          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
-          <guid>f0b749f9-fe3d-45f4-a067-07083dffd1fe</guid>
-          <name>Spare Clip</name>
-          <mount>None</mount>
-          <extramount>None</extramount>
-          <rc />
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>4</avail>
-          <cost>5</cost>
-          <weight />
-          <included>False</included>
-          <equipped>True</equipped>
-          <source>SR5</source>
-          <page>433</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>1</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>True</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-          <parentid />
-        </accessory>
-        <accessory>
-          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
-          <guid>0e3ca59d-c76f-47c7-bc81-7c6d3f10316b</guid>
-          <name>Spare Clip</name>
-          <mount>None</mount>
-          <extramount>None</extramount>
-          <rc />
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <rcgroup>0</rcgroup>
-          <rcdeployable>False</rcdeployable>
-          <specialmodification>False</specialmodification>
-          <conceal />
-          <avail>4</avail>
-          <cost>5</cost>
-          <weight />
-          <included>False</included>
-          <equipped>True</equipped>
-          <source>SR5</source>
-          <page>433</page>
-          <accuracy>0</accuracy>
-          <ammoreplace />
-          <ammoslots>1</ammoslots>
-          <modifyammocapacity />
-          <damagetype />
-          <damage />
-          <reach>0</reach>
-          <damagereplace />
-          <firemode />
-          <firemodereplace />
-          <ap />
-          <apreplace />
-          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <singleshot>0</singleshot>
-          <shortburst>0</shortburst>
-          <longburst>0</longburst>
-          <fullburst>0</fullburst>
-          <suppressive>0</suppressive>
-          <rangebonus>0</rangebonus>
-          <rangemodifier>0</rangemodifier>
-          <extra />
-          <ammobonus />
-          <wirelesson>True</wirelesson>
-          <wirelessbonus />
-          <stolen>False</stolen>
-          <sortorder>0</sortorder>
-          <parentid />
-        </accessory>
-      </accessories>
       <location />
-      <notes>ULTIMAX 70
-Originally designed for clandestine operation, the lack of wireless systems from the firearm makes it popular for concealed carry. With an integrated laser sight and gas-vent system, it is accurate and easy to control in burst fire, but it also has the capacity to suppress opponents for a short time. Ultimax continues to have a lack of modern (read: wireless) accessories factory installed, but it offers a host of after-market modifications.</notes>
+      <notes />
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <weaponslots>Stock/Side/Barrel/Top</weaponslots>
+      <weaponslots />
       <doubledcostweaponslots />
       <active>False</active>
       <homenode>False</homenode>
@@ -2755,8 +3657,8 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
-      <weapontype>gun</weapontype>
+      <sortorder>3</sortorder>
+      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>a92933cb-0c81-4b54-aeb1-ddc24836775d</sourceid>
@@ -2838,8 +3740,714 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
       <weapontype>melee</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>6596b05e-d51b-4388-b57a-950d9b5a96ac</sourceid>
+      <guid>d4efa985-bef8-4ba0-9dc2-9d4e729c218e</guid>
+      <name>Remington Suppressor</name>
+      <category>Machine Pistols</category>
+      <type>Ranged</type>
+      <spec>Semi-Automatics</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>7P</damage>
+      <ap>-1</ap>
+      <mode>SA/BF</mode>
+      <rc>0</rc>
+      <ammo>15(c)</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>DogBrain</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <accuracy>6</accuracy>
+      <activeammoslot>1</activeammoslot>
+      <conceal>0</conceal>
+      <avail>6R</avail>
+      <cost>700</cost>
+      <weight />
+      <useskill />
+      <useskillspec />
+      <range />
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>GH3</source>
+      <page>9</page>
+      <parentid />
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>6</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <accessories>
+        <accessory>
+          <sourceid>3c329adb-7c13-4d2c-b25c-49be89173fa1</sourceid>
+          <guid>2081153c-5064-4fc6-899a-ff632ca1860c</guid>
+          <name>Sound Suppressor</name>
+          <mount>Internal</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>9F</avail>
+          <cost>500</cost>
+          <weight />
+          <included>True</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>It applies a –4 dice pool modifier on all Perception Tests to notice the weapon’s use or locate the weapon’s firer. Attaching or removing a silencer takes a Complex Action.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>0</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>5cc39a55-3973-4368-81ee-c7a5c0432323</sourceid>
+          <guid>367f927c-ae6c-43ac-b63c-e19f00220f29</guid>
+          <name>Chameleon Coating (Pistol)</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal>-2</conceal>
+          <avail>10R</avail>
+          <cost>1000</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>HT</source>
+          <page>180</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>1</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>ea64527d-0e1e-4248-957b-7c02d79dad30</sourceid>
+          <guid>43de76f9-e7b3-46e6-b26f-8edd1877914c</guid>
+          <name>Concealed Quick-Draw Holster</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal>-1</conceal>
+          <avail>6</avail>
+          <cost>275</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>2</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>d40d2fc6-3aad-4793-843d-20e3597b2365</sourceid>
+          <guid>01e4c7a9-7cd6-4afd-83cb-db0aa93035bd</guid>
+          <name>Extended Clip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>2</maxrating>
+          <rating>2</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal>Rating</conceal>
+          <avail>6R</avail>
+          <cost>35</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>HT</source>
+          <page>180</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>EXTENDED CLIP
+Sometimes the job calls for the ability to ire more shots without taking time to reload. That is what an extended</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus>50 * Rating</ammobonus>
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>3</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>f8090e1f-424a-4298-a5d9-f2e6d650ef39</sourceid>
+          <guid>4bd08b1d-1871-46ab-bbcd-f1032e10a6d5</guid>
+          <name>Folding Stock</name>
+          <mount>Stock</mount>
+          <extramount>None</extramount>
+          <rc>1</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>2</rcgroup>
+          <rcdeployable>True</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>30</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>51</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>4</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>6b06cf52-04fa-4034-bb10-2bcdd58c4bfb</sourceid>
+          <guid>733191fa-7906-42d8-8930-8660dfc575bf</guid>
+          <name>Gas-Vent 3 System</name>
+          <mount>Barrel</mount>
+          <extramount>None</extramount>
+          <rc>3</rc>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>9R</avail>
+          <cost>600</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>431</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>5</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>521f9c2e-dfb2-42a6-b707-9808ae4885de</sourceid>
+          <guid>851d0e04-1624-4640-bd5c-7a542cd577b6</guid>
+          <name>Laser Sight</name>
+          <mount>Top</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>125</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>432</page>
+          <accuracy>1</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Laser sight: This device uses a laser beam to project a visible dot (in your choice of colors) on the target. This increases the weapon’s Accuracy by 1, which is not cu- mulative with smartlink modifiers. The laser sight can be attached to either the underbarrel mount or top mount. Activating or deactivating a laser sight is a Simple Action.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>6</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>a1865555-8ad5-43ec-a30e-b7d77e804fab</sourceid>
+          <guid>27154da0-152a-4278-9fee-1f9afe1d79be</guid>
+          <name>Sling</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>0</avail>
+          <cost>15</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>52</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>7</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>85b01b5c-c788-4b43-8190-9e0c18391436</sourceid>
+          <guid>7eba63a6-ae31-49da-b646-86e3e847418d</guid>
+          <name>Personalized Grip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>2</avail>
+          <cost>100</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>HT</source>
+          <page>182</page>
+          <accuracy>1</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>PERSONALIZED GRIP
+This modiication allows a weapon’s owner to customize a weapon to it the size and shape of their hand perfectly. This is particularly useful for metatypes at the high and low end of the bell curve for standard metahuman size. This modiication increases a weapon’s Accuracy by 1.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>8</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>de62b79f-2864-4023-a286-6c1f270aade3</sourceid>
+          <guid>9c2c5de3-a242-40f3-b27c-e9e1209ec29d</guid>
+          <name>Slide Mount</name>
+          <mount>Side</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>500</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>RG</source>
+          <page>52</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>0</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes />
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>9</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
+          <guid>e5796068-4ed1-4fb6-bce9-4c37e963b779</guid>
+          <name>Spare Clip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>5</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>1</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>10</sortorder>
+          <parentid />
+        </accessory>
+        <accessory>
+          <sourceid>4ed24342-276e-4455-acba-22b551e4d775</sourceid>
+          <guid>358c39d3-fb3b-4bf4-a911-4cea76ae7fa3</guid>
+          <name>Spare Clip</name>
+          <mount>None</mount>
+          <extramount>None</extramount>
+          <rc />
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <rcgroup>0</rcgroup>
+          <rcdeployable>False</rcdeployable>
+          <specialmodification>False</specialmodification>
+          <conceal />
+          <avail>4</avail>
+          <cost>5</cost>
+          <weight />
+          <included>False</included>
+          <equipped>True</equipped>
+          <source>SR5</source>
+          <page>433</page>
+          <accuracy>0</accuracy>
+          <ammoreplace />
+          <ammoslots>1</ammoslots>
+          <modifyammocapacity />
+          <damagetype />
+          <damage />
+          <reach>0</reach>
+          <damagereplace />
+          <firemode />
+          <firemodereplace />
+          <ap />
+          <apreplace />
+          <notes>Spare clip: A spare clip comes unloaded but can hold the maximum rounds for the weapon. Each clip is spe- cific to the weapon you buy it for, but they all cost the same. And yes, it’s technically a detachable box maga- zine, but the Cityspeak word for it is so popular these days that even the catalogs call them clips.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <singleshot>0</singleshot>
+          <shortburst>0</shortburst>
+          <longburst>0</longburst>
+          <fullburst>0</fullburst>
+          <suppressive>0</suppressive>
+          <rangebonus>0</rangebonus>
+          <rangemodifier>0</rangemodifier>
+          <extra />
+          <ammobonus />
+          <wirelesson>True</wirelesson>
+          <wirelessbonus />
+          <stolen>False</stolen>
+          <sortorder>11</sortorder>
+          <parentid />
+        </accessory>
+      </accessories>
+      <location />
+      <notes>REMINGTON SUPPRESSOR
+(MACHINE PISTOL)
+The first modern automatic pistol design offered by Remington, the Suppressor is intended for paramilitary organizations and government agencies requiring compact automatic weapons. The design integrates a number of European stylistic elements with modern automated manufacturing quality control methods, resulting in finely tuned tolerances intended to allow the user to accurately engage any target. The weapon is shipped with a detachable sound suppressor, allowing the user to reduce their audio signature at the expense of concealment.
+Standard Upgrades/Accessories: Sound Suppressor &gt; The pistol is decent but not outstanding. I found it comfortable the one time I carried it, but I prefer the Ares Crusader II for its gas-vent.
+&gt; Hard Exit &gt; I’ve had a hard time keeping them in stock since I managed to find a supplier. There are a number of small gangs and criminal organizations creating a decent demand for it right now.
+&gt; Red Anya &gt; The heavier round helps put down the opposition, but I’m not fond of a weapon I can’t suppress hostiles with.
+&gt; Sticks &gt; Or anything not Ares made.
+&gt; Slamm-0!</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <weaponslots>Stock/Side/Barrel/Top</weaponslots>
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>True</wirelesson>
+      <sortorder>5</sortorder>
+      <weapontype>gun</weapontype>
     </weapon>
     <weapon>
       <sourceid>d0434d89-c035-4793-ba10-3ae13b815b52</sourceid>
@@ -2921,7 +4529,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>6</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3004,7 +4612,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>7</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3087,7 +4695,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>8</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3170,91 +4778,8 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>9</sortorder>
       <weapontype>gear</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>7bc2f035-ce0d-4f0a-8c14-dd62fdb3f4f4</sourceid>
-      <guid>ddb56947-1938-42f1-a71f-f1cac4000d66</guid>
-      <name>Lone Star Bates-Brown Tactical Combat Boots</name>
-      <category>Unarmed</category>
-      <type>Melee</type>
-      <spec />
-      <spec2 />
-      <reach>0</reach>
-      <damage>({STR}+2)P</damage>
-      <ap>-4</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>0</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>DogBrain</firingmode>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <accuracy>4</accuracy>
-      <activeammoslot>1</activeammoslot>
-      <conceal>0</conceal>
-      <avail>10</avail>
-      <cost>250</cost>
-      <weight />
-      <useskill>Unarmed Combat</useskill>
-      <useskillspec />
-      <range />
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>SL</source>
-      <page>131</page>
-      <parentid />
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>4</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <notesColor>Chocolate</notesColor>
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
-      <weapontype>melee</weapontype>
     </weapon>
     <weapon>
       <sourceid>a3fd9a2b-fc58-488b-be61-260bff2cfdca</sourceid>
@@ -3336,7 +4861,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>10</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3419,7 +4944,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>11</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3502,7 +5027,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>12</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3585,7 +5110,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>13</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3668,7 +5193,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>14</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3751,90 +5276,7 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
-      <weapontype>gear</weapontype>
-    </weapon>
-    <weapon>
-      <sourceid>bb4e9274-2cf0-4c73-a312-f1b51649d1bc</sourceid>
-      <guid>d240e2dc-f98e-4c6e-a72d-94d107e4a2e1</guid>
-      <name>Grenade: Smokebomb</name>
-      <category>Gear</category>
-      <type>Ranged</type>
-      <spec>Non-Aerodynamic</spec>
-      <spec2 />
-      <reach>0</reach>
-      <damage>(3m Radius)</damage>
-      <ap>-</ap>
-      <mode>0</mode>
-      <rc>0</rc>
-      <ammo>1</ammo>
-      <cyberware>False</cyberware>
-      <ammocategory />
-      <ammoslots>1</ammoslots>
-      <sizecategory />
-      <firingmode>DogBrain</firingmode>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <accuracy>Physical</accuracy>
-      <activeammoslot>1</activeammoslot>
-      <conceal>0</conceal>
-      <avail>6</avail>
-      <cost>0</cost>
-      <weight />
-      <useskill>Throwing Weapons</useskill>
-      <useskillspec />
-      <range>Standard Grenade</range>
-      <alternaterange />
-      <rangemultiply>1</rangemultiply>
-      <singleshot>1</singleshot>
-      <shortburst>3</shortburst>
-      <longburst>6</longburst>
-      <fullburst>10</fullburst>
-      <suppressive>20</suppressive>
-      <allowsingleshot>True</allowsingleshot>
-      <allowshortburst>True</allowshortburst>
-      <allowlongburst>True</allowlongburst>
-      <allowfullburst>True</allowfullburst>
-      <allowsuppressive>True</allowsuppressive>
-      <source>HT</source>
-      <page>187</page>
-      <parentid>62dee932-4ba7-41e3-8215-c7f11df9282a</parentid>
-      <allowaccessory>True</allowaccessory>
-      <weaponname />
-      <included>False</included>
-      <equipped>True</equipped>
-      <requireammo>True</requireammo>
-      <accuracy>Physical</accuracy>
-      <mount />
-      <stolen>False</stolen>
-      <extramount />
-      <location />
-      <notes />
-      <notesColor>Chocolate</notesColor>
-      <discountedcost>False</discountedcost>
-      <weaponslots />
-      <doubledcostweaponslots />
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <wirelessbonus />
-      <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>15</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
     <weapon>
@@ -3917,7 +5359,90 @@ Originally designed for clandestine operation, the lack of wireless systems from
       <matrixcmfilled>0</matrixcmfilled>
       <wirelessbonus />
       <wirelesson>True</wirelesson>
-      <sortorder>0</sortorder>
+      <sortorder>16</sortorder>
+      <weapontype>gear</weapontype>
+    </weapon>
+    <weapon>
+      <sourceid>bb4e9274-2cf0-4c73-a312-f1b51649d1bc</sourceid>
+      <guid>d240e2dc-f98e-4c6e-a72d-94d107e4a2e1</guid>
+      <name>Grenade: Smokebomb</name>
+      <category>Gear</category>
+      <type>Ranged</type>
+      <spec>Non-Aerodynamic</spec>
+      <spec2 />
+      <reach>0</reach>
+      <damage>(3m Radius)</damage>
+      <ap>-</ap>
+      <mode>0</mode>
+      <rc>0</rc>
+      <ammo>1</ammo>
+      <cyberware>False</cyberware>
+      <ammocategory />
+      <ammoslots>1</ammoslots>
+      <sizecategory />
+      <firingmode>DogBrain</firingmode>
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <accuracy>Physical</accuracy>
+      <activeammoslot>1</activeammoslot>
+      <conceal>0</conceal>
+      <avail>6</avail>
+      <cost>0</cost>
+      <weight />
+      <useskill>Throwing Weapons</useskill>
+      <useskillspec />
+      <range>Standard Grenade</range>
+      <alternaterange />
+      <rangemultiply>1</rangemultiply>
+      <singleshot>1</singleshot>
+      <shortburst>3</shortburst>
+      <longburst>6</longburst>
+      <fullburst>10</fullburst>
+      <suppressive>20</suppressive>
+      <allowsingleshot>True</allowsingleshot>
+      <allowshortburst>True</allowshortburst>
+      <allowlongburst>True</allowlongburst>
+      <allowfullburst>True</allowfullburst>
+      <allowsuppressive>True</allowsuppressive>
+      <source>HT</source>
+      <page>187</page>
+      <parentid>62dee932-4ba7-41e3-8215-c7f11df9282a</parentid>
+      <allowaccessory>True</allowaccessory>
+      <weaponname />
+      <included>False</included>
+      <equipped>True</equipped>
+      <requireammo>True</requireammo>
+      <accuracy>Physical</accuracy>
+      <mount />
+      <stolen>False</stolen>
+      <extramount />
+      <location />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <weaponslots />
+      <doubledcostweaponslots />
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <wirelessbonus />
+      <wirelesson>True</wirelesson>
+      <sortorder>17</sortorder>
       <weapontype>gear</weapontype>
     </weapon>
   </weapons>
@@ -4052,20 +5577,20 @@ Originally designed for clandestine operation, the lack of wireless systems from
           <sortorder>0</sortorder>
         </cyberware>
         <cyberware>
-          <guid>4e0ab097-3ecc-4512-8a2c-742b404e3b0e</guid>
-          <sourceid>3785a2cf-c3df-476a-b7cd-6e224ea77ab0</sourceid>
-          <name>Damper</name>
+          <guid>c2e18fd1-ba89-4f68-9de0-5ccd55544967</guid>
+          <sourceid>31d82330-4650-4550-aa90-c314a189f897</sourceid>
+          <name>Balance Augmenter</name>
           <category>Earware</category>
           <limbslot />
           <limbslotcount>1</limbslotcount>
           <inheritattributes>False</inheritattributes>
           <ess>0.1</ess>
-          <capacity>[1]</capacity>
-          <avail>6</avail>
-          <cost>2250</cost>
+          <capacity>[4]</capacity>
+          <avail>8</avail>
+          <cost>8000</cost>
           <weight />
           <source>SR5</source>
-          <page>454</page>
+          <page>453</page>
           <parentid />
           <hasmodularmount />
           <plugsintomodularmount />
@@ -4089,22 +5614,20 @@ Originally designed for clandestine operation, the lack of wireless systems from
           <matrixcmfilled>0</matrixcmfilled>
           <matrixcmbonus>0</matrixcmbonus>
           <prototypetranshuman>False</prototypetranshuman>
-          <bonus>
-            <sonicresist>2</sonicresist>
-          </bonus>
+          <bonus />
           <pairbonus />
           <wirelessbonus />
           <wirelesspairbonus />
           <improvementsource>Cyberware</improvementsource>
           <pairinclude>
-            <name>Damper</name>
+            <name>Balance Augmenter</name>
           </pairinclude>
           <wirelesspairinclude>
-            <name>Damper</name>
+            <name>Balance Augmenter</name>
           </wirelesspairinclude>
           <children />
-          <notes>Damper: This implant protects the user from sudden increases in sound as well as damaging sound levels. The damper adds a +2 dice pool bonus to resisting sonic attacks, including flashbangs.</notes>
-          <notesColor>Chocolate</notesColor>
+          <notes>Balance augmenter: The balance augmenter enhances the inner ear’s natural balance mechanism. You receive one bonus die on all tests involving balance, such as climbing, walking across a narrow platform, landing after a jump, and so on.</notes>
+          <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
           <addtoparentess>False</addtoparentess>
           <addtoparentcapacity>False</addtoparentcapacity>
@@ -5296,20 +6819,20 @@ While sold individually, each pair a user has grants +1 damage for Unarmed Comba
       <sortorder>0</sortorder>
     </cyberware>
     <cyberware>
-      <guid>753c9d53-4bd1-4aac-88e4-8fd7383be2b6</guid>
-      <sourceid>4a529d50-45cd-4f2d-8766-4ecd7c15f292</sourceid>
-      <name>Hyperthymesia</name>
-      <category>Exotic Metagenetics</category>
+      <guid>466fce79-116a-4a22-a9a5-f1d200a645c7</guid>
+      <sourceid>f84dc64d-a158-45bd-b81c-0a8c98f77415</sourceid>
+      <name>Sharkskin</name>
+      <category>Orthoskin Upgrades</category>
       <limbslot />
       <limbslotcount>1</limbslotcount>
       <inheritattributes>False</inheritattributes>
-      <ess>0.1</ess>
+      <ess>0.25</ess>
       <capacity>0</capacity>
-      <avail>10</avail>
-      <cost>15000</cost>
+      <avail>8</avail>
+      <cost>8000</cost>
       <weight />
       <source>CF</source>
-      <page>159</page>
+      <page>116</page>
       <parentid />
       <hasmodularmount />
       <plugsintomodularmount />
@@ -5321,7 +6844,7 @@ While sold individually, each pair a user has grants +1 damage for Unarmed Comba
       <ratinglabel>String_Rating</ratinglabel>
       <subsystems />
       <wirelesson>False</wirelesson>
-      <grade>None</grade>
+      <grade>Alphaware</grade>
       <location />
       <extra />
       <suite>False</suite>
@@ -5329,28 +6852,27 @@ While sold individually, each pair a user has grants +1 damage for Unarmed Comba
       <essdiscount>0</essdiscount>
       <extraessadditivemultiplier>0</extraessadditivemultiplier>
       <extraessmultiplicativemultiplier>1</extraessmultiplicativemultiplier>
-      <forcegrade>None</forcegrade>
+      <forcegrade />
       <matrixcmfilled>0</matrixcmfilled>
       <matrixcmbonus>0</matrixcmbonus>
       <prototypetranshuman>False</prototypetranshuman>
       <bonus>
-        <memory>2</memory>
+        <unarmedreach>1</unarmedreach>
       </bonus>
       <pairbonus />
       <wirelessbonus />
       <wirelesspairbonus />
       <improvementsource>Bioware</improvementsource>
       <pairinclude>
-        <name>Hyperthymesia</name>
+        <name>Sharkskin</name>
       </pairinclude>
       <wirelesspairinclude>
-        <name>Hyperthymesia</name>
+        <name>Sharkskin</name>
       </wirelesspairinclude>
       <children />
-      <notes>HYPERTHYMESIA
-This genetic mutation causes an enlarged temporal lobe and caudate nucleus in the brain. This enables you to have true perfect memory. You can recall memories just like you were watching them happen over again.
-You could recall the exact date and day of the week of your twelfth birthday and remember what flavor soycake you had. The downside is that it is hard to forget the bad things you have experienced. This augmentation gives you a +2 on memory related tests, lets you ignore Memory Test glitches, and turns Memory Test critical glitches into regular glitches. Since you also perfectly remember negative experiences, the threshold for Composure Tests that deal with reacting to bad memories (either from events during play or from qualities like Flashbacks or Phobia) increases by 1.</notes>
-      <notesColor>Chocolate</notesColor>
+      <notes>SHARKSKIN
+The user’s skin is coated with denticles, small abrasive lumps comparable to sandpaper. While quite difficult to cause true damage to a target with rubbing, the slow abrasion can lead to skin loss and bleeding, if not mortal wounds. This makes it quite difficult to strike or grapple the user in unarmed combat situations. The user can also scuff objects or pop balloons by simply brushing up against them.</notes>
+      <notesColor>#E3813C</notesColor>
       <discountedcost>False</discountedcost>
       <addtoparentess>False</addtoparentess>
       <addtoparentcapacity>False</addtoparentcapacity>
@@ -5611,11 +7133,39 @@ At the gamemaster’s discretion, the Illness quality can be removed permanently
       <notesColor>Chocolate</notesColor>
     </quality>
     <quality>
-      <sourceid>06078d89-0f12-4f57-99d0-e088847dec7e</sourceid>
-      <guid>e6039b9c-3858-44bf-b963-e22503b10833</guid>
-      <name>Lack of Focus</name>
+      <sourceid>ba27345f-0e68-4660-9b76-2b999c3a4161</sourceid>
+      <guid>bd97cac7-a3fd-4cb4-ac0c-87ee24f9fe8c</guid>
+      <name>Accident Prone</name>
       <extra />
-      <bp>-6</bp>
+      <bp>-4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>R5</source>
+      <page>33</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>ACCIDENT PRONE
+BONUS: 4 KARMA
+This driving thing—it may not be for you. You have a talent for steering any vehicle you control into whatever wall, tree, or other vehicle may be nearby. You receive a –2 dice pool penalty on any tests involved in directing a vehicle.</notes>
+      <notesColor>#E3813C</notesColor>
+    </quality>
+    <quality>
+      <sourceid>cd75169e-efa4-40aa-a4c8-ee055a5dd748</sourceid>
+      <guid>46dad369-c5af-4b38-9cf5-3de1ebb8190b</guid>
+      <name>Dry Addict (Mild)</name>
+      <extra>Painkillers</extra>
+      <bp>-2</bp>
       <implemented>True</implemented>
       <contributetobp>True</contributetobp>
       <contributetolimit>True</contributetolimit>
@@ -5628,16 +7178,73 @@ At the gamemaster’s discretion, the Illness quality can be removed permanently
       <qualitysource>Selected</qualitysource>
       <mutant>False</mutant>
       <source>CF</source>
-      <page>58</page>
+      <page>57</page>
+      <sourcename />
+      <bonus>
+        <selecttext />
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </quality>
+    <quality>
+      <sourceid>68cfe94a-fa7e-4129-a9b9-b5d73e3ced99</sourceid>
+      <guid>679aac41-8e87-428a-925d-a3408d04102c</guid>
+      <name>Ambidextrous</name>
+      <extra />
+      <bp>4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>SR5</source>
+      <page>71</page>
+      <sourcename />
+      <bonus>
+        <ambidextrous />
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>AMBIDEXTROUS
+COST: 4 KARMA
+The Ambidextrous character can handle objects equally well with either hand. Without this quality, any action performed solely with the off–hand (i.e., firing a gun) suffers a –2 dice pool modifier (see Attacker Using Off-Hand Weapon, p. 1 78).</notes>
+      <notesColor>#E3813C</notesColor>
+    </quality>
+    <quality>
+      <sourceid>d5eaa4c0-7f7c-4eb2-a708-bed460914d0a</sourceid>
+      <guid>bf1803ad-5895-40c9-9f02-0faeee529e21</guid>
+      <name>Daredevil</name>
+      <extra />
+      <bp>6</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>146</page>
       <sourcename />
       <bonus />
       <firstlevelbonus />
       <naturalweapons />
-      <notes>LACK OF FOCUS
-(BONUS: 6 KARMA)
-Characters suffering from attention deficit hyperactivity disorder have difficulty focusing on a single subject for long. When making any Extended Test with an interval greater than five minutes and shorter than one day, or if repeated simple tests are made within a period of time (such as Perception Tests during surveillance), the character must make a Composure (3) Test each interval after the first. The character’s Composure dice pool is cumulatively reduced by 1 for each of these tests, like any other Extended Test.
-Failing the Composure Test indicates the character can no longer focus and must take a break for a minimum of 1 interval, plus any other consequences that result. After the break, the character’s Composure dice pool is refreshed, and the process starts over again.</notes>
-      <notesColor>Chocolate</notesColor>
+      <notes>DAREDEVIL
+COST: 6 KARMA
+Better to be lucky than good, when you’re living on the edge. A character with this quality is particularly lucky when it comes to doing the outrageous. Whenever the character performs an exceptionally daring action (gamemaster’s discretion), she gets two points of Edge back instead of one.</notes>
+      <notesColor>#E3813C</notesColor>
     </quality>
   </qualities>
   <lifestyles />
@@ -5767,7 +7374,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <armorcapacity />
       <minrating />
       <maxrating>6</maxrating>
-      <rating>4</rating>
+      <rating>3</rating>
       <qty>1.0</qty>
       <avail>(Rating * 3)F</avail>
       <cost>Rating * 2500</cost>
@@ -5857,124 +7464,6 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <children>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
-          <guid>39da3a40-3aab-42b0-bf1a-208d8124be21</guid>
-          <name>Fake License</name>
-          <category>ID/Credsticks</category>
-          <capacity />
-          <armorcapacity />
-          <minrating />
-          <maxrating>6</maxrating>
-          <rating>4</rating>
-          <qty>1.0</qty>
-          <avail>(Rating * 3)F</avail>
-          <cost>Rating * 200</cost>
-          <weight />
-          <extra>Restricted Bioware License</extra>
-          <bonded>False</bonded>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <stolen>False</stolen>
-          <bonus>
-            <selectrestricted />
-          </bonus>
-          <wirelessbonus />
-          <weaponbonus />
-          <flechetteweaponbonus />
-          <source>SR5</source>
-          <page>443</page>
-          <isflechetteammo>False</isflechetteammo>
-          <ammoforweapontype />
-          <canformpersona />
-          <devicerating />
-          <gearname />
-          <forcedvalue />
-          <matrixcmfilled>0</matrixcmfilled>
-          <matrixcmbonus>0</matrixcmbonus>
-          <parentid />
-          <allowrename>True</allowrename>
-          <children />
-          <location />
-          <notes>Fake license: For those who can’t or won’t go through the standard legal channels, fake licenses are available for all kinds of restricted items and activities. Items with no letter next to their availability don’t require licenses. Items that are Forbidden have no license available. Licenses, therefore, are for Restricted items. Each type of item/ac- tivity permission requires a separate license. Things that require licenses include hunting (bow and rifle), posses- sion of a firearm, concealed carry of a firearm (separate license), spellcasting, and any Restricted gear or augmen- tations, etc. Just as SINs essentially exist on your com- mlink, fake licenses exist on your SIN and are linked to it. When you buy a fake concealed-carry license, you don’t buy it for Murderman the professional shadowrunner, you buy it for John Doe, one of Murderman’s fake SINs. Each license must be assigned to a particular (fake) SIN of the player’s choosing. Use the fake license’s rating against verification systems (Fake SIN, p. 367).</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <programlimit />
-          <overclocked>None</overclocked>
-          <attack />
-          <sleaze />
-          <dataprocessing />
-          <firewall />
-          <attributearray />
-          <modattack />
-          <modsleaze />
-          <moddataprocessing />
-          <modfirewall />
-          <modattributearray />
-          <canswapattributes>False</canswapattributes>
-          <active>False</active>
-          <homenode>False</homenode>
-          <sortorder>0</sortorder>
-        </gear>
-        <gear>
-          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
-          <guid>f616f1eb-f23f-410b-bc23-3897e863f66f</guid>
-          <name>Fake License</name>
-          <category>ID/Credsticks</category>
-          <capacity />
-          <armorcapacity />
-          <minrating />
-          <maxrating>6</maxrating>
-          <rating>4</rating>
-          <qty>1.0</qty>
-          <avail>(Rating * 3)F</avail>
-          <cost>Rating * 200</cost>
-          <weight />
-          <extra>Restricted Cyberware License</extra>
-          <bonded>False</bonded>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <stolen>False</stolen>
-          <bonus>
-            <selectrestricted />
-          </bonus>
-          <wirelessbonus />
-          <weaponbonus />
-          <flechetteweaponbonus />
-          <source>SR5</source>
-          <page>443</page>
-          <isflechetteammo>False</isflechetteammo>
-          <ammoforweapontype />
-          <canformpersona />
-          <devicerating />
-          <gearname />
-          <forcedvalue />
-          <matrixcmfilled>0</matrixcmfilled>
-          <matrixcmbonus>0</matrixcmbonus>
-          <parentid />
-          <allowrename>True</allowrename>
-          <children />
-          <location />
-          <notes>Fake license: For those who can’t or won’t go through the standard legal channels, fake licenses are available for all kinds of restricted items and activities. Items with no letter next to their availability don’t require licenses. Items that are Forbidden have no license available. Licenses, therefore, are for Restricted items. Each type of item/ac- tivity permission requires a separate license. Things that require licenses include hunting (bow and rifle), posses- sion of a firearm, concealed carry of a firearm (separate license), spellcasting, and any Restricted gear or augmen- tations, etc. Just as SINs essentially exist on your com- mlink, fake licenses exist on your SIN and are linked to it. When you buy a fake concealed-carry license, you don’t buy it for Murderman the professional shadowrunner, you buy it for John Doe, one of Murderman’s fake SINs. Each license must be assigned to a particular (fake) SIN of the player’s choosing. Use the fake license’s rating against verification systems (Fake SIN, p. 367).</notes>
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <programlimit />
-          <overclocked>None</overclocked>
-          <attack />
-          <sleaze />
-          <dataprocessing />
-          <firewall />
-          <attributearray />
-          <modattack />
-          <modsleaze />
-          <moddataprocessing />
-          <modfirewall />
-          <modattributearray />
-          <canswapattributes>False</canswapattributes>
-          <active>False</active>
-          <homenode>False</homenode>
-          <sortorder>4</sortorder>
-        </gear>
-        <gear>
-          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
           <guid>859bd4df-19e7-409c-8e3e-74106069a252</guid>
           <name>Fake License</name>
           <category>ID/Credsticks</category>
@@ -6030,7 +7519,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>1</sortorder>
+          <sortorder>3</sortorder>
         </gear>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
@@ -6089,11 +7578,11 @@ Failing the Composure Test indicates the character can no longer focus and must 
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>2</sortorder>
+          <sortorder>4</sortorder>
         </gear>
         <gear>
           <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
-          <guid>909646c6-20d6-43a9-92fc-9038d31bde65</guid>
+          <guid>c2c14779-7017-484e-8730-43ebf7570e47</guid>
           <name>Fake License</name>
           <category>ID/Credsticks</category>
           <capacity />
@@ -6105,7 +7594,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
           <avail>(Rating * 3)F</avail>
           <cost>Rating * 200</cost>
           <weight />
-          <extra>Automatic Weapons License</extra>
+          <extra>Explosives License</extra>
           <bonded>False</bonded>
           <equipped>True</equipped>
           <wirelesson>False</wirelesson>
@@ -6131,7 +7620,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
           <children />
           <location />
           <notes>Fake license: For those who can’t or won’t go through the standard legal channels, fake licenses are available for all kinds of restricted items and activities. Items with no letter next to their availability don’t require licenses. Items that are Forbidden have no license available. Licenses, therefore, are for Restricted items. Each type of item/ac- tivity permission requires a separate license. Things that require licenses include hunting (bow and rifle), posses- sion of a firearm, concealed carry of a firearm (separate license), spellcasting, and any Restricted gear or augmen- tations, etc. Just as SINs essentially exist on your com- mlink, fake licenses exist on your SIN and are linked to it. When you buy a fake concealed-carry license, you don’t buy it for Murderman the professional shadowrunner, you buy it for John Doe, one of Murderman’s fake SINs. Each license must be assigned to a particular (fake) SIN of the player’s choosing. Use the fake license’s rating against verification systems (Fake SIN, p. 367).</notes>
-          <notesColor>Chocolate</notesColor>
+          <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
           <programlimit />
           <overclocked>None</overclocked>
@@ -6148,7 +7637,125 @@ Failing the Composure Test indicates the character can no longer focus and must 
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>3</sortorder>
+          <sortorder>0</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>396f84f4-cec8-41fc-aba4-0b595c395861</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>4</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <weight />
+          <extra>Firearms License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes>Fake license: For those who can’t or won’t go through the standard legal channels, fake licenses are available for all kinds of restricted items and activities. Items with no letter next to their availability don’t require licenses. Items that are Forbidden have no license available. Licenses, therefore, are for Restricted items. Each type of item/ac- tivity permission requires a separate license. Things that require licenses include hunting (bow and rifle), posses- sion of a firearm, concealed carry of a firearm (separate license), spellcasting, and any Restricted gear or augmen- tations, etc. Just as SINs essentially exist on your com- mlink, fake licenses exist on your SIN and are linked to it. When you buy a fake concealed-carry license, you don’t buy it for Murderman the professional shadowrunner, you buy it for John Doe, one of Murderman’s fake SINs. Each license must be assigned to a particular (fake) SIN of the player’s choosing. Use the fake license’s rating against verification systems (Fake SIN, p. 367).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>1</sortorder>
+        </gear>
+        <gear>
+          <sourceid>8a16bbb2-8028-4c74-b22b-7aad9d001073</sourceid>
+          <guid>09a9887d-95c2-40bf-b587-25410ed239a3</guid>
+          <name>Fake License</name>
+          <category>ID/Credsticks</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating>6</maxrating>
+          <rating>4</rating>
+          <qty>1.0</qty>
+          <avail>(Rating * 3)F</avail>
+          <cost>Rating * 200</cost>
+          <weight />
+          <extra>Restricted Augmentations License</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus>
+            <selectrestricted />
+          </bonus>
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>443</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>True</allowrename>
+          <children />
+          <location />
+          <notes>Fake license: For those who can’t or won’t go through the standard legal channels, fake licenses are available for all kinds of restricted items and activities. Items with no letter next to their availability don’t require licenses. Items that are Forbidden have no license available. Licenses, therefore, are for Restricted items. Each type of item/ac- tivity permission requires a separate license. Things that require licenses include hunting (bow and rifle), posses- sion of a firearm, concealed carry of a firearm (separate license), spellcasting, and any Restricted gear or augmen- tations, etc. Just as SINs essentially exist on your com- mlink, fake licenses exist on your SIN and are linked to it. When you buy a fake concealed-carry license, you don’t buy it for Murderman the professional shadowrunner, you buy it for John Doe, one of Murderman’s fake SINs. Each license must be assigned to a particular (fake) SIN of the player’s choosing. Use the fake license’s rating against verification systems (Fake SIN, p. 367).</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>2</sortorder>
         </gear>
       </children>
       <location>fc2c0e98-f3c1-45f1-9b0b-529237d2893f</location>
@@ -6301,7 +7908,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>30</qty>
+      <qty>60</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>20</cost>
@@ -6347,7 +7954,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>13</sortorder>
     </gear>
     <gear>
       <sourceid>0c8d16cb-6e96-4d95-8454-104a36091cf9</sourceid>
@@ -6359,7 +7966,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>30</qty>
+      <qty>60</qty>
       <avail>2R</avail>
       <costfor>10</costfor>
       <cost>25</cost>
@@ -7154,63 +8761,6 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <sortorder>0</sortorder>
     </gear>
     <gear>
-      <sourceid>6576cfa9-f2f5-4624-bbde-60a8f3f13785</sourceid>
-      <guid>3a4fce05-240c-4276-b9f3-c954155276a0</guid>
-      <name>Jammer, Area</name>
-      <category>Communications and Countermeasures</category>
-      <capacity />
-      <armorcapacity>[2]</armorcapacity>
-      <minrating />
-      <maxrating>6</maxrating>
-      <rating>4</rating>
-      <qty>1.0</qty>
-      <avail>(Rating * 3)F</avail>
-      <cost>Rating * 200</cost>
-      <weight />
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>441</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating>{Rating}</devicerating>
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location>7a0f06a0-97d0-452d-b2e7-7010e503994e</location>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>0</sortorder>
-    </gear>
-    <gear>
       <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
       <guid>2385c71d-6092-4db0-8675-8650420b6b46</guid>
       <name>Certified Credstick, Standard</name>
@@ -7380,7 +8930,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>2</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>b9812675-b4c3-43ce-b564-c47a5f66b0fc</sourceid>
@@ -7437,7 +8987,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>4</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>baa9ba27-f93b-48da-91b7-cfcce0ba274d</sourceid>
@@ -7495,7 +9045,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>5</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>5deb8e1d-98bf-4cd4-9dce-b74d67546a1d</sourceid>
@@ -7553,7 +9103,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>12</sortorder>
+      <sortorder>13</sortorder>
     </gear>
     <gear>
       <sourceid>ae9c37df-6d82-44c1-aa21-6c87e45e2dc1</sourceid>
@@ -8169,7 +9719,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
           <sortorder>5</sortorder>
         </gear>
       </children>
-      <location>7a0f06a0-97d0-452d-b2e7-7010e503994e</location>
+      <location>174f7707-6efd-4b35-8ba1-e1febdab35c4</location>
       <notes>Survival kit: An assortment of survival gear in a rug- ged bag. Includes a knife, lighter, matches, compass, lightweight thermal blanket, several days’ worth of ra- tion bars, a water-purification unit, and more. A good item to consider for your go-bag.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
@@ -8188,7 +9738,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>11</sortorder>
+      <sortorder>0</sortorder>
     </gear>
     <gear>
       <sourceid>8bed8fa9-b75e-44ad-8181-a9dcd1f110cd</sourceid>
@@ -8302,7 +9852,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>10</sortorder>
+      <sortorder>12</sortorder>
     </gear>
     <gear>
       <sourceid>a210be88-be16-4d66-afcb-7d58b8e1397f</sourceid>
@@ -8359,7 +9909,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>9</sortorder>
+      <sortorder>11</sortorder>
     </gear>
     <gear>
       <sourceid>97f888dd-7e0d-4f33-b4cc-396cddecdf62</sourceid>
@@ -8416,7 +9966,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>8</sortorder>
+      <sortorder>10</sortorder>
     </gear>
     <gear>
       <sourceid>22ceb53b-7863-424b-8ee5-d04bb520d97d</sourceid>
@@ -8473,7 +10023,7 @@ Failing the Composure Test indicates the character can no longer focus and must 
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>7</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>9fffceb6-adb1-423a-a7f7-6f97567fac7f</sourceid>
@@ -8532,64 +10082,7 @@ It comes with a fifteen-centimeter telescoping probe with magnetic clamp for ext
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>6</sortorder>
-    </gear>
-    <gear>
-      <sourceid>d0eb5971-03d6-4822-9fb5-c524bf16bf62</sourceid>
-      <guid>068c42d9-37d9-4f29-aa7b-27864bf7b7f8</guid>
-      <name>Tag Eraser</name>
-      <category>Communications and Countermeasures</category>
-      <capacity />
-      <armorcapacity>[1]</armorcapacity>
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <qty>1.0</qty>
-      <avail>6R</avail>
-      <cost>450</cost>
-      <weight />
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>441</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location>7a0f06a0-97d0-452d-b2e7-7010e503994e</location>
-      <notes>Tag eraser: This handheld device creates a strong electromagnetic field perfect for burning out RFID tags and other unshielded electronics. It is probably strong enough to destroy a commlink, and you might want to keep it away from your cyberdeck just in case. When you bring the eraser within 5 millimeters of an electronic de- vice and push the button, the device takes 10 boxes of Matrix damage (resisted normally). The extremely short range makes it hard to use on targets like vehicles, most drones, maglocks, and cyberware (and by the time you open them up to get at the electronics, you’ve already done plenty of damage). The tag eraser has one charge but can be fully recharged at a power point in 10 seconds.</notes>
-      <notesColor>Chocolate</notesColor>
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>1</sortorder>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>1a3a9204-959b-4db5-83de-094f921c5e7f</sourceid>
@@ -9735,7 +11228,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>13</sortorder>
+      <sortorder>14</sortorder>
     </gear>
     <gear>
       <sourceid>7470ed31-0d81-4992-bae6-38f9de198020</sourceid>
@@ -9793,7 +11286,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>1</sortorder>
+      <sortorder>12</sortorder>
     </gear>
     <gear>
       <sourceid>c658ec7e-48c1-4ead-8083-f3ee0eab92e4</sourceid>
@@ -9850,7 +11343,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>3</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>922c2a9b-88a8-47bf-a3ac-378a0e86be9c</sourceid>
@@ -9908,7 +11401,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>4d27ebbf-02e8-45e7-9c0a-7151f1e4faae</sourceid>
@@ -9966,7 +11459,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>2</sortorder>
     </gear>
     <gear>
       <sourceid>afde3ea3-2db2-4049-b54a-f471e8c11102</sourceid>
@@ -10024,7 +11517,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>3</sortorder>
     </gear>
     <gear>
       <sourceid>1ceef439-32d7-4e1b-a13b-0223dfadf784</sourceid>
@@ -10141,7 +11634,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </gear>
     <gear>
       <sourceid>e7a602bd-33f4-485b-8a18-a253b7e73a77</sourceid>
@@ -10199,7 +11692,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>5</sortorder>
     </gear>
     <gear>
       <sourceid>9964cf3d-c608-4ab5-ba8a-5ea7c96f29fb</sourceid>
@@ -10257,7 +11750,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>6</sortorder>
     </gear>
     <gear>
       <sourceid>f2300388-1d51-41bf-b333-fae00776a375</sourceid>
@@ -10315,7 +11808,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>7</sortorder>
     </gear>
     <gear>
       <sourceid>50e68547-da12-4d87-9e05-8fefb9ccf723</sourceid>
@@ -10373,7 +11866,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>8</sortorder>
     </gear>
     <gear>
       <sourceid>f3472dc1-4c7b-403a-8001-6441bb65a687</sourceid>
@@ -10431,7 +11924,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>9</sortorder>
     </gear>
     <gear>
       <sourceid>77a7504c-0eb8-4268-9744-66c4bbaae509</sourceid>
@@ -10489,7 +11982,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>10</sortorder>
     </gear>
     <gear>
       <sourceid>de595490-7f88-4b1c-b239-009a6c5c10f4</sourceid>
@@ -10603,7 +12096,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 8 Effect:
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </gear>
     <gear>
       <sourceid>1ceef439-32d7-4e1b-a13b-0223dfadf784</sourceid>
@@ -10720,6 +12213,292 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
       <canswapattributes>False</canswapattributes>
       <active>False</active>
       <homenode>False</homenode>
+      <sortorder>11</sortorder>
+    </gear>
+    <gear>
+      <sourceid>8b2b55ed-89d2-4133-b478-41cd9d996c96</sourceid>
+      <guid>a388646f-7684-4da1-b424-98daaa01bbba</guid>
+      <name>Glue Sprayer</name>
+      <category>Chemicals</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>2</qty>
+      <avail>2</avail>
+      <cost>150</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>448</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>7a0f06a0-97d0-452d-b2e7-7010e503994e</location>
+      <notes>Glue sprayer: This fast-drying aerosol superglue al- lows you to quickly glue two rigid surfaces together, and holds enough for about a square meter of glue (enough to glue an exterior door or picture window shut). The glue takes 1 Combat Turn to harden. The glue has Body and Strength Ratings of 5 for the purpose of trying to force it (an Opposed Body + Strength Test).</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>3</sortorder>
+    </gear>
+    <gear>
+      <sourceid>9d775d72-29ca-4784-b617-a667469fe192</sourceid>
+      <guid>845eb958-19f0-41b4-a963-2f33bf8391f0</guid>
+      <name>Glue Solvent</name>
+      <category>Chemicals</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>2</avail>
+      <cost>90</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>448</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>7a0f06a0-97d0-452d-b2e7-7010e503994e</location>
+      <notes>Glue solvent: This spray can has enough solvent to dissolve about a square meter of fast-drying aerosol superglue.</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>2</sortorder>
+    </gear>
+    <gear>
+      <sourceid>5d69d002-c33d-4d0f-9c4d-d78db4d78e5d</sourceid>
+      <guid>70b6e62f-fbff-4455-822c-99859b308c28</guid>
+      <name>Earbuds</name>
+      <category>Audio Devices</category>
+      <capacity>Rating</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating>3</maxrating>
+      <rating>1</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>Rating * 50</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>445</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children>
+        <gear>
+          <sourceid>0025f1c7-45a4-4ec5-a692-e18aab2f97a9</sourceid>
+          <guid>11b4fbf9-561a-4959-856e-7eb70560d0bd</guid>
+          <name>Damper</name>
+          <category>Custom</category>
+          <capacity />
+          <armorcapacity />
+          <minrating />
+          <maxrating />
+          <rating>0</rating>
+          <qty>1.0</qty>
+          <avail>0</avail>
+          <cost>250</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>1</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes>Damper: This protects the user from sudden increases in sound as well as damaging sound levels. The damper adds a +2 dice pool bonus to resisting sonic attacks, including flashbangs.</notes>
+          <notesColor>#E3813C</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
+      <location>c937e70b-2164-4bd7-8934-6e71ad8c224d</location>
+      <notes>These ergonomic ear plugs are hard to spot and harder still to differentiate from the standard kind that comes with every music player and commlink.</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>4f272f33-e015-4ef9-b80b-faf0b28e5eca</sourceid>
+      <guid>19502f47-2707-461a-af3c-aa7108f1bde3</guid>
+      <name>Tool Belt (Good)</name>
+      <category>Tools</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>100</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>RF</source>
+      <page>254</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes />
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
       <sortorder>0</sortorder>
     </gear>
   </gears>
@@ -10768,30 +12547,6 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
       <condition />
       <improvementttype>SprintBonus</improvementttype>
       <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname />
-      <sourcename>4e0ab097-3ecc-4512-8a2c-742b404e3b0e</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>2</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>SonicResist</improvementttype>
-      <improvementsource>Cyberware</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -11507,54 +13262,6 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
     </improvement>
     <improvement>
       <target />
-      <improvedname />
-      <sourcename>753c9d53-4bd1-4aac-88e4-8fd7383be2b6</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>2</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Memory</improvementttype>
-      <improvementsource>Bioware</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>crimesw</improvedname>
-      <sourcename>4d06361d-eee8-4a53-a4f2-dcdff7f352bb</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>pure innocence</improvedname>
       <sourcename>ed90e928-2d28-489f-ab38-c5b1a038fe86</sourcename>
       <min>0</min>
@@ -11590,54 +13297,6 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
       <exclude />
       <condition />
       <improvementttype>Text</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Restricted Bioware License</improvedname>
-      <sourcename>39da3a40-3aab-42b0-bf1a-208d8124be21</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Restricted</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname>Restricted Cyberware License</improvedname>
-      <sourcename>f616f1eb-f23f-410b-bc23-3897e863f66f</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Restricted</improvementttype>
       <improvementsource>Gear</improvementsource>
       <custom>False</custom>
       <customname />
@@ -11771,30 +13430,6 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
     </improvement>
     <improvement>
       <target />
-      <improvedname>Automatic Weapons License</improvedname>
-      <sourcename>909646c6-20d6-43a9-92fc-9038d31bde65</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Restricted</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>0</addtorating>
-      <enabled>1</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>Bracelet</improvedname>
       <sourcename>1a850ec9-abd6-4a0c-b291-e7c3275713ef</sourcename>
       <min>0</min>
@@ -11841,6 +13476,522 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
       <notes />
       <notesColor>Chocolate</notesColor>
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>crimesw</improvedname>
+      <sourcename>4d06361d-eee8-4a53-a4f2-dcdff7f352bb</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Explosives License</improvedname>
+      <sourcename>c2c14779-7017-484e-8730-43ebf7570e47</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Firearms License</improvedname>
+      <sourcename>396f84f4-cec8-41fc-aba4-0b595c395861</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Restricted Augmentations License</improvedname>
+      <sourcename>09a9887d-95c2-40bf-b587-25410ed239a3</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Restricted</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>ab52e0f5-4adc-425e-aac4-0f40145bacfe</improvedname>
+      <sourcename>1ce8c0d7-68fc-46c5-a753-60c29e8572a4</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>0</rating>
+      <exclude />
+      <condition>LimitCondition_Visible</condition>
+      <improvementttype>LimitModifier</improvementttype>
+      <improvementsource>Armor</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>466fce79-116a-4a22-a9a5-f1d200a645c7</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>UnarmedReach</improvementttype>
+      <improvementsource>Bioware</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>a8b78c2a-2270-43d2-8d29-9cc0c6736aea</improvedname>
+      <sourcename>e3c91698-b144-495f-9a05-38d41c33b2ad</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>0</rating>
+      <exclude />
+      <condition>LimitCondition_TestSneakingThermal</condition>
+      <improvementttype>LimitModifier</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>fireresistance</unique>
+      <target />
+      <improvedname />
+      <sourcename>944dcbe9-47f3-4cbf-aed6-12ffb2e3fbaf</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>3</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>FireArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>nonconductivity</unique>
+      <target />
+      <improvedname />
+      <sourcename>4aa9d180-c19b-49bb-bb1a-3fba2f4bbf54</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>3</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ElectricityArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>respirator</unique>
+      <target />
+      <improvedname />
+      <sourcename>132f1f84-f3d2-44d1-9f09-b8a5fda52f69</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>6</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinInhalationResist</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>respirator</unique>
+      <target />
+      <improvedname />
+      <sourcename>132f1f84-f3d2-44d1-9f09-b8a5fda52f69</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>6</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenInhalationResist</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>nonconductivity</unique>
+      <target />
+      <improvedname />
+      <sourcename>fd9d8291-5ad8-4d07-a773-e52bb0a6f360</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>3</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ElectricityArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>fireresistance</unique>
+      <target />
+      <improvedname />
+      <sourcename>66e3e513-6c2e-4891-8516-170b1a49db50</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>3</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>FireArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Painkillers</improvedname>
+      <sourcename>46dad369-c5af-4b38-9cf5-3de1ebb8190b</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname />
+      <sourcename>679aac41-8e87-428a-925d-a3408d04102c</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Ambidextrous</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>chemicalprotection</unique>
+      <target />
+      <improvedname />
+      <sourcename>7a3011d1-5c34-4ca6-9f50-bac1237fcc93</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinContactResist</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>chemicalprotection</unique>
+      <target />
+      <improvedname />
+      <sourcename>7a3011d1-5c34-4ca6-9f50-bac1237fcc93</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenContactResist</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>chemicalprotection</unique>
+      <target />
+      <improvedname />
+      <sourcename>9de5957b-c445-43dd-b438-b3c7289a4e9e</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ToxinContactResist</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>chemicalprotection</unique>
+      <target />
+      <improvedname />
+      <sourcename>9de5957b-c445-43dd-b438-b3c7289a4e9e</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>PathogenContactResist</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>insulation</unique>
+      <target />
+      <improvedname />
+      <sourcename>c56ad611-2008-4da3-bab3-4b2fa8e1db07</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ColdArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
+    <improvement>
+      <unique>insulation</unique>
+      <target />
+      <improvedname />
+      <sourcename>1de98163-76e8-4d34-bfab-2bdb0e4b17a7</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ColdArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+    </improvement>
   </improvements>
   <sustainedobjects />
   <drugs />
@@ -11852,45 +14003,74 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
       <name>SINs and Comms</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>6</sortorder>
+      <sortorder>7</sortorder>
     </location>
     <location>
       <guid>d61ee03b-7cf7-456e-b9ce-203a22cd83b1</guid>
       <name>Creds</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>5</sortorder>
+      <sortorder>6</sortorder>
     </location>
     <location>
       <guid>c937e70b-2164-4bd7-8934-6e71ad8c224d</guid>
       <name>Wearables</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>4</sortorder>
+      <sortorder>5</sortorder>
     </location>
     <location>
       <guid>7a0f06a0-97d0-452d-b2e7-7010e503994e</guid>
       <name>Gadgets and Tools</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>3</sortorder>
+      <sortorder>4</sortorder>
     </location>
     <location>
       <guid>77662699-9dde-47fd-9975-9b2337555114</guid>
       <name>Meds</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>2</sortorder>
+      <sortorder>3</sortorder>
     </location>
     <location>
       <guid>f1d105ac-408e-48b5-a218-4934294304e7</guid>
       <name>Ammo and Grenades</name>
       <notes />
       <notesColor>Chocolate</notesColor>
+      <sortorder>2</sortorder>
+    </location>
+    <location>
+      <guid>174f7707-6efd-4b35-8ba1-e1febdab35c4</guid>
+      <name>Bug-Out Bag</name>
+      <notes />
+      <notesColor>#E3813C</notesColor>
       <sortorder>1</sortorder>
     </location>
   </gearlocations>
-  <armorlocations />
+  <armorlocations>
+    <location>
+      <guid>66ab6c44-a87f-4c60-bbf2-9d9089f02bd0</guid>
+      <name>Obvious Merc</name>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+      <sortorder>4</sortorder>
+    </location>
+    <location>
+      <guid>bd826add-fe74-4fd9-b149-19d1763e8d04</guid>
+      <name>Casual</name>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+      <sortorder>2</sortorder>
+    </location>
+    <location>
+      <guid>1fd3a6e3-0517-48c5-86c0-6873cd7d079d</guid>
+      <name>Classy Merc</name>
+      <notes />
+      <notesColor>#E3813C</notesColor>
+      <sortorder>1</sortorder>
+    </location>
+  </armorlocations>
   <vehiclelocations />
   <weaponlocations />
   <improvementgroups />
