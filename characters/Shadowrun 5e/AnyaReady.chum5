@@ -119,8 +119,8 @@
   <burntstreetcred>0</burntstreetcred>
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
-  <created>False</created>
-  <nuyen>4975.000</nuyen>
+  <created>True</created>
+  <nuyen>5375.000</nuyen>
   <startingnuyen>275000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -302,7 +302,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Aeronautics Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>aa70e649-df8d-4177-abec-666f31baaac6</guid>
@@ -317,7 +316,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Animal Handling</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>aa535a82-b210-48ee-bfde-b0540bc103d8</guid>
@@ -332,7 +330,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Arcana</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>acdf1c57-9510-4bee-9925-80c982c1ac78</guid>
@@ -347,7 +344,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Archery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2a87c9c2-7987-404b-9acc-9efd6a3e151b</guid>
@@ -362,7 +358,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Armorer</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>89271cd8-1b9f-4d79-980e-60dd6cec2c7b</guid>
@@ -385,7 +380,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Artisan</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e2df28b2-4180-4d17-a1ca-ad515c1f96f7</guid>
@@ -400,7 +394,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Automatics</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>364ff797-8d89-4813-aa80-dd1225773ce5</guid>
@@ -423,7 +416,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Automotive Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>97541fd5-9296-4b72-bef8-7180d55c2ff9</guid>
@@ -438,7 +430,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Biotechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7435b36b-3780-4d11-8bec-0ecdcab8d055</guid>
@@ -453,7 +444,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Blades</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ec2b3dc4-7027-42d2-93d4-a8818215c87f</guid>
@@ -468,7 +458,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Chemistry</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a6d681ed-fbfd-4633-bbd4-1416176f4b0b</guid>
@@ -483,7 +472,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Clubs</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>612a3612-6043-4ccd-b65a-400c8de63b28</guid>
@@ -498,7 +486,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Computer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d9265548-e358-4162-9e61-1a27381474e1</guid>
@@ -513,7 +500,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Con</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9f58b445-4505-4121-b6fd-dede7c65f630</guid>
@@ -528,7 +514,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Cybercombat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8b5ed100-7f54-4742-b95f-fdaea229bfc2</guid>
@@ -543,7 +528,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Cybertechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3748a55f-794c-415c-9a28-750c306bb24b</guid>
@@ -558,7 +542,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Demolitions</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>60f5ec05-9e3d-46b6-87ff-11d28ba93bbd</guid>
@@ -581,7 +564,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Disguise</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9cc0cd2c-ecdf-45c6-b7ec-b907b87ba920</guid>
@@ -596,7 +578,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Diving</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4eed99bd-5154-4658-810e-6141b28940ad</guid>
@@ -611,7 +592,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Electronic Warfare</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3ad9cfda-ff59-4a77-bc52-3bfbc3f8efd2</guid>
@@ -626,7 +606,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Escape Artist</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a406c76e-d738-42b0-a204-ebed8dc1c3cf</guid>
@@ -641,7 +620,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Etiquette</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3eba2bf9-8b6e-4cad-a4dd-4e7ae2db6418</guid>
@@ -656,7 +634,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>First Aid</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>130c4fd3-b3fa-4b82-a4bc-18f89dca3212</guid>
@@ -671,7 +648,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Flight</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d26c8337-7cd2-4558-8ce0-1ff9c5b7fac8</guid>
@@ -686,7 +662,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Forgery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8d18bf72-8847-49f0-b21f-39a70824cf22</guid>
@@ -701,7 +676,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Free-Fall</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>4f524bbc-1cf3-4943-b447-9f37b1e38729</guid>
@@ -724,7 +698,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Gunnery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>c2080f35-f01a-456d-8d65-523611963b77</guid>
@@ -739,7 +712,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Gymnastics</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3c94b197-6145-494c-9233-41cc99380982</guid>
@@ -754,7 +726,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Hacking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>acb7b690-c9b1-42a5-b589-0bef3d82b199</guid>
@@ -769,7 +740,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Hardware</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>252f8eee-7cb5-48e0-96e5-6dd8bbd2ade2</guid>
@@ -784,7 +754,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Heavy Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a10e235b-a55a-41cd-8e1e-066c9846a7bf</guid>
@@ -799,7 +768,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Impersonation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>1d96418f-7a39-44a3-a711-663497262277</guid>
@@ -814,7 +782,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Industrial Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>879ee588-4720-4d77-9ab9-eac0c133207a</guid>
@@ -829,7 +796,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Instruction</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>0f2c8237-e652-4239-b88d-b3427c13b1cd</guid>
@@ -844,7 +810,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Intimidation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2e33cd10-722c-4052-96b1-d45527b92d85</guid>
@@ -859,7 +824,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Leadership</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a960b0eb-f466-42a8-badb-b5e82f937c20</guid>
@@ -874,7 +838,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Locksmith</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>46cebf58-3f35-425d-bf7f-0c62bcba3d8d</guid>
@@ -889,7 +852,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Longarms</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>39f9c7d8-aaf9-4c87-b210-ecabe9fd07af</guid>
@@ -904,7 +866,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Medicine</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>14b2b86f-afa2-469b-9729-bcfcece89ec7</guid>
@@ -919,7 +880,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Nautical Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>cbbf4977-23a1-4102-8e2a-669335a9d8d2</guid>
@@ -934,7 +894,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Navigation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b0b30b5e-c95c-4566-8723-5ef3123f6784</guid>
@@ -949,7 +908,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Negotiation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>cd35758d-e584-46f1-b1cf-0d6a440f3d29</guid>
@@ -964,7 +922,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Palming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>dbc4a10a-8b95-4bf7-9ebc-0f2dc7a6a442</guid>
@@ -979,7 +936,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Perception</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>b8561c88-0c81-4b7b-a086-dda4e78b906d</guid>
@@ -1002,7 +958,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Performance</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a6e7636d-66fc-4a8a-a724-337c1300c78c</guid>
@@ -1017,7 +972,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Aerospace</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>92e59063-d600-4a8a-a442-e804afe619a1</guid>
@@ -1032,7 +986,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Aircraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9cfa12e7-5a62-4ce8-8798-8d446902308c</guid>
@@ -1047,7 +1000,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Ground Craft</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>62c02cd7-bd11-4963-9673-d348b5005027</guid>
@@ -1070,7 +1022,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Walker</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>02a1ba25-fce9-4f4f-8957-3b6578cec838</guid>
@@ -1085,7 +1036,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Watercraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>5914dfda-f131-4138-a8f8-c988e523edde</guid>
@@ -1100,7 +1050,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pistols</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>3cb28acf-fc40-44ea-9b60-e4e031f6f05a</guid>
@@ -1115,7 +1064,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Running</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>09d82c78-8015-4c1f-922d-4dc6f8009705</guid>
@@ -1130,7 +1078,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Sneaking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>05e44bc4-3555-45f2-8a0f-e096ca2156ee</guid>
@@ -1145,7 +1092,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Software</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f8f29e84-0329-4393-b9f7-1e829bb69f65</guid>
@@ -1160,7 +1106,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Survival</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>844cec20-e78d-4283-b5ba-cfa51b64da38</guid>
@@ -1175,7 +1120,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Swimming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e0acaaf6-6efc-4187-8f07-2b09d6facfe2</guid>
@@ -1190,7 +1134,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Throwing Weapons</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>50346a62-b6ad-491d-a92d-b7b34e92df7e</guid>
@@ -1213,7 +1156,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Tracking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>82efa064-fad2-43c6-af73-ca62bc00b4ef</guid>
@@ -1228,7 +1170,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Unarmed Combat</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>605199a4-c0d5-4d58-8874-cb229a2aa3bd</guid>
@@ -1253,7 +1194,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Construction Procedures</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>6496b705-a538-49c9-bc11-3862539d2bd0</guid>
@@ -1278,7 +1218,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Corporation: ?</name>
-        <buywithkarma>False</buywithkarma>
         <type>Academic</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1295,7 +1234,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>English</name>
-        <buywithkarma>False</buywithkarma>
         <type>Language</type>
         <isnativelanguage>True</isnativelanguage>
       </skill>
@@ -1312,7 +1250,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Fur/Horn Care</name>
-        <buywithkarma>False</buywithkarma>
         <type>Interest</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1329,7 +1266,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Spanish</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>e101ada1-f74d-4a33-8884-0d489ac8986a</guid>
@@ -1354,7 +1290,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Sports</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>5705f3a0-5706-4c0f-a723-ba8907dbd499</guid>
@@ -13864,7 +13799,24 @@ A hard-shell briefcase can be hermetically sealed to allow for easier transporta
   <sustainedobjects />
   <drugs />
   <mentorspirits />
-  <expenses />
+  <expenses>
+    <expense>
+      <guid>b537b1c7-686b-4b6b-bafd-1ec3c7736de8</guid>
+      <date>2025-08-01T09:48:46</date>
+      <amount>5375.000</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+  </expenses>
   <gearlocations>
     <location>
       <guid>fc2c0e98-f3c1-45f1-9b0b-529237d2893f</guid>

@@ -26,7 +26,7 @@
   - [X] Have you chosen your free starting spells/powers, if you chose a magic priority that provides any? 
   - [X] Do you have exactly 0 Karma remaining? 
   - [X] Do you have between 0 and 5000 nuyen remaining?
-  - [ ] Have you chosen a Lifestyle? (We're doing this together)
+  - [X] Have you chosen a Lifestyle? (We're doing this together)
 
 
   Black Market Pipeline - 10
