@@ -23,9 +23,38 @@ Appropriate Lores
 - Shira
     - Character: Surya, she/her, ? (Medium)
 - Sean
-    - Character: ?, he/him, Gnome? (Small?)
+    - Character: Karchanek, he/him, Gnome (Small?)
 
-### Session 34?future - 2025-06-21
+### 2025-08-24, No Session
+
+### Session 36?future - 2025-08-17
+### Session 35?future - 2025-08-10
+### Session 34 - 2025-08-02
+- We head to an abandoned warehouse in The Shambles with a strange symbol painted on it
+    - Full of decomposing undead swaying in place
+    - Sewer grate in the corner - this was one of the rare places with an original sewer system
+    - The sewers are thankfully long disused, now in service of the resistance
+- We come to an arch with a hidden button on it, which opens a doorway
+    - It opens into a room with more than a dozen people in it, a meeting area
+    - They agree to let us stay here, and even know how we can get blood to restore Karchanek's lost vitality
+- Bedtime finally
+    - Karchanek disappears after taking watch
+- Karchanek solo yolo adventure
+    - Runs straight into Belameer Atrana
+    - Instantly solves both her body control, and the shadow-haunting she didn't know about
+- Apparently Yuriso-Meno is cursed, with evil magic assaulting her mind and plagueing her with visions of past, present, and future
+    - This sounds fake she's just been sleeping bad because cities or whatever
+- Vendari looks for an omen for rescuing the hostages
+    - Gets a vision of a cat being chased around while another cat leaves with a fish in its mouth
+    - Karchanek explains that there is a sally port into the palace that bypasses the garrison
+
+### 2025-07-26, No Session
+### 2025-07-19, No Session
+### 2025-07-12, No Session
+### 2025-07-05, No Session
+### 2025-06-28, No Session
+### 2025-06-21, No Session
+
 ### Session 33 - 2025-06-14
 - Fight continues
     - Karchanek immediately ends the fight with a big blast of Vkandis's holy energy
@@ -82,11 +111,21 @@ Appropriate Lores
     - Vendari takes off running, Yuriso-Meno distracts the regent by memory-sharing
     - The memory she gets in response is of the ritual that preserved her soul... but from the perspective of what was left behind. The regent is Yuriso.
 
+### 2025-05-17, No Session
+### 2025-05-10, No Session
+### 2025-05-03, No Session
+
 ### Session 29 - 2025-04-26
 - We are attacked by weirdly dogged wild animals
     - Bats, rats, wolves
     - We crisp them
 - I take a moon-blast-bleached wolf skull as a trophy, and ask Sakari to turn it into a helmet for me
+
+### 2025-04-19, No Session
+### 2025-04-12, No Session
+### 2025-04-05, No Session
+### 2025-03-29, No Session
+### 2025-03-22, No Session
 
 ### Session 28 - 2025-03-15
 - Info we have about the survivors of the fire:
@@ -130,6 +169,12 @@ Appropriate Lores
 - Tried to meat with palace district govt official
     - We get stonewalled by guards, yet again
     - Guards seem suspicious now, someone has been blocking our efforts and probably via impersonation or magical manipulation
+
+### 2025-03-01, No Session
+### 2025-02-22, No Session
+### 2025-02-15, No Session
+### 2025-02-08, No Session
+### 2025-02-01, No Session
 
 ### Session 26 - 2025-01-25
 - *Level up to 6*
@@ -186,6 +231,9 @@ Appropriate Lores
 - Defenders blow up the door into the lounge, fight happens
     - Enemies blow up the tower that most of the group is in, burying them in rubble
 
+### 2023-05-20, No Session
+### 2023-05-13, No Session
+
 ### Session 22 - 2023-05-06
 - The survivor from the first round, Graytusk, defected to us
 - Fight continued, we broke open the door and dealt some damage
@@ -194,6 +242,8 @@ Appropriate Lores
 - Rasa, Sakari, and Yuriso-Meno wandered into the lounge
     - A homunculus threw a pot of soup at Rasa and retreated up the stairs out of the attached kitchen
     - We leave off on the three of us chasing after
+
+### 2023-04-29, No Session
 
 ### Session 21 - 2023-04-22
 - Fight continued, we killed all remaining combatants
@@ -207,6 +257,8 @@ Appropriate Lores
     - Yuriso-Meno lights the straw hut's roof ablaze
     - After taking light casualties, defenders retreat inside to coordinate a response
     - After the group has mostly rapelled, defenders rush out of the straw hut
+
+### 2023-04-08, No Session
 
 ### Session 18 - 2023-04-01
 - Tamli gives the group Bort's collection of rings
