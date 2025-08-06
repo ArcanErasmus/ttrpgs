@@ -119,8 +119,8 @@
   <burntstreetcred>0</burntstreetcred>
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
-  <created>False</created>
-  <nuyen>2491.000</nuyen>
+  <created>True</created>
+  <nuyen>2811.000</nuyen>
   <startingnuyen>450000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -160,7 +160,7 @@
       <base>3</base>
       <karma>0</karma>
       <metatypecategory>Standard</metatypecategory>
-      <totalvalue>5</totalvalue>
+      <totalvalue>7</totalvalue>
     </attribute>
     <attribute>
       <name>STR</name>
@@ -302,7 +302,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Aeronautics Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>33a2284c-288a-4b63-93ab-a3542aa83edc</guid>
@@ -317,7 +316,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Animal Handling</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>62ab18f3-2a41-4993-936d-996d1e25e003</guid>
@@ -332,7 +330,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Arcana</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e96a9dc9-9965-4d6b-8d2b-eb9b2c1dea50</guid>
@@ -347,7 +344,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Archery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>fe6ece1c-ef62-464d-ad00-db1d519066a8</guid>
@@ -362,7 +358,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Armorer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>13696f57-06d4-4d8a-a13d-87fb32ca2203</guid>
@@ -377,7 +372,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Artisan</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>c327388e-effd-4a6a-b9f6-eff597d396ec</guid>
@@ -392,7 +386,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Automatics</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>67c623e0-4614-42b3-a02c-f5d8a1fd4dae</guid>
@@ -415,7 +408,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Automotive Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a0b42010-7a61-4b32-9ef6-449f980f036a</guid>
@@ -430,7 +422,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Biotechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b7f4899a-9c2f-414d-afd6-809af6a4c9bd</guid>
@@ -445,7 +436,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Blades</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>5d238d79-6721-423f-bb03-8f8199095c86</guid>
@@ -460,7 +450,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Chemistry</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2db63049-f7d9-402a-b106-228086f5081d</guid>
@@ -475,7 +464,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Clubs</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>365a0799-9459-4054-b319-0c03fdc0f693</guid>
@@ -490,7 +478,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Computer</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>55b35ae1-9eb9-430d-91c9-d3f0016f6d7e</guid>
@@ -505,7 +492,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Con</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>36b77c86-c0c3-44b5-9a3b-06fc17aefeb9</guid>
@@ -520,7 +506,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Cybercombat</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>75b0b48a-846d-474c-8508-4cb745ab8e95</guid>
@@ -535,7 +520,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Cybertechnology</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e502eef1-802f-4703-8f83-09faf2cdcc14</guid>
@@ -550,7 +534,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Demolitions</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7a279f09-f4af-412a-bd3c-f498cddf02e1</guid>
@@ -565,7 +548,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Disguise</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>15df9d7b-22fd-4e70-ba20-87ce15fa4a81</guid>
@@ -580,7 +562,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Diving</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>dc1da4e3-587f-4b0d-ae4f-776c6b94f2a0</guid>
@@ -595,7 +576,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Electronic Warfare</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>70841923-aedb-4252-a838-71852f1d4a19</guid>
@@ -610,7 +590,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Escape Artist</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>5fae8300-72bd-4578-a0ac-61f9e556bd02</guid>
@@ -625,7 +604,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Etiquette</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b30e4eb1-e004-492b-b063-c00696a1e994</guid>
@@ -640,7 +618,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>First Aid</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>cb650e1b-9db0-488e-b8f5-191deb7ac71c</guid>
@@ -655,7 +632,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Flight</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2e4b62f3-69f3-46c7-951c-ee1ca96e8a6e</guid>
@@ -670,7 +646,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Forgery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8b28f3ad-284f-45a7-9f47-eb2363e28902</guid>
@@ -685,7 +660,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Free-Fall</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>50a18344-4a9a-4038-aa67-c39d35745535</guid>
@@ -700,7 +674,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Gunnery</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>1f0fef10-1331-43d9-92d8-a9f74f36b87c</guid>
@@ -715,7 +688,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Gymnastics</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>585dc5c6-43d2-4e03-a012-1aeb9e2e78ef</guid>
@@ -730,7 +702,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Hacking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>a8e9dd6a-5bb3-4196-8fef-e93a67017f20</guid>
@@ -745,7 +716,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Hardware</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>7f411af8-1816-41da-95fc-e8955ba7e178</guid>
@@ -760,7 +730,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Heavy Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>e09e2990-58c5-48b1-a4c3-b43bce13f5c0</guid>
@@ -775,7 +744,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Impersonation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>05514dc3-167c-423c-b238-22b5c55d2e4c</guid>
@@ -790,7 +758,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Industrial Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f39971e2-9043-4d29-aa27-6b43ea0ad7e8</guid>
@@ -805,7 +772,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Instruction</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>34d55a25-f95f-486e-b3ea-ad1076995165</guid>
@@ -820,7 +786,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Intimidation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>5f645c0b-e4f7-42b3-bf53-b0bcc5a5e5bb</guid>
@@ -835,7 +800,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Leadership</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>6f69d9ad-7902-4030-8425-9b6b632bd452</guid>
@@ -850,7 +814,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Locksmith</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>38fdf391-127e-4662-83a0-ea5867edd0c1</guid>
@@ -865,7 +828,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Longarms</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f3c5f0cd-034e-4fc7-82f8-8131e57ad1c9</guid>
@@ -880,7 +842,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Medicine</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>da1ec2f3-5c13-4c84-90af-ef6c9d019f99</guid>
@@ -895,7 +856,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Nautical Mechanic</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>467dee27-25b0-4ad0-b70b-9f88b589ce31</guid>
@@ -910,7 +870,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Navigation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d6b72833-b907-48b2-9f6c-e00ca1d18c8b</guid>
@@ -925,7 +884,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Negotiation</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>9f625994-1c9f-4d8e-adfd-210abe1dce11</guid>
@@ -940,7 +898,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Palming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>49a79da3-818c-4100-9411-43c67a602fe0</guid>
@@ -955,7 +912,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Perception</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>886b1aa2-ea1f-4874-9c9d-649e86f8ae8c</guid>
@@ -978,7 +934,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Performance</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>fb23478f-bc7a-439c-a5c9-f7eabf03323f</guid>
@@ -993,7 +948,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Aerospace</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>4ed0a07e-3d8d-41df-b188-7a61dafb30f4</guid>
@@ -1008,7 +962,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Aircraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>2675f137-5e7a-4c56-a61d-bd37c5c06864</guid>
@@ -1023,7 +976,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Ground Craft</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>55d6162e-e6b5-4502-99a6-5a0c3238da76</guid>
@@ -1046,7 +998,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Walker</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>ebfac421-b816-45c9-bb8e-aeca20e0d88f</guid>
@@ -1061,7 +1012,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pilot Watercraft</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>22c599ba-d0a4-4cc7-974a-234f15aa0db5</guid>
@@ -1076,7 +1026,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Pistols</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>f3533d90-b92d-473f-92f2-93e0f86c7dbb</guid>
@@ -1091,7 +1040,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Running</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>5f38617d-1067-4a00-a261-e9b16c78da1d</guid>
@@ -1114,7 +1062,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Sneaking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>27e5f4c0-3706-43bd-905c-f4ab1eea2c14</guid>
@@ -1129,7 +1076,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Software</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>db2c08f2-fe41-4a94-a7c7-34db97f05a2f</guid>
@@ -1144,7 +1090,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Survival</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>c2cdf9a3-6ba8-4b14-b523-932eec503154</guid>
@@ -1167,7 +1112,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Swimming</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>8df443a9-73fe-4a50-8bc3-ecb3e59b7a0d</guid>
@@ -1182,7 +1126,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Throwing Weapons</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>b08ac99b-d991-435f-88e1-70e117efa4b1</guid>
@@ -1197,7 +1140,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Tracking</name>
-        <buywithkarma>False</buywithkarma>
       </skill>
       <skill>
         <guid>d14cd1bb-9bec-451d-be61-acc6a64cf0a5</guid>
@@ -1212,7 +1154,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Unarmed Combat</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>815c40bc-5101-4ce4-84d7-81eae7df37b6</guid>
@@ -1237,7 +1178,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Black Markets</name>
-        <buywithkarma>False</buywithkarma>
         <type>Street</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1254,7 +1194,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Corporation: Federated-Boeing</name>
-        <buywithkarma>False</buywithkarma>
         <type>Professional</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1271,7 +1210,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>English</name>
-        <buywithkarma>False</buywithkarma>
         <type>Language</type>
         <isnativelanguage>True</isnativelanguage>
       </skill>
@@ -1288,7 +1226,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Fur/Horn Care</name>
-        <buywithkarma>False</buywithkarma>
         <type>Interest</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1305,7 +1242,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>German</name>
-        <buywithkarma>False</buywithkarma>
         <type>Language</type>
         <isnativelanguage>False</isnativelanguage>
       </skill>
@@ -1322,7 +1258,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Or'zet</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>163d6f38-b778-4f76-a4d7-3a4803a4deb8</guid>
@@ -1347,7 +1282,6 @@
         <notes />
         <notesColor>Chocolate</notesColor>
         <name>Sports</name>
-        <buywithkarma>False</buywithkarma>
         <specs>
           <spec>
             <guid>a9c32339-1b74-4d53-8e48-d04a5f5324a1</guid>
@@ -5566,7 +5500,7 @@ Standard Upgrades/Accessories: Sound Suppressor &gt; The pistol is decent but no
           <maxrating />
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
-          <wirelesson>False</wirelesson>
+          <wirelesson>True</wirelesson>
           <grade>Standard</grade>
           <location>Left</location>
           <extra />
@@ -5651,7 +5585,7 @@ Wireless Bonus: Activating or deactivating is a Free Action, instead of a Simple
           <maxrating />
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
-          <wirelesson>False</wirelesson>
+          <wirelesson>True</wirelesson>
           <grade>Standard</grade>
           <location />
           <extra />
@@ -5817,7 +5751,7 @@ Wireless Bonus: Activating or deactivating the skates is a Free Action, rather t
           <maxrating />
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems>Cyber Implant Weapon Accessory</subsystems>
-          <wirelesson>False</wirelesson>
+          <wirelesson>True</wirelesson>
           <grade>Standard</grade>
           <location />
           <extra />
@@ -6358,7 +6292,7 @@ Wireless Bonus: Activating or deactivating the skates is a Free Action, rather t
           <maxrating />
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
-          <wirelesson>False</wirelesson>
+          <wirelesson>True</wirelesson>
           <grade>Standard</grade>
           <location>Right</location>
           <extra />
@@ -6520,7 +6454,7 @@ Wireless Bonus: Activating or deactivating is a Free Action, instead of a Simple
           <maxrating />
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
-          <wirelesson>False</wirelesson>
+          <wirelesson>True</wirelesson>
           <grade>Standard</grade>
           <location />
           <extra />
@@ -6686,7 +6620,7 @@ Wireless Bonus: Activating or deactivating the skates is a Free Action, rather t
           <maxrating />
           <ratinglabel>String_Rating</ratinglabel>
           <subsystems />
-          <wirelesson>False</wirelesson>
+          <wirelesson>True</wirelesson>
           <grade>Standard</grade>
           <location />
           <extra />
@@ -7022,7 +6956,7 @@ A user with boosted reflexes gains +1D6 for Initiative.</notes>
       <maxrating>6</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <subsystems>Earware</subsystems>
-      <wirelesson>False</wirelesson>
+      <wirelesson>True</wirelesson>
       <grade>Alphaware</grade>
       <location />
       <extra />
@@ -7487,7 +7421,7 @@ Wireless Bonus: Access to a public database that allows these sounds to be compa
       <maxrating>6</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <subsystems>Eyeware</subsystems>
-      <wirelesson>False</wirelesson>
+      <wirelesson>True</wirelesson>
       <grade>Alphaware</grade>
       <location />
       <extra />
@@ -8110,7 +8044,7 @@ Wireless Bonus: Activating or deactivating the eye light system is a Free Action
       <maxrating />
       <ratinglabel>String_Rating</ratinglabel>
       <subsystems />
-      <wirelesson>False</wirelesson>
+      <wirelesson>True</wirelesson>
       <grade>Alphaware</grade>
       <location />
       <extra />
@@ -8725,7 +8659,7 @@ The user gains +2 Body for resisting electrical damage. This is not compatible w
       <maxrating>3</maxrating>
       <ratinglabel>String_Rating</ratinglabel>
       <subsystems />
-      <wirelesson>True</wirelesson>
+      <wirelesson>False</wirelesson>
       <grade>Alphaware</grade>
       <location />
       <extra />
@@ -15879,7 +15813,7 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <customid />
       <customgroup />
       <addtorating>0</addtorating>
-      <enabled>0</enabled>
+      <enabled>1</enabled>
       <order>0</order>
       <notes />
       <notesColor>Chocolate</notesColor>
@@ -16301,7 +16235,24 @@ Synthetic fingernails that function the same as AR gloves.</notes>
   <sustainedobjects />
   <drugs />
   <mentorspirits />
-  <expenses />
+  <expenses>
+    <expense>
+      <guid>aa4c5f13-37d6-49eb-9728-1fe51b8af18f</guid>
+      <date>2025-08-06T16:06:35</date>
+      <amount>2811.000</amount>
+      <reason>Starting Nuyen</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+  </expenses>
   <gearlocations>
     <location>
       <guid>274d631a-90cd-4eb5-ad93-ad25527e9208</guid>
@@ -16379,7 +16330,15 @@ Synthetic fingernails that function the same as AR gloves.</notes>
   <vehiclelocations />
   <weaponlocations />
   <improvementgroups />
-  <calendar />
+  <calendar>
+    <week>
+      <guid>5ca698d4-b9de-4648-8361-0ab2ffe753b6</guid>
+      <year>2075</year>
+      <week>5</week>
+      <notes>Game start for Anya! Running out of money, she follows a tip about a Cutter gang house. Busting in to rob them, she gets hacked, and her ever-critical cyberlegs disabled.</notes>
+      <notesColor>Chocolate</notesColor>
+    </week>
+  </calendar>
   <calculatedvalues>
     <physicalcm>11</physicalcm>
     <physicalcmthresholdoffset>0</physicalcmthresholdoffset>

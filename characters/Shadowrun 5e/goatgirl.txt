@@ -11,7 +11,7 @@
   - [X] Have you added your native language under the Knowledge skills section at the bottom? 
   - [X] Have you spent all the knowledge skill points provided by your logic?  
 - Gear
-  - [X] Have you read one or both of the pinned guides for suggested starting gear?
+  - [ ] Have you read one or both of the pinned guides for suggested starting gear?
   - [X] Do you have ammo for your gun(s), both regular and gel rounds (nonlethal)? 
   - [X] Do you have a fake SIN, preferably more one? (Yes, the guides mention it; it's important enough I'm mentioning it again. I like having two, both at rating 4: one for shadowrunning jobs, the other for getting groceries.)
   - [X] Do you have fake licenses on at least one of your fake SINs for every type of restricted gear or skill you have? (Decking license, magic license, firearm license, concealed carry license, driver's license, fishing license...) 
@@ -19,8 +19,8 @@
   - [X] Do you have some form of Direct Neural Interface, whether from trodes or cyberware? 
   - [X] Do you have some means of seeing in dark areas, whether from contact lenses or cybereyes?
 - Cyberware
-  - [X] Do you have positive essence remaining? 
   - [X] Do you have nothing of availability higher than 12? (Alphaware adds to the availability rating; don't be blindsided by your cybertorso becoming too hot an item when you try to make it less essence-costly)
+  - [X] Do you have positive essence remaining? 
 - Misc
   - [X] Have you spent your free karma's worth of contact points, as provided by your charisma score? 
   - [X] Have you chosen your free starting spells/powers, if you chose a magic priority that provides any? 
@@ -75,3 +75,12 @@ Parkour
   Kip Up
   Leaping Mantis
   Monkey Climb
+
+
+Cyberware scanner
+Geiger counter
+MAD scanner
+Motion sensor
+Olfactory scanner
+Radio signal scanner
+Ultrasound
