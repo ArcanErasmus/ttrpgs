@@ -246,7 +246,8 @@
     - Stun damage, from strenuous actions or harsh environs
     - Resisted with body + willpower, not armor
     - Can't be healed until source is dealt with
-    - Running: Each consecutive sprint does cumulative 1S DV fatigue damage, yes this starts with the first, if only running take every 3 minutes
+    - Running: Each consecutive sprint does cumulative 1S DV fatigue damage, starts with the second, if only running take every 3 minutes
+        - "Consecutive" means consecutive Combat Turns, or during multiple Action Phases in the same Combat Turn
     - Environments: starts with 1S and increases over time, see *environment & fatigue pp172*
     - Hunger/thirst/tiredness: after 24 hrs, 1S and increases by interval, hunger 6 days, thirst 2 days, sleep 3hrs
 **Takeaways**
@@ -453,20 +454,157 @@
     - They spend 1 Edge, which has no other bonuses
     - They succeed on a Body + Willpower (3) test after spending the Edge
 #### Barriers
+- Structure and Armor are analogous to Body and Armor
+- Condition Monitor for every region of 1m x 1m x 10cm, boxes equal to Structure rating
+- See *barrier ratings pp197* for structure and armor of common materials
+##### Shooting Through Barriers
+- Defender using the barrier as cover receives defense bonus for cover
+- If defender completely hidden, -6 blind fire penalty to attacker, but defender unaware
+- If barrier takes hit first, roll Structure+Armor to resist damage, takes unresisted damage
+    - Any damage past the Structure rating continues on through the barrier
+    - If weapon's modified DV does not exceed barrier's Armor, attack automatically fails
+##### Destroying Barriers
+- If trying to destroy the barrier, roll same as above
+    - Attack is unresisted, so hits on the attack roll is just to generate extra DV
+    - Roll damage anyway on no hits unless critical glitch
+- Unresisted damage creates holes in barrier, 1 sq meter per multiple of the Structure rating
+- See *damaging barriers pp198* for damage multipliers vs barriers
+##### Penetration Weapons
+- If you are using a primarily penetrating weapon, GM's call, the barrier takes 1 point (or maybe 0 points) of damage and the rest continues through
+    - Ex: Bullets, stabbing with a pointed blade
+    - Firing multiple rounds increases damage absorbed/taken by barrier: 2 for 3 bullets, 3 for 6 bullets, 4 for 10
+    - Reminder: if the attack's DV is not equal to or greater than the Armor, it is stopped dead, no damage taken, none goes through
+##### Body Barriers
+- If using a body to block, use Body for Structure, Armor = Armor
+- Bodies are awkward to use as a shield, take AGI and REA penalty equal to difference between holder's STR and body's BODY
+**Takeaways**
+- You can kick down concrete if you're borged up enough
+- Shooting through barriers is easier than shooting them apart
+- Automatic fire is more effective at breaking things but still sucks
+- Hell yeah there are rules for meatshields
 #### Vehicles
+`TODO`
 #### Healing
-
-
+##### First Aid
+- Needs medkit (even if it's out of supplies), only within 1hr of taking the damage
+- Roll First Aid + Logic [Mental] (2), see *healing modifiers pp208*
+    - Net hits remove boxes of damage, divide in half if target is wearing full-body armor
+    - Crit glitch increases that type of damage by 1d3 instead
+    - Max healable damage equals First Aid skill rating
+- Can only apply First Aid once per set of wounds, can't do if character has been magically healed
+    - Can do Heal spell after First Aid however
+- In combat, Complex Action and takes number of Combat Turns equal to number of boxes of damage being healed
+    - Healing character must spend the Complex Action every Turn, can use other Passes to do other things
+- Can also roll First Aid to diagnose someone or check their condition
+##### Natural Recovery
+- Can bolster with medkits or autodoc drones
+- Healing naturally is an Extended Test, record hits for each roll separately in case healing is interrupted
+    - Stun: BOD + WIL (1 hr) Extended Test, hits = boxes of Stun damage healed
+    - Phys: BOD + BOD (1 day) Extended Test, hits = boxes of Phys damage healed
+    - Must rest entire time period, forced unconsciousness counts
+- Stun damage heals first, then Physical damage, sequentially
+- Glitch doubles the time for that healing increment
+    - Crit glitch doubles as above and also increases that type of damage by 1d3
+##### Medicine
+- To speed up healing, roll Medicine + LOG [Mental], see healing modifiers as above, net hits give +dice to petient's next healing roll
+    - Treatment takes 10m per hour for Stun, 30m per day for Physical
+- Can diagnose or check condition just like First Aid
+- Cannot use in combat
+##### Medkits and Autodocs
+- In combat, medkit/autodoc is Complex Action to apply it, then get +rating dice if wireless medkit
+    - If autodoc, +dice of its First Aid or Medicine autosoft
+    - If untrained in First Aid, can use LOG-1 as attr, and device's rating instead of skill
+    - Wireless medkit left unattended but hooked up can roll its rating+rating [rating] on its own
+##### Magical Healing
+- Heal spell can heal, each hit heals one box of Physical damage, maximum of spell's Force
+- Sorcery can't heal damage from magical Drain
+##### Stabilization
+- If not stabilized, take one box of damage every BOD minutes
+- To stabilize, {First Aid or Medicine} + LOG [Mental] (3) Test, see modifiers as above
+    - If failed, can keep trying at cumulative -2 per test
+- Stabilize spell can stabilize, Heal spell cannot
+- Must stabilize before using mundane/magical healing
+**Takeaways**
+- Being borged up or Awakened makes medical aid hard
+- Having high initiative means you can heal people and keep shooting at the same time
+- If you have the time, First Aid skill before Heal spell, then Medicine skill
+- Medkits are fire and forget, don't need to be skilled, but will barely do anything
 ### Matrix
+`TODO`
+### Magic
+#### Introduction
+- Awakened are people who can manipulate mana
+- Mana ebbs with pollution and human misery
+- Types
+    - Magicians- can cast spells and summon spirits
+    - Adepts - can channel mana into body
+- Social order
+    - 2nd and 3rd gen are at the top
+    - Mainstream magicians/adepts one day just awakened, lower 'class'
+        - Full magicians usually feel superior to aspected
+- Magical industry has built up over time, resulting in regular curio shops and alchemy stores
+- Public still ignorant of magic
+    - Most not as nervous as before, but still lack understanding of how it works
+    - Regardless, lot of regulations for its use, licensing etc
+- Magic utility
+    - Adepts can surpass mundane limits, magicians create esoteric effects
+    - Risk of being targeted first out of fear
+- Super forbidden magic = maleficum
+    - Tends to warp the brains of users
+#### Magic Basics
+- Magic attribute determines power
+    - Can undergo *initiation pp324* to raise it
+    - For every lost point (incl. partial) of Essence, reduce Magic attr and max rating by 1
+        - If attr reduced to 0, can't use magic, if max rating reduced to 0, permanently burned out and now mundane
+- Sorcery skills make spells - Spellcasting, Counterspelling, Ritual Casting
+- Conjuring skills summon spirits - Summoning, Binding, Banishing
+- Enchanting skills imbue objects with magic - Alchemy, Artificing, Disenchanting
+- Force attribute measures magical power of object, being, spell, etc., used as a Limit for magic performed without reagents or foci
+- Astral limit is higher of Mental or Social limit
+- Magical actions can cause Drain, generally but not always inflicted as Stun damage
+    - Resist with Drain Resistance test, can't be healed except by natural recovery
+- Power points let adepts buy permanent powers, at chargen and later with Karma
+    - Gain from raising Magic attr, or initiation
+    - If you lose Magic attr points, you also lose Power Points (have to lose powers to make up the difference)
+#### Traditions
+- All magicians have a magical tradition, which is a way of helping them use their magic
+    - Hermetic magicians called mages, shamanic magicians called shamans
+    - Determines types of spirits, powers, drain resistance attributes, etc.
+- Hermetic mages - see magical universe as following logical patterns
+    - Tend to follow instructional texts, use formulae, symbols, fine equipment
+    - Reagents often minerals, ores, chemicals, antiques
+    - Often arrogant, magic based on imposing will on world
+- Shamans - see magical universe as based on harmony and guidance, balancing their will with the world
+    - Focus on spirits and spiritual guidance
+    - Reagents often plant or animal parts, naturally purified or altered materials, handcrafted objects
+    - Often develop personal connections to spirits
+#### Magical Lodges
+- Stationary collection of symbols, tools, writings, fetishes, and mystic materials
+    - Helps spellcasters record their lore, expand their talent, practice magic
+    - Not portable
+- Cost and time to set up based on Force
+    - Can improve with more money
+#### Perceiving Magic
+- 
+#### Sorcery
+#### Spell Characteristics
+#### Counterspelling
+#### Ritual Spellcasting
+#### Rituals
+#### Learning Spells
+#### Conjuring
+#### Enchanting
+#### Adepts
+#### The Astral World
+#### Mana Barriers
+#### Reagents
+#### Foci
+#### Mentor Spirits
+#### Initiation
 
 ## Anya prep
-- Picrew
-    - Tokenize
 - Appearance
-    - Age
-    - Height, weight
     - Notable features
-    - Fake SIN names
 - Demeanor
     - Think about hard questions to ask, write down answers
     - Crushes: College folks, nobody since, standards dropping but hasn't tried yet at work
@@ -479,11 +617,9 @@
 - Gear details
     - What is she carrying right now?
     - What is her living situation? What does the place look like?
+        - Squatting in a converted truck
 - Enter info into Foundry
-    - Stats
     - Gear
-    - Token/Pic
-- Exit chargen mode
-    - Ask if I get XP for missed sessions?
+    - Ask if I get Karma for missed sessions?
 - Begin session log
     - Note down party member details

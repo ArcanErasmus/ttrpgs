@@ -84,3 +84,14 @@ Motion sensor
 Olfactory scanner
 Radio signal scanner
 Ultrasound
+
+Remington Suppressor
+acc 6+2+1=9
+dam 7p
+ap -1
+conceal -10
+shooting perception -4-1=-5 (also see subsonic ammo -2)
+to hit +2
+rc +1+1
+laser rangefinder: tells distance to target
+improved range finder: -1 range penalties
