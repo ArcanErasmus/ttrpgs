@@ -1,10 +1,32 @@
 # Anya "Clipper" Ulan's Journal
-### Session 05?future - 2025-08-15
+### Session 06?future - 2025-08-27???
+- **NOTE** Check my new purchases under the Karma & Nuyen tab and adjust current cash
+- **NOTE** Mention the ghoul upstairs
+- **NOTE** Figure out how Anya can come across as valuable to the team
+    - Ask if they have an opening
+    - They will counter with her instability
+        - I got in without being stopped, it only went hot when your team started opening fire
+        - First resort was a flashbang
+        - Faster than anyone here, experienced martial artist
+        - Can follow orders
+        - *Reckless option: Find sword lady and tag her.*
+        - If they need a fence, I have one
+
+### No Session - 2025-08-22
+- Ari is acquiring a biomod
+
+### Session 05 - 2025-08-15
 - **NOTE** Flash-bang grenade goes off next Combat Turn (Round 3) on the first initiative pass on initiative 0
 - **NOTE** Legs finish rebooting at the end of this Combat Turn (Round 2)
     - Will need to spend 2 Free actions disabling foot anchors
-- **NOTE** Check my new purchases under the Karma & Nuyen tab and adjust current cash
-
+- Combat finished up
+    - Clipper managed to shoot a civvie, flashbang some members of the shadowrunners, attract attention of a ghoul
+    - She's stuck negotiating for loot with the mysterious team
+    - She knows
+        - Crazy looking lady with a sword
+        - Gun user
+        - Hacker (somewhere, connected to her phone)
+- +3 Karma (12/0)
 ### Session 04 - 2025-08-07
 - Pre-start notes:
     - *Lifestyle:* Gremlins = No hit, so 1 C&N = Resist 4S Fatigue, result: 0 damage

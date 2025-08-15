@@ -95,3 +95,19 @@ to hit +2
 rc +1+1
 laser rangefinder: tells distance to target
 improved range finder: -1 range penalties
+
+Shopping List
+- PPP Legs Kit - $300
+- Grey Mana Integration on an armor piece - 1k/rating for 1-3, 2k/rating for 4-6, meaning $12k for the best
+- More augs - $lots
+  - More bulk modification on legs - $500/point up to 4 each side
+  - Reakt - $73k
+  - Reaction Optimization (+1 init) - $6.6k
+  - Cerebellum Booster (LOG) - $60k x1-2
+  - Cerebral Booster (INT) - $38k x1-3
+  - Expanded Volume (+Fatigue Resist) - $2.5k x1-4
+- Proper medical care - $36k
+- Somewhere to live - $?
+- Better fake SIN - rating 6 + 4 licenses = $20k
+- Maybe a motorbike would be nice - suzuki mirage = $8.5k
+- Bottom surgery - $10k
