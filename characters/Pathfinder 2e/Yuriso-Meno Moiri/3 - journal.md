@@ -27,8 +27,13 @@ Appropriate Lores
 
 ### 2025-08-24, No Session
 
-### Session 36?future - 2025-08-17
-### Session 35?future - 2025-08-10
+### Session 35 - 2025-08-17
+- We go to where the supposed new sally port is
+    - There is a cave with bears that shouldn't be there, clearly dominated
+    - We fight the bears and their fleas and kill them
+
+### 2025-08-09, No Session
+
 ### Session 34 - 2025-08-02
 - We head to an abandoned warehouse in The Shambles with a strange symbol painted on it
     - Full of decomposing undead swaying in place
