@@ -1,5 +1,15 @@
 # Anya "Clipper" Ulan's Journal
-### Session 06?future - 2025-08-27???
+### Session 07?future - 2025-09-11
+### Session 06 - 2025-09-04
+- We start looting
+    - AK97
+    - 6x Heavy pistol + 18x mags
+    - 6x Commlink, 5x biomonitor
+    - cred(190),cred(100),cred(90),cred(70),cred(70),cred(60)
+    - Damaged armored jacket
+    - Diamond ring, gold chain, some other rings
+    - Techy headphones, nice goggles, AR gloves
+    - cash(3400 UCAS Cash), 15 doses some inhaled drug
 - **NOTE** Check my new purchases under the Karma & Nuyen tab and adjust current cash
 - **NOTE** Mention the ghoul upstairs
 - **NOTE** Figure out how Anya can come across as valuable to the team
@@ -12,6 +22,7 @@
         - *Reckless option: Find sword lady and tag her.*
         - If they need a fence, I have one
 
+### No Session - 2025-08-27
 ### No Session - 2025-08-22
 - Ari is acquiring a biomod
 
