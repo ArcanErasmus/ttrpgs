@@ -10,6 +10,11 @@
     - Diamond ring, gold chain, some other rings
     - Techy headphones, nice goggles, AR gloves
     - cash(3400 UCAS Cash), 15 doses some inhaled drug
+- Clipper is able to catch a ride back to the garage
+    - Everyone drops their stuff
+    - We meet the replacement for Val: Brick
+        - Brick is very simple, only says "Brick"
+        - Brick's payment is covered by Brick's employers
 - **NOTE** Check my new purchases under the Karma & Nuyen tab and adjust current cash
 - **NOTE** Mention the ghoul upstairs
 - **NOTE** Figure out how Anya can come across as valuable to the team
