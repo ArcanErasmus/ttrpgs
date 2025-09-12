@@ -1,5 +1,73 @@
 # Anya "Clipper" Ulan's Journal
-### Session 07?future - 2025-09-11
+### Session 08?future - 2025-09-18
+### Session 07 - 2025-09-11
+- *Illness:* Took meds (2 doses left) = BOD+BOD (2), result: No penalty
+- Folks crash for the night
+    - Ari stays with Katsumi in the van
+    - Willow drags Sekhmet into a room
+    - Clipper grabs an empty room
+    - Brick seems to hang around the main room
+- 2075/02/08, Friday - The morning after 
+    - Everyone bumbles out for breakfast, Clipper helps Sekhmet actually cook the ramen before eating it
+    - Ari, Willow, and Katsumi go meet their fixer and receive payment
+        - When they come back Ari doles out $1000 UCAS to each of the other four paid members (Katsumi, Willow, Sekhmet, Clipper)
+    - Clipper reciprocates by sharing her own pilfered cash, this turns into us pooling and sorting the loot
+    - Ari, Willow, Katsumi go out again, this time to meet Willow's ex Miryam and daughter Laesal
+        - Also run into Miryam's new partner Mickey
+        - It starts out relatively fine, but explodes once Laesal appears (she was supposed to be at school) and a lot of truths come out
+    - Sekhmet, Clipper, Brick answer a knock at the door, it's one of the neighbors, Safiya Stack
+        - We make introductions and she helps us pick up trash out front
+        - She points Sekhmet to a local dealer on the corner
+    - We go check out her wares, it's pretty soft stuff but the proximity is convenient
+        - Clipper chats with Sekhmet about their respective mods
+- Loot - Magic
+    - Hermetic Magic lodge supplies (500 nuyen)
+    - 20 drams of hermetic reagents (400 nuyen)
+    - ??? formula (??? nuyen)
+    - ??? formula (??? nuyen)
+- Loot - Weapons
+    - Enfield AS-7 w/ gas-vent 1, drum mag, stock, and shock-pad (1350 nuyen)
+        - Enfield Drum Clip (regular ammo 18/24) (41 nuyen)
+        - Enfield Drum Clip (regular ammo 24/24) (53 nuyen)
+        - Enfield Drum Clip (APDS 24/24) (293 nuyen)
+    - Krime Heater (190 nuyen)
+        - 2x Heater Clips (regular ammo 8/8): 4 (nuyen total)
+        - Heater Clip (Hollow Point 8/8) (61 nuyen)
+    - 6x Browning Ultra-Power: 640 nuyen
+        - 18x Browning Clip (regular ammo 10/10) (225 nuyen)
+    - 2x AK-97s (1900 nuyen)
+        - AK Clip (regular ammo 32/38) (69 nuyen)
+        - AK Clip (regular ammo 28/38) (61 nuyen)
+    - 4x Colt M23s (2200 nuyen total)
+        - 96 APDS shotgun slugs (1152 nuyen)
+        - 74 regular shotgun slugs (148 nuyen)
+        - 32 hollow point heavy pistol rounds (224 nuyen)
+        - 24 regular heavy pistol (48 nuyen)
+        - 400 regular assault rifle ammo (800 nuyen)
+- Loot - Meds and Wearables
+    - HemostatiX Dressing (500 nuyen)
+    - Armorer tool kit (500 nuyen)
+    - Goggles rtg 2 w/ Image Link, Flare Compensation (375 nuyen)
+    - AR Gloves (150 nuyen)
+    - Headphones rtg 4 w/ Audio Enhancement 2, Select Sound Filter, Sound Link: (1475 nuyen)
+    - Armor Jacket: 3500 nuyen but due to damage likely worth only half that; could be repaired for 350 nuyen and Arm + Log [Men] (10, 1 hour) extended test
+- Loot - Cash and Creds
+    - 7800 nuyen in UCAS $
+    - 580 nuyen credstick
+- Loot - Drugs
+    - 4 doses of kamikaze (400 nuyen)
+    - 15 doses of Jazz (1125 nuyen)
+        - Pawned to Drusa?
+- Loot - Pawnable
+    - 10x Electrical Parts (2000 nuyen)
+    - Diamond ring (500 nuyen)
+    - Golden Chain (200 nuyen)
+    - Assorted Rings (100 nuyen)
+    - 6x Common Denominator (commlink rtg 2) (4200 nuyen)
+    - medium trideo set: (500 nuyen)
+- +5 Karma (19/15) First Mission Complete!
+    - -5 Influence Group 0 -> 1
+
 ### Session 06 - 2025-09-04
 - We start looting
     - AK97

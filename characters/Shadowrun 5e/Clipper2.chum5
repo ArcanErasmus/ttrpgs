@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-1928615412</settingshashcode>
+  <settingshashcode>295540444</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>2</karma>
+  <karma>4</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -120,7 +120,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>432.000</nuyen>
+  <nuyen>0.000</nuyen>
   <startingnuyen>450000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -599,7 +599,7 @@
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>1</karma>
+        <karma>0</karma>
         <base>0</base>
         <notes />
         <notesColor>Chocolate</notesColor>
@@ -1385,9 +1385,9 @@
         <name>Firearms</name>
       </group>
       <group>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>0</base>
-        <isbroken>True</isbroken>
+        <isbroken>False</isbroken>
         <id>28abf785-e274-4b3a-9c22-8d95e07aa337</id>
         <name>Influence</name>
       </group>
@@ -1409,7 +1409,7 @@
   </newskills>
   <contacts>
     <contact>
-      <name>Diana Phan</name>
+      <name>Diana Phan (She/Her)</name>
       <role>Dealer</role>
       <location>Sticks and Stones</location>
       <connection>4</connection>
@@ -1434,6 +1434,35 @@
       <free>False</free>
       <groupenabled>True</groupenabled>
       <guid>714ffcab-f1c1-4fe0-97ea-288eb98e2dc4</guid>
+      <mainmugshotindex>-1</mainmugshotindex>
+      <mugshots />
+    </contact>
+    <contact>
+      <name>Drusa Jones (She/Her)</name>
+      <role>Street Vendor (Drugs)</role>
+      <location>Down the street</location>
+      <connection>1</connection>
+      <loyalty>2</loyalty>
+      <metatype />
+      <gender />
+      <age />
+      <contacttype>Swag</contacttype>
+      <preferredpayment />
+      <hobbiesvice />
+      <personallife />
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <groupname />
+      <colour>0</colour>
+      <group>False</group>
+      <family>False</family>
+      <blackmail>False</blackmail>
+      <free>False</free>
+      <groupenabled>True</groupenabled>
+      <guid>6b9cc4b8-8614-43a6-a129-07cd027c7d9e</guid>
       <mainmugshotindex>-1</mainmugshotindex>
       <mugshots />
     </contact>
@@ -12130,7 +12159,7 @@ This commlink comes standard as a wristband that is, as you’d expect, blue. De
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>3</qty>
+      <qty>2.0</qty>
       <avail>0</avail>
       <cost>5</cost>
       <weight />
@@ -15660,6 +15689,178 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <homenode>False</homenode>
       <sortorder>0</sortorder>
     </gear>
+    <gear>
+      <sourceid>ee174974-ff69-4dee-9803-034d809a0344</sourceid>
+      <guid>18c78249-51ac-4f4c-b6c2-f97c6f0ef23a</guid>
+      <name>UCAS Dollar ($)</name>
+      <category>Currency</category>
+      <capacity>[0.5]</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1000</qty>
+      <avail>0</avail>
+      <cost>0.5</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>RF</source>
+      <page>174</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>78db7fd1-b4b3-4bdd-b07b-acd0c75a5048</location>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
+      <guid>f6b0f99e-d025-4c18-8317-1598d680ed23</guid>
+      <name>Certified Credstick, Standard</name>
+      <category>ID/Credsticks</category>
+      <capacity>5000</capacity>
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>1.0</qty>
+      <avail>0</avail>
+      <cost>5</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>442</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype />
+      <canformpersona />
+      <devicerating>5</devicerating>
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children>
+        <gear>
+          <sourceid>45b1f2c4-99a3-421b-8c83-a7f574ecd39f</sourceid>
+          <guid>97fec15e-f872-4eb8-9edb-3a5b5c4e1e77</guid>
+          <name>Nuyen (¥)</name>
+          <category>Currency</category>
+          <capacity>[1]</capacity>
+          <armorcapacity />
+          <minrating />
+          <maxrating />
+          <rating>0</rating>
+          <qty>432</qty>
+          <avail>0</avail>
+          <cost>1</cost>
+          <weight />
+          <extra />
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <wirelesson>False</wirelesson>
+          <stolen>False</stolen>
+          <bonus />
+          <wirelessbonus />
+          <weaponbonus />
+          <flechetteweaponbonus />
+          <source>SR5</source>
+          <page>442</page>
+          <isflechetteammo>False</isflechetteammo>
+          <ammoforweapontype />
+          <canformpersona />
+          <devicerating />
+          <gearname />
+          <forcedvalue />
+          <matrixcmfilled>0</matrixcmfilled>
+          <matrixcmbonus>0</matrixcmbonus>
+          <parentid />
+          <allowrename>False</allowrename>
+          <children />
+          <location />
+          <notes />
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <programlimit />
+          <overclocked>None</overclocked>
+          <attack />
+          <sleaze />
+          <dataprocessing />
+          <firewall />
+          <attributearray />
+          <modattack />
+          <modsleaze />
+          <moddataprocessing />
+          <modfirewall />
+          <modattributearray />
+          <canswapattributes>False</canswapattributes>
+          <active>False</active>
+          <homenode>False</homenode>
+          <sortorder>0</sortorder>
+        </gear>
+      </children>
+      <location>78db7fd1-b4b3-4bdd-b07b-acd0c75a5048</location>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked />
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
   </gears>
   <vehicles />
   <metamagics />
@@ -18160,22 +18361,6 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       </undo>
     </expense>
     <expense>
-      <guid>036674d9-3dec-4b0d-90f8-4bb1a7989030</guid>
-      <date>2025-08-15T00:29:44</date>
-      <amount>-2</amount>
-      <reason>Active Skill Etiquette 0 -&gt; 1</reason>
-      <type>Karma</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>AddSkill</karmatype>
-        <nuyentype>AddCyberware</nuyentype>
-        <objectid>5fae8300-72bd-4578-a0ac-61f9e556bd02</objectid>
-        <qty>0</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>a67cde1c-1c18-4f3b-8106-27981ffeceb7</guid>
       <date>2025-08-15T00:29:51</date>
       <amount>-10</amount>
@@ -18223,6 +18408,54 @@ Synthetic fingernails that function the same as AR gloves.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>800e33db-85ed-47ac-b3e8-dcb9449447eb</guid>
+      <date>2025-09-11T20:08:05</date>
+      <amount>-432.0</amount>
+      <reason>Purchased Gear Nuyen (¥)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>97fec15e-f872-4eb8-9edb-3a5b5c4e1e77</objectid>
+        <qty>432</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>55c451d7-ba05-4100-8db5-5d290ab55f56</guid>
+      <date>2025-09-11T22:07:21</date>
+      <amount>5</amount>
+      <reason>Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5e8809bc-0aa2-4b98-b1fb-9eb155be0d40</guid>
+      <date>2025-09-11T23:01:14</date>
+      <amount>-5</amount>
+      <reason>Skill Group Influence 0 -&gt; 1</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkillGroup</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>28abf785-e274-4b3a-9c22-8d95e07aa337</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations>
     <location>
@@ -18234,7 +18467,7 @@ Synthetic fingernails that function the same as AR gloves.</notes>
     </location>
     <location>
       <guid>78db7fd1-b4b3-4bdd-b07b-acd0c75a5048</guid>
-      <name>Creds</name>
+      <name>Creds and Cash</name>
       <notes />
       <notesColor>Chocolate</notesColor>
       <sortorder>5</sortorder>
