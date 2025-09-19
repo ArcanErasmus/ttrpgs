@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>295540444</settingshashcode>
+  <settingshashcode>1361039708</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>4</karma>
+  <karma>6</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -282,7 +282,7 @@
   <groupname />
   <groupnotes />
   <totaless>1.18</totaless>
-  <physicalcmfilled>4</physicalcmfilled>
+  <physicalcmfilled>1</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <psyche>False</psyche>
   <newskills>
@@ -15003,7 +15003,7 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>4.0</qty>
+      <qty>9.0</qty>
       <avail>0</avail>
       <cost>100.00</cost>
       <weight />
@@ -15699,7 +15699,7 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>1000</qty>
+      <qty>581</qty>
       <avail>0</avail>
       <cost>0.5</cost>
       <weight />
@@ -18453,6 +18453,54 @@ Synthetic fingernails that function the same as AR gloves.</notes>
         <nuyentype>AddCyberware</nuyentype>
         <objectid>28abf785-e274-4b3a-9c22-8d95e07aa337</objectid>
         <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ef13df0c-97e8-4417-9855-42e6cec469c7</guid>
+      <date>2025-09-18T22:03:30</date>
+      <amount>2</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e344f99f-e4fc-4650-86c6-a4ac4e731eb7</guid>
+      <date>2025-09-18T22:31:44</date>
+      <amount>700</amount>
+      <reason>Sell UCAS$ and Jazz to Diana Phan</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>bc2c49a2-45f3-4e8c-ae2c-cf9ee62cfc40</guid>
+      <date>2025-09-18T22:32:59</date>
+      <amount>-700</amount>
+      <reason>Purchased Gear Daily Meds</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>218e44ed-2129-4b45-bbb4-054ad5c72226</objectid>
+        <qty>7</qty>
         <extra />
       </undo>
     </expense>

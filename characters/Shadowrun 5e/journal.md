@@ -1,13 +1,36 @@
 # Anya "Clipper" Ulan's Journal
-### Session 08?future - 2025-09-18
+### Session 09?future - 2025-09-25
+### Session 08 - 2025-09-18
+- Loot Math
+    25622 sell value
+    8380 cash
+- Willow, Katsumi, Ari return from their social call to find the garage much cleaner than when they left
+    - They introduce themselves to Safiya, who explains that the neighbors also donated a bunch of old furniture
+    - We discuss the loot distribution, decide what we are keeping and what is being sold
+        - Willow is going to handle pawning the electronics and jewelry
+        - Ari will find a discreet buyer for the firearms and ammunition
+        - Anya grabs the drugs
+    - Willow makes some progress identifying the magical ritual formulae she recovered
+- Anya gets on her bike and heads out to her pad to make sure it's still there
+    - Clears out everything of value from her car wreck
+    - She swings by Sticks and Stones to grab more of her meds from her dealer, Diana Phan (she/her)
+        - *Illness:* Bought 7 doses of meds (9 doses left)
+        - Anya decided to stay and hit the bags with Diana
+- Upon returning, Anya learns that while she was out, the garage was visited by a Mr Johnson
+    - Likely a Mafia member, the human paid for an "oil change" as a way of passing a business card
+    - Will have work for us
+- Evening reached, one day physical recovery: 3 hits, down to only 1P damage taken
+- +2 Karma (21/15)
+
 ### Session 07 - 2025-09-11
-- *Illness:* Took meds (2 doses left) = BOD+BOD (2), result: No penalty
 - Folks crash for the night
     - Ari stays with Katsumi in the van
     - Willow drags Sekhmet into a room
     - Clipper grabs an empty room
     - Brick seems to hang around the main room
-- 2075/02/08, Friday - The morning after 
+- 2075/02/08, Friday - The morning after
+    - *Lifestyle*: Slept at garage, no roll needed
+    - *Illness:* Took meds (2 doses left) = BOD+BOD (2), result: No penalty
     - Everyone bumbles out for breakfast, Clipper helps Sekhmet actually cook the ramen before eating it
     - Ari, Willow, and Katsumi go meet their fixer and receive payment
         - When they come back Ari doles out $1000 UCAS to each of the other four paid members (Katsumi, Willow, Sekhmet, Clipper)
@@ -17,7 +40,7 @@
         - It starts out relatively fine, but explodes once Laesal appears (she was supposed to be at school) and a lot of truths come out
     - Sekhmet, Clipper, Brick answer a knock at the door, it's one of the neighbors, Safiya Stack
         - We make introductions and she helps us pick up trash out front
-        - She points Sekhmet to a local dealer on the corner
+        - She points Sekhmet to a local dealer on the corner, Drusa Jones (she/her)
     - We go check out her wares, it's pretty soft stuff but the proximity is convenient
         - Clipper chats with Sekhmet about their respective mods
 - Loot - Magic
@@ -25,32 +48,28 @@
     - 20 drams of hermetic reagents (400 nuyen)
     - ??? formula (??? nuyen)
     - ??? formula (??? nuyen)
-- Loot - Weapons
-    - Enfield AS-7 w/ gas-vent 1, drum mag, stock, and shock-pad (1350 nuyen)
-        - Enfield Drum Clip (regular ammo 18/24) (41 nuyen)
-        - Enfield Drum Clip (regular ammo 24/24) (53 nuyen)
-        - Enfield Drum Clip (APDS 24/24) (293 nuyen)
+- Loot - Weapons and Armor
+    - Enfield AS-7 w/ gas-vent 1, shock-pad, using a drum mag (1350 nuyen)
+        - 3x Enfield AS-7 Spare Drum Clip (15 nuyen)
     - Krime Heater (190 nuyen)
-        - 2x Heater Clips (regular ammo 8/8): 4 (nuyen total)
-        - Heater Clip (Hollow Point 8/8) (61 nuyen)
-    - 6x Browning Ultra-Power: 640 nuyen
-        - 18x Browning Clip (regular ammo 10/10) (225 nuyen)
-    - 2x AK-97s (1900 nuyen)
-        - AK Clip (regular ammo 32/38) (69 nuyen)
-        - AK Clip (regular ammo 28/38) (61 nuyen)
-    - 4x Colt M23s (2200 nuyen total)
-        - 96 APDS shotgun slugs (1152 nuyen)
-        - 74 regular shotgun slugs (148 nuyen)
-        - 32 hollow point heavy pistol rounds (224 nuyen)
-        - 24 regular heavy pistol (48 nuyen)
-        - 400 regular assault rifle ammo (800 nuyen)
+        - 3x Krime Heater Spare Clip (15 nuyen)
+    - 6x Browning Ultra-Power (3840 nuyen)
+        - 18x Browning Ultra-Power Spare Clip (90 nuyen)
+    - 2x AK-97 (1900 nuyen)
+        - 2x AK-97 Spare Clip (10 nuyen)
+    - 4x Colt M23 (2200 nuyen)
+    - 116x shotgun regular (232 nuyen)
+    - 120x shotgun APDS (1440 nuyen)
+    - 460x assault rifle regular (920 nuyen)
+    - 220x heavy pistol regular (440 nuyen)
+    - 40x heavy pistol hollow point (280 nuyen)
+    - Armor Jacket (3500 nuyen) but due to damage likely worth only half that; could be repaired for 350 nuyen and Arm + Log [Men] (10, 1 hour) extended test
 - Loot - Meds and Wearables
     - HemostatiX Dressing (500 nuyen)
     - Armorer tool kit (500 nuyen)
     - Goggles rtg 2 w/ Image Link, Flare Compensation (375 nuyen)
     - AR Gloves (150 nuyen)
-    - Headphones rtg 4 w/ Audio Enhancement 2, Select Sound Filter, Sound Link: (1475 nuyen)
-    - Armor Jacket: 3500 nuyen but due to damage likely worth only half that; could be repaired for 350 nuyen and Arm + Log [Men] (10, 1 hour) extended test
+    - Headphones rtg 4 w/ Audio Enhancement 2, Select Sound Filter, Sound Link (1475 nuyen)
 - Loot - Cash and Creds
     - 7800 nuyen in UCAS $
     - 580 nuyen credstick
@@ -64,7 +83,7 @@
     - Golden Chain (200 nuyen)
     - Assorted Rings (100 nuyen)
     - 6x Common Denominator (commlink rtg 2) (4200 nuyen)
-    - medium trideo set: (500 nuyen)
+    - medium trideo set (500 nuyen)
 - +5 Karma (19/15) First Mission Complete!
     - -5 Influence Group 0 -> 1
 
@@ -115,10 +134,9 @@
     - -10 EDG 1 -> 2
 
 ### Session 04 - 2025-08-07
-- Pre-start notes:
+- 2075/02/07, Thursday - Clipper has tried to bust in to a gang house to steal from them
     - *Lifestyle:* Gremlins = No hit, so 1 C&N = Resist 4S Fatigue, result: 0 damage
     - *Illness:* Took meds (3 doses left) = BOD+BOD (2), result: No penalty
-- 2075/02/07, Thursday - Clipper has tried to bust in to a gang house to steal from them
     - She's been hacked and they've locked her out of her leg controls, with her foot anchors activated
 - There's noise from the ground floor as glass shatters and shots are fired
     - Clipper reboots her legs, waiting anxiously
