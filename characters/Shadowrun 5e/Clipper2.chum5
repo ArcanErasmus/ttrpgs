@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>1361039708</settingshashcode>
+  <settingshashcode>-1525459444</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>6</karma>
+  <karma>9</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -120,7 +120,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>0.000</nuyen>
+  <nuyen>412.000</nuyen>
   <startingnuyen>450000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -282,7 +282,7 @@
   <groupname />
   <groupnotes />
   <totaless>1.18</totaless>
-  <physicalcmfilled>1</physicalcmfilled>
+  <physicalcmfilled>0</physicalcmfilled>
   <stuncmfilled>0</stuncmfilled>
   <psyche>False</psyche>
   <newskills>
@@ -7699,7 +7699,7 @@ A user with boosted reflexes gains +1D6 for Initiative.</notes>
             <name>Balance Augmenter</name>
           </wirelesspairinclude>
           <children />
-          <notes>Balance augmenter: The balance augmenter en- hances the inner ear’s natural balance mechanism. You</notes>
+          <notes>Balance augmenter: The balance augmenter enhances the inner ear’s natural balance mechanism. You receive one bonus die on all tests involving balance, such as climbing, walking across a narrow platform, landing after a jump, and so on.</notes>
           <notesColor>Chocolate</notesColor>
           <discountedcost>False</discountedcost>
           <addtoparentess>False</addtoparentess>
@@ -7934,7 +7934,8 @@ Wireless Bonus: Access to a public database that allows these sounds to be compa
             <name>Audio Enhancement</name>
           </wirelesspairinclude>
           <children />
-          <notes>Audio enhancement: An implanted version of audio enhancement (p. 445).</notes>
+          <notes>Audio enhancement allows the user to hear a broader spectrum of audio frequencies, including high and low frequencies outside the normal metahuman audible spectrum. The user also experiences fine discrimination of nuances and can block out distracting background noise. Audio enhancement adds its Rating to your limit in audio Perception Tests.
+Wireless: Add the audio enhancement’s rating as a dice pool modifier to your audio Perception Tests.</notes>
           <notesColor>Chocolate</notesColor>
           <discountedcost>False</discountedcost>
           <addtoparentess>False</addtoparentess>
@@ -15003,7 +15004,7 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>9.0</qty>
+      <qty>8.0</qty>
       <avail>0</avail>
       <cost>100.00</cost>
       <weight />
@@ -15731,121 +15732,6 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <discountedcost>False</discountedcost>
       <programlimit />
       <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>0</sortorder>
-    </gear>
-    <gear>
-      <sourceid>c56554d1-4102-446f-8d3e-acd0c7404c3a</sourceid>
-      <guid>f6b0f99e-d025-4c18-8317-1598d680ed23</guid>
-      <name>Certified Credstick, Standard</name>
-      <category>ID/Credsticks</category>
-      <capacity>5000</capacity>
-      <armorcapacity />
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <qty>1.0</qty>
-      <avail>0</avail>
-      <cost>5</cost>
-      <weight />
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>442</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype />
-      <canformpersona />
-      <devicerating>5</devicerating>
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children>
-        <gear>
-          <sourceid>45b1f2c4-99a3-421b-8c83-a7f574ecd39f</sourceid>
-          <guid>97fec15e-f872-4eb8-9edb-3a5b5c4e1e77</guid>
-          <name>Nuyen (¥)</name>
-          <category>Currency</category>
-          <capacity>[1]</capacity>
-          <armorcapacity />
-          <minrating />
-          <maxrating />
-          <rating>0</rating>
-          <qty>432</qty>
-          <avail>0</avail>
-          <cost>1</cost>
-          <weight />
-          <extra />
-          <bonded>False</bonded>
-          <equipped>True</equipped>
-          <wirelesson>False</wirelesson>
-          <stolen>False</stolen>
-          <bonus />
-          <wirelessbonus />
-          <weaponbonus />
-          <flechetteweaponbonus />
-          <source>SR5</source>
-          <page>442</page>
-          <isflechetteammo>False</isflechetteammo>
-          <ammoforweapontype />
-          <canformpersona />
-          <devicerating />
-          <gearname />
-          <forcedvalue />
-          <matrixcmfilled>0</matrixcmfilled>
-          <matrixcmbonus>0</matrixcmbonus>
-          <parentid />
-          <allowrename>False</allowrename>
-          <children />
-          <location />
-          <notes />
-          <notesColor>Chocolate</notesColor>
-          <discountedcost>False</discountedcost>
-          <programlimit />
-          <overclocked>None</overclocked>
-          <attack />
-          <sleaze />
-          <dataprocessing />
-          <firewall />
-          <attributearray />
-          <modattack />
-          <modsleaze />
-          <moddataprocessing />
-          <modfirewall />
-          <modattributearray />
-          <canswapattributes>False</canswapattributes>
-          <active>False</active>
-          <homenode>False</homenode>
-          <sortorder>0</sortorder>
-        </gear>
-      </children>
-      <location>78db7fd1-b4b3-4bdd-b07b-acd0c75a5048</location>
-      <notes />
-      <notesColor>Chocolate</notesColor>
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked />
       <attack />
       <sleaze />
       <dataprocessing />
@@ -18409,22 +18295,6 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       </undo>
     </expense>
     <expense>
-      <guid>800e33db-85ed-47ac-b3e8-dcb9449447eb</guid>
-      <date>2025-09-11T20:08:05</date>
-      <amount>-432.0</amount>
-      <reason>Purchased Gear Nuyen (¥)</reason>
-      <type>Nuyen</type>
-      <refund>False</refund>
-      <forcecareervisible>False</forcecareervisible>
-      <undo>
-        <karmatype>ImproveAttribute</karmatype>
-        <nuyentype>AddGear</nuyentype>
-        <objectid>97fec15e-f872-4eb8-9edb-3a5b5c4e1e77</objectid>
-        <qty>432</qty>
-        <extra />
-      </undo>
-    </expense>
-    <expense>
       <guid>55c451d7-ba05-4100-8db5-5d290ab55f56</guid>
       <date>2025-09-11T22:07:21</date>
       <amount>5</amount>
@@ -18501,6 +18371,38 @@ Synthetic fingernails that function the same as AR gloves.</notes>
         <nuyentype>AddGear</nuyentype>
         <objectid>218e44ed-2129-4b45-bbb4-054ad5c72226</objectid>
         <qty>7</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4b2874b1-5126-4d90-9602-1a2fa7553abb</guid>
+      <date>2025-09-25T22:00:11</date>
+      <amount>3</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ed931139-900c-4d85-8013-faa8a63b69e0</guid>
+      <date>2025-09-25T22:10:01</date>
+      <amount>-20</amount>
+      <reason>Buy drinks at strip club</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
         <extra />
       </undo>
     </expense>

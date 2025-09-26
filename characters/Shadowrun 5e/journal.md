@@ -1,5 +1,29 @@
 # Anya "Clipper" Ulan's Journal
-### Session 09?future - 2025-09-25
+### Session 10?future - 2025-10-02
+### Session 09 - 2025-09-25
+- 2075/02/09, Saturday - Second day of downtime
+    - *Lifestyle*: Slept at garage, no roll needed
+    - *Illness:* Took meds (8 doses left) = BOD+BOD (2), result: No penalty
+- Ari gets a message from our new Johnson, telling her to meet tonight at a strip club
+    - Willow and Ari keep their search for buyers going
+    - Anya goes around to meet the neighbors, see if anyone needs help
+        - One person asks her for a hand grinding wild grains
+    - Sekhmet 'spars' with Brick - takes a big open-hand slap to the face, is happy it hurt
+- At the strip club
+    - We skip the line, Sekhmet and Clipper go to hang out in the club
+    - Ari and Willow head into negotiations, bringing Katsumi and Brick as the silent muscle
+- Job negotiations
+    - Head into a chop shop, kill everyone, and plant cameras to catch whoever comes in afterwards
+    - Leave no trace and no living witnesses
+    - No immediate deadline (1 month max)
+    - Payment: $10k/head
+        - Bonus: Will also try to burn Willow's criminal SIN if we do a good job
+- Ari, Katsumi, Brick head back home, hang out doing some media zoning out
+- Sekhmet, Willow, Anya stay at the club for a bit and then take the bus home
+    - They get flirty on the bus, implication that they will share a bed when they get home
+    - Ari hacks Anya's eyes while she's on the bus, sees her staring at Willow's cleavage, and disconnects to bleach her brain
+- +3 Karma (24/15)
+
 ### Session 08 - 2025-09-18
 - Loot Math
     25622 sell value
