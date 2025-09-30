@@ -602,24 +602,377 @@
 #### Mentor Spirits
 #### Initiation
 
-## Anya prep
-- Appearance
-    - Notable features
-- Demeanor
-    - Think about hard questions to ask, write down answers
-    - Crushes: College folks, nobody since, standards dropping but hasn't tried yet at work
-    - Dream job: Spaceship pilot, made impossible by Erasure and TBI
-- BG Details
-    - What corp fucked her over?
-    - Where was the accident?
-    - Where is she from?
-    - What school did she start going to before this?
-- Gear details
-    - What is she carrying right now?
-    - What is her living situation? What does the place look like?
-        - Squatting in a converted truck
-- Enter info into Foundry
-    - Gear
-    - Ask if I get Karma for missed sessions?
-- Begin session log
-    - Note down party member details
+### Technomancer Rules
+#### AR and VR
+- Always in AR at minimum
+- Dropping into VR mode puts you in a trance
+    - +2 to all Matrix actions but not Resonance actions
+    - Can only hot-sim, no cold-sim
+- Resonance Actions are only usable in the Matrix, but are not Matrix Actions
+    - No Overwatch score gain
+    - No VR dice bonuses apply
+
+#### Resonance
+- Max rating is Essence rounded down
+- Whenever lose Essence, lose equal amt of Resonance rounded up
+    - Hitting zero Resonance means losing Technomancer quality and all Resonance abilities
+
+##### Resonance Actions *pp250*
+- Call/Dismiss Sprite (Simple Action)
+    - Call a Registered Sprite you have waiting in the Resonance
+    - Appears at the beginning of the next Combat Turn
+    - If used to Dismiss, releases it from any remaining owed tasks, and it vanishes on its next action
+- Command Sprite (Simple Action)
+    - Command a Sprite to do a task
+- Compile Sprite (Complex Action) *pp254*
+    - Compiling + Resonance [Level] vs Sprite Level
+    - Creates a Compiled Sprite
+- Decompile Sprite (Complex Action) *pp256*
+    - Decompiling + Resonance [Social] vs Sprite Level (+ Compiler's Resonance if Registered)
+    - Attempts to decompile a Sprite
+- Kill Complex Form (Complex Action) *pp251*
+    - Software + Resonance [Mental] vs CF Level + Threader's Resonance
+    - Attempts to kill a CF
+- Register Sprite (Complex Action) *pp254*
+    - Registering + Resonance [Level] vs Sprite Level + Sprite Level
+    - Registers a Compiled Sprite
+- Thread Complex Form (Complex Action) *pp251*
+    - Software + Resonance [Level] vs special
+
+#### Resonance Signatures
+- Resonance signature left behind by any Resonance ability
+    - Lasts your rating hours
+    - Can be detected by Resonance beings with 3 hits on Matrix Perception test
+    - Can be recognized if seen before (or Memory test)
+    - With 5+ hits, get impression of what kind of being or ability left it
+- Resonance beings have a signature on themselves at all times at their rating
+    - Sprites and their actions leave signatures based on the compiling TM
+- Can hide a Resonance signature for 1 combat turn per hit on Erase Signature
+
+#### The Living Persona *pp250*
+- You cannot store data, have to put it on a "nearby device"
+- Matrix Attributes
+    - Device Rating = Resonance
+    - Attack = Charisma
+    - Sleaze = Intuition
+    - Data Processing = Logic
+    - Firewall = Willpower
+- Matrix damage is taken as Stun damage
+- You cannot be a slave or master, or part of a PAN or WAN
+- May add Resonance to Addiction tests for hot-sim
+- +2 to Matrix Perception tests
+- Resonance abilities cannot be used through other devices (commlink, deck, etc)
+- Can reboot your living persona as Reboot Device, but it doesn't count as a Matrix Action
+
+#### Thread Complex Form *pp251*
+- Uses the Thread Complex Form Resonance Action
+    - Must also choose a Level for the effect (up to 3x Resonance)
+    - Affected by noise, grid modifiers
+- Complex Forms only usable on spotted icons
+    - CFs that target Devices can target Personas *pp252*
+- Sustaining
+    - -2 to all actions per CF sustained
+    - Anything that breaks concentration requires Resonance + Willpower (2) test
+    - Cannot sustain when unconscious
+- CFs always cause Fading
+    - Fading = CF Fade Value or DV 2, whichever higher
+        - Fade Values are based on the Form and Level
+    - Threading test
+        - If net hits > Resonance rating, P damage
+        - If net hits <= Resonance rating, S damage
+- To kill another TM's CF without their permission, roll Software + Resonance [Mental] vs (CF Level) + (threader's Resonance)
+    - Net hits reduce hits from their threading test, CF ended when reduced to 0
+    - Must resist Fading as if you threaded the targeted CF
+- Learn a CF by analyzing it with Software + Intuition [Mental]
+    - Days to learn = 12 / net hits
+    - Spend karma to learn at end of period
+    - Can know max Resonance x2 CFs
+
+#### Complex Forms List - Target, Duration, Fading Value
+- As a reminder, any Device-targeting CF can be used on a Persona
+- Duration can be (I)mmediate, (S)ustained, or (P)ermanent
+    - Permanent CFs remain if you sustain them for a number of Combat Turns equal to their Level
+- Fading Value is based on the Level of the CF plus the modifier
+    - As a reminder, it is capped at a minimum of 2
+
+##### Cleaner *pp252* - Persona,P,+1
+- Simple Software + Resonance [Level] test
+    - Net hits reduce target's Overwatch score
+
+##### Diffusion of Attack *pp252* - Device,S,+1
+##### Diffusion of Sleaze *pp252*
+##### Diffusion of Data Processing *pp252*
+##### Diffusion of Firewall *pp252*
+- Opposed Software + Resonance [Level] vs Willpower + Firewall test
+    - If you win, that attribute is reduced by net hits, to a min of 1
+- Each Matrix Attribute is a different CF
+- Common house rule: Each attr can only be affected by a single Diffusion at once, a newer one replacing the older
+
+##### Editor *pp252* - File,P,+2
+- Opposed Software + Resonance [Level] vs Intuition + Data Processing of the file's owner
+    - Can make same amt changes with as you would with your net hits in Edit File actions
+
+##### Infusion of Attack *pp252* - Device,S,+1
+##### Infusion of Sleaze *pp252*
+##### Infusion of Data Processing *pp252*
+##### Infusion of Firewall *pp252*
+- Level must be >= value of targeted Attribute
+- Software + Resonance [Level] test
+    - Increase attr by net hits, max twice its normal rating
+- Each attr can only be affected by a single Infusion at once
+- If a boosted attr is swapped by a Reconfigure action, the CF ends
+
+##### Static Veil *pp252* - Persona,S,-1
+- Software + Resonance [Level] test, threshold (1) on public grid, (2) on any other grid
+    - While sustained, target's Overwatch score doesn't increase due to time
+
+##### Pulse Storm *pp252* - Persona,I,+0
+- Opposed Software + Resonance [Level] vs Logic + Data Processing
+    - Target's noise increased by your net hits
+
+##### Puppeteer *pp252* - Device,I,+4
+- Opposed Software + Resonance [Level] vs Willpower + Firewall
+    - Threshold (1) for free action, (2) for simple action, (3) for complex action
+    - On success, target performs the chosen Matrix Action as its next available action
+
+##### Resonance Channel *pp252* - Device,S,-1
+- Software + Resonance [Level] test
+    - Reduce noise due to distance to the target by net hits
+
+##### Resonance Spike *pp253* - Device,I,+0
+- Opposed Software + Resonance [Level] vs Willpower + Firewall
+    - 1 box Matrix damage per net hit, unresisted
+
+##### Resonance Veil *pp253* - Device,S,-1
+- Opposed Software + Resonance [Level] vs Intuition + Data Processing
+    - Success makes target believe something has happened in the Matrix
+    - Even if the target has reason to disbelieve what it's seeing, it must make a Matrix Perception with threshold of net hits to see through the illusion
+
+##### Static Bomb *pp253* - Self,I,+2
+- Opposed Software + Resonance [Level] vs Intuition + Data Processing against all icons that have spotted you
+    - You are no longer spotted by any that you beat unless they have a mark on you
+
+##### Stitches *pp253* - Sprite,P,-2
+- Software + Resonance [Level] test
+    - Remove net hits boxes of Matrix damage from the target sprite
+
+##### Transcendent Grid *pp253* - Self,I,-3
+- Connect to all grids at once, meaning you take no penalty for accessing across grids, but neither do others targeting you
+    - Also, you take no public grid penalty
+- Software + Resonance [Level] test
+    - Lasts for minutes equal to net hits
+
+##### Tattletale *pp253* - Persona,P,-2
+- Software + Resonance [Level] test
+    - Increase target's Overwatch score by net hits
+- Only works if target already has an Overwatch score
+
+##### Derezz *DT pp58* - Persona,I,+2
+- Opposed Software + Resonance [Level] vs Willpower + Firewall
+    - 1 box Matrix damage per net hit, unresisted
+- Any success drops the target's Firewall attr by 1 until device rebooted (does not stack)
+
+##### FAQ *DT pp58* - Device,P,+0
+- Target a device you physically have, or a Host you are currently inside
+- Computer + Intuition [Level] test with Level/2 (round up) bonus dice
+    - GM provides info, based on net hits, on what exactly has been going on with the device/host, what its true purpose is
+    - Truly obscure or long-forgotten information requires 6 hits
+
+##### IC Tray *DT pp58* - Host,I,-2
+- Scans the host you are currently in for IC it is equipped to deploy
+- Opposed Software + Resonance [Level] vs Host Rating + Sleaze test
+    - Displays a number of IC up to net hits on test
+
+##### Redundancy *DT pp58* - Device,S,+0
+- Software + Resonance [Level] test
+    - Grant the device additional temporary Matrix Damage Track boxes equal to net hits
+
+##### Misread Marks *DT pp58* - IC,P,+2
+- Software + Resonance [Level] test
+    - Lasts for a number of actions (Simple/Complex, not counting Free) equal to net hits
+- Temporarily tricks the targeted IC into thinking your marks are its targets
+    - If you have multiple marks in the same host, the IC selects its target randomly
+
+#### Fading
+- Caused by Threading CFs or Summoning Sprites
+- Resisted by Resonance + Willpower
+- Damage from fading is only recoverable through natural rest
+
+#### Sprite Rules
+- Device Rating and Resonance = Level
+- Matrix Attributes based on level and type of sprite
+- If a Sprite is physically tracked, it gives the location of the owner (same for Convergence)
+- Matrix Condition = 8 + (Level/2)
+- Sprites are Personas, cannot be part of a PAN or WAN
+- Commanded using Command Sprite Resonance Simple Action
+- Can have a single Compiled Sprite at once, and up to Logic rating Registered Sprites
+- Num tasks it will perform for you is based on net hits to Compile and Register it
+    - When num tasks reaches 0, it returns to the Resonance on its next action
+
+#### Sprite-Technomancer Link *pp256*
+- Can communicate with your sprite through the Matrix
+- Losing Matrix connection loses connection to Sprite (is restored when back online)
+- Registered Sprites will wait for you to come back, Compiled ones will vanish
+
+#### Compiling a Sprite (Complex Action) *pp254*
+- Creates you a Sprite
+- May be compiled at a Level of up to Resonance x2
+- Opposed Compiling + Resonance [Level] vs Sprite Level
+    - Net hits is num tasks it will do
+- When Compiled, Overwatch score starts
+- Convergence makes Compiled Sprite vanish instantly
+- Owner is the TM who compiled it, it has their Resonance sig
+
+##### Compiled Sprite Tasks
+- Single use of a Sprite power
+- One Combat Turn worth of Matrix Actions on a single job
+- Participation in cybercombat until all enemy combatants defeated or you escape safely
+- Sustaining a power
+    - 1 use to sustain indefinitely, unless task changed in some way (like changing targets)
+- If you ask a Sprite to perform a remote task on another grid/host, it vanishes after it completes the task even if it has tasks remaining
+
+#### Registering a Sprite (Complex Action)
+- Takes a Compiled Sprite and makes it more permanent
+    - No longer inherently illegal
+    - Doesn't count as your one Compiled Sprite
+    - Will stay with you as long as it owes you at least one task
+- Requires hours equal to Sprite Level
+- Opposed Registering + Resonance [Level] vs Sprite Level + Sprite Level
+    - Net hits adds to the num tasks it will do
+    - On success, clears the Sprite's Overwatch score
+- Sprite Overwatch score does not increase due to time during the process of Registering it
+- Neither you nor the Sprite can take other actions during this time
+
+##### Registered Sprite Tasks
+- Compiled Sprite Task
+- Aid Study
+- Assist Threading
+- Loaned Task
+- Remote Task
+- Re-register Sprite
+- Standby
+- Sustain CF
+
+#### Decompiling
+- You can dismiss your Sprites with the Dismiss Sprite Simple Action, Decompiling is for targeting others' Sprites
+- Decompiling + Resonance [Social] vs Sprite Level (+ Compiler's Resonance if Registered)
+    - Net hits reduce the Sprite's owed tasks number
+
+#### Fading Damage when Compiling/Decompiling/Registering
+- Fading is based on the hits (not net hits) rolled by the opposing side of the test, (2 x hits) DV
+- Damage is Physical if Sprite Level > Resonance, else Stun
+
+#### Sprite Powers
+- Using a sprite power is a Resonance Action, not a Matrix Action
+- See the Sprite Database *pp258* for which sprites have which actions
+
+##### Camouflage
+- Conceal a file within another file, making it invisible to Matrix searches
+- Can only be found with Matrix Perception specifically looking for the hidden file
+    - Even the Sprite must make this test to find and extract the file
+
+##### Cookie
+- Tags a target persona with a cookie file that can be used to track the icon's Matrix activities
+- Opposed Hacking + Resonance [Sleaze] vs Intuition + Firewall
+    - If Sprite succeeds, persona carries cookie file unnoticed
+- Cookie file runs silent, protected with a Rating equal to the Sprite's Level
+- Logs everything the icon does, such as:
+    - What hosts it enters and when
+    - Who and when it communicates with (but not the contents)
+    - Programs it uses
+- Level of info based on net hits, 1 hit gives bare outline, 4 is detailed report
+- At the end of a time determined by the Sprite or its owner when placed, the cookie file transfers itself and its data to the Sprite
+    - If the Sprite isn't in the Matrix when the timer runs out, the file is deleted
+    - The Sprite will then turn over the file to the TM
+- Cookie files can be detected with Matrix Perception performed on the carrying Persona
+    - Once identified, can be removed by removing its protection and deleting it
+
+##### Diagnostics
+- Assists someone in using or repairing an electronic device with a Teamwork test
+    - Hardware + Level [Data Processing] test
+    - If any hits then the assisted character gets +1 limit bonus
+    - Each hit gives +1 dice pool to use/repair the item
+- Takes all of the Sprite's attention, bonus lasts until Sprite does anything else
+
+##### Electron Storm
+- Opposed Cybercombat + Resonance [Attack] vs Intuition + Firewall
+    - On success, and on each subsequent action the sprite performs while sustaining the power, does damage
+- (Resonance) DV Matrix damage, resisted as normal, and 2 points of noise to the target
+- If the Sprite takes any Matrix damage, all of its electron storms end immediately
+
+##### Gremlins
+- Targets a device to make it malfunction
+- Hardware + Level [Attack] vs Device Rating + Firewall test
+    - On success, suffers a suitable Glitch
+    - On 4+ net hits, suffers a suitable Critical Glitch
+
+##### Hash
+- Temporarily protects a file so that only the Sprite can unprotect it
+- File becomes normal if dropped by the Sprite
+- If Sprite destroyed while carrying the file, it becomes permanently correupted and worthless
+- Max duration Level x 10 Combat Turns
+
+##### Stability
+- Can use on any persona or device that it has a mark on
+- Target ignores Glitches and downgrades Critical Glitches to standard Glitches
+
+##### Suppression
+- Prevents IC in a host from launching in a timely manner
+- If the host deploys an IC while this power is active, it launches but can't act or be targeted for Level/2 Combat Turns
+
+##### Watermark
+- Tag an icon with an invisible marking that only Resonance-driven entities can see, sort of like a Matrix signature
+- Allows for leaving secret messages on Matrix objects
+- This ability can overwrite an existing Watermark with a new one
+- Lasts as long as the icon does, or until removed with an Erase Matrix Signature action
+
+#### Sprite Types *pp259* for stats
+- Courier Sprite
+    - Computer, Hacking
+    - Cookie, Hash
+- Crack Sprite
+    - Computer, Electronic Warfare, Hacking
+    - Suppression
+- Data Sprite
+    - Computer, Electronic Warfare
+    - Camouflage, Watermark
+- Fault Sprite
+    - Computer, Cybercombat, Hacking
+    - Electron Storm
+- Machine Sprite
+    - Computer, Electronic Warfare, Hardware
+    - Diagnostics, Gremlins, Stability
+
+#### Submersion
+- Dive into Resonance realms to increase your connection to the Resonance
+    - See *DT pp162* for more on Resonance realms themselves
+- Measured in Grades, starting at Grade 1
+    - Cannot exceed your Resonance attribute
+    - If Resonance is ever lowered below Submersion, Submersion grade goes down as well
+- Cost for Submersion is 10 + (Grade x 3)
+- Strengthens your connection with the Resonance
+    - Increases your Resonance cap (normally 6) by your grade
+    - Each Submersion Grade gives you a new Echo power
+
+##### Echoes (max 1 unless noted) *pp258*
+- Attack Upgrade: +1 Attack, max 2
+- Sleaze Upgrade: +1 Sleaze, max 2
+- Data Processing Upgrade: +1 Data Processing, max 2
+- Firewall Upgrade: +1 Firewall, max 2
+- Mind Over Machine: Free Rating of Control Rig *pp452*, max 3
+- Neurofilter: +1 biofeedback resist, max 2
+    - Does not apply to Fade
+- Overclocking: +1d6 hot-sim VR initiative
+- Resonance Link: Establishes a permanent 1-way empathic link with another TM
+- Resonance [Program Name]: Lets you copy the effects of one common or hacking program, can keep taking for as many programs as you want
+
+##### Additional Echoes *DT pp58*
+- Fight-or-Flight Filter: Counts as a pain editor *pp460*, can't be the first Echo chosen
+- Mathemagics: Increases Mental Limit by 2 for math-intensive actions, like encryption/decryption
+- Quiet: Reduce Noise of your area by 2 for a radius of (10 x Resonance) meters, toggled with Free Action
+- Resonance Riding: Can use some actions while jacked in through a comm or deck
+    - Cannot use Living Persona or benefit from its attributes, cannot perform Compile/Register Sprite, or Thread, but can do other Resonance Actions
+- Resonance Scream: Increase noise by 2 for a radius of (10 x Resonance) meters as if in a spam zone, toggled with Free Action
+- Skinlink: Forge a direct connection with any device you can physically touch
+    - Two TMs with this Echo can communicate mentally by touching
+- Sleepwalker: While in VR, can perform Perception-related Free Actions in the real world
