@@ -664,6 +664,49 @@
 - Resonance abilities cannot be used through other devices (commlink, deck, etc)
 - Can reboot your living persona as Reboot Device, but it doesn't count as a Matrix Action
 
+#### Resonant/Dissonant Streams *DT pp89, 132*
+- For a 20 karma purchase, can follow a Resonant or Dissonant Stream (like an archetype)
+    - Cost does not double after chargen unlike other qualities
+    - Can never follow more than one Stream
+- Gives you a constant benefit to certain TM rolls, a "Daemon" (a tool you can use), and the ability to purchase a Stream-specific CF
+
+##### Streams
+- Cyberadepts
+    - Bonuses to cyberware usage, and Fault/Companion Sprites
+    - Can recover Resonance lost to cyberware
+    - CF: Overdrive *DT pp90* - Cyberware,S,+1
+        - Temporarily increase a cyberware's Rating
+- Machinists
+    - Bonuses to devices, and Machine/Generalist Sprites
+    - Living Persona can function as an RCC
+    - CF: Loto *DT pp90* - Device,I,-1
+        - Knock a device offline
+- Sourcerors
+    - Bonuses to all CF usage
+    - Free CF sustaining
+    - CF: Hyperthreading *DT pp91* - CF,Varies,Varies
+        - Thread two CFs at once at same target
+- Technoshamans
+    - Bonuses to all Sprite usage
+    - Can make Great Form Sprites
+    - CF: Sprite Pet *DT pp91* - Sprite,P,+0
+        - Make a Sprite a forever companion (until it dies)
+- Morphinae
+    - Bonuses to CFs that affect Host/IC attributes, and Fault/Generalist Sprites
+    - Ignore some noise
+    - Forced Heuristics *DT pp133* - Host/IC,S,+1
+        - Debuff a Host/IC's attribute
+- Apophenians
+    - Bonuses to CFs that affect Devices, and Data/Generalist Sprites
+    - Sleaze bonus
+    - Causal Nexus *DT pp133* - Device,P,+0
+        - Make it easier to glitch
+- Erisians
+    - Bonuses to CFs against Personas, and Crack/Generalist Sprites
+    - Firewall bonus
+    - Dissonance Spike *DT pp134* - Device,I,+6
+        - Lots of Matrix damage and some biofeedback too
+
 #### Thread Complex Form *pp251*
 - Uses the Thread Complex Form Resonance Action
     - Must also choose a Level for the effect (up to 3x Resonance)
@@ -792,6 +835,39 @@
     - Lasts for a number of actions (Simple/Complex, not counting Free) equal to net hits
 - Temporarily tricks the targeted IC into thinking your marks are its targets
     - If you have multiple marks in the same host, the IC selects its target randomly
+
+##### Arc Feedback *KC pp94* - Icon,S,-2
+- Retribution Matrix damage while sustained
+
+##### Bootleg Program *KC pp94* - Device,I,-2
+- Temporarily copy a program a device is running
+
+##### Host Emulator *KC pp94* - Self,P,)1
+- Creates an illusory pseudo-host, can copy an existing one
+
+##### Mirrored Persona *KC pp95* - Self,I,-2
+- Mirror Image your Persona
+
+##### Pinch *KC pp95* - Self,S,+2
+- Matrix damage everything when you go down
+
+##### Primed Charge *KC pp95* - Self,I,+0
+- Self-Teamwork to your next Matrix Action
+
+##### Resonance Bind *KC pp95* - Persona,S,-2
+- Debuff target's Initiative
+
+##### Resonance Cache *KC pp95* - IC,I,-2
+- Stunlock an IC
+
+##### Search History *KC pp95* - Device,I,-2
+- Read a Device's Matrix history
+
+##### Weaken Data Bomb *KC pp96* - File,I,-2
+- Debuff a Data Bomb
+
+##### Weaken Encryption *KC pp96* - File,I,-3
+- Debuff a file's protection Rating
 
 #### Fading
 - Caused by Threading CFs or Summoning Sprites
@@ -942,6 +1018,12 @@
 - Machine Sprite
     - Computer, Electronic Warfare, Hardware
     - Diagnostics, Gremlins, Stability
+- Companion Sprite *KC pp100*
+    - Computer, Electronic Warfare
+    - Shielf, Bodyguard
+- Generalist Sprite *KC pp100*
+    - Computer, Hacking, Electronic Warfare
+    - [Any Optional Power] x2
 
 #### Submersion
 - Dive into Resonance realms to increase your connection to the Resonance
@@ -960,8 +1042,7 @@
 - Data Processing Upgrade: +1 Data Processing, max 2
 - Firewall Upgrade: +1 Firewall, max 2
 - Mind Over Machine: Free Rating of Control Rig *pp452*, max 3
-- Neurofilter: +1 biofeedback resist, max 2
-    - Does not apply to Fade
+- Neurofilter: +1 biofeedback resist (does not apply to Fade), max 2
 - Overclocking: +1d6 hot-sim VR initiative
 - Resonance Link: Establishes a permanent 1-way empathic link with another TM
 - Resonance [Program Name]: Lets you copy the effects of one common or hacking program, can keep taking for as many programs as you want
@@ -969,6 +1050,7 @@
 ##### Additional Echoes *DT pp58*
 - Fight-or-Flight Filter: Counts as a pain editor *pp460*, can't be the first Echo chosen
 - Mathemagics: Increases Mental Limit by 2 for math-intensive actions, like encryption/decryption
+- Man-Machine Resonance Interface: Literally just Mind Over Machine again, for no reason, because they don't proofread ever
 - Quiet: Reduce Noise of your area by 2 for a radius of (10 x Resonance) meters, toggled with Free Action
 - Resonance Riding: Can use some actions while jacked in through a comm or deck
     - Cannot use Living Persona or benefit from its attributes, cannot perform Compile/Register Sprite, or Thread, but can do other Resonance Actions
@@ -976,3 +1058,46 @@
 - Skinlink: Forge a direct connection with any device you can physically touch
     - Two TMs with this Echo can communicate mentally by touching
 - Sleepwalker: While in VR, can perform Perception-related Free Actions in the real world
+
+##### Additional Echoes *KC pp101*
+- Aegis: +4 Matrix Condition Monitor boxes, fully replenishes all at once 24hrs after being damaged
+- Draining Spike: When using Resonance Spike CF, heal 1 box Stun damage for each box Matrix damage inflicted after resistance
+- Neural Synergy: +1 Logic, max 3
+- Predictive Analytics: +1d6 initiave in AR, can take any num times (but as usual max 5d6 initiative dice)
+- Resonance Resistance: +2 dice when defending against Resonance actions
+- The Van Der Waals Effect: Free Action electromagnet toggle, can move on metal surfaces and can't drop metal items, considered 6 STR for this
+- Will of the Resonance: +1 Willpower, max 3
+
+#### Paragons *KC pp102*
+- Entities that exist within the Matrix that TMs sometimes follow
+- Aligning yourself to a Paragon costs nothing, takes only a couple minutes, grants an advantage and a disadvantage
+- Modifiers lost if they act against its condition
+- Can't re-align to a new one without first spending a week unaligned
+
+##### Sample Paragons List *KC pp103*
+- 01 (The World Tree): Like having marks, dislike AR, need to not work against other 01 groups
+- Architect (The Builder): Like Edit, dislike Snoop, need to make new software
+- Archivist (The Secret Keeper): Like Browse and digital legwork, dislike destroying data, need to archive data
+- Black Hat (The Cracker): Like gaining marks, dislike setting Data Bombs, need to leave backdoors
+- Daedalus (The Inventor): Like Hardware tests and Piloting jumped in, dislike Deep Resonance, need to avoid cutting off meatspace-Matrix info channels
+- Delphi (The Oracle): Like Threading, dislike Initiative, need to reveal why they caused disruptions and what resulted
+- Intrusion Countermeasure (The Guardian): Like all cybercombat and firewall, dislike attacking IC, need to avoid defeating IC
+- Probe (The Scout): Like direct connections, dislike cross-grid work, need to avoid cutting yourself off from the grid
+- Shooter (The Soldier): Like all cybercombat and attack actions, dislike compiling sprites, need to not lose fights
+
+# GM advice
+## Building the Opposition
+### Magic
+- Have hostile magicians be roughly on par with the players if you want challenge
+    - Similar Magic rating and spell selection
+- Have a problem that is easiest to solve with magic
+- Magic security is expensive and hard to get
+    - Consider what it means for there to be no magical security?
+        - Astral life having moved in, possibly some sort of symbiotic relationship with the locals?
+    - What does security against mages look like?
+        - Identify and prioritize mages
+        - Limit visibility for enemy mages
+            - Magical barriers to slow down a mage?
+        - Contracted magical security, as-needed response?
+        - Spirits (bound) or awakened critters (trained)
+        - Drones resist magic

@@ -1,5 +1,32 @@
 # Anya "Clipper" Ulan's Journal
-### Session 10?future - 2025-10-02
+### Session 11?future - 2025-10-02
+### Session 10 - 2025-10-09
+- 2075/02/10, Sunday - Third day of downtime
+    - *Lifestyle*: Slept at garage, no roll needed
+    - *Illness:* Took meds (7 doses left) = BOD+BOD (2), result: No penalty
+- Negotiating prep for next job
+    - Chain of command
+        - Field Command: Ari
+        - Magical Support: Willow
+        - Infiltrators: Everyone else
+        - Melee: Sekhmet, Anya
+        - Fire Support: Katsumi
+- We fart around for the day
+    - Willow summons a spirit, has it do recon for 24 hrs
+- 2075/02/11, Monday - Fourth day of downtime
+    - *Lifestyle*: Slept at garage, no roll needed
+    - *Illness:* No meds (7 doses left) = BOD+BOD (3), result: No penalty
+- The spirit returns with scouting
+    - 5 security people on location at any time, one of which is Awakened
+    - 3 Awakened hounds on site
+    - Attached to the basement of the clinic
+        - Most easily accessed through the basement parking garage
+        - More difficult access through the MinuteClinic
+- We discuss further scouting plans
+    - Ari and Anya head out on bicycle to get some close-in Matrix surveillance
+    - Katsumi and Sekhmet get into some gay violent shit back at home
+- +2 Karma (26/15)
+
 ### Session 09 - 2025-09-25
 - 2075/02/09, Saturday - Second day of downtime
     - *Lifestyle*: Slept at garage, no roll needed
@@ -161,6 +188,7 @@
 - 2075/02/07, Thursday - Clipper has tried to bust in to a gang house to steal from them
     - *Lifestyle:* Gremlins = No hit, so 1 C&N = Resist 4S Fatigue, result: 0 damage
     - *Illness:* Took meds (3 doses left) = BOD+BOD (2), result: No penalty
+    - *Addiction:* Took Betel today.
     - She's been hacked and they've locked her out of her leg controls, with her foot anchors activated
 - There's noise from the ground floor as glass shatters and shots are fired
     - Clipper reboots her legs, waiting anxiously
