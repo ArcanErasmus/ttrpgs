@@ -29,18 +29,18 @@
 |-----------------|-----|------|------|-----|-----
 | *Natural AC*    | 24  | +    | Dex  | +3  | -
 |-----------------|-----|------|------|-----|-----
-| *Fortitude*     | +14 | ++   | Con  | -   | -
-| *Reflex*        | +11 | +    | Dex  | -   | -
-| *Will*          | +11 | ++   | Wis  | -   | -
+| *Fortitude*     | +15 | ++   | Con  | -   | -
+| *Reflex*        | +12 | +    | Dex  | -   | -
+| *Will*          | +12 | ++   | Wis  | -   | -
 |-----------------|-----|------|------|-----|-----
 | *Fire*          |  3  |                   | -
 
 ### Offenses
 | **Offense**     | Sum | TEML | Abil | Bns | Temp
 |-----------------|-----|------|------|-----|-----
-| *Perception*    | +11 | ++   | Wis  | -   | -
-| *Dex Attack*    | +15 | ++   | Dex  | +1  | -
-| *Str Attack*    | +15 | ++   | Str  | +1  | -
+| *Perception*    | +13 | ++   | Wis  | -   | -
+| *Dex Attack*    | +16 | ++   | Dex  | +1  | -
+| *Str Attack*    | +16 | ++   | Str  | +1  | -
 
 ### Attacks
 | **Offense**     | Sum/DC&Save   | TEML | Damage     | Traits

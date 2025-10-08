@@ -25,9 +25,26 @@ Appropriate Lores
 - Sean
     - Character: Karchanek, he/him, Gnome (Small?)
 
-### 2025-08-24, No Session
+### Session 37?future - 2025-10-11
+# TODO fix Meno-Yuriso offline sheet for lvl 7, some numbers are outdated
 
-### Session 35 - 2025-08-17
+### Session 36 - 2025-10-04
+- There is an illusion at the back wall of the cave hiding a door
+    - The door has runes on it, identified as a trap that attacks you with ghostly howling
+    - Trap disarmed, we move on past it
+- Hallway full of bones (it's totally gonna be skeletons that reassemble themselves)
+    - We get into the hallway, skeletons reassemble themselves
+    - Fight the skeletons, it's 4 giant skeletons and 2 spellcaster skeletons, we kill them
+- End of the hallway is a grate, what lies beyond?
+
+### 2025-09-27, No Session
+### 2025-09-20, No Session
+### 2025-09-13, No Session
+### 2025-09-06, No Session
+### 2025-08-30, No Session
+### 2025-08-23, No Session
+
+### Session 35 - 2025-08-16
 - We go to where the supposed new sally port is
     - There is a cave with bears that shouldn't be there, clearly dominated
     - We fight the bears and their fleas and kill them
