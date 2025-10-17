@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-296125348</settingshashcode>
+  <settingshashcode>-292821552</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>14</karma>
+  <karma>17</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -110,7 +110,7 @@
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>60</basecarrylimit>
-  <baseliftlimit>90</baseliftlimit>
+  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
   <totalcarriedweight>0.000</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
@@ -3573,7 +3573,7 @@ Wireless Bonus: Activating or deactivating is a Free Action, instead of a Simple
       <maxrating />
       <rating>0</rating>
       <accuracy>6</accuracy>
-      <activeammoslot>7</activeammoslot>
+      <activeammoslot>6</activeammoslot>
       <clips>
         <clip>
           <count>27</count>
@@ -3601,7 +3601,7 @@ Wireless Bonus: Activating or deactivating is a Free Action, instead of a Simple
           <id>b56f266f-8df5-4bf1-85ac-597bc057675f</id>
         </clip>
         <clip>
-          <count>30</count>
+          <count>27</count>
           <location>loaded</location>
           <id>f493b604-de8f-4699-afa0-742b51705c8d</id>
         </clip>
@@ -9548,7 +9548,7 @@ Who needs a watch when you’re around? The character with this quality always k
       <bonus />
       <firstlevelbonus />
       <naturalweapons />
-      <notes />
+      <notes>Speed kills, but quickness and agility can be the key to avoiding a speedy death. This quality allows the character to use their Agility in place of their Willpower attribute while using Full Defense.</notes>
       <notesColor>Chocolate</notesColor>
     </quality>
     <quality>
@@ -9576,7 +9576,7 @@ Who needs a watch when you’re around? The character with this quality always k
       </bonus>
       <firstlevelbonus />
       <naturalweapons />
-      <notes />
+      <notes>Something about the character’s body is exceptional ly accepting of either bioware or cyberware implants (choose one). Not only are the implants not rejected, but they seamlessly fit within the body, having less impact on its holistic integrity. In game terms, the Essence cost of implants of the particular chosen type are reduced by ten percent, rounded down to the tenth. This rebate is cumulative with the reduction offered by the chosen ’ware’s grade, if any (e.g., the reduction for alphaware of 0.8 is reduced by ten percent, or 0.08, to become 0.72, and is rounded down to 0.7). This quality can only be chosen for bioware or cyberware. Thisquality may only be taken once.</notes>
       <notesColor>Chocolate</notesColor>
     </quality>
     <quality>
@@ -9602,7 +9602,8 @@ Who needs a watch when you’re around? The character with this quality always k
       <bonus />
       <firstlevelbonus />
       <naturalweapons />
-      <notes />
+      <notes>Your lifestyle doesn’t always afford you the luxury of checking all the facts before diving right in. As a result, you’ve honed your reflexes in order to survive and no longer allow yourself to think before you shoot; you just go for the kill.
+Whenever you succeed at a Surprise test, increase your initiative score by the number of total hits rolled on the test. This bonus only applies to the first turn of combat. If additional Surprise tests occur later in combat, the bonus will trigger based on this new Surprise test, on the next turn after that Surprise test. This quality also reduces the threshold for quick drawing a weapon by 1.</notes>
       <notesColor>Chocolate</notesColor>
     </quality>
     <quality>
@@ -13892,7 +13893,7 @@ Vector: Contact, Inhalation Speed: 1 Combat Turn Penetration: 0 Power: 11 Effect
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>3</qty>
+      <qty>2</qty>
       <avail>1R</avail>
       <cost>10</cost>
       <weight />
@@ -14131,7 +14132,7 @@ EX-Explosive Rounds +2 –1 14F 120¥ Frangible –1 +4 2R 10¥ Flare –2 / +2 
       <minrating />
       <maxrating />
       <rating>0</rating>
-      <qty>30</qty>
+      <qty>27</qty>
       <avail>12F</avail>
       <costfor>10</costfor>
       <cost>120</cost>
@@ -18425,6 +18426,22 @@ Synthetic fingernails that function the same as AR gloves.</notes>
     <expense>
       <guid>ba5bf01d-5230-4be2-9929-01c8fdcb3c4b</guid>
       <date>2025-10-09T22:00:49</date>
+      <amount>3</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4f7cf9db-5ad3-4158-8e5f-50808bb156ce</guid>
+      <date>2025-10-16T22:34:09</date>
       <amount>3</amount>
       <reason>Session Reward</reason>
       <type>Karma</type>

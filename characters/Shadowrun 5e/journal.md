@@ -1,5 +1,26 @@
 # Anya "Clipper" Ulan's Journal
-### Session 12?future - 2025-10-16
+### Session 15?future - 2025-11-06
+### Session 14?future - 2025-10-30
+### Session 13?future - 2025-10-23
+- *Reminder* Clipper is on Snuff (20 min remaining)
+    - +1 REA, +1 Pain Tolerance
+    - Remove modifiers in Foundry after it wears off
+    - Crash: -1 INT for 2x duration (40 min)
+- Start of Combat Turn 2
+
+### Session 12 - 2025-10-16
+- We check our loadout and debate what to do about the prisoners we are likely to find
+    - Resolve to release prisoners
+    - Everyone wishes Ari was more decisive as a leader
+- Attacking the target
+    - Clipper is on Snuff (20 min duration)
+    - First combat turn
+        - Sekhmet and Katsumi sneak in, see that the defenders are not protected
+        - Ari sends Brick and Clipper in
+        - Willow summons and sends a spirit, a Foul Spit, in
+        - Results: 2 guys killed, 2 dogs killed, 1 guy injured, ? dogs injured
+- +3 Karma (32/15)
+
 ### Session 11 - 2025-10-09
 - We dive in to Ari hacking, this time with actual mechanics
     - Gets in to the host
