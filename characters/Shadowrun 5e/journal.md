@@ -1,6 +1,50 @@
 # Anya "Clipper" Ulan's Journal
-### Session 11?future - 2025-10-02
-### Session 10 - 2025-10-09
+### Session 15?future - 2025-11-06
+### Session 14?future - 2025-10-30
+### Session 13?future - 2025-10-23
+- *Reminder* Clipper is on Snuff (20 min remaining)
+    - +1 REA, +1 Pain Tolerance
+    - Remove modifiers in Foundry after it wears off
+    - Crash: -1 INT for 2x duration (40 min)
+- Start of Combat Turn 2
+
+### Session 12 - 2025-10-16
+- We check our loadout and debate what to do about the prisoners we are likely to find
+    - Resolve to release prisoners
+    - Everyone wishes Ari was more decisive as a leader
+- Attacking the target
+    - Clipper is on Snuff (20 min duration)
+    - First combat turn
+        - Sekhmet and Katsumi sneak in, see that the defenders are not protected
+        - Ari sends Brick and Clipper in
+        - Willow summons and sends a spirit, a Foul Spit, in
+        - Results: 2 guys killed, 2 dogs killed, 1 guy injured, ? dogs injured
+- +3 Karma (32/15)
+
+### Session 11 - 2025-10-09
+- We dive in to Ari hacking, this time with actual mechanics
+    - Gets in to the host
+    - Finds the admin permissions file
+        - Edits the file to give herself credentials
+    - Hacks cameras to put marks on them
+        - Camera_Lobby: Nobody present
+        - Camera_Lounge: 3 people present
+        - Camera_Freezer1: Locked cabinets
+        - Camera_Freezer2: More locked cabinets
+        - Camera_Kennel1: Dogs that look like living shadow
+        - Camera_Kennel2: 5 people tied to restraints
+        - Camera_Surgery: Dingy room, operating table with restraints and attached autodoc
+        - Camera_Recovery: 2 valkyrie modules
+    - Other notables:
+        - 4 turrets, Ari rewrites them to shut down the next time they would fire
+- Heading downtown to get to city hall
+    - We enter the lobby
+    - Willow finds the loneliest looking worker there and badgers them
+    - With the help of seduction, bribery, and Doll interjecting some useful corpospeak, we acquire the floorplans to the target
+- Also, Anya has negotiated her way into the bed of Ari and Katsumi, assuming the run doesn't leave us a mess
+- +3 Karma (29/15)
+
+### Session 10 - 2025-10-02
 - 2075/02/10, Sunday - Third day of downtime
     - *Lifestyle*: Slept at garage, no roll needed
     - *Illness:* Took meds (7 doses left) = BOD+BOD (2), result: No penalty

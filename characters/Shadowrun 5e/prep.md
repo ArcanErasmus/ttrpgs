@@ -288,6 +288,8 @@
 - Mounted weapons have bonus recoil compensation equal to the Body of the vehicle/drone
 ##### Situational Modifiers
 - See *situational modifiers pp176*
+- Shooting into melee
+    - If the defender gets more successes than the attacker, everyone else in melee has to roll to defend against the attack
 ##### Firearms
 - Can do Multiple Attacks free action if you are holding multiple weapons or firing multiple projectiles in one attack
 - *Firing Modes pp179*
