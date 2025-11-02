@@ -25,8 +25,21 @@ Appropriate Lores
 - Sean
     - Character: Karchanek, he/him, Gnome (Small?)
 
-### Session 37?future - 2025-10-11
+### Session 38?future - 2025-11-08
 # TODO fix Meno-Yuriso offline sheet for lvl 7, some numbers are outdated
+### Session 37 - 2025-11-01
+- We encounter a locked door grate
+    - YMM unlocks it
+- Run into a room and there are soldiers, we fight them at the doors
+    - We beat them up, but the sound the alarm
+    - Most surrender, 2 died
+- Next fight, I have 0/2 rank 3 spells and 1/2 rank 4 spells
+    - Don't forget cantrips, breath weapons
+    - 52/90 HP, Vendari can heal you one more time, keep at range
+
+### 2025-10-25, No Session
+### 2025-10-18, No Session
+### 2025-10-11, No Session
 
 ### Session 36 - 2025-10-04
 - There is an illusion at the back wall of the cave hiding a door
@@ -36,6 +49,11 @@ Appropriate Lores
     - We get into the hallway, skeletons reassemble themselves
     - Fight the skeletons, it's 4 giant skeletons and 2 spellcaster skeletons, we kill them
 - End of the hallway is a grate, what lies beyond?
+- Amulet we found has some magic
+    - +2 Occultism
+    - Cast *Guidance* cantrip
+    - Cast *Dream Message* 1/day
+    - Looks like a hollow eye with High Song writing
 
 ### 2025-09-27, No Session
 ### 2025-09-20, No Session

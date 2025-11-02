@@ -24,7 +24,7 @@
 ### Resources
 | **Resource** | Value       | Refill
 |--------------|-------------|-------
-| *HP*         | 90/90       | +14/Rest (not with Curse of Nightmares!)
+| *HP*         | 52/90       | +14/Rest (not with Curse of Nightmares!)
 | *Hero Point* | [x] [ ] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
