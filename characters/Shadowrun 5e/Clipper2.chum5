@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-292821552</settingshashcode>
+  <settingshashcode>-2092848688</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,11 +96,11 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>17</karma>
+  <karma>9</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
-  <edgeused>0</edgeused>
+  <edgeused>1</edgeused>
   <contactpoints>3</contactpoints>
   <contactpointsused>0</contactpointsused>
   <spelllimit>0</spelllimit>
@@ -110,12 +110,12 @@
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>60</basecarrylimit>
-  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
+  <baseliftlimit>90</baseliftlimit>
   <totalcarriedweight>0.000</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
   <notoriety>0</notoriety>
-  <publicawareness>0</publicawareness>
+  <publicawareness>1</publicawareness>
   <burntstreetcred>0</burntstreetcred>
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
@@ -1149,7 +1149,7 @@
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>6</base>
         <notes />
         <notesColor>Chocolate</notesColor>
@@ -18451,6 +18451,38 @@ Synthetic fingernails that function the same as AR gloves.</notes>
         <karmatype>ManualAdd</karmatype>
         <nuyentype>AddCyberware</nuyentype>
         <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>b23ee319-13f7-4615-9159-66b5ffee7627</guid>
+      <date>2025-11-06T22:07:04</date>
+      <amount>6</amount>
+      <reason>Mission Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>b933093b-289b-4968-a8b6-1174f5200b3c</guid>
+      <date>2025-11-06T23:19:25</date>
+      <amount>-14</amount>
+      <reason>Active Skill Unarmed Combat 6 -&gt; 7</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>d14cd1bb-9bec-451d-be61-acc6a64cf0a5</objectid>
         <qty>0</qty>
         <extra />
       </undo>

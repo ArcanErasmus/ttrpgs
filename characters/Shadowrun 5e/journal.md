@@ -1,12 +1,38 @@
 # Anya "Clipper" Ulan's Journal
-### Session 15?future - 2025-11-06
-### Session 14?future - 2025-10-30
-### Session 13?future - 2025-10-23
+### Session 19?future - 2026-01-01
+### No Session - 2025-12-25
+### Session 18?future - 2025-12-18
+### Session 17?future - 2025-12-11
+### Session 16?future - 2025-12-04
+### No Session - 2025-11-27
+### Session 15?future - 2025-11-20
+### Session 14?future - 2025-11-13
+- 2075/02/11, Monday, continued, near midnight
+- *Reminder* It's time to loot, get this stuff written down before session
+- *Reminder* What did we do during the hour it took for the autodoc to disassemble the ripper for his 'ware?
+    - After 20 mins, Clipper crashed out on Snuff (-1 INT probably means feeling a little sillier and a little slower to process things)
+    - By the end of the hour, she's back to neutral
+    - Down to 1/2 edge until sleep
+- *Reminder* TODO get paid
+    - $10k/head
+
+### Session 13 - 2025-11-06
 - *Reminder* Clipper is on Snuff (20 min remaining)
     - +1 REA, +1 Pain Tolerance
     - Remove modifiers in Foundry after it wears off
     - Crash: -1 INT for 2x duration (40 min)
 - Start of Combat Turn 2
+    - We carve through the survivors
+    - Some more awakened dog-like critters come out of the kennel, we crush them too
+- Post-combat cleanup
+    - We free the 7 prisoners after figuring out the PINs to their collars
+    - The chop doc, Tulio, had a bunch of cyberware we looted
+    - Ari is able to determine good obscured locations and plant the cameras
+- +6 Karma (38/29)
+    - -14 Unarmed Combat 6 -> 7
+
+### No Session - 2025-10-30
+### No Session - 2025-10-23
 
 ### Session 12 - 2025-10-16
 - We check our loadout and debate what to do about the prisoners we are likely to find
