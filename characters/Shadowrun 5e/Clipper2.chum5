@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-2092848688</settingshashcode>
+  <settingshashcode>-1928615412</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,11 +96,11 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>9</karma>
+  <karma>0</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
-  <edgeused>1</edgeused>
+  <edgeused>0</edgeused>
   <contactpoints>3</contactpoints>
   <contactpointsused>0</contactpointsused>
   <spelllimit>0</spelllimit>
@@ -110,7 +110,7 @@
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>60</basecarrylimit>
-  <baseliftlimit>90</baseliftlimit>
+  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
   <totalcarriedweight>0.000</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
@@ -120,7 +120,7 @@
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>412.000</nuyen>
+  <nuyen>11862.000</nuyen>
   <startingnuyen>450000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -367,7 +367,7 @@
         <requiresgroundmovement>False</requiresgroundmovement>
         <requiresswimmovement>False</requiresswimmovement>
         <requiresflymovement>False</requiresflymovement>
-        <karma>0</karma>
+        <karma>1</karma>
         <base>1</base>
         <notes />
         <notesColor>Chocolate</notesColor>
@@ -1630,6 +1630,15 @@ Available Techniques: Bending of the Reed, Counter Strike, Kick, Opposing Force 
       <candelete>False</candelete>
       <notes />
     </limitmodifier>
+    <limitmodifier>
+      <guid>484dfb76-a3d6-4b12-bb06-6ca14f2d595c</guid>
+      <name>Securetech PPP: Legs Kit</name>
+      <limit>Social</limit>
+      <bonus>-1</bonus>
+      <condition>LimitCondition_Visible</condition>
+      <candelete>False</candelete>
+      <notes />
+    </limitmodifier>
   </limitmodifiers>
   <armors>
     <armor>
@@ -2327,7 +2336,7 @@ See? &lt;PIC_LINK&gt; &gt; /dev/grrl &gt; A pink cyberdeck holster with unicorns
 &gt; Bull</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>2</sortorder>
+      <sortorder>4</sortorder>
     </armor>
     <armor>
       <sourceid>36a4cd30-c32c-44d0-847a-0c15fb51072a</sourceid>
@@ -2709,7 +2718,7 @@ A relatively simple modification, the drag handle is a strap anchored to the bac
       <notes>Armor jacket: The most popular armor solution on the streets comes in all styles imaginable. It offers good protection without catching too much attention. But don’t think of wearing one to a dinner party.</notes>
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>1</sortorder>
+      <sortorder>3</sortorder>
     </armor>
     <armor>
       <sourceid>6a50c63e-f6a9-4023-9ee9-d4b13ded6a9e</sourceid>
@@ -3292,6 +3301,99 @@ From a simple poncho treated to resist Seattle’s acid rain to a stylish cloak 
       <notesColor>Chocolate</notesColor>
       <discountedcost>False</discountedcost>
       <sortorder>2</sortorder>
+    </armor>
+    <armor>
+      <sourceid>9bf19d62-ff32-49df-8e70-f1b1f8e8d769</sourceid>
+      <guid>f848618a-232e-4925-823f-efccab3cf65e</guid>
+      <name>Securetech PPP: Legs Kit</name>
+      <category>Specialty Armor</category>
+      <armor>+1</armor>
+      <armoroverride />
+      <armorcapacity>1</armorcapacity>
+      <avail>6</avail>
+      <cost>300</cost>
+      <weight />
+      <source>RG</source>
+      <page>70</page>
+      <armorname />
+      <equipped>True</equipped>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <wirelesson>False</wirelesson>
+      <canformpersona />
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods>
+        <armormod>
+          <guid>0e4bad85-e8e3-46c6-bd80-43cba0195111</guid>
+          <sourceid>0cfb049a-a1bd-4daa-96be-9468c37d9c3c</sourceid>
+          <name>Nonconductivity</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>FixedValues([1],[2],[3],[4],[5],[6])</armorcapacity>
+          <gearcapacity />
+          <maxrating>6</maxrating>
+          <rating>1</rating>
+          <ratinglabel>String_Rating</ratinglabel>
+          <avail>6</avail>
+          <cost>Rating * 250</cost>
+          <weight />
+          <bonus unique="nonconductivity">
+            <electricityarmor>Rating</electricityarmor>
+          </bonus>
+          <wirelessbonus />
+          <wirelesson>True</wirelesson>
+          <source>SR5</source>
+          <page>438</page>
+          <included>False</included>
+          <equipped>True</equipped>
+          <extra />
+          <stolen>False</stolen>
+          <notes>Nonconductivity: Electrical insulation and non-con- ductive materials protect the wearer against Electricity damage (p. 170). Add the full rating of this modification to the Armor value when resisting Electricity attacks.</notes>
+          <notesColor>Chocolate</notesColor>
+          <discountedcost>False</discountedcost>
+          <sortorder>0</sortorder>
+        </armormod>
+      </armormods>
+      <bonus>
+        <limitmodifier>
+          <limit>Social</limit>
+          <value>-1</value>
+          <condition>LimitCondition_Visible</condition>
+        </limitmodifier>
+      </bonus>
+      <wirelessbonus />
+      <location>97c43137-54eb-47d6-9d07-ed3266da989a</location>
+      <notes>SECURETECH PPP
+Not a suit in itself, this innovative little AAS, or Armor Augmentation System, is hot for those who like to be able to add a little extra protection to almost anything.
+Arm, Leg, and Vitals kits are each sold separately, and they augment the protective measures already in place on those areas. The pieces are designed to be taken on and off quickly and worn over existing clothing.
+&gt; These pieces are great for a little added protection that can be pulled from a duffel or even a backpack. Runners can avoid drawing attention to their excess of armor, then when trouble comes, pull a few added pieces from the bag and get into the scrape.
+&gt; Frosty &gt; I prefer keeping a few kits tucked into a vent before the real action starts. I’ve actually left more of these things behind than used. I consider it a point of my success to know there are 64 sets of this tucked into bathroom and storage closet vents around the world.
+&gt; Ma’fan</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <sortorder>1</sortorder>
     </armor>
   </armors>
   <weapons>
@@ -9691,6 +9793,38 @@ Whenever you succeed at a Surprise test, increase your initiative score by the n
       <notes />
       <notesColor>Chocolate</notesColor>
     </quality>
+    <quality>
+      <sourceid>f8f216b5-1c29-467d-9fb5-c9812408203d</sourceid>
+      <guid>c86d2112-1963-4bfc-bc1e-f74aafab70fe</guid>
+      <name>Inspired</name>
+      <extra>Artisan</extra>
+      <bp>4</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Positive</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RF</source>
+      <page>147</page>
+      <sourcename />
+      <bonus>
+        <selectskill limittoskill="Artisan,Performance">
+          <val>1</val>
+        </selectskill>
+      </bonus>
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>INSPIRED
+COST: 4 KARMA
+Slapping paint on a canvas or words on a page is easy and requires only a medium and a mouth to tout one’s own amazing talents and insights. But to make something worthwhile, something that deserves to be called art, pieces that speak for themselves and stand the test of time, requires true talent. An Inspired character is touched by a muse (figuratively we hope, though gamemasters can see Street Grimoire for the literal) and is considered an artistic genius by his peers for his remarkable raw talent. The quality grants the character an additional Street Cred of 2 (p. 372, SR5) among fellow artists familiar with his reputation. Inspired characters also gain a +1 dice pool modifier for all Artisan skills or Performance skills they possess; the player must choose which category the quality applies to when it is chosen, and the quality can only be selected once.</notes>
+      <notesColor>Chocolate</notesColor>
+    </quality>
   </qualities>
   <lifestyles>
     <lifestyle>
@@ -15748,6 +15882,67 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <homenode>False</homenode>
       <sortorder>0</sortorder>
     </gear>
+    <gear>
+      <sourceid>929c4835-1754-4999-9215-9859e8ec5384</sourceid>
+      <guid>7fd45fd2-7121-48de-b4ce-1c5c7ce53c3d</guid>
+      <name>Jazz</name>
+      <category>Drugs</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>15</qty>
+      <avail>2R</avail>
+      <cost>75</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>411</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>spraypen</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location>449c9e46-ffb2-422b-a55b-d8152c1dcc49</location>
+      <notes>JAZZ
+Vector: Inhalation Speed: Immediate Duration: 10 x 1D6 minutes.
+Addiction Type: Both Effect: +1 Reaction, +1 Physical limit, +2D6 Initiative Dice Jazz is a stimulant designed to better the odds for run-of-the-mill law-enforcement officers who run up against augmented street samurai. It’s usually taken from a single-dose inhaler (or “popper”).
+When jazz wears off, the user crashes and is flooded with despondent and miserable emotions, suffering the effects of Disorientation (p. 409) for a duration equal to the duration of the initial effect.
+While cram makes people hyper and twitchy, jazz makes people jumpy and hyper as caffeinated two-yearolds. Role-playing a jazz user means turning it up a notch, portraying someone with too much energy to burn.</notes>
+      <notesColor>Chocolate</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
   </gears>
   <vehicles />
   <metamagics />
@@ -17929,6 +18124,79 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <notes />
       <notesColor>Chocolate</notesColor>
     </improvement>
+    <improvement>
+      <target />
+      <improvedname>484dfb76-a3d6-4b12-bb06-6ca14f2d595c</improvedname>
+      <sourcename>f848618a-232e-4925-823f-efccab3cf65e</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>-1</val>
+      <rating>0</rating>
+      <exclude />
+      <condition>LimitCondition_Visible</condition>
+      <improvementttype>LimitModifier</improvementttype>
+      <improvementsource>Armor</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <unique>nonconductivity</unique>
+      <target />
+      <improvedname />
+      <sourcename>0e4bad85-e8e3-46c6-bd80-43cba0195111</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>ElectricityArmor</improvementttype>
+      <improvementsource>ArmorMod</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Artisan</improvedname>
+      <sourcename>c86d2112-1963-4bfc-bc1e-f74aafab70fe</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>1</rating>
+      <exclude />
+      <condition />
+      <improvementttype>Skill</improvementttype>
+      <improvementsource>Quality</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>0</addtorating>
+      <enabled>1</enabled>
+      <order>0</order>
+      <notes />
+      <notesColor>Chocolate</notesColor>
+    </improvement>
   </improvements>
   <sustainedobjects />
   <drugs />
@@ -18487,6 +18755,118 @@ Synthetic fingernails that function the same as AR gloves.</notes>
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>07d053ee-03dc-49eb-baf7-1278a6ea8ca1</guid>
+      <date>2025-11-13T20:31:37</date>
+      <amount>10000</amount>
+      <reason>Mission Reward</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>42d48a77-9a0e-4011-a5aa-9c4899337885</guid>
+      <date>2025-11-13T21:00:31</date>
+      <amount>2000</amount>
+      <reason>Mission Reward (Brick's Share)</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>3856b7b6-3023-4cc8-b386-0a81a55ae8cb</guid>
+      <date>2025-11-13T21:39:36</date>
+      <amount>-300</amount>
+      <reason>Purchased Armor Securetech PPP: Legs Kit</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>f848618a-232e-4925-823f-efccab3cf65e</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a81184fd-fb1f-4508-b3f6-6f46a9dd96e4</guid>
+      <date>2025-11-13T21:46:16</date>
+      <amount>-250</amount>
+      <reason>Purchased Armor Mod Nonconductivity</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmorMod</nuyentype>
+        <objectid>0e4bad85-e8e3-46c6-bd80-43cba0195111</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>e2c0fff0-8941-4e97-822e-27a4bacbe92e</guid>
+      <date>2025-11-13T23:09:28</date>
+      <amount>3</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>5c15838f-7e06-4b87-b83e-060af32d152c</guid>
+      <date>2025-11-13T23:23:48</date>
+      <amount>-8</amount>
+      <reason>Gained Positive Quality Inspired</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>c86d2112-1963-4bfc-bc1e-f74aafab70fe</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>914b4736-1fb9-44a5-a2f1-82e55b7b8a0d</guid>
+      <date>2025-11-13T23:23:56</date>
+      <amount>-4</amount>
+      <reason>Active Skill Artisan 1 -&gt; 2</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveSkill</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>13696f57-06d4-4d8a-a13d-87fb32ca2203</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <gearlocations>
     <location>
@@ -18559,21 +18939,21 @@ Synthetic fingernails that function the same as AR gloves.</notes>
       <name>Casual</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>2</sortorder>
+      <sortorder>3</sortorder>
     </location>
     <location>
       <guid>6a7e337e-0818-40a6-984e-29a85016549d</guid>
       <name>Essentials</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>1</sortorder>
+      <sortorder>2</sortorder>
     </location>
     <location>
       <guid>97c43137-54eb-47d6-9d07-ed3266da989a</guid>
       <name>Merc Mode</name>
       <notes />
       <notesColor>Chocolate</notesColor>
-      <sortorder>0</sortorder>
+      <sortorder>1</sortorder>
     </location>
   </armorlocations>
   <vehiclelocations />

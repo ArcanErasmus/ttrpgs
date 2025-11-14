@@ -6,15 +6,38 @@
 ### Session 16?future - 2025-12-04
 ### No Session - 2025-11-27
 ### Session 15?future - 2025-11-20
-### Session 14?future - 2025-11-13
+- *Reminder* Next in-game day (the 13th) is another fencing roll
+- 2075/02/12, Tuesday, shopping day continued
+    - scene with brick, anya, katsumi?
+    - look for next job?
+    - anya do some grafitti art?
+
+### Session 14 - 2025-11-13
 - 2075/02/11, Monday, continued, near midnight
-- *Reminder* It's time to loot, get this stuff written down before session
-- *Reminder* What did we do during the hour it took for the autodoc to disassemble the ripper for his 'ware?
+- During the hour it took for the autodoc to disassemble the ripper for his 'ware, we plant cameras and smash the stored organs
     - After 20 mins, Clipper crashed out on Snuff (-1 INT probably means feeling a little sillier and a little slower to process things)
     - By the end of the hour, she's back to neutral
     - Down to 1/2 edge until sleep
-- *Reminder* TODO get paid
-    - $10k/head
+- Ari messages the Mr. Johnson to say that we're done
+    - She and Clipper follow the link to the host provided by the client
+    - Clipper's persona appearance: Goat head, human limbs, body covered by a toga. Boob window in the toga shows a mechanical beating heart
+- We go out for sushi afterwards
+    - Willow and Ari keep sniping
+- Anya spends the night with Katsumi and Ari
+    - Ari is trying to prove she's better than Willow
+- 2075/02/12, Tuesday, shopping dayyyy
+    - *Lifestyle*: Slept at garage, no roll needed
+    - *Illness:* No meds (7 doses left) = BOD+BOD (3), result: No penalty
+    - Sekhmet tries to buy a hot sim module and personafix chip, needs Ari's help
+        - She gets a cat personafix and slots it right then and there, going cat mode in the mall
+        - It becomes awkward, Willow and Ari have to lead her around like a pet
+        - Laesal shows up, sees this, and leaves immediately
+    - Katsumi drags Anya into the Weapons World
+        - She buys a grenade launcher with an underbarrel chainsaw
+        - Anya gets some leg armor
+- +3 Karma (41/41)
+    - -8 Inspired (Artisan) Trait
+    - -4 Artisan 1 -> 2
 
 ### Session 13 - 2025-11-06
 - *Reminder* Clipper is on Snuff (20 min remaining)
@@ -197,7 +220,6 @@
 - Loot - Drugs
     - 4 doses of kamikaze (400 nuyen)
     - 15 doses of Jazz (1125 nuyen)
-        - Pawned to Drusa?
 - Loot - Pawnable
     - 10x Electrical Parts (2000 nuyen)
     - Diamond ring (500 nuyen)
