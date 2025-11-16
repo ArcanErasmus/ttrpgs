@@ -14,7 +14,7 @@ Appropriate Lores
 ## Party Bios
 - Jay
     - Character: Granz, she/her, Sprite (Tiny)
-    - Character: ?, Poppet? (Small)
+    - Character: Vendari, Poppet? (Small)
 - Talia
     - Character: Sakari (in the body of Sinta), she/her, Kitsune (Medium)
 - Chas
@@ -25,8 +25,22 @@ Appropriate Lores
 - Sean
     - Character: Karchanek, he/him, Gnome (Small?)
 
-### Session 38?future - 2025-11-08
+### Session 39?future - 2025-11-22
 # TODO fix Meno-Yuriso offline sheet for lvl 7, some numbers are outdated
+
+### Session 38 - 2025-11-15
+- Down the hallway, crossroads
+    - Library to the right
+    - Armory straight ahead, I find a chain shirt there
+    - To the left is a long hallway, the guards rally and come from there while we are searching the armory
+- Fight the guards!
+    - We crush them, these guys were pretty weak and outmatched
+    - A few escape
+    - I'm out of offensive spell slots
+- We discover a secret door in the hallway
+
+### 2025-11-08, No Session
+
 ### Session 37 - 2025-11-01
 - We encounter a locked door grate
     - YMM unlocks it
