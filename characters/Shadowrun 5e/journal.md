@@ -1,16 +1,22 @@
 # Anya "Clipper" Ulan's Journal
-### Session 19?future - 2026-01-01
+### Session 18?future - 2026-01-01
 ### No Session - 2025-12-25
-### Session 18?future - 2025-12-18
-### Session 17?future - 2025-12-11
-### Session 16?future - 2025-12-04
-### No Session - 2025-11-27
-### Session 15?future - 2025-11-20
+### Session 17?future - 2025-12-18
+### Session 16?future - 2025-12-11
 - *Reminder* Next in-game day (the 13th) is another fencing roll
+- Anya do some grafitti art?
+- We're back home, now what?
+
+### Session 15 - 2025-12-04
 - 2075/02/12, Tuesday, shopping day continued
-    - scene with brick, anya, katsumi?
-    - look for next job?
-    - anya do some grafitti art?
+    - Anya boggles at Katsumi's purchase of "grenade launcher with underbarrel chainsaw"
+        - Brick
+    - Laesal shows up to see Willow and Ari holding Sekhmet on a leash, it's super awkward
+        - Willow runs after Laesal, they have an awkward conversation
+- +3 Karma (44/41)
+
+### No Session - 2025-11-27
+### No Session - 2025-11-20
 
 ### Session 14 - 2025-11-13
 - 2075/02/11, Monday, continued, near midnight

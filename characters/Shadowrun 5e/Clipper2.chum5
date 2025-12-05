@@ -96,7 +96,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>0</karma>
+  <karma>3</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -18863,6 +18863,22 @@ While cram makes people hyper and twitchy, jazz makes people jumpy and hyper as 
         <karmatype>ImproveSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
         <objectid>13696f57-06d4-4d8a-a13d-87fb32ca2203</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>44f4f77e-4af8-4e8d-9b02-6d9069e48fc5</guid>
+      <date>2025-12-04T22:12:52</date>
+      <amount>3</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
         <qty>0</qty>
         <extra />
       </undo>
