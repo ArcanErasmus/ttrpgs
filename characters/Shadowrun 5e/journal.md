@@ -1,11 +1,32 @@
 # Anya "Clipper" Ulan's Journal
 ### Session 18?future - 2026-01-01
 ### No Session - 2025-12-25
-### Session 17?future - 2025-12-18
-### Session 16?future - 2025-12-11
+### Session 17?future - 2026-01-22
 - *Reminder* Next in-game day (the 13th) is another fencing roll
-- Anya do some grafitti art?
-- We're back home, now what?
+- *Reminder* Anya is only going to have what armor she can either put on fast or put on in the car
+- We're off to save the teen squad from bug spirits!
+
+### Session 16 - 2026-01-15
+- 2075/02/12, Tuesday, we're back home, now what
+    - Sekhmet is a lump on the floor crashing from the BTL
+    - Katsumi and Willow get into a bitch fest about magic
+    - Willow storms off so Anya needles Katsumi about it
+    - Anya calls everyone in the party an idiot or a time bomb, she's so uncharismatic
+- Anya wanders off after annoying Katsumi
+    - Tags the neighborhood with drawings of goats
+- Ari gets a call from Miryam that Laesal is missing
+    - Hacks Laesal's computer, finds out that she is
+        - With her cousin Jamie Stewart
+        - Underneath the Redmond Barren
+        - In a firefight with bug spirits
+        - Started a fire in said underground facility
+- We leave at high speed to go support them
+
+### No Session - 2026-01-08
+### No Session - 2026-01-01
+### No Session - 2025-12-25
+### No Session - 2025-12-18
+### No Session - 2025-12-11
 
 ### Session 15 - 2025-12-04
 - 2075/02/12, Tuesday, shopping day continued
