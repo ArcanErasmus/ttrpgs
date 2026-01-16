@@ -25,8 +25,25 @@ Appropriate Lores
 - Sean
     - Character: Karchanek, he/him, Gnome (Small?)
 
-### Session 39?future - 2025-11-22
+### Session 40?future - 2026-01-10
+### Session 39 - 2026-01-03
 # TODO fix Meno-Yuriso offline sheet for lvl 7, some numbers are outdated
+# TODO fix Pathbuilder sheet, can't be Elementheart Kobold and have breath weapon
+- We head down the secret door hallway
+    - Fail to spot a trap, hallway explodes with flames (ow)
+- Opening the door at the end of the hall, we find a private quarters with a vampire and 5 guards
+    - Gruelingly slow fight, we killed the guards
+    - Vampire *Mistform*s out
+- Examining the coffin and the corpse loot
+    - Find a *Shining Symbol, Greater*
+    - Magic half plate, *Command Cuirass*
+
+### 2025-12-27, No Session
+### 2025-12-20, No Session
+### 2025-12-13, No Session
+### 2025-12-06, No Session
+### 2025-11-29, No Session
+### 2025-11-22, No Session
 
 ### Session 38 - 2025-11-15
 - Down the hallway, crossroads
