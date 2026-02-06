@@ -5,7 +5,7 @@
   <appversion>5.225.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>67e25032-2a4e-42ca-97fa-69f7f608236c</settings>
-  <settingshashcode>-1928615412</settingshashcode>
+  <settingshashcode>-1525459444</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>SR5</source>
@@ -96,7 +96,7 @@
   <playername>Violet</playername>
   <gamenotes />
   <primaryarm>Left</primaryarm>
-  <karma>3</karma>
+  <karma>9</karma>
   <special>0</special>
   <totalspecial>0</totalspecial>
   <totalattributes>14</totalattributes>
@@ -110,7 +110,7 @@
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>60</basecarrylimit>
-  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
+  <baseliftlimit>90</baseliftlimit>
   <totalcarriedweight>0.000</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
@@ -18870,6 +18870,38 @@ While cram makes people hyper and twitchy, jazz makes people jumpy and hyper as 
     <expense>
       <guid>44f4f77e-4af8-4e8d-9b02-6d9069e48fc5</guid>
       <date>2025-12-04T22:12:52</date>
+      <amount>3</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>23d677d8-3220-4169-bba4-9f41115095c8</guid>
+      <date>2026-01-15T23:12:24</date>
+      <amount>3</amount>
+      <reason>Session Reward</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a4afdfa1-6b97-42d3-910f-676ca9941ffa</guid>
+      <date>2026-02-05T21:44:42</date>
       <amount>3</amount>
       <reason>Session Reward</reason>
       <type>Karma</type>

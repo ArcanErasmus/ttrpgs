@@ -1,10 +1,37 @@
 # Anya "Clipper" Ulan's Journal
-### Session 18?future - 2026-01-01
-### No Session - 2025-12-25
-### Session 17?future - 2026-01-22
+### Session 18?future - 2026-02-12
 - *Reminder* Next in-game day (the 13th) is another fencing roll
-- *Reminder* Anya is only going to have what armor she can either put on fast or put on in the car
+
+### Session 17 - 2026-02-05
 - We're off to save the teen squad from bug spirits!
+    - We all gear up in Debbie on the way
+    - It takes 3.5hrs to drive to the Barrens, but we make it
+        - The location is Martin Medical
+        - This place is absolute shit
+- We see a pair of kids, a dwarf and an ork, run out of the building and into their shitty old beater muscle car
+    - They are clearly in distress
+    - The dwarf has a sawed off shotgun, the ork has a pistol holster but no gun
+    - I run towards them, they panic and fail to run me over
+    - Sekhmet shoots out one of their tires and Willow and Anya move to the door to interrogate them
+- We don't get a lot of useful intel from them
+    - Laesal had dreams of this location, something going down here
+    - She intended just to snoop, but upon hacking the cameras, she saw some people in trouble and insisted they all go in
+    - Ork boy: Arnold 'Arnie' Spalding
+    - Dwarf girl: Nicole 'Nicky' Dunn
+- Hustling into the building
+    - It's a warehouse, medical supply but mostly picked clean
+    - Wire racking mostly empty, in long rows parallel to us
+    - Loading dock on the left, catwalk on upper level
+- There's a pair of guys on the ground on the left
+    - One is unconscious, other is in pain
+    - Both in KE security team armor
+    - Guy who's awake says some shit about some things getting at them
+    - Anya stops listening and walks away when he throws a slur out
+- Apparently after some discussion the guy shoots at us???
+- +3 Karma (50/41)
+
+### No Session - 2026-01-29
+### No Session - 2026-01-22
 
 ### Session 16 - 2026-01-15
 - 2075/02/12, Tuesday, we're back home, now what
@@ -21,6 +48,7 @@
         - In a firefight with bug spirits
         - Started a fire in said underground facility
 - We leave at high speed to go support them
+- +3 Karma (47/41)
 
 ### No Session - 2026-01-08
 ### No Session - 2026-01-01
