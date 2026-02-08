@@ -64,7 +64,7 @@
 - Plotting and intricate play
 - NOT for new players
 
-### The Ghosts of Creuss 5B
+### The Ghosts of Creuss 5A
 - Love wormholes, like simpler Crimson Rebellion, flagship is wormhole, free movement tech
 - All about movement, decent eco
 - Abnormal and tricky play
