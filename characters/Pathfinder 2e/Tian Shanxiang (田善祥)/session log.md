@@ -1,7 +1,13 @@
 # Session log
 - TODO: Scene with Panax, we have returned to the estate from the bridge fight, and the rescuing of kids. Panax wants to see Shanxiang's collection because there's something he's after, and also he's been very flirty with Shanxiang. She has asked him to help her out of her armor, and honestly they both need a bath, so things will probably happen between them unless she shuts him down.
 
-### Session 24?future - 202?-??-??
+### Session 24?future - 2026-03-26
+
+### Session 23.5 - 2026-03-19
+- Refamiliarizing ourselves with the story and characters
+- (I was absent)
+- +135 XP
+XP: 1000/1000 -> `LEVEL UP TO 3`, 0/1000
 
 `END SEASON ONE (Chapter 1 complete!)`
 ### Session 23 - 2025-03-25
@@ -280,7 +286,7 @@ XP: 321/1000
         - Insects broke through, bipedals climbed the walls
         - The disparate groups attacked simultaneously, were coordinated
     - As a reminder, the groups we saw in the southeast were undirected and much weaker
-- XP: 1306/1000 -> LEVEL UP TO 2, 306/1000
+XP: 1306/1000 -> `LEVEL UP TO 2`, 306/1000
 
 ### Session 6 - 2024-09-03
 - Investigation 1: "What happened to the town?"
@@ -351,7 +357,7 @@ XP: 321/1000
     - The two fleeing villagers survive
 - We decide to continue to the exchange, because a bad storm is rolling in and we don't have time to get to more than one location tonight
     - People in tow: Hai-er Ha, Lo Yin, Lo Shinji
-- XP: 556/1000
+XP: 556/1000
 
 ### Session 3 - 2024-08-13
 - Investigation 1: "What happened to the town?"
@@ -409,7 +415,7 @@ XP: 321/1000
         - I leave a note that we came by and what we took, and re-lock the door behind us
 - Encounter at the Hand of Spring!
     - (rolling back to when we arrived, ignore other stuff until later)
-- XP: 114/1000
+XP: 114/1000
 
 ### Session 1 - 2024-07-30
 - Investigation 1: -
@@ -434,4 +440,4 @@ XP: 321/1000
     - Ugly-Cute is... gone???
     - The lantern is laying on the ground, extinguished and empty of fuel
     - Investigations suggest that Ugly-Cute somehow got up and walked off
-- XP: 64/1000
+XP: 64/1000
