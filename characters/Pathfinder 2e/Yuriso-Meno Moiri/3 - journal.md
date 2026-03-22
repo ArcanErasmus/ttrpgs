@@ -1,16 +1,4 @@
 # Yuriso-Meno's Journal
-## Event Log
-Appropriate Lores
-- Fishing
-- Herbalism
-- Hunting
-- Scouting
-- Lore about a deity
-- Lore about a creature
-- Lore about a non-material plane
-- Lore about a terrain
-- Lore about a type of food/drink (butchering, baking, alcohol, cooking, tea, etc.)
-
 ## Party Bios
 - Jay
     - Character: Granz, she/her, Sprite (Tiny)
@@ -25,18 +13,29 @@ Appropriate Lores
 - Sean
     - Character: Karchanek, he/him, Gnome (Small?)
 
-### Session 40?future - 2026-01-10
+### Session 40 - 2026-03-14
+- Entering the throne room hallway, we fight against several guards, vampire counts, and Yuriso
+    - I die
+
+### 2026-03-07, No Session
+### 2026-02-28, No Session
+### 2026-02-21, No Session
+### 2026-02-14, No Session
+### 2026-02-07, No Session
+### 2026-01-31, No Session
+### 2026-01-24, No Session
+### 2026-01-17, No Session
+### 2026-01-10, No Session
+
 ### Session 39 - 2026-01-03
-# TODO fix Meno-Yuriso offline sheet for lvl 7, some numbers are outdated
-# TODO fix Pathbuilder sheet, can't be Elementheart Kobold and have breath weapon
 - We head down the secret door hallway
     - Fail to spot a trap, hallway explodes with flames (ow)
 - Opening the door at the end of the hall, we find a private quarters with a vampire and 5 guards
     - Gruelingly slow fight, we killed the guards
     - Vampire *Mistform*s out
 - Examining the coffin and the corpse loot
-    - Find a *Shining Symbol, Greater*
-    - Magic half plate, *Command Cuirass*
+    - Find a *Shining Symbol, Greater* - Karchanek
+    - Magic half plate, *Command Cuirass* - Surya
 
 ### 2025-12-27, No Session
 ### 2025-12-20, No Session
