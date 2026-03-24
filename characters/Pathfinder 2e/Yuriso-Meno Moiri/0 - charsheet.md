@@ -24,11 +24,12 @@
 ### Resources
 | **Resource** | Value       | Refill
 |--------------|-------------|-------
-| *HP*         | 52/90       | +14/Rest (not with Curse of Nightmares!)
-| *Hero Point* | [x] [ ] [ ] | =1/Session
+| *HP*         |  0/90       | +14/Rest (not with Curse of Nightmares!)
+| *Hero Point* | [ ] [ ] [ ] | =1/Session
 
 ### Conditions and Temporary Effects
 - [x] Curse of Nightmares
+- # DEAD
 
 ### Defenses
 | **Defense**     | Sum | TEML | Abil | Bns | Temp
