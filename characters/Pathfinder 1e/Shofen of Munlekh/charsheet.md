@@ -3,7 +3,7 @@
 - Samurai Archetypes: Warrior Poet
     - https://www.d20pfsrd.com/classes/alternate-classes/samurai/archetypes/paizo-samurai-archetypes/warrior-poet-samurai-archetype
 - Medium Archetypes: Reanimated Medium
-    - https://www.d20pfsrd.com/alternative-rule-systems/occult-adventures/occult-classes/medium/archetypes/paizo-llc-medium-archetypes/reanimated-medium-medium-archetype
+    - https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/medium/archetypes/paizo-llc-medium-archetypes/reanimated-medium-medium-archetype
 - Paladin Archetypes: Virtuous Bravo, Oath Against Chaos
     - https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/virtuous-bravo-paladin-archetype
     - https://www.d20pfsrd.com/classes/core-classes/paladin/archetypes/paizo-paladin-archetypes/oathbound-paladin
