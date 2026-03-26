@@ -1,4 +1,4 @@
-# monk, she
+# Sureh Nati, she
 ## LG, Sunsoul Ifrit, Unchained Monk 3, Paladin 1
 - Monk Archetypes: Scaled Fist
     - https://www.d20pfsrd.com/classes/core-classes/monk/archetypes/paizo-monk-archetypes/scaled-fist-monk-archetype
@@ -34,28 +34,29 @@ Rolls:
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | 18 (18 T/15 F) | -
+| AC   | 19 (19 T/16 F) | +4
 | BAB  | +4             | -
 | CMB  | +8             | -
-| CMD  | 20             | -
+| CMD  | 21             | -
 | Init | +7             | -
 | Spd  | 40/30 ft       | -
 |------|---------|------|-----------|
 | Stat | Max     | Cur  | Temp      |
 |------|---------|------|-----------|
-| HP   |      36 |   36 | 0, 0 NL
+| HP   |      41 |   41 | 0, 0 NL
 | Hero |       3 |    3 | 0
 |------|---------|------|-----------|
-HP rolls (d10): [10], 5, 6, 7
-- Retraining cost: 300gp for +5hp, 360gp for +4hp, 360gp for +3hp
-AC breakdown: +3 Dex, +5 Cha
+HP rolls (d10): [10], 5+5, 6, 7
+- Retraining cost: 360gp for +4hp, 360gp for +3hp
+AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 
-## Resistances/Immunities
+## Resistances/Immunities/Senses
 - SR: No
-- Immunities: ?
-- Resistances: ?
+- Immunities: None
+- Resistances: None
 - Weaknesses: None
 - DR: None
+- Senses: Darkvision 60ft
 
 ## Saves
 | Name | Stat | Tot | Temp |
@@ -65,40 +66,45 @@ AC breakdown: +3 Dex, +5 Cha
 | Will | Wis  | +2  | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
-- Trait (?): ?
+- Racial Trait (Fire in the Blood): Fast healing 2 for 1 rd on taking fire dmg
+- Trait (Betrayed): Disadvantage on Sense Motive to get a hunch
+- Trait (Competitive): +1 trait to skill check when other has attempted within last rd and 30ft
+- Feat (Dragon Style): When active, +2 to saves vs sleep, paralysis, stunning effects
 - Feat (Steadfast Personality): +Cha mod on Will vs mind-affecting
-- Feat (?): ?
 - Class Feature (Evasion): On Ref for half dmg, take no dmg
-- Item (?): ?
+- Item (Wand Focus Tool): +2 circumstance UMD activate wands
+- Item (Elbow and Knee Pads): +2 circumstance Acrobatics avoid oppys
+- Item (*Belt of Tumbling*): +4 competence Acrobatics avoid oppys
+- Item (*Wand of Mage Armor*): +4 armor to AC
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
-| 4 |   | C | Acrobatics         | Dex | +10 | -
+| 4 |   | C | Acrobatics         | Dex | +10 | +2^
 |   |   |   | Appraise           | Int |     | -
 |   |   |   | Bluff              | Cha |     | -
-| 1 |   | C | Climb              | Str |  +8 | -
+| 1 |   | C | Climb              | Str | +10 | -
 |   |   | C | Craft              | Int |     | -
 |   |   |   |   ?                | Int |     | -
 | 1 |   | C | Diplomacy          | Cha |  +9 | -
 |   | T |   | Disable Device     | Dex |     | -
 |   |   |   | Disguise           | Cha |     | -
-| 1 |   | C | Escape Artist      | Dex |  +7 | -
+|   |   | C | Escape Artist      | Dex |     | -
 |   |   |   | Fly                | Dex |     | -
-| 1 | T | C | Handle Animal      | Cha |  +9 | -
+|   | T | C | Handle Animal      | Cha |     | -
 |   |   | C | Heal               | Wis |     | -
 | 1 |   | C | Intimidate         | Cha |  +9 | -
 |   | T |   | Kn (arcana)        | Int |     | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
 |   | T |   | Kn (engineering)   | Int |     | -
 |   | T |   | Kn (geography)     | Int |     | -
-|   | T | C | Kn (history)       | Int |     | -
+| 1 | T | C | Kn (history)       | Int |  +4 | -
 |   | T |   | Kn (local)         | Int |     | -
 |   | T |   | Kn (nature)        | Int |     | -
 |   | T | C | Kn (nobility)      | Int |     | -
 |   | T |   | Kn (planes)        | Int |     | -
 |   | T |   | Kn (psionics)      | Int |     | -
-|   | T | C | Kn (religion)      | Int |     | -
+| 1 | T | C | Kn (religion)      | Int |  +4 | -
 |   | T |   | Linguistics        | Int |     | -
 | 4 |   | C | Perception         | Wis |  +6 | -
 |   |   | C | Perform            | Cha |     | -
@@ -112,7 +118,7 @@ AC breakdown: +3 Dex, +5 Cha
 | 1 |   | C | Stealth            | Dex |  +7 | -
 |   |   |   | Survival           | Wis |     | -
 | 1 |   | C | Swim               | Str |  +8 | -
-| 1 | T | C | Use Magic Device   | Cha | +10 | -
+| 1 | T | C | Use Magic Device   | Cha | +10 | +2^
 |---|---|---|--------------------|-----|-----|------
 
 - Skill ranks: 17/17
@@ -134,6 +140,7 @@ AC breakdown: +3 Dex, +5 Cha
 - +2 Str, +2 Cha, -2 Wis
 - Outsiders (native)
 - Medium, 30 ft speed
+- Darkvision 60ft
 
 ### Wildfire Heart
 - +4 racial bonus to Initiative
@@ -145,21 +152,19 @@ AC breakdown: +3 Dex, +5 Cha
 ### Fire in the Blood
 - Gain fast healing 2 for 1 rd upon taking fire damage (even if negated by resistance). Can only heal 2hp/lvl per day from this
 
-### Darkvision
-Ifrits can see perfectly in the dark up to 60 feet.
-
 ## Traits & Drawbacks
-### (D) ?
-- ?
+### (D) Betrayed
+- Must roll twice and take lower on Sense Motive to get hunches
+- Cannot reroll this
 
 ### Dangerously Curious [Magic]
-- +1 to UMD, UMD is always a class skill
+- +1 trait to UMD, UMD is always a class skill
 
-### ? [?]
-- ?
+### Competitive [Social]
+- When another creature within 30ft attempts a skill check, and you attempt a check with the same skill before the start of their next turn, +1 trait on that check
 
-### ? [?]
-- ?
+### Blessed Touch [Faith]
+- +1 hp healed with lay on hands, channel positive energy, casting cure spells
 
 ## Feats
 ### Weapon Focus (Unarmed Strike) [lvl 1]
@@ -172,8 +177,9 @@ Ifrits can see perfectly in the dark up to 60 feet.
 - Can charge through squares containing allies
 - Can add 1.5x Str bonus on dmg roll for first unarmed strike each round
 
-### ? [Monk Bonus, lvl 2]
-- ?
+### Combat Reflexes [Monk Bonus, lvl 2]
+- Can make oppys when flat-footed
+- Can make Dex-bonus oppys per round (3)
 
 ### Steadfast Personality [lvl 3]
 - Add Cha mod instead of Wis mod (unless neg, then add both) to Will saves against mind-affecting affects

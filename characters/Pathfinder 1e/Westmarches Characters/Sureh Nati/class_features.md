@@ -1,7 +1,8 @@
-# ?'s Class Features
+# Sureh's Class Features
 ## Monk
 ### Draconic Might
 - All Wis-based class abilities use Cha instead
+- Includes bonus feats, like Stunning Fist
 
 ### AC Bonus
 - When unarmored and unencumbered, add [Cha] bonus to AC and CMD
@@ -74,7 +75,8 @@
 - Lasts Cha mod rounds, opponents that succeed at melee atks against target take 1d6 fire dmg, plus 1/2 Cha mod divine bonus dmg (divine bonus not subject to energy resistance or DR)
 - Divine bonus dmg doubled against evil creatures and negated against good creatures
 
-# Future Class Features (Monk lvl 4)
+# Future Class Features
+## Monk lvl 4
 +1 BAB
 +1 Fort, Ref
 
@@ -95,7 +97,17 @@
 - Spend 1 ki point as swift action to imbue natural attacks for 1/2 lvl rounds
 - Imbued attacks deal 1d6 damage of chosen type
 
-# Future Class Features (Monk lvl 5)
+## Monk lvl 5
 +1 BAB
+
 Purity of Body
 Style Strike (1/rd)
+
+## Paladin lvl 2
++1 BAB
++1 Fort, Will
+
+Merciful Hex
+Divine Grace
+
+## Paladin lvl 3
