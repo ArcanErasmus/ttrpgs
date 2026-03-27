@@ -70,7 +70,7 @@ AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 - Trait (Betrayed): Disadvantage on Sense Motive to get a hunch
 - Trait (Competitive): +1 trait to skill check when other has attempted within last rd and 30ft
 - Feat (Dragon Style): When active, +2 to saves vs sleep, paralysis, stunning effects
-- Feat (Steadfast Personality): +Cha mod on Will vs mind-affecting
+- Feat (Steadfast Personality): +5 Will vs mind-affecting
 - Class Feature (Evasion): On Ref for half dmg, take no dmg
 - Item (Wand Focus Tool): +2 circumstance UMD activate wands
 - Item (Elbow and Knee Pads): +2 circumstance Acrobatics avoid oppys
