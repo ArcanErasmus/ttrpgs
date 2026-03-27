@@ -1,7 +1,41 @@
 # Session log
 - TODO: Scene with Panax, we have returned to the estate from the bridge fight, and the rescuing of kids. Panax wants to see Shanxiang's collection because there's something he's after, and also he's been very flirty with Shanxiang. She has asked him to help her out of her armor, and honestly they both need a bath, so things will probably happen between them unless she shuts him down.
 
-### Session 24?future - 2026-03-26
+### Session 25?future - 2026-04-02
+### Session 24 - 2026-03-26
+- Investigation 1: "What happened to the town?"
+- Investigation 2: "What happened to Ugly-Cute?"
+- We cut in to us arriving at the Matsuki estate
+    - Mika breaks the news abt the spirit world to Elizeth and Wu-Xiu
+    - Kumiho is a nuisance, gossiping about Xiuhua and Bulan
+    - Panax is having some dissatisfaction among the ranks, needs time to rest
+    - I give Lo Yin homework: write everything you know about every foe we have faced
+    - We rest up until the evening
+- Shou tells Shanxiang that he's been robbed of supplies, it's harder to arm the villagers
+    -  Shanxiang offers some of the gear she's picked up ($69.5):
+        - Armored Cloak - 2gp
+        - Armored Coat - 20gp
+        - Basic Crutch - 5sp
+        - Buckler - 1gp
+        - Chain (20ft) - 8gp
+        - Chain Shirt - 5gp
+        - Kukri - 6sp
+        - Light Hammer - 3sp
+        - Monkey's Fist - 1sp
+        - Throwing Shield modification - 5gp
+        - Traveler's Cloak - 7gp
+        - Whisper in the Dark - 20gp
+- Party journeys forth
+    - Matsuki posits that there may be guards holed up at the prison, so that's where we head
+- Crossing the Dawnstep bridge, we enter the downtown area from the south
+    - There's a commotion in the open
+    - A half dozen Jinkin are being chased by a kholo warrior of some sort
+    - We all tear them apart, the kholo is quite chatty
+- Discussion post-battle
+    - The warrior goes by Wandering Aspen (she/her), and appears to be more interested in fighting than thinking
+    - She seems to be quite confused about general events
+- +75 XP
+XP: 75/1000
 
 ### Session 23.5 - 2026-03-19
 - Refamiliarizing ourselves with the story and characters

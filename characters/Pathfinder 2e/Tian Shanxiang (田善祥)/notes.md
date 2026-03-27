@@ -193,7 +193,7 @@
 - The local leshies have been here since long before Willowshore was founded, only "joining" the town when expansion made it inevitable
 
 ### The Eight Practices of Summer
-1. Do not call a ghost a ghost.
+1. Do not call a ghost a ghost; address them with friendly greetings instead if you must.
 2. Do not pat people on the head or shoulders.
 3. Avoid entering bodies of water when a ghost is nearby.
 4. Do not eat food that has two stick-like objects protruding from it.
@@ -312,6 +312,7 @@
     - North is the stage for the weekly Shu Opera performance, part of the Seven-Colored Songbird theater
     - Nearby is Treesparrow's Rest, one of the busiest businesses in town, grocery store
     - Opposite the store is the Happy Kappa, the only public bathhouse in town
+    - Jail is near the Dawnstep Bridge
     - Zheng Peng
     - Kazuma Oono
     - Nadoya Sanmi
