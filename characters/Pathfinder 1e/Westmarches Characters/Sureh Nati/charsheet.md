@@ -68,7 +68,6 @@ AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 ## Conditional Modifiers/Resistances/Weaknesses
 - Racial Trait (Fire in the Blood): Fast healing 2 for 1 rd on taking fire dmg
 - Trait (Betrayed): Disadvantage on Sense Motive to get a hunch
-- Trait (Competitive): +1 trait to skill check when other has attempted within last rd and 30ft
 - Feat (Dragon Style): When active, +2 to saves vs sleep, paralysis, stunning effects
 - Feat (Steadfast Personality): +5 Will vs mind-affecting
 - Class Feature (Evasion): On Ref for half dmg, take no dmg
@@ -160,8 +159,8 @@ AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 ### Dangerously Curious [Magic]
 - +1 trait to UMD, UMD is always a class skill
 
-### Competitive [Social]
-- When another creature within 30ft attempts a skill check, and you attempt a check with the same skill before the start of their next turn, +1 trait on that check
+### Heavy Hitter [Regional]
+- +1 trait bonus dmg with unarmed
 
 ### Blessed Touch [Faith]
 - +1 hp healed with lay on hands, channel positive energy, casting cure spells

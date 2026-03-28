@@ -2,8 +2,8 @@
 ## Weapons
 | Weapon           | Atk    | Damage      | Crit     | Range | Notes
 |------------------|--------|-------------|----------|-------|------------
-| Unarmed Strike   |  +9    | 1d6+4 (B)   |    20/x2 |       |
-| Mwk Handwraps    | +10    | 1d6+4 (B)   |    20/x2 |       | Monk
+| Unarmed Strike   |  +9    | 1d6+5 (B)   |    20/x2 |       |
+| Mwk Handwraps    | +10    | 1d6+5 (B)   |    20/x2 |       | Monk
 |------------------|--------|-------------|----------|-------|------------
 
 ## Combat Options
