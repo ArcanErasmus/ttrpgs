@@ -11,8 +11,7 @@
 |-----------------------------|        |--------------------------------
 | **Slotted Magic Items**     |        | See slots below
 |-----------------------------|        |--------------------------------
-| *Belt of Tumbling*          |   1    | +4 comp Acro avoid oppys
-| *Anklet of Translocation*   |        | 2/day swift teleport 10ft LoS
+| *Belt of Tumbling*          |   1    | See below
 |-----------------------------|        |--------------------------------
 | **Weapons/Shields**         |        | Includes ammo, related items
 |-----------------------------|        |--------------------------------
@@ -34,7 +33,7 @@
 | **Misc/Loot**               |        |
 |-----------------------------|        |--------------------------------
 |-----------------------------|        |--------------------------------
-| **Coins**                   |   ?.?  | $242.9; $0 valuables
+| **Coins**                   |   ?.?  | $322.9; $0 valuables
 |-----------------------------|--------|--------------------------------
 | **Total**                   |  34.0  | Light Load
 
@@ -60,9 +59,14 @@
 - Grants the user +2 circimstance to UMD checks to activate the wand
 - Can only wear one at a time
 
-#### Elbow and knee pads
+#### Elbow and knee pads (GM authorized)
 - Help with rolling aggressively
 - Grants the wearer +2 circumstance to Acrobatics checks to avoid opportunity attacks when moving through threatened squares or opponents' spaces
+
+#### *Daredevil Softpaws Boots*
+- Free action, click heels together to activate, max 10rds/day
+    - +5 comp to Acro to avoid oppys
+- If avoid oppy, +2 bonus atk rolls vs that enemy
 
 ### Spent (6000 total)
 0 - Free outfit
@@ -72,13 +76,12 @@
 50 - Wand Focus Tool
 50 - Elbow and Knee Pads
 80 - Climber's Kit
-300.1 - Masterwork Handwraps
-300 - HP Retraining (+5)
+500.1 - Masterwork Handwraps, Cryptstone
 750 - *Wand of Mage Armor* (CL 1)
+1020 - HP Retraining
+1400 -  *Daredevil Softpaws Boots*
 2000 - *Ring of Protection +1*
-1400 - *Anklet of Translocation* https://dtdnd.neocities.org/books/player/Magic%20Item%20Compendium.pdf
-800 - *Belt of Tumbling* https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-tumbling
-=5757.1
+=5477.1
 
 
 ## Carrying Capacity
@@ -100,12 +103,12 @@
 - Chest     -
 - Body      -
 - Armor     -
-- Belt      - *Belt of Tumbling*
+- Belt      -
 - Wrists    -
 - Hands     -
 - Ring 1    - *Ring of Protection +1*
 - Ring 2    -
-- Feet      - *Anklet of Translocation*
+- Feet      - *Daredevil Softpaws Boots*
 
 ## Loot pile
 - 

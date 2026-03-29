@@ -79,6 +79,7 @@
 ## Monk lvl 4
 +1 BAB
 +1 Fort, Ref
+5+Int skill ranks
 
 ### AC Bonus
 - +1 to AC and CMD
@@ -99,6 +100,7 @@
 
 ## Monk lvl 5
 +1 BAB
+5+Int skill ranks
 
 Purity of Body
 Style Strike (1/rd)
@@ -106,8 +108,29 @@ Style Strike (1/rd)
 ## Paladin lvl 2
 +1 BAB
 +1 Fort, Will
+2+Int skill ranks
 
-Merciful Hex
-Divine Grace
+### Lay on hands
+- +1/day
+
+### Merciful Hex
+- Pick a hex from: Fortune, Healing, Ward
+- Can apply (one at a time) to LoH
+
+### Divine Grace (Su)
+- +Cha mod to all saves
 
 ## Paladin lvl 3
++1 BAB
++1 Ref
+2+Int skill ranks
+
+### Merciful Hex
+- Pick a second hex
+
+### Word of Healing (Su)
+- Gain the Word of Healing feat
+- Can LoH at 10ft for full effect
+
+### Divine Health (Su)
+- Immune to all diseases, natural or supernatural

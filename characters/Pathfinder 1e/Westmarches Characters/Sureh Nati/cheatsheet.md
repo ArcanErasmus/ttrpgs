@@ -1,10 +1,11 @@
 # Sureh's Abilities Cheat-sheet
 ## Weapons
-| Weapon           | Atk    | Damage      | Crit     | Range | Notes
-|------------------|--------|-------------|----------|-------|------------
-| Unarmed Strike   |  +9    | 1d6+5 (B)   |    20/x2 |       |
-| Mwk Handwraps    | +10    | 1d6+5 (B)   |    20/x2 |       | Monk
-|------------------|--------|-------------|----------|-------|------------
+| Weapon           | Atk    | Damage           | Crit     | Range | Notes
+|------------------|--------|------------------|----------|-------|------------
+| Mwk Handwraps    | +10    | 1d6+5(B)+1(Fire)^|    20/x2 |       | Monk, Unarmed Strike
+| Other Unarmed    |  +9    | 1d6+5(B)+1(Fire) |    20/x2 |       | Unarmed Strike
+|------------------|--------|------------------|----------|-------|------------
+^+1 damage vs undead (non-precision)
 
 ## Combat Options
 - *Wand of Mage Armor*
@@ -29,7 +30,7 @@
     - *Enlarge Person* or *Reduce Person*, CL = lvl
     - Can target ifrits as though they were humanoids
 - Lay on Hands (Su)
-    - **Daily**; 6/day: OOOOOO
+    - **Daily**; 5/day: OOOOO
     - Move action for others, swift for self
     - Heal 1d6+1
     - Sacrifice multiples of 5hp to add that to healing done

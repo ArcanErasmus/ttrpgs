@@ -38,16 +38,15 @@ Rolls:
 | BAB  | +4             | -
 | CMB  | +8             | -
 | CMD  | 21             | -
-| Init | +7             | -
+| Init | +3             | -
 | Spd  | 40/30 ft       | -
 |------|---------|------|-----------|
 | Stat | Max     | Cur  | Temp      |
 |------|---------|------|-----------|
-| HP   |      41 |   41 | 0, 0 NL
+| HP   |      48 |   48 | 0, 0 NL
 | Hero |       3 |    3 | 0
 |------|---------|------|-----------|
-HP rolls (d10): [10], 5+5, 6, 7
-- Retraining cost: 360gp for +4hp, 360gp for +3hp
+HP rolls (d10): [10], 5+5, 6+4, 7+3
 AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 
 ## Resistances/Immunities/Senses
@@ -71,15 +70,15 @@ AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 - Feat (Dragon Style): When active, +2 to saves vs sleep, paralysis, stunning effects
 - Feat (Steadfast Personality): +5 Will vs mind-affecting
 - Class Feature (Evasion): On Ref for half dmg, take no dmg
-- Item (Wand Focus Tool): +2 circumstance UMD activate wands
+- Item (Wand Focus Tool): +2 circumstance UMD activate attached wand
 - Item (Elbow and Knee Pads): +2 circumstance Acrobatics avoid oppys
-- Item (*Belt of Tumbling*): +4 competence Acrobatics avoid oppys
+- Item (*Daredevil Softpaws Boots*): +5 competence Acrobatics avoid oppys
 - Item (*Wand of Mage Armor*): +4 armor to AC
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
-| 4 |   | C | Acrobatics         | Dex | +10 | +2^
+| 4 |   | C | Acrobatics         | Dex | +10 | +7^
 |   |   |   | Appraise           | Int |     | -
 |   |   |   | Bluff              | Cha |     | -
 | 1 |   | C | Climb              | Str | +10 | -
@@ -141,12 +140,8 @@ AC breakdown: +3 Dex, +5 Cha, +1 Deflection
 - Medium, 30 ft speed
 - Darkvision 60ft
 
-### Wildfire Heart
-- +4 racial bonus to Initiative
-
-### Efreeti Magic (Sp)
-- Can cast *enlarge person* or *reduce person* once per day, CL = lvl
-- Can target ifrits as though they were humanoids
+### Brazen Flame
+- +1 fire damage to all melee attacks
 
 ### Fire in the Blood
 - Gain fast healing 2 for 1 rd upon taking fire damage (even if negated by resistance). Can only heal 2hp/lvl per day from this
