@@ -1,106 +1,48 @@
 # ?'s Notes
 ## combat contingencies
-- Physical damage type
-    - Bludgeoning melee: ?
-    - Bludgeoning ranged: ?
-    - Slashing melee: ?
-    - Slashing ranged: ?
-    - Piercing melee: ?
-    - Piercing ranged: ?
-- Other damage
-    - Reach physical: ?
-    - Nonlethal melee: ?
-    - Nonlethal range: ?
-    - Energy damage melee: ?
-    - Energy damage ranged: ?
-- Unusual enemies
-    - Incorporeal melee: ?
-    - Incorporeal ranged: ?
-    - Tough opponent: ?
-    - Typed opponent: ?
-
 ## other contingencies
-- Injuries
-    - Healing: ?
-    - Ability Damage: ?
-    - Ability Drain: ?
-    - Disease identification: ?
-    - Disease treatment: ?
-    - Disease cure: ?
-    - Poison identification: ?
-    - Poison treatment: ?
-    - Poison cure: ?
-- Conditions
-    - Fatigued/exhausted prevention: ?
-    - Fatigued/exhausted cure: ?
-    - Sickened/nauseated prevention: ?
-    - Sickened/nauseated cure: ?
-    - Fear prevention: ?
-    - Fear cure: ?
-- Checks
-    - Physical stat/skill check: ?
-    - Mental stat/skill check: ?
-- Magic
-    - Magic aura identification: ?
-    - Magic item identification: ?
-    - Magic dispelling: ?
-    - Psychic aura identification: ?
-    - Psychic item identification: ?
-    - Psychic dispelling: ?
-
 ## spells/? to Learn
-- type
-    - lvl
-
 ## interesting things to look into
 ### classes/presige classes
 - https://docs.google.com/document/d/1XqcFr980WIYJSmk7n68ZV1mVL50vCgrJy4ZDdRPWaIU/edit?tab=t.0
 
 ### items (?gp budget)
-- slotted
-    - belt
-    - body
-    - chest
-    - eyes
-    - feet
-    - hands
-    - head
-    - headband
-    - neck
-    - shoulders
-    - wrists
-    - rings
-- slotless
-
 ### special materials
-- weapon
-- other
-
 ### magic weapon special abilities
-- gp
-- +1
-- +2
-
 ### magic armor special abilities
-- gp
-- +1
-- +2: none
-
 ### story feats
 
 ## feats
 - any lvl
     -
 ## traits
-- ?
-
-## actual traits to take
 ### Campaign
 ### Combat
 ### Equipment
 ### Faith
+### Magic
+https://www.d20pfsrd.com/traits/magic-traits/gifted-adept/
 ### Mount
 ### Social
 ### Race (see Adopted)
-### Regional
+<!-- ### Regional -->
 ### Religion
+
+## drawbacks
+### Loner https://www.d20pfsrd.com/traits/drawbacks/loner/
+- -1 to AC and atk when adjacent to allies or taking aid another
+### Meticulous https://www.d20pfsrd.com/traits/drawbacks/meticulous/
+- -2 on untrained skills
+### Naive https://www.d20pfsrd.com/traits/drawbacks/naive/
+- -2 to AC vs improvised weapons and -2 to CMD vs dirty trick
+### Nervous https://www.d20pfsrd.com/traits/drawbacks/nervous/
+- When take 10 on check with penalty for failure, take 8 instead
+
+### Guilty Fraud https://www.d20pfsrd.com/traits/drawbacks/guilty-fraud/
+- -4 Bluff with creatures indifferent or better
+- *Received body and its history without working for it, feel like an imposter*
+### Scarred https://www.d20pfsrd.com/traits/drawbacks/scarred/
+- -5 Disguise, -2 Bluff
+- *Weirdness of circuitry tattoos makes distrusted and very hard to pass as anyone else*
+### Stigmatized https://www.d20pfsrd.com/traits/drawbacks/stigmatized/
+- -3 Diplomacy to gather info or improve attitude

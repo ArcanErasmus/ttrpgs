@@ -1,6 +1,7 @@
 # name, It/She
 ## ?G, Android, Arcanist 4
-- Archetypes: ?
+- Archetypes: None
+    - https://docs.google.com/document/d/1esXAlfclC1lDyJ2pOWzfYPkHs8ajQ79UV5SdvjYYMsY
 - Deity: ?
 - height, weight, age, hair, eyes
 - Casual appearance description
@@ -17,11 +18,11 @@
 | Stat | Base    | Temp
 |------|---------|------
 | STR  | 10 (+0) | -
-| DEX  | 20 (+5) | -
+| DEX  | 18 (+4) | -
 | CON  | 16 (+3) | -
 | INT  | 23 (+6) | -
-| WIS  | 16 (+3) | -
-| CHA  | 13 (+1) | -
+| WIS  | 15 (+2) | -
+| CHA  | 16 (+3) | -
 Stat Rolls:
 <!-- 17 16 16 14 12 11 -->
 <!-- 15 15 13 13 12 10 -->
@@ -30,11 +31,11 @@ Stat Rolls:
 ## Secondary Stats
 | Stat | Value          | Temp
 |------|----------------|------
-| AC   | 16 (15 T/11 F) | -
+| AC   | 15 (14 T/11 F) | -
 | BAB  | +2             | -
 | CMB  | +2             | -
-| CMD  | 17             | -
-| Init | +5             | -
+| CMD  | 16             | -
+| Init | +4             | -
 | Spd  | 30/20 ft       | -
 |------|---------|------|------
 | Stat | Max     | Cur  | Temp
@@ -43,7 +44,7 @@ Stat Rolls:
 | Hero |       3 |    3 | 0
 |------|---------|------|------
 HP rolls (d6): [6], 3+3, 5+1, 4+2
-AC breakdown: +5 Dex, +1 Armor
+AC breakdown: +4 Dex, +1 Armor
 
 ## Resistances/Immunities/Senses
 - SR: No
@@ -57,8 +58,8 @@ AC breakdown: +5 Dex, +1 Armor
 | Name | Stat | Tot | Temp
 |------|------|-----|------
 | Fort | Con  | +4  | -
-| Ref  | Dex  | +6  | -
-| Will | Wis  | +7  | -
+| Ref  | Dex  | +5  | -
+| Will | Wis  | +6  | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Racial Trait (?): ?
@@ -95,7 +96,7 @@ AC breakdown: +5 Dex, +1 Armor
 | 4 | T | C | Kn (planes)        | Int | +13 | -
 | 4 | T | C | Kn (religion)      | Int | +13 | -
 | 1 | T | C | Linguistics        | Int | +10 | -
-| 4 |   | C | Perception         | Wis | +11 | -
+| 4 |   | C | Perception         | Wis | +10 | -
 |   |   |   | Perform            | Cha |     | -
 |   |   |   |   ?                | Cha |     | -
 |   | T | C | Profession         | Wis |     | -
@@ -107,7 +108,7 @@ AC breakdown: +5 Dex, +1 Armor
 |   |   |   | Stealth            | Dex |     | -
 |   |   |   | Survival           | Wis |     | -
 |   |   |   | Swim               | Str |     | -
-| 1 | T | C | Use Magic Device   | Cha |  +5 | -
+| 1 | T | C | Use Magic Device   | Cha |  +7 | -
 |---|---|---|--------------------|-----|-----|------
 
 - Skill ranks: 35/35 (spent/total)
@@ -122,8 +123,8 @@ AC breakdown: +5 Dex, +1 Armor
 
 ## Favored class bonus
 - +3 skill ranks
-- +1 known spell (below max castable lvl)
-    - Becomes +1 spell prepared (below max castable lvl)
+- +1 "known" spell (becomes +spells prepared, can't be max lvl)
+    - +1 lvl 1
 
 ## Racial Features
 ### Base Properties
