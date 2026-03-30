@@ -48,13 +48,6 @@
     - Psychic item identification: ?
     - Psychic dispelling: ?
 
-## Recitations to Learn
-- Heart and Mind
-    - Lvl 1:
-    - Lvl 2:
-- Artifice
-    - Lvl 2:
-
 ## interesting things to look into
 ### classes/presige classes
 
