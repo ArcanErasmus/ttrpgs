@@ -1,0 +1,18 @@
+- Omdura https://www.d20pfsrd.com/classes/base-classes/omdura/
+- Mesmerist https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/mesmerist/
+- Spiritualist https://www.d20pfsrd.com/classes/hybrid-classes/investigator/archetypes/paizo-investigator-archetypes/spiritualist/
+- Psychic https://www.d20pfsrd.com/alternative-rule-systems/paizo-rules-systems/occult-adventures/occult-classes/psychic/
+- Slayer https://www.d20pfsrd.com/classes/hybrid-classes/slayer/
+- Hunter https://www.d20pfsrd.com/classes/hybrid-classes/hunter/
+- Skald https://www.d20pfsrd.com/classes/hybrid-classes/skald/
+- Bloodrager https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/
+- Arcanist https://www.d20pfsrd.com/classes/hybrid-classes/arcanist/
+    - Ratfolk https://www.d20pfsrd.com/races/other-races/featured-races/arg-ratfolk
+        - Cornered Fury
+        - Market Dweller or Scent
+        - dex int -str
+    - Undine (Rimesoul) https://www.d20pfsrd.com/races/other-races/featured-races/arg-undine
+        - dex int -cha
+    - Aasimar (Emberkin) https://www.d20pfsrd.com/races/other-races/featured-races/arg-aasimar
+        - int cha
+    - Android https://www.d20pfsrd.com/races/other-races/more-races/advanced-races-11-20-rp/android-16-rp
