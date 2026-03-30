@@ -26,6 +26,11 @@
 - **Daily**; 6 max: OOOOO O
 - Swift action, grant every ally in 50ft who can hear you a +4 luck bonus to next atk/save/skill
 
+### Nanite Surge
+- **Daily**; 1 max: O
+- Immediate action, before rolling gain +7 to any d20 roll
+- When used, circuitry tattoos glow as torch for 1rd
+
 ## Spells (Sor/Wiz List) - DC: 10 + Int + spell lvl, CL 4
 - Concentration: CL + Int
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard

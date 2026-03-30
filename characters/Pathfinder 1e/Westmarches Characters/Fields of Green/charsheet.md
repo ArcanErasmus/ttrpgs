@@ -68,6 +68,13 @@ AC breakdown: +4 Dex, +1 Armor
 - Class (?): ?
 - Item (?): ?
 
+`- +4 racial bonus saves vs mind-affecting, paralysis, poison, stun`
+`- Not subject to fatigue or exhaustion`
+`- Immune to disease, sleep effects`
+`- Immune to fear, emotion effects`
+`- Cannot gain morale bonuses`
+
+
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
@@ -96,13 +103,13 @@ AC breakdown: +4 Dex, +1 Armor
 | 4 | T | C | Kn (planes)        | Int | +13 | -
 | 4 | T | C | Kn (religion)      | Int | +13 | -
 | 1 | T | C | Linguistics        | Int | +10 | -
-| 4 |   | C | Perception         | Wis | +10 | -
+| 4 |   | C | Perception         | Wis | +12 | -
 |   |   |   | Perform            | Cha |     | -
 |   |   |   |   ?                | Cha |     | -
 |   | T | C | Profession         | Wis |     | -
 |   | T |   |   ?                | Wis |     | -
 |   |   |   | Ride               | Dex |     | -
-|   |   |   | Sense Motive       | Wis |     | -
+|   |   |   | Sense Motive       | Wis |  -2 | -
 |   | T |   | Sleight of Hand    | Dex |     | -
 | 4 | T | C | Spellcraft         | Int | +13 | +2^
 |   |   |   | Stealth            | Dex |     | -
