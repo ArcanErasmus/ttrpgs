@@ -1,4 +1,4 @@
-# ?'s Abilities Cheat-sheet
+# Fields of Green's Abilities Cheat-sheet
 ## Weapons
 | Weapon           | Atk    | Damage           | Crit     | Range | Notes
 |------------------|--------|------------------|----------|-------|------------

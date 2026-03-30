@@ -1,4 +1,4 @@
-# ?'s Spellbook - 1st Level
+# Fields of Green's Spellbook - 1st Level
 ### spell - school
 |------------|--------------
 | Casting    | 1 standard action

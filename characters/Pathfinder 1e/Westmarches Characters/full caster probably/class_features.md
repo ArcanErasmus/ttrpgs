@@ -1,4 +1,4 @@
-# ?'s Class Features
+# Fields of Green's Class Features
 ## Arcanist
 ### Spell Casting
 - Hybrid prepared/spontaneous 9-level caster, Sor/wiz list

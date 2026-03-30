@@ -1,4 +1,4 @@
-# ?'s Inventory
+# Fields of Green's Inventory
 ## Item List
 | Name                        | Weight | Notes
 |-----------------------------|        |--------------------------------

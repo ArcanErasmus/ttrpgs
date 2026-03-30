@@ -1,4 +1,4 @@
-# ?'s Journal
+# Fields of Green's Journal
 ## Party
 - player
     - character desc

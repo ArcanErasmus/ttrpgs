@@ -1,4 +1,4 @@
-# ?'s Notes
+# Fields of Green's Notes
 ## combat contingencies
 ## other contingencies
 ## spells/? to Learn

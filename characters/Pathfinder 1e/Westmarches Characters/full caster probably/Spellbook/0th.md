@@ -1,4 +1,4 @@
-# ?'s Spellbook - cantrips or equivalent
+# Fields of Green's Spellbook - cantrips or equivalent
 ### spell - school
 |------------|--------------
 | Casting    | 1 standard action
