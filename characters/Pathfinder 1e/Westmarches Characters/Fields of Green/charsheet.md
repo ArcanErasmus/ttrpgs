@@ -31,10 +31,10 @@ Stat Rolls:
 ## Secondary Stats
 | Stat | Value          | Temp
 |------|----------------|------
-| AC   | 15 (14 T/11 F) | -
+| AC   | 15 (14 T/11 F) | ^
 | BAB  | +2             | -
 | CMB  | +2             | -
-| CMD  | 16             | -
+| CMD  | 16             | ^
 | Init | +4             | -
 | Spd  | 30/20 ft       | -
 |------|---------|------|------
@@ -48,32 +48,31 @@ AC breakdown: +4 Dex, +1 Armor
 
 ## Resistances/Immunities/Senses
 - SR: No
-- Immunities: None
+- Immunities: Disease, sleep effects, fear effects, emotion effects, not subject to fatigue or exhaustion
 - Resistances: None
-- Weaknesses: None
+- Weaknesses: Cannot gain morale bonuses
 - DR: None
 - Senses: Low-light vision, Darkvision 60ft
 
 ## Saves
 | Name | Stat | Tot | Temp
 |------|------|-----|------
-| Fort | Con  | +4  | -
+| Fort | Con  | +4  | ^
 | Ref  | Dex  | +5  | -
-| Will | Wis  | +6  | -
+| Will | Wis  | +6  | ^
 
 ## Conditional Modifiers/Resistances/Weaknesses
-- Racial Trait (?): ?
-- Trait (?): ?
+- Racial Trait (Constructed): +4 racial bonus saves vs mind-affecting
+- Racial Trait (Constructed): +4 racial bonus saves vs paralysis
+- Racial Trait (Constructed): +4 racial bonus saves vs poison
+- Racial Trait (Constructed): +4 racial bonus saves vs stun
+- Trait (Spell Duel Prodigy): +2 Perception to identify spells as they are being cast
+- Trait (Spell Duel Prodigy): +2 on dispel checks to counterspell a spell
+- Trait (Naive): -2 to AC vs improvised weapons
+- Trait (Naive): -2 to CMD vs dirty trick
 - Feat (?): ?
 - Class (?): ?
 - Item (?): ?
-
-`- +4 racial bonus saves vs mind-affecting, paralysis, poison, stun`
-`- Not subject to fatigue or exhaustion`
-`- Immune to disease, sleep effects`
-`- Immune to fear, emotion effects`
-`- Cannot gain morale bonuses`
-
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
@@ -98,12 +97,12 @@ AC breakdown: +4 Dex, +1 Armor
 | 1 | T | C | Kn (geography)     | Int | +10 | -
 | 1 | T | C | Kn (history)       | Int | +10 | -
 | 1 | T | C | Kn (local)         | Int | +10 | -
-| 4 | T | C | Kn (nature)        | Int | +13 | -
+| 1 | T | C | Kn (nature)        | Int | +13 | -
 | 1 | T | C | Kn (nobility)      | Int | +10 | -
-| 4 | T | C | Kn (planes)        | Int | +13 | -
+| 4 | T | C | Kn (planes)        | Int |     | ^
 | 4 | T | C | Kn (religion)      | Int | +13 | -
 | 1 | T | C | Linguistics        | Int | +10 | -
-| 4 |   | C | Perception         | Wis | +12 | -
+| 3 |   | C | Perception         | Wis | +11 | -
 |   |   |   | Perform            | Cha |     | -
 |   |   |   |   ?                | Cha |     | -
 |   | T | C | Profession         | Wis |     | -
@@ -115,7 +114,7 @@ AC breakdown: +4 Dex, +1 Armor
 |   |   |   | Stealth            | Dex |     | -
 |   |   |   | Survival           | Wis |     | -
 |   |   |   | Swim               | Str |     | -
-| 1 | T | C | Use Magic Device   | Cha |  +7 | -
+| 4 | T | C | Use Magic Device   | Cha | +10 | -
 |---|---|---|--------------------|-----|-----|------
 
 - Skill ranks: 35/35 (spent/total)
@@ -124,7 +123,7 @@ AC breakdown: +4 Dex, +1 Armor
 - Encumbrance: 0 ACP, no max Dex, x4 run, 0% ASFC, normal speed
 
 ## Languages, Proficiencies
-- Languages: Common, +7
+- Languages: Common, Auran, Draconic, Dwarven, Elven, Gnome, Necril, Sylvan
 - Weapons: Simple
 - Armor: None
 
@@ -158,8 +157,8 @@ AC breakdown: +4 Dex, +1 Armor
 - When used, circuitry tattoos glow as torch for 1rd
 
 ## Traits & Drawbacks
-### (D) ?
-- ?
+### Naive (D)
+- -2 to AC vs improvised weapons and -2 to CMD vs dirty trick
 
 ### `Seeker [Social]` or `Eyes and Ears of the City [Religion]`
 - +1 Perception, class skill
@@ -176,4 +175,4 @@ AC breakdown: +4 Dex, +1 Armor
 - Gain one more arcanist exploit
 
 ### Extra Arcanist Exploit [lvl 3]
-- Gain one more arcanist exploit
+- Gain one more arcanist exploitc

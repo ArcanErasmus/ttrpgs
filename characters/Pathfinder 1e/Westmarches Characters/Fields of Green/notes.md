@@ -1,7 +1,15 @@
 # Fields of Green's Notes
 ## combat contingencies
 ## other contingencies
-## spells/? to Learn
+## Spells
+### Lvl 0 options
+### Lvl 1 options
+Energy Missile https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3rd-party-spells/e/energy-missile
+Energy Weapon https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3rd-party-spells/e/energy-weapon
+Repair Light Damage https://www.d20pfsrd.com/magic/3rd-party-spells/rogue-genius-games---3rd-party-spells/repair-light-damage
+Shadow Hands https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3rd-party-spells/s/shadow-hands
+### Lvl 2 options
+
 ## interesting things to look into
 ### classes/presige classes
 - https://docs.google.com/document/d/1XqcFr980WIYJSmk7n68ZV1mVL50vCgrJy4ZDdRPWaIU/edit?tab=t.0
@@ -29,20 +37,7 @@ https://www.d20pfsrd.com/traits/magic-traits/gifted-adept/
 ### Religion
 
 ## drawbacks
-### Loner https://www.d20pfsrd.com/traits/drawbacks/loner/
-- -1 to AC and atk when adjacent to allies or taking aid another
 ### Meticulous https://www.d20pfsrd.com/traits/drawbacks/meticulous/
 - -2 on untrained skills
 ### Naive https://www.d20pfsrd.com/traits/drawbacks/naive/
 - -2 to AC vs improvised weapons and -2 to CMD vs dirty trick
-### Nervous https://www.d20pfsrd.com/traits/drawbacks/nervous/
-- When take 10 on check with penalty for failure, take 8 instead
-
-### Guilty Fraud https://www.d20pfsrd.com/traits/drawbacks/guilty-fraud/
-- -4 Bluff with creatures indifferent or better
-- *Received body and its history without working for it, feel like an imposter*
-### Scarred https://www.d20pfsrd.com/traits/drawbacks/scarred/
-- -5 Disguise, -2 Bluff
-- *Weirdness of circuitry tattoos makes distrusted and very hard to pass as anyone else*
-### Stigmatized https://www.d20pfsrd.com/traits/drawbacks/stigmatized/
-- -3 Diplomacy to gather info or improve attitude
