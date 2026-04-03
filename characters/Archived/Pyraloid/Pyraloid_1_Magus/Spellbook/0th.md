@@ -1,6 +1,5 @@
 # Pyraloid's Spellook - Cantrips
-
-### Acid Splash
+### Acid Splash - conjuration (creation) [acid]
 |------------|--------------
 | Casting    | 1 standard action
 | Components | V,S

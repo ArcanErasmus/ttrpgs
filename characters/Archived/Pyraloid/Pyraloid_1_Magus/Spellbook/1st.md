@@ -1,5 +1,4 @@
 # Pyraloid's Spellook - 1st Level
-
 ### Dancing Darkness
 |------------|--------------
 | Casting    | 1 standard action

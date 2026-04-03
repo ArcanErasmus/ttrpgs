@@ -1,5 +1,4 @@
 # Pyraloid's Spellbook - Miscellaneous
-
 ## Item Spells
 ### Magic Missile
 |------------|--------------
@@ -17,7 +16,6 @@ The missile strikes unerringly, even if the target is in melee combat, so long a
 For every two caster levels beyond 1st, you gain an additional missile – two at 3rd level, three at 5th, four at 7th, and the maximum of five missiles at 9th level or higher. If you shoot multiple missiles, you can have them strike a single creature or several creatures. A single missile can strike only one creature. You must designate targets before you check for spell resistance or roll damage.
 
 ## Old Entries (for easy reinstatement)
-
 ### Color Spray (1st)
 |------------|--------------
 | Casting    | 1 standard action
