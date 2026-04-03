@@ -1,7 +1,29 @@
 # Session log
 - TODO: Scene with Panax, we have returned to the estate from the bridge fight, and the rescuing of kids. Panax wants to see Shanxiang's collection because there's something he's after, and also he's been very flirty with Shanxiang. She has asked him to help her out of her armor, and honestly they both need a bath, so things will probably happen between them unless she shuts him down.
 
-### Session 25?future - 2026-04-02
+### Session 26?future - 2026-04-23
+### Session 25 - 2026-04-02
+- We enter the guardhouse
+    - The front office looks like it has been ransacked
+    - The guards have been locked in their own cells
+    - We release them
+    - +40 XP
+    - They allow us access to their armory, decide they are going to stay and recuperate here for a while to mount a defense
+    - Shanxiang 
+- Shanxiang wanders out the back
+    - The stables have swarms of roaches in them
+    - Shanxiang sprints back to the group and signals for help (finally getting to use her whistle)
+    - We smash the roaches
+    - +60 XP
+- The party gets sidetracked debating what's weird about the well
+    - It gives you bad vibes when you look down it
+    - Bulan senses that there is a spirit involved
+    - Shanxiang asks them to stop fussing with it and move on
+- Guard captain explains what happened
+    - They were overwhelmed by Jinkin and their leader, Gurglegut, and the survivors imprisoned
+    - The Jinkin stole everything not nailed down 
+XP: 175/1000
+
 ### Session 24 - 2026-03-26
 - Investigation 1: "What happened to the town?"
 - Investigation 2: "What happened to Ugly-Cute?"
@@ -12,8 +34,9 @@
     - I give Lo Yin homework: write everything you know about every foe we have faced
     - We rest up until the evening
 - Shou tells Shanxiang that he's been robbed of supplies, it's harder to arm the villagers
-    -  Shanxiang offers some of the gear she's picked up ($69.5):
+    -  Shanxiang offers some of the gear she's picked up ($71.5):
         - Armored Cloak - 2gp
+        - Armored Skirt - 2gp
         - Armored Coat - 20gp
         - Basic Crutch - 5sp
         - Buckler - 1gp
@@ -97,7 +120,7 @@ XP: 785/1000
     - We end there, next time we do combat!
 
 ### Session 19 - 2025-02-25
-- Combat with Jincan and Centipedes continues
+- Combat with Jinkin and Centipedes continues
     - We kill a few more and then bail as reinforcements show up
     - +144 XP
     - Bulan sees lots of faceless as we run
@@ -163,7 +186,7 @@ XP: 553/1000
     - Kumiho and Xiuhua talk about Xiuhua's romantic interest in Bulan
     - Kumiho and Mikazuki talk about ???
 - We head out towards the mills' docks
-    - Encounter on the road as we're accosted by the two Jincan that fled earlier
+    - Encounter on the road as we're accosted by the two Jinkin that fled earlier
     - They make a hit and run attack, we return the favor, they leave
     - +20 XP
     - Kumiho suspects that Xiuhua is undead or otherwise weirdly affected by healing magic
@@ -194,7 +217,7 @@ XP: 533/1000
 
 ### Session 13 - 2024-11-19
 - Arriving at a small farm, on the way back into town, we hear voices up ahead
-    - Pair of Jincan sisters, a ferret(-spirit?), and a talking raven, are here to rob the place of its cattle and possibly other stuff
+    - Pair of Jinkin sisters, a ferret(-spirit?), and a talking raven, are here to rob the place of its cattle and possibly other stuff
     - We offer them kindness and they laugh at the idea of being cordial
     - Fight!
     - +12 XP for winning fight
@@ -275,7 +298,7 @@ XP: 401/1000
     - Then onwards to the docks by the mills
 - At the inn
     - Door open, but nobody here
-    - Place ransacked, presumably Jincan
+    - Place ransacked, presumably Jinkin
     - All metal objects stolen
         - Value? Shinyness? Specifically metals?
 XP: 361/1000
@@ -342,7 +365,7 @@ XP: 1306/1000 -> `LEVEL UP TO 2`, 306/1000
     - Cross again at the dam
     - There are many tracks headed across the fields directly up to the Lady of Souls, and we follow them
 - Arrival at the Lady of Souls
-    - Jinkan bodies abound
+    - Jinkin bodies abound
     - Several townsfolk and guard bodies, laid out neatly
     - A note on the back of the sign for the shrine hours, telling people to go to Matsuki's
         - It's not Elizeth's handwriting
