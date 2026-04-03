@@ -18,11 +18,11 @@
 | Stat | Base    | Temp
 |------|---------|------
 | STR  | 10 (+0) | -
-| DEX  | 18 (+4) | -
+| DEX  | 20 (+5) | -
 | CON  | 16 (+3) | -
 | INT  | 23 (+6) | -
 | WIS  | 15 (+2) | -
-| CHA  | 16 (+3) | -
+| CHA  | 14 (+2) | -
 Stat Rolls:
 <!-- 17 16 16 14 12 11 -->
 <!-- 15 15 13 13 12 10 -->
@@ -31,10 +31,10 @@ Stat Rolls:
 ## Secondary Stats
 | Stat | Value          | Temp
 |------|----------------|------
-| AC   | 15 (14 T/11 F) | ^
+| AC   | 16 (15 T/11 F) | ^
 | BAB  | +2             | -
 | CMB  | +2             | -
-| CMD  | 16             | ^
+| CMD  | 17             | ^
 | Init | +4             | -
 | Spd  | 30/20 ft       | -
 |------|---------|------|------
@@ -44,7 +44,7 @@ Stat Rolls:
 | Hero |       3 |    3 | 0
 |------|---------|------|------
 HP rolls (d6): [6], 3+3, 5+1, 4+2
-AC breakdown: +4 Dex, +1 Armor
+AC breakdown: +5 Dex, +1 Armor
 
 ## Resistances/Immunities/Senses
 - SR: No
@@ -58,7 +58,7 @@ AC breakdown: +4 Dex, +1 Armor
 | Name | Stat | Tot | Temp
 |------|------|-----|------
 | Fort | Con  | +4  | ^
-| Ref  | Dex  | +5  | -
+| Ref  | Dex  | +6  | -
 | Will | Wis  | +6  | ^
 
 ## Conditional Modifiers/Resistances/Weaknesses
@@ -114,7 +114,7 @@ AC breakdown: +4 Dex, +1 Armor
 |   |   |   | Stealth            | Dex |     | -
 |   |   |   | Survival           | Wis |     | -
 |   |   |   | Swim               | Str |     | -
-| 4 | T | C | Use Magic Device   | Cha | +10 | -
+| 4 | T | C | Use Magic Device   |[Int]| +13 | -
 |---|---|---|--------------------|-----|-----|------
 
 - Skill ranks: 35/35 (spent/total)
@@ -160,15 +160,15 @@ AC breakdown: +4 Dex, +1 Armor
 ### Naive (D)
 - -2 to AC vs improvised weapons and -2 to CMD vs dirty trick
 
-### `Seeker [Social]` or `Eyes and Ears of the City [Religion]`
+### Seeker [Social]
 - +1 Perception, class skill
 
 ### Spell Duel Prodigy [Regional]
 - +2 Perception to identify spells as they are being cast
 - +2 on dispel checks to counterspell a spell
 
-### ? [?]
-- ?
+### Pragmatic Activator [Magic]
+- Int for UMD
 
 ## Feats
 ### Extra Arcanist Exploit [lvl 1]
