@@ -1,5 +1,5 @@
 # Fields of Green, It/She
-## ?G, Android, Arcanist 4
+## NG, Android, Arcanist 4
 - Archetypes: None
     - https://docs.google.com/document/d/1esXAlfclC1lDyJ2pOWzfYPkHs8ajQ79UV5SdvjYYMsY
 - Deity: ?

@@ -140,6 +140,23 @@ The missile strikes unerringly, even if the target is in melee combat, so long a
 
 For every two caster levels beyond 1st, you gain an additional missile – two at 3rd level, three at 5th, four at 7th, and the maximum of five missiles at 9th level or higher. If you shoot multiple missiles, you can have them strike a single creature or several creatures. A single missile can strike only one creature. You must designate targets before you check for spell resistance or roll damage.
 
+### Protection from Evil - abjuration [good]
+|------------|--------------
+| Casting    | 1 standard action
+| Components | V,S,M/DF
+| Range      | touch
+| Target     | creature touched
+| Duration   | 1 min/lvl (D)
+| Save       | Will neg (harmless)
+| SR         | no; see text
+This spell wards a creature from attacks by evil creatures, from mental control, and from summoned creatures. It creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has three major effects.
+
+First, the subject gains a +2 deflection bonus to AC and a +2 resistance bonus on saves. Both these bonuses apply against attacks made or effects created by evil creatures.
+
+Second, the subject immediately receives another saving throw (if one was allowed to begin with) against any spells or effects that possess or exercise mental control over the creature (including enchantment [charm] effects and enchantment [compulsion] effects, such as *charm person*, *command*, and *dominate person*). This saving throw is made with a +2 morale bonus, using the same DC as the original effect. If successful, such effects are suppressed for the duration of this spell. The effects resume when the duration of this spell expires. While under the effects of this spell, the target is immune to any new attempts to possess or exercise mental control over the target. This spell does not expel a controlling life force (such as a ghost or spellcaster using *magic jar*), but it does prevent them from controlling the target. This second effect only functions against spells and effects created by evil creatures or objects, subject to GM discretion.
+
+Third, the spell prevents bodily contact by evil summoned creatures. This causes the natural weapon attacks of such creatures to fail and the creatures to recoil if such attacks require touching the warded creature. Summoned creatures that are not evil are immune to this effect. The protection against contact by summoned creatures ends if the warded creature makes an attack against or tries to force the barrier against the blocked creature. Spell Resistance can allow a creature to overcome this protection and touch the warded creature.
+
 ### Shield - abjuration [force]
 |------------|--------------
 | Casting    | 1 standard action
@@ -156,9 +173,58 @@ For every two caster levels beyond 1st, you gain an additional missile – two a
 | Range      | medium (100 + 10 ft/lvl)
 | Target     | one or more living creatures within a 10-ft.-radius burst
 | Duration   | 1 min/lvl
-| Save       | Will negates
+| Save       | Will neg
 | SR         | yes
 A *sleep* spell causes a magical slumber to come upon 4 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action). *Sleep* does not target unconscious creatures, constructs, or undead creatures.
+
+### Summon Monster I - conjuration (summoning) [see text]
+|------------|--------------
+| Casting    | 1 rd
+| Components | V,S,F/DF (a tiny bag and a small candle)
+| Range      | close (25 + 5 ft/2lvl)
+| Effect     | one summoned creature
+| Duration   | 1 rd/lvl
+| Save       | none
+| SR         | no
+This spell summons an extraplanar creature (typically an outsider, elemental, or magical beast native to another plane). It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions. The spell conjures one of the creatures from the 1st Level list on Table: Summon Monster. You choose which kind of creature to summon, and you can choose a different one each time you cast the spell.
+
+A summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities. Creatures cannot be summoned into an environment that cannot support them. Creatures summoned using this spell cannot use spells or spell-like abilities that duplicate spells with expensive material components (such as wish).
+
+When you use a summoning spell to summon a creature with an alignment or elemental subtype, it is a spell of that type. Creatures on Table: Summon Monster marked with an "^" are summoned with the celestial template, if you are good, and the fiendish template, if you are evil. If you are neutral, you may choose which template to apply to the creature. Creatures marked with an "^" always have an alignment that matches yours, regardless of their usual alignment. Summoning these creatures makes the summoning spell’s type match your alignment.
+
+The summon monster spells have numerous entries representing creatures that are summoned from the Outer Planes, and thus have the celestial or fiendish template or can be summoned with the entropic or resolute template.
+
+#### Table: Summon Monster I
+| Creature        | Subtype(s)
+|-----------------|------------
+| Dire rat^       | -
+| Dog^            | -
+| Dolphin^        | -
+| Eagle^          | -
+| Fire beetle^    | -
+| Poisonous frog^ | -
+| Pony (horse)^   | -
+| Viper (snake)^  | -
+
+#### Simple Template: Celestial (CR +0 or +1)
+Celestial creatures dwell in the higher planes, but can be summoned using spells such as summon monster and planar ally.
+
+A celestial creature’s CR increases by +1 only if the base creature has 5 or more HD.
+
+A celestial creature’s quick and rebuild rules are the same.
+
+Rebuild Rules
+- Senses: The creature gains darkvision 60 ft.
+- Defensive Abilities: The creature gains damage reduction and resistance to cold, acid, and electricity as noted on Table: Celestial Creature Defense.
+- SR: The creature gains spell resistance equal to its new CR +5
+- Special Attacks: The creature may smite evil 1/day as a swift action (it adds its Cha bonus to attack rolls, and a damage bonus equal to its HD against evil foes; smite persists until the target is dead or the celestial creature rests).
+
+Table: Celestial Creature Defenses
+| HD   | Resist | DR
+|------|--------|---------
+| 1-4  | 5      | -
+| 5-10 | 10     | 5/evil
+| 11+  | 15     | 10/evil
 
 ### Snowball - conjuration (creation) [cold, water]
 |------------|--------------

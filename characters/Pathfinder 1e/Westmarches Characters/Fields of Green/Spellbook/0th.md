@@ -34,7 +34,7 @@ Arcane mark must be cast on an object prior to casting *instant summons* on the 
 | Range      | close (25 + 5 ft/2lvl)
 | Target     | one living creature
 | Duration   | instantaneous
-| Save       | Will negates
+| Save       | Will neg
 | SR         | yes
 You cause a living creature that is below 0 hit points but stabilized to resume dying. Upon casting this spell, you target a living creature that has -1 or fewer hit points. That creature begins dying, taking 1 point of damage per round. The creature can be stabilized later normally. This spell causes a creature that is dying to take 1 point of damage.
 
@@ -69,7 +69,7 @@ Dancing lights can be made permanent with a *permanency* spell.
 | Range      | close (25 + 5 ft/2lvl)
 | Target     | one humanoid creature of 4 HD or less
 | Duration   | 1 rd
-| Save       | Will negates
+| Save       | Will neg
 | SR         | yes
 This spell clouds the mind of a humanoid creature with 4 or fewer Hit Dice so that it takes no actions. Humanoids of 5 or more HD are not affected. A dazed subject is not stunned, so attackers get no special advantage against it. After a creature has been dazed by this spell, it is immune to the effects of this spell for 1 minute.
 
@@ -172,7 +172,7 @@ You direct a ray of positive energy. You must make a ranged touch attack to hit,
 | Range      | close (25 + 5 ft/2lvl)
 | Effect     | burst of light
 | Duration   | instantaneous
-| Save       | Fort negates
+| Save       | Fort neg
 | SR         | yes
 This cantrip creates a burst of light. If you cause the light to burst in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by flare.
 
@@ -345,7 +345,7 @@ This spell imbues a quill with animate energy and rapidly transcribes words from
 | Range      | close (25 + 5 ft/2lvl)
 | Target     | one humanoid creature of 4 HD or less
 | Duration   | 1 rd
-| Save       | Will negates
+| Save       | Will neg
 | SR         | yes
 Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread. The affected creature must make a Will save or be shaken for 1 round.
 
@@ -369,7 +369,7 @@ You can make an unattended Fine flammable object catch on fire. This works as if
 | Range      | touch
 | Target     | creature touched
 | Duration   | 1 rd/lvl
-| Save       | Fort negates
+| Save       | Fort neg
 | SR         | yes
 You channel negative energy through your touch, fatiguing the target. You must succeed on a touch attack to strike a target. The subject is immediately fatigued for the spell’s duration.
 
@@ -382,7 +382,7 @@ This spell has no effect on a creature that is already fatigued. Unlike with nor
 | Range      | touch
 | Target     | container touched
 | Duration   | 1 rd/lvl (D)
-| Save       | Will negates; see text
+| Save       | Will neg; see text
 | SR         | yes; see text
 This spell makes a single bag, chest, sack, or other container look and feel empty. The container must be no larger than 1 cubic foot per caster level or the spell fails. Anyone peering into or reaching into the container must succeed at a Will save or perceive the container as being completely empty. All items within the container when the spell was cast are still present, but they can’t be noticed unless removed from the bag—such as by someone who can perceive them, or who upends the container.
 

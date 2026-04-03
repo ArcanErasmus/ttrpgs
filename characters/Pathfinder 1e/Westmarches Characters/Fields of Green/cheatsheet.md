@@ -17,7 +17,7 @@
     - Costs spell slot +1 lvl over target
     - If target is currently prepared, expend on-level slot and +5 to counterspell check
     - 1d20+CL(+2) vs DC 11+CL
-- Swift action, 1 point to activate School Understanding for 3 rds
+- Swift action, 1 point to activate School Understanding for 2 rds
     - +1 initiative and allows use of Diviner's Fortune
     - Diviner's Fortune - **Daily (while activated)**; 5 max: OOOOO
         - Standard action, touch creature for +2 insight to all atk/skill/ability/save for 1rd
@@ -36,42 +36,60 @@
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-sorcerer-and-wizard
 - Ranges: 35/140/560 ft
 
-### **0th**: Prepare 6, No daily limit
-- *Detect Magic*
-- *Disrupt Undead*
-- *Mage Hand*
-- *Mending*
-- *Prestidigitation*
+### **0th**: Prepare 6, No limit
+- *Acid Splash*
+- *Arcane Mark*
+- *Bleed*
+- *Chameleon Scales*
+- *Dancing Lights*
+- *Daze*
+- *Detect Fiendish Presence*
+- `*Detect Magic*`
+- *Detect Poison*
+- `*Disrupt Undead*`
+- *Flare*
+- *Ghost Sound*
+- `*Grasp*`
+- *Haunted Fey Aspect*
+- *Light*
+- `*Mage Hand*`
+- `*Mending*`
+- *Message*
+- *Oath of Anonymity*
+- *Open/Close*
+- `*Prestidigitation*`
+- *Ray of Frost*
 - *Read Magic*
+- *Resistance*
+- *Scrivener’s Chant*
+- *Sotto Voce*
+- *Spark*
+- *Touch of Fatigue*
+- *Vacuous Vessel*
 
 ### **1st**: Prepare 3(+1), 6/day; OOOOOO
-- *?*
-- *?*
-- *?*
-- *?*
+- `*Burning Hands*`
+- *Detect Undead*
+- *Enlarge Person*
+- *Feather Fall*
+- *Gravity Bow*
+- *Grease*
+- *Identify*
+- `*Mage Armor*`
+- *Magic Missile*
+- `*Protection from Evil*`
+- *Shield*
+- *Sleep*
+- `*Snowball*`
+- *Summon Monster I*
 
 ### **2nd**: Prepare 1, 4/day; OOOO
-- *?*
-
-
-#### Lvl 1 - 12 pages
-- *Burning Hands* https://www.d20pfsrd.com/magic/all-spells/b/burning-hands
-- *Detect Undead* https://www.d20pfsrd.com/magic/all-spells/d/detect-undead
-- *Enlarge Person* https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person
-- *Feather Fall* https://www.d20pfsrd.com/magic/all-spells/f/feather-fall
-- *Gravity Bow* https://www.d20pfsrd.com/magic/all-spells/g/gravity-bow
-- *Grease* https://www.d20pfsrd.com/magic/all-spells/g/grease
-- *Identify* https://www.d20pfsrd.com/magic/all-spells/i/identify
-- *Mage Armor* https://www.d20pfsrd.com/magic/all-spells/m/mage-armor/
-- *Magic Missile* https://www.d20pfsrd.com/magic/all-spells/m/magic-missile
-- *Shield* https://www.d20pfsrd.com/magic/all-spells/s/shield
-- *Sleep* https://www.d20pfsrd.com/magic/all-spells/s/sleep
-- *Snowball* https://www.d20pfsrd.com/magic/all-spells/s/snowball
-#### Lvl 2 - 14 pages
-- *Blood Transcription* https://www.d20pfsrd.com/magic/all-spells/b/blood-transcription
-- *Command Undead* https://www.d20pfsrd.com/magic/all-spells/c/command-undead
-- *Life Pact* https://www.d20pfsrd.com/magic/all-spells/l/life-pact
-- *Make Whole* https://www.d20pfsrd.com/magic/all-spells/m/make-whole
-- *Protection from Evil, Communal* https://www.d20pfsrd.com/magic/all-spells/p/protection-from-evil
-- *See Invisibility* https://www.d20pfsrd.com/magic/all-spells/s/see-invisibility
-- *Visualization of the Mind* https://www.d20pfsrd.com/magic/all-spells/v/visualization-of-the-mind
+- *Aggressive Thundercloud*
+- `*Command Undead*`
+- *Flaming Sphere*
+- *Life Pact*
+- *Make Whole*
+- *Protection from Evil, Communal*
+- *See Invisibility*
+- *Summon Monster II*
+- *Visualization of the Mind*
