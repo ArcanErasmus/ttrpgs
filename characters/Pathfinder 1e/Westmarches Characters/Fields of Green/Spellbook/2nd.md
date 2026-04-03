@@ -1,4 +1,4 @@
-# Fields of Green's Spellbook - Miscellaneous
+# Fields of Green's Spellbook - 2nd Level
 ### spell - school
 |------------|--------------
 | Casting    | 1 standard action
