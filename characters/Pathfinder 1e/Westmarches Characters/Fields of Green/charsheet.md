@@ -3,7 +3,7 @@
 - Archetypes: None
     - https://docs.google.com/document/d/1esXAlfclC1lDyJ2pOWzfYPkHs8ajQ79UV5SdvjYYMsY
 - Deity: ?
-- height, weight, age, hair, eyes
+- 6'3", 210lbs, 9yo, hair, eyes
 - Casual appearance description
 - Birth location and date
 - Favored class: Arcanist

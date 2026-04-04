@@ -19,6 +19,9 @@ Shadow Hands https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3
 ### magic weapon special abilities
 ### magic armor special abilities
 ### story feats
+- Supernatural Spy https://www.d20pfsrd.com/feats/story-feats/supernatural-spy-story
+- Truth-Seeker https://www.d20pfsrd.com/feats/story-feats/truth-seeker-story
+- Wretched Curator https://www.d20pfsrd.com/feats/story-feats/wretched-curator-story
 
 ## feats
 - any lvl
