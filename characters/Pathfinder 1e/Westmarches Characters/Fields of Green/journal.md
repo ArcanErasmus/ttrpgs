@@ -1,9 +1,80 @@
 # Fields of Green's Journal
 ## Party
-- player
-    - character desc
+- Jay
+    - Charles Redhand, he/him, human
+    - Lots of gear and weapons, no notable armor
+    - A pretty chill guy
+- Chas
+    - Alira, she/her, half-elf
+    - Some holy type with a sword and chain shirt
+    - Move fast and break things, can't sit still
+- Sean
+    - Oreivati, he/him, oread
+    - Full armadillo knight with a fake beard below the helm
+    - Almost beardaboo, wannabe dwarf and short like one
+- Casey
+    - Folly, she/her, the fetching fetchling
+    - Tiny scrawny ninja, exactly what you expect her to wear
+    - Exactly how you expect her to act
 
 ## Quest Log
+### The Deadly Pyramid
+- Anauroch region, city of Khem
+    - Edge of the desert
+- Quest giver: Local westmarches guild head, Majet Glun
+    - Local university is researching the regional practices
+    - There is a local pyramid, the Tomb of Merneith, an ancient queen, that they want to investigate
+    - So far, all who went to it have either failed to return, or within a couple days of returning have shriveled up and died
+    - Goal: Clear the pyramid of threats to the researchers, determine the cause of the mysterious curse/disease/etc
+- Pre-research
+    - None of those who returned were paladins
+    - Burial practices of nobility were pyramids, expect highly ornate and decorated, filled with material wealth
+    - The affliction is curse-based
+    - Local cultural practice: it is exceptionally rude to make extended eye contact with those socially above you
+    - Talking to researchers:
+        - Fragment of hieroglyphics that they believe was near the entrance
+        - Whole expedition failed, last words of the person who returned were "blind the god!"
+        - `ABC DEFG AH CAIDG IJF KLIDMG NBAL NGIOHJ FDINJ. IPGDA QHED GQGC IJF CAIQ QHED LIJF IJF RBPG.`
+        - `TIS RUDE TO STARE AND CHARGE WITH WEAPON DRAWN. AVERT YOUR EYES AND STAY YOUR HAND AND LIVE.`
+- Arriving at the pyramid
+    - Have to climb two thirds up the slant to get to the entrance, which is narrow
+    - At the entrance, statue of Anubis with gemstones in its eyes
+        - We determine the gemstones are casting a curse of *mummy rot* on any who stare at them
+        - We remove the gemstones and store them in a bag
+    - Entry hall
+        - Murals along the walls, but no gold, and no black outline (unlike what we saw at university)
+            - White paint made from gypsum, red and yellow from ochre, blue from lapis, green malachite, gold is gold leaf, black from soot. All pigments on wall are rock-derived, all the ones missing are not.
+            - Things that tend to degrade both metal and organics are oozes
+        - Walls of the tomb are scoured clean, evidence of tools and debris around
+        - `Ooze immunities: poison, sleep, paralysis, polymorph, stunning, precision damage and crits`
+    - First open room
+        - Small room, a few large jars, a blood pudding on the ceiling
+        - Blood Pudding: AC 3
+        - We split and burn the oozes
+    - After the oozes, we continue down the twisty hall to a hole over a 30ft drop
+        - Folly hammers some pitons in to anchor a rope, we descend to the next floor
+- Floor 2
+    - Entry room
+        - There is a rotating puzzle of symbols that we have no clues for yet
+    - Room with murals of fierce warriors
+        - They are super high danger evil-detecting
+        - Checkerboard pattern on the floor, step on the alternates
+    - Dressing room
+        - For the dead themselves? For visitors?
+        - Old makeup kits and other vanity things
+    - Pattern Room 1
+        - In hallway, murals shift to depict gnolls (people with canine heads)
+        - Shelves of canopic jars, showing sacred owl head of anubis
+        - Sarcophagus
+            - Mummy! Hard fight
+            - Mask of a woman's face, in the style of the maids of the queen. On the headdress is an owl head matching the sacred head of anubis on the canopic jars
+                - Non-magical
+        - 4 canopic jars
+            - each has a golden coin
+            - 3 coins are blank on both sides
+            - 1 has an owl head on one side, blank on the other
+            - these are clearly not intended as currency, but rather custom-made for this tomb
+
 
 ## Backstory
 Waterdeep

@@ -3,7 +3,7 @@
 - Archetypes: None
     - https://docs.google.com/document/d/1esXAlfclC1lDyJ2pOWzfYPkHs8ajQ79UV5SdvjYYMsY
 - Deity: ?
-- 6'3", 210lbs, 9yo, hair, eyes
+- 6'3", 170lbs, 9yo, hair, eyes
 - Casual appearance description
 - Birth location and date
 - Favored class: Arcanist
@@ -31,10 +31,10 @@ Stat Rolls:
 ## Secondary Stats
 | Stat | Value          | Temp
 |------|----------------|------
-| AC   | 16 (15 T/11 F) | ^
+| AC   | 19 (15 T/14 F) | -
 | BAB  | +2             | -
 | CMB  | +2             | -
-| CMD  | 17             | ^
+| CMD  | 17             | -
 | Init | +4             | -
 | Spd  | 30/20 ft       | -
 |------|---------|------|------
@@ -44,7 +44,7 @@ Stat Rolls:
 | Hero |       3 |    3 | 0
 |------|---------|------|------
 HP rolls (d6): [6], 3+3, 5+1, 4+2
-AC breakdown: +5 Dex, +1 Armor
+AC breakdown: +5 Dex, +4 Armor
 
 ## Resistances/Immunities/Senses
 - SR: No
@@ -68,8 +68,6 @@ AC breakdown: +5 Dex, +1 Armor
 - Racial Trait (Constructed): +4 racial bonus saves vs stun
 - Trait (Spell Duel Prodigy): +2 Perception to identify spells as they are being cast
 - Trait (Spell Duel Prodigy): +2 on dispel checks to counterspell a spell
-- Trait (Naive): -2 to AC vs improvised weapons
-- Trait (Naive): -2 to CMD vs dirty trick
 - Feat (?): ?
 - Class (?): ?
 - Item (?): ?
@@ -79,13 +77,13 @@ AC breakdown: +5 Dex, +1 Armor
 |---|---|---|--------------------|-----|-----|------
 |   |   |   | Acrobatics         | Dex |     | -
 | 1 |   | C | Appraise           | Int | +10 | -
-|   |   |   | Bluff              | Cha |     | -
+|   |   |   | Bluff              | Cha |  +0 | -
 |   |   |   | Climb              | Str |     | -
 |   |   | C | Craft              | Int |     | -
 |   |   |   |   ?                | Int |     | -
 |   |   |   | Diplomacy          | Cha |     | -
 |   | T |   | Disable Device     | Dex |     | -
-|   |   |   | Disguise           | Cha |     | -
+|   |   |   | Disguise           | Cha |  -3 | -
 |   |   |   | Escape Artist      | Dex |     | -
 |   |   | C | Fly                | Dex |     | -
 |   | T |   | Handle Animal      | Cha |     | -
@@ -99,7 +97,7 @@ AC breakdown: +5 Dex, +1 Armor
 | 1 | T | C | Kn (local)         | Int | +10 | -
 | 1 | T | C | Kn (nature)        | Int | +13 | -
 | 1 | T | C | Kn (nobility)      | Int | +10 | -
-| 4 | T | C | Kn (planes)        | Int |     | ^
+| 4 | T | C | Kn (planes)        | Int | +13 | -
 | 4 | T | C | Kn (religion)      | Int | +13 | -
 | 1 | T | C | Linguistics        | Int | +10 | -
 | 3 |   | C | Perception         | Wis | +11 | -
@@ -157,8 +155,9 @@ AC breakdown: +5 Dex, +1 Armor
 - When used, circuitry tattoos glow as torch for 1rd
 
 ## Traits & Drawbacks
-### Naive (D)
-- -2 to AC vs improvised weapons and -2 to CMD vs dirty trick
+### Scarred (D)
+- -5 Disguise
+- -2 Bluff
 
 ### Seeker [Social]
 - +1 Perception, class skill

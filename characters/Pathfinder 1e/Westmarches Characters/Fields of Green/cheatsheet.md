@@ -2,12 +2,16 @@
 ## Weapons
 | Weapon           | Atk    | Damage           | Crit     | Range | Notes
 |------------------|--------|------------------|----------|-------|------------
-| Crossbow, Light  |    +6  | 1d8  (P)         | 19-20/x2 | 80 ft | move reload
+| Crossbow, Light  |    +6  | 1d8 (P)          | 19-20/x2 | 80 ft | move reload
+| Quarterstaff     |    +2  | 1d6/1d6 (B)      |    20/x2 |       | double
 |------------------|--------|------------------|----------|-------|------------
+
+## Active Spells/Effects
+- *Mage Armor*, 4hr
 
 ## Combat Options
 ### Arcanist Pool
-- **Points**; 7 max: OOOOO OO
+- **Points**; 7 max: OOOOO xx
     - Refill 5 points per day
 - Free action, 1 point for +1 DC or +1 CL of a spell
 - As part of a move or withdraw, 1 point to teleport
@@ -23,11 +27,11 @@
         - Standard action, touch creature for +2 insight to all atk/skill/ability/save for 1rd
 
 ### Inspiring Prediction
-- **Daily**; 5 max: OOOOO
+- **Daily**; 5 max: OOOxx
 - Swift action, grant every ally in 50ft who can hear you a +4 luck bonus to next atk/save/skill
 
 ### Nanite Surge
-- **Daily**; 1 max: O
+- **Daily**; 1 max: x
 - Immediate action, before rolling gain +7 to any d20 roll
 - When used, circuitry tattoos glow as torch for 1rd
 
@@ -67,7 +71,7 @@
 - *Touch of Fatigue*
 - *Vacuous Vessel*
 
-### **1st**: Prepare 3(+1), 6/day; OOOOOO
+### **1st**: Prepare 3(+1), 6/day; OOxxxx
 - `*Burning Hands*`
 - *Detect Undead*
 - *Enlarge Person*
@@ -83,13 +87,12 @@
 - `*Snowball*`
 - *Summon Monster I*
 
-### **2nd**: Prepare 1, 4/day; OOOO
+### **2nd**: Prepare 1, 4/day; OOOx
 - *Aggressive Thundercloud*
 - `*Command Undead*`
 - *Flaming Sphere*
-- *Life Pact*
+<!-- - *Life Pact* -->
 - *Make Whole*
-- *Protection from Evil, Communal*
-- *See Invisibility*
-- *Summon Monster II*
-- *Visualization of the Mind*
+<!-- - *Protection from Evil, Communal* -->
+<!-- - *See Invisibility* -->
+<!-- - *Summon Monster II* -->

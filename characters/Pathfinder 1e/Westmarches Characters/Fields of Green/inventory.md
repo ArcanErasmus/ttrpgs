@@ -17,6 +17,7 @@
 |-----------------------------|        |--------------------------------
 | **Weapons/Shields**         |        | Includes ammo, related items
 |-----------------------------|        |--------------------------------
+| Quarterstaff                |   4    |
 | Crossbow, Light             |   4    |
 | Bolts (20)                  |   2    |
 |-----------------------------|        |--------------------------------
@@ -30,31 +31,28 @@
 | Spellbook                   |   3    | "A Scribe's Lot"
 | Book Lariat                 |   0.5  | 10ft cord, recover spellbook as standard
 |-----------------------------|        |--------------------------------
+| **Alchemical Reagents**     |        | Effects when used as spell component
+|-----------------------------|        |--------------------------------
+| Saltpeter (2)               |        | [fire]; +1 fire damage
+|-----------------------------|        |--------------------------------
 | **Misc/Loot**               |        |
 |-----------------------------|        |--------------------------------
 |-----------------------------|        |--------------------------------
-| **Coins**                   |   ?.?  | $225.7; $0 valuables
+| **Coins**                   |   ?.?  | $215.7; $0 valuables
 |-----------------------------|--------|--------------------------------
-| **Total**                   |  28.5  | Light Load
+| **Total**                   |  32.5  | Light Load
 |                             |        |
 
 ### Gear Descriptions
 #### Scroll Case
 - Holds 4 scrolls, move action retrieve, full-round action if overstuffed
 ##### Boar
-- *Detect Undead* (CL 1)
-- *Grease* (CL 1)
-- *Identify* (CL 1)
-- *Sleep* (CL 1)
 ##### Falcon
-- *Command Undead* (CL 3)
-- *Make Whole* (CL 3)
 - *Protection from Evil, Communal* (CL 3)
 - *See Invisibility* (CL 3)
 ##### Lizard
 - *Summon Monster II* (CL 3)
-- *Scroll of Aggressive Thundercloud* (CL 3)
-- *Scroll of Flaming Sphere* (CL 3)
+- *Life Pact* (CL 3)
 
 ### Spellbooks
 #### "A Scribe's Lot" - 60/100
@@ -106,12 +104,11 @@
 - *Aggressive Thundercloud*
 - *Command Undead*
 - *Flaming Sphere*
-- *Life Pact*
+<!-- - *Life Pact* -->
 - *Make Whole*
-- *Protection from Evil, Communal*
-- *See Invisibility*
-- *Summon Monster II*
-- *Visualization of the Mind*
+<!-- - *Protection from Evil, Communal* -->
+<!-- - *See Invisibility* -->
+<!-- - *Summon Monster II* -->
 
 ## Carrying Capacity
 | Load      | lbs | Penalties
