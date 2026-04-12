@@ -25,9 +25,10 @@
     - +1 initiative and allows use of Diviner's Fortune
     - Diviner's Fortune - **Daily (while activated)**; 5 max: OOOOO
         - Standard action, touch creature for +2 insight to all atk/skill/ability/save for 1rd
+- Full-action (provokes), 1 point to swap prepared spell for another known of same lvl
 
 ### Inspiring Prediction
-- **Daily**; 5 max: OOOxx
+- **Daily**; 5 max: Oxxxx
 - Swift action, grant every ally in 50ft who can hear you a +4 luck bonus to next atk/save/skill
 
 ### Nanite Surge
@@ -71,7 +72,7 @@
 - *Touch of Fatigue*
 - *Vacuous Vessel*
 
-### **1st**: Prepare 3(+1), 6/day; OOxxxx
+### **1st**: Prepare 3(+1), 6/day; Oxxxxx
 - `*Burning Hands*`
 - *Detect Undead*
 - *Enlarge Person*

@@ -137,4 +137,7 @@
 - Feet      -
 
 ## Loot pile
-- 
+- 6 *everburning torches*
+- fancy mask of Ra
+- mask of (owl?)
+- pouch of coins/gems (and maybe a ring)

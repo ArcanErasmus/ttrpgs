@@ -1,0 +1,129 @@
+# Westmarches Session Log
+## Party
+- Jay
+    - Charles Redhand, he/him, human
+        - Lots of gear and weapons, no notable armor
+        - A pretty chill guy
+- Chas
+    - Alira, she/her, half-elf
+        - Some holy type with a sword and chain shirt
+        - Move fast and break things, can't sit still
+- Sean
+    - Oreivati, he/him, oread
+        - Full armadillo knight with a fake beard below the helm
+        - Almost beardaboo, wannabe dwarf and short like one
+- Casey
+    - Folly, she/her, the fetching fetchling
+        - Tiny scrawny ninja, exactly what you expect her to wear
+        - Exactly how you expect her to act
+- Caoimhe
+    - Inre, she/her, armored knight on a big bird
+
+## Weekly Log
+### Session 2 - 2026-04-11 (Fields of Green)
+- New arrival: Inre, an armored knight on a large bird
+- Continuing through the second floor, we come across an arched room with a chewed on wooden pillar
+    - Column is painted with depictions of: Sekhmet wit scenes of war, Renenutet and feats, Apophis snake head hidden in shadows, hawk head of Ra at top surrounded by sun, Isis with knotted necklace, Seschmet and twin reeds guiding the dead
+- Side room 2, murals of Seschmet and the reeds guiding the dead
+    - 4 Canopic jars have lion heads of Seschmet
+        - 3 coins blank, 1 has an double reeds front and back
+- Side room 3, murals of (slugs, Tefnut, god of rain) (learn later its actually snakes)
+    - 4 Canopic jars have lion heads of Seschmet
+        - All 4 coins have one blank side, one (slug) side
+- Return to the column room, we encounter a hieracosphinx!
+    - We beat it to death
+- Side room 4, murals of woman with wings, wearing a crown and knotted necklace, Isis
+    - 4 canopic jars that look like heads of women
+        - 3 have knotted necklace ("tyet") of Isis on both sides, one blank both sides
+- Hallway to side room 5
+    - 6 *everburning torches* down the hallway
+    - Scenes of the rule of Queen Merneith, probably representing the chief handmaiden of Ra
+- Side room 5, 4 jars, 4 coins
+    - 3 coins have a hawk head of Ra on one side, blank on the other
+    - 1 coin has hawk head of Ra on both sides
+- Side room 6, scenes of feasting, harvest, Renenutet
+    - 3 coins, loaf of bread on one face
+    - 1 coin, blank completely
+- Side room 7, hallway has motif of lions on both side
+    - Depictions of battle on the left side (when entering), depictions of healing on the right side
+    - 3 lion heads on both, 1 lion head on one side
+- Cracking open sarcophagi
+    - 5 - Another mummy lol
+        - Bulkier than before, perhaps more intact
+        - Mask we get is the head of a hawk, its extra fancy, has a halo thing behind it (meant to be the sun), super shiny
+- 2nd floor, first room
+    - 15ft ceiling
+    - In the center, a big stone block. 4 hinged mirrors, one on each side face of the block.
+    - Bronze doors, our set open, other 3 sets closed
+        - Cartouche with symbols on them
+            - All say "Merneith", which is her regnal name taken opun assuming the throne
+            - **Remember, carrying forward a +5 bonus (distribute as choice on next 2 Linguistics) from nat 20**
+    - Upon last person entering, sand begins pouring into the room
+    - Looking in the mirrors, we see doorknobs on the doors behind us
+    - Opening a door causes the sand to stop
+- Exiting out the east door, we see a hallway lined with more *everburning torches*
+    - East side room has 8 sarcophagi, 4 evil auras, at least one is strong enough to stun the paladins
+- Rotating ccw to the north side, the intermediate room has stairs up to a super ornate set of doors to the north
+    - Big blue crystal implanted in the ceiling (not evil, magical, evocation school)
+        - Identified: When charged (is not), can cast *lightning bolt*
+- Moving ccw to the west side
+    - 7 sarcophagi, not evil or magic
+        - Trapped, contains money though
+
+### Session 1 - 2026-04-04 (Fields of Green)
+- **Quest: The Deadly Pyramid**
+- Anauroch region, city of Khem
+    - Edge of the desert
+- Quest giver: Local westmarches guild head, Majet Glun
+    - Local university is researching the regional practices
+    - There is a local pyramid, the Tomb of Merneith, an ancient queen, that they want to investigate
+    - So far, all who went to it have either failed to return, or within a couple days of returning have shriveled up and died
+    - Goal: Clear the pyramid of threats to the researchers, determine the cause of the mysterious curse/disease/etc
+- Pre-research
+    - None of those who returned were paladins
+    - Burial practices of nobility were pyramids, expect highly ornate and decorated, filled with material wealth
+    - The affliction is curse-based
+    - Local cultural practice: it is exceptionally rude to make extended eye contact with those socially above you
+    - Talking to researchers:
+        - Fragment of hieroglyphics that they believe was near the entrance
+        - Whole expedition failed, last words of the person who returned were "blind the god!"
+        - `ABC DEFG AH CAIDG IJF KLIDMG NBAL NGIOHJ FDINJ. IPGDA QHED GQGC IJF CAIQ QHED LIJF IJF RBPG.`
+        - `TIS RUDE TO STARE AND CHARGE WITH WEAPON DRAWN. AVERT YOUR EYES AND STAY YOUR HAND AND LIVE.`
+- Arriving at the pyramid
+    - Have to climb two thirds up the slant to get to the entrance, which is narrow
+    - At the entrance, statue of Anubis with gemstones in its eyes
+        - We determine the gemstones are casting a curse of *mummy rot* on any who stare at them
+        - We remove the gemstones and store them in a bag
+    - Entry hall
+        - Murals along the walls, but no gold, and no black outline (unlike what we saw at university)
+            - White paint made from gypsum, red and yellow from ochre, blue from lapis, green malachite, gold is gold leaf, black from soot. All pigments on wall are rock-derived, all the ones missing are not.
+            - Things that tend to degrade both metal and organics are oozes
+        - Walls of the tomb are scoured clean, evidence of tools and debris around
+        - `Ooze immunities: poison, sleep, paralysis, polymorph, stunning, precision damage and crits`
+    - First open room
+        - Small room, a few large jars, a blood pudding on the ceiling
+        - Blood Pudding: AC 3
+        - We split and burn the oozes
+    - After the oozes, we continue down the twisty hall to a hole over a 30ft drop
+        - Folly hammers some pitons in to anchor a rope, we descend to the next floor
+- Floor 2
+    - Entry room
+        - There is a rotating puzzle of symbols that we have no clues for yet
+    - Room with murals of fierce warriors
+        - They are super high danger evil-detecting
+        - Checkerboard pattern on the floor, step on the alternates
+    - Dressing room
+        - For the dead themselves? For visitors?
+        - Old makeup kits and other vanity things
+    - Pattern Room 1
+        - In hallway, murals shift to depict gnolls (people with canine heads)
+        - Shelves of canopic jars, showing sacred owl head of anubis
+        - Sarcophagus
+            - Mummy! Hard fight
+            - Mask of a woman's face, in the style of the maids of the queen. On the headdress is an owl head matching the sacred head of anubis on the canopic jars
+                - Non-magical
+        - 4 canopic jars
+            - each has a golden coin
+            - 3 coins are blank on both sides
+            - 1 has an owl head on one side, blank on the other
+            - these are clearly not intended as currency, but rather custom-made for this tomb
