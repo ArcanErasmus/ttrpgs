@@ -11,7 +11,7 @@
 
 ## Combat Options
 ### Arcanist Pool
-- **Points**; 7 max: OOOOO xx
+- **Points**; 7 max: OOOOO OO
     - Refill 5 points per day
 - Free action, 1 point for +1 DC or +1 CL of a spell
 - As part of a move or withdraw, 1 point to teleport
@@ -28,11 +28,11 @@
 - Full-action (provokes), 1 point to swap prepared spell for another known of same lvl
 
 ### Inspiring Prediction
-- **Daily**; 5 max: Oxxxx
+- **Daily**; 5 max: OOOOO
 - Swift action, grant every ally in 50ft who can hear you a +4 luck bonus to next atk/save/skill
 
 ### Nanite Surge
-- **Daily**; 1 max: x
+- **Daily**; 1 max: O
 - Immediate action, before rolling gain +7 to any d20 roll
 - When used, circuitry tattoos glow as torch for 1rd
 
@@ -72,7 +72,7 @@
 - *Touch of Fatigue*
 - *Vacuous Vessel*
 
-### **1st**: Prepare 3(+1), 6/day; Oxxxxx
+### **1st**: Prepare 3(+1), 6/day; OOOOOO
 - `*Burning Hands*`
 - *Detect Undead*
 - *Enlarge Person*
@@ -88,12 +88,12 @@
 - `*Snowball*`
 - *Summon Monster I*
 
-### **2nd**: Prepare 1, 4/day; OOOx
+### **2nd**: Prepare 1, 4/day; OOOO
 - *Aggressive Thundercloud*
-- `*Command Undead*`
+- *Command Undead*
 - *Flaming Sphere*
 <!-- - *Life Pact* -->
-- *Make Whole*
+- `*Make Whole*`
 <!-- - *Protection from Evil, Communal* -->
 <!-- - *See Invisibility* -->
 <!-- - *Summon Monster II* -->

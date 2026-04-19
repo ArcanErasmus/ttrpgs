@@ -20,6 +20,48 @@
     - Inre, she/her, armored knight on a big bird
 
 ## Weekly Log
+### Session 3 - 2026-04-18 (Fields of Green)
+- Around ccw to the south side room
+    - Murals depicting great historical events of the empire
+        - Golden ball, rays of sun
+        - Armored figure in black behind armored figure in white
+        - (star wars reference lol)
+    - Pretty statue on north side of the room, probably of the empress based on carvings around its base
+    - Pedestal on west side, area around it to walk, empty
+        - Carved out of marble, has square pressure plate, possibly needs matching object (around 6" on a side)
+        - The hallway leading to the pedestal erupted in flames when Inre enters
+        - The pressure plate doesn't move when pressed on
+- Small doorway to the southeast, twisty passage leads to another open room
+    - Room lights up with *everburning torches*
+    - Brass cylinder extends down from ceiling, has carvings of scenes on it
+        - Faint groove in the flagstones of the floor under the cylinder
+        - Cylinder has sconces on the inside for torches
+    - Magic rotoscope of queen merneith's life
+        - It sure is just a huge long documentary
+- Long hallway on the east, no torches
+    - Northeast small room has another pedestal, with a giant lens
+    - Southeast small room has another pedestal, with a giant blue crystal
+    - Blasting light through the lens to the crystal causes the crystal to glow, and blast light upwards into a small hole in the ceiling
+- Northeast corridor
+    - Has riddle in ancient language
+        - `ALWAYS COMING, NEVER HERE/LONG-AWAITED, OFTEN FEARED.` ("Tomorrow")
+    - Pigeonholes full of scrolls, baskets full of more scrolls
+        - 6 are magical, 3x *Remove Disease*, 3x *Remove Curse*
+- Back around to the stairs up on the north side
+    - Lead up to a door, giving aura of conjuration
+        - Conjuration coming from the paintings on the door
+- Northwest small room has paintings of Merneith with her fancy pen writing stuff
+    - "The Scholar Empress" written on the wall above the entrance to the small room
+- West long hallway, same as east but reversed
+    - Has a small alcove with a comfortable bench (not magic just well built)
+    - Scenes of the construction of great monuments of the empire (including this pyramid, including this hallway)
+    - After setting up the light, we hear creaking and clunking sounds in the walls
+- Back to the north side again, there is a large soldier made of sand staring into the chamber
+    - Folly dresses as a handmaiden and tries to bluff past it, almost succeeds
+        - But almost is a polite way to say "doesn't", roll initiative!
+    - We fight it, it smashes the gem, which melts it into a glass elemental
+        - A scarab swarm peels off the paintings on the doors and joins the fight against us
+
 ### Session 2 - 2026-04-11 (Fields of Green)
 - New arrival: Inre, an armored knight on a large bird
 - Continuing through the second floor, we come across an arched room with a chewed on wooden pillar
@@ -67,8 +109,10 @@
     - Big blue crystal implanted in the ceiling (not evil, magical, evocation school)
         - Identified: When charged (is not), can cast *lightning bolt*
 - Moving ccw to the west side
-    - 7 sarcophagi, not evil or magic
-        - Trapped, contains money though
+    - 7 sarcophagi, not evil or magic, contains dust (formerly bodies)
+        - Trapped, contains loot money though (and 7x *ring of the grasping grave*)
+    - Text on the walls, "we serve the warrior"
+    - Armor on a shelf underneath each sarcophagus
 
 ### Session 1 - 2026-04-04 (Fields of Green)
 - **Quest: The Deadly Pyramid**

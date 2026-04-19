@@ -1,47 +1,48 @@
 # Fields of Green's Inventory
 ## Item List
-| Name                        | Weight | Notes
-|-----------------------------|        |--------------------------------
-| **Worn Equipment**          |        | On body only
-|-----------------------------|        |--------------------------------
-| Bags                        |   6.5  | Mwk Backpack, belt pouch, spell component pouch
-| Haramaki                    |   1    |
-| Outfit, Traveler's          |   5    |
-| Scroll Case Boar            |   0.5  | See below
-| Scroll Case Falcon          |   0.5  | See below
-| Scroll Case Lizard          |   0.5  | See below
-|-----------------------------|        |--------------------------------
-| **Slotted Magic Items**     |        | See slots below
-|-----------------------------|        |--------------------------------
-| *Headband of Int +2*        |   1    |
-|-----------------------------|        |--------------------------------
-| **Weapons/Shields**         |        | Includes ammo, related items
-|-----------------------------|        |--------------------------------
-| Quarterstaff                |   4    |
-| Crossbow, Light             |   4    |
-| Bolts (20)                  |   2    |
-|-----------------------------|        |--------------------------------
-| **General**                 |        | Non-consumable catch-all
-|-----------------------------|        |--------------------------------
-| Camp Supplies               | (15)   | Bedroll, rations (5), iron pot, mess kit
-| Kit, Arcanist's             |   4    | Flint and steel, ink, inkpen, soap, waterskin
-|-----------------------------|        |--------------------------------
-| **Tools**                   |        |
-|-----------------------------|        |--------------------------------
-| Spellbook                   |   3    | "A Scribe's Lot"
-| Book Lariat                 |   0.5  | 10ft cord, recover spellbook as standard
-|-----------------------------|        |--------------------------------
-| **Alchemical Reagents**     |        | Effects when used as spell component
-|-----------------------------|        |--------------------------------
-| Saltpeter (2)               |        | [fire]; +1 fire damage
-|-----------------------------|        |--------------------------------
-| **Misc/Loot**               |        |
-|-----------------------------|        |--------------------------------
-|-----------------------------|        |--------------------------------
-| **Coins**                   |   ?.?  | $215.7; $0 valuables
-|-----------------------------|--------|--------------------------------
-| **Total**                   |  32.5  | Light Load
-|                             |        |
+| Name                             | Weight | Notes
+|----------------------------------|        |--------------------------------
+| **Worn Equipment**               |        | On body only
+|----------------------------------|        |--------------------------------
+| Bags                             |   6.5  | Mwk Backpack, belt pouch, spell component pouch
+| Haramaki                         |   1    |
+| Outfit, Traveler's               |   5    |
+| Scroll Case Boar                 |   0.5  | See below
+| Scroll Case Falcon               |   0.5  | See below
+| Scroll Case Lizard               |   0.5  | See below
+|----------------------------------|        |--------------------------------
+| **Slotted Magic Items**          |        | See slots below
+|----------------------------------|        |--------------------------------
+| *Headband of Int +2*             |   1    |
+| *Ring of the Grasping Grave*     |        |
+|----------------------------------|        |--------------------------------
+| **Weapons/Shields**              |        | Includes ammo, related items
+|----------------------------------|        |--------------------------------
+| Quarterstaff                     |   4    |
+| Crossbow, Light                  |   4    |
+| Bolts (19)                       |   2    |
+|----------------------------------|        |--------------------------------
+| **General**                      |        | Non-consumable catch-all
+|----------------------------------|        |--------------------------------
+| Camp Supplies                    | (15)   | Bedroll, rations (5), iron pot, mess kit
+| Kit, Arcanist's                  |   4    | Flint and steel, ink, inkpen, soap, waterskin
+|----------------------------------|        |--------------------------------
+| **Tools**                        |        |
+|----------------------------------|        |--------------------------------
+| Spellbook                        |   3    | "A Scribe's Lot"
+| Book Lariat                      |   0.5  | 10ft cord, recover spellbook as standard
+|----------------------------------|        |--------------------------------
+| **Alchemical Reagents**          |        | Effects when used as spell component
+|----------------------------------|        |--------------------------------
+| Saltpeter (0)                    |        | [fire]; +1 fire damage
+|----------------------------------|        |--------------------------------
+| **Misc/Loot**                    |        |
+|----------------------------------|        |--------------------------------
+|----------------------------------|        |--------------------------------
+| **Coins**                        |   ?.?  | $215.7; $0 valuables
+|----------------------------------|--------|--------------------------------
+| **Total**                        |  32.5  | Light Load
+|                                  |        |
 
 ### Gear Descriptions
 #### Scroll Case
@@ -53,6 +54,12 @@
 ##### Lizard
 - *Summon Monster II* (CL 3)
 - *Life Pact* (CL 3)
+- *Remove Curse* (CL 5) (divine)
+- *Remove Disease* (CL 5)
+
+#### *Ring of the Grasping Grave*
+- https://www.d20pfsrd.com/magic-items/rings/ring-of-the-grasping-grave
+- melee touch attack, disable an undead's ability to heal from negative energy for 1d4 rounds, no save
 
 ### Spellbooks
 #### "A Scribe's Lot" - 60/100
@@ -132,7 +139,7 @@
 - Belt      -
 - Wrists    -
 - Hands     -
-- Ring 1    -
+- Ring 1    - *Ring of the Grasping Grave*
 - Ring 2    -
 - Feet      -
 
@@ -140,4 +147,4 @@
 - 6 *everburning torches*
 - fancy mask of Ra
 - mask of (owl?)
-- pouch of coins/gems (and maybe a ring)
+- pouch of coins/gems
