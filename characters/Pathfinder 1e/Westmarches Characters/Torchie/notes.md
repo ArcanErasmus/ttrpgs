@@ -118,22 +118,20 @@
 - Catch Off-Guard
 + Shikigami Style
 - Shikigami Mimicry
-<!-- - Improvisational Focus -->
 ## torch attack
 +3 BAB
 +2 (surprise weapon)
 +1 (weapon focus)
-<!-- +1 (improv focus) -->
 +1 4rds/day (sacred wpn)
 Founderflame Torch: +7+Str to hit, 2d6+Str+1 B + 1d4 Fire
 Ioun Torch: +8+Str to hit, 1d8+Str+1 B
 AC: Dex + hvy armor + shield
-# Warpriest (Arsenal Chaplain)
+<!-- # Warpriest (Arsenal Chaplain)
 - give up channel energy
 - only get War blessing, no 2nd
-- at lvl 5, get Weapon Training (Improvised Weapons) +1
+- at lvl 5, get Weapon Training (Improvised Weapons) +1 -->
 
-# Fighter (Titan Fighter)
+<!-- # Fighter (Titan Fighter)
 - all armor, shields
 - bravery +1
 - can wield +1 size 2h at -2
@@ -158,9 +156,9 @@ assume +5 str
 # lvl 5
 - Shikigami Manipulation
 - Weapon Training +1
-+11, 8d6+8 B + 3d6 Fire
++11, 8d6+8 B + 3d6 Fire -->
 
-# Fighter (Cad)
+<!-- # Fighter (Cad)
 - 1
 + 1
 + 2
@@ -172,11 +170,10 @@ assume +5 str
 ## atk
 +4 BAB
 +2 (surprise wpn)
-<!-- +1 (Improvisational Focus) -->
 -4 size huge
 +2 size mitigation Irongrip Gauntlets
 Huge Founderflame Torch: +4+Str to hit, 4d6+(1.5xStr) B + 1d8 Fire
-AC: Dex + light armor
+AC: Dex + light armor -->
 
 # Makeshift Scrapper UnRogue + Bruiser https://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained/archetypes/everyman-gaming-archetypes/bruiser
 - sneak atk 2d6
@@ -213,7 +210,7 @@ AC: Dex + light armor +1 shield
 can dump Str
 - talent (2) -> combat trick -> TWF
 
-# Hinyasi Brawler
+<!-- # Hinyasi Brawler
 brawlers cunning (int 13 for feats)
 martial flexibility (5/day move action to gain combat feat for 1min)
 martial training (count as monk and fighter lvls for prereq)
@@ -233,7 +230,7 @@ improvised maneuver (maneuver at -4 as free action after hit, still provokes BLU
 +2 size mitigation Irongrip Gauntlets
 Huge Founderflame Torch: +4+Str to hit, 6d6+(1.5xStr) B + 1d8 Fire
 Flurry: -2 to hit, +unarmed attack (+2+Str to hit, 1d8+Str B)
-AC: Dex + light armor
+AC: Dex + light armor -->
 
 # Extemporaneous Channeler Occultist
 improvisational combatant (free CAG/TA for prereqs, no penalty for improv)
@@ -250,6 +247,77 @@ spells (int, spontaneous) lvls 0/1/2
 - Shikigami Style (1)
 - Shikigami Mimicry (3)
 ## atk
++3 BAB
++2 (surprise wpn)
+-4 size huge
++2 size mitigation Irongrip Gauntlets
+Huge Founderflame Torch: +3+Str to hit, 4d6+(1.5xStr) B + 1d8 Fire
+AC: Dex + med armor
+
+
+# FINAL OPTIONS
+
+## Warpriest
+- deity: Amaunator or Lathander
+- all armor, shields
+- blessings 5/day minor
+- lvl 0/1/2 spells
+- sacred wpn +1
+- fervor 1d6 ~6/day
+- channel energy
+### feats
++ Weapon Focus (Light Mace)
+- Catch Off-Guard
++ Shikigami Style
+- Shikigami Mimicry
+### torch attack
++3 BAB
++2 (surprise weapon)
++1 (weapon focus)
++1 4rds/day (sacred wpn)
+Founderflame Torch: +7+Str to hit, 2d6+Str+1 B + 1d4 Fire
+Ioun Torch: +8+Str to hit, 1d8+Str+1 B
+AC: Dex + hvy armor + shield
+
+## MS UnRogue med-size finesse edition
+- sneak atk 2d6
+evasion
+talent (2) -> combat trick -> TWF
+talent ???
+uncanny dodge
+supernatural improvisation +1
+debilitating injury
+### feats
++ CAG & TA (1)
+- Shikigami Style (1)
++ ?(Combat trick, 2)
+- Shikigami Mimicry (3)
++ Power attack (3)
++ ?(Combat trick, 4)
+### atk
++3 BAB
++2 (surprise wpn)
++1 gloves of improvised might
+Founderflame Torch: +6+Dex to hit, 2d6+Dex+1 B + 1d4 Fire
++TWF: -2 to hit, 2nd atk with only +Dex/2 to dmg
+AC: Dex + light armor +1 shield
+can dump Str
+
+## Extemporaneous Channeler Occultist
+improvisational combatant (free CAG/TA for prereqs, no penalty for improv)
+focus powers
+implements 3
+fleeting focus (3+2xint points/day, 1rd to invest in implement, loses point every 10mins)
+transformative resonance +1 (grant +1 bonus/ability to implement for 1min as swift)
+magic item skill (+2 UMD)
+object reading (psychometry and identify)
+focus power (3 powers???)
+shift focus
+spells (int, spontaneous) lvls 0/1/2
+### feats
+- Shikigami Style (1)
+- Shikigami Mimicry (3)
+### atk
 +3 BAB
 +2 (surprise wpn)
 -4 size huge

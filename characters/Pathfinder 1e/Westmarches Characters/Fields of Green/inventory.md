@@ -6,7 +6,7 @@
 |----------------------------------|        |--------------------------------
 | Bags                             |   6.5  | Mwk Backpack, belt pouch, spell component pouch
 | Haramaki                         |   1    |
-| Outfit, Traveler's               |   5    |
+| Outfit, Scholar's                |   6    |
 | Scroll Case Boar                 |   0.5  | See below
 | Scroll Case Falcon               |   0.5  | See below
 | Scroll Case Lizard               |   0.5  | See below
@@ -39,9 +39,9 @@
 | **Misc/Loot**                    |        |
 |----------------------------------|        |--------------------------------
 |----------------------------------|        |--------------------------------
-| **Coins**                        |   ?.?  | $215.7; $0 valuables
+| **Coins**                        |   0.24 | $215.7; $0 valuables
 |----------------------------------|--------|--------------------------------
-| **Total**                        |  32.5  | Light Load
+| **Total**                        |  33.74 | Light Load
 |                                  |        |
 
 ### Gear Descriptions
@@ -54,7 +54,7 @@
 ##### Lizard
 - *Summon Monster II* (CL 3)
 - *Life Pact* (CL 3)
-- *Remove Curse* (CL 5) (divine)
+- *Remove Curse* (CL 5) (divine) (UMD DC 25 to cast)
 - *Remove Disease* (CL 5)
 
 #### *Ring of the Grasping Grave*
