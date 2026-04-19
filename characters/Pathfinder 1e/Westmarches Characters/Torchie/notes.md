@@ -279,6 +279,38 @@ Founderflame Torch: +7+Str to hit, 2d6+Str+1 B + 1d4 Fire
 Ioun Torch: +8+Str to hit, 1d8+Str+1 B
 AC: Dex + hvy armor + shield
 
+
+## Warpriest plan
+1+W Weapon Focus (whatever)
+1+R Some bonus feat (Nimble Moves for Drow w/ Dex 13+, or Psychic Sensitivity for Ghoran)
+1-- Catch Off-Guard
+1xx Retrain bonus feat -> Two-Weapon Fighting (50gp)
+3 Purchase Ioun Stone (Opalescent White Pyramid, Cracked) (1500gp)
+3xx Retrain Weapon Focus -> (Improvised Weapons) (150gp)
+3-- Shikigami Style
+3+W Shikigami Mimicry
+4 N/A
+5-- Shikigami Manipulation
+
+## Warpriest 3/Hinyasi Brawler 1 plan
+1+B CAG
+1-- Shikigami Style
+1+R Some bonus feat (Nimble Moves for Drow w/ Dex 13+, or Psychic Sensitivity for Ghoran)
+1xx Retrain bonus feat -> Improvisational Focus (50gp)
+2+W Weapon Focus (Improvised Weapons)
+3-- Shikigami Mimicry
+4+W Two-Weapon Fighting
+5-- Shikigami Manipulation
+
+BAB +3
+F +5
+R +3
+W +3
+Sk 10+(4xInt)
+HP 1d10+3d8
+Brawler's cunning, martial flexibility, martial training, unarmed strike
+WProf: Simple, Martial, Close Fighter Group, deity's favored
+AProf: Light, Med, Hvy, Shields
 ## MS UnRogue med-size finesse edition
 - sneak atk 2d6
 evasion
