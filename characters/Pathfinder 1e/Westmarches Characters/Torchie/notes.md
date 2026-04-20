@@ -78,6 +78,7 @@
         > +1 size for damage; -2 to hit to give one quality: blocking, brace, disarm, distracting, nonlethal, performance, trip
         - Shikigami Manipulation https://www.d20pfsrd.com/feats/combat-feats/shikigami-manipulation-combat
             > +1 size for damage; more if somehow get CL on torch...
+            > use an *ioun stone* for +3, or a CL20 scroll (or *sovereign glue*) for +5
 - lvl 8
     - Improvised Weapon Mastery https://www.d20pfsrd.com/feats/combat-feats/improvised-weapon-mastery-combat/
         > crit 19-20/x2, +1 step (+half size) dmg
@@ -291,6 +292,30 @@ AC: Dex + hvy armor + shield
 3+W Shikigami Mimicry
 4 N/A
 5-- Shikigami Manipulation
+### Drow
+- +2 Dex, +2 Cha, -2 Con
+- Medium; Humanoid (elf)
+- Elven, Undercommon
+- Weapon Familiarity: proficient hand crossbow, rapier, shortsword
+- Immunities: Immune to magic sleep, +2 vs enchantment
+- SR: 6+lvl
+- Keen Senses: +2 Perception
+- Stalker: Nimble Moves bonus feat if Dex 13
+- Poison Use
+    - or Ancestral Grudge: +1 atk vs dwarf and (non-drow) elf
+- Superior Darkvision
+- Light Blindness: Bright light blinds 1rd, then dazzled until leave
+
+### Ghoran https://www.d20pfsrd.com/races/other-races/more-races/advanced-races-11-20-rp/ghoran-19-rp
+- +2 Con, +2 Cha, -2 Int
+- Medium; Plant (but w/o free immunities)
+- Common, Sylvan; any bonus
+- +2 Natural Armor
+- Low-light vision
+- Martial Recollection (Ex): Reallocate combat feats after 2d6 days downtime
+- Occult Scion: Psychic Sensitivity bonus feat, Kn (arcana) & (planes) class skills
+- Light Dependent - 1d4 Con dmg each day without sunlight
+- Delicious - -2 Escape Artist & CMB checks to escape grapple vs bite w/grab
 
 ## Warpriest 3/Hinyasi Brawler 1 plan
 1+B CAG

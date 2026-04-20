@@ -1,11 +1,13 @@
 # name, pronouns
-## alignment, race, classes
+## LG, Ghoran, Warpriest 4
 - Archetypes: ?
-- Deity: ?
+- Deity: Lathander, Brotherhood of the Glorious Sun
+    - https://forgottenrealms.fandom.com/wiki/Lathander
+    - https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_Glorious_Sun
 - height, weight, age, hair, eyes
 - Casual appearance description
 - Birth location and date
-- Favored class: ?
+- Favored class: Warpriest
 - Personality shorthand
     - Who are you?
     - Religion?
@@ -16,32 +18,34 @@
 ## Ability Scores
 | Stat | Base    | Temp |
 |------|---------|------|
-| STR  | ?? (+?) | -
-| DEX  | ?? (+?) | -
-| CON  | ?? (+?) | -
-| INT  | ?? (+?) | -
-| WIS  | ?? (+?) | -
-| CHA  | ?? (+?) | -
+| STR  | 18 (+4) | -
+| DEX  | 16 (+3) | -
+| CON  | 16 (+3) | -
+| INT  | 12 (+1) | -
+| WIS  | 14 (+2) | -
+| CHA  | 13 (+1) | -
 Stat Rolls:
-?
+18 15 14 14 14 11
+<!-- 17 14 14 12 11 10 -->
+<!-- 16 14 13 13 11 11 -->
 
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | ?? (?? T/?? F) | -
-| BAB  | +?             | -
-| CMB  | +?             | -
-| CMD  | ??             | -
-| Init | +?             | -
-| Spd  | ??/?? ft       | -
+| AC   | 22 (13 T/19 F) | -
+| BAB  | +3             | -
+| CMB  | +7             | -2^
+| CMD  | 20             | -
+| Init | +3             | -
+| Spd  | 30/20 ft       | -
 |------|---------|------|-----------|
 | Stat | Max     | Cur  | Temp      |
 |------|---------|------|-----------|
-| HP   |      ?? |   ?? | 0, 0 NL
+| HP   |      44 |   44 | 0, 0 NL
 | Hero |       3 |    3 | 0
 |------|---------|------|-----------|
-HP rolls (d?): [?], ?
-AC breakdown: ?
+HP rolls (d8): [8], 1+7, 7+1, 5+3
+AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 
 ## Resistances/Immunities/Senses
 - SR: No
@@ -49,20 +53,18 @@ AC breakdown: ?
 - Resistances: None
 - Weaknesses: None
 - DR: None
-- Senses: ?
+- Senses: Low-light vision
 
 ## Saves
 | Name | Stat | Tot | Temp |
 |------|------|-----|------|
-| Fort | Con  | +?  | -
-| Ref  | Dex  | +?  | -
-| Will | Wis  | +?  | -
+| Fort | Con  | +7  | -
+| Ref  | Dex  | +4  | -
+| Will | Wis  | +6  | -
 
 ## Conditional Modifiers/Resistances/Weaknesses
-- Racial Trait (?): ?
+- Racial Trait (Delicious): -2 Escape Artist & CMB to escape grapple vs bite w/grab
 - Trait (?): ?
-- Feat (?): ?
-- Class (?): ?
 - Item (?): ?
 
 ## Skills
@@ -71,73 +73,87 @@ AC breakdown: ?
 |   |   |   | Acrobatics         | Dex |     | -
 |   |   |   | Appraise           | Int |     | -
 |   |   |   | Bluff              | Cha |     | -
-|   |   |   | Climb              | Str |     | -
-|   |   |   | Craft              | Int |     | -
+| 4 |   | C | Climb              | Str | +11 | -
+|   |   | C | Craft              | Int |     | -
 |   |   |   |   ?                | Int |     | -
-|   |   |   | Diplomacy          | Cha |     | -
-|   | T |   | Disable Device     | Dex |     | -
+| 1 |   | C | Diplomacy          | Cha |  +5 | -
+|   | T |   | Disable Device     | Dex |     | -3
 |   |   |   | Disguise           | Cha |     | -
-|   |   |   | Escape Artist      | Dex |     | -
-|   |   |   | Fly                | Dex |     | -
-|   | T |   | Handle Animal      | Cha |     | -
-|   |   |   | Heal               | Wis |     | -
-|   |   |   | Intimidate         | Cha |     | -
-|   | T |   | Kn (arcana)        | Int |     | -
+|   |   |   | Escape Artist      | Dex |     | -3,-2^
+|   |   |   | Fly                | Dex |     | -3
+|   | T | C | Handle Animal      | Cha |     | -
+| 1 |   | C | Heal               | Wis |  +6 | -
+|   |   | C | Intimidate         | Cha |     | -
+| 1 | T | C | Kn (arcana)        | Int |  +5 | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
-|   | T |   | Kn (engineering)   | Int |     | -
+| 1 | T | C | Kn (engineering)   | Int |  +5 | -
 |   | T |   | Kn (geography)     | Int |     | -
 |   | T |   | Kn (history)       | Int |     | -
 |   | T |   | Kn (local)         | Int |     | -
 |   | T |   | Kn (nature)        | Int |     | -
 |   | T |   | Kn (nobility)      | Int |     | -
-|   | T |   | Kn (planes)        | Int |     | -
+| 1 | T | C | Kn (planes)        | Int |  +5 | -
 |   | T |   | Kn (psionics)      | Int |     | -
-|   | T |   | Kn (religion)      | Int |     | -
+| 1 | T | C | Kn (religion)      | Int |  +5 | -
 |   | T |   | Linguistics        | Int |     | -
 |   |   |   | Perception         | Wis |     | -
 |   |   |   | Perform            | Cha |     | -
 |   |   |   |   ?                | Cha |     | -
-|   | T |   | Profession         | Wis |     | -
+|   | T | C | Profession         | Wis |     | -
 |   | T |   |   ?                | Wis |     | -
-|   |   |   | Ride               | Dex |     | -
-|   |   |   | Sense Motive       | Wis |     | -
-|   | T |   | Sleight of Hand    | Dex |     | -
-|   | T |   | Spellcraft         | Int |     | -
-|   |   |   | Stealth            | Dex |     | -
-|   |   |   | Survival           | Wis |     | -
-|   |   |   | Swim               | Str |     | -
+|   |   | C | Ride               | Dex |     | -3
+| 4 |   | C | Sense Motive       | Wis |  +9 | -
+|   | T |   | Sleight of Hand    | Dex |     | -3
+|   | T | C | Spellcraft         | Int |     | -
+|   |   |   | Stealth            | Dex |     | -3
+| 1 |   | C | Survival           | Wis |  +6 | -
+| 1 |   | C | Swim               | Str |  +8 | -3
 |   | T |   | Use Magic Device   | Cha |     | -
 |---|---|---|--------------------|-----|-----|------
 
-- Skill ranks: ?/?
-    - ?x(?+?) class
-    - ? favored class
-- Encumbrance: 0 ACP, no max Dex, x4 run, 0% ASFC, normal speed
+- Skill ranks: 12/16
+    - 4x(2+1) class
+    - 4 favored class
+- Encumbrance: -3 ACP (0 for Acrobatics/Climb), +3 max Dex, x4 run, 0% ASFC, reduced speed
 
 ## Languages, Proficiencies
-- Languages: Common, ?
-- Weapons: ?
-- Armor: ?
+- Languages: Common, Draconic, Sylvan
+- Weapons: Simple, Martial
+- Armor: Light, Medium, Heavy, Shields
 
 ## Favored class bonus
-- ?
+- +4 Skill ranks
 
 ## Racial Features
-### Base Properties
-- stats
-- type
-- size, ?? ft speed
-- senses
+### Base Properties https://www.d20pfsrd.com/races/other-races/more-races/advanced-races-11-20-rp/ghoran-19-rp
+- +2 Con, +2 Cha, -2 Int
+- Plant (but w/o free immunities)
+- Medium, 30ft speed
+- +2 Natural Armor
+- Low-light vision
 
-### Trait
-- ?
+### Seed - Martial Recollection (Ex)
+- Full-rd action, spit out a seed and gain a negative level
+- If seed is planted in a fertile location and undisturbed, it will sprout in 2d6 days
+- Seed sprouts into a duplicate of the ghoran, and the old one dies
+- You can reallocate all your combat feats when the seed sprouts
+
+### Occult Scion
+- Gain Psychic Sensitivity bonus feat
+- Kn (arcana) & (planes) class skills
+
+### Light Dependent
+- Each day you go without sunlight, take 1d4 Con dmg
+
+### Delicious
+- -2 Escape Artist & CMB checks to escape grapple vs bite attacks with grab trait
 
 ## Traits & Drawbacks
 ### (D) ?
 - ?
 
-### ? [?]
-- ?
+### Surprise Weapon [Combat]
+- +2 atk with improvised weapons
 
 ### ? [?]
 - ?
@@ -146,11 +162,22 @@ AC breakdown: ?
 - ?
 
 ## Feats
-### ? [lvl 1]
-- ?
+### Catch Off-Guard [lvl 1]
+- No penalty with improvised melee wpn
+- Unarmed opponents flat-footed vs melee atks with improvised wpns
 
-### ? [? Bonus, lvl ?]
-- ?
+### Weapon Focus (Improvised Weapons) [Warpriest Bonus, lvl 1]
+- +1 to hit with chosen weapon
 
-### ? [lvl 3]
-- ?
+### Two-Weapon Fighting [Ghoran Bonus, lvl 1]
+- Reduce TWF penalties by 4 points
+
+### Shikigami Style [lvl 3]
+- Swift to enter style
+- Treat improvised weapons you use as one size larger for damage
+- Increase bonus by one size for each other "Shikigami" feat (max total 3 sizes)
+
+### Shikigami Mimicry [Warpriest Bonus, lvl 3]
+- Can take -2 on attacks with an improvised wpn to give it a quality until start of turn
+- Qualities: blocking, brace, disarm, distracting, nonlethal, performance, trip
+    - If wpn has fragile quality or broken condition, can give jagged quality
