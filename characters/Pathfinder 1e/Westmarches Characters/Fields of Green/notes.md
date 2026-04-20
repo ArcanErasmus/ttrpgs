@@ -9,6 +9,7 @@ Energy Weapon https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---
 Repair Light Damage https://www.d20pfsrd.com/magic/3rd-party-spells/rogue-genius-games---3rd-party-spells/repair-light-damage
 Shadow Hands https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3rd-party-spells/s/shadow-hands
 ### Lvl 2 options
+Retrieve Item https://www.d20pfsrd.com/magic/all-spells/r/retrieve-item
 
 ## interesting things to look into
 ### classes/presige classes
