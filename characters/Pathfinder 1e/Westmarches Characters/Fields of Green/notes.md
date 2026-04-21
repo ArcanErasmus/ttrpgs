@@ -10,6 +10,7 @@ Repair Light Damage https://www.d20pfsrd.com/magic/3rd-party-spells/rogue-genius
 Shadow Hands https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3rd-party-spells/s/shadow-hands
 ### Lvl 2 options
 Retrieve Item https://www.d20pfsrd.com/magic/all-spells/r/retrieve-item
+Spell Gauge https://www.d20pfsrd.com/magic/all-spells/s/spell-gauge
 
 ## interesting things to look into
 ### classes/presige classes
