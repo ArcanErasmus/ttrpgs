@@ -58,19 +58,19 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 ## Saves
 | Name | Stat | Tot | Temp |
 |------|------|-----|------|
-| Fort | Con  | +7  | -
-| Ref  | Dex  | +4  | -
-| Will | Wis  | +6  | -
+| Fort | Con  | +7  | -1^
+| Ref  | Dex  | +4  | -1^
+| Will | Wis  | +6  | -1^
 
 ## Conditional Modifiers/Resistances/Weaknesses
 - Racial Trait (Delicious): -2 Escape Artist & CMB to escape grapple vs bite w/grab
-- Trait (?): ?
+- Trait (Shadow-Scarred): -1 to saves in dim light or darkness
 - Item (?): ?
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
 |---|---|---|--------------------|-----|-----|------
-|   |   |   | Acrobatics         | Dex |     | -
+| 1 |   | C | Acrobatics         | Dex |  +8 | -
 |   |   |   | Appraise           | Int |     | -
 |   |   |   | Bluff              | Cha |     | -
 | 4 |   | C | Climb              | Str | +11 | -
@@ -82,9 +82,9 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 |   |   |   | Escape Artist      | Dex |     | -3,-2^
 |   |   |   | Fly                | Dex |     | -3
 |   | T | C | Handle Animal      | Cha |     | -
-| 1 |   | C | Heal               | Wis |  +6 | -
+|   |   | C | Heal               | Wis |     | -
 |   |   | C | Intimidate         | Cha |     | -
-| 1 | T | C | Kn (arcana)        | Int |  +5 | -
+|   | T | C | Kn (arcana)        | Int |     | -
 |   | T |   | Kn (dungeoneering) | Int |     | -
 | 1 | T | C | Kn (engineering)   | Int |  +5 | -
 |   | T |   | Kn (geography)     | Int |     | -
@@ -92,7 +92,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 |   | T |   | Kn (local)         | Int |     | -
 |   | T |   | Kn (nature)        | Int |     | -
 |   | T |   | Kn (nobility)      | Int |     | -
-| 1 | T | C | Kn (planes)        | Int |  +5 | -
+|   | T | C | Kn (planes)        | Int |     | -
 |   | T |   | Kn (psionics)      | Int |     | -
 | 1 | T | C | Kn (religion)      | Int |  +5 | -
 |   | T |   | Linguistics        | Int |     | -
@@ -108,16 +108,16 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 |   |   |   | Stealth            | Dex |     | -3
 | 1 |   | C | Survival           | Wis |  +6 | -
 | 1 |   | C | Swim               | Str |  +8 | -3
-|   | T |   | Use Magic Device   | Cha |     | -
+| 2 | T |   | Use Magic Device   | Cha |  +3 | -
 |---|---|---|--------------------|-----|-----|------
 
-- Skill ranks: 12/16
+- Skill ranks: 16/16
     - 4x(2+1) class
     - 4 favored class
 - Encumbrance: -3 ACP (0 for Acrobatics/Climb), +3 max Dex, x4 run, 0% ASFC, reduced speed
 
 ## Languages, Proficiencies
-- Languages: Common, Draconic, Sylvan
+- Languages: Celestial, Common, Draconic, Sylvan
 - Weapons: Simple, Martial
 - Armor: Light, Medium, Heavy, Shields
 
@@ -149,17 +149,18 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - -2 Escape Artist & CMB checks to escape grapple vs bite attacks with grab trait
 
 ## Traits & Drawbacks
-### (D) ?
-- ?
+### (D) Shadow-scarred
+- -1 to saves in dim light or darkness
 
 ### Surprise Weapon [Combat]
 - +2 atk with improvised weapons
 
-### ? [?]
-- ?
+### Rice Runner [Regional]
+- +1 Acrobatics, class skill
 
-### ? [?]
-- ?
+### Transmuter [Magic]
+- Transmutation spells cast at +1 CL
+- 1/day, double duration of *Bull's Strength* when cast
 
 ## Feats
 ### Catch Off-Guard [lvl 1]

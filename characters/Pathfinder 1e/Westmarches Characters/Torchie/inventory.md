@@ -4,7 +4,9 @@
 |--------------------------------------|        |--------------------------------
 | **Worn Equipment**                   |        | On body only
 |--------------------------------------|        |--------------------------------
+| Holy Symbol Tattoo                   |        | Back of hand
 | Outfit, Explorer's                   |   5    |
+| Tabard                               |   1    | Brotherhood of the Glorious Sun
 |--------------------------------------|        |--------------------------------
 | **Slotted Magic Items**              |        | See slots below
 |--------------------------------------|        |--------------------------------
@@ -14,12 +16,15 @@
 |--------------------------------------|        |--------------------------------
 | Founderflame Torch                   |   1    |
 | Founderflame Torch                   |   1    |
+<!-- | *Scroll of Enhanced Diplomacy*       |        | CL 20 -->
+<!-- | *Scroll of Grave Words*              |        | CL 20 -->
 |--------------------------------------|        |--------------------------------
 | **General**                          |        | Non-consumable catch-all
 |--------------------------------------|        |--------------------------------
 | *Ioun Stone* #1                      |        | Opalescent White Pyramid, Cracked (Improvised Weapons)
-| *Wayfinder*                          |   1    | see below, holding #1
-| *Traveler's Any-Tool*                |   2    | see below
+| *Traveler's Any-Tool*                |   2    | See below
+| *Wayfinder*                          |   1    | See below, holding #1
+| *Ioun Torch* (2)                     |        |
 |--------------------------------------|        |--------------------------------
 | **Tools**                            |        |
 |--------------------------------------|        |--------------------------------
@@ -27,19 +32,34 @@
 |--------------------------------------|        |--------------------------------
 | **Alchemical Reagents**              |        | Effects when used as spell component
 |--------------------------------------|        |--------------------------------
-| Gold (20)                            |        | conjuration(healing); +1 hp healed
+| Gold (10x1 dose)                     |        | conjuration(healing); +1 hp healed
+| Magnesium (5x2 doses)                |        | transmutation; +1 CL for duration
+| Quicksilver (5x3 doses)              |        | [mind-affection]; +1 CL for duration
 |--------------------------------------|        |--------------------------------
 | **Misc/Loot**                        |        |
 |--------------------------------------|        |--------------------------------
 |--------------------------------------|        |--------------------------------
-| **Coins**                            |   ?.?  | $?.?; $0 valuables
+| **Coins**                            |   0.26 | $94.0; $0 valuables
 |--------------------------------------|--------|--------------------------------
-| **Total**                            |  65.0  | Light Load
+| **Total**                            |  66.26 | Light Load
 |                                      |        |
 
 ### Gear Descriptions
 #### Warpriest's kit
-- This kit includes a backpack, a bedroll, a belt pouch, a cheap holy text, a flint and steel, an iron pot, a mess kit, rope, soap, a spell component pouch, torches (10), trail rations (5 days), a waterskin, and a wooden holy symbol.
+- Backpack
+- Bedroll
+- Belt pouch
+- Cheap holy text
+- Flint and steel
+- Iron pot
+- Mess kit
+- Rope
+- Soap
+- Spell component pouch
+- Torches (10)
+- Trail rations (5 days)
+- Waterskin
+- Wooden holy symbol
 
 #### *Wayfinder* https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/wayfinder-standard
 - As compass, +2 circumstance to Survival to navigate
@@ -49,19 +69,26 @@
 #### *Traveler's Any-Tool* https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/traveler-s-any-tool
 - Can be shaped into any tool you can clearly visualize
 - Can't be used to replace broken/missing parts of larger machines/vehicles unless a mundane tool would have done the job
-- Counts as mwk artisan's tools for most Craft/Profession skills
+- Counts as mwk artisan's tools (+2 circumstance) for most Craft/Profession skills
 - Always counts as improvised weapon when used to fight, no mwk bonus to hit
 
-### Spent (? total)
+### Spent (6000 total)
    0 - Free outfit
+   5 - Tabard
+  10 - Alchemical Reagent (Magnesium) x10
+  15 - Alchemical Reagent (Quicksilver) x15
   16 - Warpriest's Kit
   50 - Retraining (feat, Psychic Sensitivity -> TWF)
+  50 - Alchemical Reagent (Gold) x10
   90 - Retraining (hp, lvl 3 + 1)
- 100 - Alchemical Reagent (Gold) x20
+  94 - `Cash on hand`
  100 - Holy Symbol Tattoo (back of hand)
  150 - Retraining (feat, Weapon Focus (light mace) -> (improvised weapons))
-<!--  200 - Retraining (language, ?) -->
-<!--  200 - Retraining (language, ?) -->
+ 150 - *Ioun Torch* x2
+ 200 - Retraining (language, Celestial)
+ <!-- 200 - Retraining (language, ?) -->
+ <!-- 250 - *Scroll of Enhanced Diplomacy* (CL 20) -->
+ <!-- 250 - *Scroll of Grave Words* (CL 20) -->
  250 - *Traveler's Any-Tool*
  360 - Retraining (hp, lvl 4 + 3)
  420 - Retraining (hp, lvl 2 + 7)
@@ -69,7 +96,7 @@
  500 - *Wayfinder*
 1500 - *Ioun Stone (Opalescent White Pyramid, Cracked) (Improvised Weapons)*
 1550 - *+1 Agile Breastplate*
-=4786
+=6000
 
 
 ## Carrying Capacity

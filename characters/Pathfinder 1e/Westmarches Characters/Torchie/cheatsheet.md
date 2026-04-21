@@ -3,6 +3,8 @@
 | Weapon                | Atk    | Damage               | Crit     | Range | Notes
 |-----------------------|--------|----------------------|----------|-------|------------
 | Founderflame Torch    | +10    | 2d6+4(B)+1d4(Fire)   |    20/x2 |       | On hit, -1 saves vs fire dmg effects for 1rd
+|   Off-Hand TWF        |(-2/-2) | /2d6+2(B)+1d4(Fire)  |    20/x2 |       | On hit, -1 saves vs fire dmg effects for 1rd
+| Anytool Sledge        | +10    | 4d6+6(B)             |    20/x2 |       |
 | Improvised Melee      | +10    | 2d6+4(B/P/S)         |    20/x2 |       | +2 dmg if 2h
 | Improvised Thrown     | +5     | 2d6+4(B/P/S)         |    20/x2 |       |
 |-----------------------|--------|----------------------|----------|-------|------------
@@ -39,17 +41,18 @@
 - Range bands: 35/140/560 ft
 
 ### **0th**: Prepare 4
-- *?*
-- *?*
-- *?*
-- *?*
+- *Create Water*
+- *Guidance*
+- *Resistance*
+- *Stabilize*
 
 ### **1st**: Prepare 3(+1); *Cure Light Wounds*
-- *?*
-- *?*
-- *?*
-- *?*
+- *Bless*
+- *Bless*
+- *Protection from Evil*
+- *Shield of Faith*
+<!-- - *Know the Enemy* -->
 
 ### **2nd**: Prepare 1+1; *Cure Moderate Wounds*
-- *?*
-- *?*
+- *Bull's Strength* (1/day double duration when cast) (+1 CL)
+- *Resist Energy*
