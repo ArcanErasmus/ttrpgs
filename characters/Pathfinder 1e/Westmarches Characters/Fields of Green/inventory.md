@@ -18,9 +18,9 @@
 |----------------------------------|        |--------------------------------
 | **Weapons/Shields**              |        | Includes ammo, related items
 |----------------------------------|        |--------------------------------
-| Quarterstaff                     |   4    |
-| Crossbow, Light                  |   4    |
 | Bolts (19)                       |   2    |
+| Crossbow, Light                  |   4    |
+| Quarterstaff                     |   4    |
 |----------------------------------|        |--------------------------------
 | **General**                      |        | Non-consumable catch-all
 |----------------------------------|        |--------------------------------
@@ -29,12 +29,16 @@
 |----------------------------------|        |--------------------------------
 | **Tools**                        |        |
 |----------------------------------|        |--------------------------------
-| Spellbook                        |   3    | "A Scribe's Lot"
 | Book Lariat                      |   0.5  | 10ft cord, recover spellbook as standard
+| Spellbook                        |   3    | "A Scribe's Lot"
 |----------------------------------|        |--------------------------------
 | **Alchemical Reagents**          |        | Effects when used as spell component
 |----------------------------------|        |--------------------------------
-| Saltpeter (0)                    |        | [fire]; +1 fire damage
+| Brimstone (0x2 doses)            |        | [acid]; +1 acid damage
+| Myrrh (0x4 doses)                |        | abjuration; +1 CL for CL/dispel checks
+| Saltpeter (0x1 doses)            |        | [fire]; +1 fire damage
+| Spirit of Wine (0x6 doses)       |        | (calling/summoning); +1 CL duration
+| Urea (0x4 doses)                 |        | [cold]; +1 CL effect
 |----------------------------------|        |--------------------------------
 | **Misc/Loot**                    |        |
 |----------------------------------|        |--------------------------------
