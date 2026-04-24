@@ -131,11 +131,15 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - +2 Natural Armor
 - Low-light vision
 
-### Seed - Martial Recollection (Ex)
+### Natural Magic (Sp)
+- Spell-like abilities, each 1/day: *detect poison*, *goodberry*, *purify food and drink*
+- CL at your level, DC Cha-based
+
+### Seed (Ex)
 - Full-rd action, spit out a seed and gain a negative level
 - If seed is planted in a fertile location and undisturbed, it will sprout in 2d6 days
-- Seed sprouts into a duplicate of the ghoran, and the old one dies
-- You can reallocate all your combat feats when the seed sprouts
+- Seed sprouts into a duplicate of the ghoran, and the old one dies, replacing your character
+- You can reallocate all your skill ranks when the seed sprouts
 
 ### Occult Scion
 - Gain Psychic Sensitivity bonus feat

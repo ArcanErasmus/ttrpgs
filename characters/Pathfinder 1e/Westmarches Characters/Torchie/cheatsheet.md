@@ -35,6 +35,11 @@
     - Extra attack with off-hand weapon whenever full-attack action
     - All attacks during this action at -2 (-4 if off-hand not light)
 
+## Spell-Like Abilities
+- *Detect Poison*
+- *Goodberry*
+- *Purify Food and Drink*
+
 ## Spells (Cleric List) - DC: 10 + Wis + spell lvl, CL 4
 - Concentration: CL + Wis
 - https://www.d20pfsrd.com/magic/spell-lists-and-domains/spell-lists-cleric
