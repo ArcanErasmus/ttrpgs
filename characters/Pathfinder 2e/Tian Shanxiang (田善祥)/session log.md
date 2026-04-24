@@ -1,7 +1,30 @@
 # Session log
-- TODO: Scene with Panax, we have returned to the estate from the bridge fight, and the rescuing of kids. Panax wants to see Shanxiang's collection because there's something he's after, and also he's been very flirty with Shanxiang. She has asked him to help her out of her armor, and honestly they both need a bath, so things will probably happen between them unless she shuts him down.
+### Session 27?future - 2026-04-30
+### Session 26 - 2026-04-23
+- Options for where to go
+    - Left: Sanmi household and abandoned house behind that
+    - Right: Bathhouse that the kappa were headed towards
+- We head left, towards Treesparrow's Rest, the grocery store
+    - Run by the Sanmi family, live in one of the attached households
+    - Have been a part of the village for many generations
+- The small houses look ransacked, with drunken Jinkin trashing the places
+    - First attached house has two Jinkin, we kill them
+    - +13 XP
+    - The second building has more, they are alerted from the fight, but we smash through them easily
+    - +66 XP
+- Talking with Sanmi Yuli and Hu Lelong afterwards
+    - Lelong wants to take a necklace to pawn to pay for an elopement
+    - Yuli finally remembers her mom exists and runs out back, we follow
+    - In a small storage building is the rest of the Sanmi family
+    - They were told to wait until the "Grey Butcher" returns
+- We hear a crash from the store
+    - Nadoya gives me a crying angel pendant as thanks for the rescue before we run off to the main building
+        - Crying Angel Pendant
+    - The grocery store is in good condition aside from the two smashed windows (one of which is Kumiho's fault)
+        - Shop was being run by a Jinkin, was doodling in the ledger
+    - Yuli takes the chance to run off with Lelong, Nadoya is heartbroken
+XP: 254/1000
 
-### Session 26?future - 2026-04-23
 ### Session 25 - 2026-04-02
 - We enter the guardhouse
     - The front office looks like it has been ransacked
