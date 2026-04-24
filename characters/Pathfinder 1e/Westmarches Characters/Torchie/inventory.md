@@ -1,4 +1,4 @@
-# ?'s Inventory
+# Dayflower's Inventory
 ## Item List
 | Name                                 | Weight | Notes
 |--------------------------------------|        |--------------------------------
@@ -39,9 +39,9 @@
 | **Misc/Loot**                        |        |
 |--------------------------------------|        |--------------------------------
 |--------------------------------------|        |--------------------------------
-| **Coins**                            |   0.26 | $94.0; $0 valuables
+| **Coins**                            |   0.24 | $84.0; $0 valuables
 |--------------------------------------|--------|--------------------------------
-| **Total**                            |  66.26 | Light Load
+| **Total**                            |  66.24 | Light Load
 |                                      |        |
 
 ### Gear Descriptions
@@ -80,8 +80,8 @@
   16 - Warpriest's Kit
   50 - Retraining (feat, Psychic Sensitivity -> TWF)
   50 - Alchemical Reagent (Gold) x10
+  84 - `Cash on hand`
   90 - Retraining (hp, lvl 3 + 1)
-  94 - `Cash on hand`
  100 - Holy Symbol Tattoo (back of hand)
  150 - Retraining (feat, Weapon Focus (light mace) -> (improvised weapons))
  150 - *Ioun Torch* x2

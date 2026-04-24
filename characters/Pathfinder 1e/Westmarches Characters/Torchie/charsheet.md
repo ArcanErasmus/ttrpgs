@@ -1,10 +1,9 @@
-# name, pronouns
+# Dayflower Plight, She/Her
 ## LG, Ghoran, Warpriest 4
-- Archetypes: ?
 - Deity: Lathander, Brotherhood of the Glorious Sun
     - https://forgottenrealms.fandom.com/wiki/Lathander
     - https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_Glorious_Sun
-- height, weight, age, hair, eyes
+- height, weight, 19 yo, hair, eyes
 - Casual appearance description
 - Birth location and date
 - Favored class: Warpriest

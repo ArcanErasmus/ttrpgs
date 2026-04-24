@@ -1,4 +1,4 @@
-# ?'s Class Features
+# Dayflower's Class Features
 ## Warpriest
 ### Spellcasting (Divine)
 - Prepared 6-level caster, Cleric list (spells of 7 or higher lvl not considered on list)

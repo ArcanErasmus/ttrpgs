@@ -1,4 +1,4 @@
-# ?'s Notes https://www.reddit.com/r/Pathfinder_RPG/comments/q161pj/max_the_min_monday_torches_as_weapons/
+# Dayflower's Notes https://www.reddit.com/r/Pathfinder_RPG/comments/q161pj/max_the_min_monday_torches_as_weapons/
 ## interesting things to look into
 ### classes/presige classes
 

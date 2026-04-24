@@ -1,4 +1,4 @@
-# ?'s Journal
+# Dayflower's Journal
 ## Party
 - player
     - character desc

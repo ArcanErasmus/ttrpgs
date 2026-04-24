@@ -1,4 +1,4 @@
-# ?'s Abilities Cheat-sheet
+# Dayflower's Abilities Cheat-sheet
 ## Weapons
 | Weapon                | Atk    | Damage               | Crit     | Range | Notes
 |-----------------------|--------|----------------------|----------|-------|------------
