@@ -130,6 +130,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - Medium, 30ft speed
 - +2 Natural Armor
 - Low-light vision
+- Does not sleep
 
 ### Natural Magic (Sp)
 - Spell-like abilities, each 1/day: *detect poison*, *goodberry*, *purify food and drink*

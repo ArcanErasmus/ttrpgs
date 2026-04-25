@@ -28,7 +28,7 @@
 |--------------------------------------|        |--------------------------------
 | **Tools**                            |        |
 |--------------------------------------|        |--------------------------------
-| Kit, Warpriest's                     |  31    | see below
+| Kit, Warpriest's                     |  16    | see below
 |--------------------------------------|        |--------------------------------
 | **Alchemical Reagents**              |        | Effects when used as spell component
 |--------------------------------------|        |--------------------------------
@@ -41,13 +41,12 @@
 |--------------------------------------|        |--------------------------------
 | **Coins**                            |   0.24 | $84.0; $0 valuables
 |--------------------------------------|--------|--------------------------------
-| **Total**                            |  66.24 | Light Load
+| **Total**                            |  51.24 | Light Load
 |                                      |        |
 
 ### Gear Descriptions
 #### Warpriest's kit
 - Backpack
-- Bedroll
 - Belt pouch
 - Cheap holy text
 - Flint and steel
@@ -56,7 +55,6 @@
 - Rope
 - Soap
 - Spell component pouch
-- Torches (10)
 - Trail rations (5 days)
 - Waterskin
 - Wooden holy symbol
