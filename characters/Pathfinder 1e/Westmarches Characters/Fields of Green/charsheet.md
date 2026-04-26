@@ -2,7 +2,7 @@
 ## NG, Android, Arcanist 4
 - Archetypes: None
     - https://docs.google.com/document/d/1esXAlfclC1lDyJ2pOWzfYPkHs8ajQ79UV5SdvjYYMsY
-- Deity: ?
+- Deity: ?  
 - 6'3", 170lbs, 9yo, hair, eyes
 - Casual appearance description
 - Birth location and date
@@ -41,7 +41,7 @@ Stat Rolls:
 | Stat | Max     | Cur  | Temp
 |------|---------|------|------
 | HP   |      36 |   36 | 0, 0 NL
-| Hero |       3 |    3 | 0
+| Hero |       5 |    3 | 0
 |------|---------|------|------
 HP rolls (d6): [6], 3+3, 5+1, 4+2
 AC breakdown: +5 Dex, +4 Armor

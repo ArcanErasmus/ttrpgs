@@ -15,12 +15,14 @@
 |----------------------------------|        |--------------------------------
 | *Headband of Int +2*             |   1    |
 | *Ring of the Grasping Grave*     |        |
+| *Pendant of the Blood Scarab*    |        |
 |----------------------------------|        |--------------------------------
 | **Weapons/Shields**              |        | Includes ammo, related items
 |----------------------------------|        |--------------------------------
 | Bolts (19)                       |   2    |
 | Crossbow, Light                  |   4    |
-| Quarterstaff                     |   4    |
+<!-- | Quarterstaff                     |   4    | -->
+| Spear, Mwk                       |   6    |
 |----------------------------------|        |--------------------------------
 | **General**                      |        | Non-consumable catch-all
 |----------------------------------|        |--------------------------------
@@ -45,7 +47,7 @@
 |----------------------------------|        |--------------------------------
 | **Coins**                        |   0.24 | $215.7; $0 valuables
 |----------------------------------|--------|--------------------------------
-| **Total**                        |  33.74 | Light Load
+| **Total**                        |  35.74 | Light Load
 |                                  |        |
 
 ### Gear Descriptions
@@ -64,6 +66,10 @@
 #### *Ring of the Grasping Grave*
 - https://www.d20pfsrd.com/magic-items/rings/ring-of-the-grasping-grave
 - melee touch attack, disable an undead's ability to heal from negative energy for 1d4 rounds, no save
+
+#### *Pendant of the Blood Scarab*
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pendant-of-the-blood-scarab
+- 1/day immediate action when threaten crit, take 1d6 damage to auto-confirm
 
 ### Spellbooks
 #### "A Scribe's Lot" - 60/100
@@ -136,7 +142,7 @@
 - Headband  - *Headband of Vast Intelligence +2*
 - Eyes      -
 - Shoulders -
-- Neck      -
+- Neck      - *Pendant of the Blood Scarab*
 - Chest     -
 - Body      -
 - Armor     -

@@ -19,7 +19,54 @@
 - Caoimhe
     - Inre, she/her, armored knight on a big bird
 
+## Party Loot Pool
+- *Guiding Scarab* https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/guiding-scarab
+    - Affects not four but (whole party, probably seven) total allies
+- Large pile of *Everburning Torches*
+- Funeral masks
+- Bunch of gems
+- We get paid from the guild
+- Mummy rot opals
+
 ## Weekly Log
+### Session 4 - 2026-04-25 (Fields of Green)
+- Naptime, we pile up on the bench of quick rest and get our spells back
+    - We are now about 11hrs into the party's 24hrs of *delay disease*
+- Entering the post-elemental room to the north
+    - Massive upright sarcophagus of an owl (sacred owl of anubis)
+        - Detects as magic (faint evocation), and lawful
+        - Hinges open, contains a sarcophagus of an ostritch of ma'at (justice, law, order, and truth)
+            - Hinges open, contains an even more ornate sarcophagus of a falcon (horus)
+                - Inside, sarcophagus of a lioness (sekhmet), holding khohesh
+                    - Inside, sarcophagus of an ibis (thoth), has a pen (the pen of Merneith)
+                        - Contains a sarcophagus of a green person (osiris)
+                            - Final sarcophagus, extremely ornate likeness of merneith, person-sized
+                                - Scrungled elf and an angelic figure falls out
+    - Offerings to guide the queen to her afterlife
+        - Chest of tons of jewelry (magic)
+            - Seven pendants, scarab set in gold, faint divination
+                - *Pendant of the Blood Scarab* https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pendant-of-the-blood-scarab/
+        - Sealed jars of offerings of food/beverage
+    - Turns out the sarcophagi were infused with some preservation magic, Redhand is particularly aware from his family background
+- Back to the east side room with the 8 sarcophagi (4 auras)
+    - Middle one has overwhelming aura, other 3 auras are strong
+    - Two of the edge sarcophagi have a crack in them from some damage over time
+        - Nodes throughout the room connect all 8 in some sort of interlinked trap, but those edge two are disconnected from the damage
+    - Opening the edge dud, has a preserved body of crocodile, inert
+    - Opening the corner dud, has a bunch of mummified birds, inert (owls, falcons, ibises, one ostritch)
+        - As we open these, canopic jars shift to look like bird heads and crocodile heads
+- Opening the center sarcophagus makes the 4 aura-having ones all pop open
+    - Efreeti and 3 mummies (one of which is weird), and a couple mummified animals (fox, baboon)
+- Find a burned box in the central sarcophagus
+    - Silver box, symmetrical filligree, seen represented in sekhmet as healer
+- We put it on the pedestal
+    - Floor starts gently glowing, looks like a teleportation circle, detects as good
+- Everyone who enters teleports to a small hidden room in the pyramid
+    - Murals all over the walls, motif of healing, of people reburying the dead
+    - Teleport circle on the ceiling (10ft up) of the room
+- Going through the teleporter both sent us all out, and cured us of mummy rot yippee
+    - 
+
 ### Session 3 - 2026-04-18 (Fields of Green)
 - Around ccw to the south side room
     - Murals depicting great historical events of the empire

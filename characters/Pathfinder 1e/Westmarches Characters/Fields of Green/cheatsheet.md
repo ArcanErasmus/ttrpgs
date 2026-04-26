@@ -3,7 +3,8 @@
 | Weapon           | Atk    | Damage           | Crit     | Range | Notes
 |------------------|--------|------------------|----------|-------|------------
 | Crossbow, Light  |    +6  | 1d8 (P)          | 19-20/x2 | 80 ft | move reload
-| Quarterstaff     |    +2  | 1d6/1d6 (B)      |    20/x2 |       | double
+<!-- | Quarterstaff     |    +2  | 1d6/1d6 (B)      |    20/x2 |       | double -->
+| Mwk Spear        |    +3  | 1d8 (P)          |    20/x3 | 20 ft | brace
 |------------------|--------|------------------|----------|-------|------------
 
 ## Active Spells/Effects
@@ -11,7 +12,7 @@
 
 ## Combat Options
 ### Arcanist Pool
-- **Points**; 7 max: OOOOO OO
+- **Points**; 7 max: OOOOO xx
     - Refill 5 points per day
 - Free action, 1 point for +1 DC or +1 CL of a spell
 - As part of a move or withdraw, 1 point to teleport
@@ -28,7 +29,7 @@
 - Full-action (provokes), 1 point to swap prepared spell for another known of same lvl
 
 ### Inspiring Prediction
-- **Daily**; 5 max: OOOOO
+- **Daily**; 5 max: Oxxxx
 - Swift action, grant every ally in 50ft who can hear you a +4 luck bonus to next atk/save/skill
 
 ### Nanite Surge
@@ -42,6 +43,7 @@
 - Ranges: 35/140/560 ft
 
 ### **0th**: Prepare 6, No limit
+- [EMPTY]
 - *Acid Splash*
 - *Arcane Mark*
 - *Bleed*
@@ -54,7 +56,7 @@
 - `*Disrupt Undead*`
 - *Flare*
 - *Ghost Sound*
-- `*Grasp*`
+- *Grasp*
 - *Haunted Fey Aspect*
 - *Light*
 - `*Mage Hand*`
@@ -72,28 +74,28 @@
 - *Touch of Fatigue*
 - *Vacuous Vessel*
 
-### **1st**: Prepare 3(+1), 6/day; OOOOOO
+### **1st**: Prepare 3(+1), 6/day; OOOOxx
 - `*Burning Hands*`
 - *Detect Undead*
-- *Enlarge Person*
+- `*Enlarge Person*`
 - *Feather Fall*
 - *Gravity Bow*
 - *Grease*
 - *Identify*
 - `*Mage Armor*`
 - *Magic Missile*
-- `*Protection from Evil*`
+- *Protection from Evil*
 - *Shield*
 - *Sleep*
 - `*Snowball*`
 - *Summon Monster I*
 
-### **2nd**: Prepare 1, 4/day; OOOO
+### **2nd**: Prepare 1, 4/day; OOxx
 - *Aggressive Thundercloud*
 - *Command Undead*
-- *Flaming Sphere*
+- `*Flaming Sphere*`
 <!-- - *Life Pact* -->
-- `*Make Whole*`
+- *Make Whole*
 <!-- - *Protection from Evil, Communal* -->
 <!-- - *See Invisibility* -->
 <!-- - *Summon Monster II* -->
