@@ -18,6 +18,8 @@
         - Exactly how you expect her to act
 - Caoimhe
     - Inre, she/her, armored knight on a big bird
+- Talia
+    - Ilsivel, she/her, half-elf tyr priestess
 
 ## Party Loot Pool
 - *Guiding Scarab* https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/guiding-scarab
@@ -26,7 +28,7 @@
 - Funeral masks
 - Bunch of gems
 - We get paid from the guild
-- Mummy rot opals
+<!-- - Mummy rot opals -->
 
 ## Weekly Log
 ### Session 4 - 2026-04-25 (Fields of Green)
