@@ -53,11 +53,11 @@
 
 ### **1st**: Prepare 3(+1); *Cure Light Wounds*
 - *Bless*
-- *Bless*
 - *Protection from Evil*
 - *Shield of Faith*
+- [EMPTY]
 <!-- - *Know the Enemy* -->
 
 ### **2nd**: Prepare 1+1; *Cure Moderate Wounds*
 - *Bull's Strength* (1/day double duration when cast) (+1 CL)
-- *Resist Energy*
+- [EMPTY]
