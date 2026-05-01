@@ -11,6 +11,10 @@ Shadow Hands https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing---3
 ### Lvl 2 options
 Retrieve Item https://www.d20pfsrd.com/magic/all-spells/r/retrieve-item
 Spell Gauge https://www.d20pfsrd.com/magic/all-spells/s/spell-gauge
+Defoliate https://www.d20pfsrd.com/magic/all-spells/d/defoliate
+Alter Summoned Monster https://www.d20pfsrd.com/magic/all-spells/a/alter-summoned-monster
+    + Mount, Communal https://www.d20pfsrd.com/magic/all-spells/m/mount
+    (+ Heighten Spell to raise the level of Communal Mount)
 
 ## interesting things to look into
 ### classes/presige classes
