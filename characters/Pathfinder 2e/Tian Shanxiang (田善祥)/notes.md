@@ -57,20 +57,24 @@
 - Heh Shan-Bao, male human governor
     - *Opinion: I approve of him far more than the previous ones. We speak regularly, but it's more of a business relationship. I see him as my boss, as he controls the stipend that I run my daycare on. I worry that ingratiating myself too much could lead to the townsfolk turning against me if his rule becomes tyrannical.*
     - Appointed administrator of Willowshore
-- Hu Ban-niang, female human retired guard captain
+    - **Haven't seen hide nor hair of him during all this.**
+- Hu Ban-Niang, female human retired guard captain
     - *Opinion: We don't interact, and I keep it that way. She is not a good woman, and I look forward to her passing. She's merely a more refined bandit.*
     - Known as "Granny" Hu
     - Local crime boss and blackmailer
+    - **Protects the town when the going gets tough, but very "me and mine" about it. Lets her grudge against Matsuki compromise her decision-making, demands quid pro quo even during a disaster.**
 - Yong Wu-Xiu, female kitsune blacksmith
     - *Opinion: We talk sometimes! She's not much further than the shrine to Abadar, and I occasionally send gifts with Xiuhua.*
     - Ironworks inherited from father about a decade ago
     - `Xiuhua` helps her out around the forge frequently
     - `Shanxiang` knows that she's an ex-adventurer. While her father ran the smithy, she used to travel extensively. She is a Fighter, and she used to travel with her partymember and friend Elizeth (the Cleric).
-- Kum Soon-chong, male human veterinarian
+    - **A good balance to Elizeth, keeps her in check.**
+    - **At Matsuki's**
+- Kum Soon-Chong, male human veterinarian
     - *Opinion: I've taken the kids by on more than one occasion.*
     - Affable attitude, compassion for animals
     - Father of Meng-sung
-- Kum Meng-sung, male human veterinarian
+- Kum Meng-Sung, male human veterinarian
     - *Opinion: What a cute tyke! Obviously gets his big heart from his father, hopefully he grows up just as sweet.*
     - Affable attitude, compassion for animals
     - Teenager
@@ -79,15 +83,19 @@
     - Former pilgrim who frequented the Tan Sugi monastery
     - Settled here after monastery's collapse
     - `Xiuhua` spends much of her time here learning alchemy
+    - **At Matsuki's**
 - "Old" Matsuki Shou, male human carpenter
     - *Opinion: It's amusing how young the "elders" are. Do people call me "Old Miss Xiang" behind my back? He's a real go getter, though a bit of a stick in the mud traditionalist. I never got to know him well when he was younger, and now that I'm not nervous about being an 'outsider', his time is running out.*
     - Spokesman for the Southbank faction
     - Former apprentice of the head carpenter of the Tan Sugi monastery
     - Led his family in constructing a large estate
+    - **A kind man, very protective of everyone. Stepped up for the defense, and I respect it.**
 - Mother Otis, genderfluid half-elf innkeeper
-    - *Opinion: Great sense of humor. I'm still a little leery of to visit her too often, lest parents think I'm a bad influence on the kids. I once threatened to raise a stink on his behalf, but luckily it didn't come to that.*
+    - *Opinion: Great sense of humor. I'm still a little leery of visiting her too often, lest parents think I'm a bad influence on the kids. I once threatened to raise a stink on his behalf, but luckily it didn't come to that.*
     - Runs the Thrice-Blessed Inn
-- Choe Chung-hu, male human miller
+    - **Offered the use of his inn to help house and protect survivors. I should spend more time with her...**
+    - **At Matsuki's**
+- Choe Chung-Hu, male human miller
     - *Opinion: A sweetheart. I'm more than happy to be a reliable and easy customer, and offer generous barter where I can afford it. The kids love to come along, because buying grain means it's bread baking day.*
     - Leader of the millers
     - Well-liked, keeps morale high and jobs stable
@@ -105,7 +113,9 @@
     - Visited Willowshore and Tan Sugi monastery as a child
     - Plays flute in the graveyard often to soothe recently-buried spirits
     - Raised `Bulan` at the temple
-    - `Shanxiang` knows that she's an ex-adventurer. She used to travel with her partymember and friend Wu-Xiu (the Fighter).
+    - `Shanxiang` knows that she's an ex-adventurer. She used to travel with her partymember and friend Wu-Xiu (the Fighter)
+    - `Mikazuki`'s wife, and source of endless angst
+    - - **At Matsuki's**
 - Kwaka Myna, male tengu guild leader
     - *Opinion: Politically, I am forced by my dependence on a stipend to not visibly support the laborers' plight. But I can be a good and reliable customer, and bring occasional gifts. Kwaka especially has my respect for keeping a level head and an open heart. And besides, I love to chat about books!*
     - Senior bookmaker
@@ -114,16 +124,21 @@
 - Zheng Peng, male human watch officer
     - *Opinion: I still have an instinctual aversion to the watch, doubly so to imperial troops. I can be polite, but I keep my distance.*
     - Commands the imperial barracks
+    - **Last seen heading towards the Lin estate from the barracks, along with a few guards**
 - Kazuma Oono, male kitsune director
     - *Opinion: Theater! Love some good entertainment. I haven't exactly connected with him personally though.*
     - Runs the Seven-Colored Songbird theater
 - Nadoya Sanmi, female human family matriarch
     - *Opinion: She is so much better at bargaining, I suspect the only reason I don't get overcharged is because of the kids that depend on me, like her grandkids. She's got a really nice voice.*
     - Runs Treesparrow's Rest, a grocery store
+    - Has a daughter, Yuli, who she is distraught over for eloping with Hu Ban-niang's (grand?)child Lelong
+    - **Last seen heading towards the Lin estate from her grocery store, along with her family**
 - De-Ge Hua, male halfling bathhouse owner
     - *Opinion: It's nice that we finally have a bathhouse. I don't know much about him.*
     - Runs the Happy Kappa bathhouse
     - Well known for his obsession with cleanliness
+    - **Very scared, not much for socializing with spirits**
+    - **Traveling with us to Matsuki's**
 - Luo Xi Yang, female human lawyer
     - *Opinion: She really helped make sure that Xiuhua and I could have proper ownership of the estate, but it was a contained transactional connection.*
     - Considers the rural legal issues of Willowshore massively more complex than what she encountered previously in Sze
@@ -138,10 +153,12 @@
     - From Karahai (nearest settlement to the east), arrived about five years ago with his father
     - Humbled by skills of local blacksmiths, named shop "Second Best" to remind himself of it
     - Knowledge of machinery led to being asked to take over maintenance of the dam
+    - **At Hu's**
 - Damihansig Mababangloob, male human doctor
     - *Opinion: We talk a lot! He's close by, and it's nice to have someone to talk advanced medicine with. I've been studying surgical practice from him in my off time, and he's leant me multiple books to read. A very generous man. A very pleasing face to look at, too.*
     - Known locally as "Dami", is charitable
-- Kim Gu-won, male human cleric
+    - **At Hu's**
+- Kim Gu-Won, male human cleric
     - *Opinion: I don't head down to the Exchange very often, so I don't know what he's like. I don't hear complaints from the townsfolk, though.*
     - Local Kofusachi priest
     - Handpicked by governor Heh Shan-Bao to take the post of Exchange Manager
@@ -156,11 +173,13 @@
     - *Opinion: I do not like those who traffic in poisons and drugs. I refuse to get a tattoo from someone so disreputable! After buying mushrooms there once, I've never been back. I wish she stuck to honest trade, and I'm certainly never bringing the kids here.*
     - Elderly but spry
     - Runs The Mushroom House with explicit permission from Granny Hu
+    - **At Hu's**
 - Mountain Summit Grass, agender leshy teamaker
     - *Opinion: A very fun person! I am downright addicted to their tea, and can never get enough of my blend. I've spent more than a few afternoons there just venting about my day over a cup of tea.*
     - Current leader of the band of teamaker leshies in town
     - Cultivates connections with individual customers
     - `Xiuhua` shares their fascination with tea
+    - **At Lin estate**
 
 ## Connections with townsfolk
 - Jubei, wizard (her adoptive aunt)
@@ -416,7 +435,7 @@ Deciding she needed to leave town, where she was increasingly disliked and usele
 
 After jumping a wagon that included a young child, Sanniang's buried moral qualms resurfaced with a vengance. No longer were her targets merely faceless wealthy travelers best parted from their money. One of her companions killed the child without hesitation, and Sanniang quietly split from the group in the night, in 6989 IC.
 
-After struggling through various unskilled labor jobs, Sanniang found herself in a similar line of work to before. An adventuring group, with the key difference being that they accepted only honest and law-abiding jobs. Sanniang would stay with this group for several years, from 7001 to 7006 IC, until her dissatisfaction with the career grew too much to bear. Their regular tasks were monster hunting and ruin scavenging, neither of which made any lasting impact on the world. And further, injuries were mounting. She had seen multiple deaths and many retired from lingering damage. It came to a head when she realized that she would be likely to reach the end of her first century at the current rate. After bringing up her concerns to the group, they parted ways amicably.
+After struggling through various unskilled labor jobs, Sanniang found herself in a similar line of work to before. An adventuring group, with the key difference being that they accepted only honest and law-abiding jobs. Sanniang would stay with this group for several years, from 7001 to 7006 IC, until her dissatisfaction with the career grew too much to bear. Their regular tasks were monster hunting and ruin scavenging, neither of which made any lasting impact on the world. And further, injuries were mounting. She had seen multiple deaths and many retired from lingering damage. It came to a head when she realized that she would be lucky to reach the end of her first century at the current rate. After bringing up her concerns to the group, they parted ways amicably.
 
 Feeling disheartened, Sanniang returned home to see her mother. There, she found that her mother had been flourishing, having discovered a knack for plant magic. With her farming mostly taking care of itself, Sanniang's mother had become a popular social figure around town. She had immersed herself in multiple hobbies and social circles, and was a minor political figure. Their reunion was heartfelt, with her mother very happy to see that Sanniang was still alive. However, though her mother tried to dote on her, there was a large disconnect between them. Sanniang immersed herself in her studies, but struggled to connect to the different person her mother now was, and couldn't make meaningful inroads with her social life. With her feet back on the ground and a growing ennui, Sanniang departed from home in 7026 IC. She would remain on much closer terms with her mother, and send letters regularly from towns she passed through.
 
@@ -424,7 +443,7 @@ Sanniang bounced between towns across Shenmen for a few decades, looking for her
 
 One day in 7048 IC, she heard about a monastery that had been erected some seasons past, deep in the Specterwood. It was a couple decades old at this point, and Sanniang further dithered on whether to uproot what stability she had achieved in order to strike out again. When Sanniang did finally make the journey in 7055 IC, she feared that her worries had come to pass. The founding monk had passed the previous year, and the monks that had joined the monastery because of her were drifting away. However, there was still a small settlement nearby, which had been founded to support the monastery. Despite the monks leaving, the settlement showed no signs of breaking apart. So it was that Sanniang decided to stay and work there for some years, to think on her future and rebuild her travel fund.
 
-A fresh start in a new town, able to make a difference from its early days, felt like the time to redefine herself. So she took on a new given name, Tian Shanxiang (田善祥, "humane and auspicious"). Although it took many years to shake the feeling of being an outsider, the townsfolk welcomed her warmly. Shanxiang saw many pass through town over the years, but remained a single subsistence farmer. Contenting herself to follow in her mother's footsteps, she didn't see much significance when overworked parents started asking her for the occasional day of babysitting their child. Shanxiang took to the task with surprising ease, and it strongly resonated with her. That she could overcome her bloody past by giving back. That she could balance the terrible memory of being an accomplice to child murder, but putting her all into caring for others' children.
+A fresh start in a new town, able to make a difference from its early days, felt like the time to redefine herself. So she took on a new given name, Tian Shanxiang (田善祥, "humane and auspicious"). Although it took many years to shake the feeling of being an outsider, the townsfolk welcomed her warmly. Shanxiang saw many pass through town over the years, but remained a simple subsistence farmer. Contenting herself to follow in her mother's footsteps, she didn't see much significance when overworked parents started asking her for the occasional day of babysitting their child. Shanxiang took to the task with surprising ease, and it strongly resonated with her. That she could overcome her bloody past by giving back. That she could balance the terrible memory of being an accomplice to child murder, but putting her all into caring for others' children.
 
 It was around this point that Shanxiang found her faith. She had wanted, for some years now, to pray to Abadar. But his hard taboo against banditry scared her, as she feared she would be struck down for the blood on her hands. Finally ready to face her misdeeds head on, she begged Abadar for forgiveness. His response was spread out over the rest of the year, as more and more parents would ask her to take care of their children for a day, to take a burden off them. The message was clear: if Shanxiang wanted atonement, she could work for it.
 

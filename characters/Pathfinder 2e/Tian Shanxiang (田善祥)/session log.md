@@ -1,5 +1,33 @@
 # Session log
-### Session 27?future - 2026-04-30
+### Session 28?future - 2026-05-06
+- The fight continues!
+
+### Session 27 - 2026-04-30
+- Mikazuki and the doll that won't go away
+    - She pulls it out and drops it on the ground
+    - Kumiho tries to burn it with alc fire
+    - Mikazuki falls limp on the ground, yet still breathing, and smiling
+        - Pulse is elevated, eyes are open and staring straight ahead
+    - Bulan wants to bring her to Granny Hu, everyone else says to take her to Elizeth
+- Noise from the bathhouse, we postpone the Mika matter to check it out
+    - Noise from the locker rooms
+    - Turns out to be De-Ge Hua, the bathhouse owner
+    - He's scared of the Kappa
+- We check the bathhouse
+    - The washroom, unlike what Hua claimed, is not very out of sorts at all
+    - Out back are five Kappa
+    - They don't have any useful info for us, but do request cucumbers
+    - Shanxiang asks Kumiho to grab some from the grocery store
+    - For bring them cucumbers, she is given a pearl
+    - +60 XP
+- Outside, Lo Yin tries to copy Bulan's healing (to no effect)
+- The private bath looks unbothered
+    - Aspen spots a discarded set of lingerie and grabs it
+- We pack Mikazuki onto Péngpéng's back and head towards the Matsuki estate with Hua in tow
+    - Interruption! It's the Grey Butcher and a bunch of swarms of stuff (2 of cutlery and 1 of rocks that have teeth, eugh)
+    - We take down both cutlery swarms, but then the named Jinkin sisters from earlier show up
+XP: 314/1000
+
 ### Session 26 - 2026-04-23
 - Options for where to go
     - Left: Sanmi household and abandoned house behind that
@@ -16,13 +44,14 @@
     - Lelong wants to take a necklace to pawn to pay for an elopement
     - Yuli finally remembers her mom exists and runs out back, we follow
     - In a small storage building is the rest of the Sanmi family
-    - They were told to wait until the "Grey Butcher" returns
+    - They were told to wait until the "Grey Butcher" returns (described as looking like a floating bloody butcher's apron)
 - We hear a crash from the store
     - Nadoya gives me a crying angel pendant as thanks for the rescue before we run off to the main building
         - Crying Angel Pendant
     - The grocery store is in good condition aside from the two smashed windows (one of which is Kumiho's fault)
         - Shop was being run by a Jinkin, was doodling in the ledger
     - Yuli takes the chance to run off with Lelong, Nadoya is heartbroken
+    - We told Nadoya to take her family to the Lin/Tian estate
 XP: 254/1000
 
 ### Session 25 - 2026-04-02
@@ -153,10 +182,11 @@ XP: 785/1000
 - Sneaking into town
     - Spot a trio of turtle-looking people, talking jovially about food in a stand
     - They see us, and respond positively to a polite wave
-- First contact with... turtle-people?
+- First contact with... turtle-people? (Kappa!)
     - They are friendly, if simple, but offer some very valuable information
     - They claim that the town has been moved to the spirit world, and thus is now available for spirits like them to travel to
     - They claim that we brought the faceless with us. It's possible this is true, or just posited because of corpses rising as them
+    - They are headed towards the bathhouse
 XP: 697/1000
 
 ### Session 18 - 2025-02-18
