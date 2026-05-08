@@ -1,6 +1,13 @@
 # Session log
-### Session 28?future - 2026-05-06
+### Session 29?future - 2026-05-13
+### Session 28 - 2026-05-06
 - The fight continues!
+    - We cut down the Grey Butcher
+    - More silverware swarms approach
+    - The Jinkin sisters flee
+    - We blow up the silverware
+    - +160 XP
+XP: 474/1000
 
 ### Session 27 - 2026-04-30
 - Mikazuki and the doll that won't go away
