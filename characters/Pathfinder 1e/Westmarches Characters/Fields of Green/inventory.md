@@ -14,7 +14,6 @@
 | **Slotted Magic Items**          |        | See slots below
 |----------------------------------|        |--------------------------------
 | *Headband of Int +2*             |   1    |
-| *Ring of the Grasping Grave*     |        |
 | *Pendant of the Blood Scarab*    |        |
 |----------------------------------|        |--------------------------------
 | **Weapons/Shields**              |        | Includes ammo, related items
@@ -44,9 +43,9 @@
 | **Misc/Loot**                    |        |
 |----------------------------------|        |--------------------------------
 |----------------------------------|        |--------------------------------
-| **Coins**                        |   0.24 | $215.7; $0 valuables
+| **Coins**                        |   0.6  | $1723.98; $0 valuables
 |----------------------------------|--------|--------------------------------
-| **Total**                        |  35.74 | Light Load
+| **Total**                        |  36.1  | Light Load (Up to 38)
 |                                  |        |
 
 ### Gear Descriptions
@@ -61,10 +60,6 @@
 - *Life Pact* (CL 3)
 - *Remove Curse* (CL 5) (divine) (UMD DC 25 to cast)
 - *Remove Disease* (CL 5)
-
-#### *Ring of the Grasping Grave*
-- https://www.d20pfsrd.com/magic-items/rings/ring-of-the-grasping-grave
-- melee touch attack, disable an undead's ability to heal from negative energy for 1d4 rounds, no save
 
 #### *Pendant of the Blood Scarab*
 - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pendant-of-the-blood-scarab
@@ -148,12 +143,9 @@
 - Belt      -
 - Wrists    -
 - Hands     -
-- Ring 1    - *Ring of the Grasping Grave*
+- Ring 1    -
 - Ring 2    -
 - Feet      -
 
 ## Loot pile
-- 6 *everburning torches*
-- fancy mask of Ra
-- mask of (owl?)
-- pouch of coins/gems
+- 

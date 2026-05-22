@@ -5,7 +5,8 @@
 | **Worn Equipment**                   |        | On body only
 |--------------------------------------|        |--------------------------------
 | Holy Symbol Tattoo                   |        | Back of hand
-| Outfit, Explorer's                   |   5    |
+<!-- | Outfit, Explorer's                   |   5    | -->
+| Outfit, Cold Weather                 |   7    | +5 circumstance Fort vs cold weather exposure
 | Tabard                               |   1    | Brotherhood of the Glorious Sun
 |--------------------------------------|        |--------------------------------
 | **Slotted Magic Items**              |        | See slots below
@@ -39,9 +40,9 @@
 | **Misc/Loot**                        |        |
 |--------------------------------------|        |--------------------------------
 |--------------------------------------|        |--------------------------------
-| **Coins**                            |   0.24 | $84.0; $0 valuables
+| **Coins**                            |   0.24 | $76.0; $0 valuables
 |--------------------------------------|--------|--------------------------------
-| **Total**                            |  51.24 | Light Load
+| **Total**                            |  53.24 | Light Load (up to 100)
 |                                      |        |
 
 ### Gear Descriptions
@@ -70,33 +71,6 @@
 - Counts as mwk artisan's tools (+2 circumstance) for most Craft/Profession skills
 - Always counts as improvised weapon when used to fight, no mwk bonus to hit
 
-### Spent (6000 total)
-   0 - Free outfit
-   5 - Tabard
-  10 - Alchemical Reagent (Magnesium) x10
-  15 - Alchemical Reagent (Quicksilver) x15
-  16 - Warpriest's Kit
-  50 - Retraining (feat, Psychic Sensitivity -> TWF)
-  50 - Alchemical Reagent (Gold) x10
-  84 - `Cash on hand`
-  90 - Retraining (hp, lvl 3 + 1)
- 100 - Holy Symbol Tattoo (back of hand)
- 150 - Retraining (feat, Weapon Focus (light mace) -> (improvised weapons))
- 150 - *Ioun Torch* x2
- 200 - Retraining (language, Celestial)
- <!-- 200 - Retraining (language, ?) -->
- <!-- 250 - *Scroll of Enhanced Diplomacy* (CL 20) -->
- <!-- 250 - *Scroll of Grave Words* (CL 20) -->
- 250 - *Traveler's Any-Tool*
- 360 - Retraining (hp, lvl 4 + 3)
- 420 - Retraining (hp, lvl 2 + 7)
- 500 - Founderflame Torch x2
- 500 - *Wayfinder*
-1500 - *Ioun Stone (Opalescent White Pyramid, Cracked) (Improvised Weapons)*
-1550 - *+1 Agile Breastplate*
-=6000
-
-
 ## Carrying Capacity
 | Load      | lbs | Penalties
 |-----------|-----|------------
@@ -124,4 +98,4 @@
 - Feet      -
 
 ## Loot pile
-- 
+- 18gp

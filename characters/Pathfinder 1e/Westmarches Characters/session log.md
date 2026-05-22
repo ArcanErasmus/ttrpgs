@@ -1,25 +1,15 @@
 # Westmarches Session Log
 ## Party
-- Jay
-    - Charles Redhand, he/him, human
-        - Lots of gear and weapons, no notable armor
-        - A pretty chill guy
-- Chas
-    - Alira, she/her, half-elf
-        - Some holy type with a sword and chain shirt
-        - Move fast and break things, can't sit still
-- Sean
-    - Oreivati, he/him, oread
-        - Full armadillo knight with a fake beard below the helm
-        - Almost beardaboo, wannabe dwarf and short like one
-- Casey
-    - Folly, she/her, the fetching fetchling
-        - Tiny scrawny ninja, exactly what you expect her to wear
-        - Exactly how you expect her to act
-- Caoimhe
-    - Inre, she/her, armored knight on a big bird
-- Talia
-    - Ilsivel, she/her, half-elf tyr priestess
+- Jay: Charles Redhand, he/him, human
+    - Lots of gear and weapons, no notable armor; A pretty chill guy
+- Chas: Alira, she/her, half-elf
+    - Some holy type with a sword and chain shirt; Move fast and break things, can't sit still
+- Sean: Oreivati, he/him, oread
+    - Full armadillo knight with a fake beard below the helm; Almost beardaboo, wannabe dwarf and short like one
+- Casey: Folly, she/her, the fetching fetchling
+    - Tiny scrawny ninja, exactly what you expect her to wear; Exactly how you expect her to act
+- Caoimhe: Inre, she/her, armored knight on a big bird
+- Talia: Ilsivel, she/her, half-elf tyr priestess
 
 ## Party Loot Pool
 - *Guiding Scarab* https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/guiding-scarab
@@ -31,6 +21,58 @@
 <!-- - Mummy rot opals -->
 
 ## Weekly Log
+### Session 6?future - 2026-05-16 (Dayflower Plight)
+- TODO: Ambush the orc party
+### Session 5 - 2026-05-09 (Dayflower Plight)
+- THE PARTY
+    - Chas:
+    - Shira:
+    - Jay: Charles Redhand, he/him, human
+        - Lots of gear and weapons, no notable armor; A pretty chill guy
+    - Sean: Oreivati, he/him, gemsoul oread
+        - Full armadillo knight with a fake beard below the helm; Almost beardaboo, wannabe dwarf and short like one
+    - Casey: Plume, she/her, sylph
+        - 
+    - Caoimhe: Inre Macnun, she/her, armored knight on a big bird; Cavalier order of the scepter
+- In the city of Melvaunt
+    - Hired by Lord Woarsten Nanther to retrieve his missing failson, Oriel Nanther
+        - Went missing with a group of noble scions: Argens Bruil, Kalman Leiyraghon, Elaint Marsk, Kara Calaudra
+        - Reward, $10k for the party
+        - Left the city towards the north gate 5 days ago, not seen since
+    - Research
+        - North gate has trade road to Glister
+        - Kalman frequented the Rusty Bucket tavern, often entertained Dorn Crownshield, a dwarven somebody, also had a bunch of horses
+        - Party of cloaked adventurers led by Crownshield left abt once a month
+        - Dorn frequents the Frothy Beard tavern, mercenary gathering place, left 5 days ago boasting he was taking his "younglings" on "their first REAL adventure"
+        - Dorn is a reworned orcslayer
+        - Glister is only human settlement in Thar (region where we are), the lone road to it is unpatrolled
+    - Accosted by some lightly armored loser on leaving the Frothy Beard and his even more loser-y associates
+        - We beat the piss out of them, kill three, two surrender
+        - Knows we were hired by Lord Nanther, presumably opposes retrieving his son (or the associates) for political reasons?
+        - Hired by Lord Leiyraghon to make sure the group does not return
+        - Total loot 18gp from corpses
+    - More Research
+        - Ruling council: Lord Nanther, Lord Leiyraghon, Lord Bruil, Armorers Guildmaster, Weavers Guildmaster, Smiths Guildmaster, and local elected despot (Lord Marsk)
+            - Excludes House Calaudra (half-elf house, all others are human house)
+        - Talking to other houses
+            - Bruil had little info to offer
+            - Leiyraghon refuses to meet
+            - Calaudra says good luck and isn't worried
+            - Marsk has basic info, their kid has been training at the local temple and is friends with the Calaudra kid
+        - Guildmasters want nothing to do with this, will pay 500gp if we can secure proof that they are not involved
+        - Increased raiding by new orc tribes
+            - Ruins in swamp, 2 days ride to north, said to hold great riches
+            - Xûl-jarak, the grey citadel, many orc kings used to rule
+        - Thar is cold at this time of year (0-40 degrees at day, -10-20 during night)
+- We rent horses and head out
+    - Plume and Dayflower rent a horse, $4 for 10 days (at least $50 penalty if not returned)
+    - Foggy weather
+        - Accosted by a pair of dire wolves during the trip, we kill them
+    - Weather gets even worse, downpour
+        - We seek shelter and set up a concealed camp
+    - During first watch, a party of 4 orcs approaches from the distance
+        - We suit up and prep to ambush them
+
 ### Session 4 - 2026-04-25 (Fields of Green)
 - Naptime, we pile up on the bench of quick rest and get our spells back
     - We are now about 11hrs into the party's 24hrs of *delay disease*
@@ -165,6 +207,17 @@
 
 ### Session 1 - 2026-04-04 (Fields of Green)
 - **Quest: The Deadly Pyramid**
+- THE PARTY
+    - Jay: Charles Redhand, he/him, human
+        - Lots of gear and weapons, no notable armor; A pretty chill guy
+    - Chas: Alira, she/her, half-elf
+        - Some holy type with a sword and chain shirt; Move fast and break things, can't sit still
+    - Sean: Oreivati, he/him, oread
+        - Full armadillo knight with a fake beard below the helm; Almost beardaboo, wannabe dwarf and short like one
+    - Casey: Folly, she/her, the fetching fetchling
+        - Tiny scrawny ninja, exactly what you expect her to wear; Exactly how you expect her to act
+    - Caoimhe: Inre, she/her, armored knight on a big bird
+    - Talia: Ilsivel, she/her, half-elf tyr priestess
 - Anauroch region, city of Khem
     - Edge of the desert
 - Quest giver: Local westmarches guild head, Majet Glun

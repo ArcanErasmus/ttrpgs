@@ -64,7 +64,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 ## Conditional Modifiers/Resistances/Weaknesses
 - Racial Trait (Delicious): -2 Escape Artist & CMB to escape grapple vs bite w/grab
 - Trait (Shadow-Scarred): -1 to saves in dim light or darkness
-- Item (?): ?
+- Item (Wayfinder): +2 circumstance Survival to avoid getting lost, and Kn(dungeoneering) to navigate underground
 
 ## Skills
 | # | T | C | Skill              | Sta | Mod | Temp 
@@ -84,7 +84,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 |   |   | C | Heal               | Wis |     | -
 |   |   | C | Intimidate         | Cha |     | -
 |   | T | C | Kn (arcana)        | Int |     | -
-|   | T |   | Kn (dungeoneering) | Int |     | -
+|   | T |   | Kn (dungeoneering) | Int |     | +2^
 | 1 | T | C | Kn (engineering)   | Int |  +5 | -
 |   | T |   | Kn (geography)     | Int |     | -
 |   | T |   | Kn (history)       | Int |     | -
@@ -105,7 +105,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 |   | T |   | Sleight of Hand    | Dex |     | -3
 |   | T | C | Spellcraft         | Int |     | -
 |   |   |   | Stealth            | Dex |     | -3
-| 1 |   | C | Survival           | Wis |  +6 | -
+| 1 |   | C | Survival           | Wis |  +6 | +2^
 | 1 |   | C | Swim               | Str |  +8 | -3
 | 2 | T |   | Use Magic Device   | Cha |  +3 | -
 |---|---|---|--------------------|-----|-----|------
