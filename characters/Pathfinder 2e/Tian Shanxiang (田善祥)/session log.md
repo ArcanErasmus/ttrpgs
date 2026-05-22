@@ -1,5 +1,25 @@
 # Session log
-### Session 29?future - 2026-05-13
+### Session 30?future - 2026-05-27
+### Session 29 - 2026-05-20
+- Investigation 1: "What was that occult feeling?"
+- Investigation 2: "What happened to the nearby settlements?"
+- We make it to Matsuki's
+    - It's extra bustling and hard to get attention of ppl on gate
+    - Bring Mika to Elizeth and Wu Xiu, get Mika into a bed in the impromptu infirmary
+    - Kumiho explains the cursed doll, admits that she took it from Mika to try taking the bad luck on herself instead
+        - Shanxiang is almost overwhelmed by maternal pride
+    - Something happens, we feel a shiver pass over us
+        - Bulan feels the presence of Pharasma
+        - Shanxiang offers a prayer to Abadar
+- Matsuki calls me in to a meeting
+    - New person is present, a traveler, with a raven on their shouder
+        - The raven has a weird bone-mask face
+    - Shinzo
+        - Has history with Panax???
+        - Traveling merchant, who can acquire anything for us
+            - I buy full plate for myself and light barding for Péngpéng
+    - I donate about 8 sets of fighting gear to Matsuki
+
 ### Session 28 - 2026-05-06
 - The fight continues!
     - We cut down the Grey Butcher
