@@ -1,6 +1,16 @@
 # Session log
-### Session 30?future - 2026-05-27
-### Session 29 - 2026-05-20
+### Session 30?future - 2026-05-28
+### Session 30 - 2026-05-28
+- Matsuki has tasked us with checking on the nearby settlement Karahai
+- Jubei and Kim Gu-won show up
+    - They have had a falling out with Ban-niang
+- We head out to the east
+    - Taking the safer but longer road headed downstream along the Duyue River
+    - As we pass Gourd Lake, there is a fog bank blocking to the east
+    - Crossing the fog sends us exiting in random locations nearby
+    - The weather is turning and dusk is approaching, we decide to set up camp along Gourd Lake
+
+### Session 29 - 2026-05-21
 - Investigation 1: "What was that occult feeling?"
 - Investigation 2: "What happened to the nearby settlements?"
 - We make it to Matsuki's
@@ -20,7 +30,7 @@
             - I buy full plate for myself and light barding for Péngpéng
     - I donate about 8 sets of fighting gear to Matsuki
 
-### Session 28 - 2026-05-06
+### Session 28 - 2026-05-07
 - The fight continues!
     - We cut down the Grey Butcher
     - More silverware swarms approach
