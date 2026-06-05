@@ -1,5 +1,40 @@
 # Session log
-### Session 30?future - 2026-05-28
+### Session 32?future - 2026-06-11
+### Session 31 - 2026-06-04
+- We discuss looping around north, but Aspen reminds us that the Canary Inn was burned down when she passed through
+    - Xiuhua knows the gossip that the Canary Inn was ordered burned to the ground when bandits were holed up in it
+    - Still worth it, so we start heading north
+- Come upon a hunter's hut
+    - Looks overgrown but there's smoke coming from the chimney
+    - It's the eloping couple, Sanmi Yuli and Hu Lelong
+    - We convince them to head back and stay with at Matsuki estate
+    - Stay the night at the cabin
+- Head out in the morning
+    - Walk back to Willowshore with the couple in tow
+    + 20 XP, +1 Reputation with the south bank
+    - Told that Matsuki is out at the Lady of Souls meeting with Ban-niang
+- Guess we're heading over there now
+    - Matsuki and Ban-niang are discussing next steps for the town
+    - Ban-niang wants a militaristic approach, focused on securing the town
+    - Matsuki argues for a more survival approach, focused on agriculture and rationing
+    - Shanxiang argues for a third path, where we focus on diplomacy and building connections with cooperative spirits
+- Tasks
+    - Quest: the mystery of the vanishing of Governor Heh and his manor
+        - Ceased to exist on the day we headed out of town, replaced by barren land
+    - Quest: the strange mists surrounding the hinterlands
+    - Quest: the disapperance of Ugly-Cute
+        - Seemed to have walked into the river on the first day of this calamity
+    - Side Quests: talk to the remaining townsfolk and see what needs they have (unlock little things for the town)
+        1. Missing boats
+        2. Investigate the old expansion of Willowshore
+        3. Smith troubles
+        4. Fixing the ranch
+        5. Moving Desna's shrine
+        6. Collecting peachwood
+        7. The teahouse owner's will
+        8. The tea farm infestation (req. #7)
+XP: 494/1000
+
 ### Session 30 - 2026-05-28
 - Matsuki has tasked us with checking on the nearby settlement Karahai
 - Jubei and Kim Gu-won show up
