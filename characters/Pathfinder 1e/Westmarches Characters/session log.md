@@ -21,6 +21,17 @@
 <!-- - Mummy rot opals -->
 
 ## Weekly Log
+### Session 7 - 2026-06-20 (Dayflower Plight)
+- After finishing our rest we continue north
+- Two days in, we find a path off the road - the first we have seen so far
+    - Big rocky outcroppings along it, horrible rot-stinky lichen on them
+- We follow the tracks from the orc who fled, run into a ruined hamlet
+    - Corpses are mostly orcs, there are a couple big furry creatures poking at one of the two dead horses
+- We fight a pair of owlbears, utterly crush them
+    - After beating them, we find the corpse of Dorn Crownshield under an orc body
+- There are more humanoid tracks leading away, we follow them
+    - We find one butchered horse corpse, then another, along the tracks
+
 ### Session 6?future - 2026-05-16 (Dayflower Plight)
 - TODO: Ambush the orc party
 ### Session 5 - 2026-05-09 (Dayflower Plight)

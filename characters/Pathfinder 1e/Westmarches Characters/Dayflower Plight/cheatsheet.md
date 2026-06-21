@@ -11,11 +11,11 @@
 
 ## Combat Options
 - Blessings (DC 14 if relevant)
-    - **Daily**; 7/day: OOOOO OO
+    - **Daily**; 7/day: OOOOO Ox
     - `Healing`: Swift action, Empower (50% more numerical effects) cure spell as being cast
     - `Protection`: Standard action, +1 sacred to AC and saves for self 1 min
 - Sacred Weapon +1
-    - **Daily**; 4 rds/day: OOxx
+    - **Daily**; 4 rds/day: OOOO
     - Swift action enhance one wpn with *+1*
     - If already +1, can instead give *defending*, *flaming*, *frost*, *ghost touch*, *keen*, *shock*
     - First use locks in blessing configuration for rest of day
@@ -35,7 +35,7 @@
     - Extra attack with off-hand weapon whenever full-attack action
     - All attacks during this action at -2 (-4 if off-hand not light)
 
-## Spell-Like Abilities
+## Spell-Like Abilities (1/day each)
 - *Detect Poison*
 - *Goodberry*
 - *Purify Food and Drink*
