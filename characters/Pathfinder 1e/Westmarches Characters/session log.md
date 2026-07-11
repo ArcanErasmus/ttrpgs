@@ -21,6 +21,9 @@
 <!-- - Mummy rot opals -->
 
 ## Weekly Log
+### Session 8?future - 2026-06-27 (Dayflower Plight)
+- TODO: Continue tracking the party's trail
+
 ### Session 7 - 2026-06-20 (Dayflower Plight)
 - After finishing our rest we continue north
 - Two days in, we find a path off the road - the first we have seen so far
@@ -32,8 +35,10 @@
 - There are more humanoid tracks leading away, we follow them
     - We find one butchered horse corpse, then another, along the tracks
 
-### Session 6?future - 2026-05-16 (Dayflower Plight)
-- TODO: Ambush the orc party
+### Session 6 - 2026-05-23 (Dayflower Plight)
+- We ambush the orcs
+    - Smash them easily, one flees and we can track them
+
 ### Session 5 - 2026-05-09 (Dayflower Plight)
 - THE PARTY
     - Chas:
