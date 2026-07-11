@@ -1,5 +1,26 @@
 # Session log
-### Session 32?future - 2026-06-11
+### Session 32?future - 2026-07-09
+- TODO: SPIDERS BE UPON US
+
+### Session 32 - 2026-07-02
+- We are approached by Luo Xi Yang, the town's legal expert
+    - Discussing the matter of the tea house, the former owner, Qing Mai-Lai, left a challenge in the will for ownership of it
+    - Criteria, for first person or group who meets them, to claim the inheritance:
+        - Claim the two pearls that they have thrown into Fumeiyoshi's eyes
+- We take some time to put affairs in order in town
+    - Move the kids to Matsuki's
+    - Buy some swimming supplies
+    - Take a night at the Lin estate
+- In the morning, we head out through the western-side north road and quickly make it to the eastern sinkhole
+    - Ground is sooty, leading down to water hazy with dirt. Water seems to move in a counterclockwise rotation, despite lack of circular shape to the pond
+    - It takes a few hours of searching the bottom of the pool, but we fish out the first pearl (Miho finds it)
+- The second sinkhole is more ominous
+    - Ground is clay, miserably muddy
+    - All the water seems to move towards the center somehow
+    - There are threads here and there along the ground, looking like spidersilk, getting more thick towards the north side
+    - Shanxiang finds the pearl fairly quickly
+    - Upon exiting the pool, spiders emerge 
+
 ### Session 31 - 2026-06-04
 - We discuss looping around north, but Aspen reminds us that the Canary Inn was burned down when she passed through
     - Xiuhua knows the gossip that the Canary Inn was ordered burned to the ground when bandits were holed up in it
