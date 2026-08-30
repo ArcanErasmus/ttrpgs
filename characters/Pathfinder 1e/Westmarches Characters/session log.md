@@ -21,10 +21,41 @@
 <!-- - Mummy rot opals -->
 
 ## Weekly Log
-### Session 12?future - 2026-08-15 (Dayflower Plight)
-### Session 11?future - 2026-08-08 (Dayflower Plight)
+### Session 13?future - 2026-09-?? (Dayflower Plight)
+### Session 12 - 2026-08-29 (Dayflower Plight)
+- We continue down into the pit to follow after Ilira(?)
+    - Room at bottom has stairs headed up to the east
+    - Uneven floor with stalagtites/stalagmites
+    - Tunnels split north and south
+    - North leads all the way to the surface, so we turn back around and go all the way back
+    - Back in the room, there is a closed door and an open door
+    - Kicking open the big closed door
+- Big platform in the middle, dome painted in an eye
+    - Presence: 1 big blood-painted nude orc, 1 longbow orc, 1 staff orc, 4 other orcs
+    - 8 pillars, iron chains dangle from each
+    - Hundreds of niches containing piles of humanoid bone
+    - 2 tunnels in north wall
+    - Tattered curtain over south wall exit
+- Loot
+    - Orc leader had a *Hammer of Gruumsh*
+    - Periapt of wis +2
+    - mwk studded leather
+    - mwk composite shortbow str+2
+    - *bracers of archery lesser*
+    - 150gp
+    - ring of protection +1
+- Room to the south
+    - Leader's personal quarters
+    - Greatsword, suit of +2 full plate
+- Tunnel to the north #1
+    - Nobles tied up, we rescue them
+- We bring them all home
+    - $11500 divided by 7 members
+
+### Session 11 - 2026-08-08 (Dayflower Plight)
 - Scouting the basement reveals a room with 4 orc guards, a bunch of religious statues, and a pit in the center
 - We stomp down the stairs
+    - Fought 4 orc guards around the pit, they tried to push us into it
 
 ### Session 10 - 2026-08-01 (Dayflower Plight)
 - We kick in the door to the throne room, fight!

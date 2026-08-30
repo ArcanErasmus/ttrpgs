@@ -41,7 +41,7 @@ Stat Rolls:
 | Stat | Max     | Cur  | Temp      |
 |------|---------|------|-----------|
 | HP   |      59 |   59 | 0, 0 NL
-| Hero |       3 |    3 | 0
+| Hero |       5 |    5 | 0
 |------|---------|------|-----------|
 HP rolls (d8): [8], 1+7, 7+1, 5+3, 7
 AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
@@ -55,11 +55,15 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - Senses: Low-light vision
 
 ## Temporary Modifiers
+- Resistance: +1 resistance saves, 10 rds: 9
+<!-- - Guidance: +1 competence any one atk/save/skill, 10 rds: 0 -->
+- Bless: +1 morale atk & save vs fear, 50 rds: 49
+- Paladin Aura: +4 morale save vs fear: be within 10ft of Paladin
 <!-- - Blessing of Protection: +1 sacred AC & saves, 10 rds: 0 -->
 <!-- - Shield of Faith: +2 deflection AC & resistance saves, 50 rds: 0 -->
 <!-- - Bull's Strength: +4 Str (+2 atk/dmg), 120 rds: 0 -->
-<!-- - Ironbeard: +1 armor (stacks) to AC, 50 rds: 0 -->
-<!-- - Ironskin: +1 enhancement to natural armor (AC), 50 rds: 0 -->
+<!-- - Ironbeard: +1 armor (stacks) to AC, 60 rds: 0 -->
+<!-- - Ironskin: +1 enhancement to natural armor (AC), 60 rds: 0 -->
 
 ## Saves
 | Name | Stat | Tot | Temp |

@@ -17,7 +17,7 @@
     - `Healing`: Swift action, Empower (50% more numerical effects) cure spell as being cast
     - `Protection`: Standard action, +1 sacred to AC and saves for self 1 min
 - Sacred Weapon +1
-    - **Daily**; 4 rds/day: OOOxx
+    - **Daily**; 4 rds/day: Oxxxx
     - Swift action enhance one wpn with *+1*
     - If already +1, can instead give *defending*, *flaming*, *frost*, *ghost touch*, *keen*, *shock*
     - First use locks in blessing configuration for rest of day: ***flaming***
@@ -57,11 +57,11 @@
 - *Bless*
 <!-- - *Protection from Evil* -->
 <!-- - *Shield of Faith* -->
-<!-- - *Ironbeard* -->
+<!-- - *Ironbeard* (+1 CL) -->
 <!-- - *Know the Enemy* -->
 - *Desperate Weapon*
 
 ### **2nd**: Prepare 2+1; *Cure Moderate Wounds*
 <!-- - *Bull's Strength* (1/day double duration when cast) (+1 CL) -->
 <!-- - *Effortless Armor* -->
-- *Ironskin*
+- *Ironskin* (+1 CL)
