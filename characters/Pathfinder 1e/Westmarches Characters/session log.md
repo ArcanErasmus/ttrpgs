@@ -21,8 +21,44 @@
 <!-- - Mummy rot opals -->
 
 ## Weekly Log
-### Session 8?future - 2026-06-27 (Dayflower Plight)
-- TODO: Continue tracking the party's trail
+### Session 12?future - 2026-08-15 (Dayflower Plight)
+### Session 11?future - 2026-08-08 (Dayflower Plight)
+- Scouting the basement reveals a room with 4 orc guards, a bunch of religious statues, and a pit in the center
+- We stomp down the stairs
+
+### Session 10 - 2026-08-01 (Dayflower Plight)
+- We kick in the door to the throne room, fight!
+    - Holy shit so many orcs what the fuck
+    - That fight was VERY hard
+    - The archers are still alive
+**Level up to 5**
+
+### Session 9 - 2026-07-25 (Dayflower Plight)
+- Dayflower executes the sleeping wyvern
+- Pomona shifts into a large cat and sneaks into the rest of the fort
+    - Passing by a large group of orcs relaxing, she heads up the stairs
+    - She looks around for prisoners or their belongings, or ways to be a nuisance to the orcs
+    - Two towers to the south, one is closed, other has a barbican, so no stealth entry there
+    - Pomona heads around to the north side, and down to the main level (room 14)
+- Pomona sniffs around for non-orc smells, it splits into two trails, one headed northeast (15), one headed west (16)
+    - From the large dining room (15), the smell terminates in a suspicious wall
+    - Secret door opens into a dark room, Pomona tries bumbling around it and gets scruffed and removed from the room
+- Headed over to (13), Pomona bothers at the door, gets no luck, and tries (12), which opens
+    - Inside are a pair of armed and armored humans, who seem to be on good terms with the orcs
+    - Scruffed and tossed out, again, doors down the rest of the hall are all closed
+- Pomona returns and describes her journey
+    - Turns out the humans are bearing symbols of Bane, and Zentarim (a Bane-worshipping mercenary city-state)
+
+### Session 9 - 2026-07-18 (Dayflower Plight)(Was not present)
+- Ruined fortress keep on an outcropping of rock
+    - Group decides to circle around rather than bang on the front door
+    - There is a crumbled section, and it is heavily foggy outside, so the group snuck in the collapsed portion
+- There is a sleeping riding wyvern in the courtyard
+
+### Session 8 - 2026-07-11 (Dayflower Plight)
+- Continue tracking the party's trail
+    - Eventually, we run into a camp of orcs
+    - About a dozen, mostly armed with javelins or sword and board
 
 ### Session 7 - 2026-06-20 (Dayflower Plight)
 - After finishing our rest we continue north

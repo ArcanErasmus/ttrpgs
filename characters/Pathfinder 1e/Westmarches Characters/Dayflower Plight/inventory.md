@@ -33,8 +33,8 @@
 |--------------------------------------|        |--------------------------------
 | **Alchemical Reagents**              |        | Effects when used as spell component
 |--------------------------------------|        |--------------------------------
-| Gold (10x1 dose)                     |        | conjuration(healing); +1 hp healed
-| Magnesium (5x2 doses)                |        | transmutation; +1 CL for duration
+| Gold (6x1 dose)                      |        | conjuration(healing); +1 hp healed
+| Magnesium (4x2 doses)                |        | transmutation; +1 CL for duration
 | Quicksilver (5x3 doses)              |        | [mind-affection]; +1 CL for duration
 |--------------------------------------|        |--------------------------------
 | **Misc/Loot**                        |        |
