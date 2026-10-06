@@ -21,8 +21,75 @@
 <!-- - Mummy rot opals -->
 
 ## Weekly Log
-### Session 8?future - 2026-06-27 (Dayflower Plight)
-- TODO: Continue tracking the party's trail
+### Session 13?future - 2026-09-?? (Dayflower Plight)
+### Session 12 - 2026-08-29 (Dayflower Plight)
+- We continue down into the pit to follow after Ilira(?)
+    - Room at bottom has stairs headed up to the east
+    - Uneven floor with stalagtites/stalagmites
+    - Tunnels split north and south
+    - North leads all the way to the surface, so we turn back around and go all the way back
+    - Back in the room, there is a closed door and an open door
+    - Kicking open the big closed door
+- Big platform in the middle, dome painted in an eye
+    - Presence: 1 big blood-painted nude orc, 1 longbow orc, 1 staff orc, 4 other orcs
+    - 8 pillars, iron chains dangle from each
+    - Hundreds of niches containing piles of humanoid bone
+    - 2 tunnels in north wall
+    - Tattered curtain over south wall exit
+- Loot
+    - Orc leader had a *Hammer of Gruumsh*
+    - Periapt of wis +2
+    - mwk studded leather
+    - mwk composite shortbow str+2
+    - *bracers of archery lesser*
+    - 150gp
+    - ring of protection +1
+- Room to the south
+    - Leader's personal quarters
+    - Greatsword, suit of +2 full plate
+- Tunnel to the north #1
+    - Nobles tied up, we rescue them
+- We bring them all home
+    - $11500 divided by 7 members
+
+### Session 11 - 2026-08-08 (Dayflower Plight)
+- Scouting the basement reveals a room with 4 orc guards, a bunch of religious statues, and a pit in the center
+- We stomp down the stairs
+    - Fought 4 orc guards around the pit, they tried to push us into it
+
+### Session 10 - 2026-08-01 (Dayflower Plight)
+- We kick in the door to the throne room, fight!
+    - Holy shit so many orcs what the fuck
+    - That fight was VERY hard
+    - The archers are still alive
+**Level up to 5**
+
+### Session 9 - 2026-07-25 (Dayflower Plight)
+- Dayflower executes the sleeping wyvern
+- Pomona shifts into a large cat and sneaks into the rest of the fort
+    - Passing by a large group of orcs relaxing, she heads up the stairs
+    - She looks around for prisoners or their belongings, or ways to be a nuisance to the orcs
+    - Two towers to the south, one is closed, other has a barbican, so no stealth entry there
+    - Pomona heads around to the north side, and down to the main level (room 14)
+- Pomona sniffs around for non-orc smells, it splits into two trails, one headed northeast (15), one headed west (16)
+    - From the large dining room (15), the smell terminates in a suspicious wall
+    - Secret door opens into a dark room, Pomona tries bumbling around it and gets scruffed and removed from the room
+- Headed over to (13), Pomona bothers at the door, gets no luck, and tries (12), which opens
+    - Inside are a pair of armed and armored humans, who seem to be on good terms with the orcs
+    - Scruffed and tossed out, again, doors down the rest of the hall are all closed
+- Pomona returns and describes her journey
+    - Turns out the humans are bearing symbols of Bane, and Zentarim (a Bane-worshipping mercenary city-state)
+
+### Session 9 - 2026-07-18 (Dayflower Plight)(Was not present)
+- Ruined fortress keep on an outcropping of rock
+    - Group decides to circle around rather than bang on the front door
+    - There is a crumbled section, and it is heavily foggy outside, so the group snuck in the collapsed portion
+- There is a sleeping riding wyvern in the courtyard
+
+### Session 8 - 2026-07-11 (Dayflower Plight)
+- Continue tracking the party's trail
+    - Eventually, we run into a camp of orcs
+    - About a dozen, mostly armed with javelins or sword and board
 
 ### Session 7 - 2026-06-20 (Dayflower Plight)
 - After finishing our rest we continue north

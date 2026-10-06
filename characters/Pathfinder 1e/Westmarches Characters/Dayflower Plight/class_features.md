@@ -60,16 +60,25 @@
 - Undead can Will save (Wis-based) for half dmg
 
 # Future Class Features
-## Warpriest lvl 5
-+0 BAB/Saves
-2+Int skill ranks (+1 for favored class bonus)
+## Warpriest lvl 6
++1 BAB/All Saves
+2+Int skill ranks
++1d8+Con HP (+1 for favored class bonus)
 
 ### Spellcasting
-- +1/day 1st lvl
+- +1/day 0th lvl
 - +1/day 2nd lvl
 
-### Fervor
-- +1d6
+### Bonus Feat
+- +1 combat feat
+
+### Blesings
+- +1/day
+- +1 DC
 
 ### Sacred Weapon
-- 1d8 base damage
+- +1 rd/day
+
+### Fervor
+- +1/day
+- +1 DC for channel

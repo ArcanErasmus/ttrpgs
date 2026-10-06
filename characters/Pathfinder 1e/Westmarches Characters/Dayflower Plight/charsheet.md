@@ -1,5 +1,5 @@
 # Dayflower Plight, She/Her
-## LG, Ghoran, Warpriest 4
+## LG, Ghoran, Warpriest 5
 - Deity: Lathander, Brotherhood of the Glorious Sun
     - https://forgottenrealms.fandom.com/wiki/Lathander
     - https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_Glorious_Sun
@@ -31,7 +31,7 @@ Stat Rolls:
 ## Secondary Stats
 | Stat | Value          | Temp      |
 |------|----------------|-----------|
-| AC   | 22 (13 T/19 F) | 23
+| AC   | 22 (13 T/19 F) | -
 | BAB  | +3             | -
 | CMB  | +7             | -2^
 | CMD  | 20             | -
@@ -40,10 +40,10 @@ Stat Rolls:
 |------|---------|------|-----------|
 | Stat | Max     | Cur  | Temp      |
 |------|---------|------|-----------|
-| HP   |      44 |   44 | 0, 0 NL
-| Hero |       3 |    3 | 0
+| HP   |      59 |   59 | 0, 0 NL
+| Hero |       5 |    5 | 0
 |------|---------|------|-----------|
-HP rolls (d8): [8], 1+7, 7+1, 5+3
+HP rolls (d8): [8], 1+7, 7+1, 5+3, 7
 AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 
 ## Resistances/Immunities/Senses
@@ -53,6 +53,17 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - Weaknesses: None
 - DR: None
 - Senses: Low-light vision
+
+## Temporary Modifiers
+- Resistance: +1 resistance saves, 10 rds: 9
+<!-- - Guidance: +1 competence any one atk/save/skill, 10 rds: 0 -->
+- Bless: +1 morale atk & save vs fear, 50 rds: 49
+- Paladin Aura: +4 morale save vs fear: be within 10ft of Paladin
+<!-- - Blessing of Protection: +1 sacred AC & saves, 10 rds: 0 -->
+<!-- - Shield of Faith: +2 deflection AC & resistance saves, 50 rds: 0 -->
+<!-- - Bull's Strength: +4 Str (+2 atk/dmg), 120 rds: 0 -->
+<!-- - Ironbeard: +1 armor (stacks) to AC, 60 rds: 0 -->
+<!-- - Ironskin: +1 enhancement to natural armor (AC), 60 rds: 0 -->
 
 ## Saves
 | Name | Stat | Tot | Temp |
@@ -72,7 +83,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 | 1 |   | C | Acrobatics         | Dex |  +8 | -
 |   |   |   | Appraise           | Int |     | -
 |   |   |   | Bluff              | Cha |     | -
-| 4 |   | C | Climb              | Str | +11 | -
+| 3 |   | C | Climb              | Str | +10 | -
 |   |   | C | Craft              | Int |     | -
 |   |   |   |   ?                | Int |     | -
 | 1 |   | C | Diplomacy          | Cha |  +5 | -
@@ -101,18 +112,17 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 |   | T | C | Profession         | Wis |     | -
 |   | T |   |   ?                | Wis |     | -
 |   |   | C | Ride               | Dex |     | -3
-| 4 |   | C | Sense Motive       | Wis |  +9 | -
+| 1 |   | C | Sense Motive       | Wis |  +6 | -
 |   | T |   | Sleight of Hand    | Dex |     | -3
 |   | T | C | Spellcraft         | Int |     | -
 |   |   |   | Stealth            | Dex |     | -3
 | 1 |   | C | Survival           | Wis |  +6 | +2^
 | 1 |   | C | Swim               | Str |  +8 | -3
-| 2 | T |   | Use Magic Device   | Cha |  +3 | -
+| 5 | T |   | Use Magic Device   | Cha |  +6 | -
 |---|---|---|--------------------|-----|-----|------
 
-- Skill ranks: 16/16
-    - 4x(2+1) class
-    - 4 favored class
+- Skill ranks: 15/15
+    - 5x(2+1) class
 - Encumbrance: -3 ACP (0 for Acrobatics/Climb), +3 max Dex, x4 run, 0% ASFC, reduced speed
 
 ## Languages, Proficiencies
@@ -121,7 +131,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - Armor: Light, Medium, Heavy, Shields
 
 ## Favored class bonus
-- +4 Skill ranks
+- +5 HP
 
 ## Racial Features
 ### Base Properties https://www.d20pfsrd.com/races/other-races/more-races/advanced-races-11-20-rp/ghoran-19-rp
@@ -186,3 +196,7 @@ AC breakdown: +3 Dex, +2 Natural Armor, +7 Armor
 - Can take -2 on attacks with an improvised wpn to give it a quality until start of turn
 - Qualities: blocking, brace, disarm, distracting, nonlethal, performance, trip
     - If wpn has fragile quality or broken condition, can give jagged quality
+
+### Shikigami Manipulation [lvl 5]
+- Treat magical items that are being used as improvised wpns as if they have an enhancement bonus
+    - Bonus is CL/4 (min +1, max +5)
