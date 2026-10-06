@@ -1,7 +1,7 @@
 # Antidoranilde "Nini" Martine Rumster, She/Her
 ## Halfling (Rumster), Middenballer (Burgher), Athlete - Brass 3
 - 3'6", 80lbs, 27, raven hair, pale blue eyes
-    - Distinguishing Marks: ?
+    - Distinguishing Marks: Broken Nose, Sliced Ear
 - Nationality: Imperial
 - Birthplace: Middenheim, Middenland, Empire
 - Religion: Halfling Pantheon
@@ -10,15 +10,16 @@
 
 - Personal short-term ambition: `Ingratiate with the local team in Altdorf`
 - Personal long-term ambition: `Make it to the big leagues`
-- Party short-term ambition: `?`
-- Party long-term ambition: `?`
+- Party short-term ambition: `Get to Altdorf`
+- Party long-term ambition: `Get filthy stinking rich`
 
-## Spent/Total XP: 200/255
+## Spent/Total XP: 345/345
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-<!-- Attrs -->
+|   75 |   0 |   3 | Ag
 |------|-----|-----|------
-<!-- Skills -->
+|   20 |   3 |   5 | Endurance
+|   50 |   0 |   5 | Gossip
 |------|-----|-----|------
 |  100 |   0 |   1 | Lightning Reflexes
 |  100 |   0 |   1 | Sprinter
@@ -33,7 +34,7 @@
 | S   | 24 |    |    | +5 | 29 |
 |^T   | 37 |    |  3 |    | 40 |
 |^I   | 38 |    |  2 |    | 40 |
-|^Ag  | 39 | +5 |    |    | 44 |
+|^Ag  | 39 | +5 |  3 |    | 47 |
 | Dex | 39 |    |    | -5 | 34 |
 | Int | 37 |    |    |    | 37 |
 | WP  | 44 | +5 |    | -3 | 46 |
@@ -51,18 +52,18 @@
 ## Skills
 | C | Basic                 | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-|!C | *Athletics*           | 10 | Ag  | 54 |
+|!C | *Athletics*           | 10 | Ag  | 57 |
 |   | Bribery               |    | Fel |    |
 |   | Charm                 |    | Fel |    |
 |   | Charm Animal          |    | WP  |    |
 | C | Climb                 |    | S   |    |
 |   | Consume Alcohol       |    | T   |    |
 |!C | Cool                  |  5 | WP  | 51 |
-|!C | Dodge                 | 10 | Ag  | 54 |
+|!C | Dodge                 | 10 | Ag  | 57 |
 |   | Drive                 |    | Ag  |    |
-| C | Endurance             |  3 | T   | 43 |
+|!C | Endurance             |  5 | T   | 45 |
 |   | Gamble                |    | Int |    |
-| C | Gossip                |    | Fel |    |
+|!C | Gossip                |  5 | Fel | 51 |
 |   | Haggle                |    | Fel |    |
 |   | Intimidate            |    | S   |    |
 |   | Intuition             |    | I   |    |
@@ -79,14 +80,16 @@
 |   | Lang (Mootish)        |  3 | Int |    |
 |   | Lore (Reikland)       |  3 | Int |    |
 |!C | SecSigns (Middenball) |  5 | Int | 42 |
-|   | Sleight of Hand       |  5 | Dex |    |
-|   | Stealth (Urban)       |  5 | Ag  |    |
+|   | Sleight of Hand       |  5 | Dex | 39 |
+|   | Stealth (?)           |    | Ag  |    |
+|   | Stealth (Urban)       |  5 | Ag  | 51 |
 |!C | Trade (Cook)          | 10 | Dex | 44 |
 | C | Swim                  |    | S   |    |
 |---|-----------------------|----|-----|----|------
 | C | Weapon Specs          | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
 | C | Melee (Brawling)      |    | WS  |    |
+|   | Ranged (Throwing)     |    | BS  |    |
 ## Injuries
 
 ## Traits
@@ -154,7 +157,7 @@
 ### Middenballer - Silver 1
 - Attr: BS
 - Skills: Consume Alcohol, Gamble, Heal, Lore (Middenball), Perform (Drills), Ranged (Throwing)
-- Talents: Drilled, Resolute, Step Aside, Strong Back
+- Talents: Drilled, Distract (homebrew substitute for Resolute), Step Aside, Strong Back
 - Trappings: Boiled Leather Breastplate, Mail Coif, Team Uniform
 
 ### Team Captain - Silver 3
@@ -171,12 +174,10 @@
 
 ## Exp Planning
 ### Middenballer (Current Career)
-#### Rank 1->2, Minimum: 320
-- Attributes: 250
+#### Rank 1->2, Minimum: 175
+- Attributes: 175
     - T                  |  3-> 5 |  50
     - I                  |  2-> 5 |  75
-    - Ag                 |   -> 5 | 125
-- Skills: 80
-    - Endurance          |  3-> 5 |  20
-    - Gossip             |   -> 5 |  50
+    - Ag                 |  3-> 5 |  50
+- Skills: 0
 - Talents: 0
