@@ -8,18 +8,19 @@
 - Star Sign: The Broken Cart, born `23/09/2484`
 - Motivation: `Do the impossible and prove yourself bigger than them all`
 
-- Personal short-term ambition: `Ingratiate with the local team in Altdorf`
+- Personal short-term ambition: `Ingratiate with an organized Middenball team`
 - Personal long-term ambition: `Make it to the big leagues`
-- Party short-term ambition: `Get to Altdorf`
+- Party short-term ambition: `Convince the Lawyers we have Kastelle`
 - Party long-term ambition: `Get filthy stinking rich`
 
-## Spent/Total XP: 345/345
+## Spent/Total XP: 395/420
 | Cost | Bef | Aft | Name
 |------|-----|-----|------
-|   75 |   0 |   3 | Ag
+|  125 |   0 |   5 | Ag
 |------|-----|-----|------
 |   20 |   3 |   5 | Endurance
 |   50 |   0 |   5 | Gossip
+|   10 |   0 |   1 | Swim
 |------|-----|-----|------
 |  100 |   0 |   1 | Lightning Reflexes
 |  100 |   0 |   1 | Sprinter
@@ -34,7 +35,7 @@
 | S   | 24 |    |    | +5 | 29 |
 |^T   | 37 |    |  3 |    | 40 |
 |^I   | 38 |    |  2 |    | 40 |
-|^Ag  | 39 | +5 |  3 |    | 47 |
+|!Ag  | 39 | +5 |  5 |    | 49 |
 | Dex | 39 |    |    | -5 | 34 |
 | Int | 37 |    |    |    | 37 |
 | WP  | 44 | +5 |    | -3 | 46 |
@@ -52,14 +53,14 @@
 ## Skills
 | C | Basic                 | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
-|!C | *Athletics*           | 10 | Ag  | 57 |
+|!C | *Athletics*           | 10 | Ag  | 59 |
 |   | Bribery               |    | Fel |    |
 |   | Charm                 |    | Fel |    |
 |   | Charm Animal          |    | WP  |    |
 | C | Climb                 |    | S   |    |
 |   | Consume Alcohol       |    | T   |    |
 |!C | Cool                  |  5 | WP  | 51 |
-|!C | Dodge                 | 10 | Ag  | 57 |
+|!C | Dodge                 | 10 | Ag  | 59 |
 |   | Drive                 |    | Ag  |    |
 |!C | Endurance             |  5 | T   | 45 |
 |   | Gamble                |    | Int |    |
@@ -82,9 +83,9 @@
 |!C | SecSigns (Middenball) |  5 | Int | 42 |
 |   | Sleight of Hand       |  5 | Dex | 39 |
 |   | Stealth (?)           |    | Ag  |    |
-|   | Stealth (Urban)       |  5 | Ag  | 51 |
+|   | Stealth (Urban)       |  5 | Ag  | 54 |
 |!C | Trade (Cook)          | 10 | Dex | 44 |
-| C | Swim                  |    | S   |    |
+| C | Swim                  |  1 | S   | 30 |
 |---|-----------------------|----|-----|----|------
 | C | Weapon Specs          | Ad | Att | Tt | Temp
 |---|-----------------------|----|-----|----|------
@@ -174,10 +175,9 @@
 
 ## Exp Planning
 ### Middenballer (Current Career)
-#### Rank 1->2, Minimum: 175
-- Attributes: 175
+#### Rank 1->2, Minimum: 125
+- Attributes: 125
     - T                  |  3-> 5 |  50
     - I                  |  2-> 5 |  75
-    - Ag                 |  3-> 5 |  50
 - Skills: 0
 - Talents: 0
