@@ -1,4 +1,4 @@
-Name, Pronouns
+Anita "Nitty" Chantrelle, Pronouns
 
 Aasimar - Outsider
 
