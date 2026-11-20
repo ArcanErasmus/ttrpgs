@@ -1,18 +1,18 @@
-Anita "Nitty" Chantrelle, Pronouns
-
+Anita "Nitty" Chantrelle, she/her
 Aasimar - Outsider
-
 Druid
-
-Height, weight, age, description
+6'4", 98lbs, 33 I think, weedy elf-looking girl with sea-green hair
 
 Languages
+- Alzhedo
 - Common
 - Celestial
 - Druidic
-(+Smarts/2)
+- Elven
+- Sylvan
+- Tashalan
 
-Hero Points
+Hero Points - 5/5
 
 | d# | ++ | Attribute | Statistics
 |----|----|-----------|---|--------
@@ -69,19 +69,27 @@ Edges and Advances
 - Luck
 - Great Luck
 
-Powers
+Powers (7/10pp)
 - minor Light as innate 1/day
-- power from cleric's/ under nature domain
-- power from cleric's/ under nature domain
-- power from cleric's/ under nature domain
-- 10 pp
+- Healing
+- Entangle
+- Smite
 
 Complex Cantrips
 - Feather Fall
-- Minor Bolt
+- Minor Bolt (rotting spores)
 
 Weapons
+- Spear
+- Crossbow, Light
 
-Gear
+Gear ($150.8)
+- Jacket
+- Light Leggings
+- Light Cap
+- Oil (1 pint) x2
+- Adventurer's Kit
+- Bolts x10
+- Mirror, small steel
 
 Lore
